@@ -40,8 +40,15 @@ def mean_absolute_error_nans(y_true, y_pred):
 
     return (error)
 
+SPACE = dict(activation="relu",
+             width=120,
+             dropout_p=None,
+             neigh_wts="single",
+             n_conv_layers=2,
+             lr=0.0025,
+             decay=0.00005)
 
-def build_model(n_features_per_atom, n_ys_per_atom, space, n_gpus=None):
+def build_model(n_features_per_atom, n_ys_per_atom, space=SPACE, n_gpus=None):
     A = X = Input(name="X", shape=(None, n_features_per_atom))  # variable number of atoms
     D = Input(name="D", shape=(None, None))     # variable atom connectivity matrix
 
@@ -57,7 +64,7 @@ def build_model(n_features_per_atom, n_ys_per_atom, space, n_gpus=None):
 
     neigh_wts = space["neigh_wts"]
     for _ in range(space["n_conv_layers"]):
-        A = GraphConv(width, name="conv_%d" % layer_i, activation=activation, neigh_wts=neigh_wts)([A, D])
+        A = GraphConv(width, name="conv_%d" % layer_i, activation=activation, conv_wts=neigh_wts)([A, D])
         A = A if dropout_p is None else SpatialDropout1D(dropout_p, name="dropout_%d" % layer_i)(A)
         layer_i += 1
 
@@ -71,10 +78,12 @@ def build_model(n_features_per_atom, n_ys_per_atom, space, n_gpus=None):
 
     output = Activation(activation="linear", name="output")(A)
 
-    with tf.device("/cpu:0"):
-        model = Model(inputs=[X, D], outputs=[output])
-    if n_gpus:
-        model = multi_gpu_model(model, gpus=n_gpus)
+    model = Model(inputs=[X, D], outputs=[output])
+    
+#     with tf.device("/cpu:0"):
+#         model = Model(inputs=[X, D], outputs=[output])
+#     if n_gpus:
+#         model = multi_gpu_model(model, gpus=n_gpus)
     model.compile(optimizer=Adam(lr=space["lr"], decay=space["decay"]), loss=mean_absolute_error_nans)
 
     return model

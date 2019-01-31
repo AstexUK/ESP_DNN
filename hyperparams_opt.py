@@ -30,13 +30,16 @@ from ray.tune.util import get_pinned_object, pin_in_object_store
 import glob
 from ray.tune.suggest.basic_variant import BasicVariantGenerator
 import copy
+from shutil import rmtree
+import errno
 
 
 MODEL_OUPTPUT_DIR = "/scratch/golduser/esp_fitting/ai"
-EMOLECULES_DS_FILE = "/home/golduser/bin/scripts/development/esp_fit_ai/out/emolecules.nc"
-CHEMBL_DS_FILE = "/home/golduser/bin/scripts/development/esp_fit_ai/out/chembl.nc"
+EMOLECULES_DS_FILE = "/home/golduser/bin/scripts/development/esp_fit_ai/input/emolecules.nc"
+CHEMBL_DS_FILE = "/home/golduser/bin/scripts/development/esp_fit_ai/input/chembl.nc"
 
 global INPUT_DATA
+
 
 def mkdir_p(path, clean=False):
     if os.path.exists(path) and clean:
@@ -85,12 +88,12 @@ EMOLECULES_SPACE = {
     "lr": tune.grid_search([0.005, 0.0025, 0.01]),
     "decay": tune.grid_search([0.00001, 0.000025, 0.00005]),
     "width": tune.grid_search([100, 120, 160]),
-    "dropout_p": tune.grid_search([None, 0.1, 0.25]),
-    "activation": tune.grid_search(["relu", "sigmoid"]),
+    "dropout_p": tune.grid_search([None, 0.1]),
+    "activation": tune.grid_search(["relu"]),
     "n_conv_layers": tune.grid_search([4, 5, 6]),
     "neigh_wts": tune.grid_search(["single", "all"]),
     "batch_size": tune.grid_search([128]),
-    "epochs": tune.grid_search([1000])
+    "epochs": tune.grid_search([100])
 }
 
 
@@ -103,17 +106,17 @@ CHEMBL_SPACE = {
     "n_conv_layers": tune.grid_search([4, 5, 6]),
     "neigh_wts": tune.grid_search(["single", "all"]),
     "batch_size": tune.grid_search([128]),
-    "epochs": tune.grid_search([1000])
+    "epochs": tune.grid_search([1])
 }
 
 
-def opt_hps_ray(ds_file, output_dir, space=EMOLECULES_SPACE, max_evals=100, test_ds_file=None):
+def opt_hps_ray(ds_file, output_dir, space=EMOLECULES_SPACE, test_ds_file=None):
+    ray.init(num_gpus=4)
     space = copy.deepcopy(space)
     mkdir_p(os.path.join(output_dir, "summary"))
     mkdir_p(os.path.join(output_dir, "ray_results"))
     mkdir_p(os.path.join(output_dir, "models"))
     space["output_dir"] = tune.grid_search([output_dir])
-    ray.init()
     global INPUT_DATA
     INPUT_DATA = pin_in_object_store(read_ds(ds_file, os.path.join(output_dir, "summary"), test_ds_file=test_ds_file))
     register_trainable("exp", fit_model)
@@ -133,7 +136,7 @@ def fit_model(space, reporter, input_data=None):
 
     # multi gpu model has an issue in saving. I have not seen a massing improvemnet in speed. perhaps the network is small and data transfer
     # between cpus and gpus outweighs the gain in speed by parallelizing
-    model = model_factory.build_model(input_data["train"]["X"].shape[-1], input_data["train"]["Y"].shape[-1], space, n_gpus=None)
+    model = model_factory.build_model(input_data["train"]["X"].shape[-1], input_data["train"]["Y"].shape[-1], space=space, n_gpus=None)
 
     log_dir = os.path.join(space["output_dir"], "models", str(datetime.datetime.now()).replace(" ", "_"))
     mkdir_p(log_dir)
@@ -175,7 +178,7 @@ def trials_to_csv(trials, csv_file=None):
             f.write(", ".join(keys) + ", loss\n")
         for k in keys:
             if k == "dropout":
-                f.write(""" + str(t["space"][k]) + "",")
+                f.write('"' + str(t["space"][k]) + '",')
             else:
                 f.write(str(t["space"][k]) + ",")
         f.write(str(t["loss"]) + "\n")
@@ -189,10 +192,10 @@ def analyze_ray_runs(dirname, outfile=None):
         if not i:
             keys = sorted(results["space"].keys())
             writer.write(", ".join(["work_dir"] + keys) + ", loss\n")
-        writer.write(""%s"," % results["work_dir"])
+        writer.write('"%s",' % results["work_dir"])
         for k in keys:
             if k == "dropout":
-                writer.write(""" + str(results["space"][k]) + "",")
+                writer.write('"' + str(results["space"][k]) + '",')
             else:
                 writer.write(str(results["space"][k]) + ",")
         writer.write(str(results["loss"]) + "\n")
@@ -204,11 +207,13 @@ def analyze_ray_runs(dirname, outfile=None):
 if __name__ == "__main__":
     # emolecules only
     # debug only
+    # Python tf_test env
+    # use cuda_v8.0
     #os.environ["TRIALRUNNER_WALLTIME_LIMIT"] = "60"
-    # opt_hps_ray(EMOLECULES_DS_FILE, os.path.join(MODEL_OUPTPUT_DIR, "10_12_2018"), max_evals=2)
-    # chembl as test
-    opt_hps_ray(EMOLECULES_DS_FILE,
-                os.path.join(MODEL_OUPTPUT_DIR, "10_12_2018_chembl"),
-                space=CHEMBL_SPACE,
-                test_ds_file=CHEMBL_DS_FILE,
-                max_evals=12)
+    if sys.argv[1] == "emolecules":
+        opt_hps_ray(EMOLECULES_DS_FILE, os.path.join(MODEL_OUPTPUT_DIR, sys.argv[2]))
+    elif sys.argv[1] == "chembl":
+        opt_hps_ray(EMOLECULES_DS_FILE,
+                    os.path.join(MODEL_OUPTPUT_DIR, sys.argv[2]),
+                    space=CHEMBL_SPACE,
+                    test_ds_file=CHEMBL_DS_FILE)
