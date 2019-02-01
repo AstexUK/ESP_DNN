@@ -77,7 +77,7 @@ class MolNeutralizer(object):
 class MolChargePredictor(object):
     def __init__(self, model_file=join(SCRIPT_PATH, "model", "trained_model.h5"),
                  features_file=join(SCRIPT_PATH, "model", "feature_list.dat"),
-                 norm_params_file=join(SCRIPT_PATH, "model_path", "norm_params.pkl")):
+                 norm_params_file=join(SCRIPT_PATH, "model", "norm_params.pkl")):
         self.model = custom_load_model(model_file)
         self.featurizer = Featurize(features_file=features_file, pad_value=0.0)
         self.skip_norm_mask = np.array([v.startswith("is_") for v in self.featurizer.features])
@@ -123,10 +123,10 @@ class MolChargePredictor(object):
                 for aid in aids:
                     mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().SetOccupancy(final_charge)
 
-    def predict(self, filepath):
+    def predict_on_pdb_block(self, pdb_block):
         try:
-            input_mol_with_Hs = self.read_molecule_file(filepath, removeHs=False)
-            input_mol = neutral_mol = self.read_molecule_file(filepath)
+            input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False)
+            input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True)
             atom_mappings = dict(zip(range(input_mol.GetNumAtoms()), range(input_mol.GetNumAtoms())))
 
             if sum([a.GetFormalCharge() for a in input_mol.GetAtoms()]) != 0.:
@@ -156,3 +156,8 @@ class MolChargePredictor(object):
         except:
             tb = traceback.format_exc()
             raise AIChargeError("Unhandled error occrued. Here is traceback:\n %s" % tb)
+
+    def predict_on_pdb_file(self, pdb_file):
+        with open(pdb_file) as f:
+            return self.predict_on_pdb_block(f.read())
+ 
