@@ -9,9 +9,8 @@ import argparse
 from optparse import OptionParser
 from argparse import ArgumentParser
 from os import path
-logging.basicConfig()
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
-
+log = logging.getLogger(__name__)
 
 class Featurize(object):
     def __init__(self, smiles_file=None,
@@ -65,7 +64,7 @@ class Featurize(object):
             for line in f:
                 tokens = line.strip().split(",")
                 if len(tokens) != 2:
-                    logging.warn("Malformed line: %s" % line)
+                    log.warn("Malformed line: %s" % line)
                     continue
                 id_smiles.append((tokens[0].strip(), tokens[1].strip()))
         return id_smiles
@@ -97,7 +96,7 @@ class Featurize(object):
                                 "feature": self.features
                                 })
         if len(invalid_ids):
-            logging.warn("%d invalid smiles found" % len(invalid_ids))
+            log.warn("%d invalid smiles found" % len(invalid_ids))
 
         return ds
 
