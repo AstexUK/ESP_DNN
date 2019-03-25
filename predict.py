@@ -265,12 +265,12 @@ class MolChargePredictor(object):
                 return f.read()
 
     def pdb_block2pqr(self, pdb_block):
-        dqs = self.predict_on_pdb_block(pdb_block)
+        dqs = self.predict_dqs_from_pdb_block(pdb_block)
         return self.dqs2pqr(pdb_block, dqs)
 
     def predict_on_pdb_file(self, pdb_file):
         with open(pdb_file) as f:
-            dqs = self.predict_on_pdb_block(f.read())
+            dqs = self.predict_dqs_from_pdb_block(f.read())
 
 
 if __name__ == "__main__":
