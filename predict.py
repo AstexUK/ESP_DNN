@@ -19,7 +19,7 @@ CHARGE_CORRECTION = 0.4
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
 
 # (smarts, atom_indices, charge_correction)
-CHARGE_CORRECTION_ATOMS = (
+EQUIVALENT_ATOMS = (
     # (smarts, tuple of atom ids in the smarts that are equivalent in terms of charge correction, charge correction)
     # carboxylate
     ("[CX3](=O)[O-]", (1, 2), -CHARGE_CORRECTION),
@@ -131,7 +131,7 @@ class MolChargePredictor(object):
         with open(norm_params_file) as f:
             self.norm_params_dict = pickle.load(f)
         self.neutralizer = MolNeutralizer()
-        self.equivalent_atoms = [(Chem.MolFromSmarts(ea[0]), ea[1], ea[2]) for ea in CHARGE_CORRECTION_ATOMS]
+        self.equivalent_atoms = [(Chem.MolFromSmarts(ea[0]), ea[1], ea[2]) for ea in EQUIVALENT_ATOMS]
 
     @staticmethod
     def read_molecule_file(filepath, removeHs=True):
@@ -250,6 +250,10 @@ class MolChargePredictor(object):
                 raise AIChargeError("PLI failed to create pqr file")
             with open(join(workdir, "output.pqr")) as f:
                 return f.read()
+
+    def pdb_block2pqr(self, pdb_block):
+        dqs = self.predict_on_pdb_block(pdb_block)
+        return self.dqs2pqr(pdb_block, dqs)
 
     def predict_on_pdb_file(self, pdb_file):
         with open(pdb_file) as f:
