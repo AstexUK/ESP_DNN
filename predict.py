@@ -14,27 +14,29 @@ from contextlib import contextmanager
 import tempfile
 import shutil
 import subprocess
+import logging
+
 
 CHARGE_CORRECTION = 0.4
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
+
+log = logging.getLogger(__name__)
 
 # (smarts, atom_indices, charge_correction)
 EQUIVALENT_ATOMS = (
     # (smarts, tuple of atom ids in the smarts that are equivalent in terms of charge correction, charge correction)
     # carboxylate
-    ("[CX3](=O)[O-]", (1, 2), -CHARGE_CORRECTION),
+    ("[CX3](=O)[O-]", (1, 2)),
     # ammonium
-    ("[NX4+;!$(NC=O)]", (0,), CHARGE_CORRECTION),
+    ("[NX4+;!$(NC=O)]", (0,)),
     # amidinium
-    ("[NX3][CX3]=[NX3+]", (0, 2), CHARGE_CORRECTION),
+    ("[NX3][CX3]=[NX3+]", (0, 2)),
     # Nitro
-    ("[N+](=O)[O-]", (1, 2), 0.0),
+    ("[N+](=O)[O-]", (1, 2)),
     # Terminal Phosphates with -2 charge
-    ("[O&H0][PX4](=O)([OX1-])[OX1-]", (2, 3, 4), -(CHARGE_CORRECTION * 2)),
-    # Terminal Phosphates with -1 charge
-    ("[O&H0][PX4](=O)([OX2&H1])[OX1-]", (4,), -CHARGE_CORRECTION),
+    ("[O&H0][PX4](=O)([OX1-])[OX1-]", (2, 3, 4)),
     # linking phosphates with -1 charge
-    ("[O&H0][PX4](=O)([O-])[OX2&H0]", (2, 3), -CHARGE_CORRECTION),
+    ("[O&H0][PX4](=O)([O-])[OX2&H0]", (2, 3)),
     # TODO: others?
 )
 
@@ -47,9 +49,6 @@ def get_pli(pli_dir=PLI_DIR):
     pli_exe = os.path.join(os.environ["PLI_DIR"], "bin/pli")
     return pli_exe
 
-
-import logging
-logging.basicConfig()
 
 
 class AIChargeError(Exception):
@@ -72,7 +71,7 @@ def TemporaryDirectory(cleanup=True):
         if cleanup:
             shutil.rmtree(name)
         else:
-            logging.warn("Directory %s not removed" % name)
+            log.warn("Directory %s not removed" % name)
 
 
 class MolNeutralizer(object):
@@ -131,7 +130,7 @@ class MolChargePredictor(object):
         with open(norm_params_file) as f:
             self.norm_params_dict = pickle.load(f)
         self.neutralizer = MolNeutralizer()
-        self.equivalent_atoms = [(Chem.MolFromSmarts(ea[0]), ea[1], ea[2]) for ea in EQUIVALENT_ATOMS]
+        self.equivalent_atoms = [(Chem.MolFromSmarts(ea[0]), ea[1]) for ea in EQUIVALENT_ATOMS]
 
     @staticmethod
     def read_molecule_file(filepath, removeHs=True):
@@ -150,15 +149,22 @@ class MolChargePredictor(object):
     def apply_charge_correction(self, mol):
         # apply charge corrections for equivalent atoms (eg carboxylate oxygens).
         # Also add charges to charged groups (eq., carboxylates, amines, etc.)
-        for (patt, aids, correction) in self.equivalent_atoms:
+
+        # account for formally charged atoms
+        for (fr, to) in self.neutralizer.reactions:
+            for substruct in mol.GetSubstructMatches(fr):
+                for aid in substruct:
+                    a = mol.GetAtomWithIdx(aid)
+                    a.GetPDBResidueInfo().SetOccupancy(a.GetPDBResidueInfo().GetOccupancy() + CHARGE_CORRECTION * a.GetFormalCharge())
+
+        for (patt, aids) in self.equivalent_atoms:
             for substruct in mol.GetSubstructMatches(patt):
-                final_charge = (sum([mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().GetOccupancy()
-                                     for aid in aids]) + correction) / float(len(aids))
+                final_charge = sum([mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().GetOccupancy()
+                                    for aid in aids]) / float(len(aids))
                 for aid in aids:
                     mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().SetOccupancy(final_charge)
 
     def get_equivalent_atoms(self, mol):
-        equilant_atoms = []
         for (patt, aids, correction) in self.equivalent_atoms:
             for substruct in mol.GetSubstructMatches(patt):
 
@@ -180,7 +186,14 @@ class MolChargePredictor(object):
         for (fr, to) in self.neutralizer.reactions:
             for substruct in neutral_mol.GetSubstructMatches(fr):
                 for aid in substruct:
-                    neutral_mol.GetAtomWithIdx(aid).SetFormalCharge(0)
+                    a = neutral_mol.GetAtomWithIdx(aid)
+                    orig_charge = a.GetFormalCharge()
+                    a.SetFormalCharge(0)
+                    # TODO: check
+                    if orig_charge == 1 and a.GetNumExplicitHs():
+                        a.SetNumExplicitHs(a.GetNumExplicitHs() - 1)
+                    elif orig_charge == -1:
+                        a.SetNumExplicitHs(a.GetNumExplicitHs() + 1)
         #Chem.SanitizeMol(neutral_mol, sanitizeOps=(Chem.SanitizeFlags.SANITIZE_ADJUSTHS))
         if sum([a.GetFormalCharge() for a in neutral_mol.GetAtoms()]) != 0.0:
             raise AIChargeError("Failed to neutralize molecule")
