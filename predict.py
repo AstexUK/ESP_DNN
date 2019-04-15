@@ -50,7 +50,6 @@ def get_pli(pli_dir=PLI_DIR):
     return pli_exe
 
 
-
 class AIChargeError(Exception):
     pass
 
@@ -202,8 +201,16 @@ class MolChargePredictor(object):
 
     def predict_dqs_from_pdb_block(self, pdb_block):
         try:
-            input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False)
-            input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True)
+            # TODO: update rdkit to have proximity bonding turned off
+            try:
+                input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False, proximityBonding=False)
+            except:
+                input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False)
+
+            try:
+                input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True, proximityBonding=False)
+            except:
+                input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True)
 
             # get a neutral mol and atom mapping between neutral and charged mols
             # We need a neutral mol because our model was trained on neutral mols
