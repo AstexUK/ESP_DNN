@@ -1,28 +1,30 @@
-from rdkit import Chem
-from featurize import Featurize
-from model_factory import custom_load_model
-from data_processing import normalize
-import numpy as np
-import pickle
-from rdkit.Chem import AllChem
-import copy
-import traceback
-import os
-from os.path import join
-import tensorflow as tf
+from __future__ import absolute_import
+
+from argparse import ArgumentParser
 from contextlib import contextmanager
-import tempfile
+import copy
+import glob
+import logging
+import numpy as np
+import os
+import pickle
 import shutil
 import subprocess
-import logging
+import tempfile
+import traceback
+
+from rdkit import Chem
+from rdkit.Chem import AllChem
+
+from .data_processing import normalize
+from .featurize import Featurize
 
 
 CHARGE_CORRECTION = 0.4
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
 
-log = logging.getLogger(__name__)
+log = logging.getLogger("predict" if __name__ == "__main__" else __name__)
 
-# (smarts, atom_indices, charge_correction)
 EQUIVALENT_ATOMS = (
     # (smarts, tuple of atom ids in the smarts that are equivalent in terms of charge correction, charge correction)
     # carboxylate
@@ -40,26 +42,17 @@ EQUIVALENT_ATOMS = (
     # TODO: others?
 )
 
-PLI_DIR = "/home/golduser/src/pli2/stable"
-
-
-def get_pli(pli_dir=PLI_DIR):
-    if os.environ.get("PLI_DIR", None) != pli_dir:
-        os.environ["PLI_DIR"] = pli_dir
-    pli_exe = os.path.join(os.environ["PLI_DIR"], "bin/pli")
-    return pli_exe
-
-
 
 class AIChargeError(Exception):
     pass
 
 
-def create_3d_mol(smiles, pdbfile):
-    mol = Chem.MolFromSmiles(smiles)
-    mol2 = Chem.AddHs(mol)
-    AllChem.EmbedMolecule(mol2)
-    Chem.MolToPDBFile(mol2, pdbfile)
+def get_pli():
+    pli_dir = os.environ.get("PLI_DIR")
+    if pli_dir is None:
+        raise AIChargeError("PLI_DIR environment variable is not defined")
+    pli_exe = os.path.join(os.environ["PLI_DIR"], "bin/pli")
+    return pli_exe
 
 
 @contextmanager
@@ -75,7 +68,6 @@ def TemporaryDirectory(cleanup=True):
 
 
 class MolNeutralizer(object):
-
     def __init__(self, substitutions=[]):
         patts = [
             # Imidazoles
@@ -113,12 +105,15 @@ class MolNeutralizer(object):
 
 
 class MolChargePredictor(object):
-    def __init__(self, model_file=join(SCRIPT_PATH, "model", "trained_model.h5"),
-                 features_file=join(SCRIPT_PATH, "model", "feature_list.dat"),
-                 norm_params_file=join(SCRIPT_PATH, "model", "norm_params.pkl"),
+    def __init__(self, model_file=os.path.join(SCRIPT_PATH, "model", "trained_model.h5"),
+                 features_file=os.path.join(SCRIPT_PATH, "model", "feature_list.dat"),
+                 norm_params_file=os.path.join(SCRIPT_PATH, "model", "norm_params.pkl"),
                  debug=False,
                  clean_tmp_dir=True):
-        # https://github.com/keras-team/keras/issues/5640
+        # defer import until needed
+        import tensorflow as tf
+        from .model_factory import custom_load_model
+
         self.graph = tf.get_default_graph()
         self.model = custom_load_model(model_file)
         self.model._make_predict_function()
@@ -147,11 +142,9 @@ class MolChargePredictor(object):
             return mol
 
     def apply_charge_correction(self, mol):
-        # apply charge corrections for equivalent atoms (eg carboxylate oxygens).
-        # Also add charges to charged groups (eq., carboxylates, amines, etc.)
-
-        # account for formally charged atoms
-        for (fr, to) in self.neutralizer.reactions:
+        """apply charge corrections for equivalent atoms (eg carboxylate oxygens).
+        Also add charges to charged groups (eq., carboxylates, amines, etc.)"""
+        for (fr, _) in self.neutralizer.reactions:
             for substruct in mol.GetSubstructMatches(fr):
                 for aid in substruct:
                     a = mol.GetAtomWithIdx(aid)
@@ -183,18 +176,16 @@ class MolChargePredictor(object):
 
     def neutralize(self, mol):
         neutral_mol = copy.deepcopy(mol)
-        for (fr, to) in self.neutralizer.reactions:
+        for (fr, _) in self.neutralizer.reactions:
             for substruct in neutral_mol.GetSubstructMatches(fr):
                 for aid in substruct:
                     a = neutral_mol.GetAtomWithIdx(aid)
                     orig_charge = a.GetFormalCharge()
                     a.SetFormalCharge(0)
-                    # TODO: check
                     if orig_charge == 1 and a.GetNumExplicitHs():
                         a.SetNumExplicitHs(a.GetNumExplicitHs() - 1)
                     elif orig_charge == -1:
                         a.SetNumExplicitHs(a.GetNumExplicitHs() + 1)
-        #Chem.SanitizeMol(neutral_mol, sanitizeOps=(Chem.SanitizeFlags.SANITIZE_ADJUSTHS))
         if sum([a.GetFormalCharge() for a in neutral_mol.GetAtoms()]) != 0.0:
             raise AIChargeError("Failed to neutralize molecule")
         Chem.SanitizeMol(neutral_mol)
@@ -205,7 +196,9 @@ class MolChargePredictor(object):
             input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False)
             input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True)
 
-            # get a neutral mol and atom mapping between neutral and charged mols
+            if input_mol_with_Hs is None or input_mol is None:
+                raise AIChargeError("Failed to read molecule from the PDB block")
+
             # We need a neutral mol because our model was trained on neutral mols
             if sum([a.GetFormalCharge() for a in input_mol.GetAtoms()]) != 0.:
                 neutral_mol = self.neutralize(input_mol)
@@ -249,30 +242,115 @@ class MolChargePredictor(object):
 
     def dqs2pqr(self, pdb_block, dqs):
         with TemporaryDirectory() as workdir:
-            with open(join(workdir, "input.pdb"), "w") as f:
+            input_pdb_file = os.path.join(workdir, "input.pdb")
+            input_dq_file = os.path.join(workdir, "dq.dat")
+
+            # write data to files for PLI
+            with open(input_pdb_file, "w") as f:
                 f.write(pdb_block)
-            command_args = [get_pli(), "-mode", "features",
-                            "-ligand", join(workdir, "input.pdb"), "-ln", "output", "-lo", "pqr",
-                            "-ldq", join(workdir, "dq.dat")]
-            with open(join(workdir, "dq.dat"), "w") as f:
+            with open(input_dq_file, "w") as f:
                 f.write("\n".join(["%-6s %6d %6.3f" % ("dq", dq[0], dq[1])
                                    for dq in dqs]))
+
+            # setup and pli command
+            command_args = [get_pli(),
+                            "-mode", "features",
+                            "-ligand", input_pdb_file,
+                            "-ln", "output",
+                            "-lo", "pqr",
+                            "-ldq", input_dq_file]
             sp = subprocess.Popen(command_args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd=workdir)
-            out, err = sp.communicate()
+            _, err = sp.communicate()
             if sp.returncode:
-                raise AIChargeError("PLI failed to create pqr file")
-            with open(join(workdir, "output.pqr")) as f:
+                raise AIChargeError("PLI failed to create pqr file\nPLI Error:\n%s" % err)
+            with open(os.path.join(workdir, "output.pqr")) as f:
                 return f.read()
 
-    def pdb_block2pqr(self, pdb_block):
+    def pdb_block2pqr_block(self, pdb_block):
         dqs = self.predict_dqs_from_pdb_block(pdb_block)
         return self.dqs2pqr(pdb_block, dqs)
 
-    def predict_on_pdb_file(self, pdb_file):
+    def pdb_file2pqr_block(self, pdb_file):
         with open(pdb_file) as f:
-            dqs = self.predict_dqs_from_pdb_block(f.read())
+            return self.pdb_block2pqr_block(f.read())
+
+    def pdb_file2pqr_file(self, pdb_file, pqr_file):
+        with open(pqr_file, "w") as f:
+            f.write(self.pdb_file2pqr_block(pdb_file))
+
+
+def protein_pdb_file2pqr_file(protein_file, output_file):
+    command_args = [get_pli(),
+                    "-mode", "features",
+                    "-protein", protein_file,
+                    "-po", "pqr",
+                    "-pn", "output_protein"]
+
+    with TemporaryDirectory() as workdir:
+        sp = subprocess.Popen(command_args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd=workdir)
+        out, err = sp.communicate()
+        tmp_output_file = os.path.join(workdir, "output_protein.pqr")
+        if not sp.returncode and os.path.exists(tmp_output_file):
+            return shutil.copyfile(tmp_output_file, output_file)
+        else:
+            raise AIChargeError("Failed to generate pqr file.\n\nPLI stdout:\n%sPLI stderr:\n%s" % (out, err))
+
+
+def run(mode, input_dir, output_dir, stop_on_error):
+    log.info("Ruuning in %s mode" % mode)
+    if not os.path.isdir(input_dir):
+        raise ValueError("Input directory does not exist" % input_dir)
+    input_dir = os.path.abspath(input_dir)
+    if output_dir is None:
+        output_dir = input_dir
+    log.info("Input dir is %s" % input_dir)
+    log.info("Output dir is %s" % output_dir)
+
+    all_files = glob.glob(os.path.join(input_dir, "*.pdb"))
+    if not len(all_files):
+        log.error("No PDB files found in %s directory" % input_dir)
+        return
+    if mode == "ligand":
+        log.info("Loading the trained model from %s directory" % os.path.join(SCRIPT_PATH, "model"))
+        mcp = MolChargePredictor()
+
+    for pdb_file in all_files:
+        pqr_file = os.path.join(output_dir, os.path.basename(pdb_file) + ".pqr")
+        log.info("%s -> %s" % (pdb_file, pqr_file))
+        try:
+            if mode == "ligand":
+                mcp.pdb_file2pqr_file(pdb_file, pqr_file)
+            else:
+                protein_pdb_file2pqr_file(pdb_file, pqr_file)
+        except AIChargeError, e:
+            if stop_on_error:
+                raise
+            else:
+                log.error("Error converting %s file" % pdb_file)
+                log.error(str(e))
+
+
+def parse_args():
+    parser = ArgumentParser()
+
+    parser.add_argument("-m", "--mode",
+                        help="Whether input files are ligands or proteins",
+                        choices=["protein", "ligand"],
+                        default="ligand")
+    parser.add_argument("-i", "--input_dir",
+                        help="Input directory containing PDB files",
+                        default=os.getcwd())
+    parser.add_argument("-o", "--output_dir",
+                        help="Output directory in which PQR files are written. Output files are written to the same directory if not specified.")
+    parser.add_argument("-e", "--stop_on_error",
+                        help="Stop processing remaining files if an error occurs.",
+                        action="store_true",
+                        default=False)
+    return parser.parse_args()
 
 
 if __name__ == "__main__":
-    mcp = MolChargePredictor()
-    mcp.predict_on_pdb_file("/home/golduser/uwsgi/stable/apps/esp-ai-dev/esp_ai_lib/test/xiap_issue.pdb")
+    logging.basicConfig(level=logging.INFO,
+                        format="[%(name)s:%(levelname)s] %(message)s")
+    args = parse_args()
+    run(args.mode, args.input_dir, args.output_dir, args.stop_on_error)

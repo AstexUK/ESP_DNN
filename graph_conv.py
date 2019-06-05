@@ -1,10 +1,10 @@
-from keras.engine.topology import Layer, InputSpec
+from __future__ import absolute_import
+
 from keras import activations, initializers, regularizers, constraints
 from keras import backend as K
-import tensorflow as tf
-from keras.engine import training_arrays
 from keras.constraints import min_max_norm
-from keras.layers.merge import multiply
+from keras.engine.topology import Layer, InputSpec
+import tensorflow as tf
 
 
 class PrintLayerInput(Layer):
@@ -97,27 +97,6 @@ class GraphConv(Layer):
 
         self.built = True
 
-    # TODO: this is old way of doing it
-#     def call(self, inputs):
-#         x = inputs[0]  # n_atom * n_props
-#         d = inputs[1]  # [n_atoms, n_atoms]
-#
-#         output = K.dot(x, self.kernel)  # self output
-#
-#         if self.neigh_wts is not None:
-#             neigh_output = K.batch_dot(d, x, axes=[2, 1])    # sum values from the neighbors
-#             if self.neigh_wts == "single":
-#                 #self.neigh_wts = tf.Print(self.neigh_wts, message="neigh_wts: ", data=[self.neigh_wts], summarize=3)
-#                 neigh_output = neigh_output * self.kernel_neigh[0]
-#             elif self.neigh_wts == "all":
-#                 neigh_output = K.dot(neigh_output, self.kernel_neigh)
-#             output += neigh_output
-#         if self.use_bias is not None:
-#             output += K.reshape(self.bias, (1, self.width))
-#         output = self.activation(output)
-#         #output = tf.Print(output, message="output: ", data=[output], summarize=3)
-#         return output
-
     def call(self, inputs):
         x = inputs[0]  # n_atom * n_props
         d = inputs[1]  # [n_atoms, n_atoms]
@@ -126,7 +105,6 @@ class GraphConv(Layer):
         neigh_output = K.batch_dot(d, self_output, axes=[2, 1])    # sum values from the neighbors
 
         if self.conv_wts == "single":
-            #self.neigh_wts = tf.Print(self.neigh_wts, message="neigh_wts: ", data=[self.neigh_wts], summarize=3)
             neigh_output = neigh_output * self.kernel_neigh[0]
             self_output = self_output * self.kernel_self[0]
         elif self.conv_wts == "all":
@@ -137,7 +115,6 @@ class GraphConv(Layer):
         if self.use_bias is not None:
             output += K.reshape(self.bias, (1, self.width))
         output = self.activation(output)
-        #output = tf.Print(output, message="output: ", data=[output], summarize=3)
         return output
 
     def compute_output_shape(self, input_shape):

@@ -1,16 +1,18 @@
-from atom_features import ATOM_FEATURES
+from __future__ import absolute_import
+
+from argparse import ArgumentParser
+import logging
+import os
 import numpy as np
+
 from rdkit import Chem
 import xarray as xr
 
-import logging
-import sys, os
-import argparse
-from optparse import OptionParser
-from argparse import ArgumentParser
-from os import path
+from .atom_features import ATOM_FEATURES
+
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 log = logging.getLogger(__name__)
+
 
 class Featurize(object):
     def __init__(self, smiles_file=None,
@@ -85,7 +87,7 @@ class Featurize(object):
                 neighbor_arrays.append(na)
                 valid_ids.append(id_)
                 valid_smiles.append(smiles)
-            except AssertionError as e:
+            except AssertionError, _:
                 invalid_ids.append(id_)
                 continue
         ds = xr.Dataset({"X": (("mol_id", "atom_id", "feature"), np.stack(feature_arrays)),
@@ -115,6 +117,7 @@ def main():
     f = Featurize(args.input_file, features_file=args.features_file, max_hac=args.max_hac)
     f.process()
     f.export(args.output_file)
+
 
 if __name__ == "__main__":
     main()
