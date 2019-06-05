@@ -11,3 +11,27 @@ model, trained on ESP surfaces derived using high quality QM calculations, is
 used. For proteins, parametized charges for all amino acids are used, which are
 fully compatible with the ligand ESP surfaces generated using the DNN model.
 
+
+# How to install
+To run our ESP model, you need to:
+* setup Python and third-party dependencies listed below.
+* Clone (and optionally install) this package.
+* Install [PLI code] (https://bitbucket.org/AstexUK/pli/src/pli-snapshot/)
+
+### Installing Python and third-party requirements:
+Our package works on Python 2.7 and require following third-party packages:
+* rdkit==2018.09.3
+* keras==2.2.4
+* tensorflow==1.10.0
+* numpy==1.16.2
+
+We recommend using [Anaconda Python distribution]
+(https://www.anaconda.com/distribution/) for installing Python and the above
+dependencies. Clone this repository and run the following commands:
+
+```
+conda env create -f environment.yml
+source activate esp_ai
+python setup.py install
+```
+
