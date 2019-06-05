@@ -39,7 +39,7 @@ conda env create -f environment.yml
 source activate esp_ai
 ```
 
-## (Optionally installing this package)
+## (Optionally) installing this package
 If you want to be able to run this package from any directory, you need to
 install this package. Otherwise, you should be able to run this package from the
 parent directory of this package. If you cloned the repository in /home/username
@@ -102,5 +102,3 @@ We recommend using [NGL viewer](http://nglviewer.org/ngl/)
     * surfaceType = av
     * radiusType = explicit
     * colorScheme = electrostatic
-
-
