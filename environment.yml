@@ -1,0 +1,11 @@
+name: esp_ai
+channels:
+  - rdkit
+  - conda-forge
+
+dependencies:
+  - rdkit==2018.09.3
+  - keras==2.2.4
+  - tensorflow==1.10.0
+  - numpy==1.16.2
+  - python=2.7.15
