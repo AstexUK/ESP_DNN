@@ -1,0 +1,6 @@
+pli.ovar system:{molecules:{name,handle:{filename},ofile}}
+pli.oflags protein:atoms,hydrogens
+pli.oflags ligand:atoms,hydrogens,bonds
+pli.oflags symmetry:atoms,hydrogens
+pli.omols "protein,ligand,symmetry"
+pli.selection all

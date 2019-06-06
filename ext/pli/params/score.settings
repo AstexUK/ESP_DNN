@@ -1,0 +1,5 @@
+pli.sfunc        chemscore
+pli.selection    ligand
+pli.omols        ligand
+pli.ovar system:{sfuncs:{chemscore:{DG},pliff:{score},ligmap:{sumF,avgF}}}
+pli.ovar system:{ligand:{selected:{id,name,sfuncs:{ligmap:{F}}}}}

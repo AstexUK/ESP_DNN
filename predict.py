@@ -50,9 +50,12 @@ class AIChargeError(Exception):
 def get_pli():
     pli_dir = os.environ.get("PLI_DIR")
     if pli_dir is None:
-        raise AIChargeError("PLI_DIR environment variable is not defined")
-    pli_exe = os.path.join(os.environ["PLI_DIR"], "bin/pli")
-    return pli_exe
+        pli_dir = os.path.join(SCRIPT_PATH, "ext", "pli")
+        if os.path.exists(os.path.join(pli_dir, "bin", "pli")):
+            os.environ["PLI_DIR"] = pli_dir
+        else:
+            raise AIChargeError("Neither PLI_DIR environment variable is not defined nor PLI executable could be found in %s" % pli_dir)
+    return os.path.join(os.environ["PLI_DIR"], "bin/pli")
 
 
 @contextmanager

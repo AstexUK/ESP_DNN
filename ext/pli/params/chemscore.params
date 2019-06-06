@@ -1,0 +1,28 @@
+# ------------------------------------------------------------------------------------------------------------------
+# PLI chemscore parameter definitions
+# ------------------------------------------------------------------------------------------------------------------
+#   name                          synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+chemscore.hbond_coeff             ""               double     -3.34             # regression coefficient for hbond term
+chemscore.hbond_r_ideal           ""               double      1.85             # hbond r block function central point
+chemscore.hbond_dr_ideal          ""               double      0.25             # hbond r block function half top width  
+chemscore.hbond_dr_max            ""               double      0.65             # hbond r block function half bottom width
+chemscore.hbond_alpha_ideal       ""               double       180             # hbond alpha block function central point
+chemscore.hbond_dalpha_ideal      ""               double        30             # hbond alpha block function half top width  
+chemscore.hbond_dalpha_max        ""               double        80             # hbond alpha block function half bottom width
+chemscore.hbond_beta_use          ""               double     FALSE             # turn on hbond beta block function
+chemscore.hbond_beta_ideal        ""               double       180             # hbond beta block function central point
+chemscore.hbond_dbeta_ideal       ""               double        70             # hbond beta block function half top width  
+chemscore.hbond_dbeta_max         ""               double        80             # hbond beta block function half bottom width
+chemscore.metal_coeff             ""               double     -6.03             # regression coefficient for metal term
+chemscore.metal_r_ideal           ""               double      2.60             # metal coordination ideal distance
+chemscore.metal_r_max             ""               double      3.00             # metal coordination maximum distance
+chemscore.lipo_coeff              ""               double    -0.117             # regression coefficient for lipophilic term
+chemscore.lipo_r_ideal            ""               double      4.10             # lipophilic block function start distance
+chemscore.lipo_r_max              ""               double      7.10             # lipophilic block function end distance
+chemscore.rot_coeff               ""               double      2.56             # regression coefficient for rotatable bond term
+chemscore.clash_r_hbond           ""               double      1.60             # clash distance for hydrogen bonds
+chemscore.clash_r_metal           ""               double      1.30             # clash distance for metal coordination contacts
+chemscore.clash_r_sulphur         ""               double      3.35             # clash distance for contacts involving sulphur
+chemscore.clash_r_other           ""               double      3.10             # clash distance for all other contacts
+# ------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,574 @@
+#---------------------------------------------------------------------------------------------------------------------------
+# hybridisation definitions
+#---------------------------------------------------------------------------------------------------------------------------
+#            smarts                      hyb
+#---------------------------------------------------------------------------------------------------------------------------
+hybdef       [#6,#7]#*                   sp
+hybdef       [#6,#7](=*)=*               sp
+hybdef       [#6,#7,#8]=*                sp2
+hybdef       [#7;!pln]                   sp3
+hybdef       [#7;pln]                    sp2
+hybdef       [#7]*=*                     sp2
+hybdef       [#16;D1]=*                  sp2
+hybdef       *                           sp3
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+fgtordef       [-Op]=[=C<]-;!@[>NHp][#6]                       fixed   # secondary amide
+fgtordef       [-Op]=[=C<]-;!@[>Np-]([#6])[#6]                 fixed   # teriary amide
+fgtordef       *~*-;!@*~*                                      free    # generic single bond
+
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature types table
+#---------------------------------------------------------------------------------------------------------------------------
+#            name    description       off-centred    sigma 
+#---------------------------------------------------------------------------------------------------------------------------
+ftype         B       "boron"              no          25     
+ftype         C       "carbon"             no          25     
+ftype         N       "nitrogen"           no          25     
+ftype         O       "oxygen"             no          25     
+ftype         S       "sulphur"            no          25     
+ftype         P       "phosphorous"        no          25     
+ftype         F       "fluorine"           no          25     
+ftype         Cl      "chlorine"           no          25     
+ftype         Br      "bromine"            no          25     
+ftype         I       "iodine"             no          25     
+ftype         Mg      "magnesium"          no          25     
+ftype         Zn      "zinc"               no          25     
+ftype         Du      "dummy"              no          25     
+ftype         h       "hydrogen"           yes         25     
+ftype         p       "p-orbital"          yes         25     
+ftype         lp      "lone pair"          yes         25     
+ftype         sh      "sigma hole"         yes         25     
+ftype         mh      "metal hole"         yes         25     
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature definitions table
+#---------------------------------------------------------------------------------------------------------------------------
+#      feature     parent        distance   radius     Fq
+#---------------------------------------------------------------------------------------------------------------------------
+fdef      B          -             0.00      1.60     1.00
+fdef      C          -             0.00      1.78     1.00
+fdef      N          -             0.00      1.70     1.00
+fdef      O          -             0.00      1.60     1.00
+fdef      S          -             0.00      1.93     1.00
+fdef      P          -             0.00      1.92     1.00
+fdef      F          -             0.00      1.54     1.00
+fdef      Cl         -             0.00      1.92     1.00
+fdef      Br         -             0.00      2.02     1.00
+fdef      I          -             0.00      2.20     1.00
+fdef      Mg         -             0.00      1.70     1.00
+fdef      Zn         -             0.00      1.70     1.00
+fdef      Du         -             0.00      1.70     1.00
+fdef      h          B             1.19      1.29     1.00
+fdef      h          C             1.09      1.21     1.00
+fdef      h          N             1.02      1.19     1.00
+fdef      h          O             0.97      1.09     1.00
+fdef      h          S             1.35      1.20     1.00
+fdef      h          P             1.42      1.31     1.00
+fdef      h          Du            1.00      1.00     1.00
+fdef      lp         C             0.89      0.93     1.00
+fdef      lp         N             0.85      0.98     1.00
+fdef      lp         O             0.80      0.87     1.00
+fdef      lp         S             0.97      1.16     1.00
+fdef      lp         P             0.96      1.21     1.00
+fdef      lp         Du            1.00      1.00     1.00
+fdef      p          B             0.85      0.61     1.00
+fdef      p          C             0.89      0.95     1.00
+fdef      p          N             0.85      0.93     1.00
+fdef      p          O             0.80      0.86     1.00
+fdef      p          S             0.97      1.03     1.00
+fdef      p          Du            1.00      1.00     1.00
+fdef      sh         S             0.97      0.90     1.00
+fdef      sh         F             0.77      0.73     1.00
+fdef      sh         Cl            0.96      0.83     1.00
+fdef      sh         Br            1.01      0.88     1.00
+fdef      sh         I             1.10      0.94     1.00
+fdef      sh         Du            1.00      1.00     1.00
+fdef      mh         Zn            1.00      1.00     1.00
+#-------------------------------------------------------------------------3--------------------------------------------------
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group types table
+#---------------------------------------------------------------------------------------------------------------------------
+#          name      el      lipo    features
+#---------------------------------------------------------------------------------------------------------------------------
+fgtype      BH3      B         0     B[];p[0,0];p[180,0];h[90,0];h[90,120];h[90,-120]
+fgtype      B        B         0     B[]
+fgtype      CH4      C         1     C[];h[0,0];h[109,0];h[109,-120];h[109,120]
+fgtype      -CH3     C         1     C[];h[69,0];h[69,-120];h[69,120]
+fgtype      >CH2     C         1     C[];h[53,-90];h[53,90]
+fgtype      >CH-     C         1     C[];h[0,0]
+fgtype      >C<      C         1     C[]
+fgtype      =CH2     C         1     C[];h[58,0];h[58,180];p[90,-90];p[90,90]
+fgtype      =CH-     C         1     C[];h[0,0];p[90,-90];p[90,90]
+fgtype      =C<      C         1     C[];p[0,0];p[180,0]
+fgtype      #CH      C         1     C[];h[0,0]
+fgtype      #C       C         1     C[];lp[0,0]
+fgtype      =C=      C         1     C[]
+fgtype      NH3      N         0     N[];lp[0,0];h[109,0];h[109,-120];h[109,120]
+fgtype      NH4      N         0     N[];h[0,0];h[109,0];h[109,-120];h[109,120]
+fgtype      -NH2     N         0     N[];lp[70,0];h[70,-120];h[70,120]
+fgtype      -NH2p    N         0     N[];h[59,0];h[59,180];p[90,-90];p[90,90]
+fgtype      -NH3     N         0     N[];h[68,0];h[68,120];h[68,-120]
+fgtype      -NH      N         0     N[];h[70,0];lp[70,120];lp[70,-120]
+fgtype      -NHp     N         0     N[];h[59,0];lp[59,180];p[90,-90];p[90,90]
+fgtype      >NH      N         0     N[];h[53,-90];lp[53,90]
+fgtype      >NHp     N         0     N[];h[0,0];p[90,-90];p[90,90]
+fgtype      >NH2     N         0     N[];h[53,-90];h[53,90]
+fgtype      >N       N         0     N[];lp[53,-90];lp[53,90]
+fgtype      >Np      N         0     N[];lp[0,0];p[90,-90];p[90,90]
+fgtype      >N-      N         0     N[];lp[0,0]
+fgtype      >Np-     N         0     N[];p[0,0];p[180,0]
+fgtype      >NH-     N         0     N[];h[0,0]
+fgtype      >N<      N         0     N[]
+fgtype      =N       N         0     N[];lp[0,0]
+fgtype      #N       N         0     N[];lp[0,0]
+fgtype      =N=      N         0     N[]
+fgtype      H2O      O         0     O[];h[52,0];h[52,180];lp[123,-90];lp[123,90]
+fgtype      -OH      O         0     O[];h[72,0];lp[55,-120];lp[55,120]
+fgtype      -O       O         0     O[]
+fgtype      -Op      O         0     O[];lp[60,0];lp[60,180];p[90,-90];p[90,90]
+fgtype      >O       O         0     O[];lp[35,-90];lp[35,90]
+fgtype      H2S      S         0     S[];h[46,0];h[46,180];sh[110,0];sh[110,180];lp[100,-90];lp[100,90]
+fgtype      -SH      S         1     S[];h[83,0];sh[19,0];sh[116,180];lp[75,-100];lp[75,100]
+fgtype      -S       S         0     S[]
+fgtype      >S       S         1     S[];sh[70,0];sh[70,180];lp[65,-90];lp[65,90]
+fgtype      =S       S         0     S[];lp[75,0];lp[75,180];p[90,-90];p[90,90]
+fgtype      =S<      S         0     S[];p[0,0]
+fgtype      S        S         0     S[]
+fgtype      PH3      P         0     P[];lp[0,0];h[109,0];h[109,-120];h[109,120]
+fgtype      >PH2     P         0     P[];h[53,-90];h[53,90]
+fgtype      >PH-     P         0     P[];h[0,0]
+fgtype      P        P         0     P[]
+fgtype      -F       F         1     F[];sh[0,0]
+fgtype      -Cl      Cl        1     Cl[];sh[0,0]
+fgtype      -Br      Br        1     Br[];sh[0,0]
+fgtype      -I       I         1     I[];sh[0,0]
+fgtype      Zn       Zn        0     Zn[]
+fgtype      ZnTET    Zn        0     Zn[];mh[0,0];mh[109,0];mh[109,-120];mh[109,120]
+fgtype      ZnTBP    Zn        0     Zn[];mh[0,0];mh[90,0];mh[90,-120];mh[90,120];mh[180,0]
+fgtype      ZnSQP    Zn        0     Zn[];mh[0,0];mh[105,0];mh[105,-90];mh[105,90];mh[105,180]
+fgtype      ZnOCT    Zn        0     Zn[];mh[0,0];mh[90,0];mh[90,-90];mh[90,90];mh[90,180];mh[180,0]
+fgtype      Du       Du        0     Du[]
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group definitions table
+#
+# the smart patterns map atoms in a molecule to feature group types. The order of these is important in some cases as the
+# type of the first matching pattern is returned. The patterns are organised such that, where possible, the neutral form
+# is matched first in cases where the hydrogen atoms of the molecule are not present or not used for atom typing. 
+#
+# this table is also used to set the formal charge of the fgroup/atom as fgroup types (see above) are charge agnostic.
+#
+# NOTE that aromaticity perception depends on assigned fgroup types, so no aromaticity flags (e.g. lower case elements)
+# can be used here.
+#---------------------------------------------------------------------------------------------------------------------------
+#          fgtype      smarts                   fcharge     dQ        feature charges (Qo)
+#---------------------------------------------------------------------------------------------------------------------------
+fgdef      BH3         [#5;D0;H3]                  0       0.000      B[-0.256];p[0.128];h[-0.000]
+fgdef      B           [#5]                        0       0.000      B[0.000]
+fgdef      CH4         [#6;D0;H4]                  0       0.000      C[-0.432];h[0.108]
+fgdef      -CH3        [#6;D1;H3;sp3]              0       0.024      C[-0.330];h[0.110]
+fgdef      >CH2        [#6;D2;H2](*)*              0       0.067      C[-0.140];h[0.070]
+fgdef      >CH-        [#6;D3;H1](*)(*)*           0       0.178      C[0.001];h[-0.001]
+fgdef      >C<         [#6;D4;H0]                  0       0.370      C[0.000]
+fgdef      =CH2        [#6;D1;H2]=*                0      -0.042      C[-0.304];h[0.142];p[0.010]
+fgdef      =CH-        [#6;D2;H1](=*)*             0      -0.004      C[-0.148];h[0.134];p[0.007]
+fgdef      =C<         [#6;D3;H0](=*)(*)*          0       0.122      C[0.060];p[-0.030]
+fgdef      #CH         [#6;D1;H1]#*                0      -0.073      C[-0.253];h[0.253]
+fgdef      #C          [#6;D1;H0]#*               -1      -0.223      C[0.053];lp[-0.053]
+fgdef      =C=         [#6;D2;H0](#*)*             0       0.255      C[0.000]
+fgdef      =C=         [#6;D2;H0](=*)=*            0       0.255      C[0.000]
+fgdef      NH3         [#7;D0;H3]                  0       0.000      N[-0.446];h[0.189];lp[-0.121]
+fgdef      NH4         [#7;D0;H3]                 +1       0.000      N[-0.508];h[0.127]
+fgdef      -NH2        [#7;D1;H2;sp3]*             0      -0.038      N[-0.357];h[0.215];lp[-0.073]
+fgdef      -NH3        [#7;D1;H3;sp3]*            +1      -0.017      N[-0.336];h[0.112]                             #!!!! 
+fgdef      -NH         [#7;D1;H1;sp3]*            -1      -0.017      N[-0.186];h[0.264];lp[-0.039]                  #!!!! 
+fgdef      -NH2p       [#7;D1;H2;sp2]*             0       0.028      N[-0.484];h[0.265];p[-0.023]
+fgdef      -NHp        [#7;D1;H1;sp2]=*            0      -0.353      N[-0.484];h[0.302];lp[0.020];p[0.081]
+fgdef      -NH2p       [#7;D1;H2;sp2]=*           +1       0.028      N[-0.484];h[0.265];p[-0.023]
+fgdef      -NHp        [#7;D1;H1;sp2]*            -1      -0.353      N[-0.484];h[0.302];lp[0.020];p[0.081]
+fgdef      =N          [#7;D1;H0]=[#7;D2;H0]      -1       0.000      N[-0.095];lp[0.095]                            #!!!! 
+fgdef      #N          [#7;D1;H0]#*                0      -0.391      N[-0.159];lp[0.159]
+fgdef      >NH         [#7;D2;H1;sp3]              0      -0.082      N[-0.140];h[0.209];lp[-0.069]
+fgdef      >NH2        [#7;D2;H2;sp3]             +1      -0.007      N[-0.106];h[0.053]                             #!!!! 
+fgdef      >N          [#7;D2;H0;sp3]             -1      -0.007      N[0.092];lp[-0.046]                            #!!!! 
+fgdef      >NHp        [#7;D2;H1;sp2](*)*          0       0.050      N[-0.199];h[0.235];p[-0.018]
+fgdef      >Np         [#7;D2;H0;sp2](*)*         -1      -0.300      N[-0.215];lp[0.011];p[0.102]
+fgdef      >Np         [#7;D2;H0;sp2](=*)*         0      -0.300      N[-0.215];lp[0.011];p[0.102]
+fgdef      >NHp        [#7;D2;H1;sp2](=*)*        +1       0.050      N[-0.199];h[0.235];p[-0.018]
+fgdef      =N=         [#7;D2;H0](#*)*            +1       0.118      N[0.000]                                       #!!!! 
+fgdef      =N=         [#7;D2;H0](=*)=*           +1       0.118      N[0.000]                                       #!!!! 
+fgdef      >N-         [#7;D3;H0;sp3](*)(*)*       0      -0.120      N[0.024];lp[-0.024]
+fgdef      >NH-        [#7;D3;H1;sp3](*)(*)*      +1       0.000      N[0.000];h[0.000]                              #!!!! 
+fgdef      >Np-        [#7;D3;H0;sp2](*)(*)*       0       0.104      N[0.036];p[-0.018]
+fgdef      >Np-        [#7;D3;H0](=*)(*)*         +1       0.104      N[0.036];p[-0.018]
+fgdef      >Np-        [#7;D3;H0](=*)(=*)*         0       0.104      N[0.036];p[-0.018]
+fgdef      >N<         [#7;D4;H0]                 +1       0.000      N[0.000]
+fgdef      H2O         [#8;D0;H2]                  0       0.000      O[-0.396];h[0.256];lp[-0.058]
+fgdef      -OH         [#8;D1;H1]*                 0      -0.062      O[-0.285];h[0.301];lp[-0.008]
+# TODO: have a closer look at this definition, particularly because the charged species has no features
+fgdef      -O          [#8;D1;H0][*;sp3]          -1      -0.492      O[0.000]                                       #!!!! 
+fgdef      -O          [#8;D1;H0]=[*;sp3]          0      -0.469      O[0.000]
+fgdef      -Op         [#8;D1;H0][*;sp2]          -1      -0.378      O[-0.342];lp[0.067];p[0.104]
+fgdef      -Op         [#8;D1;H0]=[*;sp2]          0      -0.378      O[-0.342];lp[0.067];p[0.104]
+fgdef      >O          [#8;D2;H0]                  0      -0.064      O[0.062];lp[-0.031]
+fgdef      H2S         [#16;D0;H2]                 0       0.000      S[-0.484];h[0.181];lp[-0.054];sh[0.115]
+fgdef      -SH         [#16;D1;H1]*                0      -0.015      S[-0.310];h[0.174];lp[-0.031];sh[0.099]
+# TODO: have a closer look at this definition, particularly because the charged species has no features
+fgdef      -S          [#16;D1;H0]*               -1       0.000      S[0.000]                                       #!!!! 
+fgdef      >S          [#16;D2;H0](@[*;sp2])@[*;sp2] 0    -0.099      S[-0.138];lp[-0.034];sh[0.103]
+fgdef      >S          [#16;D2;H0]                 0       0.053      S[-0.081];lp[-0.035];sh[0.077]
+fgdef      =S          [#16;D1;H0]=*               0      -0.248      S[0.038];lp[-0.029];p[0.010]
+fgdef      =S<         [#16;D3;H0](=*)(*)*         0       0.647      S[0.427];p[-0.427]
+fgdef      S           [#16]                       0       0.315      S[0.000]
+fgdef      PH3         [#15;D0;H3]                 0       0.000      P[0.033];h[0.029];lp[-0.120]
+fgdef      >PH2        [#15;D2;H2]                 0       0.000      P[0.200];h[-0.100]
+fgdef      >PH-        [#15;D3;H1]                 0       0.000      P[0.272];h[-0.272]
+fgdef      P           [#15]                       0       0.000      P[0.000]
+fgdef      -F          [#9;D1;H0]                  0      -0.164      F[-0.088];sh[0.088]
+fgdef      -Cl         [#17;D1;H0]                 0      -0.169      Cl[-0.163];sh[0.163]
+fgdef      -Br         [#35;D1;H0]                 0      -0.169      Br[-0.202];sh[0.202]
+fgdef      -I          [#53;D1;H0]                 0      -0.138      I[-0.229];sh[0.229]
+fgdef      ZnTET       [#30;m4]                   +2       0.000      Zn[0.000]
+fgdef      ZnSQP       [#30;m5]                   +2       0.000      Zn[0.000]
+fgdef      ZnOCT       [#30;m6]                   +2       0.000      Zn[0.000]
+fgdef      Zn          [#30]                      +2       0.000      Zn[0.000]
+fgdef      Du          *                           0       0.000      Du[0.000]
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group partial charge rules
+#---------------------------------------------------------------------------------------------------------------------------
+# this table defines partial charges for functional groups
+#---------------------------------------------------------------------------------------------------------------------------
+#          smarts                                                              partial charges (dQ)
+#---------------------------------------------------------------------------------------------------------------------------
+
+# amino acid side chains
+
+fgpcharge  [-CH3;ALA]                                                          0.000
+fgpcharge  [>CH2;ARG][>CH2][>CH2][>NHp][=C<](=[-NHp])[-NH2p]                   0.041,0.035,0.026,0.072,0.180,-0.369,0.015
+fgpcharge  [>CH2;ARG][>CH2][>CH2][>Np]=[=C<]([-NH2p])[-NH2p]                   0.016,0.012,0.016,-0.327,0.171,0.056,0.056
+fgpcharge  [>CH2;ARG][>CH2][>CH2][>NHp][=C<](=[-NH2p])[-NH2p]                  0.029,0.024,0.021,0.050,0.176,0.050,0.050
+fgpcharge  [>CH2;ARG][>CH2][>CH2][>NHp]=[=C<]([-NH2p])[-NH2p]                  0.029,0.024,0.021,0.050,0.176,0.050,0.050
+fgpcharge  [>CH2;ASN][=C<](=[-Op])[-NH2p]                                      0.062,0.332,-0.468,0.074
+fgpcharge  [>CH2;ASP][=C<](=[-Op])[-OH]                                        0.092,0.334,-0.410,-0.016
+fgpcharge  [>CH2;ASP][=C<](=[-Op])[-Op]                                        0.092,0.334,-0.413,-0.413
+fgpcharge  [>CH2;CYS][-SH]                                                     0.127,-0.127
+fgpcharge  [>CH2;CYS][>S][>S]                                                  0.108,-0.108,*
+fgpcharge  [>CH2;GLN][>CH2][=C<](=[-Op])[-NH2p]                                0.017,0.057,0.324,-0.473,0.075
+fgpcharge  [>CH2;GLU][>CH2][=C<](=[-Op])[-OH]                                  0.037,0.075,0.321,-0.421,-0.012
+fgpcharge  [>CH2;GLU][>CH2][=C<](=[-Op])[-Op]                                  0.037,0.075,0.321,-0.4165,-0.4165
+fgpcharge  [>CH2;GLY]([>NHp])[=C<](=[-Op])[N;sp2]                              0.061,0.103,0.286,-0.450,*
+fgpcharge  [>CH-;ILE]([-CH3])[>CH2][-CH3]                                      0.022,0.000,0.000,-0.022
+fgpcharge  [>CH2;LEU][>CH-]([-CH3])[-CH3]                                      0.004,0.052,-0.028,-0.028
+fgpcharge  [>CH2;LYS][>CH2][>CH2][>CH2][-NH2]                                  0.002,0.007,0.018,0.030,-0.057
+fgpcharge  [>CH2;LYS][>CH2][>CH2][>CH2][-NH3]                                  0.002,0.007,0.018,0.030,0.343
+fgpcharge  [>CH2;HIS][=c<]1[=ch-][>nhp][=ch-][>np]1                           -0.009,0.077,-0.034,0.210,0.051,-0.295
+fgpcharge  [>CH2;HIS][=c<]1[=ch-][>np][=ch-][>nhp]1                            0.042,0.070,-0.051,-0.293,0.037,0.195
+fgpcharge  [>CH2;HIS][=c<]1[=ch-][>nhp][=ch-][>nhp]1                           0.017,0.072,-0.043,0.155,0.044,0.155
+fgpcharge  [>CH2;MET][>CH2][>S][-CH3]                                          0.025,0.081,-0.167,0.061
+fgpcharge  [>CH2;PHE][=c<]1[=ch-][=ch-][=ch-][=ch-][=ch-]1                     0.008,0.106,-0.037,-0.012,-0.016,-0.012,-0.037
+fgpcharge  [>CH-;PRO]1([>Np-][>CH2][>CH2][>CH2]1)[=C<](=[-Op])[N;sp2]          0.013,0.084,0.055,0.042,0.014,0.273,-0.481,*
+fgpcharge  [>CH2;SER][-OH]                                                     0.079,-0.079
+fgpcharge  [>CH-;THR]([-CH3])[-OH]                                             0.073,0.011,-0.084
+fgpcharge  [>CH2;TRP][=c<]1[=c<]2[=ch-][=ch-][=ch-][=ch-][=c<]2[>nhp][=ch-]1  -0.001,-0.031,0.058,-0.065,-0.052,-0.039,-0.060,0.070,0.142,-0.022
+fgpcharge  [>CH2;TYR][=c<]1[=ch-][=ch-][=c<]([-OH])[=ch-][=ch-]1               0.001,0.071,-0.036,-0.045,0.130,-0.040,-0.045,-0.036
+fgpcharge  [>CH-;VAL]([-CH3])[-CH3]                                            0.054,-0.027,-0.027
+fgpcharge  [>CH-;PROTEIN]([>NHp])[=C<](=[-Op])[N;sp2]                          0.061,0.098,0.280,-0.439,*
+fgpcharge  [-CH3;ACE][=C<](=[-Op])[N;sp2]                                      0.056,0.432,-0.488,*
+fgpcharge  [-CH3;NME][>NHp][=C<]=[-Op]                                         0.027,-0.027,*,*
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group formal charge rules
+#---------------------------------------------------------------------------------------------------------------------------
+# this table defines how formal charge is distributed within functional groups
+#---------------------------------------------------------------------------------------------------------------------------
+#              smarts                                        distribution
+#---------------------------------------------------------------------------------------------------------------------------
+fgfcharge       [-Op;-1]C=O                                   1,0,1                     carboxylate
+fgfcharge       [-Op;-1]S(=O)(=O)[-Op]                        1,0,1,1,1                 sulphate ion
+fgfcharge       [-Op;-1]P(=O)([-Op])[-Op]                     1,0,1,1,1                 phosphate ion
+fgfcharge       [-Op;-1]S(=O)(=O)[>O]                         1,0,1,1,0                 sulphate group
+fgfcharge       [-Op;-1]P(=O)([-Op])[>O]                      1,0,1,1,0                 phosphate group
+fgfcharge       [>np;-1]1nnnc1                                1,1,1,1,0                 tetrazole (1)
+fgfcharge       n1[>np;-1]nnc1                                1,1,1,1,0                 tetrazole (2)
+fgfcharge       [-Op;-1]N(=O)[#6]                             1,1,1,0                   nitro group
+fgfcharge       [-NH2p;+1]=C([-NH2p])[#6]                     1,0,1,0                   amidinium group
+fgfcharge       [-NH2p;+1]=C([-NH2p])[>NHp][#6]               1,0,1,1,0                 guanidinium group (1)
+fgfcharge       [-NH2p]C([-NH2p])=[>NHp;+1][#6]               1,0,1,1,0                 guanidinium group (2)
+fgfcharge       [>NHp;+1]1=c[>NHp]c=c1                        1,0,1,0,0                 imidazolium group
+fgfcharge       [-Op;-1]-[#6]=;@[#6]([#6;!R]=O)-;@[#6]=[-Op]  1,0,0,0,1,0,1
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# fgroup geometries
+#---------------------------------------------------------------------------------------------------------------------------
+# feature positions are defined using the polar coordinates alpha and beta 
+# 
+# alpha is the angle with u
+# beta is the rotation around u, relative to the plane defined by v
+#---------------------------------------------------------------------------------------------------------------------------
+#              smarts                         u axis                                                  v axis
+#---------------------------------------------------------------------------------------------------------------------------
+fggeom         [*;D0,A]                       a[1,0,0]                                                a[0,1,0]
+fggeom         [*;D1]~[*;D1]                  v[1,0]                                                  p[v[1,0],a[0,1,0]]
+fggeom         [*;D1]#*                       v[1,0]                                                  []
+fggeom         [*;D2]#*                       v[0,1]                                                  []
+fggeom         [*;D2](=*)=*                   v[0,1]                                                  []
+fggeom         [*;D1]~[*;D2]~*                v[1,0]                                                  p[v[1,2],v[1,0]]
+fggeom         [*;D1]~[*;D3;sp3](~*)~*        v[1,0]                                                  p[v[1,0],s[v[1,2],v[1,3]]]
+fggeom         [*;D1]~[*;D3;sp2](~[*;D1])~*   v[1,0]                                                  p[v[1,0],v[1,2]]
+fggeom         [*;D1]~[*;D3;sp2](~*)~*        v[1,0]                                                  s[p[v[1,0],v[1,2]],p[v[1,3],v[1,0]]]
+fggeom         [*;D1]~[*;D4](~*)(~*)~*        v[1,0]                                                  p[v[1,0],v[1,2]]
+fggeom         [*;D1]~*                       v[1,0]                                                  []
+fggeom         [*;D2](~*)~*                   s[v[1,0],v[2,0]]                                        p[v[0,1],v[0,2]]
+fggeom         [*;D3;sp3](~*)(~*)~*           s[v[1,0],v[2,0],v[3,0]]                                 []
+fggeom         [*;D3;sp2](~*)(~*)~*           s[p[v[0,1],v[0,2]],p[v[0,2],v[0,3]],p[v[0,3],v[0,1]]]   []
+fggeom         *                              []                                                      []
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group conformer table
+#---------------------------------------------------------------------------------------------------------------------------
+#              smarts                            u axis           v axis
+#---------------------------------------------------------------------------------------------------------------------------
+fgconf         [BH3]                             free             [0-120]
+fgconf         [CH4]                             free             [0-120]
+fgconf         [-CH3][*;D4](*)(*)*               fixed            [E,60,18];[E,-60,18];[E,180,18]
+fgconf         [NH3]                             free             [0-120]
+fgconf         [NH4]                             free             [0-120]
+fgconf         [-NH2][C;D2]*                     fixed            [4.4,0,16];[2.4,-120,20];[2.4,120,20]
+fgconf         [-NH2][C;D3](*)*                  fixed            [1,0,19];[1,-120,19];[1,120,19]
+fgconf         [-NH2][C;D4](*)(*)*               fixed            [1,0,18];[1,-120,18];[1,120,18]
+fgconf         [-NH2][#6;D3;sp2]                 fixed            [1,30,25];[1,-150,25]
+fgconf         [-NH2][N]*                        fixed            [1,0,20];[1,-120,20];[1,120,20]
+fgconf         [-NH2]                            fixed            [0-360]
+fgconf         [-NH2p]~[C;D3;sp2]                fixed            fixed
+fgconf         [-NH2p]                           fixed            [0-360]
+fgconf         [-NH3][C;D2]*                     fixed            [E,0,19];[E,-120,19];[E,120,19]
+fgconf         [-NH3][C;D3](*)*                  fixed            [E,0,18];[E,-120,18];[E,120,18]
+fgconf         [-NH3][C;D4](*)(*)*               fixed            [E,60,18];[E,-60,18];[E,180,18]
+fgconf         [-NH3]                            fixed            [0-360]
+fgconf         [-NH][C;D2]*                      fixed            [0.6,0,40];[3.5,-120,18];[3.5,120,18]
+fgconf         [-NH][C;D3](*)*                   fixed            [1.8,0,19];[3.2,-120,19];[3.2,120,19]
+fgconf         [-NH][C;D4](*)(*)*                fixed            [1,0,19];[1,-120,19];[1,120,19]
+fgconf         [-NH][#6;D3;sp2]                  fixed            [1,30];[1,-150]
+fgconf         [-NH]                             fixed            [0-360]
+fgconf         [-NHp]                            fixed            [1,0];[1,180]
+fgconf         [>NH]                             fixed            [1,0];[1,180]
+fgconf         [H2O]                             free             [0-180]
+fgconf         [-OH][C;D1]                       fixed            [1,-60,28];[1,60,28];[1,180,28]
+fgconf         [-OH][C;D2]*                      fixed            [1.7,0,28];[2.6,-120,22];[2.6,120,22]
+fgconf         [-OH][C;D3](*)*                   fixed            [2.5,0,23];[2.3,-120,23];[2.3,120,23]
+fgconf         [-OH][C;D4](*)(*)*                fixed            [1,0,28];[1,-120,28];[1,120,28]
+fgconf         [-OH]C(=O)*                       fixed            [12,0,15];[0.02,180,22]
+fgconf         [-OH][#6;D3;sp2]                  fixed            [1,0,23];[1,180,23]
+fgconf         [-OH][>NHp]C(=O)[#6]              fixed            [1,0,30];[1,180,30]
+fgconf         [-OH]                             fixed            [0-360]
+fgconf         [H2S]                             free             [0-180]
+fgconf         [-SH][C;D2]*                      fixed            [1.1,0,30];[3,-120,22];[3,120,22]   
+fgconf         [-SH][C;D3](*)*                   fixed            [2.6,0,24];[2,-120,24];[2,120,24]
+fgconf         [-SH][C;D4](*)(*)*                fixed            [1,0,23];[1,-120,23];[1,120,23]
+fgconf         [-SH][#6;D3;sp2]                  fixed            [1,0,62];[1,180,62]
+fgconf         [-SH]                             fixed            [0-360]
+fgconf         [PH3]                             free             [0-120]
+fgconf         [ZnTET]                           free             [0-120]
+fgconf         [ZnTBP]                           free             [0-120]
+fgconf         [ZnSQP]                           free             [0-90]
+fgconf         [ZnOCT]                           free             [0-90]
+fgconf         *                                 fixed            fixed
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group pKa table
+#
+# pKa values for functional groups.The first atom MUST be the atom that is deprotonated, and only one pKa transformation
+# (the first matched) is used, so the order is important.
+#---------------------------------------------------------------------------------------------------------------------------
+#            acid                              conjugated base                      pKa
+#---------------------------------------------------------------------------------------------------------------------------
+
+# protein functional groups:
+
+fgpka        [-OH;ASP]C(=O)[C;D2]              [-Op;ASP]C(=O)[C;D2]                 4.0       ASP side chain
+fgpka        [-OH;GLU]C(=O)[C;D2]              [-Op;GLU]C(=O)[C;D2]                 4.4       GLU side chain
+fgpka        [-NH3;LYS][C;D2][C;D2]            [-NH2;LYS][C;D2][C;D2]              10.4       LYS side chain
+fgpka        [>nhp;HIS;+1]1c[>nhp]cc1          [>np;HIS]1c[>nhp]cc1                 6.8       HIS side chain
+fgpka        [-NH2p;ARG]=[C;D3](N)N            [-NHp;ARG]=[C;D3](N)N               13.5       ARG side chain
+fgpka        [-OH;TYR]c1ccccc1                 [-Op;TYR]c1ccccc1                    9.6       TYR side chain
+fgpka        [-SH;CYS][C;D2]                   [-S;CYS][C;D2]                       8.3       CYS side chain
+fgpka        [-NH3;PROTEIN]CC(=O)NC            [-NH2;PROTEIN]CC(=O)NC               8.0       protein N-terminus
+fgpka        [-OH;PROTEIN][C;D3]C(=O)          [-Op;PROTEIN][C;D3]C(=O)             3.6       protein C-terminus
+
+# phosph(on)ates and sulph(on)ates:
+
+fgpka        [-OH]P([-OH])(=O)*                [-O]P([-OH])(=O)*                    1.0       terminal phosph(on)ate (1)
+fgpka        [-OH]P([-O])(=O)*                 [-O]P([-O])(=O)*                     7.0       terminal phosph(on)ate (2)
+fgpka        [-OH]P(=O)(**)**                  [-O]P(=O)(**)**                      1.0       linking phosph(on)ate
+fgpka        [-OH]S(=O)(=O)*                   [-O]S(=O)(=O)*                      -2.6       sulph(on)ate
+
+# carboxylic acids:
+
+fgpka        [-OH]C(=O)c1ccccc1                [-Op]C(=O)c1ccccc1                   4.0       benzoic acid
+fgpka        [-OH]C(=O)*                       [-Op]C(=O)*                          4.8       generic carboxylic acid
+
+# aliphatic amines:
+
+fgpka        [>NH2]1CCNCC1                     [>NH]1CCNCC1                         9.8       piperazine
+fgpka        [>NH-]1(C)CCNCC1                  [>N-]1(C)CCNCC1                      9.8       N-substuted piperazine
+fgpka        [-NH3]CCN                         [-NH2]CCN                            9.6
+fgpka        [>NH2](C)CCN                      [>NH](C)CCN                          9.6
+fgpka        [>NH-](C)(C)CCN                   [>NH-](C)(C)CCN                      9.0
+fgpka        [-NH3]CCCN                        [-NH2]CCCN                          10.3
+fgpka        [>NH2](C)CCCN                     [>NH](C)CCCN                        10.3
+fgpka        [>NH-](C)(C)CCCN                  [>N-](C)(C)CCCN                     10.3
+fgpka        [>NH2]1CCOCC1                     [>NH]1CCOCC1                         8.4       morpholine
+fgpka        [>NH-]1(C)CCOCC1                  [>N-]1(C)CCOCC1                      7.4       N-substituted morpholine
+fgpka        [-NH3]CCO                         [-NH2]CCO                            9.5
+fgpka        [>NH2](C)CCO                      [>NH](C)CCO                          9.4
+fgpka        [>NH-](C)(C)CCO                   [>NH-](C)(C)CCO                      9.0
+fgpka        [-NH3]CCCO                        [-NH2]CCCO                          10.0
+fgpka        [>NH2](C)CCCO                     [>NH](C)CCCO                        10.0
+fgpka        [>NH-](C)(C)CCCO                  [>N-](C)(C)CCCO                     10.0
+fgpka        [-NH3]C                           [-NH2]C                             10.8       generic primary amine
+fgpka        [>NH2](C)C                        [>NH](C)C                           11.1       generic secondary amine
+fgpka        [>NH-](C)(C)C                     [>N-](C)(C)C                        10.8       generic tertiary amine
+
+# aromatic amines:
+
+# TODO: other aromatic heterocycles
+
+fgpka        [>nhp;+1]1c2ccccc2[>nhp]c1           [>np]1c2ccccc2[>nhp]c1            5.5       benzimidazole
+fgpka        [>nhp;+1]1c2c[>nhp]c[>np]c2[>nhp]c1  [>np]1c2c[>nhp]c[>np]c2[>nhp]c1   2.8       purine
+
+fgpka        [>nhp;+1]1c[>nhp]cc1                 [>np]1c[>nhp]cc1                  7.0       imidazole
+fgpka        [>nhp]1[>np][>np][>np]c1             [>np;-1]1[>np][>np][>np]c1        4.9       tetrazole
+
+# pyridines, O,S-substituted
+
+fgpka        [>nhp;+1]1c(-[#8,#16])cccc1          [>np]1c(-[#8,#16])cccc1           3.2       2-substituted
+fgpka        [>nhp;+1]1cc(-[#8,#16])ccc1          [>np]1cc(-[#8,#16])ccc1           4.8       3-substituted
+fgpka        [>nhp;+1]1ccc(-[#8,#16])cc1          [>np]1ccc(-[#8,#16])cc1           6.5       4-substituted
+
+# pyridines, F,Cl,Br,I-substituted
+
+fgpka        [>nhp;+1]1c(-[#9,#17,#35,#53])cccc1  [>np]1c(-[#9,#17,#35,#53])cccc1   0.6       2-substituted
+fgpka        [>nhp;+1]1cc(-[#9,#17,#35,#53])ccc1  [>np]1cc(-[#9,#17,#35,#53])ccc1   2.8       3-substituted
+fgpka        [>nhp;+1]1ccc(-[#9,#17,#35,#53])cc1  [>np]1ccc(-[#9,#17,#35,#53])cc1   3.8       4-substituted
+
+#pyridines, N-substituted
+
+fgpka        [>nhp;+1]1c([-NH2p])cccc1            [>np]1c([-NH2p])cccc1             6.8       2-amino-pyridine
+fgpka        [>nhp;+1]1cc([-NH2p])ccc1            [>np]1cc([-NH2p])ccc1             6.0       3-amino-pyridine
+fgpka        [>nhp;+1]1ccc([-NH2p])cc1            [>np]1ccc([-NH2p])cc1             9.1       4-amino-pyridine
+
+fgpka        [>nhp;+1]1c(C)cccc1                  [>np]1c(C)cccc1                   6.0       2-carbon-substituted pyridine
+fgpka        [>nhp;+1]1cc(C)ccc1                  [>np]1cc(C)ccc1                   5.7       3-carbon-substituted pyridine
+fgpka        [>nhp;+1]1ccc(C)cc1                  [>np]1ccc(C)cc1                   6.0       4-carbon-substituted pyridine
+fgpka        [>nhp;+1]1ccccc1                     [>np]1ccccc1                      5.2       pyridine
+
+# other:
+
+fgpka        [-OH][>NHp]C(=O)[#6]                 [-Op][>NHp]C(=O)[#6]              8.7       hydroxamic acid
+fgpka        [-OH]c1ccccc1                        [-Op]c1ccccc1                    10.0       phenol
+fgpka        [-OH]c1ocnn1                         [-Op]c1ocnn1                      3.0       
+fgpka        [-OH]c1cnnn1                         [-Op]c1cnnn1                      3.9       
+fgpka        [-OH]-[#6]=;@[#6]([#6;!R]=O)-;@[#6]=[-Op] [-Op;-1]-[#6]=;@[#6]([#6;!R]=O)-;@[#6]=[-Op] 5.0           
+
+#---------------------------------------------------------------------------------------------------------------------------
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
+# feature group transformations table
+#---------------------------------------------------------------------------------------------------------------------------
+#              state1                                              state2                                        propensity     invert
+#---------------------------------------------------------------------------------------------------------------------------
+
+# TODO: always convert nitros to Astex convention: N(=O)=O
+
+# [-OH]/[>Np] to [-Op]/[>NHp] tautomerism in aromatic ring systems
+
+fgtrans        [-OH]-c1=[>Np]-n=c-c1                               [-Op]=c1-[>NHp]-n=c-c1                                 1       1    pyrazolone (p345)
+
+fgtrans        [-OH]-[#6]=;:;@[>np]                                                  [-Op]=[#6]-;:;@[>nhp]                                                  100       1    1-2 generic
+fgtrans        [-OH]-[#6]=;:;@*-;:;@*=;:;@[>np]                                      [-Op]=[#6]-;:;@*=;:;@*-;:;@[>nhp]                                      100       1    1-4 generic
+fgtrans        [-OH]-[#6]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]                          [-Op]=[#6]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp]                          100       1    1-6 generic
+fgtrans        [-OH]-[#6]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]              [-Op]=[#6]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp]              100       1    1-8 generic
+fgtrans        [-OH]-[#6]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]  [-Op]=[#6]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp]  100       1    1-10 generic
+
+# [-SH]/[>Np] to [=S]/[>NHp] tautomerism in aromatic ring systems
+
+fgtrans        [-SH]-[#6]=;:;@[>np]                                                  [=S]=[#6]-;:;@[>nhp]                                                   100       1    1-2 generic
+fgtrans        [-SH]-[#6]=;:;@*-;:;@*=;:;@[>np]                                      [=S]=[#6]-;:;@*=;:;@*-;:;@[>nhp]                                       100       1    1-4 generic
+fgtrans        [-SH]-[#6]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]                          [=S]=[#6]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp]                           100       1    1-6 generic
+fgtrans        [-SH]-[#6]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]              [=S]=[#6]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp]               100       1    1-8 generic
+fgtrans        [-SH]-[#6]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]  [=S]=[#6]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp]   100       1    1-10 generic
+
+# [>NHp]/[>Np] to [>Np/>NHp] tautomerism in aromatic ring systems
+
+fgtrans        [>nhp]1-c2-c=c-c=c-c=2-c=[>np]-1                    [>np]1=c2-c=c-c=c-c-2=c-[>nhp]-1                   0.025       1    indazole (p291)
+fgtrans        [>nhp]1-c2=c-c=c-c=c-2-c=[>np]-1                    [>np]1=c2-c=c-c=c-c-2=c-[>nhp]-1                   0.025       1    indazole (p291)
+
+fgtrans        [>nhp;+0]-;:;@*=;:;@[>np]                                                  [>np]=;:;@*-;:;@[>nhp;+0]                                                     1       0    1-3 generic
+fgtrans        [>nhp;+0]-;:;@*=;:;@*-;:;@*=;:;@[>np]                                      [>np]=;:;@*-;:;@*=;:;@*-;:;@[>nhp;+0]                                         1       0    1-5 generic
+fgtrans        [>nhp;+0]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]                          [>np]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp;+0]                             1       0    1-7 generic
+fgtrans        [>nhp;+0]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@[>np]              [>np]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp;+0]                 1       0    1-9 generic
+fgtrans        [>nhp;+0]-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*=;:;@*-;:;@[>np]  [>np]=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@*=;:;@*-;:;@[>nhp;+0]     1       0    1-11 generic
+
+# exocyclic [>NHp]/>Np] to [>Np/>NHp] tautomerism
+
+fgtrans        [>np]1=;:[#6](-[>NHp;!R])-;:*~;:*~;:*~;:1           [>nhp]1-;:[#6](=[>Np;!R])-;:*~;:*~;:*~;:1              1       1    5-rings
+
+# other tautomerisms
+
+fgtrans        C(=[-Op])[-OH]                                      C([-OH])=[-Op]                                         1       0    carboxylic acid
+fgtrans        P(=[-O])[-OH]                                       P([-OH])=[-O]                                          1       0    phosphates
+fgtrans        S(=[-O])[-OH]                                       S([-OH])=[-O]                                          1       0    sulphates
+fgtrans        [-Op]=[#6]-;@[#6]=;@[#6]-[-OH]                      [-OH]-[#6]=;@[#6]-;@[#6]=[-Op]                         1       0    
+
+# side-chain flips:
+
+fgtrans        [C;ASN;D2]C(=[-Op])[-NH2p]                          [C;ASN;D2]C([-NH2p])=[-Op]                             1      0    ASN side-chain flip
+fgtrans        [C;GLN;D2]C(=[-Op])[-NH2p]                          [C;GLN;D2]C([-NH2p])=[-Op]                             1      0    GLN side-chain flip
+fgtrans        [>NHp;HIS]1[=CH-]=[#6][>Np]=[=CH-]1                 [=CH-;HIS]1=[>Np][#6]=[=CH-][>NHp]1                    1      0    HIS side-chain flip
+
+# metal coordination geometries
+
+#fgtrans        [ZnTET]                                             [ZnTBP]                                                1       1
+#fgtrans        [ZnTBP]                                             [ZnSQP]                                                1       1
+#fgtrans        [ZnSQP]                                             [ZnOCT]                                                1       1
+#---------------------------------------------------------------------------------------------------------------------------
+

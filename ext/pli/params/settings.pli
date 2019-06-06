@@ -1,0 +1,36 @@
+# PLI example settings file
+
+mode undefined
+sfunc pliff
+protein undefined
+ligand undefined
+symmetry undefined
+selection undefined
+jobname pli
+output system
+oformat formatted
+astyle pliff
+oatoms selection
+warnings 1
+pdict 1
+ldict 1
+phs 0
+lhs 0
+resolve_side_chains selection
+keep_waters all
+exact_voronoi_areas 1
+site_def_type ligand
+site_max_dist 6.0
+site_ligand_file undefined
+site_file undefined
+probe_name H2O
+grid_file pli.grd
+optimise_u_axis 1
+grid_spacing 0.5
+grid_padding 6.0
+n_lebedev_points 26
+minimise 0
+min_max_iter 100
+min_algorithm cg
+min_space ligand,water
+use_clash_potentials 1
