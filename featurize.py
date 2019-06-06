@@ -6,6 +6,7 @@ import os
 
 import numpy as np
 from rdkit import Chem
+import xarray as xr
 
 from .atom_features import ATOM_FEATURES
 
@@ -71,8 +72,6 @@ class Featurize(object):
         return id_smiles
 
     def __featurize_smiles(self, id_smiles):
-        # defer import as this not required for prediction
-        import xarray as xr
         valid_ids = []
         invalid_ids = []
         valid_smiles = []
