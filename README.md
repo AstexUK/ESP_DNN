@@ -1,5 +1,5 @@
 # ESP-DNN: Graph-convolutional DNN for predicting electrostatic potential surfaces
-
+![TOC](aux/toc.png)
 This repository contains the trained models and code for generating [PQR files](https://apbs-pdb2pqr.readthedocs.io/en/latest/formats/pqr.html)
 for ligands and proteins that allow creating DFT-quality molecular ESP surfaces.
 The PQR files record partial charges and radii for each atom in the PDB
