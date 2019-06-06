@@ -113,3 +113,6 @@ We recommend using [NGL viewer](http://nglviewer.org/ngl/)
     * surfaceType = av
     * radiusType = explicit
     * colorScheme = electrostatic
+
+# Contact
+For any suggestions, comments, issues, please contact [this email](mailto://pli@astx.com).
