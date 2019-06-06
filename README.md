@@ -38,7 +38,7 @@ following commands:
 
 ```
 conda env create -f environment.yml
-source activate esp-dnn
+source activate esp-dnn-env
 ```
 
 ## (Optionally) installing this package
