@@ -17,7 +17,8 @@ log = logging.getLogger(__name__)
 class Featurize(object):
     def __init__(self, smiles_file=None,
                  id_smiles=None,
-                 features_file=os.path.join(SCRIPT_PATH, "data", "features.dat"),
+                 features_file=os.path.join(
+                     SCRIPT_PATH, "data", "features.dat"),
                  max_hac=None,
                  pad_value=np.nan):
         self.smiles_file = smiles_file
@@ -38,9 +39,9 @@ class Featurize(object):
         self.ds.to_netcdf(filename)
 
     def __get_feature_list(self):
-        features = [l.strip() for l in file(self.features_file).read().splitlines()]
-        features = sorted([f for f in features if f])
-        return features
+        return sorted(f for f in (
+            l.strip() for l in open(self.features_file).readlines())
+            if f)
 
     def get_mol_fetaures(self, mol):
         n_atoms = self.max_hac or mol.GetNumAtoms()
@@ -59,7 +60,8 @@ class Featurize(object):
         return feature_array, neighbor_array
 
     def read_smiles_file(self):
-        """ read comma-separated smiles file (ID in the first column and smiles in the second) """
+        """ read comma-separated smiles file (ID in the first column and smiles
+        in the second) """
 
         id_smiles = []
         with open(self.smiles_file) as f:
@@ -87,16 +89,19 @@ class Featurize(object):
                 neighbor_arrays.append(na)
                 valid_ids.append(id_)
                 valid_smiles.append(smiles)
-            except AssertionError, _:
+            except AssertionError:
                 invalid_ids.append(id_)
                 continue
-        ds = xr.Dataset({"X": (("mol_id", "atom_id", "feature"), np.stack(feature_arrays)),
-                         "D": (("mol_id", "atom_id", "atom_id"), np.stack(neighbor_arrays)),
-                         "SMILES": (("mol_id",), list(valid_smiles))},
-                        coords={"mol_id": valid_ids,
-                                "atom_id": range(self.max_hac),
-                                "feature": self.features
-                                })
+
+        ds = xr.Dataset(
+            {"X": (("mol_id", "atom_id", "feature"), np.stack(feature_arrays)),
+             "D": (("mol_id", "atom_id", "atom_id"), np.stack(neighbor_arrays)),
+             "SMILES": (("mol_id",), list(valid_smiles))},
+            coords={"mol_id": valid_ids,
+                    "atom_id": range(self.max_hac),
+                    "feature": self.features
+                    })
+
         if len(invalid_ids):
             log.warn("%d invalid smiles found" % len(invalid_ids))
 
@@ -106,15 +111,20 @@ class Featurize(object):
 def main():
     parser = ArgumentParser()
     parser.add_argument("-i", "--input_file",
-                        help="Input smiles file (a comma-separated file containing molecule id and smiles)")
+                        help="Input smiles file (a comma-separated file "
+                        "containing molecule id and smiles)")
     parser.add_argument("-f", "--features_file",
-                        help="file containing list of features", default=os.path.join(SCRIPT_PATH, "feature_list.dat"))
+                        help="file containing list of features",
+                        default=os.path.join(SCRIPT_PATH, "feature_list.dat"))
     parser.add_argument("--max_hac",
-                        help="Maximum heavy atom count. feature matrices will have these many atoms", type=int)
+                        help="Maximum heavy atom count. feature matrices will "
+                        "have these many atoms", type=int)
     parser.add_argument("-o", "--output_file",
-                        help="Input smiles file (a comma-separated file containing molecule id and smiles)")
+                        help="Input smiles file (a comma-separated file "
+                        "containing molecule id and smiles)")
     args = parser.parse_args()
-    f = Featurize(args.input_file, features_file=args.features_file, max_hac=args.max_hac)
+    f = Featurize(args.input_file,
+                  features_file=args.features_file, max_hac=args.max_hac)
     f.process()
     f.export(args.output_file)
 

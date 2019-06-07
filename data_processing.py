@@ -32,15 +32,18 @@ def normalize(a, skip_norm_mask=None, params_pickle=None, params_dict=None):
     return np.reshape((a_2d - mean) / std, a.shape), mean, std
 
 
-def ds_to_data(ds, normalize_x=True, norm_params_infile=None, norm_param_outfile=None):
+def ds_to_data(ds, normalize_x=True, norm_params_infile=None,
+               norm_param_outfile=None):
     """ Converts xarray dataset to numpy arrays """
     x = ds.X.values
 
     train_mask = ds.train.values | ds.valid.values
 
     if normalize_x:
-        skip_norm_mask = np.array([v.startswith("is_") for v in ds.feature.values])
-        x, mean, std = normalize(x, skip_norm_mask=skip_norm_mask, params_pickle=norm_params_infile)
+        skip_norm_mask = np.array([v.startswith("is_")
+                                   for v in ds.feature.values])
+        x, mean, std = normalize(
+            x, skip_norm_mask=skip_norm_mask, params_pickle=norm_params_infile)
         if norm_param_outfile:
             with open(norm_param_outfile, "wb") as f:
                 pickle.dump(dict(mean=mean, std=std), f)

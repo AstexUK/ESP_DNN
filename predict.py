@@ -26,7 +26,8 @@ SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
 log = logging.getLogger("predict" if __name__ == "__main__" else __name__)
 
 EQUIVALENT_ATOMS = (
-    # (smarts, tuple of atom ids in the smarts that are equivalent in terms of charge correction, charge correction)
+    # (smarts, tuple of atom ids in the smarts that are equivalent in terms
+    # of charge correction, charge correction)
     # carboxylate
     ("[CX3](=O)[O-]", (1, 2)),
     # ammonium
@@ -54,7 +55,9 @@ def get_pli():
         if os.path.exists(os.path.join(pli_dir, "bin", "pli")):
             os.environ["PLI_DIR"] = pli_dir
         else:
-            raise AIChargeError("Neither PLI_DIR environment variable is not defined nor PLI executable could be found in %s" % pli_dir)
+            raise AIChargeError(
+                "Neither PLI_DIR environment variable is not defined "
+                "nor PLI executable could be found in %s" % pli_dir)
     return os.path.join(os.environ["PLI_DIR"], "bin/pli")
 
 
@@ -92,8 +95,10 @@ class MolNeutralizer(object):
             # Amides
             ("[$([N-]C=O)]", "N"),
         ] + substitutions
+
         self.reactions = [
-            (Chem.MolFromSmarts(x), Chem.MolFromSmiles(y, False)) for x, y in patts]
+            (Chem.MolFromSmarts(x), Chem.MolFromSmiles(y, False))
+            for x, y in patts]
 
     def neutralize_smiles(self, smiles):
         return self.neutralize(Chem.MolFromSmiles(smiles))
@@ -108,9 +113,12 @@ class MolNeutralizer(object):
 
 
 class MolChargePredictor(object):
-    def __init__(self, model_file=os.path.join(SCRIPT_PATH, "model", "trained_model.h5"),
-                 features_file=os.path.join(SCRIPT_PATH, "model", "feature_list.dat"),
-                 norm_params_file=os.path.join(SCRIPT_PATH, "model", "norm_params.pkl"),
+    def __init__(self, model_file=os.path.join(SCRIPT_PATH, "model",
+                                               "trained_model.h5"),
+                 features_file=os.path.join(
+                     SCRIPT_PATH, "model", "feature_list.dat"),
+                 norm_params_file=os.path.join(
+                     SCRIPT_PATH, "model", "norm_params.pkl"),
                  debug=False,
                  clean_tmp_dir=True):
         # defer import until needed
@@ -124,11 +132,13 @@ class MolChargePredictor(object):
         self.clean_tmp_dir = clean_tmp_dir
 
         self.featurizer = Featurize(features_file=features_file, pad_value=0.0)
-        self.skip_norm_mask = np.array([v.startswith("is_") for v in self.featurizer.features])
+        self.skip_norm_mask = np.array(
+            [v.startswith("is_") for v in self.featurizer.features])
         with open(norm_params_file) as f:
             self.norm_params_dict = pickle.load(f)
         self.neutralizer = MolNeutralizer()
-        self.equivalent_atoms = [(Chem.MolFromSmarts(ea[0]), ea[1]) for ea in EQUIVALENT_ATOMS]
+        self.equivalent_atoms = [(Chem.MolFromSmarts(ea[0]), ea[1])
+                                 for ea in EQUIVALENT_ATOMS]
 
     @staticmethod
     def read_molecule_file(filepath, removeHs=True):
@@ -140,7 +150,8 @@ class MolChargePredictor(object):
             raise AIChargeError("File format not understood")
 
         if mol is None:
-            raise AIChargeError("Could not create molecule from file %s." % filepath)
+            raise AIChargeError(
+                "Could not create molecule from file %s." % filepath)
         else:
             return mol
 
@@ -151,29 +162,41 @@ class MolChargePredictor(object):
             for substruct in mol.GetSubstructMatches(fr):
                 for aid in substruct:
                     a = mol.GetAtomWithIdx(aid)
-                    a.GetPDBResidueInfo().SetOccupancy(a.GetPDBResidueInfo().GetOccupancy() + CHARGE_CORRECTION * a.GetFormalCharge())
+                    a.GetPDBResidueInfo().SetOccupancy(
+                        a.GetPDBResidueInfo()
+                        .GetOccupancy() + CHARGE_CORRECTION *
+                        a.GetFormalCharge())
 
         for (patt, aids) in self.equivalent_atoms:
             for substruct in mol.GetSubstructMatches(patt):
-                final_charge = sum([mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().GetOccupancy()
+                final_charge = sum([mol.GetAtomWithIdx(substruct[aid])
+                                       .GetPDBResidueInfo()
+                                       .GetOccupancy()
                                     for aid in aids]) / float(len(aids))
                 for aid in aids:
-                    mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().SetOccupancy(final_charge)
+                    mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo(
+                    ).SetOccupancy(final_charge)
 
     def get_equivalent_atoms(self, mol):
         for (patt, aids, correction) in self.equivalent_atoms:
             for substruct in mol.GetSubstructMatches(patt):
 
-                final_charge = (sum([mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().GetOccupancy()
-                                     for aid in aids]) + correction) / float(len(aids))
+                final_charge = sum([mol.GetAtomWithIdx(substruct[aid])
+                                    .GetPDBResidueInfo()
+                                    .GetOccupancy()
+                                    for aid in aids]) + correction
+                final_charge /= float(len(aids))
                 for aid in aids:
-                    mol.GetAtomWithIdx(substruct[aid]).GetPDBResidueInfo().SetOccupancy(final_charge)
+                    mol.GetAtomWithIdx(substruct[aid])
+                        .GetPDBResidueInfo()
+                        .SetOccupancy(final_charge)
 
     def get_dqs(self, mol_with_charges):
 
         dqs = [(atom.GetPDBResidueInfo().GetSerialNumber(),
                 atom.GetPDBResidueInfo().GetOccupancy())
-               for atom in mol_with_charges.GetAtoms() if atom.GetAtomicNum() != 1]
+               for atom in mol_with_charges.GetAtoms()
+               if atom.GetAtomicNum() != 1]
 
         return dqs
 
@@ -198,34 +221,46 @@ class MolChargePredictor(object):
         try:
             # TODO: update rdkit to have proximity bonding turned off
             try:
-                input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False, proximityBonding=False)
-            except:
-                input_mol_with_Hs = Chem.MolFromPDBBlock(pdb_block, removeHs=False)
+                input_mol_with_Hs = Chem.MolFromPDBBlock(
+                    pdb_block, removeHs=False, proximityBonding=False)
+            except Exception:
+                input_mol_with_Hs = Chem.MolFromPDBBlock(
+                    pdb_block, removeHs=False)
 
             try:
-                input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True, proximityBonding=False)
-            except:
-                input_mol = neutral_mol = Chem.MolFromPDBBlock(pdb_block, removeHs=True)
+                input_mol = neutral_mol = Chem.MolFromPDBBlock(
+                    pdb_block, removeHs=True, proximityBonding=False)
+            except Exception:
+                input_mol = neutral_mol = Chem.MolFromPDBBlock(
+                    pdb_block, removeHs=True)
 
             if input_mol_with_Hs is None or input_mol is None:
-                raise AIChargeError("Failed to read molecule from the PDB block")
+                raise AIChargeError(
+                    "Failed to read molecule from the PDB block")
 
-            # We need a neutral mol because our model was trained on neutral mols
-            if sum([a.GetFormalCharge() for a in input_mol.GetAtoms()]) != 0.:
+            # We need a neutral mol because our model was trained on
+            # neutral mols
+            if sum(a.GetFormalCharge() for a in input_mol.GetAtoms()) != 0.:
                 neutral_mol = self.neutralize(input_mol)
 
             # get features and neighbour matrices
-            features_array, neighbours_array = self.featurizer.get_mol_fetaures(neutral_mol)
+            features_array, neighbours_array = (
+                self.featurizer.get_mol_fetaures(neutral_mol))
+
             features_array = np.expand_dims(features_array, axis=0)
             neighbours_array = np.expand_dims(neighbours_array, axis=0)
-            features_array, _, _ = normalize(features_array, skip_norm_mask=self.skip_norm_mask, params_dict=self.norm_params_dict)
+            features_array, _, _ = normalize(
+                features_array, skip_norm_mask=self.skip_norm_mask,
+                params_dict=self.norm_params_dict)
 
             # https://github.com/keras-team/keras/issues/5640
             # predict charges
             with self.graph.as_default():
-                charges = self.model.predict([features_array, neighbours_array]).flatten()
+                charges = self.model.predict(
+                    [features_array, neighbours_array]).flatten()
 
-            # Because we predict charge on each atom individually, they might not add up to zero.
+            # Because we predict charge on each atom individually,
+            # they might not add up to zero.
             charges = charges.astype("float")
             charges = charges - (charges.sum() / len(charges))
 
@@ -247,9 +282,10 @@ class MolChargePredictor(object):
             # get dqs
             return self.get_dqs(input_mol_with_Hs)
 
-        except:
+        except Exception:
             tb = traceback.format_exc()
-            raise AIChargeError("Unhandled error occrued. Here is the traceback:\n %s" % tb)
+            raise AIChargeError(
+                "Unhandled error occrued. Here is the traceback:\n %s" % tb)
 
     def dqs2pqr(self, pdb_block, dqs):
         with TemporaryDirectory() as workdir:
@@ -270,10 +306,14 @@ class MolChargePredictor(object):
                             "-ln", "output",
                             "-lo", "pqr",
                             "-ldq", input_dq_file]
-            sp = subprocess.Popen(command_args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd=workdir)
+            sp = subprocess.Popen(command_args,
+                                  stdout=subprocess.PIPE,
+                                  stderr=subprocess.PIPE,
+                                  cwd=workdir)
             _, err = sp.communicate()
             if sp.returncode:
-                raise AIChargeError("PLI failed to create pqr file\nPLI Error:\n%s" % err)
+                raise AIChargeError(
+                    "PLI failed to create pqr file\nPLI Error:\n%s" % err)
             with open(os.path.join(workdir, "output.pqr")) as f:
                 return f.read()
 
@@ -298,13 +338,17 @@ def protein_pdb_file2pqr_file(protein_file, output_file):
                     "-pn", "output_protein"]
 
     with TemporaryDirectory() as workdir:
-        sp = subprocess.Popen(command_args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd=workdir)
+        sp = subprocess.Popen(command_args,
+                              stdout=subprocess.PIPE,
+                              stderr=subprocess.PIPE,
+                              cwd=workdir)
         out, err = sp.communicate()
         tmp_output_file = os.path.join(workdir, "output_protein.pqr")
         if not sp.returncode and os.path.exists(tmp_output_file):
             return shutil.copyfile(tmp_output_file, output_file)
         else:
-            raise AIChargeError("Failed to generate pqr file.\n\nPLI stdout:\n%sPLI stderr:\n%s" % (out, err))
+            raise AIChargeError("Failed to generate pqr file.\n\n"
+                                "PLI stdout:\n%sPLI stderr:\n%s" % (out, err))
 
 
 def run(mode, input_dir, output_dir, stop_on_error):
@@ -322,11 +366,13 @@ def run(mode, input_dir, output_dir, stop_on_error):
         log.error("No PDB files found in %s directory" % input_dir)
         return
     if mode == "ligand":
-        log.info("Loading the trained model from %s directory" % os.path.join(SCRIPT_PATH, "model"))
+        log.info("Loading the trained model from %s directory" %
+                 os.path.join(SCRIPT_PATH, "model"))
         mcp = MolChargePredictor()
 
     for pdb_file in all_files:
-        pqr_file = os.path.join(output_dir, os.path.basename(pdb_file) + ".pqr")
+        pqr_file = os.path.join(
+            output_dir, os.path.basename(pdb_file) + ".pqr")
         log.info("%s -> %s" % (pdb_file, pqr_file))
         try:
             if mode == "ligand":
@@ -352,9 +398,12 @@ def parse_args():
                         help="Input directory containing PDB files",
                         default=os.getcwd())
     parser.add_argument("-o", "--output_dir",
-                        help="Output directory in which PQR files are written. Output files are written to the same directory if not specified.")
+                        help="Output directory in which PQR files are written."
+                        " Output files are written to the same directory if "
+                        "not specified.")
     parser.add_argument("-e", "--stop_on_error",
-                        help="Stop processing remaining files if an error occurs.",
+                        help="Stop processing remaining files if an error "
+                        "occurs.",
                         action="store_true",
                         default=False)
     return parser.parse_args()
