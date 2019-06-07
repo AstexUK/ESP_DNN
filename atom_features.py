@@ -6,10 +6,9 @@
 # Modified from https://github.com/richlewis42/scikit-chem/blob/master/skchem/features/atom.py
 # by Prakash Chandra Rathi
 #
-
+from __future__ import absolute_import
 
 import functools
-from abc import ABCMeta
 
 import pandas as pd
 import numpy as np
@@ -22,10 +21,11 @@ from rdkit.Chem.rdchem import HybridizationType
 
 from os.path import join, dirname, abspath
 from rdkit.Chem.AtomPairs.Utils import NumPiElectrons
-import xarray as xr
+
 SCRIPT_PATH = dirname(abspath(__file__))
 
-PERIODIC_TABLE = pd.read_csv(join(SCRIPT_PATH, "data", "atom_data.csv"), index_col=0)
+PERIODIC_TABLE = pd.read_csv(
+    join(SCRIPT_PATH, "data", "atom_data.csv"), index_col=0)
 RD_PT = Chem.rdchem.GetPeriodicTable()
 
 
@@ -234,8 +234,9 @@ def is_group(a, query_group=None):
         return query_group == int(g)
 
 
-group_features = {"is_group_{}".format(g): functools.partial(is_group, query_group=g)
-                  for g in range(1, 19) + [None]}
+group_features = {
+    "is_group_{}".format(g): functools.partial(is_group, query_group=g)
+    for g in range(1, 19) + [None]}
 
 
 def period(a):
@@ -251,8 +252,9 @@ def is_period(a, query_period=None):
         return query_period == int(p)
 
 
-period_features = {"is_period_{}".format(p): functools.partial(is_period, query_period=p)
-                   for p in range(1, 8)}
+period_features = {
+    "is_period_{}".format(p): functools.partial(is_period, query_period=p)
+    for p in range(1, 8)}
 
 
 def is_hybridized(a, hybrid_type=HybridizationType.SP3):

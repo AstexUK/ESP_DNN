@@ -9,7 +9,8 @@ import tensorflow as tf
 
 class PrintLayerInput(Layer):
     def call(self, inputs):
-        inputs = tf.Print(inputs, data=[inputs], message="layer inputs: ", summarize=100)
+        inputs = tf.Print(inputs, data=[inputs],
+                          message="layer inputs: ", summarize=100)
         return inputs
 
 
@@ -26,7 +27,9 @@ class GraphConv(Layer):
                  activity_regularizer=None,
                  kernel_constraint=None,
                  bias_constraint=None,
-                 conv_wts="single",    # "single": only one weight applied to all neighbor sums, "all": a different weight for each property
+                 # "single": only one weight applied to all neighbor sums
+                 # "all": a different weight for each property
+                 conv_wts="single",
                  **kwargs):
 
         if "input_shape" not in kwargs and "input_dim" in kwargs:
@@ -54,7 +57,8 @@ class GraphConv(Layer):
 
     def build(self, input_shapes):
         X_shape = input_shapes[0]
-        kernel_shape = (X_shape[-1], self.width)  # number of atom props * output width
+        # number of atom props * output width
+        kernel_shape = (X_shape[-1], self.width)
 
         # atom (self) weights
         self.kernel_dense = self.add_weight(shape=kernel_shape,
@@ -71,7 +75,8 @@ class GraphConv(Layer):
         else:
             self.bias = None
 
-        constraint = min_max_norm(min_value=0.0, max_value=1.0, rate=1.0, axis=0)
+        constraint = min_max_norm(
+            min_value=0.0, max_value=1.0, rate=1.0, axis=0)
         if self.conv_wts == "single":
             self.kernel_neigh = self.add_weight(shape=[1],
                                                 initializer=self.kernel_initializer,
@@ -102,7 +107,8 @@ class GraphConv(Layer):
         d = inputs[1]  # [n_atoms, n_atoms]
 
         self_output = K.dot(x, self.kernel_dense)
-        neigh_output = K.batch_dot(d, self_output, axes=[2, 1])    # sum values from the neighbors
+        # sum values from the neighbors
+        neigh_output = K.batch_dot(d, self_output, axes=[2, 1])
 
         if self.conv_wts == "single":
             neigh_output = neigh_output * self.kernel_neigh[0]

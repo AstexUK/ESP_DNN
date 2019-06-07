@@ -13,7 +13,8 @@ from .graph_conv import GraphConv
 
 
 def sum_squared_error_nan(y_true, y_pred):
-    return K.sum(tf.where(tf.is_nan(y_true), K.zeros_like(y_pred), K.square(y_pred - y_true)), axis=-1)
+    return K.sum(tf.where(tf.is_nan(y_true), K.zeros_like(y_pred),
+                          K.square(y_pred - y_true)), axis=-1)
 
 
 def sum_absolute_error_nan(y_true, y_pred):
@@ -21,13 +22,17 @@ def sum_absolute_error_nan(y_true, y_pred):
     # finally the sum of error is divided by all atoms (including the dummy
     # atoms added for padding (with all nan values). However, this should be
     # alright for minimization purpose.
-    return K.sum(tf.where(tf.is_nan(y_true), K.zeros_like(y_pred), K.abs(y_pred - y_true)), axis=-1)
+    return K.sum(tf.where(tf.is_nan(y_true), K.zeros_like(y_pred),
+                          K.abs(y_pred - y_true)), axis=-1)
 
 
 def mean_absolute_error_nans(y_true, y_pred):
-    y_total = tf.cast(tf.reduce_sum(tf.cast(~tf.is_nan(y_true), tf.int32)), tf.float32)
-    y_sum_err = tf.reduce_sum(tf.where(tf.is_nan(y_true), tf.zeros_like(y_pred), K.abs(y_pred - y_true)))
-    error = tf.cond(y_total < 0.1, lambda: tf.constant(0.0), lambda: tf.divide(y_sum_err, y_total))
+    y_total = tf.cast(tf.reduce_sum(
+        tf.cast(~tf.is_nan(y_true), tf.int32)), tf.float32)
+    y_sum_err = tf.reduce_sum(
+        tf.where(tf.is_nan(y_true), tf.zeros_like(y_pred), K.abs(y_pred - y_true)))
+    error = tf.cond(y_total < 0.1, lambda: tf.constant(0.0),
+                    lambda: tf.divide(y_sum_err, y_total))
     return error
 
 
@@ -41,8 +46,10 @@ SPACE = dict(activation="relu",
 
 
 def build_model(n_features_per_atom, n_ys_per_atom, space=SPACE, n_gpus=None):
-    A = X = Input(name="X", shape=(None, n_features_per_atom))  # variable number of atoms
-    D = Input(name="D", shape=(None, None))     # variable atom connectivity matrix
+    # variable number of atoms
+    A = X = Input(name="X", shape=(None, n_features_per_atom))
+    # variable atom connectivity matrix
+    D = Input(name="D", shape=(None, None))
 
     activation = space["activation"]
     width = space["width"]
@@ -51,24 +58,29 @@ def build_model(n_features_per_atom, n_ys_per_atom, space=SPACE, n_gpus=None):
 
     for _ in range(2):
         A = Dense(width, name="dense_%d" % layer_i, activation=activation)(A)
-        A = A if dropout_p is None else SpatialDropout1D(dropout_p, name="dropout_%d" % layer_i)(A)
+        A = A if dropout_p is None else SpatialDropout1D(
+            dropout_p, name="dropout_%d" % layer_i)(A)
         layer_i += 1
 
     neigh_wts = space["neigh_wts"]
     for _ in range(space["n_conv_layers"]):
-        A = GraphConv(width, name="conv_%d" % layer_i, activation=activation, conv_wts=neigh_wts)([A, D])
-        A = A if dropout_p is None else SpatialDropout1D(dropout_p, name="dropout_%d" % layer_i)(A)
+        A = GraphConv(width, name="conv_%d" % layer_i,
+                      activation=activation, conv_wts=neigh_wts)([A, D])
+        A = A if dropout_p is None else SpatialDropout1D(
+            dropout_p, name="dropout_%d" % layer_i)(A)
         layer_i += 1
 
     for _ in range(2):
         A = Dense(width, name="dense_%d" % layer_i, activation=activation)(A)
-        A = A if dropout_p is None else SpatialDropout1D(dropout_p, name="dropout_%d" % layer_i)(A)
+        A = A if dropout_p is None else SpatialDropout1D(
+            dropout_p, name="dropout_%d" % layer_i)(A)
         layer_i += 1
 
     A = Dense(n_ys_per_atom, name="dense_last")(A)
     output = Activation(activation="linear", name="output")(A)
     model = Model(inputs=[X, D], outputs=[output])
-    model.compile(optimizer=Adam(lr=space["lr"], decay=space["decay"]), loss=mean_absolute_error_nans)
+    model.compile(optimizer=Adam(
+        lr=space["lr"], decay=space["decay"]), loss=mean_absolute_error_nans)
     return model
 
 
