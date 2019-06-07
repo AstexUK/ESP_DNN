@@ -187,9 +187,9 @@ class MolChargePredictor(object):
                                     for aid in aids]) + correction
                 final_charge /= float(len(aids))
                 for aid in aids:
-                    mol.GetAtomWithIdx(substruct[aid])
+                    (mol.GetAtomWithIdx(substruct[aid])
                         .GetPDBResidueInfo()
-                        .SetOccupancy(final_charge)
+                        .SetOccupancy(final_charge))
 
     def get_dqs(self, mol_with_charges):
 
