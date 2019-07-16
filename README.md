@@ -43,26 +43,25 @@ source activate esp-dnn-env
 
 ## (Optionally) installing this package
 If you want to be able to run this program from any directory, you need to
-install this package. Otherwise, you should be able to run this package from the
-parent directory where you cloned this package. For example, if you cloned this
-repository in ```/home/username``` directory, then you need to
-```cd /home/username``` before running the program.
+install this package. Otherwise, you should `cd {THIS_REPOSITORY}` before you
+use this program. For example, if you cloned this repository in
+```/home/username``` directory, then you need to ```cd /home/username/ESP_DNN```
+before running this program.
 
 For installing the package, run the following commands.
 ```bash
 conda activate esp-dnn-env
 cd {THIS_REPOSITORY}
-python setup.py
+python setup.py install
 ```
-Note that the {THIS_REPOSITORY} for the above command will be ```/home/username/esp-dnn```
 
 # Example runs
-Note: You need to be running the following commands from the parent directory
-of this package if you have not installed this package.
+Note: You need to be running the following commands after you
+```cd {THIS_REPOSITORY}``` if you have not installed this package.
 
 To see the help on how to run the program run:
 ```bash
-python -m ESPAI.predict -h
+python -m esp_dnn.predict -h
 ```
 
 This package contains example ligand and protein PDB files in the ```example```
@@ -71,12 +70,12 @@ in the same directory for comparison.
 
 ### Running prediction on ligand files:
 ```bash
-python -m ESPAI.predict -m ligand -i {THIS_REPOSITORY}/examples/ligands
+python -m esp_dnn.predict -m ligand -i {THIS_REPOSITORY}/examples/ligands
 ```
 
 ### Running prediction on protein files:
 ```bash
-python -m ESPAI.predict -m protein -i {THIS_REPOSITORY}/examples/proteins
+python -m esp_dnn.predict -m protein -i {THIS_REPOSITORY}/examples/proteins
 ```
 
 Compare the PQR files generated using the above commands with the corresponding
