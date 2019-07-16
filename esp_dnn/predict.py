@@ -70,7 +70,7 @@ def get_pli():
             os.environ["PLI_DIR"] = pli_dir
         else:
             raise AIChargeError(
-                "Neither PLI_DIR environment variable is not defined "
+                "Neither PLI_DIR environment variable is defined "
                 "nor PLI executable could be found in %s" % pli_dir)
     return os.path.join(os.environ["PLI_DIR"], "bin/pli")
 
