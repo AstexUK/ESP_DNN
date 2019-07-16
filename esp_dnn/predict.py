@@ -233,20 +233,10 @@ class MolChargePredictor(object):
 
     def predict_dqs_from_pdb_block(self, pdb_block):
         try:
-            # TODO: update rdkit to have proximity bonding turned off
-            try:
-                input_mol_with_Hs = Chem.MolFromPDBBlock(
-                    pdb_block, removeHs=False, proximityBonding=False)
-            except Exception:
-                input_mol_with_Hs = Chem.MolFromPDBBlock(
-                    pdb_block, removeHs=False)
-
-            try:
-                input_mol = neutral_mol = Chem.MolFromPDBBlock(
-                    pdb_block, removeHs=True, proximityBonding=False)
-            except Exception:
-                input_mol = neutral_mol = Chem.MolFromPDBBlock(
-                    pdb_block, removeHs=True)
+            input_mol_with_Hs = Chem.MolFromPDBBlock(
+                pdb_block, removeHs=False, proximityBonding=False)
+            input_mol = neutral_mol = Chem.MolFromPDBBlock(
+                pdb_block, removeHs=True, proximityBonding=False)
 
             if input_mol_with_Hs is None or input_mol is None:
                 raise AIChargeError(
