@@ -32,7 +32,7 @@ class Featurize(object):
     def __init__(self, smiles_file=None,
                  id_smiles=None,
                  features_file=os.path.join(
-                     SCRIPT_PATH, "data", "features.dat"),
+                     SCRIPT_PATH, "data", "feature_list.dat"),
                  max_hac=None,
                  pad_value=np.nan):
         self.smiles_file = smiles_file

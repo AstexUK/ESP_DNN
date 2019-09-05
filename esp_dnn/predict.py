@@ -358,7 +358,7 @@ def protein_pdb_file2pqr_file(protein_file, output_file):
 def run(mode, input_dir, output_dir, stop_on_error):
     log.info("Ruuning in %s mode" % mode)
     if not os.path.isdir(input_dir):
-        raise ValueError("Input directory does not exist" % input_dir)
+        raise ValueError("Input directory (%s) does not exist" % input_dir)
     input_dir = os.path.abspath(input_dir)
     if output_dir is None:
         output_dir = input_dir
