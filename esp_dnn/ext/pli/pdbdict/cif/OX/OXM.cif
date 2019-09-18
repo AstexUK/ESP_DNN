@@ -1,0 +1,104 @@
+data_OXM
+# 
+_chem_comp.id                                    OXM 
+_chem_comp.name                                  "OXAMIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H3 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        89.050 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OXM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1LDG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OXM C1  C1  C 0 1 N N N 25.052 23.479 41.395 -0.134 0.000  0.756  C1  OXM 1 
+OXM N1  N1  N 0 1 N N N 26.036 24.362 41.554 0.892  0.000  1.628  N1  OXM 2 
+OXM O1  O1  O 0 1 N N N 24.324 23.472 40.390 -1.277 0.000  1.164  O1  OXM 3 
+OXM C2  C2  C 0 1 N N N 24.863 22.492 42.438 0.133  0.000  -0.714 C2  OXM 4 
+OXM O2  O2  O 0 1 N N N 23.794 21.850 42.500 1.275  0.000  -1.121 O2  OXM 5 
+OXM O3  O3  O 0 1 N N N 25.763 22.300 43.271 -0.891 -0.000 -1.585 O3  OXM 6 
+OXM HN1 1HN H 0 1 N N N 26.169 25.057 40.819 0.718  0.000  2.582  HN1 OXM 7 
+OXM HN2 2HN H 0 1 N N N 26.634 24.367 42.380 1.805  -0.003 1.302  HN2 OXM 8 
+OXM HO3 HO3 H 0 1 N N N 25.639 21.652 43.955 -0.718 -0.000 -2.536 HO3 OXM 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OXM C1 N1  SING N N 1 
+OXM C1 O1  DOUB N N 2 
+OXM C1 C2  SING N N 3 
+OXM N1 HN1 SING N N 4 
+OXM N1 HN2 SING N N 5 
+OXM C2 O2  DOUB N N 6 
+OXM C2 O3  SING N N 7 
+OXM O3 HO3 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OXM SMILES           ACDLabs              10.04 "O=C(N)C(=O)O"                                   
+OXM SMILES_CANONICAL CACTVS               3.341 "NC(=O)C(O)=O"                                   
+OXM SMILES           CACTVS               3.341 "NC(=O)C(O)=O"                                   
+OXM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)(C(=O)O)N"                                 
+OXM SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)(C(=O)O)N"                                 
+OXM InChI            InChI                1.03  "InChI=1S/C2H3NO3/c3-1(4)2(5)6/h(H2,3,4)(H,5,6)" 
+OXM InChIKey         InChI                1.03  SOWBFZRMHSNYGE-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OXM "SYSTEMATIC NAME" ACDLabs              10.04 "amino(oxo)acetic acid"       
+OXM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-amino-2-oxo-ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OXM "Create component"  1999-07-08 RCSB 
+OXM "Modify descriptor" 2011-06-04 RCSB 
+# 

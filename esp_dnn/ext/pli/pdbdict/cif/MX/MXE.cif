@@ -1,0 +1,112 @@
+data_MXE
+# 
+_chem_comp.id                                    MXE 
+_chem_comp.name                                  2-METHOXYETHANOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-06-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        76.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MXE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PJX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MXE O1  O1  O 0 1 N N N 15.193 8.631  -1.587 0.677  -0.193 -1.850 O1  MXE 1  
+MXE C1  C1  C 0 1 N N N 14.035 8.600  -2.504 -0.582 0.226  -1.321 C1  MXE 2  
+MXE C2  C2  C 0 1 N N N 12.706 9.353  -2.662 -0.704 -0.234 0.132  C2  MXE 3  
+MXE O2  O2  O 0 1 N N N 11.398 9.255  -2.236 0.352  0.340  0.904  O2  MXE 4  
+MXE C3  C3  C 0 1 N N N 10.256 9.617  -1.385 0.184  -0.124 2.245  C3  MXE 5  
+MXE HO1 HO1 H 0 1 N N N 16.015 8.165  -1.489 0.713  0.116  -2.765 HO1 MXE 6  
+MXE H11 1H1 H 0 1 N N N 14.509 8.723  -3.505 -1.388 -0.212 -1.910 H11 MXE 7  
+MXE H12 2H1 H 0 1 N N N 13.710 7.534  -2.456 -0.650 1.313  -1.365 H12 MXE 8  
+MXE H21 1H2 H 0 1 N N N 12.980 10.385 -2.343 -0.636 -1.321 0.176  H21 MXE 9  
+MXE H22 2H2 H 0 1 N N N 12.590 9.396  -3.770 -1.664 0.086  0.535  H22 MXE 10 
+MXE H31 1H3 H 0 1 N N N 9.198  9.537  -1.040 0.971  0.289  2.874  H31 MXE 11 
+MXE H32 2H3 H 0 1 N N N 10.745 9.442  -0.398 -0.787 0.194  2.621  H32 MXE 12 
+MXE H33 3H3 H 0 1 N N N 10.264 10.713 -1.586 0.241  -1.213 2.261  H33 MXE 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MXE O1 C1  SING N N 1  
+MXE O1 HO1 SING N N 2  
+MXE C1 C2  SING N N 3  
+MXE C1 H11 SING N N 4  
+MXE C1 H12 SING N N 5  
+MXE C2 O2  SING N N 6  
+MXE C2 H21 SING N N 7  
+MXE C2 H22 SING N N 8  
+MXE O2 C3  SING N N 9  
+MXE C3 H31 SING N N 10 
+MXE C3 H32 SING N N 11 
+MXE C3 H33 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MXE SMILES           ACDLabs              10.04 OCCOC                                    
+MXE SMILES_CANONICAL CACTVS               3.341 COCCO                                    
+MXE SMILES           CACTVS               3.341 COCCO                                    
+MXE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 COCCO                                    
+MXE SMILES           "OpenEye OEToolkits" 1.5.0 COCCO                                    
+MXE InChI            InChI                1.03  InChI=1S/C3H8O2/c1-5-3-2-4/h4H,2-3H2,1H3 
+MXE InChIKey         InChI                1.03  XNWFRZJHXBZDAG-UHFFFAOYSA-N              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MXE "SYSTEMATIC NAME" ACDLabs              10.04 2-methoxyethanol 
+MXE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-methoxyethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MXE "Create component"  2003-06-06 RCSB 
+MXE "Modify descriptor" 2011-06-04 RCSB 
+# 

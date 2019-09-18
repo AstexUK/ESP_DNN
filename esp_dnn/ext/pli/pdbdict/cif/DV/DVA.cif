@@ -1,0 +1,124 @@
+data_DVA
+# 
+_chem_comp.id                                    DVA 
+_chem_comp.name                                  D-VALINE 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        117.146 
+_chem_comp.one_letter_code                       V 
+_chem_comp.three_letter_code                     DVA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A7Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DVA N    N    N 0 1 N N N 13.977 9.697  9.219 -1.897 -0.306 0.229  N    DVA 1  
+DVA CA   CA   C 0 1 N N R 14.400 10.046 7.850 -0.441 -0.465 0.124  CA   DVA 2  
+DVA CB   CB   C 0 1 N N N 15.381 8.997  7.328 0.243  0.390  1.191  CB   DVA 3  
+DVA CG1  CG1  C 0 1 N N N 14.845 7.571  7.461 -0.219 -0.056 2.579  CG1  DVA 4  
+DVA CG2  CG2  C 0 1 N N N 15.687 9.292  5.851 1.760  0.224  1.082  CG2  DVA 5  
+DVA C    C    C 0 1 N N N 15.062 11.430 7.851 0.015  -0.025 -1.242 C    DVA 6  
+DVA O    O    O 0 1 N N N 16.133 11.611 8.444 -0.591 0.836  -1.833 O    DVA 7  
+DVA OXT  OXT  O 0 1 N Y N 14.478 12.426 7.155 1.096  -0.590 -1.803 OXT  DVA 8  
+DVA H    1HN  H 0 1 N N N 13.322 10.397 9.567 -2.300 -0.801 -0.552 H    DVA 9  
+DVA H2   2HN  H 0 1 N Y N 14.771 9.570  9.845 -2.093 0.673  0.083  H2   DVA 10 
+DVA HA   HA   H 0 1 N N N 13.506 10.069 7.183 -0.178 -1.512 0.275  HA   DVA 11 
+DVA HB   HB   H 0 1 N N N 16.305 9.060  7.948 -0.018 1.437  1.040  HB   DVA 12 
+DVA HG11 1HG1 H 0 0 N N N 15.560 6.805  7.080 0.268  0.554  3.339  HG11 DVA 13 
+DVA HG12 2HG1 H 0 0 N N N 14.547 7.351  8.512 -1.300 0.062  2.656  HG12 DVA 14 
+DVA HG13 3HG1 H 0 0 N N N 13.850 7.469  6.967 0.042  -1.103 2.730  HG13 DVA 15 
+DVA HG21 1HG2 H 0 0 N N N 16.402 8.526  5.470 2.023  -0.822 1.233  HG21 DVA 16 
+DVA HG22 2HG2 H 0 0 N N N 14.763 9.356  5.230 2.091  0.542  0.093  HG22 DVA 17 
+DVA HG23 3HG2 H 0 0 N N N 16.053 10.333 5.692 2.248  0.834  1.842  HG23 DVA 18 
+DVA HXT  HXT  H 0 1 N Y N 14.887 13.283 7.155 1.389  -0.308 -2.680 HXT  DVA 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DVA N   CA   SING N N 1  
+DVA N   H    SING N N 2  
+DVA N   H2   SING N N 3  
+DVA CA  CB   SING N N 4  
+DVA CA  C    SING N N 5  
+DVA CA  HA   SING N N 6  
+DVA CB  CG1  SING N N 7  
+DVA CB  CG2  SING N N 8  
+DVA CB  HB   SING N N 9  
+DVA CG1 HG11 SING N N 10 
+DVA CG1 HG12 SING N N 11 
+DVA CG1 HG13 SING N N 12 
+DVA CG2 HG21 SING N N 13 
+DVA CG2 HG22 SING N N 14 
+DVA CG2 HG23 SING N N 15 
+DVA C   O    DOUB N N 16 
+DVA C   OXT  SING N N 17 
+DVA OXT HXT  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DVA SMILES           ACDLabs              10.04 "O=C(O)C(N)C(C)C"                                                      
+DVA SMILES_CANONICAL CACTVS               3.341 "CC(C)[C@@H](N)C(O)=O"                                                 
+DVA SMILES           CACTVS               3.341 "CC(C)[CH](N)C(O)=O"                                                   
+DVA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)[C@H](C(=O)O)N"                                                  
+DVA SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)C(C(=O)O)N"                                                      
+DVA InChI            InChI                1.03  "InChI=1S/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)/t4-/m1/s1" 
+DVA InChIKey         InChI                1.03  KZSNJWFQEVHDMF-SCSAIBSYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DVA "SYSTEMATIC NAME" ACDLabs              10.04 D-valine                              
+DVA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-methyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DVA "Create component"  1999-07-08 EBI  
+DVA "Modify descriptor" 2011-06-04 RCSB 
+# 

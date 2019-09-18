@@ -1,0 +1,151 @@
+data_PTM
+# 
+_chem_comp.id                                    PTM 
+_chem_comp.name                                  ALPHA-METHYL-O-PHOSPHOTYROSINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C10 H14 N O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               TYR 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-09-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        275.195 
+_chem_comp.one_letter_code                       Y 
+_chem_comp.three_letter_code                     PTM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PTM N    N    N 0 1 N N N 17.619 4.088  35.006 0.435  -0.181 -1.148 N    PTM 1  
+PTM CA   CA   C 0 1 N N S 17.373 4.599  33.627 0.582  1.184  -1.676 CA   PTM 2  
+PTM CH3  CH3  C 0 1 N N N 16.811 5.984  33.670 1.628  1.104  -2.798 CH3  PTM 3  
+PTM C    C    C 0 1 N N N 16.760 3.577  32.637 1.102  2.061  -0.533 C    PTM 4  
+PTM O    O    O 0 1 N N N 15.873 3.937  31.883 0.796  1.912  0.644  O    PTM 5  
+PTM CB   CB   C 0 1 N N N 18.809 4.887  33.123 -0.794 1.662  -2.200 CB   PTM 6  
+PTM CG   CG   C 0 1 Y N N 18.972 5.566  31.725 -0.828 3.071  -2.749 CG   PTM 7  
+PTM CD1  CD1  C 0 1 Y N N 19.075 6.973  31.641 -1.116 4.123  -1.896 CD1  PTM 8  
+PTM CD2  CD2  C 0 1 Y N N 19.008 4.796  30.519 -0.571 3.279  -4.094 CD2  PTM 9  
+PTM CE1  CE1  C 0 1 Y N N 19.226 7.584  30.407 -1.147 5.422  -2.403 CE1  PTM 10 
+PTM CE2  CE2  C 0 1 Y N N 19.157 5.402  29.230 -0.602 4.578  -4.600 CE2  PTM 11 
+PTM CZ   CZ   C 0 1 Y N N 19.272 6.819  29.241 -0.891 5.650  -3.755 CZ   PTM 12 
+PTM OH   OH   O 0 1 N N N 19.458 7.478  27.978 -0.923 6.917  -4.250 OH   PTM 13 
+PTM P    P    P 0 1 N N N 18.564 7.189  26.727 -1.245 8.248  -3.386 P    PTM 14 
+PTM O1P  O1P  O 0 1 N N N 19.112 8.166  25.744 -2.592 8.273  -2.725 O1P  PTM 15 
+PTM O2P  O2P  O 0 1 N N N 17.159 7.488  27.002 0.025  8.392  -2.395 O2P  PTM 16 
+PTM O3P  O3P  O 0 1 N N N 18.691 5.728  26.261 -1.004 9.437  -4.458 O3P  PTM 17 
+PTM OXT  OXT  O 0 1 N Y N ?      ?      ?      1.938  3.052  -0.938 OXT  PTM 18 
+PTM H    H    H 0 1 N N N 17.259 4.741  35.672 1.264  -0.688 -0.949 H    PTM 19 
+PTM H2   HN2  H 0 1 N Y N 18.602 3.974  35.149 -0.462 -0.601 -1.207 H2   PTM 20 
+PTM HC31 1HC3 H 0 0 N N N 17.144 6.542  32.783 2.576  0.689  -2.440 HC31 PTM 21 
+PTM HC32 2HC3 H 0 0 N N N 17.163 6.495  34.578 1.859  2.098  -3.202 HC32 PTM 22 
+PTM HC33 3HC3 H 0 0 N N N 15.712 5.934  33.681 1.279  0.481  -3.629 HC33 PTM 23 
+PTM HB2  1HB  H 0 1 N N N 19.270 3.895  33.009 -1.163 0.989  -2.986 HB2  PTM 24 
+PTM HB3  2HB  H 0 1 N N N 19.274 5.560  33.858 -1.540 1.588  -1.396 HB3  PTM 25 
+PTM HD1  HD1  H 0 1 N N N 19.036 7.572  32.539 -1.317 3.955  -0.842 HD1  PTM 26 
+PTM HD2  HD2  H 0 1 N N N 18.920 3.722  30.583 -0.345 2.450  -4.760 HD2  PTM 27 
+PTM HE1  HE1  H 0 1 N N N 19.309 8.659  30.347 -1.373 6.252  -1.740 HE1  PTM 28 
+PTM HE2  HE2  H 0 1 N N N 19.180 4.825  28.317 -0.402 4.749  -5.655 HE2  PTM 29 
+PTM H2P  H2P  H 0 1 N N N 16.668 6.677  27.062 0.026  9.110  -1.726 H2P  PTM 30 
+PTM H3P  H3P  H 0 1 N N N 19.609 5.504  26.165 -1.234 10.356 -4.205 H3P  PTM 31 
+PTM HXT  HXT  H 0 1 N Y N -0.376 -0.627 -0.607 2.279  3.637  -0.231 HXT  PTM 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PTM N   CA   SING N N 1  
+PTM N   H    SING N N 2  
+PTM N   H2   SING N N 3  
+PTM CA  CH3  SING N N 4  
+PTM CA  C    SING N N 5  
+PTM CA  CB   SING N N 6  
+PTM CH3 HC31 SING N N 7  
+PTM CH3 HC32 SING N N 8  
+PTM CH3 HC33 SING N N 9  
+PTM C   O    DOUB N N 10 
+PTM C   OXT  SING N N 11 
+PTM CB  CG   SING N N 12 
+PTM CB  HB2  SING N N 13 
+PTM CB  HB3  SING N N 14 
+PTM CG  CD1  DOUB Y N 15 
+PTM CG  CD2  SING Y N 16 
+PTM CD1 CE1  SING Y N 17 
+PTM CD1 HD1  SING N N 18 
+PTM CD2 CE2  DOUB Y N 19 
+PTM CD2 HD2  SING N N 20 
+PTM CE1 CZ   DOUB Y N 21 
+PTM CE1 HE1  SING N N 22 
+PTM CE2 CZ   SING Y N 23 
+PTM CE2 HE2  SING N N 24 
+PTM CZ  OH   SING N N 25 
+PTM OH  P    SING N N 26 
+PTM P   O1P  DOUB N N 27 
+PTM P   O2P  SING N N 28 
+PTM P   O3P  SING N N 29 
+PTM O2P H2P  SING N N 30 
+PTM O3P H3P  SING N N 31 
+PTM OXT HXT  SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PTM SMILES           ACDLabs              10.04 "O=P(Oc1ccc(cc1)CC(C(=O)O)(N)C)(O)O"                                                                                     
+PTM SMILES_CANONICAL CACTVS               3.341 "C[C@](N)(Cc1ccc(O[P](O)(O)=O)cc1)C(O)=O"                                                                                
+PTM SMILES           CACTVS               3.341 "C[C](N)(Cc1ccc(O[P](O)(O)=O)cc1)C(O)=O"                                                                                 
+PTM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@](Cc1ccc(cc1)OP(=O)(O)O)(C(=O)O)N"                                                                                  
+PTM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(Cc1ccc(cc1)OP(=O)(O)O)(C(=O)O)N"                                                                                     
+PTM InChI            InChI                1.03  "InChI=1S/C10H14NO6P/c1-10(11,9(12)13)6-7-2-4-8(5-3-7)17-18(14,15)16/h2-5H,6,11H2,1H3,(H,12,13)(H2,14,15,16)/t10-/m0/s1" 
+PTM InChIKey         InChI                1.03  ZXNVWXYLFYKNAE-JTQLQIEISA-N                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PTM "SYSTEMATIC NAME" ACDLabs              10.04 alpha-methyl-O-phosphono-L-tyrosine                            
+PTM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-2-methyl-3-(4-phosphonooxyphenyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PTM "Create component"  2001-09-19 RCSB 
+PTM "Modify descriptor" 2011-06-04 RCSB 
+# 

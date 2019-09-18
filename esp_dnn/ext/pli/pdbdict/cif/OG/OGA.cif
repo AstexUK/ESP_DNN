@@ -1,0 +1,116 @@
+data_OGA
+# 
+_chem_comp.id                                    OGA 
+_chem_comp.name                                  N-OXALYLGLYCINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H5 N O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-08-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.086 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OGA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H2M 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OGA C1    C1    C 0 1 N N N 22.262 25.308 27.891 0.359  0.000  -2.311 C1    OGA 1  
+OGA C2    C2    C 0 1 N N N 21.209 25.940 28.487 -0.491 0.000  -1.083 C2    OGA 2  
+OGA C4    C4    C 0 1 N N N 18.882 25.730 29.253 -0.749 0.000  1.339  C4    OGA 3  
+OGA C5    C5    C 0 1 N N N 17.543 25.251 28.735 0.132  0.000  2.561  C5    OGA 4  
+OGA O1    O1    O 0 1 N N N 22.091 24.207 27.399 1.567  0.000  -2.212 O1    OGA 5  
+OGA O2    O2    O 0 1 N N N 23.404 25.817 27.813 -0.215 0.000  -3.528 O2    OGA 6  
+OGA "O2'" "O2'" O 0 1 N N N 21.299 27.077 29.004 -1.701 0.000  -1.182 "O2'" OGA 7  
+OGA O3    O3    O 0 1 N N N 17.430 24.476 27.795 -0.417 0.000  3.786  O3    OGA 8  
+OGA N1    N1    N 0 1 N N N 20.067 25.271 28.520 0.084  0.000  0.135  N1    OGA 9  
+OGA O4    O4    O 0 1 N N N 16.551 25.641 29.307 1.334  0.000  2.439  O4    OGA 10 
+OGA H4C1  1H4C  H 0 0 N N N 18.885 26.843 29.313 -1.379 -0.890 1.346  H4C1  OGA 11 
+OGA H4C2  2H4C  H 0 0 N N N 18.983 25.468 30.332 -1.379 0.890  1.346  H4C2  OGA 12 
+OGA H2    H2    H 0 1 N N N 24.137 25.377 27.398 0.334  0.000  -4.323 H2    OGA 13 
+OGA H3    H3    H 0 1 N N N 16.590 24.175 27.470 0.148  0.000  4.570  H3    OGA 14 
+OGA H1    H1    H 0 1 N N N 20.008 24.390 28.009 1.050  0.000  0.214  H1    OGA 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OGA C1 C2    SING N N 1  
+OGA C1 O1    DOUB N N 2  
+OGA C1 O2    SING N N 3  
+OGA C2 "O2'" DOUB N N 4  
+OGA C2 N1    SING N N 5  
+OGA C4 C5    SING N N 6  
+OGA C4 N1    SING N N 7  
+OGA C4 H4C1  SING N N 8  
+OGA C4 H4C2  SING N N 9  
+OGA C5 O3    SING N N 10 
+OGA C5 O4    DOUB N N 11 
+OGA O2 H2    SING N N 12 
+OGA O3 H3    SING N N 13 
+OGA N1 H1    SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OGA SMILES           ACDLabs              10.04 "O=C(O)C(=O)NCC(=O)O"                                                
+OGA SMILES_CANONICAL CACTVS               3.341 "OC(=O)CNC(=O)C(O)=O"                                                
+OGA SMILES           CACTVS               3.341 "OC(=O)CNC(=O)C(O)=O"                                                
+OGA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)NC(=O)C(=O)O"                                              
+OGA SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)NC(=O)C(=O)O"                                              
+OGA InChI            InChI                1.03  "InChI=1S/C4H5NO5/c6-2(7)1-5-3(8)4(9)10/h1H2,(H,5,8)(H,6,7)(H,9,10)" 
+OGA InChIKey         InChI                1.03  BIMZLRFONYSTPT-UHFFFAOYSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OGA "SYSTEMATIC NAME" ACDLabs              10.04 "N-(carboxycarbonyl)glycine"                 
+OGA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(carboxymethylamino)-2-oxo-ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OGA "Create component"  2002-08-12 EBI  
+OGA "Modify descriptor" 2011-06-04 RCSB 
+# 

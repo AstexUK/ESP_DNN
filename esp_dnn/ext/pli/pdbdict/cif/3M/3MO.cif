@@ -1,0 +1,115 @@
+data_3MO
+# 
+_chem_comp.id                                    3MO 
+_chem_comp.name                                  3-METHYL-1,3-OXAZOLIDIN-2-ONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         3-METHYL-2-OXAZOLIDINONE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-07-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.104 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3MO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3MO N2  N2  N 0 1 N N N -0.146 33.954 56.281 0.550  0.538  0.001  N2  3MO 1  
+3MO C4  C4  C 0 1 N N N 0.144  32.928 54.217 -1.817 0.419  0.000  C4  3MO 2  
+3MO O6  O6  O 0 1 N N N 1.584  32.930 57.443 0.923  -1.678 -0.001 O6  3MO 3  
+3MO C1  C1  C 0 1 N N N 0.893  33.146 56.449 0.150  -0.740 -0.002 C1  3MO 4  
+3MO O5  O5  O 0 1 N N N 1.149  32.523 55.170 -1.179 -0.891 0.003  O5  3MO 5  
+3MO C3  C3  C 0 1 N N N -0.771 33.921 54.947 -0.636 1.409  -0.001 C3  3MO 6  
+3MO C7  C7  C 0 1 N N N -0.714 34.882 57.211 1.942  0.995  0.001  C7  3MO 7  
+3MO H41 1H4 H 0 1 N N N -0.425 32.062 53.847 -2.424 0.550  0.895  H41 3MO 8  
+3MO H42 2H4 H 0 1 N N N 0.612  33.406 53.343 -2.423 0.547  -0.897 H42 3MO 9  
+3MO H31 1H3 H 0 1 N N N -0.845 34.905 54.461 -0.656 2.030  0.894  H31 3MO 10 
+3MO H32 2H3 H 0 1 N N N -1.816 33.579 54.983 -0.655 2.027  -0.899 H32 3MO 11 
+3MO H71 1H7 H 0 1 N N N -1.684 35.235 56.831 2.287  1.111  1.029  H71 3MO 12 
+3MO H72 2H7 H 0 1 N N N -0.035 35.738 57.335 2.565  0.262  -0.511 H72 3MO 13 
+3MO H73 3H7 H 0 1 N N N -0.860 34.386 58.182 2.010  1.953  -0.515 H73 3MO 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3MO N2 C1  SING N N 1  
+3MO N2 C3  SING N N 2  
+3MO N2 C7  SING N N 3  
+3MO C4 O5  SING N N 4  
+3MO C4 C3  SING N N 5  
+3MO C4 H41 SING N N 6  
+3MO C4 H42 SING N N 7  
+3MO O6 C1  DOUB N N 8  
+3MO C1 O5  SING N N 9  
+3MO C3 H31 SING N N 10 
+3MO C3 H32 SING N N 11 
+3MO C7 H71 SING N N 12 
+3MO C7 H72 SING N N 13 
+3MO C7 H73 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3MO SMILES           ACDLabs              10.04 O=C1OCCN1C                                     
+3MO SMILES_CANONICAL CACTVS               3.341 CN1CCOC1=O                                     
+3MO SMILES           CACTVS               3.341 CN1CCOC1=O                                     
+3MO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CN1CCOC1=O                                     
+3MO SMILES           "OpenEye OEToolkits" 1.5.0 CN1CCOC1=O                                     
+3MO InChI            InChI                1.03  "InChI=1S/C4H7NO2/c1-5-2-3-7-4(5)6/h2-3H2,1H3" 
+3MO InChIKey         InChI                1.03  VWIIJDNADIEEDB-UHFFFAOYSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3MO "SYSTEMATIC NAME" ACDLabs              10.04 3-methyl-1,3-oxazolidin-2-one 
+3MO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-methyl-1,3-oxazolidin-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3MO "Create component"  2006-07-21 RCSB 
+3MO "Modify descriptor" 2011-06-04 RCSB 
+# 

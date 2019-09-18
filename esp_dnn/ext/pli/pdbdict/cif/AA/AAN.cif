@@ -1,0 +1,127 @@
+data_AAN
+# 
+_chem_comp.id                                    AAN 
+_chem_comp.name                                  "2-(4-NITROPHENYL)ACETIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H7 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        181.145 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AAN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AJN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AAN C1    C1    C 0  1 N N N 13.992 37.804 36.418 -0.009 0.287  3.226  C1    AAN 1  
+AAN C2    C2    C 0  1 N N N 13.872 36.316 36.035 0.004  -0.994 2.433  C2    AAN 2  
+AAN "C1'" "C1'" C 0  1 Y N N 12.842 36.086 34.954 0.007  -0.673 0.960  "C1'" AAN 3  
+AAN "C2'" "C2'" C 0  1 Y N N 13.021 36.671 33.717 1.211  -0.517 0.293  "C2'" AAN 4  
+AAN "C3'" "C3'" C 0  1 Y N N 11.973 36.526 32.823 1.226  -0.224 -1.051 "C3'" AAN 5  
+AAN "C4'" "C4'" C 0  1 Y N N 10.899 35.731 33.113 0.013  -0.083 -1.748 "C4'" AAN 6  
+AAN "N4'" "N4'" N 1  1 N N N 10.147 35.550 32.348 0.016  0.202  -3.062 "N4'" AAN 7  
+AAN "O3'" "O3'" O 0  1 N N N 10.489 36.274 31.176 -1.036 0.323  -3.661 "O3'" AAN 8  
+AAN "O4'" "O4'" O -1 1 N N N 9.025  34.728 32.616 1.072  0.341  -3.652 "O4'" AAN 9  
+AAN "C5'" "C5'" C 0  1 Y N N 10.721 35.052 34.314 -1.202 -0.244 -1.061 "C5'" AAN 10 
+AAN "C6'" "C6'" C 0  1 Y N N 11.742 35.289 35.232 -1.193 -0.542 0.282  "C6'" AAN 11 
+AAN O1    O1    O 0  1 N N N 14.601 38.141 37.432 -0.015 1.351  2.654  O1    AAN 12 
+AAN O2    O2    O 0  1 N N N 13.504 38.761 35.806 -0.014 0.246  4.567  O2    AAN 13 
+AAN H21   1H2   H 0  1 N N N 14.862 35.893 35.745 0.897  -1.566 2.682  H21   AAN 14 
+AAN H22   2H2   H 0  1 N N N 13.664 35.684 36.930 -0.882 -1.580 2.675  H22   AAN 15 
+AAN "H2'" "H2'" H 0  1 N N N 13.942 37.219 33.459 2.142  -0.625 0.830  "H2'" AAN 16 
+AAN "H3'" "H3'" H 0  1 N N N 11.994 37.056 31.856 2.166  -0.103 -1.570 "H3'" AAN 17 
+AAN "H5'" "H5'" H 0  1 N N N 9.859  34.393 34.517 -2.139 -0.137 -1.587 "H5'" AAN 18 
+AAN "H6'" "H6'" H 0  1 N N N 11.676 34.822 36.229 -2.126 -0.666 0.812  "H6'" AAN 19 
+AAN HO2   HO2   H 0  1 N N N 13.578 39.678 36.042 -0.023 1.068  5.076  HO2   AAN 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AAN C1    C2    SING N N 1  
+AAN C1    O1    DOUB N N 2  
+AAN C1    O2    SING N N 3  
+AAN C2    "C1'" SING N N 4  
+AAN C2    H21   SING N N 5  
+AAN C2    H22   SING N N 6  
+AAN "C1'" "C2'" DOUB Y N 7  
+AAN "C1'" "C6'" SING Y N 8  
+AAN "C2'" "C3'" SING Y N 9  
+AAN "C2'" "H2'" SING N N 10 
+AAN "C3'" "C4'" DOUB Y N 11 
+AAN "C3'" "H3'" SING N N 12 
+AAN "C4'" "N4'" SING N N 13 
+AAN "C4'" "C5'" SING Y N 14 
+AAN "N4'" "O3'" DOUB N N 15 
+AAN "N4'" "O4'" SING N N 16 
+AAN "C5'" "C6'" DOUB Y N 17 
+AAN "C5'" "H5'" SING N N 18 
+AAN "C6'" "H6'" SING N N 19 
+AAN O2    HO2   SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AAN SMILES           ACDLabs              10.04 "O=C(O)Cc1ccc(cc1)[N+]([O-])=O"                                         
+AAN SMILES_CANONICAL CACTVS               3.341 "OC(=O)Cc1ccc(cc1)[N+]([O-])=O"                                         
+AAN SMILES           CACTVS               3.341 "OC(=O)Cc1ccc(cc1)[N+]([O-])=O"                                         
+AAN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1CC(=O)O)[N+](=O)[O-]"                                         
+AAN SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1CC(=O)O)[N+](=O)[O-]"                                         
+AAN InChI            InChI                1.03  "InChI=1S/C8H7NO4/c10-8(11)5-6-1-3-7(4-2-6)9(12)13/h1-4H,5H2,(H,10,11)" 
+AAN InChIKey         InChI                1.03  YBADLXQNJCMBKR-UHFFFAOYSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AAN "SYSTEMATIC NAME" ACDLabs              10.04 "(4-nitrophenyl)acetic acid"     
+AAN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(4-nitrophenyl)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AAN "Create component"  1999-07-08 RCSB 
+AAN "Modify descriptor" 2011-06-04 RCSB 
+# 

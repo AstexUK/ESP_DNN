@@ -1,0 +1,156 @@
+data_UFP
+# 
+_chem_comp.id                                    UFP 
+_chem_comp.name                                  "5-FLUORO-2'-DEOXYURIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C9 H12 F N2 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        326.172 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     UFP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TSN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UFP N1     N1   N 0 1 N N N 43.446 -15.246 39.904 0.363  0.246  2.234  N1     UFP 1  
+UFP C2     C2   C 0 1 N N N 44.356 -14.798 38.984 -0.307 -0.920 2.249  C2     UFP 2  
+UFP N3     N3   N 0 1 N N N 43.947 -14.428 37.710 -1.058 -1.273 3.308  N3     UFP 3  
+UFP C4     C4   C 0 1 N N N 42.653 -14.508 37.220 -1.159 -0.453 4.374  C4     UFP 4  
+UFP C5     C5   C 0 1 N N N 41.580 -15.446 38.040 -0.463 0.781  4.370  C5     UFP 5  
+UFP C6     C6   C 0 1 N N N 41.942 -15.243 39.594 0.287  1.108  3.296  C6     UFP 6  
+UFP O2     O2   O 0 1 N N N 45.555 -14.691 39.202 -0.226 -1.670 1.295  O2     UFP 7  
+UFP O4     O4   O 0 1 N N N 42.326 -14.062 36.106 -1.843 -0.770 5.331  O4     UFP 8  
+UFP F5     F5   F 0 1 N N N 40.310 -15.286 37.713 -0.549 1.619  5.427  F5     UFP 9  
+UFP "C1'"  C1*  C 0 1 N N R 43.796 -15.776 41.210 1.177  0.600  1.068  "C1'"  UFP 10 
+UFP "C2'"  C2*  C 0 1 N N N 44.161 -14.662 42.155 2.285  -0.452 0.847  "C2'"  UFP 11 
+UFP "C3'"  C3*  C 0 1 N N S 43.829 -15.376 43.471 2.389  -0.571 -0.690 "C3'"  UFP 12 
+UFP "C4'"  C4*  C 0 1 N N R 42.563 -16.169 43.183 1.330  0.421  -1.218 "C4'"  UFP 13 
+UFP "O3'"  O3*  O 0 1 N N N 44.918 -16.205 43.839 3.694  -0.195 -1.134 "O3'"  UFP 14 
+UFP "O4'"  O4*  O 0 1 N N N 42.593 -16.450 41.742 0.380  0.556  -0.135 "O4'"  UFP 15 
+UFP "C5'"  C5*  C 0 1 N N N 41.228 -15.432 43.472 0.640  -0.136 -2.464 "C5'"  UFP 16 
+UFP "O5'"  O5*  O 0 1 N N N 41.112 -15.299 44.931 -0.381 0.767  -2.889 "O5'"  UFP 17 
+UFP P      P    P 0 1 N N N 40.682 -13.899 45.544 -1.061 0.120  -4.197 P      UFP 18 
+UFP O1P    O1P  O 0 1 N N N 39.396 -13.484 44.980 -1.636 -1.199 -3.853 O1P    UFP 19 
+UFP O2P    O2P  O 0 1 N N N 41.731 -12.895 45.391 -2.228 1.091  -4.731 O2P    UFP 20 
+UFP O3P    O3P  O 0 1 N Y N 40.662 -14.411 47.027 0.052  -0.062 -5.345 O3P    UFP 21 
+UFP HN3    HN3  H 0 1 N N N 44.660 -14.065 37.077 -1.531 -2.120 3.304  HN3    UFP 22 
+UFP H6     H6   H 0 1 N N N 41.201 -15.109 40.400 0.825  2.044  3.275  H6     UFP 23 
+UFP "H1'"  H1*  H 0 1 N N N 44.664 -16.469 41.115 1.614  1.590  1.198  "H1'"  UFP 24 
+UFP "H2'1" 1H2* H 0 0 N N N 45.190 -14.243 42.059 1.997  -1.408 1.285  "H2'1" UFP 25 
+UFP "H2'2" 2H2* H 0 0 N N N 43.665 -13.678 41.982 3.229  -0.107 1.267  "H2'2" UFP 26 
+UFP "H3'"  H3*  H 0 1 N N N 43.663 -14.680 44.326 2.154  -1.586 -1.011 "H3'"  UFP 27 
+UFP "H4'"  H4*  H 0 1 N N N 42.571 -17.059 43.853 1.792  1.384  -1.439 "H4'"  UFP 28 
+UFP "HO3'" *HO3 H 0 0 N N N 44.712 -16.647 44.654 4.313  -0.830 -0.750 "HO3'" UFP 29 
+UFP "H5'1" 1H5* H 0 0 N N N 41.142 -14.457 42.936 1.373  -0.256 -3.262 "H5'1" UFP 30 
+UFP "H5'2" 2H5* H 0 0 N N N 40.345 -15.929 43.007 0.196  -1.104 -2.231 "H5'2" UFP 31 
+UFP HOP2   2HOP H 0 0 N N N 41.473 -12.057 45.757 -2.608 0.668  -5.513 HOP2   UFP 32 
+UFP HOP3   3HOP H 0 0 N N N 40.404 -13.573 47.393 0.400  0.818  -5.540 HOP3   UFP 33 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UFP N1    C2     SING N N 1  
+UFP N1    C6     SING N N 2  
+UFP N1    "C1'"  SING N N 3  
+UFP C2    N3     SING N N 4  
+UFP C2    O2     DOUB N N 5  
+UFP N3    C4     SING N N 6  
+UFP N3    HN3    SING N N 7  
+UFP C4    C5     SING N N 8  
+UFP C4    O4     DOUB N N 9  
+UFP C5    C6     DOUB N N 10 
+UFP C5    F5     SING N N 11 
+UFP C6    H6     SING N N 12 
+UFP "C1'" "C2'"  SING N N 13 
+UFP "C1'" "O4'"  SING N N 14 
+UFP "C1'" "H1'"  SING N N 15 
+UFP "C2'" "C3'"  SING N N 16 
+UFP "C2'" "H2'1" SING N N 17 
+UFP "C2'" "H2'2" SING N N 18 
+UFP "C3'" "C4'"  SING N N 19 
+UFP "C3'" "O3'"  SING N N 20 
+UFP "C3'" "H3'"  SING N N 21 
+UFP "C4'" "O4'"  SING N N 22 
+UFP "C4'" "C5'"  SING N N 23 
+UFP "C4'" "H4'"  SING N N 24 
+UFP "O3'" "HO3'" SING N N 25 
+UFP "C5'" "O5'"  SING N N 26 
+UFP "C5'" "H5'1" SING N N 27 
+UFP "C5'" "H5'2" SING N N 28 
+UFP "O5'" P      SING N N 29 
+UFP P     O1P    DOUB N N 30 
+UFP P     O2P    SING N N 31 
+UFP P     O3P    SING N N 32 
+UFP O2P   HOP2   SING N N 33 
+UFP O3P   HOP3   SING N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UFP SMILES           ACDLabs              10.04 "FC=1C(=O)NC(=O)N(C=1)C2OC(C(O)C2)COP(=O)(O)O"                                                                                               
+UFP SMILES_CANONICAL CACTVS               3.341 "O[C@H]1C[C@@H](O[C@@H]1CO[P](O)(O)=O)N2C=C(F)C(=O)NC2=O"                                                                                    
+UFP SMILES           CACTVS               3.341 "O[CH]1C[CH](O[CH]1CO[P](O)(O)=O)N2C=C(F)C(=O)NC2=O"                                                                                         
+UFP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)COP(=O)(O)O)O"                                                                                     
+UFP SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(OC1N2C=C(C(=O)NC2=O)F)COP(=O)(O)O)O"                                                                                                  
+UFP InChI            InChI                1.03  "InChI=1S/C9H12FN2O8P/c10-4-2-12(9(15)11-8(4)14)7-1-5(13)6(20-7)3-19-21(16,17)18/h2,5-7,13H,1,3H2,(H,11,14,15)(H2,16,17,18)/t5-,6+,7+/m0/s1" 
+UFP InChIKey         InChI                1.03  HFEKDTCAMMOLQP-RRKCRQDMSA-N                                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UFP "SYSTEMATIC NAME" ACDLabs              10.04 
+;2'-deoxy-5-fluorouridine 5'-(dihydrogen phosphate)
+;
+UFP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(5-fluoro-2,4-dioxo-pyrimidin-1-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UFP "Create component"  1999-07-08 RCSB 
+UFP "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,125 @@
+data_RXA
+# 
+_chem_comp.id                                    RXA 
+_chem_comp.name                                  "isoquinoline-1,3,4(2H)-trione" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H5 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        175.141 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RXA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DEH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RXA OAA  OAA  O 0 1 N N N -51.015 13.818 -21.549 -3.177 -0.451 -0.002 OAA  RXA 1  
+RXA CAI  CAI  C 0 1 N N N -49.781 14.000 -21.348 -2.008 -0.127 -0.002 CAI  RXA 2  
+RXA NAH  NAH  N 0 1 N N N -49.132 13.533 -20.241 -1.674 1.174  0.001  NAH  RXA 3  
+RXA CAK  CAK  C 0 1 N N N -49.088 14.705 -22.319 -0.943 -1.179 0.000  CAK  RXA 4  
+RXA OAC  OAC  O 0 1 N N N -49.745 15.093 -23.312 -1.228 -2.359 0.002  OAC  RXA 5  
+RXA CAM  CAM  C 0 1 Y N N -47.710 14.939 -22.169 0.465  -0.736 -0.000 CAM  RXA 6  
+RXA CAL  CAL  C 0 1 Y N N -47.050 14.455 -21.025 0.728  0.650  -0.003 CAL  RXA 7  
+RXA CAF  CAF  C 0 1 Y N N -45.669 14.693 -20.863 2.044  1.097  -0.003 CAF  RXA 8  
+RXA CAJ  CAJ  C 0 1 N N N -47.790 13.746 -20.042 -0.401 1.600  0.001  CAJ  RXA 9  
+RXA OAB  OAB  O 0 1 N N N -47.212 13.305 -18.986 -0.174 2.793  0.003  OAB  RXA 10 
+RXA CAG  CAG  C 0 1 Y N N -46.986 15.634 -23.147 1.517  -1.645 0.002  CAG  RXA 11 
+RXA CAE  CAE  C 0 1 Y N N -45.607 15.874 -22.995 2.821  -1.180 0.001  CAE  RXA 12 
+RXA CAD  CAD  C 0 1 Y N N -44.944 15.409 -21.843 3.081  0.179  -0.001 CAD  RXA 13 
+RXA HNAH HNAH H 0 0 N N N -49.649 13.021 -19.555 -2.384 1.835  0.004  HNAH RXA 14 
+RXA HAF  HAF  H 0 1 N N N -45.162 14.325 -19.983 2.257  2.155  -0.005 HAF  RXA 15 
+RXA HAG  HAG  H 0 1 N N N -47.494 15.991 -24.031 1.318  -2.706 0.004  HAG  RXA 16 
+RXA HAE  HAE  H 0 1 N N N -45.061 16.411 -23.757 3.641  -1.883 0.002  HAE  RXA 17 
+RXA HAD  HAD  H 0 1 N N N -43.889 15.598 -21.709 4.103  0.527  -0.001 HAD  RXA 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RXA OAA CAI  DOUB N N 1  
+RXA CAI NAH  SING N N 2  
+RXA CAI CAK  SING N N 3  
+RXA NAH CAJ  SING N N 4  
+RXA CAK OAC  DOUB N N 5  
+RXA CAK CAM  SING N N 6  
+RXA CAM CAL  DOUB Y N 7  
+RXA CAM CAG  SING Y N 8  
+RXA CAL CAF  SING Y N 9  
+RXA CAL CAJ  SING N N 10 
+RXA CAF CAD  DOUB Y N 11 
+RXA CAJ OAB  DOUB N N 12 
+RXA CAG CAE  DOUB Y N 13 
+RXA CAE CAD  SING Y N 14 
+RXA NAH HNAH SING N N 15 
+RXA CAF HAF  SING N N 16 
+RXA CAG HAG  SING N N 17 
+RXA CAE HAE  SING N N 18 
+RXA CAD HAD  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RXA SMILES           ACDLabs              10.04 "O=C2c1c(cccc1)C(=O)C(=O)N2"                                             
+RXA SMILES_CANONICAL CACTVS               3.341 "O=C1NC(=O)c2ccccc2C1=O"                                                 
+RXA SMILES           CACTVS               3.341 "O=C1NC(=O)c2ccccc2C1=O"                                                 
+RXA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C(=O)C(=O)NC2=O"                                             
+RXA SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C(=O)C(=O)NC2=O"                                             
+RXA InChI            InChI                1.03  "InChI=1S/C9H5NO3/c11-7-5-3-1-2-4-6(5)8(12)10-9(7)13/h1-4H,(H,10,12,13)" 
+RXA InChIKey         InChI                1.03  YIOFGHHAURBGSJ-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RXA "SYSTEMATIC NAME" ACDLabs              10.04 "isoquinoline-1,3,4(2H)-trione" 
+RXA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 isoquinoline-1,3,4-trione       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RXA "Create component"     2008-06-13 PDBJ 
+RXA "Modify aromatic_flag" 2011-06-04 RCSB 
+RXA "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,126 @@
+data_BAC
+# 
+_chem_comp.id                                    BAC 
+_chem_comp.name                                  "N-(4-IODO-BENZYL)-FORMAMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 I N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-08-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        261.060 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BAC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2WPO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BAC C1  C1  C 0 1 N N N 97.978 34.528 10.488 -0.001 0.805  5.594  C1  BAC 1  
+BAC O1  O1  O 0 1 N N N 97.471 35.370 9.741  0.000  -0.198 6.275  O1  BAC 2  
+BAC N2  N2  N 0 1 N N N 97.429 33.336 10.705 -0.001 0.707  4.250  N2  BAC 3  
+BAC C3  C3  C 0 1 N N N 96.198 32.864 10.067 0.001  -0.611 3.611  C3  BAC 4  
+BAC C4  C4  C 0 1 Y N N 96.489 31.797 9.055  0.001  -0.443 2.114  C4  BAC 5  
+BAC C5  C5  C 0 1 Y N N 96.682 32.127 7.726  1.198  -0.364 1.427  C5  BAC 6  
+BAC C6  C6  C 0 1 Y N N 96.926 31.144 6.770  1.198  -0.211 0.053  C6  BAC 7  
+BAC C7  C7  C 0 1 Y N N 96.978 29.812 7.143  0.000  -0.137 -0.633 C7  BAC 8  
+BAC I7  I7  I 0 1 N N N 97.380 28.320 5.685  -0.000 0.094  -2.715 I7  BAC 9  
+BAC C8  C8  C 0 1 Y N N 96.783 29.471 8.477  -1.197 -0.210 0.054  C8  BAC 10 
+BAC C9  C9  C 0 1 Y N N 96.542 30.464 9.419  -1.196 -0.369 1.427  C9  BAC 11 
+BAC H1  H1  H 0 1 N N N 98.923 34.841 10.962 -0.003 1.777  6.065  H1  BAC 12 
+BAC HN2 HN2 H 0 1 N N N 97.889 32.786 11.371 -0.003 1.510  3.705  HN2 BAC 13 
+BAC H31 1H3 H 0 1 N N N 95.450 32.522 10.820 -0.887 -1.163 3.916  H31 BAC 14 
+BAC H32 2H3 H 0 1 N N N 95.618 33.705 9.621  0.892  -1.160 3.916  H32 BAC 15 
+BAC H5  H5  H 0 1 N N N 96.640 33.187 7.424  2.133  -0.422 1.964  H5  BAC 16 
+BAC H6  H6  H 0 1 N N N 97.078 31.421 5.713  2.133  -0.150 -0.482 H6  BAC 17 
+BAC H8  H8  H 0 1 N N N 96.819 28.413 8.787  -2.132 -0.151 -0.482 H8  BAC 18 
+BAC H9  H9  H 0 1 N N N 96.389 30.188 10.476 -2.131 -0.430 1.964  H9  BAC 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BAC C1 O1  DOUB N N 1  
+BAC C1 N2  SING N N 2  
+BAC C1 H1  SING N N 3  
+BAC N2 C3  SING N N 4  
+BAC N2 HN2 SING N N 5  
+BAC C3 C4  SING N N 6  
+BAC C3 H31 SING N N 7  
+BAC C3 H32 SING N N 8  
+BAC C4 C5  DOUB Y N 9  
+BAC C4 C9  SING Y N 10 
+BAC C5 C6  SING Y N 11 
+BAC C5 H5  SING N N 12 
+BAC C6 C7  DOUB Y N 13 
+BAC C6 H6  SING N N 14 
+BAC C7 I7  SING N N 15 
+BAC C7 C8  SING Y N 16 
+BAC C8 C9  DOUB Y N 17 
+BAC C8 H8  SING N N 18 
+BAC C9 H9  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BAC SMILES           ACDLabs              10.04 "Ic1ccc(cc1)CNC=O"                                                  
+BAC SMILES_CANONICAL CACTVS               3.341 "Ic1ccc(CNC=O)cc1"                                                  
+BAC SMILES           CACTVS               3.341 "Ic1ccc(CNC=O)cc1"                                                  
+BAC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1CNC=O)I"                                                  
+BAC SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1CNC=O)I"                                                  
+BAC InChI            InChI                1.03  "InChI=1S/C8H8INO/c9-8-3-1-7(2-4-8)5-10-6-11/h1-4,6H,5H2,(H,10,11)" 
+BAC InChIKey         InChI                1.03  FZYBUJWPYZVGKV-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BAC "SYSTEMATIC NAME" ACDLabs              10.04 "N-(4-iodobenzyl)formamide"           
+BAC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "N-[(4-iodophenyl)methyl]methanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BAC "Create component"   1999-07-08 RCSB 
+BAC "Modify descriptor"  2011-06-04 RCSB 
+BAC "Obsolete component" 2011-08-06 RCSB 
+# 

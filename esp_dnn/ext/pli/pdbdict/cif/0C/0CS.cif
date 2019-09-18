@@ -1,0 +1,120 @@
+data_0CS
+# 
+_chem_comp.id                                    0CS 
+_chem_comp.name                                  "3-[(S)-HYDROPEROXYSULFINYL]-L-ALANINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-01-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        169.156 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     0CS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2OGS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0CS N   N    N 0 1 N N N 27.856 1.298  19.653 1.094  -2.077 1.588  N   0CS 1  
+0CS CA  CA   C 0 1 N N R 28.565 1.908  20.778 1.330  -0.632 1.619  CA  0CS 2  
+0CS CB  CB   C 0 1 N N N 27.595 2.687  21.668 1.068  -0.026 0.243  CB  0CS 3  
+0CS C   C    C 0 1 N N N 29.234 0.783  21.565 0.384  -0.069 2.661  C   0CS 4  
+0CS O   O    O 0 1 N N N 28.726 -0.339 21.592 -0.738 -0.488 2.910  O   0CS 5  
+0CS SG  SG   S 0 1 N N S 26.911 4.172  20.866 1.344  1.776  0.235  SG  0CS 6  
+0CS OD1 OD1  O 0 1 N N N 25.699 4.649  21.699 2.772  1.999  0.620  OD1 0CS 7  
+0CS OD2 OD2  O 0 1 N N N 28.148 5.157  20.526 1.145  1.944  -1.353 OD2 0CS 8  
+0CS OD3 OD3  O 0 1 N N N 28.959 5.718  21.563 1.304  3.334  -1.737 OD3 0CS 9  
+0CS OXT OXT  O 0 1 N Y N 30.356 1.073  22.222 0.937  1.004  3.284  OXT 0CS 10 
+0CS H   1HN  H 0 1 N N N 26.897 1.159  19.899 0.330  -2.412 1.046  H   0CS 11 
+0CS H2  2HN  H 0 1 N Y N 27.912 1.901  18.857 1.569  -2.640 2.257  H2  0CS 12 
+0CS HA  HA   H 0 1 N N N 29.319 2.622  20.414 2.364  -0.469 1.944  HA  0CS 13 
+0CS HB2 1HB  H 0 1 N N N 26.759 2.022  21.929 1.755  -0.439 -0.504 HB2 0CS 14 
+0CS HB3 2HB  H 0 1 N N N 28.159 3.023  22.551 0.041  -0.203 -0.097 HB3 0CS 15 
+0CS HD3 HOD3 H 0 1 N N N 29.844 5.842  21.241 2.221  3.247  -2.049 HD3 0CS 16 
+0CS HXT HXT  H 0 1 N Y N 30.663 0.300  22.681 0.330  1.393  3.949  HXT 0CS 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0CS N   CA  SING N N 1  
+0CS N   H   SING N N 2  
+0CS N   H2  SING N N 3  
+0CS CA  CB  SING N N 4  
+0CS CA  C   SING N N 5  
+0CS CA  HA  SING N N 6  
+0CS CB  SG  SING N N 7  
+0CS CB  HB2 SING N N 8  
+0CS CB  HB3 SING N N 9  
+0CS C   O   DOUB N N 10 
+0CS C   OXT SING N N 11 
+0CS SG  OD1 DOUB N N 12 
+0CS SG  OD2 SING N N 13 
+0CS OD2 OD3 SING N N 14 
+0CS OD3 HD3 SING N N 15 
+0CS OXT HXT SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0CS SMILES           ACDLabs              10.04 "O=C(O)C(N)CS(=O)OO"                                                        
+0CS SMILES_CANONICAL CACTVS               3.341 "N[C@@H](C[S@@](=O)OO)C(O)=O"                                               
+0CS SMILES           CACTVS               3.341 "N[CH](C[S](=O)OO)C(O)=O"                                                   
+0CS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)[S@@](=O)OO"                                             
+0CS SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)S(=O)OO"                                                      
+0CS InChI            InChI                1.03  "InChI=1S/C3H7NO5S/c4-2(3(5)6)1-10(8)9-7/h2,7H,1,4H2,(H,5,6)/t2-,10-/m0/s1" 
+0CS InChIKey         InChI                1.03  XWVCSZNIYHRFRC-HWEYBBGXSA-N                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0CS "SYSTEMATIC NAME" ACDLabs              10.04 "3-[(S)-hydroperoxysulfinyl]-L-alanine"                  
+0CS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-[(S)-hydroperoxysulfinyl]propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0CS "Create component"  2007-01-19 RCSB 
+0CS "Modify descriptor" 2011-06-04 RCSB 
+# 

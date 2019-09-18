@@ -1,0 +1,117 @@
+data_LCY
+# 
+_chem_comp.id                                    LCY 
+_chem_comp.name                                  1-methylpyrrolidine-2,5-dione 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-05-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        113.115 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LCY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3A2G 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LCY C1  C1  C 0 1 N N N 7.203  18.681 4.116 0.771  -1.607 -0.000 C1  LCY 1  
+LCY C2  C2  C 0 1 N N N 6.870  18.786 5.593 -0.771 -1.607 -0.000 C2  LCY 2  
+LCY C3  C3  C 0 1 N N N 8.178  18.439 6.259 -1.126 -0.136 -0.000 C3  LCY 3  
+LCY O2  O2  O 0 1 N N N 8.344  18.529 7.476 -2.251 0.315  0.000  O2  LCY 4  
+LCY N1  N1  N 0 1 N N N 9.080  18.044 5.361 -0.000 0.589  0.000  N1  LCY 5  
+LCY C4  C4  C 0 1 N N N 8.538  18.008 4.145 1.126  -0.136 -0.000 C4  LCY 6  
+LCY O1  O1  O 0 1 N N N 9.028  17.493 3.152 2.251  0.315  0.000  O1  LCY 7  
+LCY C5  C5  C 0 1 N N N 10.471 17.720 5.666 -0.000 2.054  -0.000 C5  LCY 8  
+LCY H1  H1  H 0 1 N N N 6.455  18.091 3.565 1.155  -2.094 0.896  H1  LCY 9  
+LCY H1A H1A H 0 1 N N N 7.210  19.650 3.596 1.155  -2.094 -0.897 H1A LCY 10 
+LCY H2  H2  H 0 1 N N N 6.531  19.797 5.863 -1.155 -2.094 -0.897 H2  LCY 11 
+LCY H2A H2A H 0 1 N N N 6.043  18.128 5.897 -1.155 -2.094 0.896  H2A LCY 12 
+LCY H5  H5  H 0 1 N N N 11.043 17.639 4.730 -0.000 2.417  1.027  H5  LCY 13 
+LCY H5A H5A H 0 1 N N N 10.904 18.515 6.292 0.890  2.417  -0.514 H5A LCY 14 
+LCY H5B H5B H 0 1 N N N 10.514 16.763 6.206 -0.890 2.417  -0.514 H5B LCY 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LCY C1 C2  SING N N 1  
+LCY C1 C4  SING N N 2  
+LCY C2 C3  SING N N 3  
+LCY C3 O2  DOUB N N 4  
+LCY C3 N1  SING N N 5  
+LCY N1 C4  SING N N 6  
+LCY N1 C5  SING N N 7  
+LCY C4 O1  DOUB N N 8  
+LCY C1 H1  SING N N 9  
+LCY C1 H1A SING N N 10 
+LCY C2 H2  SING N N 11 
+LCY C2 H2A SING N N 12 
+LCY C5 H5  SING N N 13 
+LCY C5 H5A SING N N 14 
+LCY C5 H5B SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LCY SMILES           ACDLabs              10.04 "O=C1N(C(=O)CC1)C"                               
+LCY SMILES_CANONICAL CACTVS               3.341 "CN1C(=O)CCC1=O"                                 
+LCY SMILES           CACTVS               3.341 "CN1C(=O)CCC1=O"                                 
+LCY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CN1C(=O)CCC1=O"                                 
+LCY SMILES           "OpenEye OEToolkits" 1.5.0 "CN1C(=O)CCC1=O"                                 
+LCY InChI            InChI                1.03  "InChI=1S/C5H7NO2/c1-6-4(7)2-3-5(6)8/h2-3H2,1H3" 
+LCY InChIKey         InChI                1.03  KYEACNNYFNZCST-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LCY "SYSTEMATIC NAME" ACDLabs              10.04 1-methylpyrrolidine-2,5-dione 
+LCY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-methylpyrrolidine-2,5-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LCY "Create component"  2009-05-22 PDBJ 
+LCY "Modify descriptor" 2011-06-04 RCSB 
+# 

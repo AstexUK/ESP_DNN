@@ -1,0 +1,111 @@
+data_M10
+# 
+_chem_comp.id                                    M10 
+_chem_comp.name                                  "(mu3-oxo)-tris(mu2-oxo)-nonakisoxo-trimolybdenum (VI)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Mo3 O13" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Trimolybdate [Mo(VI)3O13]8-" 
+_chem_comp.pdbx_formal_charge                    -8 
+_chem_comp.pdbx_initial_date                     2014-05-22 
+_chem_comp.pdbx_modified_date                    2014-08-08 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        495.812 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     M10 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4NDO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+M10 O1  O1  O  -1 1 N N N 54.985 31.722 42.761 -3.408 1.355  0.685  O1  M10 1  
+M10 O2  O2  O  -1 1 N N N 60.635 31.757 42.761 2.856  1.519  0.701  O2  M10 2  
+M10 O3  O3  O  -1 1 N N N 57.780 36.633 42.761 1.621  -2.845 -1.404 O3  M10 3  
+M10 O4  O4  O  0  1 N N N 57.813 33.374 42.961 1.488  0.043  -1.367 O4  M10 4  
+M10 MO1 MO1 MO 0  0 N N N 55.830 33.467 41.669 -2.084 -0.076 -0.070 MO1 M10 5  
+M10 O5  O5  O  -1 1 N N N 54.664 33.340 40.413 -1.769 -0.755 1.785  O5  M10 6  
+M10 MO2 MO2 MO 0  0 N N N 58.702 31.617 41.669 0.914  1.449  -0.071 MO2 M10 7  
+M10 O6  O6  O  0  1 N N N 56.991 31.985 40.909 -0.938 1.382  -0.807 O6  M10 8  
+M10 MO3 MO3 MO 0  0 N N N 58.868 35.029 41.669 1.017  -1.378 -0.045 MO3 M10 9  
+M10 O7  O7  O  -1 1 N N N 55.089 34.356 42.962 -3.559 -0.846 -1.180 O7  M10 10 
+M10 O8  O8  O  -1 1 N N N 59.395 30.670 40.413 0.344  2.856  1.231  O8  M10 11 
+M10 O9  O9  O  0  1 N N N 59.405 33.363 40.909 0.442  0.029  1.250  O9  M10 12 
+M10 O10 O10 O  -1 1 N N N 58.302 30.530 42.962 1.389  2.868  -1.398 O10 M10 13 
+M10 O11 O11 O  0  1 N N N 59.341 36.102 40.413 0.549  -2.799 1.283  O11 M10 14 
+M10 O12 O12 O  0  1 N N N 57.004 34.764 40.909 -0.835 -1.459 -0.782 O12 M10 15 
+M10 O13 O13 O  -1 1 N N N 60.009 35.226 42.962 2.874  -1.301 0.695  O13 M10 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+M10 MO1 O1  SING N N 1  
+M10 MO1 O7  SING N N 2  
+M10 O5  MO1 SING N N 3  
+M10 MO2 O2  SING N N 4  
+M10 MO2 O4  SING N N 5  
+M10 MO2 O10 SING N N 6  
+M10 O6  MO1 SING N N 7  
+M10 O6  MO2 SING N N 8  
+M10 MO3 O3  SING N N 9  
+M10 MO3 O4  SING N N 10 
+M10 MO3 O13 SING N N 11 
+M10 O8  MO2 SING N N 12 
+M10 O9  MO2 SING N N 13 
+M10 O9  MO3 SING N N 14 
+M10 O11 MO3 DOUB N N 15 
+M10 O12 MO1 SING N N 16 
+M10 O12 MO3 SING N N 17 
+M10 O4  MO1 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+M10 InChI            InChI                1.03  InChI=1S/3Mo.13O/q;;;;;;;;8*-1                                                 
+M10 InChIKey         InChI                1.03  HGNGIYFURFJYFJ-UHFFFAOYSA-N                                                    
+M10 SMILES_CANONICAL CACTVS               3.370 "[O-][Mo]|12([O-])([O-])O[Mo]3([O-])([O-])([O-])O|1[Mo]([O-])([O-])(=O)(O2)O3" 
+M10 SMILES           CACTVS               3.370 "[O-][Mo]|12([O-])([O-])O[Mo]3([O-])([O-])([O-])O|1[Mo]([O-])([O-])(=O)(O2)O3" 
+M10 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[O-][Mo]12(O[Mo]3(O1[Mo](=O)(O2)(O3)([O-])[O-])([O-])([O-])[O-])([O-])[O-]"   
+M10 SMILES           "OpenEye OEToolkits" 1.7.6 "[O-][Mo]12(O[Mo]3(O1[Mo](=O)(O2)(O3)([O-])[O-])([O-])([O-])[O-])([O-])[O-]"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+M10 "Create component" 2014-05-22 RCSB 
+M10 "Initial release"  2014-08-13 RCSB 
+# 

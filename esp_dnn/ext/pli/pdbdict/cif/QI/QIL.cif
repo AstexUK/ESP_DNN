@@ -1,0 +1,135 @@
+data_QIL
+# 
+_chem_comp.id                                    QIL 
+_chem_comp.name                                  N-formyl-L-isoleucine 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H13 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ILE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-05-25 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        159.183 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     QIL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AL4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+QIL C    C    C 0 1 N N N 25.624 20.401 10.883 0.369  -1.188 -0.061 C    QIL 1  
+QIL N    N    N 0 1 N N N 24.720 18.982 9.180  1.316  1.005  -0.489 N    QIL 2  
+QIL O    O    O 0 1 N N N 24.856 21.296 10.611 1.189  -1.588 -0.854 O    QIL 3  
+QIL CA   CA   C 0 1 N N S 25.941 19.320 9.854  0.294  0.280  0.270  CA   QIL 4  
+QIL CB   CB   C 0 1 N N S 27.186 19.900 9.132  -1.091 0.816  -0.099 CB   QIL 5  
+QIL CD1  CD1  C 0 1 N N N 28.468 19.265 7.123  -3.516 0.771  0.502  CD1  QIL 6  
+QIL CG1  CG1  C 0 1 N N N 27.539 18.736 8.186  -2.148 0.147  0.783  CG1  QIL 7  
+QIL CG2  CG2  C 0 1 N N N 28.430 20.338 9.900  -1.383 0.506  -1.568 CG2  QIL 8  
+QIL CN   CN   C 0 1 N N N 24.284 17.742 8.969  2.573  1.094  -0.012 CN   QIL 9  
+QIL O1   O1   O 0 1 N N N 24.903 16.736 9.202  2.859  0.574  1.046  O1   QIL 10 
+QIL OXT  OXT  O 0 1 N Y N 26.237 20.356 12.174 -0.478 -2.052 0.521  OXT  QIL 11 
+QIL HXT  HXT  H 0 1 N Y N 25.938 21.094 12.693 -0.394 -2.983 0.274  HXT  QIL 12 
+QIL H    H    H 0 1 N N N 24.154 19.735 8.843  1.088  1.421  -1.335 H    QIL 13 
+QIL HA   HA   H 0 1 N N N 26.247 18.310 10.165 0.466  0.421  1.337  HA   QIL 14 
+QIL HB   HB   H 0 1 N N N 26.905 20.880 8.719  -1.117 1.894  0.057  HB   QIL 15 
+QIL HD11 HD11 H 0 0 N N N 28.736 18.452 6.432  -3.480 1.838  0.722  HD11 QIL 16 
+QIL HD12 HD12 H 0 0 N N N 27.966 20.069 6.565  -3.773 0.626  -0.547 HD12 QIL 17 
+QIL HD13 HD13 H 0 0 N N N 29.379 19.660 7.596  -4.268 0.295  1.130  HD13 QIL 18 
+QIL HG12 HG12 H 0 0 N N N 28.033 17.931 8.749  -2.183 -0.920 0.562  HG12 QIL 19 
+QIL HG13 HG13 H 0 0 N N N 26.624 18.339 7.722  -1.890 0.293  1.832  HG13 QIL 20 
+QIL HG21 HG21 H 0 0 N N N 29.184 20.715 9.193  -2.369 0.887  -1.831 HG21 QIL 21 
+QIL HG22 HG22 H 0 0 N N N 28.161 21.135 10.609 -0.630 0.982  -2.197 HG22 QIL 22 
+QIL HG23 HG23 H 0 0 N N N 28.841 19.480 10.452 -1.357 -0.573 -1.724 HG23 QIL 23 
+QIL HN   HN   H 0 1 N N N 23.293 17.629 8.555  3.327  1.628  -0.572 HN   QIL 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+QIL C    OXT  SING N N 1  
+QIL N    CA   SING N N 2  
+QIL O    C    DOUB N N 3  
+QIL CA   C    SING N N 4  
+QIL CA   HA   SING N N 5  
+QIL CB   CA   SING N N 6  
+QIL CB   CG2  SING N N 7  
+QIL CD1  HD12 SING N N 8  
+QIL CD1  CG1  SING N N 9  
+QIL CG1  CB   SING N N 10 
+QIL CG1  HG13 SING N N 11 
+QIL CG2  HG21 SING N N 12 
+QIL CG2  HG22 SING N N 13 
+QIL H    N    SING N N 14 
+QIL HB   CB   SING N N 15 
+QIL HD11 CD1  SING N N 16 
+QIL HG12 CG1  SING N N 17 
+QIL HD13 CD1  SING N N 18 
+QIL HG23 CG2  SING N N 19 
+QIL CN   N    SING N N 20 
+QIL CN   O1   DOUB N N 21 
+QIL HN   CN   SING N N 22 
+QIL OXT  HXT  SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+QIL SMILES           ACDLabs              12.01 "O=CNC(C(=O)O)C(CC)C"                                                                      
+QIL SMILES_CANONICAL CACTVS               3.370 "CC[C@H](C)[C@H](NC=O)C(O)=O"                                                              
+QIL SMILES           CACTVS               3.370 "CC[CH](C)[CH](NC=O)C(O)=O"                                                                
+QIL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CC[C@H](C)[C@@H](C(=O)O)NC=O"                                                             
+QIL SMILES           "OpenEye OEToolkits" 1.7.2 "CCC(C)C(C(=O)O)NC=O"                                                                      
+QIL InChI            InChI                1.03  "InChI=1S/C7H13NO3/c1-3-5(2)6(7(10)11)8-4-9/h4-6H,3H2,1-2H3,(H,8,9)(H,10,11)/t5-,6-/m0/s1" 
+QIL InChIKey         InChI                1.03  IONXXIKCTQHZNC-WDSKDSINSA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+QIL "SYSTEMATIC NAME" ACDLabs              12.01 N-formyl-L-isoleucine                         
+QIL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S,3S)-2-formamido-3-methyl-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+QIL "Create component"   2011-05-25 RCSB 
+QIL "Other modification" 2011-05-27 RCSB 
+QIL "Modify descriptor"  2011-06-04 RCSB 
+# 

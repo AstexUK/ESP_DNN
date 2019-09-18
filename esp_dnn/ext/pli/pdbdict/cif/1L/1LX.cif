@@ -1,0 +1,122 @@
+data_1LX
+# 
+_chem_comp.id                                    1LX 
+_chem_comp.name                                  "imidazo[1,2-a]pyridin-5-amine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-03-24 
+_chem_comp.pdbx_modified_date                    2013-04-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.151 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1LX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4JMS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1LX C01 C01 C 0 1 Y N N 30.210 91.535 48.669 1.553  1.644  -0.002 C01 1LX 1  
+1LX C02 C02 C 0 1 Y N N 31.505 91.146 48.855 2.008  0.321  -0.001 C02 1LX 2  
+1LX C03 C03 C 0 1 Y N N 32.210 90.708 47.778 1.117  -0.709 0.000  C03 1LX 3  
+1LX N04 N04 N 0 1 Y N N 31.628 90.651 46.545 -0.227 -0.462 0.000  N04 1LX 4  
+1LX C05 C05 C 0 1 Y N N 32.180 90.299 45.331 -1.324 -1.287 0.000  C05 1LX 5  
+1LX C06 C06 C 0 1 Y N N 31.110 90.396 44.416 -2.417 -0.496 -0.001 C06 1LX 6  
+1LX N07 N07 N 0 1 Y N N 30.025 90.789 45.075 -2.022 0.781  -0.001 N07 1LX 7  
+1LX C08 C08 C 0 1 Y N N 30.354 90.990 46.363 -0.696 0.827  -0.001 C08 1LX 8  
+1LX C09 C09 C 0 1 Y N N 29.579 91.438 47.446 0.215  1.900  0.004  C09 1LX 9  
+1LX N10 N10 N 0 1 N N N 33.538 90.271 47.871 1.576  -2.014 0.001  N10 1LX 10 
+1LX H1  H1  H 0 1 N N N 29.660 91.933 49.509 2.261  2.460  -0.003 H1  1LX 11 
+1LX H2  H2  H 0 1 N N N 31.959 91.185 49.834 3.069  0.116  -0.002 H2  1LX 12 
+1LX H3  H3  H 0 1 N N N 33.201 90.013 45.127 -1.314 -2.367 0.001  H3  1LX 13 
+1LX H4  H4  H 0 1 N N N 31.164 90.186 43.358 -3.441 -0.838 -0.001 H4  1LX 14 
+1LX H5  H5  H 0 1 N N N 28.537 91.695 47.326 -0.144 2.919  0.008  H5  1LX 15 
+1LX H6  H6  H 0 1 N N N 33.853 90.360 48.816 2.529  -2.193 0.001  H6  1LX 16 
+1LX H7  H7  H 0 1 N N N 33.594 89.313 47.590 0.944  -2.750 0.002  H7  1LX 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1LX C06 N07 SING Y N 1  
+1LX C06 C05 DOUB Y N 2  
+1LX N07 C08 DOUB Y N 3  
+1LX C05 N04 SING Y N 4  
+1LX C08 N04 SING Y N 5  
+1LX C08 C09 SING Y N 6  
+1LX N04 C03 SING Y N 7  
+1LX C09 C01 DOUB Y N 8  
+1LX C03 N10 SING N N 9  
+1LX C03 C02 DOUB Y N 10 
+1LX C01 C02 SING Y N 11 
+1LX C01 H1  SING N N 12 
+1LX C02 H2  SING N N 13 
+1LX C05 H3  SING N N 14 
+1LX C06 H4  SING N N 15 
+1LX C09 H5  SING N N 16 
+1LX N10 H6  SING N N 17 
+1LX N10 H7  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1LX SMILES           ACDLabs              12.01 "n1ccn2c(cccc12)N"                                    
+1LX InChI            InChI                1.03  "InChI=1S/C7H7N3/c8-6-2-1-3-7-9-4-5-10(6)7/h1-5H,8H2" 
+1LX InChIKey         InChI                1.03  XSNBOUDHWWROII-UHFFFAOYSA-N                           
+1LX SMILES_CANONICAL CACTVS               3.370 Nc1cccc2nccn12                                        
+1LX SMILES           CACTVS               3.370 Nc1cccc2nccn12                                        
+1LX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(n2ccnc2c1)N"                                    
+1LX SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(n2ccnc2c1)N"                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1LX "SYSTEMATIC NAME" ACDLabs              12.01 "imidazo[1,2-a]pyridin-5-amine" 
+1LX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "imidazo[1,2-a]pyridin-5-amine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1LX "Create component" 2013-03-24 RCSB 
+1LX "Initial release"  2013-05-01 RCSB 
+# 

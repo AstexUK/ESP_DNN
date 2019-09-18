@@ -1,0 +1,146 @@
+data_GNS
+# 
+_chem_comp.id                                    GNS 
+_chem_comp.name                                  N-SULFO-ALPHA-D-GLUCOSAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H13 N O8 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-10-31 
+_chem_comp.pdbx_modified_date                    2011-11-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        259.234 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GNS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ERM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GNS C1  C1  C 0 1 N N S 12.598 10.941 9.531  0.378  1.216  0.224  C1  GNS 1  
+GNS C2  C2  C 0 1 N N R 13.090 11.551 8.210  -0.315 -0.119 -0.058 C2  GNS 2  
+GNS N   N   N 0 1 N N N 12.063 11.555 7.139  -1.599 -0.162 0.646  N   GNS 3  
+GNS S1  S1  S 0 1 N N N 11.250 12.992 7.030  -2.990 0.273  -0.140 S1  GNS 4  
+GNS O1S O1S O 0 1 N N N 10.464 12.761 5.847  -3.215 -0.742 -1.252 O1S GNS 5  
+GNS O2S O2S O 0 1 N N N 10.452 13.027 8.227  -4.050 0.093  0.789  O2S GNS 6  
+GNS O3S O3S O 0 1 N N N 12.264 13.995 6.907  -2.718 1.513  -0.778 O3S GNS 7  
+GNS C3  C3  C 0 1 N N R 14.321 10.778 7.728  0.577  -1.263 0.434  C3  GNS 8  
+GNS O3  O3  O 0 1 N N N 14.728 11.357 6.500  -0.028 -2.516 0.110  O3  GNS 9  
+GNS C4  C4  C 0 1 N N S 15.424 10.852 8.805  1.943  -1.161 -0.251 C4  GNS 10 
+GNS C5  C5  C 0 1 N N R 14.867 10.651 10.226 2.549  0.215  0.038  C5  GNS 11 
+GNS O5  O5  O 0 1 N N N 13.606 11.252 10.484 1.655  1.233  -0.417 O5  GNS 12 
+GNS C6  C6  C 0 1 N N N 15.892 11.131 11.256 3.887  0.347  -0.693 C6  GNS 13 
+GNS O6  O6  O 0 1 N N N 16.046 12.532 11.173 4.508  1.582  -0.331 O6  GNS 14 
+GNS O4  O4  O 0 1 N N N 16.391 9.782  8.706  2.808  -2.180 0.255  O4  GNS 15 
+GNS O1  O1  O 0 1 N Y N 12.406 9.539  9.396  0.550  1.376  1.633  O1  GNS 16 
+GNS H1  H1  H 0 1 N N N 11.623 11.345 9.841  -0.233 2.032  -0.163 H1  GNS 17 
+GNS H2  H2  H 0 1 N N N 13.334 12.603 8.417  -0.484 -0.223 -1.130 H2  GNS 18 
+GNS HN  HN  H 0 1 N N N 12.519 11.385 6.265  -1.635 -0.446 1.573  HN  GNS 19 
+GNS H1S H1S H 0 1 N N N 9.549  12.674 6.086  -4.010 -0.578 -1.779 H1S GNS 20 
+GNS H3  H3  H 0 1 N N N 14.102 9.712  7.566  0.703  -1.188 1.515  H3  GNS 21 
+GNS HO3 HO3 H 0 1 N N N 15.493 10.899 6.172  0.484  -3.285 0.393  HO3 GNS 22 
+GNS H4  H4  H 0 1 N N N 15.865 11.845 8.635  1.821  -1.286 -1.327 H4  GNS 23 
+GNS H5  H5  H 0 1 N N N 14.687 9.569  10.311 2.709  0.324  1.111  H5  GNS 24 
+GNS H61 H61 H 0 1 N N N 15.545 10.864 12.265 4.537  -0.482 -0.413 H61 GNS 25 
+GNS H62 H62 H 0 1 N N N 16.860 10.648 11.057 3.717  0.327  -1.769 H62 GNS 26 
+GNS H6O H6O H 0 1 N N N 16.684 12.820 11.816 5.362  1.733  -0.758 H6O GNS 27 
+GNS HO4 HO4 H 0 1 N Y N 17.042 9.879  9.391  3.693  -2.174 -0.136 HO4 GNS 28 
+GNS HO1 HO1 H 0 1 N Y N 12.102 9.180  10.221 0.984  2.203  1.885  HO1 GNS 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GNS C1  C2  SING N N 1  
+GNS C1  O5  SING N N 2  
+GNS C1  O1  SING N N 3  
+GNS C1  H1  SING N N 4  
+GNS C2  N   SING N N 5  
+GNS C2  C3  SING N N 6  
+GNS C2  H2  SING N N 7  
+GNS N   S1  SING N N 8  
+GNS N   HN  SING N N 9  
+GNS S1  O1S SING N N 10 
+GNS S1  O2S DOUB N N 11 
+GNS S1  O3S DOUB N N 12 
+GNS O1S H1S SING N N 13 
+GNS C3  O3  SING N N 14 
+GNS C3  C4  SING N N 15 
+GNS C3  H3  SING N N 16 
+GNS O3  HO3 SING N N 17 
+GNS C4  C5  SING N N 18 
+GNS C4  O4  SING N N 19 
+GNS C4  H4  SING N N 20 
+GNS C5  O5  SING N N 21 
+GNS C5  C6  SING N N 22 
+GNS C5  H5  SING N N 23 
+GNS C6  O6  SING N N 24 
+GNS C6  H61 SING N N 25 
+GNS C6  H62 SING N N 26 
+GNS O6  H6O SING N N 27 
+GNS O4  HO4 SING N N 28 
+GNS O1  HO1 SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GNS SMILES           ACDLabs              12.01 "O=S(=O)(O)NC1C(O)C(O)C(OC1O)CO"                                                                             
+GNS InChI            InChI                1.03  "InChI=1S/C6H13NO8S/c8-1-2-4(9)5(10)3(6(11)15-2)7-16(12,13)14/h2-11H,1H2,(H,12,13,14)/t2-,3-,4-,5-,6+/m1/s1" 
+GNS InChIKey         InChI                1.03  PRDZVHCOEWJPOB-UKFBFLRUSA-N                                                                                  
+GNS SMILES_CANONICAL CACTVS               3.370 "OC[C@H]1O[C@H](O)[C@H](N[S](O)(=O)=O)[C@@H](O)[C@@H]1O"                                                     
+GNS SMILES           CACTVS               3.370 "OC[CH]1O[CH](O)[CH](N[S](O)(=O)=O)[CH](O)[CH]1O"                                                            
+GNS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)NS(=O)(=O)O)O)O)O"                                                   
+GNS SMILES           "OpenEye OEToolkits" 1.7.2 "C(C1C(C(C(C(O1)O)NS(=O)(=O)O)O)O)O"                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GNS "SYSTEMATIC NAME" ACDLabs              12.01 "2-deoxy-2-(sulfoamino)-alpha-D-glucopyranose"                                    
+GNS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "[(2S,3R,4R,5S,6R)-6-(hydroxymethyl)-2,4,5-tris(oxidanyl)oxan-3-yl]sulfamic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GNS "Create component"         2005-10-31 RCSB 
+GNS "Modify descriptor"        2011-06-04 RCSB 
+GNS "Modify leaving atom flag" 2011-11-04 RCSB 
+# 

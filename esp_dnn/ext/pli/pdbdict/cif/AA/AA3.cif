@@ -1,0 +1,118 @@
+data_AA3
+# 
+_chem_comp.id                                    AA3 
+_chem_comp.name                                  "2-AMINOBUTYRIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H9 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-09 
+_chem_comp.pdbx_modified_date                    2015-02-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      DBB 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        103.120 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     AA3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QR3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AA3 N   N   N 0 1 N N N -10.207 21.831 38.171 0.634  1.556  0.369  N   AA3 1  
+AA3 CA  CA  C 0 1 N N R -9.866  23.054 37.416 0.310  0.125  0.428  CA  AA3 2  
+AA3 C   C   C 0 1 N N N -8.900  22.955 36.282 -1.126 -0.083 0.022  C   AA3 3  
+AA3 O   O   O 0 1 N N N -8.683  23.949 35.593 -1.702 0.765  -0.617 O   AA3 4  
+AA3 CB  CB  C 0 1 N N N -10.416 24.257 37.724 1.226  -0.645 -0.525 CB  AA3 5  
+AA3 CG  CG  C 0 1 N N N -11.443 24.451 38.825 2.674  -0.536 -0.041 CG  AA3 6  
+AA3 OXT OXT O 0 1 N Y N -8.297  21.805 36.085 -1.766 -1.210 0.371  OXT AA3 7  
+AA3 H   H   H 0 1 N N N -10.861 22.056 38.894 0.506  1.918  -0.564 H   AA3 8  
+AA3 HN  HN  H 0 1 N N N -10.613 21.159 37.552 0.087  2.079  1.037  HN  AA3 9  
+AA3 HA  HA  H 0 1 N N N -9.035  23.253 38.109 0.456  -0.239 1.445  HA  AA3 10 
+AA3 HB1 HB1 H 0 1 N N N -9.573  24.916 37.979 0.928  -1.693 -0.548 HB1 AA3 11 
+AA3 HB2 HB2 H 0 1 N N N -10.894 24.614 36.800 1.146  -0.222 -1.527 HB2 AA3 12 
+AA3 HG1 HG1 H 0 1 N N N -11.731 25.511 38.876 2.971  0.512  -0.018 HG1 AA3 13 
+AA3 HG2 HG2 H 0 1 N N N -12.332 23.840 38.609 2.754  -0.959 0.961  HG2 AA3 14 
+AA3 HG3 HG3 H 0 1 N N N -11.011 24.142 39.788 3.326  -1.085 -0.720 HG3 AA3 15 
+AA3 HXT HXT H 0 1 N Y N -7.697  21.883 35.353 -2.686 -1.298 0.088  HXT AA3 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AA3 N   CA  SING N N 1  
+AA3 N   H   SING N N 2  
+AA3 N   HN  SING N N 3  
+AA3 CA  C   SING N N 4  
+AA3 CA  CB  SING N N 5  
+AA3 CA  HA  SING N N 6  
+AA3 C   O   DOUB N N 7  
+AA3 C   OXT SING N N 8  
+AA3 CB  CG  SING N N 9  
+AA3 CB  HB1 SING N N 10 
+AA3 CB  HB2 SING N N 11 
+AA3 CG  HG1 SING N N 12 
+AA3 CG  HG2 SING N N 13 
+AA3 CG  HG3 SING N N 14 
+AA3 OXT HXT SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AA3 SMILES           ACDLabs              12.01 "O=C(O)C(N)CC"                                                    
+AA3 InChI            InChI                1.03  "InChI=1S/C4H9NO2/c1-2-3(5)4(6)7/h3H,2,5H2,1H3,(H,6,7)/t3-/m1/s1" 
+AA3 InChIKey         InChI                1.03  QWCKQJZIFLGMSD-GSVOUGTGSA-N                                       
+AA3 SMILES_CANONICAL CACTVS               3.385 "CC[C@@H](N)C(O)=O"                                               
+AA3 SMILES           CACTVS               3.385 "CC[CH](N)C(O)=O"                                                 
+AA3 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CCC(C(=O)O)N"                                                    
+AA3 SMILES           "OpenEye OEToolkits" 1.7.6 "CCC(C(=O)O)N"                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AA3 "SYSTEMATIC NAME" ACDLabs              12.01 "(2R)-2-aminobutanoic acid" 
+AA3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-azanylbutanoic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AA3 "Create component"   1999-08-09 EBI  
+AA3 "Other modification" 2015-02-19 RCSB 
+# 

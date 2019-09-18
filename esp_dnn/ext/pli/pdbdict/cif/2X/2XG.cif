@@ -1,0 +1,113 @@
+data_2XG
+# 
+_chem_comp.id                                    2XG 
+_chem_comp.name                                  3,4-difluorobenzenethiol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H4 F2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-04-04 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2XG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4Q02 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2XG SAG SAG S 0 1 N N N -21.953 -1.807 -7.151  -2.967 -0.188 -0.032 SAG 2XG 1  
+2XG CAH CAH C 0 1 Y N N -23.134 1.719  -9.787  1.505  0.545  0.002  CAH 2XG 2  
+2XG FAI FAI F 0 1 N N N -23.489 2.750  -10.569 2.838  0.764  0.012  FAI 2XG 3  
+2XG CAJ CAJ C 0 1 Y N N -22.134 1.859  -8.875  1.016  -0.754 -0.003 CAJ 2XG 4  
+2XG FAK FAK F 0 1 N N N -21.475 3.019  -8.736  1.873  -1.798 0.002  FAK 2XG 5  
+2XG CAL CAL C 0 1 Y N N -21.783 0.782  -8.067  -0.348 -0.979 -0.013 CAL 2XG 6  
+2XG CAM CAM C 0 1 Y N N -22.476 -0.424 -8.203  -1.228 0.096  -0.018 CAM 2XG 7  
+2XG CAN CAN C 0 1 Y N N -23.483 -0.577 -9.122  -0.735 1.395  -0.013 CAN 2XG 8  
+2XG CAO CAO C 0 1 Y N N -23.844 0.503  -9.918  0.628  1.616  0.003  CAO 2XG 9  
+2XG H1  H1  H 0 1 N N N -21.006 -1.265 -6.443  -3.276 -0.239 1.277  H1  2XG 10 
+2XG H2  H2  H 0 1 N N N -20.986 0.877  -7.345  -0.729 -1.990 -0.017 H2  2XG 11 
+2XG H3  H3  H 0 1 N N N -23.989 -1.525 -9.225  -1.418 2.231  -0.017 H3  2XG 12 
+2XG H4  H4  H 0 1 N N N -24.655 0.415  -10.626 1.011  2.626  0.007  H4  2XG 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2XG FAI CAH SING N N 1  
+2XG CAO CAH DOUB Y N 2  
+2XG CAO CAN SING Y N 3  
+2XG CAH CAJ SING Y N 4  
+2XG CAN CAM DOUB Y N 5  
+2XG CAJ FAK SING N N 6  
+2XG CAJ CAL DOUB Y N 7  
+2XG CAM CAL SING Y N 8  
+2XG CAM SAG SING N N 9  
+2XG SAG H1  SING N N 10 
+2XG CAL H2  SING N N 11 
+2XG CAN H3  SING N N 12 
+2XG CAO H4  SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2XG SMILES           ACDLabs              12.01 "Fc1ccc(S)cc1F"                                 
+2XG InChI            InChI                1.03  "InChI=1S/C6H4F2S/c7-5-2-1-4(9)3-6(5)8/h1-3,9H" 
+2XG InChIKey         InChI                1.03  BGVRHDQMTMPAEZ-UHFFFAOYSA-N                     
+2XG SMILES_CANONICAL CACTVS               3.385 "Fc1ccc(S)cc1F"                                 
+2XG SMILES           CACTVS               3.385 "Fc1ccc(S)cc1F"                                 
+2XG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(c(cc1S)F)F"                               
+2XG SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(c(cc1S)F)F"                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2XG "SYSTEMATIC NAME" ACDLabs              12.01 3,4-difluorobenzenethiol         
+2XG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "3,4-bis(fluoranyl)benzenethiol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2XG "Create component" 2014-04-04 RCSB 
+2XG "Initial release"  2014-09-10 RCSB 
+# 

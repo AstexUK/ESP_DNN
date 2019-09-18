@@ -1,0 +1,117 @@
+data_XSP
+# 
+_chem_comp.id                                    XSP 
+_chem_comp.name                                  "(2R)-3-oxo-2-(phosphonooxy)propanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "D-tartronate semialdehyde 2-phosphate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-07-30 
+_chem_comp.pdbx_modified_date                    2012-08-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.041 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     XSP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UJS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+XSP C1  C1  C 0 1 N N N 43.542 37.312 24.740 -2.042 0.731  -0.027 C1  XSP 1  
+XSP C2  C2  C 0 1 N N R 42.702 37.393 23.476 -0.994 -0.285 0.350  C2  XSP 2  
+XSP C3  C3  C 0 1 N N N 41.468 38.279 23.469 -1.556 -1.673 0.179  C3  XSP 3  
+XSP P   P   P 0 1 N N N 43.324 35.914 21.430 1.615  0.220  0.073  P   XSP 4  
+XSP O1  O1  O 0 1 N N N 44.723 36.830 24.632 -1.872 1.446  -0.986 O1  XSP 5  
+XSP O2  O2  O 0 1 N N N 43.060 37.591 25.873 -3.166 0.836  0.698  O2  XSP 6  
+XSP O3  O3  O 0 1 N N N 41.556 39.675 23.646 -1.031 -2.446 -0.585 O3  XSP 7  
+XSP O1P O1P O 0 1 N N N 43.373 37.369 22.127 0.148  -0.126 -0.494 O1P XSP 8  
+XSP O2P O2P O 0 1 N N N 44.166 36.074 20.158 1.549  1.448  0.896  O2P XSP 9  
+XSP O3P O3P O 0 1 N N N 43.970 34.945 22.373 2.144  -1.004 0.976  O3P XSP 10 
+XSP O4P O4P O 0 1 N N N 41.868 35.537 21.126 2.625  0.454  -1.159 O4P XSP 11 
+XSP H1  H1  H 0 1 N N N 42.233 36.398 23.485 -0.702 -0.136 1.389  H1  XSP 12 
+XSP H2  H2  H 0 1 N N N 40.498 37.828 23.325 -2.427 -1.976 0.741  H2  XSP 13 
+XSP H4  H4  H 0 1 N N N 43.697 37.386 26.548 -3.809 1.502  0.417  H4  XSP 14 
+XSP H6  H6  H 0 1 N N N 44.778 34.622 21.991 2.212  -1.843 0.500  H6  XSP 15 
+XSP H7  H7  H 0 1 N N N 41.748 35.469 20.186 3.529  0.666  -0.891 H7  XSP 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+XSP O2P P   DOUB N N 1  
+XSP O4P P   SING N N 2  
+XSP P   O1P SING N N 3  
+XSP P   O3P SING N N 4  
+XSP O1P C2  SING N N 5  
+XSP C3  C2  SING N N 6  
+XSP C3  O3  DOUB N N 7  
+XSP C2  C1  SING N N 8  
+XSP O1  C1  DOUB N N 9  
+XSP C1  O2  SING N N 10 
+XSP C2  H1  SING N N 11 
+XSP C3  H2  SING N N 12 
+XSP O2  H4  SING N N 13 
+XSP O3P H6  SING N N 14 
+XSP O4P H7  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+XSP SMILES           ACDLabs              12.01 "O=P(OC(C=O)C(=O)O)(O)O"                                                      
+XSP InChI            InChI                1.03  "InChI=1S/C3H5O7P/c4-1-2(3(5)6)10-11(7,8)9/h1-2H,(H,5,6)(H2,7,8,9)/t2-/m1/s1" 
+XSP InChIKey         InChI                1.03  KBLQTRXAGCIRPZ-UWTATZPHSA-N                                                   
+XSP SMILES_CANONICAL CACTVS               3.370 "OC(=O)[C@H](O[P](O)(O)=O)C=O"                                                
+XSP SMILES           CACTVS               3.370 "OC(=O)[CH](O[P](O)(O)=O)C=O"                                                 
+XSP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C(=O)[C@H](C(=O)O)OP(=O)(O)O"                                                
+XSP SMILES           "OpenEye OEToolkits" 1.7.6 "C(=O)C(C(=O)O)OP(=O)(O)O"                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+XSP "SYSTEMATIC NAME" ACDLabs              12.01 "(2R)-3-oxo-2-(phosphonooxy)propanoic acid"          
+XSP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R)-3-oxidanylidene-2-phosphonooxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+XSP "Create component" 2012-07-30 RCSB 
+# 

@@ -1,0 +1,107 @@
+data_CD5
+# 
+_chem_comp.id                                    CD5 
+_chem_comp.name                                  "CADMIUM ION, 5 WATERS COORDINATED" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Cd H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     2002-09-03 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        202.487 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CD5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1LB3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CD5 CD   CD   CD 2 0 N N N 27.328 26.582 26.728 ? ? ? CD   CD5 1  
+CD5 O1   O1   O  0 1 N N N 25.250 27.520 25.985 ? ? ? O1   CD5 2  
+CD5 O2   O2   O  0 1 N N N 28.265 28.409 26.076 ? ? ? O2   CD5 3  
+CD5 O3   O3   O  0 1 N N N 28.694 27.176 27.130 ? ? ? O3   CD5 4  
+CD5 O4   O4   O  0 1 N N N 26.374 24.842 27.349 ? ? ? O4   CD5 5  
+CD5 O5   O5   O  0 1 N N N 27.769 25.793 24.692 ? ? ? O5   CD5 6  
+CD5 HO11 1HO1 H  0 0 N N N 24.837 26.714 26.273 ? ? ? HO11 CD5 7  
+CD5 HO12 2HO1 H  0 0 N N N 24.963 28.332 26.387 ? ? ? HO12 CD5 8  
+CD5 HO21 1HO2 H  0 0 N N N 29.088 28.037 26.370 ? ? ? HO21 CD5 9  
+CD5 HO22 2HO2 H  0 0 N N N 28.188 28.642 25.158 ? ? ? HO22 CD5 10 
+CD5 HO31 1HO3 H  0 0 N N N 29.517 26.804 27.424 ? ? ? HO31 CD5 11 
+CD5 HO32 2HO3 H  0 0 N N N 28.955 27.625 26.334 ? ? ? HO32 CD5 12 
+CD5 HO41 1HO4 H  0 0 N N N 27.197 24.470 27.643 ? ? ? HO41 CD5 13 
+CD5 HO42 2HO4 H  0 0 N N N 25.703 24.948 28.013 ? ? ? HO42 CD5 14 
+CD5 HO51 1HO5 H  0 0 N N N 28.592 25.421 24.986 ? ? ? HO51 CD5 15 
+CD5 HO52 2HO5 H  0 0 N N N 27.137 25.178 24.339 ? ? ? HO52 CD5 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CD5 CD O1   SING N N 1  
+CD5 CD O2   SING N N 2  
+CD5 CD O3   SING N N 3  
+CD5 CD O4   SING N N 4  
+CD5 CD O5   SING N N 5  
+CD5 O1 HO11 SING N N 6  
+CD5 O1 HO12 SING N N 7  
+CD5 O2 HO21 SING N N 8  
+CD5 O2 HO22 SING N N 9  
+CD5 O3 HO31 SING N N 10 
+CD5 O3 HO32 SING N N 11 
+CD5 O4 HO41 SING N N 12 
+CD5 O4 HO42 SING N N 13 
+CD5 O5 HO51 SING N N 14 
+CD5 O5 HO52 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CD5 InChI            InChI                1.02b "InChI=1/Cd.5H2O/h;5*1H2/q+2;;;;;/rCdH10O5/c2-1(3,4,5)6/h2-6H2/q+2" 
+CD5 InChIKey         InChI                1.02b UCXUYGUHKCVQIX-UPBFNGNMAC                                           
+CD5 SMILES_CANONICAL CACTVS               3.341 "O|[Cd++](|O)(|O)(|O)|O"                                            
+CD5 SMILES           CACTVS               3.341 "O|[Cd++](|O)(|O)(|O)|O"                                            
+CD5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[OH2][Cd+2]([OH2])([OH2])([OH2])[OH2]"                             
+CD5 SMILES           "OpenEye OEToolkits" 1.5.0 "[OH2][Cd+2]([OH2])([OH2])([OH2])[OH2]"                             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CD5 "Create component" 2002-09-03 RCSB 
+# 

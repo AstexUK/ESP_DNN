@@ -1,0 +1,266 @@
+data_NDE
+# 
+_chem_comp.id                                    NDE 
+_chem_comp.name                                  
+;ADENOSINE 5'-(TRIHYDROGEN DIPHOSPHATE) P'-5'-ESTER WITH 3-(AMINOCARBONYL)-4-(1-HYDROXYL-2-OXO-3-PHOSPHONOOXY-PROPYL)-1-BETA-D-RIBOFURANOSYLPYRIDINIUM INNER SALT
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C24 H32 N7 O20 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "NAD WITH (1-HYDROXYL-2-OXO-3-PHOSPHONOOXY-PROPANE)" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-11-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        831.467 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NDE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1N1E 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NDE O7N  NO7  O 0  1 N N N 27.612 18.620 -15.613 -5.883  0.314  0.065  O7N  NDE 1  
+NDE C7N  NC7  C 0  1 N N N 28.370 18.307 -16.531 -4.908  -0.171 -0.534 C7N  NDE 2  
+NDE N7N  NN7  N 0  1 N N N 28.028 17.270 -17.293 -4.717  0.059  -1.893 N7N  NDE 3  
+NDE C3N  NC3  C 0  1 Y N N 29.616 19.063 -16.767 -3.917  -0.978 0.161  C3N  NDE 4  
+NDE C4N  NC4  C 0  1 Y N N 29.959 20.272 -15.897 -4.036  -2.361 0.260  C4N  NDE 5  
+NDE C5N  NC5  C 0  1 Y N N 31.074 21.096 -16.458 -3.065  -3.095 0.934  C5N  NDE 6  
+NDE C6N  NC6  C 0  1 Y N N 31.991 20.537 -17.259 -1.990  -2.422 1.497  C6N  NDE 7  
+NDE C2N  NC2  C 0  1 Y N N 30.408 18.622 -17.783 -2.820  -0.359 0.744  C2N  NDE 8  
+NDE N1N  NN1  N 1  1 Y N N 31.669 19.317 -17.982 -1.890  -1.084 1.392  N1N  NDE 9  
+NDE C1D  NC1* C 0  1 N N R 32.628 18.846 -18.985 -0.729  -0.392 2.006  C1D  NDE 10 
+NDE C2D  NC2* C 0  1 N N R 33.189 17.448 -18.810 0.394   -0.237 0.995  C2D  NDE 11 
+NDE O2D  NO2* O 0  1 N N N 34.260 17.507 -17.900 1.187   -1.402 0.903  O2D  NDE 12 
+NDE C3D  NC3* C 0  1 N N S 33.591 17.087 -20.249 1.147   0.950  1.561  C3D  NDE 13 
+NDE O3D  NO3* O 0  1 N N N 34.937 17.457 -20.467 1.951   0.524  2.661  O3D  NDE 14 
+NDE O4D  NO4* O 0  1 N N N 31.969 18.813 -20.227 -1.059  0.936  2.452  O4D  NDE 15 
+NDE C4D  NC4* C 0  1 N N R 32.730 17.992 -21.130 0.018   1.830  2.089  C4D  NDE 16 
+NDE C5D  NC5* C 0  1 N N N 31.681 17.276 -21.940 -0.504  2.814  1.051  C5D  NDE 17 
+NDE O5D  NO5* O 0  1 N N N 31.138 16.312 -21.073 -1.552  3.577  1.624  O5D  NDE 18 
+NDE PN   NP   P 0  1 N N N 29.572 15.980 -21.028 -2.296  4.718  0.718  PN   NDE 19 
+NDE O1N  NO1  O 0  1 N N N 29.206 15.911 -19.574 -3.558  5.143  1.436  O1N  NDE 20 
+NDE O2N  NO2  O -1 1 N N N 28.806 16.888 -21.983 -1.280  5.747  0.272  O2N  NDE 21 
+NDE PA   AP   P 0  1 N N S 28.251 13.239 -22.141 -3.495  4.192  -1.937 PA   NDE 22 
+NDE O1A  AO1  O 0  1 N N N 28.890 12.143 -21.393 -2.818  5.247  -2.763 O1A  NDE 23 
+NDE O3   O3   O 0  1 N N N 29.256 14.222 -21.583 -2.714  3.809  -0.573 O3   NDE 24 
+NDE O2A  AO2  O 0  1 N N N 27.204 14.070 -21.491 -3.656  2.765  -2.682 O2A  NDE 25 
+NDE O5B  AO5* O 0  1 N N N 28.641 13.441 -23.657 -4.995  4.566  -1.457 O5B  NDE 26 
+NDE C5B  AC5* C 0  1 N N N 29.552 12.636 -24.360 -5.736  3.649  -0.671 C5B  NDE 27 
+NDE C4B  AC4* C 0  1 N N R 29.961 13.479 -25.535 -7.098  4.257  -0.368 C4B  NDE 28 
+NDE O4B  AO4* O 0  1 N N N 31.084 12.780 -26.125 -7.792  4.467  -1.620 O4B  NDE 29 
+NDE C1B  AC1* C 0  1 N N R 30.702 12.319 -27.398 -8.945  3.605  -1.663 C1B  NDE 30 
+NDE C2B  AC2* C 0  1 N N R 29.188 12.300 -27.426 -8.722  2.547  -0.593 C2B  NDE 31 
+NDE O2B  AO2* O 0  1 N N N 28.772 12.368 -28.757 -9.940  2.000  -0.130 O2B  NDE 32 
+NDE C3B  AC3* C 0  1 N N S 28.893 13.564 -26.611 -7.986  3.341  0.468  C3B  NDE 33 
+NDE O3B  AO3* O 0  1 N N N 29.113 14.692 -27.411 -8.919  4.142  1.195  O3B  NDE 34 
+NDE N9A  AN9  N 0  1 Y N N 31.362 11.039 -27.551 -9.106  3.064  -3.010 N9A  NDE 35 
+NDE C8A  AC8  C 0  1 Y N N 31.145 9.891  -26.836 -8.096  2.764  -3.887 C8A  NDE 36 
+NDE N7A  AN7  N 0  1 Y N N 31.952 8.941  -27.267 -8.551  2.292  -5.029 N7A  NDE 37 
+NDE C5A  AC5  C 0  1 Y N N 32.742 9.472  -28.277 -9.916  2.285  -4.887 C5A  NDE 38 
+NDE C6A  AC6  C 0  1 Y N N 33.777 8.956  -29.080 -10.946 1.901  -5.740 C6A  NDE 39 
+NDE N6A  AN6  N 0  1 N N N 34.166 7.685  -28.940 -10.666 1.406  -7.026 N6A  NDE 40 
+NDE C4A  AC4  C 0  1 Y N N 32.367 10.788 -28.446 -10.282 2.762  -3.639 C4A  NDE 41 
+NDE N3A  AN3  N 0  1 Y N N 32.972 11.556 -29.367 -11.526 2.897  -3.154 N3A  NDE 42 
+NDE C2A  AC2  C 0  1 Y N N 33.948 11.050 -30.134 -12.435 2.494  -4.068 C2A  NDE 43 
+NDE N1A  AN1  N 0  1 Y N N 34.348 9.769  -29.997 -12.228 2.010  -5.316 N1A  NDE 44 
+NDE P    P    P 0  1 N N N 31.261 15.254 -13.397 -8.236  -3.238 3.864  P    NDE 45 
+NDE O1P  O1P  O 0  1 N N N 32.006 15.287 -14.706 -8.983  -4.212 4.728  O1P  NDE 46 
+NDE O2P  O2P  O 0  1 N N N 32.013 14.748 -12.210 -9.146  -2.104 3.156  O2P  NDE 47 
+NDE O3P  O3P  O 0  1 N N N 29.820 14.912 -13.511 -7.099  -2.380 4.628  O3P  NDE 48 
+NDE O1   O1   O 0  1 N N N 31.231 16.818 -13.023 -7.424  -3.905 2.630  O1   NDE 49 
+NDE C1   C1   C 0  1 N N N 30.367 17.666 -13.794 -6.693  -3.059 1.765  C1   NDE 50 
+NDE C2   C2   C 0  1 N N N 30.924 19.034 -14.048 -6.008  -3.870 0.681  C2   NDE 51 
+NDE O2   O2   O 0  1 N N N 32.121 19.353 -14.066 -6.112  -5.096 0.627  O2   NDE 52 
+NDE C3   C3   C 0  1 N N R 29.942 20.100 -14.337 -5.195  -3.081 -0.348 C3   NDE 53 
+NDE O31  O31  O 0  1 N N N ?      ?      ?       -4.718  -3.973 -1.351 O31  NDE 54 
+NDE H71N NH71 H 0  0 N N N 27.167 16.747 -17.130 -3.905  -0.336 -2.354 H71N NDE 55 
+NDE H72N NH72 H 0  0 N N N 28.656 17.010 -18.053 -5.373  0.614  -2.433 H72N NDE 56 
+NDE H5N  NH5  H 0  1 N N N 31.228 22.172 -16.271 -3.138  -4.174 1.024  H5N  NDE 57 
+NDE H6N  NH6  H 0  1 N N N 32.962 21.055 -17.320 -1.198  -2.927 2.036  H6N  NDE 58 
+NDE H2N  NH2  H 0  1 N N N 30.057 17.773 -18.393 -2.655  0.712  0.712  H2N  NDE 59 
+NDE H1D  NH1* H 0  1 N N N 33.483 19.554 -18.890 -0.455  -1.010 2.867  H1D  NDE 60 
+NDE H2D  NH2* H 0  1 N N N 32.501 16.680 -18.384 -0.006  0.000  0.003  H2D  NDE 61 
+NDE HO2N NHO2 H 0  0 N N N 34.611 16.631 -17.790 1.511   -1.460 -0.013 HO2N NDE 62 
+NDE H3D  NH3* H 0  1 N N N 33.463 15.998 -20.454 1.804   1.442  0.840  H3D  NDE 63 
+NDE HO3N NHO3 H 0  0 N N N 35.185 17.233 -21.356 2.515   -0.190 2.327  HO3N NDE 64 
+NDE H4D  NH4* H 0  1 N N N 33.424 18.513 -21.829 0.312   2.377  2.991  H4D  NDE 65 
+NDE H51N NH51 H 0  0 N N N 30.920 17.954 -22.391 -0.892  2.281  0.178  H51N NDE 66 
+NDE H52N NH52 H 0  0 N N N 32.063 16.854 -22.898 0.292   3.492  0.732  H52N NDE 67 
+NDE HOA2 2HOA H 0  0 N N N 26.791 14.777 -21.973 -3.983  2.747  -3.607 HOA2 NDE 68 
+NDE H51A AH51 H 0  0 N N N 30.404 12.266 -23.744 -5.856  2.717  -1.225 H51A NDE 69 
+NDE H52A AH52 H 0  0 N N N 29.155 11.630 -24.635 -5.197  3.455  0.258  H52A NDE 70 
+NDE H4B  AH4* H 0  1 N N N 30.171 14.516 -25.184 -6.961  5.236  0.102  H4B  NDE 71 
+NDE H1B  AH1* H 0  1 N N N 31.004 12.950 -28.265 -9.844  4.203  -1.482 H1B  NDE 72 
+NDE H2B  AH2* H 0  1 N N N 28.671 11.400 -27.016 -8.088  1.734  -0.968 H2B  NDE 73 
+NDE HO2A AHO2 H 0  0 N N N 27.822 12.356 -28.774 -10.276 1.411  -0.828 HO2A NDE 74 
+NDE H3B  AH3* H 0  1 N N N 27.851 13.638 -26.220 -7.446  2.722  1.189  H3B  NDE 75 
+NDE HO3A AHO3 H 0  0 N N N 28.444 14.745 -28.084 -8.534  4.280  2.073  HO3A NDE 76 
+NDE H8A  AH8  H 0  1 N N N 30.416 9.750  -26.020 -7.054  2.910  -3.637 H8A  NDE 77 
+NDE H61A AH61 H 0  0 N N N 34.915 7.311  -29.521 -9.715  1.360  -7.340 H61A NDE 78 
+NDE H62A AH62 H 0  0 N N N 33.347 7.085  -29.045 -11.423 1.194  -7.648 H62A NDE 79 
+NDE H2A  AH2  H 0  1 N N N 34.428 11.696 -30.887 -13.473 2.568  -3.761 H2A  NDE 80 
+NDE HOP2 2HOP H 0  0 N N N 31.543 14.727 -11.384 -9.789  -1.603 3.701  HOP2 NDE 81 
+NDE HOP3 3HOP H 0  0 N N N 29.350 14.891 -12.685 -7.323  -1.946 5.479  HOP3 NDE 82 
+NDE H11  1H1  H 0  1 N N N 30.088 17.172 -14.754 -7.391  -2.359 1.299  H11  NDE 83 
+NDE H12  2H1  H 0  1 N N N 29.360 17.735 -13.319 -5.954  -2.509 2.352  H12  NDE 84 
+NDE H31  1H3  H 0  1 N N N 30.030 21.139 -13.942 -5.888  -2.387 -0.850 H31  NDE 85 
+NDE H311 1H31 H 0  0 N N N -0.010 -0.104 0.944   -5.345  -4.712 -1.385 H311 NDE 86 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NDE O7N C7N  DOUB N N 1  
+NDE C7N N7N  SING N N 2  
+NDE C7N C3N  SING N N 3  
+NDE N7N H71N SING N N 4  
+NDE N7N H72N SING N N 5  
+NDE C3N C4N  SING Y N 6  
+NDE C3N C2N  DOUB Y N 7  
+NDE C4N C5N  DOUB Y N 8  
+NDE C4N C3   SING N N 9  
+NDE C5N C6N  SING Y N 10 
+NDE C5N H5N  SING N N 11 
+NDE C6N N1N  DOUB Y N 12 
+NDE C6N H6N  SING N N 13 
+NDE C2N N1N  SING Y N 14 
+NDE C2N H2N  SING N N 15 
+NDE N1N C1D  SING N N 16 
+NDE C1D C2D  SING N N 17 
+NDE C1D O4D  SING N N 18 
+NDE C1D H1D  SING N N 19 
+NDE C2D O2D  SING N N 20 
+NDE C2D C3D  SING N N 21 
+NDE C2D H2D  SING N N 22 
+NDE O2D HO2N SING N N 23 
+NDE C3D O3D  SING N N 24 
+NDE C3D C4D  SING N N 25 
+NDE C3D H3D  SING N N 26 
+NDE O3D HO3N SING N N 27 
+NDE O4D C4D  SING N N 28 
+NDE C4D C5D  SING N N 29 
+NDE C4D H4D  SING N N 30 
+NDE C5D O5D  SING N N 31 
+NDE C5D H51N SING N N 32 
+NDE C5D H52N SING N N 33 
+NDE O5D PN   SING N N 34 
+NDE PN  O1N  DOUB N N 35 
+NDE PN  O2N  SING N N 36 
+NDE PN  O3   SING N N 37 
+NDE PA  O1A  DOUB N N 38 
+NDE PA  O3   SING N N 39 
+NDE PA  O2A  SING N N 40 
+NDE PA  O5B  SING N N 41 
+NDE O2A HOA2 SING N N 42 
+NDE O5B C5B  SING N N 43 
+NDE C5B C4B  SING N N 44 
+NDE C5B H51A SING N N 45 
+NDE C5B H52A SING N N 46 
+NDE C4B O4B  SING N N 47 
+NDE C4B C3B  SING N N 48 
+NDE C4B H4B  SING N N 49 
+NDE O4B C1B  SING N N 50 
+NDE C1B C2B  SING N N 51 
+NDE C1B N9A  SING N N 52 
+NDE C1B H1B  SING N N 53 
+NDE C2B O2B  SING N N 54 
+NDE C2B C3B  SING N N 55 
+NDE C2B H2B  SING N N 56 
+NDE O2B HO2A SING N N 57 
+NDE C3B O3B  SING N N 58 
+NDE C3B H3B  SING N N 59 
+NDE O3B HO3A SING N N 60 
+NDE N9A C8A  SING Y N 61 
+NDE N9A C4A  SING Y N 62 
+NDE C8A N7A  DOUB Y N 63 
+NDE C8A H8A  SING N N 64 
+NDE N7A C5A  SING Y N 65 
+NDE C5A C6A  DOUB Y N 66 
+NDE C5A C4A  SING Y N 67 
+NDE C6A N6A  SING N N 68 
+NDE C6A N1A  SING Y N 69 
+NDE N6A H61A SING N N 70 
+NDE N6A H62A SING N N 71 
+NDE C4A N3A  DOUB Y N 72 
+NDE N3A C2A  SING Y N 73 
+NDE C2A N1A  DOUB Y N 74 
+NDE C2A H2A  SING N N 75 
+NDE P   O1P  DOUB N N 76 
+NDE P   O2P  SING N N 77 
+NDE P   O3P  SING N N 78 
+NDE P   O1   SING N N 79 
+NDE O2P HOP2 SING N N 80 
+NDE O3P HOP3 SING N N 81 
+NDE O1  C1   SING N N 82 
+NDE C1  C2   SING N N 83 
+NDE C1  H11  SING N N 84 
+NDE C1  H12  SING N N 85 
+NDE C2  O2   DOUB N N 86 
+NDE C2  C3   SING N N 87 
+NDE C3  O31  SING N N 88 
+NDE C3  H31  SING N N 89 
+NDE O31 H311 SING N N 90 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NDE SMILES_CANONICAL CACTVS               3.341 "NC(=O)c1c[n+](ccc1[C@@H](O)C(=O)CO[P](O)(O)=O)[C@@H]2O[C@H](CO[P]([O-])(=O)O[P@](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O" 
+NDE SMILES           CACTVS               3.341 "NC(=O)c1c[n+](ccc1[CH](O)C(=O)CO[P](O)(O)=O)[CH]2O[CH](CO[P]([O-])(=O)O[P](O)(=O)OC[CH]3O[CH]([CH](O)[CH]3O)n4cnc5c(N)ncnc45)[CH](O)[CH]2O" 
+NDE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c[n+](cc(c1[C@H](C(=O)COP(=O)(O)O)O)C(=O)N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@@](=O)([O-])O[P@@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O" 
+NDE SMILES           "OpenEye OEToolkits" 1.5.0 "c1c[n+](cc(c1C(C(=O)COP(=O)(O)O)O)C(=O)N)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)n4cnc5c4ncnc5N)O)O)O)O" 
+NDE InChI            InChI                1.03  
+;InChI=1S/C24H32N7O20P3/c25-20-14-22(28-7-27-20)31(8-29-14)24-19(37)17(35)13(50-24)6-48-54(44,45)51-53(42,43)47-5-12-16(34)18(36)23(49-12)30-2-1-9(10(3-30)21(26)38)15(33)11(32)4-46-52(39,40)41/h1-3,7-8,12-13,15-19,23-24,33-37H,4-6H2,(H7-,25,26,27,28,38,39,40,41,42,43,44,45)/t12-,13-,15?,16-,17-,18-,19-,23-,24-/m1/s1
+;
+NDE InChIKey         InChI                1.03  IVZPTIKSOMOSEU-WPIGAQFXSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NDE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 
+"[(2R,3S,4R,5R)-5-[3-aminocarbonyl-4-[(1R)-1-hydroxy-2-oxo-3-phosphonooxy-propyl]pyridin-1-ium-1-yl]-3,4-dihydroxy-oxolan-2-yl]methyl [[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl] phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NDE "Create component"  2002-11-11 RCSB 
+NDE "Modify descriptor" 2011-06-04 RCSB 
+# 

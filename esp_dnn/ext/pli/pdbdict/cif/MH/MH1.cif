@@ -1,0 +1,132 @@
+data_MH1
+# 
+_chem_comp.id                                    MH1 
+_chem_comp.name                                  1-methyl-L-histidine 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H11 N3 O2" 
+_chem_comp.mon_nstd_parent_comp_id               HIS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-02-26 
+_chem_comp.pdbx_modified_date                    2009-08-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      HIC 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        169.181 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MH1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3G88 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MH1 N   N   N 0 1 N N N -6.126 16.401 20.315 -1.184 1.288  -1.048 N   MH1 1  
+MH1 C2  C2  C 0 1 N N N -6.968 11.606 18.975 4.366  0.651  0.241  C2  MH1 2  
+MH1 C   C   C 0 1 N N N -5.451 17.449 22.535 -2.905 -0.042 0.036  C   MH1 3  
+MH1 NE2 NE2 N 0 1 Y N N -7.118 12.496 20.135 3.017  0.095  0.103  NE2 MH1 4  
+MH1 CD2 CD2 C 0 1 Y N N -6.118 13.302 20.463 1.896  0.507  0.771  CD2 MH1 5  
+MH1 CE1 CE1 C 0 1 Y N N -8.068 12.600 21.066 2.647  -0.916 -0.712 CE1 MH1 6  
+MH1 ND1 ND1 N 0 1 Y N N -7.685 13.536 21.923 1.369  -1.130 -0.560 ND1 MH1 7  
+MH1 CG  CG  C 0 1 Y N N -6.475 13.946 21.552 0.882  -0.269 0.346  CG  MH1 8  
+MH1 CB  CB  C 0 1 N N N -5.651 15.014 22.215 -0.551 -0.184 0.805  CB  MH1 9  
+MH1 CA  CA  C 0 1 N N S -6.208 16.359 21.788 -1.466 -0.004 -0.409 CA  MH1 10 
+MH1 O   O   O 0 1 N N N -5.715 17.698 23.713 -3.519 0.988  0.182  O   MH1 11 
+MH1 HN  HN  H 0 1 N N N -7.049 16.410 19.929 -1.730 1.402  -1.889 HN  MH1 12 
+MH1 HNA HNA H 0 1 N N N -5.638 17.227 20.032 -1.344 2.051  -0.406 HNA MH1 13 
+MH1 H2  H2  H 0 1 N N N -6.931 12.206 18.054 4.901  0.116  1.026  H2  MH1 14 
+MH1 H2A H2A H 0 1 N N N -6.037 11.028 19.074 4.902  0.543  -0.702 H2A MH1 15 
+MH1 H2B H2B H 0 1 N N N -7.824 10.917 18.929 4.298  1.707  0.502  H2B MH1 16 
+MH1 OXT OXT O 0 1 N Y N -4.427 18.189 21.865 -3.504 -1.220 0.272  O2  MH1 17 
+MH1 HD2 HD2 H 0 1 N N N -5.183 13.410 19.933 1.837  1.302  1.500  HD2 MH1 18 
+MH1 HE1 HE1 H 0 1 N N N -8.982 12.026 21.113 3.301  -1.458 -1.380 HE1 MH1 19 
+MH1 HB  HB  H 0 1 N N N -5.710 14.911 23.309 -0.820 -1.100 1.330  HB  MH1 20 
+MH1 HBA HBA H 0 1 N N N -4.595 14.924 21.919 -0.668 0.667  1.476  HBA MH1 21 
+MH1 HA  HA  H 0 1 N N N -7.264 16.522 22.048 -1.285 -0.809 -1.122 HA  MH1 22 
+MH1 HXT HXT H 0 1 N Y N -4.054 18.827 22.462 -4.428 -1.193 0.556  H11 MH1 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MH1 N   CA  SING N N 1  
+MH1 N   HN  SING N N 2  
+MH1 N   HNA SING N N 3  
+MH1 C2  NE2 SING N N 4  
+MH1 C2  H2  SING N N 5  
+MH1 C2  H2A SING N N 6  
+MH1 C2  H2B SING N N 7  
+MH1 C   CA  SING N N 8  
+MH1 C   O   DOUB N N 9  
+MH1 C   OXT SING N N 10 
+MH1 NE2 CD2 SING Y N 11 
+MH1 NE2 CE1 SING Y N 12 
+MH1 CD2 CG  DOUB Y N 13 
+MH1 CD2 HD2 SING N N 14 
+MH1 CE1 ND1 DOUB Y N 15 
+MH1 CE1 HE1 SING N N 16 
+MH1 ND1 CG  SING Y N 17 
+MH1 CG  CB  SING N N 18 
+MH1 CB  CA  SING N N 19 
+MH1 CB  HB  SING N N 20 
+MH1 CB  HBA SING N N 21 
+MH1 CA  HA  SING N N 22 
+MH1 OXT HXT SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MH1 SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc1ncn(c1)C"                                                                         
+MH1 InChI            InChI                1.02b "InChI=1/C7H11N3O2/c1-10-3-5(9-4-10)2-6(8)7(11)12/h3-4,6H,2,8H2,1H3,(H,11,12)/t6-/m0/s1/f/h11H" 
+MH1 InChIKey         InChI                1.02b BRMWTNUJHUMWMS-LBISWHJPDF                                                                       
+MH1 SMILES_CANONICAL CACTVS               3.341 "Cn1cnc(C[C@H](N)C(O)=O)c1"                                                                     
+MH1 SMILES           CACTVS               3.341 "Cn1cnc(C[CH](N)C(O)=O)c1"                                                                      
+MH1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cn1cc(nc1)C[C@@H](C(=O)O)N"                                                                    
+MH1 SMILES           "OpenEye OEToolkits" 1.5.0 "Cn1cc(nc1)CC(C(=O)O)N"                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MH1 "SYSTEMATIC NAME" ACDLabs              10.04 1-methyl-L-histidine                                   
+MH1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(1-methylimidazol-4-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MH1 "Create component" 2009-02-26 RCSB 
+# 

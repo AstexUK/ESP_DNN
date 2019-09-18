@@ -1,0 +1,114 @@
+data_HQE
+# 
+_chem_comp.id                                    HQE 
+_chem_comp.name                                  benzene-1,4-diol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-03-14 
+_chem_comp.pdbx_modified_date                    2012-06-22 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        110.111 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HQE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4E3H 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HQE C1 C1 C 0 1 Y N N 14.624 4.417 17.599 0.691  1.201  0.018  C1 HQE 1  
+HQE C2 C2 C 0 1 Y N N 14.804 3.116 18.184 -0.691 1.201  0.017  C2 HQE 2  
+HQE C3 C3 C 0 1 Y N N 15.340 2.105 17.395 -1.384 -0.000 0.016  C3 HQE 3  
+HQE O3 O3 O 0 1 N N N 15.490 0.805 17.920 -2.744 -0.000 0.015  O3 HQE 4  
+HQE C4 C4 C 0 1 Y N N 15.669 2.399 16.037 -0.691 -1.201 0.017  C4 HQE 5  
+HQE C5 C5 C 0 1 Y N N 15.518 3.670 15.470 0.691  -1.201 0.018  C5 HQE 6  
+HQE C6 C6 C 0 1 Y N N 15.007 4.697 16.281 1.384  0.000  0.013  C6 HQE 7  
+HQE O6 O6 O 0 1 N N N 14.873 6.006 15.768 2.744  0.000  0.015  O6 HQE 8  
+HQE H1 H1 H 0 1 N N N 14.180 5.202 18.194 1.230  2.137  0.019  H1 HQE 9  
+HQE H2 H2 H 0 1 N N N 14.529 2.929 19.212 -1.231 2.136  0.016  H2 HQE 10 
+HQE H3 H3 H 0 1 N N N 15.224 0.799 18.832 -3.136 -0.000 -0.869 H3 HQE 11 
+HQE H4 H4 H 0 1 N N N 16.053 1.602 15.417 -1.231 -2.136 0.016  H4 HQE 12 
+HQE H5 H5 H 0 1 N N N 15.786 3.855 14.440 1.231  -2.136 0.019  H5 HQE 13 
+HQE H6 H6 H 0 1 N N N 14.516 6.575 16.440 3.138  -0.004 -0.868 H6 HQE 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HQE C5 C4 DOUB Y N 1  
+HQE C5 C6 SING Y N 2  
+HQE O6 C6 SING N N 3  
+HQE C4 C3 SING Y N 4  
+HQE C6 C1 DOUB Y N 5  
+HQE C3 O3 SING N N 6  
+HQE C3 C2 DOUB Y N 7  
+HQE C1 C2 SING Y N 8  
+HQE C1 H1 SING N N 9  
+HQE C2 H2 SING N N 10 
+HQE O3 H3 SING N N 11 
+HQE C4 H4 SING N N 12 
+HQE C5 H5 SING N N 13 
+HQE O6 H6 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HQE SMILES           ACDLabs              12.01 "Oc1ccc(O)cc1"                                 
+HQE InChI            InChI                1.03  "InChI=1S/C6H6O2/c7-5-1-2-6(8)4-3-5/h1-4,7-8H" 
+HQE InChIKey         InChI                1.03  QIGBRXMKCJKVMJ-UHFFFAOYSA-N                    
+HQE SMILES_CANONICAL CACTVS               3.370 "Oc1ccc(O)cc1"                                 
+HQE SMILES           CACTVS               3.370 "Oc1ccc(O)cc1"                                 
+HQE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1O)O"                                 
+HQE SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1O)O"                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HQE "SYSTEMATIC NAME" ACDLabs              12.01 benzene-1,4-diol 
+HQE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 benzene-1,4-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HQE "Create component" 2012-03-14 PDBJ 
+# 

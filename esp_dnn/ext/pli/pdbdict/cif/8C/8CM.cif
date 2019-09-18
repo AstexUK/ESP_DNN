@@ -1,0 +1,124 @@
+data_8CM
+# 
+_chem_comp.id                                    8CM 
+_chem_comp.name                                  8-HYDROXYCOUMARIN 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         8-HYDROXY-2H-CHROMENE-2-ONE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-06-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     8CM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2H8Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+8CM C5  C5  C 0 1 Y N N 14.451 26.407 58.312 1.449  -1.802 -0.007 C5  8CM 1  
+8CM C6  C6  C 0 1 Y N N 14.681 25.822 57.061 2.628  -1.092 0.002  C6  8CM 2  
+8CM C7  C7  C 0 1 Y N N 15.237 24.516 56.963 2.613  0.295  0.014  C7  8CM 3  
+8CM C8  C8  C 0 1 Y N N 15.567 23.795 58.130 1.414  0.986  0.017  C8  8CM 4  
+8CM C1A C1A C 0 1 Y N N 15.329 24.394 59.407 0.210  0.286  0.013  C1A 8CM 5  
+8CM C4A C4A C 0 1 Y N N 14.773 25.702 59.504 0.228  -1.119 -0.004 C4A 8CM 6  
+8CM C4  C4  C 0 1 Y N N 14.563 26.247 60.877 -1.045 -1.847 -0.013 C4  8CM 7  
+8CM C3  C3  C 0 1 Y N N 14.892 25.529 61.954 -2.195 -1.127 -0.009 C3  8CM 8  
+8CM C2  C2  C 0 1 Y N N 15.486 24.137 61.831 -2.139 0.284  0.003  C2  8CM 9  
+8CM O1  O1  O 0 1 Y N N 15.689 23.610 60.516 -0.971 0.943  0.012  O1  8CM 10 
+8CM O2  O2  O 0 1 N N N 15.811 23.427 62.767 -3.179 0.919  0.007  O2  8CM 11 
+8CM O8  O8  O 0 1 N N N 16.117 22.530 58.039 1.412  2.345  0.028  O8  8CM 12 
+8CM H5  H5  H 0 1 N N N 14.027 27.398 58.372 1.466  -2.882 -0.017 H5  8CM 13 
+8CM H6  H6  H 0 1 N N N 14.434 26.367 56.162 3.571  -1.618 0.000  H6  8CM 14 
+8CM H7  H7  H 0 1 N N N 15.407 24.075 55.992 3.545  0.840  0.021  H7  8CM 15 
+8CM H4  H4  H 0 1 N N N 14.140 27.233 61.001 -1.066 -2.926 -0.023 H4  8CM 16 
+8CM H3  H3  H 0 1 N N N 14.732 25.949 62.936 -3.150 -1.631 -0.016 H3  8CM 17 
+8CM HO8 HO8 H 0 1 N N N 16.243 22.304 57.125 1.414  2.633  -0.895 HO8 8CM 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+8CM C5  C6  DOUB Y N 1  
+8CM C5  C4A SING Y N 2  
+8CM C5  H5  SING N N 3  
+8CM C6  C7  SING Y N 4  
+8CM C6  H6  SING N N 5  
+8CM C7  C8  DOUB Y N 6  
+8CM C7  H7  SING N N 7  
+8CM C8  C1A SING Y N 8  
+8CM C8  O8  SING N N 9  
+8CM C1A C4A DOUB Y N 10 
+8CM C1A O1  SING Y N 11 
+8CM C4A C4  SING Y N 12 
+8CM C4  C3  DOUB Y N 13 
+8CM C4  H4  SING N N 14 
+8CM C3  C2  SING Y N 15 
+8CM C3  H3  SING N N 16 
+8CM C2  O1  SING Y N 17 
+8CM C2  O2  DOUB N N 18 
+8CM O8  HO8 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+8CM SMILES           ACDLabs              10.04 "O=C2Oc1c(O)cccc1C=C2"                                     
+8CM SMILES_CANONICAL CACTVS               3.341 "Oc1cccc2C=CC(=O)Oc12"                                     
+8CM SMILES           CACTVS               3.341 "Oc1cccc2C=CC(=O)Oc12"                                     
+8CM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc2c(c(c1)O)OC(=O)C=C2"                                 
+8CM SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc2c(c(c1)O)OC(=O)C=C2"                                 
+8CM InChI            InChI                1.03  "InChI=1S/C9H6O3/c10-7-3-1-2-6-4-5-8(11)12-9(6)7/h1-5,10H" 
+8CM InChIKey         InChI                1.03  DPTUTXWBBUARQB-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+8CM "SYSTEMATIC NAME" ACDLabs              10.04 8-hydroxy-2H-chromen-2-one 
+8CM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 8-hydroxychromen-2-one     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+8CM "Create component"  2006-06-12 RCSB 
+8CM "Modify descriptor" 2011-06-04 RCSB 
+# 

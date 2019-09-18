@@ -1,0 +1,170 @@
+data_MTB
+# 
+_chem_comp.id                                    MTB 
+_chem_comp.name                                  
+;2-((3'-TERTBUTYL-4'-HYDROXYPHENYL)AZO)BENZOIC ACID
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C17 H18 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        298.336 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MTB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SRF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MTB C1     C1     C 0 1 Y N N 32.766 11.847 -5.533  0.643  -0.000 -2.690 C1     MTB 1  
+MTB C2     C2     C 0 1 Y N N 33.961 11.850 -4.837  -0.091 -0.005 -3.894 C2     MTB 2  
+MTB C3     C3     C 0 1 Y N N 34.170 10.909 -3.832  0.587  -0.002 -5.112 C3     MTB 3  
+MTB C4     C4     C 0 1 Y N N 33.187 9.961  -3.563  1.967  -0.008 -5.134 C4     MTB 4  
+MTB C5     C5     C 0 1 Y N N 31.979 9.954  -4.259  2.688  -0.010 -3.952 C5     MTB 5  
+MTB C6     C6     C 0 1 Y N N 31.762 10.898 -5.252  2.038  -0.006 -2.735 C6     MTB 6  
+MTB "C1'"  "C1'"  C 0 1 Y N N 31.046 13.598 -8.270  0.021  0.005  0.808  "C1'"  MTB 7  
+MTB "C2'"  "C2'"  C 0 1 Y N N 31.901 14.702 -8.311  0.752  0.003  2.001  "C2'"  MTB 8  
+MTB "C3'"  "C3'"  C 0 1 Y N N 31.738 15.637 -9.332  0.093  0.007  3.210  "C3'"  MTB 9  
+MTB "C4'"  "C4'"  C 0 1 Y N N 30.733 15.500 -10.285 -1.296 0.007  3.246  "C4'"  MTB 10 
+MTB "C5'"  "C5'"  C 0 1 Y N N 29.886 14.394 -10.241 -2.027 0.015  2.063  "C5'"  MTB 11 
+MTB "C6'"  "C6'"  C 0 1 Y N N 30.063 13.429 -9.222  -1.377 0.011  0.850  "C6'"  MTB 12 
+MTB C      C      C 0 1 N N N 35.034 12.917 -5.097  -1.565 0.001  -3.865 C      MTB 13 
+MTB CT3    CT3    C 0 1 N N N 32.656 16.866 -9.293  0.879  0.005  4.496  CT3    MTB 14 
+MTB CHV    1CH3   C 0 1 N N N 33.424 16.836 -7.921  2.376  -0.001 4.178  CHV    MTB 15 
+MTB CHW    2CH3   C 0 1 N N N 31.690 18.062 -9.226  0.524  -1.241 5.308  CHW    MTB 16 
+MTB CHX    3CH3   C 0 1 N N N 33.657 16.803 -10.401 0.535  1.257  5.305  CHX    MTB 17 
+MTB N1     N1     N 0 1 N N N 32.480 12.841 -6.598  -0.006 0.002  -1.489 N1     MTB 18 
+MTB "N1'"  "N1'"  N 0 1 N N N 31.352 12.639 -7.180  0.670  0.001  -0.391 "N1'"  MTB 19 
+MTB O      O      O 0 1 N N N 36.194 12.857 -4.263  -2.152 -0.001 -2.801 O      MTB 20 
+MTB OXT    OXT    O 0 1 N N N 34.912 13.823 -5.910  -2.262 0.010  -5.018 OXT    MTB 21 
+MTB "O4'"  "O4'"  O 0 1 N N N 30.585 16.500 -11.287 -1.941 0.011  4.440  "O4'"  MTB 22 
+MTB H3     H3     H 0 1 N N N 35.108 10.914 -3.252  0.032  -0.000 -6.039 H3     MTB 23 
+MTB H4     H4     H 0 1 N N N 33.368 9.201  -2.784  2.488  -0.010 -6.080 H4     MTB 24 
+MTB H5     H5     H 0 1 N N N 31.201 9.207  -4.025  3.768  -0.014 -3.982 H5     MTB 25 
+MTB H6     H6     H 0 1 N N N 30.809 10.894 -5.807  2.608  -0.007 -1.817 H6     MTB 26 
+MTB "H2'"  "H2'"  H 0 1 N N N 32.690 14.833 -7.551  1.832  -0.001 1.974  "H2'"  MTB 27 
+MTB "H5'"  "H5'"  H 0 1 N N N 29.091 14.284 -10.997 -3.106 0.020  2.097  "H5'"  MTB 28 
+MTB "H6'"  "H6'"  H 0 1 N N N 29.424 12.531 -9.168  -1.946 0.012  -0.067 "H6'"  MTB 29 
+MTB H11    1H1    H 0 1 N N N 34.091 17.729 -7.892  2.944  -0.002 5.108  H11    MTB 30 
+MTB H12    2H1    H 0 1 N N N 32.741 16.774 -7.041  2.621  -0.892 3.601  H12    MTB 31 
+MTB H13    3H1    H 0 1 N N N 33.969 15.879 -7.748  2.628  0.887  3.599  H13    MTB 32 
+MTB H21    1H2    H 0 1 N N N 32.357 18.955 -9.197  0.769  -2.132 4.732  H21    MTB 33 
+MTB H22    2H2    H 0 1 N N N 30.933 18.083 -10.044 1.093  -1.242 6.238  H22    MTB 34 
+MTB H23    3H2    H 0 1 N N N 30.959 18.011 -8.385  -0.541 -1.236 5.534  H23    MTB 35 
+MTB H31    1H3    H 0 1 N N N 34.324 17.696 -10.372 0.788  2.145  4.726  H31    MTB 36 
+MTB H32    2H3    H 0 1 N N N 34.236 15.850 -10.383 -0.530 1.262  5.531  H32    MTB 37 
+MTB H33    3H3    H 0 1 N N N 33.168 16.680 -11.395 1.103  1.256  6.235  H33    MTB 38 
+MTB HXT    HXT    H 0 1 N N N 35.575 14.483 -6.070  -3.229 0.014  -4.999 HXT    MTB 39 
+MTB "HO4'" "'HO4" H 0 0 N N N 29.899 16.406 -11.937 -2.082 -0.913 4.685  "HO4'" MTB 40 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MTB C1    C2     SING Y N 1  
+MTB C1    C6     DOUB Y N 2  
+MTB C1    N1     SING N N 3  
+MTB C2    C3     DOUB Y N 4  
+MTB C2    C      SING N N 5  
+MTB C3    C4     SING Y N 6  
+MTB C3    H3     SING N N 7  
+MTB C4    C5     DOUB Y N 8  
+MTB C4    H4     SING N N 9  
+MTB C5    C6     SING Y N 10 
+MTB C5    H5     SING N N 11 
+MTB C6    H6     SING N N 12 
+MTB "C1'" "C2'"  SING Y N 13 
+MTB "C1'" "C6'"  DOUB Y N 14 
+MTB "C1'" "N1'"  SING N N 15 
+MTB "C2'" "C3'"  DOUB Y N 16 
+MTB "C2'" "H2'"  SING N N 17 
+MTB "C3'" "C4'"  SING Y N 18 
+MTB "C3'" CT3    SING N N 19 
+MTB "C4'" "C5'"  DOUB Y N 20 
+MTB "C4'" "O4'"  SING N N 21 
+MTB "C5'" "C6'"  SING Y N 22 
+MTB "C5'" "H5'"  SING N N 23 
+MTB "C6'" "H6'"  SING N N 24 
+MTB C     O      DOUB N N 25 
+MTB C     OXT    SING N N 26 
+MTB CT3   CHV    SING N N 27 
+MTB CT3   CHW    SING N N 28 
+MTB CT3   CHX    SING N N 29 
+MTB CHV   H11    SING N N 30 
+MTB CHV   H12    SING N N 31 
+MTB CHV   H13    SING N N 32 
+MTB CHW   H21    SING N N 33 
+MTB CHW   H22    SING N N 34 
+MTB CHW   H23    SING N N 35 
+MTB CHX   H31    SING N N 36 
+MTB CHX   H32    SING N N 37 
+MTB CHX   H33    SING N N 38 
+MTB N1    "N1'"  DOUB N E 39 
+MTB OXT   HXT    SING N N 40 
+MTB "O4'" "HO4'" SING N N 41 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MTB SMILES           ACDLabs              10.04 "O=C(O)c2ccccc2/N=N/c1ccc(O)c(c1)C(C)(C)C"                                                                              
+MTB SMILES_CANONICAL CACTVS               3.341 "CC(C)(C)c1cc(ccc1O)N=Nc2ccccc2C(O)=O"                                                                                  
+MTB SMILES           CACTVS               3.341 "CC(C)(C)c1cc(ccc1O)N=Nc2ccccc2C(O)=O"                                                                                  
+MTB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C)c1cc(ccc1O)/N=N/c2ccccc2C(=O)O"                                                                                
+MTB SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C)c1cc(ccc1O)N=Nc2ccccc2C(=O)O"                                                                                  
+MTB InChI            InChI                1.03  "InChI=1S/C17H18N2O3/c1-17(2,3)13-10-11(8-9-15(13)20)18-19-14-7-5-4-6-12(14)16(21)22/h4-10,20H,1-3H3,(H,21,22)/b19-18+" 
+MTB InChIKey         InChI                1.03  RLAQYNIYEMUFPA-VHEBQXMUSA-N                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MTB "SYSTEMATIC NAME" ACDLabs              10.04 "2-[(E)-(3-tert-butyl-4-hydroxyphenyl)diazenyl]benzoic acid" 
+MTB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(3-tert-butyl-4-hydroxy-phenyl)diazenylbenzoic acid"      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MTB "Create component"  1999-07-08 RCSB 
+MTB "Modify descriptor" 2011-06-04 RCSB 
+# 

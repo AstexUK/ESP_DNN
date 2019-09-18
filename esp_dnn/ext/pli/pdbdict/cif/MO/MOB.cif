@@ -1,0 +1,162 @@
+data_MOB
+# 
+_chem_comp.id                                    MOB 
+_chem_comp.name                                  
+;2-((3',5'-DIMETHOXY-4'-HYDROXYPHENYL)AZO)BENZOIC ACID
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H14 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        302.282 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MOB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SRH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MOB C1     C1     C 0 1 Y N N 32.809 11.890 -5.414  0.766  0.000  -2.453 C1     MOB 1  
+MOB C2     C2     C 0 1 Y N N 33.992 11.597 -4.748  -0.107 -0.005 -3.559 C2     MOB 2  
+MOB C3     C3     C 0 1 Y N N 34.040 10.507 -3.866  0.418  -0.002 -4.851 C3     MOB 3  
+MOB C4     C4     C 0 1 Y N N 32.888 9.736  -3.671  1.785  -0.005 -5.039 C4     MOB 4  
+MOB C5     C5     C 0 1 Y N N 31.703 10.016 -4.356  2.644  -0.004 -3.952 C5     MOB 5  
+MOB C6     C6     C 0 1 Y N N 31.659 11.109 -5.232  2.146  -0.001 -2.666 C6     MOB 6  
+MOB "C1'"  "C1'"  C 0 1 Y N N 31.379 13.699 -8.234  0.573  0.005  1.094  "C1'"  MOB 7  
+MOB "C2'"  "C2'"  C 0 1 Y N N 31.894 14.984 -8.147  1.443  0.005  2.190  "C2'"  MOB 8  
+MOB "C3'"  "C3'"  C 0 1 Y N N 31.335 16.024 -8.910  0.935  0.008  3.475  "C3'"  MOB 9  
+MOB "C4'"  "C4'"  C 0 1 Y N N 30.268 15.780 -9.754  -0.442 0.005  3.680  "C4'"  MOB 10 
+MOB "C5'"  "C5'"  C 0 1 Y N N 29.743 14.483 -9.842  -1.311 0.010  2.592  "C5'"  MOB 11 
+MOB "C6'"  "C6'"  C 0 1 Y N N 30.302 13.446 -9.082  -0.810 0.008  1.304  "C6'"  MOB 12 
+MOB C      C      C 0 1 N N N 35.237 12.469 -4.946  -1.568 -0.003 -3.352 C      MOB 13 
+MOB CHX    3CH3   C 0 1 N N N 33.222 17.113 -9.684  3.109  0.004  4.013  CHX    MOB 14 
+MOB CHZ    5CH3   C 0 1 N N N 27.667 13.422 -10.005 -3.270 0.012  1.507  CHZ    MOB 15 
+MOB N1     N1     N 0 1 N N N 32.723 13.013 -6.396  0.267  0.002  -1.182 N1     MOB 16 
+MOB "N1'"  "N1'"  N 0 1 N N N 31.998 12.642 -7.415  1.071  0.002  -0.174 "N1'"  MOB 17 
+MOB O      O      O 0 1 N N N 36.237 12.276 -4.239  -2.021 -0.005 -2.224 O      MOB 18 
+MOB OXT    OXT    O 0 1 N N N 35.223 13.517 -5.919  -2.399 0.000  -4.412 OXT    MOB 19 
+MOB "O3'"  "O3'"  O 0 1 N N N 31.947 17.320 -8.786  1.780  0.008  4.540  "O3'"  MOB 20 
+MOB "O4'"  "O4'"  O 0 1 N N N 29.715 16.849 -10.526 -0.939 0.007  4.945  "O4'"  MOB 21 
+MOB "O5'"  "O5'"  O 0 1 N N N 28.642 14.210 -10.708 -2.656 0.013  2.797  "O5'"  MOB 22 
+MOB H3     H3     H 0 1 N N N 34.972 10.259 -3.332  -0.244 -0.003 -5.703 H3     MOB 23 
+MOB H4     H4     H 0 1 N N N 32.914 8.890  -2.963  2.188  -0.007 -6.041 H4     MOB 24 
+MOB H5     H5     H 0 1 N N N 30.812 9.381  -4.207  3.712  -0.006 -4.113 H5     MOB 25 
+MOB H6     H6     H 0 1 N N N 30.728 11.352 -5.772  2.822  -0.001 -1.824 H6     MOB 26 
+MOB "H2'"  "H2'"  H 0 1 N N N 32.745 15.178 -7.473  2.512  0.003  2.031  "H2'"  MOB 27 
+MOB "H6'"  "H6'"  H 0 1 N N N 29.891 12.424 -9.151  -1.485 0.008  0.461  "H6'"  MOB 28 
+MOB H31    1H3    H 0 1 N N N 33.696 18.117 -9.587  3.825  0.004  4.834  H31    MOB 29 
+MOB H32    2H3    H 0 1 N N N 33.867 16.244 -9.416  3.255  -0.886 3.403  H32    MOB 30 
+MOB H33    3H3    H 0 1 N N N 33.029 16.765 -10.725 3.258  0.893  3.400  H33    MOB 31 
+MOB H51    1H5    H 0 1 N N N 26.806 13.208 -10.681 -4.354 0.013  1.621  H51    MOB 32 
+MOB H52    2H5    H 0 1 N N N 28.106 12.492 -9.574  -2.961 0.900  0.957  H52    MOB 33 
+MOB H53    3H5    H 0 1 N N N 27.345 13.901 -9.051  -2.964 -0.879 0.959  H53    MOB 34 
+MOB HXT    HXT    H 0 1 N N N 35.994 14.057 -6.041  -3.356 0.002  -4.276 HXT    MOB 35 
+MOB "HO4'" "'HO4" H 0 0 N N N 28.981 16.681 -11.106 -1.047 -0.917 5.205  "HO4'" MOB 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MOB C1    C2     SING Y N 1  
+MOB C1    C6     DOUB Y N 2  
+MOB C1    N1     SING N N 3  
+MOB C2    C3     DOUB Y N 4  
+MOB C2    C      SING N N 5  
+MOB C3    C4     SING Y N 6  
+MOB C3    H3     SING N N 7  
+MOB C4    C5     DOUB Y N 8  
+MOB C4    H4     SING N N 9  
+MOB C5    C6     SING Y N 10 
+MOB C5    H5     SING N N 11 
+MOB C6    H6     SING N N 12 
+MOB "C1'" "C2'"  SING Y N 13 
+MOB "C1'" "C6'"  DOUB Y N 14 
+MOB "C1'" "N1'"  SING N N 15 
+MOB "C2'" "C3'"  DOUB Y N 16 
+MOB "C2'" "H2'"  SING N N 17 
+MOB "C3'" "C4'"  SING Y N 18 
+MOB "C3'" "O3'"  SING N N 19 
+MOB "C4'" "C5'"  DOUB Y N 20 
+MOB "C4'" "O4'"  SING N N 21 
+MOB "C5'" "C6'"  SING Y N 22 
+MOB "C5'" "O5'"  SING N N 23 
+MOB "C6'" "H6'"  SING N N 24 
+MOB C     O      DOUB N N 25 
+MOB C     OXT    SING N N 26 
+MOB CHX   "O3'"  SING N N 27 
+MOB CHX   H31    SING N N 28 
+MOB CHX   H32    SING N N 29 
+MOB CHX   H33    SING N N 30 
+MOB CHZ   "O5'"  SING N N 31 
+MOB CHZ   H51    SING N N 32 
+MOB CHZ   H52    SING N N 33 
+MOB CHZ   H53    SING N N 34 
+MOB N1    "N1'"  DOUB N N 35 
+MOB OXT   HXT    SING N N 36 
+MOB "O4'" "HO4'" SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MOB SMILES           ACDLabs              10.04 "O=C(O)c2ccccc2/N=N/c1cc(OC)c(O)c(OC)c1"                                                                               
+MOB SMILES_CANONICAL CACTVS               3.341 "COc1cc(cc(OC)c1O)N=Nc2ccccc2C(O)=O"                                                                                   
+MOB SMILES           CACTVS               3.341 "COc1cc(cc(OC)c1O)N=Nc2ccccc2C(O)=O"                                                                                   
+MOB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COc1cc(cc(c1O)OC)N=Nc2ccccc2C(=O)O"                                                                                   
+MOB SMILES           "OpenEye OEToolkits" 1.5.0 "COc1cc(cc(c1O)OC)N=Nc2ccccc2C(=O)O"                                                                                   
+MOB InChI            InChI                1.03  "InChI=1S/C15H14N2O5/c1-21-12-7-9(8-13(22-2)14(12)18)16-17-11-6-4-3-5-10(11)15(19)20/h3-8,18H,1-2H3,(H,19,20)/b17-16+" 
+MOB InChIKey         InChI                1.03  OUUSCQGLQHBVJX-WUKNDPDISA-N                                                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MOB "SYSTEMATIC NAME" ACDLabs              10.04 "2-[(E)-(4-hydroxy-3,5-dimethoxyphenyl)diazenyl]benzoic acid" 
+MOB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(4-hydroxy-3,5-dimethoxy-phenyl)diazenylbenzoic acid"      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MOB "Create component"  1999-07-08 RCSB 
+MOB "Modify descriptor" 2011-06-04 RCSB 
+# 

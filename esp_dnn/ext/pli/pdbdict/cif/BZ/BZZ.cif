@@ -1,0 +1,125 @@
+data_BZZ
+# 
+_chem_comp.id                                    BZZ 
+_chem_comp.name                                  BENZYLHYDRAZINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H10 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-11-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        122.168 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BZZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BZZ "C1'" "C1'" C 0 1 Y N N 5.300 0.989  23.519 0.807  -0.463 0.561  "C1'" BZZ 1  
+BZZ "C2'" "C2'" C 0 1 Y N N 5.127 0.241  24.719 0.764  -0.484 1.955  "C2'" BZZ 2  
+BZZ "C3'" "C3'" C 0 1 Y N N 3.951 -0.549 24.911 1.800  -1.079 2.676  "C3'" BZZ 3  
+BZZ "C4'" "C4'" C 0 1 Y N N 2.954 -0.578 23.886 2.878  -1.652 2.002  "C4'" BZZ 4  
+BZZ "C5'" "C5'" C 0 1 Y N N 3.131 0.170  22.691 2.921  -1.631 0.608  "C5'" BZZ 5  
+BZZ "C6'" "C6'" C 0 1 Y N N 4.303 0.952  22.508 1.885  -1.036 -0.112 "C6'" BZZ 6  
+BZZ NX1   NX1   N 0 1 N N N 2.630 -0.920 27.061 2.381  0.057  4.751  NX1   BZZ 7  
+BZZ NX2   NX2   N 0 1 N N N 1.425 -1.511 26.669 2.317  -0.052 6.178  NX2   BZZ 8  
+BZZ C1    C1    C 0 1 N N N 3.763 -1.360 26.205 1.754  -1.101 4.166  C1    BZZ 9  
+BZZ "H1'" "H1'" H 0 1 N N N 6.190 1.585  23.378 0.000  -0.000 -0.000 "H1'" BZZ 10 
+BZZ "H2'" "H2'" H 0 1 N N N 5.887 0.271  25.486 -0.081 -0.035 2.471  "H2'" BZZ 11 
+BZZ "H4'" "H4'" H 0 1 N N N 2.062 -1.172 24.021 3.690  -2.117 2.555  "H4'" BZZ 12 
+BZZ "H5'" "H5'" H 0 1 N N N 2.374 0.144  21.921 3.761  -2.077 0.084  "H5'" BZZ 13 
+BZZ "H6'" "H6'" H 0 1 N N N 4.436 1.519  21.599 1.918  -1.020 -1.198 "H6'" BZZ 14 
+BZZ HNX1  HNX1  H 0 0 N N N 2.539 0.073  26.988 3.366  0.108  4.473  HNX1  BZZ 15 
+BZZ HX21  1HX2  H 0 0 N N N 0.846 -1.652 27.472 2.917  -0.817 6.484  HX21  BZZ 16 
+BZZ HX22  2HX2  H 0 0 N N N 0.955 -0.912 26.021 2.705  0.791  6.599  HX22  BZZ 17 
+BZZ H11   1H1   H 0 1 N N N 3.580 -2.407 25.920 0.718  -1.135 4.530  H11   BZZ 18 
+BZZ H12   2H1   H 0 1 N N N 4.677 -1.214 26.799 2.261  -1.988 4.572  H12   BZZ 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BZZ "C1'" "C2'" DOUB Y N 1  
+BZZ "C1'" "C6'" SING Y N 2  
+BZZ "C1'" "H1'" SING N N 3  
+BZZ "C2'" "C3'" SING Y N 4  
+BZZ "C2'" "H2'" SING N N 5  
+BZZ "C3'" "C4'" DOUB Y N 6  
+BZZ "C3'" C1    SING N N 7  
+BZZ "C4'" "C5'" SING Y N 8  
+BZZ "C4'" "H4'" SING N N 9  
+BZZ "C5'" "C6'" DOUB Y N 10 
+BZZ "C5'" "H5'" SING N N 11 
+BZZ "C6'" "H6'" SING N N 12 
+BZZ NX1   NX2   SING N N 13 
+BZZ NX1   C1    SING N N 14 
+BZZ NX1   HNX1  SING N N 15 
+BZZ NX2   HX21  SING N N 16 
+BZZ NX2   HX22  SING N N 17 
+BZZ C1    H11   SING N N 18 
+BZZ C1    H12   SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BZZ SMILES           ACDLabs              10.04 NNCc1ccccc1                                         
+BZZ SMILES_CANONICAL CACTVS               3.341 NNCc1ccccc1                                         
+BZZ SMILES           CACTVS               3.341 NNCc1ccccc1                                         
+BZZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CNN"                                     
+BZZ SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CNN"                                     
+BZZ InChI            InChI                1.03  InChI=1S/C7H10N2/c8-9-6-7-4-2-1-3-5-7/h1-5,9H,6,8H2 
+BZZ InChIKey         InChI                1.03  NHOWLEZFTHYCTP-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BZZ "SYSTEMATIC NAME" ACDLabs              10.04 benzylhydrazine       
+BZZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 phenylmethylhydrazine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BZZ "Create component"  2006-11-30 RCSB 
+BZZ "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,113 @@
+data_SBU
+# 
+_chem_comp.id                                    SBU 
+_chem_comp.name                                  "SEC-BUTYL GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      NBU 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        58.122 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SBU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        193D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SBU C1  C1  C 0 1 N N N 2.048 2.096  23.111 1.920  -0.137 0.000  C1  SBU 1  
+SBU C2  C2  C 0 1 N N N 1.743 1.408  21.778 0.546  0.536  0.000  C2  SBU 2  
+SBU C3  C3  C 0 1 N N N 2.550 0.083  21.724 -0.546 -0.536 0.000  C3  SBU 3  
+SBU C4  C4  C 0 1 N N N 2.077 -0.937 22.796 -1.920 0.137  0.000  C4  SBU 4  
+SBU H11 1H1 H 0 1 N N N 1.449 2.990  23.198 2.021  -0.759 0.890  H11 SBU 5  
+SBU H12 2H1 H 0 1 N N N 3.092 2.371  23.146 2.021  -0.759 -0.890 H12 SBU 6  
+SBU H13 3H1 H 0 1 N N N 1.823 1.465  23.958 2.699  0.626  0.000  H13 SBU 7  
+SBU H2  H2  H 0 1 N N N 1.937 2.066  20.899 0.446  1.157  -0.890 H2  SBU 8  
+SBU H21 1H2 H 0 1 N N N 0.651 1.254  21.612 0.446  1.157  0.890  H21 SBU 9  
+SBU H31 1H3 H 0 1 N N N 3.595 0.320  21.855 -0.446 -1.157 -0.890 H31 SBU 10 
+SBU H32 2H3 H 0 1 N N N 2.429 -0.333 20.734 -0.446 -1.157 0.890  H32 SBU 11 
+SBU H41 1H4 H 0 1 N N N 1.323 -1.589 22.381 -2.021 0.759  0.890  H41 SBU 12 
+SBU H42 2H4 H 0 1 N N N 1.676 -0.478 23.688 -2.021 0.759  -0.890 H42 SBU 13 
+SBU H43 3H4 H 0 1 N N N 2.922 -1.541 23.096 -2.699 -0.626 0.000  H43 SBU 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SBU C1 C2  SING N N 1  
+SBU C1 H11 SING N N 2  
+SBU C1 H12 SING N N 3  
+SBU C1 H13 SING N N 4  
+SBU C2 C3  SING N N 5  
+SBU C2 H2  SING N N 6  
+SBU C2 H21 SING N N 7  
+SBU C3 C4  SING N N 8  
+SBU C3 H31 SING N N 9  
+SBU C3 H32 SING N N 10 
+SBU C4 H41 SING N N 11 
+SBU C4 H42 SING N N 12 
+SBU C4 H43 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SBU SMILES           ACDLabs              10.04 CCCC                                
+SBU InChI            InChI                1.02b InChI=1/C4H10/c1-3-4-2/h3-4H2,1-2H3 
+SBU InChIKey         InChI                1.02b IJDNQMDRQITEOD-UHFFFAOYAE           
+SBU SMILES_CANONICAL CACTVS               3.341 CCCC                                
+SBU SMILES           CACTVS               3.341 CCCC                                
+SBU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCC                                
+SBU SMILES           "OpenEye OEToolkits" 1.5.0 CCCC                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SBU "SYSTEMATIC NAME" ACDLabs              10.04 butane 
+SBU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 butane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SBU "Create component" 1999-07-08 RCSB 
+# 

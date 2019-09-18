@@ -1,0 +1,112 @@
+data_CNH
+# 
+_chem_comp.id                                    CNH 
+_chem_comp.name                                  2-HYDROXY-2-METHYLPROPANENITRILE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "ACETONE CYANOHYDRIN" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-09-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        85.104 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CNH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CNH C1   C1   C 0 1 N N N 51.791 45.215 120.710 -0.011 0.003  0.357  C1   CNH 1  
+CNH C2   C2   C 0 1 N N N 51.779 45.350 119.152 0.717  -1.234 0.883  C2   CNH 2  
+CNH C3   C3   C 0 1 N N N 52.729 46.256 121.364 -1.452 0.004  0.870  C3   CNH 3  
+CNH C4   C4   C 0 1 N N N 52.227 43.956 121.121 -0.014 -0.017 -1.114 C4   CNH 4  
+CNH O6   O6   O 0 1 N N N 50.403 45.299 121.152 0.658  1.180  0.814  O6   CNH 5  
+CNH N5   N5   N 0 1 N N N 52.613 42.922 121.464 -0.016 -0.034 -2.250 N5   CNH 6  
+CNH HC21 1HC2 H 0 0 N N N 51.102 44.599 118.680 0.719  -1.218 1.973  HC21 CNH 7  
+CNH HC22 2HC2 H 0 0 N N N 51.520 46.387 118.835 0.206  -2.132 0.534  HC22 CNH 8  
+CNH HC23 3HC2 H 0 0 N N N 52.809 45.291 118.730 1.744  -1.235 0.517  HC23 CNH 9  
+CNH HC31 1HC3 H 0 0 N N N 52.737 46.159 122.474 -1.962 -0.893 0.521  HC31 CNH 10 
+CNH HC32 2HC3 H 0 0 N N N 53.759 46.197 120.942 -1.449 0.020  1.960  HC32 CNH 11 
+CNH HC33 3HC3 H 0 0 N N N 52.470 47.293 121.047 -1.971 0.886  0.495  HC33 CNH 12 
+CNH HO6  HO6  H 0 1 N N N 50.410 45.217 122.098 1.560  1.140  0.470  HO6  CNH 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CNH C1 C2   SING N N 1  
+CNH C1 C3   SING N N 2  
+CNH C1 C4   SING N N 3  
+CNH C1 O6   SING N N 4  
+CNH C2 HC21 SING N N 5  
+CNH C2 HC22 SING N N 6  
+CNH C2 HC23 SING N N 7  
+CNH C3 HC31 SING N N 8  
+CNH C3 HC32 SING N N 9  
+CNH C3 HC33 SING N N 10 
+CNH C4 N5   TRIP N N 11 
+CNH O6 HO6  SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CNH SMILES           ACDLabs              10.04 "N#CC(O)(C)C"                            
+CNH SMILES_CANONICAL CACTVS               3.341 "CC(C)(O)C#N"                            
+CNH SMILES           CACTVS               3.341 "CC(C)(O)C#N"                            
+CNH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C#N)O"                            
+CNH SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C#N)O"                            
+CNH InChI            InChI                1.03  "InChI=1S/C4H7NO/c1-4(2,6)3-5/h6H,1-2H3" 
+CNH InChIKey         InChI                1.03  MWFMGBPGAXYFAR-UHFFFAOYSA-N              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CNH "SYSTEMATIC NAME" ACDLabs              10.04 2-hydroxy-2-methylpropanenitrile  
+CNH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-hydroxy-2-methyl-propanenitrile 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CNH "Create component"  2000-09-20 EBI  
+CNH "Modify descriptor" 2011-06-04 RCSB 
+# 

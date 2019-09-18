@@ -1,0 +1,125 @@
+data_03V
+# 
+_chem_comp.id                                    03V 
+_chem_comp.name                                  naphthalen-2-ol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H8 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-Naphtol 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-10-10 
+_chem_comp.pdbx_modified_date                    2011-11-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        144.170 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     03V 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3U3K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+03V C1  C1  C 0 1 Y N N 19.301 47.147 -26.643 1.815  1.184  -0.012 C1  03V 1  
+03V O1  O1  O 0 1 N N N 18.536 45.050 -27.315 3.337  -0.649 -0.028 O1  03V 2  
+03V C2  C2  C 0 1 Y N N 18.320 46.354 -27.187 2.057  -0.193 -0.019 C2  03V 3  
+03V C3  C3  C 0 1 Y N N 17.114 46.840 -27.600 1.023  -1.086 -0.016 C3  03V 4  
+03V C4  C4  C 0 1 Y N N 16.887 48.187 -27.483 -0.300 -0.616 -0.007 C4  03V 5  
+03V C5  C5  C 0 1 Y N N 17.927 49.078 -26.922 -0.543 0.780  -0.000 C5  03V 6  
+03V C7  C7  C 0 1 Y N N 19.114 48.521 -26.502 0.545  1.671  -0.003 C7  03V 7  
+03V C8  C8  C 0 1 Y N N 17.702 50.441 -26.790 -1.867 1.249  0.009  C8  03V 8  
+03V C9  C9  C 0 1 Y N N 16.476 50.944 -27.202 -2.897 0.359  0.011  C9  03V 9  
+03V C10 C10 C 0 1 Y N N 15.522 50.081 -27.726 -2.659 -1.014 0.004  C10 03V 10 
+03V C11 C11 C 0 1 Y N N 15.702 48.704 -27.868 -1.389 -1.505 -0.004 C11 03V 11 
+03V H1  H1  H 0 1 N N N 20.230 46.700 -26.320 2.648  1.871  -0.009 H1  03V 12 
+03V HO1 HO1 H 0 1 N N N 17.773 44.639 -27.704 3.712  -0.785 0.853  HO1 03V 13 
+03V H3  H3  H 0 1 N N N 16.360 46.183 -28.007 1.222  -2.148 -0.021 H3  03V 14 
+03V H7  H7  H 0 1 N N N 19.888 49.139 -26.070 0.373  2.737  0.008  H7  03V 15 
+03V H8  H8  H 0 1 N N N 18.459 51.092 -26.378 -2.068 2.310  0.014  H8  03V 16 
+03V H9  H9  H 0 1 N N N 16.265 52.000 -27.116 -3.914 0.722  0.018  H9  03V 17 
+03V H10 H10 H 0 1 N N N 14.580 50.503 -28.044 -3.494 -1.699 0.007  H10 03V 18 
+03V H11 H11 H 0 1 N N N 14.921 48.076 -28.271 -1.220 -2.572 -0.009 H11 03V 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+03V C2  C1  DOUB Y N 1  
+03V C1  C7  SING Y N 2  
+03V C1  H1  SING N N 3  
+03V O1  C2  SING N N 4  
+03V O1  HO1 SING N N 5  
+03V C3  C2  SING Y N 6  
+03V C3  C4  DOUB Y N 7  
+03V C3  H3  SING N N 8  
+03V C11 C4  SING Y N 9  
+03V C4  C5  SING Y N 10 
+03V C5  C8  SING Y N 11 
+03V C5  C7  DOUB Y N 12 
+03V C7  H7  SING N N 13 
+03V C9  C8  DOUB Y N 14 
+03V C8  H8  SING N N 15 
+03V C10 C9  SING Y N 16 
+03V C9  H9  SING N N 17 
+03V C11 C10 DOUB Y N 18 
+03V C10 H10 SING N N 19 
+03V C11 H11 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+03V SMILES           ACDLabs              12.01 "Oc2ccc1c(cccc1)c2"                                      
+03V InChI            InChI                1.03  "InChI=1S/C10H8O/c11-10-6-5-8-3-1-2-4-9(8)7-10/h1-7,11H" 
+03V InChIKey         InChI                1.03  JWAZRIHNYRIHIV-UHFFFAOYSA-N                              
+03V SMILES_CANONICAL CACTVS               3.370 Oc1ccc2ccccc2c1                                          
+03V SMILES           CACTVS               3.370 Oc1ccc2ccccc2c1                                          
+03V SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "c1ccc2cc(ccc2c1)O"                                      
+03V SMILES           "OpenEye OEToolkits" 1.7.2 "c1ccc2cc(ccc2c1)O"                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+03V "SYSTEMATIC NAME" ACDLabs              12.01 naphthalen-2-ol 
+03V "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 naphthalen-2-ol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+03V "Create component" 2011-10-10 RCSB 
+# 

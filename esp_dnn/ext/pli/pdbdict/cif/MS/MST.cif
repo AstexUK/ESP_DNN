@@ -1,0 +1,157 @@
+data_MST
+# 
+_chem_comp.id                                    MST 
+_chem_comp.name                                  2-T-BUTYLAMINO-4-ETHYLAMINO-6-METHYLTHIO-S-TRIAZINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H19 N5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-01-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        241.356 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MST 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DXR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MST N1   N1   N 0 1 Y N N 131.966 71.040 -2.653 0.336  0.004  1.496  N1   MST 1  
+MST C2   C2   C 0 1 Y N N 131.403 69.973 -2.122 1.087  -0.000 0.398  C2   MST 2  
+MST S7   S7   S 0 1 N N N 130.999 70.148 -0.396 2.844  -0.000 0.532  S7   MST 3  
+MST C8   C8   C 0 1 N N N 130.104 68.643 -0.025 3.022  -0.000 2.334  C8   MST 4  
+MST N3   N3   N 0 1 Y N N 131.107 68.805 -2.674 0.512  -0.000 -0.800 N3   MST 5  
+MST C4   C4   C 0 1 Y N N 131.415 68.787 -4.016 -0.813 -0.000 -0.901 C4   MST 6  
+MST N9   N9   N 0 1 N N N 131.153 67.653 -4.689 -1.410 0.000  -2.145 N9   MST 7  
+MST C10  C10  C 0 1 N N N 130.295 66.554 -4.282 -0.583 0.000  -3.354 C10  MST 8  
+MST C11  C11  C 0 1 N N N 130.104 65.604 -5.482 -1.486 0.000  -4.589 C11  MST 9  
+MST C12  C12  C 0 1 N N N 128.916 67.088 -3.853 0.299  1.249  -3.368 C12  MST 10 
+MST C13  C13  C 0 1 N N N 130.973 65.788 -3.125 0.298  -1.249 -3.369 C13  MST 11 
+MST N5   N5   N 0 1 Y N N 132.043 69.741 -4.675 -1.563 -0.000 0.196  N5   MST 12 
+MST C6   C6   C 0 1 Y N N 132.316 70.826 -3.968 -0.988 -0.000 1.395  C6   MST 13 
+MST N14  N14  N 0 1 N N N 132.939 71.855 -4.593 -1.767 -0.000 2.534  N14  MST 14 
+MST C15  C15  C 0 1 N N N 133.301 73.133 -3.983 -1.134 -0.000 3.855  C15  MST 15 
+MST C16  C16  C 0 1 N N N 133.772 74.061 -5.027 -2.214 0.000  4.938  C16  MST 16 
+MST H83  3H8  H 0 1 N N N 129.851 68.752 1.055  4.080  -0.000 2.594  H83  MST 17 
+MST H82  2H8  H 0 1 N N N 129.228 68.450 -0.687 2.546  0.889  2.746  H82  MST 18 
+MST H81  1H8  H 0 1 N N N 130.650 67.705 -0.279 2.546  -0.890 2.745  H81  MST 19 
+MST H9   H9   H 0 1 N N N 132.060 67.235 -4.893 -2.377 0.000  -2.219 H9   MST 20 
+MST H113 3H11 H 0 0 N N N 129.445 64.760 -5.169 -0.871 0.000  -5.489 H113 MST 21 
+MST H112 2H11 H 0 0 N N N 129.721 66.131 -6.386 -2.116 -0.889 -4.580 H112 MST 22 
+MST H111 1H11 H 0 0 N N N 131.073 65.253 -5.906 -2.115 0.891  -4.579 H111 MST 23 
+MST H123 3H12 H 0 0 N N N 128.257 66.244 -3.540 -0.329 2.139  -3.358 H123 MST 24 
+MST H122 2H12 H 0 0 N N N 128.999 67.867 -3.060 0.943  1.248  -2.488 H122 MST 25 
+MST H121 1H12 H 0 0 N N N 128.445 67.712 -4.647 0.914  1.249  -4.268 H121 MST 26 
+MST H133 3H13 H 0 0 N N N 130.314 64.944 -2.812 -0.330 -2.139 -3.359 H133 MST 27 
+MST H132 2H13 H 0 0 N N N 132.002 65.448 -3.386 0.914  -1.249 -4.269 H132 MST 28 
+MST H131 1H13 H 0 0 N N N 131.240 66.455 -2.273 0.942  -1.249 -2.489 H131 MST 29 
+MST H14  H14  H 0 1 N N N 132.377 72.076 -5.415 -2.734 0.000  2.460  H14  MST 30 
+MST H152 2H15 H 0 0 N N N 132.466 73.563 -3.381 -0.513 0.889  3.960  H152 MST 31 
+MST H151 1H15 H 0 0 N N N 134.044 73.011 -3.160 -0.514 -0.890 3.960  H151 MST 32 
+MST H163 3H16 H 0 0 N N N 134.048 75.035 -4.561 -1.742 -0.000 5.921  H163 MST 33 
+MST H162 2H16 H 0 0 N N N 134.606 73.630 -5.628 -2.834 0.890  4.833  H162 MST 34 
+MST H161 1H16 H 0 0 N N N 133.028 74.182 -5.849 -2.835 -0.889 4.833  H161 MST 35 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MST N1  C2   DOUB Y N 1  
+MST N1  C6   SING Y N 2  
+MST C2  S7   SING N N 3  
+MST C2  N3   SING Y N 4  
+MST S7  C8   SING N N 5  
+MST C8  H83  SING N N 6  
+MST C8  H82  SING N N 7  
+MST C8  H81  SING N N 8  
+MST N3  C4   DOUB Y N 9  
+MST C4  N9   SING N N 10 
+MST C4  N5   SING Y N 11 
+MST N9  C10  SING N N 12 
+MST N9  H9   SING N N 13 
+MST C10 C11  SING N N 14 
+MST C10 C12  SING N N 15 
+MST C10 C13  SING N N 16 
+MST C11 H113 SING N N 17 
+MST C11 H112 SING N N 18 
+MST C11 H111 SING N N 19 
+MST C12 H123 SING N N 20 
+MST C12 H122 SING N N 21 
+MST C12 H121 SING N N 22 
+MST C13 H133 SING N N 23 
+MST C13 H132 SING N N 24 
+MST C13 H131 SING N N 25 
+MST N5  C6   DOUB Y N 26 
+MST C6  N14  SING N N 27 
+MST N14 C15  SING N N 28 
+MST N14 H14  SING N N 29 
+MST C15 C16  SING N N 30 
+MST C15 H152 SING N N 31 
+MST C15 H151 SING N N 32 
+MST C16 H163 SING N N 33 
+MST C16 H162 SING N N 34 
+MST C16 H161 SING N N 35 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MST SMILES           ACDLabs              10.04 "S(c1nc(nc(n1)NC(C)(C)C)NCC)C"                                                                
+MST SMILES_CANONICAL CACTVS               3.341 "CCNc1nc(NC(C)(C)C)nc(SC)n1"                                                                  
+MST SMILES           CACTVS               3.341 "CCNc1nc(NC(C)(C)C)nc(SC)n1"                                                                  
+MST SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCNc1nc(nc(n1)SC)NC(C)(C)C"                                                                  
+MST SMILES           "OpenEye OEToolkits" 1.5.0 "CCNc1nc(nc(n1)SC)NC(C)(C)C"                                                                  
+MST InChI            InChI                1.03  "InChI=1S/C10H19N5S/c1-6-11-7-12-8(15-10(2,3)4)14-9(13-7)16-5/h6H2,1-5H3,(H2,11,12,13,14,15)" 
+MST InChIKey         InChI                1.03  IROINLKCQGIITA-UHFFFAOYSA-N                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MST "SYSTEMATIC NAME" ACDLabs              10.04 "N-tert-butyl-N'-ethyl-6-(methylsulfanyl)-1,3,5-triazine-2,4-diamine" 
+MST "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "N-tert-butyl-N'-ethyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MST "Create component"  2000-01-17 EBI  
+MST "Modify descriptor" 2011-06-04 RCSB 
+# 

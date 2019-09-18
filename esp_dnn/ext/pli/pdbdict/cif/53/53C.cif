@@ -1,0 +1,123 @@
+data_53C
+# 
+_chem_comp.id                                    53C 
+_chem_comp.name                                  "1-(3-hydroxyphenyl)ethanone" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-07-21 
+_chem_comp.pdbx_modified_date                    2015-09-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        136.148 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     53C 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        5CQ4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+53C C01 C1 C 0 1 N N N 15.836 37.541 29.460 3.082  -0.648 0.010  C01 53C 1  
+53C C02 C2 C 0 1 N N N 15.641 39.001 29.810 1.965  0.364  0.001  C02 53C 2  
+53C C03 C3 C 0 1 Y N N 14.267 39.601 29.717 0.564  -0.086 -0.003 C03 53C 3  
+53C C04 C4 C 0 1 Y N N 13.207 38.803 29.303 0.265  -1.452 0.008  C04 53C 4  
+53C C05 C5 C 0 1 Y N N 11.932 39.337 29.201 -1.049 -1.869 0.004  C05 53C 5  
+53C C06 C6 C 0 1 Y N N 11.725 40.672 29.531 -2.075 -0.941 -0.010 C06 53C 6  
+53C C07 C7 C 0 1 Y N N 12.787 41.463 29.953 -1.789 0.418  -0.021 C07 53C 7  
+53C C08 C8 C 0 1 Y N N 14.068 40.932 30.048 -0.474 0.850  -0.012 C08 53C 8  
+53C O09 O1 O 0 1 N N N 12.567 42.808 30.288 -2.802 1.325  -0.035 O09 53C 9  
+53C O10 O2 O 0 1 N N N 16.584 39.679 30.151 2.221  1.549  -0.004 O10 53C 10 
+53C H1  H1 H 0 1 N N N 16.897 37.275 29.573 4.041  -0.130 0.011  H1  53C 11 
+53C H2  H2 H 0 1 N N N 15.228 36.918 30.133 3.002  -1.268 0.902  H2  53C 12 
+53C H3  H3 H 0 1 N N N 15.524 37.369 28.419 3.009  -1.277 -0.878 H3  53C 13 
+53C H4  H4 H 0 1 N N N 13.377 37.764 29.060 1.063  -2.180 0.019  H4  53C 14 
+53C H5  H5 H 0 1 N N N 11.108 38.723 28.869 -1.279 -2.924 0.013  H5  53C 15 
+53C H6  H6 H 0 1 N N N 10.734 41.096 29.459 -3.102 -1.274 -0.013 H6  53C 16 
+53C H7  H7 H 0 1 N N N 14.894 41.546 30.374 -0.251 1.907  -0.015 H7  53C 17 
+53C H8  H8 H 0 1 N N N 13.387 43.207 30.554 -3.099 1.595  0.845  H8  53C 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+53C C05 C04 DOUB Y N 1  
+53C C05 C06 SING Y N 2  
+53C C04 C03 SING Y N 3  
+53C C01 C02 SING N N 4  
+53C C06 C07 DOUB Y N 5  
+53C C03 C02 SING N N 6  
+53C C03 C08 DOUB Y N 7  
+53C C02 O10 DOUB N N 8  
+53C C07 C08 SING Y N 9  
+53C C07 O09 SING N N 10 
+53C C01 H1  SING N N 11 
+53C C01 H2  SING N N 12 
+53C C01 H3  SING N N 13 
+53C C04 H4  SING N N 14 
+53C C05 H5  SING N N 15 
+53C C06 H6  SING N N 16 
+53C C08 H7  SING N N 17 
+53C O09 H8  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+53C SMILES           ACDLabs              12.01 "CC(=O)c1cc(ccc1)O"                                    
+53C InChI            InChI                1.03  "InChI=1S/C8H8O2/c1-6(9)7-3-2-4-8(10)5-7/h2-5,10H,1H3" 
+53C InChIKey         InChI                1.03  LUJMEECXHPYQOF-UHFFFAOYSA-N                            
+53C SMILES_CANONICAL CACTVS               3.385 "CC(=O)c1cccc(O)c1"                                    
+53C SMILES           CACTVS               3.385 "CC(=O)c1cccc(O)c1"                                    
+53C SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CC(=O)c1cccc(c1)O"                                    
+53C SMILES           "OpenEye OEToolkits" 1.9.2 "CC(=O)c1cccc(c1)O"                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+53C "SYSTEMATIC NAME" ACDLabs              12.01 "1-(3-hydroxyphenyl)ethanone" 
+53C "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "1-(3-hydroxyphenyl)ethanone" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+53C "Create component" 2015-07-21 EBI  
+53C "Initial release"  2015-09-09 RCSB 
+# 

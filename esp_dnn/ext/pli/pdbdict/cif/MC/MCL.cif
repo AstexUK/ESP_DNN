@@ -1,0 +1,149 @@
+data_MCL
+# 
+_chem_comp.id                                    MCL 
+_chem_comp.name                                  "NZ-(1-CARBOXYETHYLIDENE)-LYSINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H16 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               LYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-09-23 
+_chem_comp.pdbx_modified_date                    2015-10-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        216.234 
+_chem_comp.one_letter_code                       K 
+_chem_comp.three_letter_code                     MCL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1O5K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MCL C   C   C 0 1 N N N -4.575 12.780 24.792 4.688  -0.611 -0.003 C   MCL 1  
+MCL N   N   N 0 1 N N N -5.976 11.587 23.288 3.870  1.674  -0.112 N   MCL 2  
+MCL O   O   O 0 1 N N N -4.857 13.971 24.563 5.431  -0.322 -0.911 O   MCL 3  
+MCL C1  C1  C 0 1 N N N 2.758  13.891 21.412 -3.374 0.187  1.820  C1  MCL 4  
+MCL O1  O1  O 0 1 N N N 0.979  15.305 18.436 -5.628 -0.887 0.437  O1  MCL 5  
+MCL O2  O2  O 0 1 N N N 3.105  15.464 19.038 -4.901 -0.469 -1.617 O2  MCL 6  
+MCL CA  CA  C 0 1 N N S -4.591 11.730 23.672 3.573  0.324  0.385  CA  MCL 7  
+MCL CB  CB  C 0 1 N N N -3.777 12.183 22.464 2.259  -0.167 -0.226 CB  MCL 8  
+MCL CD  CD  C 0 1 N N N -1.514 12.921 21.566 -0.207 0.219  -0.342 CD  MCL 9  
+MCL CE  CE  C 0 1 N N N -0.073 13.302 21.952 -1.359 1.096  0.153  CE  MCL 10 
+MCL CG  CG  C 0 1 N N N -2.325 12.550 22.818 1.107  0.710  0.269  CG  MCL 11 
+MCL NZ  NZ  N 0 1 N N N 0.470  13.978 20.770 -2.617 0.626  -0.432 NZ  MCL 12 
+MCL CX1 CX1 C 0 1 N N N 1.649  14.294 20.479 -3.535 0.150  0.322  CX1 MCL 13 
+MCL CX2 CX2 C 0 1 N N N 1.922  15.052 19.237 -4.758 -0.436 -0.278 CX2 MCL 14 
+MCL OXT OXT O 0 1 N Y N ?      ?      ?      4.853  -1.769 0.655  OXT MCL 15 
+MCL HN  HN  H 0 1 N N N -6.051 10.910 22.555 4.699  2.047  0.326  HN  MCL 16 
+MCL HNA HNA H 0 1 N Y N -6.511 11.285 24.077 3.960  1.677  -1.117 HNA MCL 17 
+MCL H1  H1  H 0 1 N N N 3.720  14.243 21.012 -3.186 1.211  2.140  H1  MCL 18 
+MCL H1A H1A H 0 1 N N N 2.586  14.340 22.401 -4.286 -0.180 2.292  H1A MCL 19 
+MCL H1B H1B H 0 1 N N N 2.779  12.795 21.505 -2.535 -0.445 2.111  H1B MCL 20 
+MCL HO2 HO2 H 0 1 N N N 3.136  15.962 18.229 -5.715 -0.861 -1.961 HO2 MCL 21 
+MCL HA  HA  H 0 1 N N N -4.190 10.779 24.053 3.481  0.350  1.471  HA  MCL 22 
+MCL HB  HB  H 0 1 N N N -3.762 11.367 21.726 2.319  -0.108 -1.313 HB  MCL 23 
+MCL HBA HBA H 0 1 N N N -4.264 13.066 22.025 2.083  -1.200 0.073  HBA MCL 24 
+MCL HD  HD  H 0 1 N N N -1.992 13.775 21.064 -0.382 -0.814 -0.043 HD  MCL 25 
+MCL HDA HDA H 0 1 N N N -1.490 12.060 20.882 -0.146 0.278  -1.429 HDA MCL 26 
+MCL HE  HE  H 0 1 N N N -0.071 13.979 22.819 -1.419 1.037  1.240  HE  MCL 27 
+MCL HEA HEA H 0 1 N N N 0.515  12.403 22.187 -1.183 2.130  -0.146 HEA MCL 28 
+MCL HG  HG  H 0 1 N N N -2.331 13.408 23.506 1.047  0.651  1.356  HG  MCL 29 
+MCL HGA HGA H 0 1 N N N -1.849 11.689 23.310 1.283  1.744  -0.030 HGA MCL 30 
+MCL HXT HXT H 0 1 N Y N -4.324 13.046 26.635 5.580  -2.338 0.368  HXT MCL 31 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MCL CA  C   SING N N 1  
+MCL O   C   DOUB N N 2  
+MCL C   OXT SING N N 3  
+MCL N   CA  SING N N 4  
+MCL N   HN  SING N N 5  
+MCL N   HNA SING N N 6  
+MCL CX1 C1  SING N N 7  
+MCL C1  H1  SING N N 8  
+MCL C1  H1A SING N N 9  
+MCL C1  H1B SING N N 10 
+MCL O1  CX2 DOUB N N 11 
+MCL O2  CX2 SING N N 12 
+MCL O2  HO2 SING N N 13 
+MCL CB  CA  SING N N 14 
+MCL CA  HA  SING N N 15 
+MCL CB  CG  SING N N 16 
+MCL CB  HB  SING N N 17 
+MCL CB  HBA SING N N 18 
+MCL CD  CE  SING N N 19 
+MCL CD  CG  SING N N 20 
+MCL CD  HD  SING N N 21 
+MCL CD  HDA SING N N 22 
+MCL NZ  CE  SING N N 23 
+MCL CE  HE  SING N N 24 
+MCL CE  HEA SING N N 25 
+MCL CG  HG  SING N N 26 
+MCL CG  HGA SING N N 27 
+MCL CX1 NZ  DOUB N N 28 
+MCL CX2 CX1 SING N N 29 
+MCL OXT HXT SING N N 30 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MCL SMILES           ACDLabs              12.01 "C(O)(=O)C(N)CCCC\N=C(/C)C(=O)O"                                                                               
+MCL InChI            InChI                1.03  "InChI=1S/C9H16N2O4/c1-6(8(12)13)11-5-3-2-4-7(10)9(14)15/h7H,2-5,10H2,1H3,(H,12,13)(H,14,15)/b11-6+/t7-/m0/s1" 
+MCL InChIKey         InChI                1.03  JXBWDTJQFXOTMZ-KEXZDQNZSA-N                                                                                    
+MCL SMILES_CANONICAL CACTVS               3.385 "CC(=NCCCC[C@H](N)C(O)=O)C(O)=O"                                                                               
+MCL SMILES           CACTVS               3.385 "CC(=NCCCC[CH](N)C(O)=O)C(O)=O"                                                                                
+MCL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C/C(=N\CCCC[C@@H](C(=O)O)N)/C(=O)O"                                                                           
+MCL SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=NCCCCC(C(=O)O)N)C(=O)O"                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MCL "SYSTEMATIC NAME" ACDLabs              12.01 "(E)-N~6~-(1-carboxyethylidene)-L-lysine"                                               
+MCL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-azanyl-6-[(E)-(1-oxidanyl-1-oxidanylidene-propan-2-ylidene)amino]hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MCL "Create component"   2015-10-26 RCSB 
+MCL "Modify formula"     2015-10-26 RCSB 
+MCL "Modify value order" 2015-10-26 RCSB 
+# 

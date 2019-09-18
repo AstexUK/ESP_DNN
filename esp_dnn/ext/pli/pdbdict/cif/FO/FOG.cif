@@ -1,0 +1,154 @@
+data_FOG
+# 
+_chem_comp.id                                    FOG 
+_chem_comp.name                                  "(4S,5S)-5-amino-4-hydroxy-6-phenylhexanoic acid" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H17 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2015-02-18 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         0AC 
+_chem_comp.formula_weight                        223.268 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FOG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EED 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FOG C   C   C 0 1 N N N 3.406 32.158 15.878 -4.631 -0.542 -0.042 C   FOG 1  
+FOG O1  O1  O 0 1 N N N 3.045 33.123 16.562 -4.381 -1.458 -0.789 O1  FOG 2  
+FOG CA1 CA1 C 0 1 N N N 2.779 30.770 16.101 -3.515 0.304  0.514  CA1 FOG 3  
+FOG CM  CM  C 0 1 N N N 3.257 30.172 17.445 -2.175 -0.205 -0.020 CM  FOG 4  
+FOG CH  CH  C 0 1 N N S 3.850 28.774 17.204 -1.042 0.654  0.544  CH  FOG 5  
+FOG OH  OH  O 0 1 N N N 2.866 27.986 16.562 -1.164 1.989  0.049  OH  FOG 6  
+FOG CA  CA  C 0 1 N N S 4.295 28.094 18.517 0.305  0.070  0.112  CA  FOG 7  
+FOG N   N   N 0 1 N N N 3.665 26.735 18.638 0.384  0.057  -1.355 N   FOG 8  
+FOG CB  CB  C 0 1 N N N 5.833 27.998 18.405 1.438  0.929  0.676  CB  FOG 9  
+FOG CG  CG  C 0 1 Y N N 6.558 27.597 19.695 2.763  0.288  0.354  CG  FOG 10 
+FOG CD1 CD1 C 0 1 Y N N 5.888 26.869 20.683 3.418  0.606  -0.821 CD1 FOG 11 
+FOG CD2 CD2 C 0 1 Y N N 7.903 27.955 19.877 3.326  -0.615 1.236  CD2 FOG 12 
+FOG CE1 CE1 C 0 1 Y N N 6.562 26.492 21.851 4.633  0.018  -1.116 CE1 FOG 13 
+FOG CE2 CE2 C 0 1 Y N N 8.577 27.576 21.044 4.542  -1.204 0.941  CE2 FOG 14 
+FOG CZ  CZ  C 0 1 Y N N 7.906 26.845 22.031 5.194  -0.889 -0.236 CZ  FOG 15 
+FOG OXT OXT O 0 1 N Y N 3.119 32.506 14.521 -5.905 -0.275 0.288  OXT FOG 16 
+FOG HA1 HA1 H 0 1 N N N 1.683 30.865 16.116 -3.658 1.340  0.208  HA1 FOG 17 
+FOG HM  HM  H 0 1 N N N 4.026 30.825 17.884 -2.032 -1.242 0.286  HM  FOG 18 
+FOG HA  HA  H 0 1 N N N 4.021 28.723 19.376 0.398  -0.948 0.490  HA  FOG 19 
+FOG H   H   H 0 1 N N N 3.960 26.305 19.491 0.300  0.990  -1.730 H   FOG 20 
+FOG H2  H2  H 0 1 N Y N 2.669 26.828 18.639 1.237  -0.383 -1.667 H2  FOG 21 
+FOG HB2 HB2 H 0 1 N N N 6.072 27.251 17.634 1.398  1.923  0.230  HB2 FOG 22 
+FOG HB3 HB3 H 0 1 N N N 6.213 28.982 18.093 1.328  1.012  1.757  HB3 FOG 23 
+FOG HD1 HD1 H 0 1 N N N 4.852 26.598 20.545 2.980  1.315  -1.508 HD1 FOG 24 
+FOG HD2 HD2 H 0 1 N N N 8.418 28.523 19.116 2.817  -0.860 2.157  HD2 FOG 25 
+FOG HE1 HE1 H 0 1 N N N 6.045 25.929 22.614 5.144  0.266  -2.035 HE1 FOG 26 
+FOG HE2 HE2 H 0 1 N N N 9.613 27.847 21.182 4.982  -1.909 1.631  HE2 FOG 27 
+FOG HZ  HZ  H 0 1 N N N 8.425 26.553 22.932 6.143  -1.349 -0.467 HZ  FOG 28 
+FOG HCH HCH H 0 1 N N N 4.731 28.879 16.554 -1.100 0.664  1.633  HCH FOG 29 
+FOG HO1 HO1 H 0 1 N N N 3.211 27.115 16.403 -1.120 2.056  -0.915 HO1 FOG 30 
+FOG HM1 HM1 H 0 1 N N N 2.404 30.094 18.135 -2.170 -0.143 -1.108 HM1 FOG 31 
+FOG HA2 HA2 H 0 1 N N N 3.078 30.101 15.280 -3.520 0.242  1.602  HA2 FOG 32 
+FOG HXT HXT H 0 1 N Y N 2.732 33.373 14.491 -6.587 -0.842 -0.096 HXT FOG 33 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FOG C   O1  DOUB N N 1  
+FOG C   CA1 SING N N 2  
+FOG C   OXT SING N N 3  
+FOG CA1 CM  SING N N 4  
+FOG CA1 HA1 SING N N 5  
+FOG CA1 HA2 SING N N 6  
+FOG CM  CH  SING N N 7  
+FOG CM  HM  SING N N 8  
+FOG CM  HM1 SING N N 9  
+FOG CH  OH  SING N N 10 
+FOG CH  CA  SING N N 11 
+FOG CH  HCH SING N N 12 
+FOG OH  HO1 SING N N 13 
+FOG CA  N   SING N N 14 
+FOG CA  CB  SING N N 15 
+FOG CA  HA  SING N N 16 
+FOG N   H   SING N N 17 
+FOG N   H2  SING N N 18 
+FOG CB  CG  SING N N 19 
+FOG CB  HB2 SING N N 20 
+FOG CB  HB3 SING N N 21 
+FOG CG  CD1 DOUB Y N 22 
+FOG CG  CD2 SING Y N 23 
+FOG CD1 CE1 SING Y N 24 
+FOG CD1 HD1 SING N N 25 
+FOG CD2 CE2 DOUB Y N 26 
+FOG CD2 HD2 SING N N 27 
+FOG CE1 CZ  DOUB Y N 28 
+FOG CE1 HE1 SING N N 29 
+FOG CE2 CZ  SING Y N 30 
+FOG CE2 HE2 SING N N 31 
+FOG CZ  HZ  SING N N 32 
+FOG OXT HXT SING N N 33 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FOG SMILES           ACDLabs              12.01 "O=C(O)CCC(O)C(N)Cc1ccccc1"                                                                                     
+FOG InChI            InChI                1.03  "InChI=1S/C12H17NO3/c13-10(11(14)6-7-12(15)16)8-9-4-2-1-3-5-9/h1-5,10-11,14H,6-8,13H2,(H,15,16)/t10-,11-/m0/s1" 
+FOG InChIKey         InChI                1.03  RZDSOGPADIZKDQ-QWRGUYRKSA-N                                                                                     
+FOG SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1ccccc1)[C@@H](O)CCC(O)=O"                                                                           
+FOG SMILES           CACTVS               3.385 "N[CH](Cc1ccccc1)[CH](O)CCC(O)=O"                                                                               
+FOG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)C[C@@H]([C@H](CCC(=O)O)O)N"                                                                          
+FOG SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)CC(C(CCC(=O)O)O)N"                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FOG "SYSTEMATIC NAME" ACDLabs              12.01 "(4S,5S)-5-amino-4-hydroxy-6-phenylhexanoic acid"    
+FOG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(4S,5S)-5-azanyl-4-oxidanyl-6-phenyl-hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FOG "Create component"   1999-07-08 RCSB 
+FOG "Modify descriptor"  2011-06-04 RCSB 
+FOG "Other modification" 2015-02-18 RCSB 
+# 

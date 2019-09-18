@@ -1,0 +1,132 @@
+data_MME
+# 
+_chem_comp.id                                    MME 
+_chem_comp.name                                  "N-METHYL METHIONINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H13 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               MET 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-10-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.238 
+_chem_comp.one_letter_code                       M 
+_chem_comp.three_letter_code                     MME 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GK8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MME N   N   N 0 1 N N N 33.268 68.673 32.061 1.374  -0.500 1.152  N   MME 1  
+MME CA  CA  C 0 1 N N S 32.209 67.734 31.730 0.171  0.338  1.073  CA  MME 2  
+MME C   C   C 0 1 N N N 32.038 66.701 32.841 -0.687 0.102  2.288  C   MME 3  
+MME O   O   O 0 1 N N N 33.030 66.050 33.238 -1.385 0.990  2.717  O   MME 4  
+MME CB  CB  C 0 1 N N N 32.509 66.981 30.437 -0.618 -0.020 -0.187 CB  MME 5  
+MME CG  CG  C 0 1 N N N 32.230 67.758 29.166 0.253  0.220  -1.421 CG  MME 6  
+MME SD  SD  S 0 1 N N N 32.482 66.693 27.716 -0.682 -0.205 -2.915 SD  MME 7  
+MME CE  CE  C 0 1 N N N 34.212 67.094 27.444 0.560  0.166  -4.182 CE  MME 8  
+MME OXT OXT O 0 1 N Y N 30.819 66.501 33.310 -0.676 -1.095 2.895  OXT MME 9  
+MME CM  CM  C 0 1 N N N 33.037 69.524 33.081 2.395  0.290  1.853  CM  MME 10 
+MME H   H   H 0 1 N N N 33.524 69.202 31.228 1.703  -0.625 0.207  H   MME 11 
+MME HA  HA  H 0 1 N N N 31.277 68.334 31.606 0.462  1.388  1.032  HA  MME 12 
+MME HB2 1HB H 0 1 N N N 33.561 66.613 30.440 -0.909 -1.069 -0.146 HB2 MME 13 
+MME HB3 2HB H 0 1 N N N 31.963 66.008 30.421 -1.510 0.602  -0.246 HB3 MME 14 
+MME HG2 1HG H 0 1 N N N 31.215 68.219 29.173 0.545  1.269  -1.461 HG2 MME 15 
+MME HG3 2HG H 0 1 N N N 32.834 68.693 29.107 1.146  -0.402 -1.362 HG3 MME 16 
+MME HE1 1HE H 0 1 N N N 34.366 66.440 26.554 0.147  -0.041 -5.169 HE1 MME 17 
+MME HE2 2HE H 0 1 N N N 34.470 68.172 27.331 0.840  1.217  -4.119 HE2 MME 18 
+MME HE3 3HE H 0 1 N N N 34.906 66.950 28.304 1.442  -0.454 -4.020 HE3 MME 19 
+MME HXT HXT H 0 1 N Y N 30.712 65.858 34.001 -1.228 -1.247 3.674  HXT MME 20 
+MME HM1 1HM H 0 1 N N N 33.849 70.244 33.334 3.312  -0.292 1.938  HM1 MME 21 
+MME HM2 2HM H 0 1 N N N 32.091 70.082 32.891 2.595  1.203  1.292  HM2 MME 22 
+MME HM3 3HM H 0 1 N N N 32.756 68.944 33.991 2.035  0.547  2.849  HM3 MME 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MME N   CA  SING N N 1  
+MME N   CM  SING N N 2  
+MME N   H   SING N N 3  
+MME CA  C   SING N N 4  
+MME CA  CB  SING N N 5  
+MME CA  HA  SING N N 6  
+MME C   O   DOUB N N 7  
+MME C   OXT SING N N 8  
+MME CB  CG  SING N N 9  
+MME CB  HB2 SING N N 10 
+MME CB  HB3 SING N N 11 
+MME CG  SD  SING N N 12 
+MME CG  HG2 SING N N 13 
+MME CG  HG3 SING N N 14 
+MME SD  CE  SING N N 15 
+MME CE  HE1 SING N N 16 
+MME CE  HE2 SING N N 17 
+MME CE  HE3 SING N N 18 
+MME OXT HXT SING N N 19 
+MME CM  HM1 SING N N 20 
+MME CM  HM2 SING N N 21 
+MME CM  HM3 SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MME SMILES           ACDLabs              10.04 "O=C(O)C(NC)CCSC"                                                              
+MME SMILES_CANONICAL CACTVS               3.341 "CN[C@@H](CCSC)C(O)=O"                                                         
+MME SMILES           CACTVS               3.341 "CN[CH](CCSC)C(O)=O"                                                           
+MME SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CN[C@@H](CCSC)C(=O)O"                                                         
+MME SMILES           "OpenEye OEToolkits" 1.5.0 "CNC(CCSC)C(=O)O"                                                              
+MME InChI            InChI                1.03  "InChI=1S/C6H13NO2S/c1-7-5(6(8)9)3-4-10-2/h5,7H,3-4H2,1-2H3,(H,8,9)/t5-/m0/s1" 
+MME InChIKey         InChI                1.03  YAXAFCHJCYILRU-YFKPBYRVSA-N                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MME "SYSTEMATIC NAME" ACDLabs              10.04 N-methyl-L-methionine                               
+MME "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-methylamino-4-methylsulfanyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MME "Create component"  1999-10-14 RCSB 
+MME "Modify descriptor" 2011-06-04 RCSB 
+# 

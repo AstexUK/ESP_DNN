@@ -1,0 +1,118 @@
+data_BEZ
+# 
+_chem_comp.id                                    BEZ 
+_chem_comp.name                                  "BENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-12-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         BOX 
+_chem_comp.formula_weight                        122.121 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BEZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DJR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BEZ C   C   C 0 1 N N N -7.887 -21.966 15.013 1.647  -0.077 0.001  C   BEZ 1  
+BEZ O1  O1  O 0 1 N N N -8.694 -22.231 15.937 2.221  -1.147 0.001  O1  BEZ 2  
+BEZ O2  O2  O 0 1 N Y N -7.101 -20.985 15.120 2.357  1.068  -0.004 O2  BEZ 3  
+BEZ C1  C1  C 0 1 Y N N -7.947 -22.755 13.717 0.171  -0.030 0.000  C1  BEZ 4  
+BEZ C2  C2  C 0 1 Y N N -6.872 -22.695 12.816 -0.569 -1.214 -0.000 C2  BEZ 5  
+BEZ C3  C3  C 0 1 Y N N -6.979 -23.426 11.625 -1.947 -1.163 -0.001 C3  BEZ 6  
+BEZ C4  C4  C 0 1 Y N N -8.104 -24.146 11.249 -2.597 0.058  -0.002 C4  BEZ 7  
+BEZ C5  C5  C 0 1 Y N N -9.119 -24.290 12.192 -1.871 1.236  -0.002 C5  BEZ 8  
+BEZ C6  C6  C 0 1 Y N N -9.017 -23.589 13.374 -0.492 1.199  0.006  C6  BEZ 9  
+BEZ HO2 HO2 H 0 1 N N N -7.245 -20.553 15.953 3.321  0.987  -0.007 HO2 BEZ 10 
+BEZ H2  H2  H 0 1 N N N -5.993 -22.106 13.033 -0.062 -2.168 -0.000 H2  BEZ 11 
+BEZ H3  H3  H 0 1 N N N -6.131 -23.429 10.956 -2.520 -2.078 -0.001 H3  BEZ 12 
+BEZ H4  H4  H 0 1 N N N -8.189 -24.578 10.263 -3.677 0.093  -0.003 H4  BEZ 13 
+BEZ H5  H5  H 0 1 N N N -9.964 -24.935 12.002 -2.385 2.186  -0.002 H5  BEZ 14 
+BEZ H6  H6  H 0 1 N N N -9.821 -23.691 14.088 0.074  2.119  0.011  H6  BEZ 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BEZ C  O1  DOUB N N 1  
+BEZ C  O2  SING N N 2  
+BEZ C  C1  SING N N 3  
+BEZ O2 HO2 SING N N 4  
+BEZ C1 C2  DOUB Y N 5  
+BEZ C1 C6  SING Y N 6  
+BEZ C2 C3  SING Y N 7  
+BEZ C2 H2  SING N N 8  
+BEZ C3 C4  DOUB Y N 9  
+BEZ C3 H3  SING N N 10 
+BEZ C4 C5  SING Y N 11 
+BEZ C4 H4  SING N N 12 
+BEZ C5 C6  DOUB Y N 13 
+BEZ C5 H5  SING N N 14 
+BEZ C6 H6  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BEZ SMILES           ACDLabs              12.01 "O=C(O)c1ccccc1"                                     
+BEZ InChI            InChI                1.03  "InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)" 
+BEZ InChIKey         InChI                1.03  WPYMKLBDIGXBTP-UHFFFAOYSA-N                          
+BEZ SMILES_CANONICAL CACTVS               3.370 "OC(=O)c1ccccc1"                                     
+BEZ SMILES           CACTVS               3.370 "OC(=O)c1ccccc1"                                     
+BEZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)C(=O)O"                                   
+BEZ SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)C(=O)O"                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BEZ "SYSTEMATIC NAME" ACDLabs              12.01 "benzoic acid" 
+BEZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BEZ "Create component"         1999-07-08 RCSB 
+BEZ "Modify descriptor"        2011-06-04 RCSB 
+BEZ "Modify leaving atom flag" 2011-12-20 RCSB 
+# 

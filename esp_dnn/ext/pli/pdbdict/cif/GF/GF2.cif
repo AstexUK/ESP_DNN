@@ -1,0 +1,168 @@
+data_GF2
+# 
+_chem_comp.id                                    GF2 
+_chem_comp.name                                  
+;2'-deoxy-2'-fluoroguanosine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "DNA linking" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H13 F N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-04-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        365.212 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GF2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2KWG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GF2 F      F      F 0 1 N N N 7.796 6.027  31.627 -1.141 -2.891 -0.423 F      GF2 1  
+GF2 P      P      P 0 1 N N N 1.839 9.212  31.145 5.130  0.916  0.312  P      GF2 2  
+GF2 N1     N1     N 0 1 N N N 4.432 0.666  32.495 -5.558 0.676  0.446  N1     GF2 3  
+GF2 C2     C2     C 0 1 N N N 5.640 1.262  32.636 -4.923 -0.404 0.982  C2     GF2 4  
+GF2 N2     N2     N 0 1 N N N 6.684 0.481  32.716 -5.652 -1.317 1.702  N2     GF2 5  
+GF2 N3     N3     N 0 1 N N N 5.844 2.577  32.662 -3.632 -0.597 0.828  N3     GF2 6  
+GF2 C4     C4     C 0 1 Y N N 4.686 3.295  32.544 -2.881 0.266  0.134  C4     GF2 7  
+GF2 C5     C5     C 0 1 Y N N 3.409 2.793  32.413 -3.476 1.395  -0.441 C5     GF2 8  
+GF2 C6     C6     C 0 1 N N N 3.243 1.360  32.390 -4.867 1.588  -0.272 C6     GF2 9  
+GF2 O6     O6     O 0 1 N N N 2.212 0.695  32.284 -5.427 2.557  -0.756 O6     GF2 10 
+GF2 N7     N7     N 0 1 Y N N 2.485 3.843  32.312 -2.497 2.086  -1.076 N7     GF2 11 
+GF2 C8     C8     C 0 1 Y N N 3.229 4.917  32.370 -1.365 1.463  -0.928 C8     GF2 12 
+GF2 N9     N9     N 0 1 Y N N 4.572 4.667  32.522 -1.553 0.332  -0.187 N9     GF2 13 
+GF2 "C1'"  "C1'"  C 0 1 N N R 5.701 5.624  32.642 -0.520 -0.635 0.194  "C1'"  GF2 14 
+GF2 OP2    OP2    O 0 1 N N N 2.201 10.350 30.259 6.264  -0.217 0.162  OP2    GF2 15 
+GF2 "C2'"  "C2'"  C 0 1 N N R 6.477 5.706  31.328 -0.429 -1.766 -0.854 "C2'"  GF2 16 
+GF2 OP1    OP1    O 0 1 N N N 0.707 8.338  30.744 5.092  1.742  -0.915 OP1    GF2 17 
+GF2 "C3'"  "C3'"  C 0 1 N N R 5.744 6.833  30.589 1.081  -2.080 -0.937 "C3'"  GF2 18 
+GF2 "O3'"  "O3'"  O 0 1 N N N 6.512 7.413  29.545 1.334  -3.433 -0.551 "O3'"  GF2 19 
+GF2 "C4'"  "C4'"  C 0 1 N N R 5.516 7.774  31.781 1.724  -1.102 0.071  "C4'"  GF2 20 
+GF2 "O4'"  "O4'"  O 0 1 N N N 5.222 6.940  32.903 0.783  -0.012 0.179  "O4'"  GF2 21 
+GF2 "C5'"  "C5'"  C 0 1 N N N 4.428 8.835  31.553 3.066  -0.595 -0.461 "C5'"  GF2 22 
+GF2 "O5'"  "O5'"  O 0 1 N N N 3.141 8.272  31.330 3.698  0.215  0.532  "O5'"  GF2 23 
+GF2 OP3    OP3    O 0 1 N Y N 1.184 10.044 32.501 5.470  1.851  1.578  OP3    GF2 24 
+GF2 HN1    HN1    H 0 1 N N N 4.399 -0.333 32.465 -6.513 0.789  0.578  HN1    GF2 25 
+GF2 HN2    HN2    H 0 1 N N N 7.599 0.876  32.794 -6.605 -1.188 1.824  HN2    GF2 26 
+GF2 HN2A   HN2A   H 0 0 N N N 6.568 -0.512 32.699 -5.213 -2.091 2.089  HN2A   GF2 27 
+GF2 H8     H8     H 0 1 N N N 2.823 5.915  32.304 -0.419 1.791  -1.332 H8     GF2 28 
+GF2 "H1'"  "H1'"  H 0 1 N N N 6.339 5.263  33.462 -0.733 -1.046 1.181  "H1'"  GF2 29 
+GF2 HOP2   HOP2   H 0 0 N N N 1.620 10.364 29.507 6.345  -0.797 0.932  HOP2   GF2 30 
+GF2 "H2'"  "H2'"  H 0 1 N N N 6.514 4.784  30.729 -0.804 -1.424 -1.818 "H2'"  GF2 31 
+GF2 "H3'"  "H3'"  H 0 1 N N N 4.836 6.534  30.044 1.456  -1.893 -1.943 "H3'"  GF2 32 
+GF2 "HO3'" "HO3'" H 0 0 N N N 6.009 8.101  29.126 0.903  -4.090 -1.115 "HO3'" GF2 33 
+GF2 "H4'"  "H4'"  H 0 1 N N N 6.423 8.374  31.946 1.857  -1.586 1.038  "H4'"  GF2 34 
+GF2 "H5'"  "H5'"  H 0 1 N N N 4.376 9.474  32.447 3.707  -1.444 -0.698 "H5'"  GF2 35 
+GF2 "H5'A" "H5'A" H 0 0 N N N 4.704 9.428  30.669 2.900  -0.003 -1.361 "H5'A" GF2 36 
+GF2 HOP3   HOP3   H 0 0 N Y N 0.293 9.750  32.653 6.321  2.306  1.513  HO2P   GF2 37 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GF2 P     "O5'"  SING N N 1  
+GF2 N1    C2     SING N N 2  
+GF2 C2    N3     DOUB N N 3  
+GF2 C2    N2     SING N N 4  
+GF2 C4    N3     SING N N 5  
+GF2 C5    C4     DOUB Y N 6  
+GF2 C6    N1     SING N N 7  
+GF2 C6    C5     SING N N 8  
+GF2 O6    C6     DOUB N N 9  
+GF2 N7    C5     SING Y N 10 
+GF2 N7    C8     DOUB Y N 11 
+GF2 C8    N9     SING Y N 12 
+GF2 N9    C4     SING Y N 13 
+GF2 N9    "C1'"  SING N N 14 
+GF2 "C1'" "O4'"  SING N N 15 
+GF2 OP2   P      SING N N 16 
+GF2 "C2'" F      SING N N 17 
+GF2 "C2'" "C1'"  SING N N 18 
+GF2 OP1   P      DOUB N N 19 
+GF2 "C3'" "C2'"  SING N N 20 
+GF2 "C3'" "C4'"  SING N N 21 
+GF2 "O3'" "C3'"  SING N N 22 
+GF2 "C4'" "O4'"  SING N N 23 
+GF2 "C5'" "C4'"  SING N N 24 
+GF2 "O5'" "C5'"  SING N N 25 
+GF2 P     OP3    SING N N 26 
+GF2 N1    HN1    SING N N 27 
+GF2 N2    HN2    SING N N 28 
+GF2 N2    HN2A   SING N N 29 
+GF2 C8    H8     SING N N 30 
+GF2 "C1'" "H1'"  SING N N 31 
+GF2 OP2   HOP2   SING N N 32 
+GF2 "C2'" "H2'"  SING N N 33 
+GF2 "C3'" "H3'"  SING N N 34 
+GF2 "O3'" "HO3'" SING N N 35 
+GF2 "C4'" "H4'"  SING N N 36 
+GF2 "C5'" "H5'"  SING N N 37 
+GF2 "C5'" "H5'A" SING N N 38 
+GF2 OP3   HOP3   SING N N 39 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GF2 SMILES           ACDLabs              12.01 "O=P(O)(O)OCC3OC(n2cnc1c2N=C(N)NC1=O)C(F)C3O"                                                                                                                    
+GF2 SMILES_CANONICAL CACTVS               3.370 "NC1=Nc2n(cnc2C(=O)N1)[C@@H]3O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]3F"                                                                                              
+GF2 SMILES           CACTVS               3.370 "NC1=Nc2n(cnc2C(=O)N1)[CH]3O[CH](CO[P](O)(O)=O)[CH](O)[CH]3F"                                                                                                    
+GF2 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)F)N=C(NC2=O)N"                                                                                              
+GF2 SMILES           "OpenEye OEToolkits" 1.7.0 "c1nc2c(n1C3C(C(C(O3)COP(=O)(O)O)O)F)N=C(NC2=O)N"                                                                                                                
+GF2 InChI            InChI                1.03  "InChI=1S/C10H13FN5O7P/c11-4-6(17)3(1-22-24(19,20)21)23-9(4)16-2-13-5-7(16)14-10(12)15-8(5)18/h2-4,6,9,17H,1H2,(H2,19,20,21)(H3,12,14,15,18)/t3-,4-,6-,9-/m1/s1" 
+GF2 InChIKey         InChI                1.03  ZTDPJNQLNRZPCT-DXTOWSMRSA-N                                                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GF2 "SYSTEMATIC NAME" ACDLabs              12.01 
+;2'-deoxy-2'-fluoroguanosine 5'-(dihydrogen phosphate)
+;
+GF2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[(2R,3R,4R,5R)-5-(2-azanyl-6-oxo-1H-purin-9-yl)-4-fluoro-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GF2 "Create component"     2010-04-20 RCSB 
+GF2 "Modify aromatic_flag" 2011-06-04 RCSB 
+GF2 "Modify descriptor"    2011-06-04 RCSB 
+# 

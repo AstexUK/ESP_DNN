@@ -1,0 +1,112 @@
+data_BAL
+# 
+_chem_comp.id                                    BAL 
+_chem_comp.name                                  BETA-ALANINE 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        89.093 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BAL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1MCE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BAL N   N   N 0 1 N N N 25.745 -29.140 82.521 2.716  -0.247 -0.035 N   BAL 1  
+BAL CB  CB  C 0 1 N N N 26.010 -30.369 81.740 1.400  0.405  -0.014 CB  BAL 2  
+BAL CA  CA  C 0 1 N N N 24.667 -30.987 81.251 0.302  -0.661 -0.022 CA  BAL 3  
+BAL C   C   C 0 1 N N N 23.931 -30.239 80.158 -1.048 0.008  0.000  C   BAL 4  
+BAL O   O   O 0 1 N N N 24.209 -29.153 79.662 -1.124 1.214  0.020  O   BAL 5  
+BAL OXT OXT O 0 1 N Y N 23.529 -31.208 79.500 -2.165 -0.735 -0.003 OXT BAL 6  
+BAL H   HN1 H 0 1 N N N 26.611 -28.749 82.832 3.458  0.436  -0.031 H   BAL 7  
+BAL H2  HN2 H 0 1 N Y N 25.267 -28.476 81.946 2.813  -0.891 0.735  H2  BAL 8  
+BAL HB3 HB1 H 0 1 N N N 26.634 -30.119 80.869 1.310  1.013  0.887  HB3 BAL 9  
+BAL HB2 HB2 H 0 1 N N N 26.536 -31.097 82.375 1.295  1.041  -0.893 HB2 BAL 10 
+BAL HA1 HA1 H 0 1 N N N 24.895 -31.990 80.860 0.392  -1.268 -0.923 HA1 BAL 11 
+BAL HA2 HA2 H 0 1 N N N 23.996 -31.032 82.121 0.407  -1.297 0.857  HA2 BAL 12 
+BAL HXT HXT H 0 1 N Y N 23.477 -30.969 78.582 -3.008 -0.261 0.012  HXT BAL 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BAL N   CB  SING N N 1  
+BAL N   H   SING N N 2  
+BAL N   H2  SING N N 3  
+BAL CB  CA  SING N N 4  
+BAL CB  HB3 SING N N 5  
+BAL CB  HB2 SING N N 6  
+BAL CA  C   SING N N 7  
+BAL CA  HA1 SING N N 8  
+BAL CA  HA2 SING N N 9  
+BAL C   O   DOUB N N 10 
+BAL C   OXT SING N N 11 
+BAL OXT HXT SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BAL SMILES           ACDLabs              12.01 "O=C(O)CCN"                                      
+BAL SMILES_CANONICAL CACTVS               3.370 "NCCC(O)=O"                                      
+BAL SMILES           CACTVS               3.370 "NCCC(O)=O"                                      
+BAL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CN)C(=O)O"                                    
+BAL SMILES           "OpenEye OEToolkits" 1.7.0 "C(CN)C(=O)O"                                    
+BAL InChI            InChI                1.03  "InChI=1S/C3H7NO2/c4-2-1-3(5)6/h1-2,4H2,(H,5,6)" 
+BAL InChIKey         InChI                1.03  UCMIRNVEIXFBKS-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BAL "SYSTEMATIC NAME" ACDLabs              12.01 beta-alanine             
+BAL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "3-azanylpropanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BAL "Create component"  1999-07-08 RCSB 
+BAL "Modify descriptor" 2011-06-04 RCSB 
+# 

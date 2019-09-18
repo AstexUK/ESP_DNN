@@ -1,0 +1,140 @@
+data_VPR
+# 
+_chem_comp.id                                    VPR 
+_chem_comp.name                                  2-PROPYLPENTANAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H17 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         VALPROMIDE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-02-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        143.227 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VPR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1NU3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VPR C5   C5   C 0 1 N N N 15.767 21.081 5.872  2.344  -0.059 2.694  C5   VPR 1  
+VPR C4   C4   C 0 1 N N N 16.503 21.722 6.999  1.086  0.444  1.984  C4   VPR 2  
+VPR C3   C3   C 0 1 N N N 15.710 21.958 8.265  1.026  -0.145 0.574  C3   VPR 3  
+VPR C2   C2   C 0 1 N N N 16.074 23.229 9.029  -0.232 0.358  -0.135 C2   VPR 4  
+VPR C3A  C3A  C 0 1 N N N 17.573 23.416 9.166  -0.292 -0.230 -1.546 C3A  VPR 5  
+VPR C4A  C4A  C 0 1 N N N 17.881 24.671 9.969  0.872  0.312  -2.376 C4A  VPR 6  
+VPR C5A  C5A  C 0 1 N N N 19.290 25.208 9.809  0.750  -0.189 -3.816 C5A  VPR 7  
+VPR C1   C1   C 0 1 N N N 15.356 23.326 10.378 -1.451 -0.068 0.639  C1   VPR 8  
+VPR N    N    N 0 1 N N N 15.798 22.750 11.526 -2.524 0.744  0.709  N    VPR 9  
+VPR O    O    O 0 1 N N N 14.360 24.021 10.419 -1.467 -1.142 1.201  O    VPR 10 
+VPR H51  1H5  H 0 1 N N N 16.351 20.907 4.938  2.387  0.360  3.699  H51  VPR 11 
+VPR H52  2H5  H 0 1 N N N 15.310 20.123 6.215  2.315  -1.147 2.756  H52  VPR 12 
+VPR H53  3H5  H 0 1 N N N 14.848 21.668 5.638  3.226  0.249  2.133  H53  VPR 13 
+VPR H41  1H4  H 0 1 N N N 17.421 21.134 7.232  0.204  0.135  2.545  H41  VPR 14 
+VPR H42  2H4  H 0 1 N N N 16.959 22.679 6.655  1.115  1.532  1.923  H42  VPR 15 
+VPR H31  1H3  H 0 1 N N N 14.617 21.942 8.042  1.908  0.163  0.013  H31  VPR 16 
+VPR H32  2H3  H 0 1 N N N 15.784 21.071 8.936  0.997  -1.233 0.635  H32  VPR 17 
+VPR H2   H2   H 0 1 N N N 15.704 24.078 8.409  -0.203 1.446  -0.197 H2   VPR 18 
+VPR H3A1 1H3A H 0 0 N N N 18.065 22.514 9.599  -0.222 -1.316 -1.489 H3A1 VPR 19 
+VPR H3A2 2H3A H 0 0 N N N 18.082 23.422 8.174  -1.235 0.048  -2.016 H3A2 VPR 20 
+VPR H4A1 1H4A H 0 0 N N N 17.137 25.468 9.735  0.846  1.402  -2.368 H4A1 VPR 21 
+VPR H4A2 2H4A H 0 0 N N N 17.654 24.502 11.047 1.814  -0.032 -1.950 H4A2 VPR 22 
+VPR H5A1 1H5A H 0 0 N N N 19.515 26.127 10.397 1.579  0.197  -4.407 H5A1 VPR 23 
+VPR H5A2 2H5A H 0 0 N N N 20.033 24.410 10.042 0.775  -1.279 -3.824 H5A2 VPR 24 
+VPR H5A3 3H5A H 0 0 N N N 19.516 25.376 8.730  -0.192 0.155  -4.242 H5A3 VPR 25 
+VPR HN1  1HN  H 0 1 N N N 16.634 22.166 11.491 -3.338 0.438  1.139  HN1  VPR 26 
+VPR HN2  2HN  H 0 1 N N N 15.319 22.814 12.424 -2.483 1.636  0.329  HN2  VPR 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VPR C5  C4   SING N N 1  
+VPR C5  H51  SING N N 2  
+VPR C5  H52  SING N N 3  
+VPR C5  H53  SING N N 4  
+VPR C4  C3   SING N N 5  
+VPR C4  H41  SING N N 6  
+VPR C4  H42  SING N N 7  
+VPR C3  C2   SING N N 8  
+VPR C3  H31  SING N N 9  
+VPR C3  H32  SING N N 10 
+VPR C2  C3A  SING N N 11 
+VPR C2  C1   SING N N 12 
+VPR C2  H2   SING N N 13 
+VPR C3A C4A  SING N N 14 
+VPR C3A H3A1 SING N N 15 
+VPR C3A H3A2 SING N N 16 
+VPR C4A C5A  SING N N 17 
+VPR C4A H4A1 SING N N 18 
+VPR C4A H4A2 SING N N 19 
+VPR C5A H5A1 SING N N 20 
+VPR C5A H5A2 SING N N 21 
+VPR C5A H5A3 SING N N 22 
+VPR C1  N    SING N N 23 
+VPR C1  O    DOUB N N 24 
+VPR N   HN1  SING N N 25 
+VPR N   HN2  SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VPR SMILES           ACDLabs              10.04 "O=C(N)C(CCC)CCC"                                                  
+VPR SMILES_CANONICAL CACTVS               3.341 "CCCC(CCC)C(N)=O"                                                  
+VPR SMILES           CACTVS               3.341 "CCCC(CCC)C(N)=O"                                                  
+VPR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCC(CCC)C(=O)N"                                                  
+VPR SMILES           "OpenEye OEToolkits" 1.5.0 "CCCC(CCC)C(=O)N"                                                  
+VPR InChI            InChI                1.03  "InChI=1S/C8H17NO/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H2,9,10)" 
+VPR InChIKey         InChI                1.03  OMOMUFTZPTXCHP-UHFFFAOYSA-N                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VPR "SYSTEMATIC NAME" ACDLabs              10.04 2-propylpentanamide 
+VPR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-propylpentanamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VPR "Create component"  2003-02-03 RCSB 
+VPR "Modify descriptor" 2011-06-04 RCSB 
+# 

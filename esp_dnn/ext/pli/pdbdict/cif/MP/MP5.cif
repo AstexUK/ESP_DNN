@@ -1,0 +1,135 @@
+data_MP5
+# 
+_chem_comp.id                                    MP5 
+_chem_comp.name                                  "(4-AMINO-2-METHYLPYRIMIDIN-5-YL)METHYL DIHYDROGEN PHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 N3 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-12-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        219.135 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MP5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MP5 C1   C1   C 0 1 Y N N 23.211 43.265 58.888 -0.146 0.013  0.985  C1   MP5 1  
+MP5 C2   C2   C 0 1 Y N N 24.309 43.938 59.487 -1.118 0.021  1.987  C2   MP5 2  
+MP5 C3   C3   C 0 1 N N N 22.355 43.940 57.920 -0.536 0.029  -0.469 C3   MP5 3  
+MP5 N1   N1   N 0 1 N N N 24.642 45.211 59.120 -2.464 0.043  1.661  N1   MP5 4  
+MP5 N2   N2   N 0 1 Y N N 25.070 43.310 60.476 -0.731 0.001  3.260  N2   MP5 5  
+MP5 C4   C4   C 0 1 Y N N 24.760 42.037 60.854 0.547  -0.015 3.573  C4   MP5 6  
+MP5 C5   C5   C 0 1 N N N 25.506 41.450 62.060 0.945  -0.031 5.027  C5   MP5 7  
+MP5 N3   N3   N 0 1 Y N N 23.731 41.280 60.246 1.489  -0.022 2.651  N3   MP5 8  
+MP5 C6   C6   C 0 1 Y N N 22.975 41.937 59.285 1.182  -0.009 1.362  C6   MP5 9  
+MP5 O1   O1   O 0 1 N N N 22.824 43.865 56.638 0.641  0.016  -1.278 O1   MP5 10 
+MP5 P1   P1   P 0 1 N N N 23.318 45.214 55.921 0.152  0.034  -2.812 P1   MP5 11 
+MP5 O2   O2   O 0 1 N N N 24.534 44.491 55.199 1.435  0.021  -3.785 O2   MP5 12 
+MP5 O3   O3   O 0 1 N N N 24.120 46.210 56.910 -0.643 1.256  -3.062 O3   MP5 13 
+MP5 O4   O4   O 0 1 N N N 22.342 45.826 55.112 -0.754 -1.264 -3.102 O4   MP5 14 
+MP5 H31  1H3  H 0 1 N N N 22.182 45.001 58.217 -1.140 -0.850 -0.693 H31  MP5 15 
+MP5 H32  2H3  H 0 1 N N N 21.309 43.558 57.982 -1.113 0.929  -0.681 H32  MP5 16 
+MP5 HN11 1HN1 H 0 0 N N N 23.815 45.798 59.228 -3.133 0.048  2.363  HN11 MP5 17 
+MP5 HN12 2HN1 H 0 0 N N N 25.431 45.694 59.550 -2.738 0.053  0.731  HN12 MP5 18 
+MP5 H51  1H5  H 0 1 N N N 25.387 42.132 62.934 1.057  0.992  5.384  H51  MP5 19 
+MP5 H52  2H5  H 0 1 N N N 25.253 40.409 62.369 0.175  -0.537 5.609  H52  MP5 20 
+MP5 H53  3H5  H 0 1 N N N 26.605 41.524 61.884 1.892  -0.560 5.138  H53  MP5 21 
+MP5 H6   H6   H 0 1 N N N 22.148 41.378 58.815 1.962  -0.015 0.614  H6   MP5 22 
+MP5 HO2  HO2  H 0 1 N N N 24.826 45.289 54.775 1.098  0.032  -4.691 HO2  MP5 23 
+MP5 HO4  HO4  H 0 1 N N N 22.634 46.624 54.688 -0.198 -2.037 -2.927 HO4  MP5 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MP5 C1 C2   DOUB Y N 1  
+MP5 C1 C3   SING N N 2  
+MP5 C1 C6   SING Y N 3  
+MP5 C2 N1   SING N N 4  
+MP5 C2 N2   SING Y N 5  
+MP5 C3 O1   SING N N 6  
+MP5 C3 H31  SING N N 7  
+MP5 C3 H32  SING N N 8  
+MP5 N1 HN11 SING N N 9  
+MP5 N1 HN12 SING N N 10 
+MP5 N2 C4   DOUB Y N 11 
+MP5 C4 C5   SING N N 12 
+MP5 C4 N3   SING Y N 13 
+MP5 C5 H51  SING N N 14 
+MP5 C5 H52  SING N N 15 
+MP5 C5 H53  SING N N 16 
+MP5 N3 C6   DOUB Y N 17 
+MP5 C6 H6   SING N N 18 
+MP5 O1 P1   SING N N 19 
+MP5 P1 O2   SING N N 20 
+MP5 P1 O3   DOUB N N 21 
+MP5 P1 O4   SING N N 22 
+MP5 O2 HO2  SING N N 23 
+MP5 O4 HO4  SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MP5 SMILES           ACDLabs              10.04 "O=P(O)(O)OCc1cnc(nc1N)C"                                                                     
+MP5 SMILES_CANONICAL CACTVS               3.341 "Cc1ncc(CO[P](O)(O)=O)c(N)n1"                                                                 
+MP5 SMILES           CACTVS               3.341 "Cc1ncc(CO[P](O)(O)=O)c(N)n1"                                                                 
+MP5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1ncc(c(n1)N)COP(=O)(O)O"                                                                   
+MP5 SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1ncc(c(n1)N)COP(=O)(O)O"                                                                   
+MP5 InChI            InChI                1.03  "InChI=1S/C6H10N3O4P/c1-4-8-2-5(6(7)9-4)3-13-14(10,11)12/h2H,3H2,1H3,(H2,7,8,9)(H2,10,11,12)" 
+MP5 InChIKey         InChI                1.03  PKYFHKIYHBRTPI-UHFFFAOYSA-N                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MP5 "SYSTEMATIC NAME" ACDLabs              10.04 "(4-amino-2-methylpyrimidin-5-yl)methyl dihydrogen phosphate"  
+MP5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4-amino-2-methyl-pyrimidin-5-yl)methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MP5 "Create component"  2003-12-18 RCSB 
+MP5 "Modify descriptor" 2011-06-04 RCSB 
+# 

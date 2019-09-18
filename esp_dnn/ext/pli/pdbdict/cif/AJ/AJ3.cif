@@ -1,0 +1,126 @@
+data_AJ3
+# 
+_chem_comp.id                                    AJ3 
+_chem_comp.name                                  "3-(PROP-2-ENE-1-SULFINYL)-PROPENE-1-THIOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 O S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.273 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AJ3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BWC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AJ3 S5   S5   S 0 1 N N N 26.217 61.601 18.383 4.118  0.227  -0.206 S5   AJ3 1  
+AJ3 C6B  C6B  C 0 1 N N N 25.139 62.968 18.700 2.569  -0.268 0.472  C6B  AJ3 2  
+AJ3 C7   C7   C 0 1 N N N 24.395 62.963 19.809 1.587  -0.641 -0.328 C7   AJ3 3  
+AJ3 C8B  C8B  C 0 1 N N N 23.708 64.210 20.277 0.262  -1.064 0.252  C8B  AJ3 4  
+AJ3 S9   S9   S 0 1 N N R 22.199 63.804 21.270 -1.023 0.112  -0.254 S9   AJ3 5  
+AJ3 C10  C10  C 0 1 N N N 20.834 64.944 20.788 -2.518 -0.555 0.528  C10  AJ3 6  
+AJ3 C11  C11  C 0 1 N N N 20.224 65.560 21.993 -3.694 0.327  0.197  C11  AJ3 7  
+AJ3 C12  C12  C 0 1 N N N 20.985 66.130 22.901 -4.679 -0.140 -0.529 C12  AJ3 8  
+AJ3 O13  O13  O 0 1 N N N 21.764 62.373 20.988 -0.734 1.392  0.292  O13  AJ3 9  
+AJ3 HS5  HS5  H 0 1 N N N 26.746 61.604 17.594 4.844  0.528  0.886  HS5  AJ3 10 
+AJ3 H6B  H6B  H 0 1 N N N 24.911 63.902 18.160 2.422  -0.265 1.542  H6B  AJ3 11 
+AJ3 H7   H7   H 0 1 N N N 24.350 61.982 20.311 1.733  -0.644 -1.398 H7   AJ3 12 
+AJ3 H8B1 1H8B H 0 0 N N N 24.403 64.876 20.839 0.007  -2.060 -0.113 H8B1 AJ3 13 
+AJ3 H8B2 2H8B H 0 0 N N N 23.470 64.891 19.427 0.330  -1.082 1.339  H8B2 AJ3 14 
+AJ3 H101 1H10 H 0 0 N N N 21.174 65.712 20.055 -2.703 -1.563 0.157  H101 AJ3 15 
+AJ3 H102 2H10 H 0 0 N N N 20.073 64.434 20.151 -2.380 -0.586 1.609  H102 AJ3 16 
+AJ3 H11  H11  H 0 1 N N N 19.146 65.596 22.226 -3.725 1.344  0.559  H11  AJ3 17 
+AJ3 H121 1H12 H 0 0 N N N 22.062 66.093 22.667 -4.648 -1.157 -0.891 H121 AJ3 18 
+AJ3 H122 2H12 H 0 0 N N N 20.531 66.587 23.796 -5.522 0.492  -0.766 H122 AJ3 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AJ3 S5  C6B  SING N N 1  
+AJ3 S5  HS5  SING N N 2  
+AJ3 C6B C7   DOUB N E 3  
+AJ3 C6B H6B  SING N N 4  
+AJ3 C7  C8B  SING N N 5  
+AJ3 C7  H7   SING N N 6  
+AJ3 C8B S9   SING N N 7  
+AJ3 C8B H8B1 SING N N 8  
+AJ3 C8B H8B2 SING N N 9  
+AJ3 S9  C10  SING N N 10 
+AJ3 S9  O13  DOUB N N 11 
+AJ3 C10 C11  SING N N 12 
+AJ3 C10 H101 SING N N 13 
+AJ3 C10 H102 SING N N 14 
+AJ3 C11 C12  DOUB N N 15 
+AJ3 C11 H11  SING N N 16 
+AJ3 C12 H121 SING N N 17 
+AJ3 C12 H122 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AJ3 SMILES           ACDLabs              10.04 "O=S(C\C=C)C\C=C\S"                                                    
+AJ3 InChI            InChI                1.03  "InChI=1S/C6H10OS2/c1-2-5-9(7)6-3-4-8/h2-4,8H,1,5-6H2/b4-3+/t9-/m1/s1" 
+AJ3 InChIKey         InChI                1.03  HSVQDVSVQIMRSS-CDAZIORVSA-N                                            
+AJ3 SMILES_CANONICAL CACTVS               3.385 "S\C=C\C[S@](=O)CC=C"                                                  
+AJ3 SMILES           CACTVS               3.385 "SC=CC[S](=O)CC=C"                                                     
+AJ3 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "C=CC[S@@](=O)C/C=C/S"                                                 
+AJ3 SMILES           "OpenEye OEToolkits" 1.7.5 "C=CCS(=O)CC=CS"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AJ3 "SYSTEMATIC NAME" ACDLabs              10.04 "(1E)-3-[(R)-prop-2-en-1-ylsulfinyl]prop-1-ene-1-thiol" 
+AJ3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(E)-3-[(R)-prop-2-enylsulfinyl]prop-1-ene-1-thiol"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AJ3 "Create component"   1999-07-08 RCSB 
+AJ3 "Modify descriptor"  2011-06-04 RCSB 
+AJ3 "Modify descriptor"  2012-01-05 RCSB 
+AJ3 "Modify coordinates" 2012-01-05 RCSB 
+# 

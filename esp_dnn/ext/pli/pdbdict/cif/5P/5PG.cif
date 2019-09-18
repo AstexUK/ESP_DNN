@@ -1,0 +1,136 @@
+data_5PG
+# 
+_chem_comp.id                                    5PG 
+_chem_comp.name                                  "(2S)-(4-hydroxyphenyl)(methylamino)ethanoic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H11 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               GLY 
+_chem_comp.pdbx_synonyms                         N-METHYL-4-HYDROXY-PHENYLGLYCINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        181.189 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     5PG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3IIQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+5PG N    N    N 0 1 N N N 12.571 38.065 -57.252 1.853  1.464  -0.014 N    5PG 1  
+5PG CA   CA   C 0 1 N N S 11.822 37.756 -56.038 1.322  0.196  0.504  CA   5PG 2  
+5PG C    C    C 0 1 N N N 11.775 36.254 -55.880 1.970  -0.954 -0.221 C    5PG 3  
+5PG O    O    O 0 1 N N N 12.061 35.472 -56.825 2.791  -0.740 -1.082 O    5PG 4  
+5PG CN   CN   C 0 1 N N N 11.948 38.268 -58.638 3.106  1.825  0.663  CN   5PG 5  
+5PG CB   CB   C 0 1 Y N N 10.375 38.326 -56.221 -0.169 0.150  0.288  CB   5PG 6  
+5PG CC1  CC1  C 0 1 Y N N 10.164 39.678 -56.205 -0.993 -0.374 1.268  CC1  5PG 7  
+5PG CC2  CC2  C 0 1 Y N N 9.311  37.424 -56.443 -0.711 0.637  -0.887 CC2  5PG 8  
+5PG CD1  CD1  C 0 1 Y N N 8.840  40.196 -56.421 -2.359 -0.417 1.072  CD1  5PG 9  
+5PG CD2  CD2  C 0 1 Y N N 7.990  37.910 -56.584 -2.078 0.597  -1.087 CD2  5PG 10 
+5PG CE   CE   C 0 1 Y N N 7.769  39.286 -56.587 -2.905 0.066  -0.108 CE   5PG 11 
+5PG OH   OH   O 0 1 N N N 6.485  39.750 -56.761 -4.250 0.025  -0.303 OH   5PG 12 
+5PG OXT  OXT  O 0 1 N Y N 11.368 35.865 -54.672 1.637  -2.217 0.088  OXT  5PG 13 
+5PG H    H    H 0 1 N N N 13.030 38.931 -57.052 1.981  1.420  -1.013 H    5PG 14 
+5PG HA   HA   H 0 1 N N N 12.289 38.198 -55.146 1.537  0.120  1.570  HA   5PG 15 
+5PG HN1C HN1C H 0 0 N N N 10.853 38.317 -58.545 3.477  2.768  0.260  HN1C 5PG 16 
+5PG HN2C HN2C H 0 0 N N N 12.321 39.207 -59.073 2.923  1.934  1.732  HN2C 5PG 17 
+5PG HN3C HN3C H 0 0 N N N 12.223 37.426 -59.290 3.846  1.043  0.498  HN3C 5PG 18 
+5PG HXT  HXT  H 0 1 N N N 11.329 34.916 -54.641 2.079  -2.922 -0.405 HXT  5PG 19 
+5PG HC1  HC1  H 0 1 N N N 10.989 40.353 -56.031 -0.567 -0.750 2.186  HC1  5PG 20 
+5PG HC2  HC2  H 0 1 N N N 9.506  36.364 -56.505 -0.066 1.050  -1.648 HC2  5PG 21 
+5PG HD1  HD1  H 0 1 N N N 8.666  41.261 -56.456 -3.002 -0.827 1.837  HD1  5PG 22 
+5PG HD2  HD2  H 0 1 N N N 7.163  37.223 -56.688 -2.501 0.978  -2.005 HD2  5PG 23 
+5PG HH   HH   H 0 1 N N N 6.069  39.857 -55.914 -4.716 0.814  0.004  HH   5PG 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+5PG N   CA   SING N N 1  
+5PG N   CN   SING N N 2  
+5PG CA  C    SING N N 3  
+5PG CA  CB   SING N N 4  
+5PG C   O    DOUB N N 5  
+5PG C   OXT  SING N N 6  
+5PG CB  CC1  SING Y N 7  
+5PG CB  CC2  DOUB Y N 8  
+5PG CC1 CD1  DOUB Y N 9  
+5PG CC2 CD2  SING Y N 10 
+5PG CD1 CE   SING Y N 11 
+5PG CD2 CE   DOUB Y N 12 
+5PG CE  OH   SING N N 13 
+5PG N   H    SING N N 14 
+5PG CA  HA   SING N N 15 
+5PG CN  HN1C SING N N 16 
+5PG CN  HN2C SING N N 17 
+5PG CN  HN3C SING N N 18 
+5PG OXT HXT  SING N N 19 
+5PG CC1 HC1  SING N N 20 
+5PG CC2 HC2  SING N N 21 
+5PG CD1 HD1  SING N N 22 
+5PG CD2 HD2  SING N N 23 
+5PG OH  HH   SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+5PG SMILES           ACDLabs              10.04 "O=C(O)C(NC)c1ccc(O)cc1"                                                                   
+5PG SMILES_CANONICAL CACTVS               3.352 "CN[C@H](C(O)=O)c1ccc(O)cc1"                                                               
+5PG SMILES           CACTVS               3.352 "CN[CH](C(O)=O)c1ccc(O)cc1"                                                                
+5PG SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "CN[C@@H](c1ccc(cc1)O)C(=O)O"                                                              
+5PG SMILES           "OpenEye OEToolkits" 1.6.1 "CNC(c1ccc(cc1)O)C(=O)O"                                                                   
+5PG InChI            InChI                1.03  "InChI=1S/C9H11NO3/c1-10-8(9(12)13)6-2-4-7(11)5-3-6/h2-5,8,10-11H,1H3,(H,12,13)/t8-/m0/s1" 
+5PG InChIKey         InChI                1.03  IGBFTIYLYPOJFU-QMMMGPOBSA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+5PG "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-(4-hydroxyphenyl)(methylamino)ethanoic acid"     
+5PG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-2-(4-hydroxyphenyl)-2-methylamino-ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+5PG "Create component"     2010-07-29 EBI  
+5PG "Modify aromatic_flag" 2011-06-04 RCSB 
+5PG "Modify descriptor"    2011-06-04 RCSB 
+# 

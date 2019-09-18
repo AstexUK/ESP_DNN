@@ -1,0 +1,112 @@
+data_FUM
+# 
+_chem_comp.id                                    FUM 
+_chem_comp.name                                  "FUMARIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H4 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2012-09-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         FMR 
+_chem_comp.formula_weight                        116.072 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FUM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1E39 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FUM O1  O1  O 0 1 N Y N 28.649 28.742 73.274 2.924  -0.826 0.000  O1  FUM 1  
+FUM C2  C2  C 0 1 N N N 28.265 29.781 73.765 1.902  0.052  -0.000 C2  FUM 2  
+FUM O3  O3  O 0 1 N N N 27.286 30.514 73.228 2.126  1.245  -0.000 O3  FUM 3  
+FUM C4  C4  C 0 1 N N N 29.108 30.488 74.752 0.510  -0.437 0.000  C4  FUM 4  
+FUM C5  C5  C 0 1 N N N 28.782 31.790 74.906 -0.510 0.437  -0.000 C5  FUM 5  
+FUM C6  C6  C 0 1 N N N 29.166 32.453 76.170 -1.902 -0.052 0.000  C6  FUM 6  
+FUM O7  O7  O 0 1 N N N 30.409 32.893 76.225 -2.126 -1.245 0.000  O7  FUM 7  
+FUM O8  O8  O 0 1 N Y N 28.289 32.853 76.920 -2.924 0.826  -0.000 O8  FUM 8  
+FUM HO1 HO1 H 0 1 N N N 28.152 28.561 72.485 3.819  -0.458 0.000  HO1 FUM 9  
+FUM H4  H4  H 0 1 N N N 29.908 30.010 75.298 0.310  -1.499 0.000  H4  FUM 10 
+FUM H5  H5  H 0 1 N N N 28.258 32.329 74.131 -0.310 1.499  -0.000 H5  FUM 11 
+FUM HO8 HO8 H 0 1 N N N 28.650 33.501 77.513 -3.819 0.458  -0.000 HO8 FUM 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FUM O1 C2  SING N N 1  
+FUM O1 HO1 SING N N 2  
+FUM C2 O3  DOUB N N 3  
+FUM C2 C4  SING N N 4  
+FUM C4 C5  DOUB N E 5  
+FUM C4 H4  SING N N 6  
+FUM C5 C6  SING N N 7  
+FUM C5 H5  SING N N 8  
+FUM C6 O7  DOUB N N 9  
+FUM C6 O8  SING N N 10 
+FUM O8 HO8 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FUM SMILES           ACDLabs              12.01 "O=C(O)\C=C\C(=O)O"                                           
+FUM InChI            InChI                1.03  "InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1+" 
+FUM InChIKey         InChI                1.03  VZCYOOQTPOCHFL-OWOJBTEDSA-N                                   
+FUM SMILES_CANONICAL CACTVS               3.370 "OC(=O)\C=C\C(O)=O"                                           
+FUM SMILES           CACTVS               3.370 "OC(=O)C=CC(O)=O"                                             
+FUM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C(=C/C(=O)O)\C(=O)O"                                         
+FUM SMILES           "OpenEye OEToolkits" 1.7.6 "C(=CC(=O)O)C(=O)O"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FUM "SYSTEMATIC NAME" ACDLabs              12.01 "(2E)-but-2-enedioic acid" 
+FUM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(E)-but-2-enedioic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FUM "Create component"         1999-07-08 RCSB 
+FUM "Modify descriptor"        2011-06-04 RCSB 
+FUM "Other modification"       2012-08-01 RCSB 
+FUM "Modify leaving atom flag" 2012-09-11 RCSB 
+# 

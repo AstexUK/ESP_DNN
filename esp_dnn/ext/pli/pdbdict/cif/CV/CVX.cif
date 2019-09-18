@@ -1,0 +1,130 @@
+data_CVX
+# 
+_chem_comp.id                                    CVX 
+_chem_comp.name                                  "O-BUTLYLMETHYLPHOSPHONIC ACID ESTER GROUP" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H13 O3 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-09-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        152.129 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CVX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XQI 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CVX C5   C5   C 0 1 N N N -14.212 -41.159 -23.040 4.722  -0.313 0.101  C5   CVX 1  
+CVX C4   C4   C 0 1 N N N -13.487 -40.628 -21.809 3.431  0.476  -0.131 C4   CVX 2  
+CVX C3   C3   C 0 1 N N N -13.735 -39.135 -21.546 2.226  -0.434 0.115  C3   CVX 3  
+CVX C2   C2   C 0 1 N N N -15.233 -38.727 -21.542 0.936  0.355  -0.117 C2   CVX 4  
+CVX O3   O3   O 0 1 N N N -15.353 -37.767 -22.553 -0.190 -0.495 0.113  O3   CVX 5  
+CVX P    P    P 0 1 N N N -16.626 -37.112 -23.112 -1.712 0.006  -0.040 P    CVX 6  
+CVX C1   C1   C 0 1 N N N -18.134 -38.016 -22.971 -2.843 -1.405 0.193  C1   CVX 7  
+CVX O2   O2   O 0 1 N N N -16.381 -36.766 -24.577 -1.910 0.579  -1.390 O2   CVX 8  
+CVX OX0  OX0  O 0 1 N Y N -16.746 -35.705 -22.315 -2.022 1.130  1.071  OX0  CVX 9  
+CVX H51C H51C H 0 0 N N N -15.280 -41.287 -22.810 5.580  0.336  -0.075 H51C CVX 10 
+CVX H52C H52C H 0 0 N N N -14.098 -40.445 -23.869 4.745  -0.677 1.128  H52C CVX 11 
+CVX H53C H53C H 0 0 N N N -13.781 -42.129 -23.329 4.759  -1.159 -0.585 H53C CVX 12 
+CVX H41C H41C H 0 0 N N N -13.840 -41.193 -20.934 3.394  1.322  0.555  H41C CVX 13 
+CVX H42C H42C H 0 0 N N N -12.409 -40.752 -21.988 3.408  0.840  -1.158 H42C CVX 14 
+CVX H31C H31C H 0 0 N N N -13.316 -38.892 -20.559 2.263  -1.280 -0.571 H31C CVX 15 
+CVX H32C H32C H 0 0 N N N -13.258 -38.584 -22.370 2.250  -0.798 1.142  H32C CVX 16 
+CVX H21C H21C H 0 0 N N N -15.877 -39.595 -21.745 0.899  1.201  0.569  H21C CVX 17 
+CVX H22C H22C H 0 0 N N N -15.548 -38.334 -20.564 0.912  0.719  -1.144 H22C CVX 18 
+CVX H11C H11C H 0 0 N N N -18.351 -38.204 -21.909 -2.697 -1.827 1.188  H11C CVX 19 
+CVX H12C H12C H 0 0 N N N -18.954 -37.433 -23.415 -3.873 -1.066 0.090  H12C CVX 20 
+CVX H13C H13C H 0 0 N N N -18.037 -38.975 -23.501 -2.633 -2.166 -0.559 H13C CVX 21 
+CVX HX0  HX0  H 0 1 N N N -16.769 -35.871 -21.380 -1.912 0.824  1.982  HX0  CVX 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CVX C5  C4   SING N N 1  
+CVX C4  C3   SING N N 2  
+CVX C3  C2   SING N N 3  
+CVX C2  O3   SING N N 4  
+CVX O3  P    SING N N 5  
+CVX P   C1   SING N N 6  
+CVX P   O2   DOUB N N 7  
+CVX P   OX0  SING N N 8  
+CVX C5  H51C SING N N 9  
+CVX C5  H52C SING N N 10 
+CVX C5  H53C SING N N 11 
+CVX C4  H41C SING N N 12 
+CVX C4  H42C SING N N 13 
+CVX C3  H31C SING N N 14 
+CVX C3  H32C SING N N 15 
+CVX C2  H21C SING N N 16 
+CVX C2  H22C SING N N 17 
+CVX C1  H11C SING N N 18 
+CVX C1  H12C SING N N 19 
+CVX C1  H13C SING N N 20 
+CVX OX0 HX0  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CVX SMILES           ACDLabs              10.04 "O=P(O)(OCCCC)C"                                            
+CVX SMILES_CANONICAL CACTVS               3.352 "CCCCO[P](C)(O)=O"                                          
+CVX SMILES           CACTVS               3.352 "CCCCO[P](C)(O)=O"                                          
+CVX SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "CCCCO[P@@](=O)(C)O"                                        
+CVX SMILES           "OpenEye OEToolkits" 1.6.1 "CCCCOP(=O)(C)O"                                            
+CVX InChI            InChI                1.03  "InChI=1S/C5H13O3P/c1-3-4-5-8-9(2,6)7/h3-5H2,1-2H3,(H,6,7)" 
+CVX InChIKey         InChI                1.03  GZUFHXSFPZCNJA-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CVX "SYSTEMATIC NAME" ACDLabs              10.04 "butyl hydrogen (R)-methylphosphonate" 
+CVX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "butoxy-methyl-phosphinic acid"        
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CVX "Create component"  2010-09-02 EBI  
+CVX "Modify descriptor" 2011-06-04 RCSB 
+# 

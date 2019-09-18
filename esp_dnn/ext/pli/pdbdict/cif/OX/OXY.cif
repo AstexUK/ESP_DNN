@@ -1,0 +1,86 @@
+data_OXY
+# 
+_chem_comp.id                                    OXY 
+_chem_comp.name                                  "OXYGEN MOLECULE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               O2 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         O2 
+_chem_comp.formula_weight                        31.999 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OXY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HMO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OXY O1 O1 O 0 1 N N N 27.290 26.888 33.875 0.000 0.000 -0.501 O1 OXY 1 
+OXY O2 O2 O 0 1 N N N 26.630 27.419 32.640 0.000 0.000 0.501  O2 OXY 2 
+# 
+_chem_comp_bond.comp_id              OXY 
+_chem_comp_bond.atom_id_1            O1 
+_chem_comp_bond.atom_id_2            O2 
+_chem_comp_bond.value_order          DOUB 
+_chem_comp_bond.pdbx_aromatic_flag   N 
+_chem_comp_bond.pdbx_stereo_config   N 
+_chem_comp_bond.pdbx_ordinal         1 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OXY SMILES_CANONICAL CACTVS               3.341 O=O                         
+OXY SMILES           CACTVS               3.341 O=O                         
+OXY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 O=O                         
+OXY SMILES           "OpenEye OEToolkits" 1.5.0 O=O                         
+OXY InChI            InChI                1.03  InChI=1S/O2/c1-2            
+OXY InChIKey         InChI                1.03  MYMOFIZGZYHOMD-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OXY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "molecular oxygen" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OXY "Create component"  1999-07-08 RCSB 
+OXY "Modify descriptor" 2011-06-04 RCSB 
+# 

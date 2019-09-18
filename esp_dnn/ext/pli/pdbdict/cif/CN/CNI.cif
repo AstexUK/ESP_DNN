@@ -1,0 +1,126 @@
+data_CNI
+# 
+_chem_comp.id                                    CNI 
+_chem_comp.name                                  7-nitro-2,3-dioxo-2,3-dihydroquinoxaline-6-carbonitrile 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H2 N4 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-11-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        230.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CNI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3B7D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CNI C1  C1  C 0  1 N N N -29.956 11.758 -37.406 3.108  0.800  0.006  C1  CNI 1  
+CNI C2  C2  C 0  1 N N N -29.577 11.267 -38.758 3.199  -0.693 -0.001 C2  CNI 2  
+CNI C3  C3  C 0  1 N N N -30.256 13.906 -38.319 0.805  0.654  -0.009 C3  CNI 3  
+CNI C4  C4  C 0  1 N N N -29.899 13.442 -39.590 0.894  -0.828 -0.006 C4  CNI 4  
+CNI C5  C5  C 0  1 N N N -30.592 15.249 -38.137 -0.517 1.282  -0.007 C5  CNI 5  
+CNI C6  C6  C 0  1 N N N -29.884 14.318 -40.671 -0.300 -1.588 -0.001 C6  CNI 6  
+CNI C8  C8  C 0  1 N N N -30.219 15.656 -40.483 -1.520 -0.955 0.000  C8  CNI 7  
+CNI O1  O1  O 0  1 N N N -29.977 10.990 -36.421 4.117  1.474  0.011  O1  CNI 8  
+CNI O2  O2  O 0  1 N N N -29.275 10.071 -38.955 4.283  -1.240 -0.002 O2  CNI 9  
+CNI N2  N2  N 0  1 N N N -29.569 12.145 -39.784 2.069  -1.428 -0.007 N2  CNI 10 
+CNI N1  N1  N 0  1 N N N -30.278 13.062 -37.260 1.896  1.391  0.002  N1  CNI 11 
+CNI C7  C7  C 0  1 N N N -30.572 16.127 -39.223 -1.622 0.506  -0.003 C7  CNI 12 
+CNI N3  N3  N 1  1 N N N -30.917 17.479 -39.045 -2.958 1.143  -0.000 N3  CNI 13 
+CNI O3  O3  O 0  1 N N N -32.074 17.785 -38.790 -3.054 2.357  -0.002 O3  CNI 14 
+CNI O5  O5  O -1 1 N N N -30.075 18.358 -39.159 -3.961 0.452  0.003  O5  CNI 15 
+CNI C   C   C 0  1 N N N -30.205 16.457 -41.484 -2.717 -1.740 0.004  C   CNI 16 
+CNI N17 N17 N 0  1 N N N -30.094 17.320 -42.281 -3.667 -2.363 0.007  N17 CNI 17 
+CNI H5  H5  H 0  1 N N N -30.867 15.609 -37.157 -0.608 2.358  -0.009 H5  CNI 18 
+CNI H6  H6  H 0  1 N N N -29.613 13.961 -41.654 -0.253 -2.667 0.001  H6  CNI 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CNI C1 C2  SING N N 1  
+CNI C1 O1  DOUB N N 2  
+CNI C1 N1  SING N N 3  
+CNI C2 O2  DOUB N N 4  
+CNI C2 N2  SING N N 5  
+CNI C3 C4  SING N N 6  
+CNI C3 C5  SING N N 7  
+CNI C3 N1  DOUB N N 8  
+CNI C4 C6  SING N N 9  
+CNI C4 N2  DOUB N N 10 
+CNI C5 C7  DOUB N N 11 
+CNI C5 H5  SING N N 12 
+CNI C6 C8  DOUB N N 13 
+CNI C6 H6  SING N N 14 
+CNI C8 C7  SING N N 15 
+CNI C8 C   SING N N 16 
+CNI C7 N3  SING N N 17 
+CNI N3 O3  DOUB N N 18 
+CNI N3 O5  SING N N 19 
+CNI C  N17 TRIP N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CNI SMILES           ACDLabs              10.04 "[O-][N+](=O)C=1C(C#N)=CC2=NC(=O)C(=O)N=C2C=1"                           
+CNI SMILES_CANONICAL CACTVS               3.341 "[O-][N+](=O)C1=CC2=NC(=O)C(=O)N=C2C=C1C#N"                              
+CNI SMILES           CACTVS               3.341 "[O-][N+](=O)C1=CC2=NC(=O)C(=O)N=C2C=C1C#N"                              
+CNI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=C(C(=CC2=NC(=O)C(=O)N=C21)[N+](=O)[O-])C#N"                          
+CNI SMILES           "OpenEye OEToolkits" 1.5.0 "C1=C(C(=CC2=NC(=O)C(=O)N=C21)[N+](=O)[O-])C#N"                          
+CNI InChI            InChI                1.03  "InChI=1S/C9H2N4O4/c10-3-4-1-5-6(2-7(4)13(16)17)12-9(15)8(14)11-5/h1-2H" 
+CNI InChIKey         InChI                1.03  IAWXTSMHXFRLQR-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CNI "SYSTEMATIC NAME" ACDLabs              10.04 7-nitro-2,3-dioxo-2,3-dihydroquinoxaline-6-carbonitrile 
+CNI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 7-nitro-2,3-dioxo-quinoxaline-6-carbonitrile            
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CNI "Create component"  2007-11-08 RCSB 
+CNI "Modify descriptor" 2011-06-04 RCSB 
+# 

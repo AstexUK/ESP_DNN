@@ -1,0 +1,130 @@
+data_FME
+# 
+_chem_comp.id                                    FME 
+_chem_comp.name                                  N-FORMYLMETHIONINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H11 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               MET 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        177.221 
+_chem_comp.one_letter_code                       M 
+_chem_comp.three_letter_code                     FME 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BQ9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FME N   N   N 0 1 N N N 23.447 -5.765 5.119 0.999  0.704  -1.069 N   FME 1  
+FME CN  CN  C 0 1 N N N 23.308 -6.776 4.291 2.093  0.373  -1.783 CN  FME 2  
+FME O1  O1  O 0 1 N N N 22.504 -6.713 3.357 2.179  -0.727 -2.285 O1  FME 3  
+FME CA  CA  C 0 1 N N S 22.488 -4.745 5.410 -0.086 -0.264 -0.900 CA  FME 4  
+FME CB  CB  C 0 1 N N N 22.433 -4.342 6.827 -0.785 -0.018 0.437  CB  FME 5  
+FME CG  CG  C 0 1 N N N 22.198 -5.618 7.751 0.222  -0.179 1.576  CG  FME 6  
+FME SD  SD  S 0 1 N N N 20.445 -6.032 7.772 -0.606 0.111  3.164  SD  FME 7  
+FME CE  CE  C 0 1 N N N 20.476 -7.587 8.656 0.787  -0.138 4.297  CE  FME 8  
+FME C   C   C 0 1 N N N 22.699 -3.530 4.487 -1.080 -0.105 -2.023 C   FME 9  
+FME O   O   O 0 1 N N N 23.804 -3.248 4.077 -1.712 -1.059 -2.408 O   FME 10 
+FME OXT OXT O 0 1 N Y N 21.633 -2.939 4.043 -1.261 1.095  -2.593 OXT FME 11 
+FME H   HN  H 0 1 N N N 24.363 -5.772 5.567 0.930  1.584  -0.667 H   FME 12 
+FME HCN HCN H 0 1 N N N 23.886 -7.710 4.383 2.893  1.087  -1.907 HCN FME 13 
+FME HA  HA  H 0 1 N N N 21.489 -5.197 5.204 0.322  -1.274 -0.917 HA  FME 14 
+FME HB2 1HB H 0 1 N N N 23.338 -3.766 7.132 -1.593 -0.739 0.563  HB2 FME 15 
+FME HB3 2HB H 0 1 N N N 21.668 -3.550 7.006 -1.194 0.991  0.454  HB3 FME 16 
+FME HG2 1HG H 0 1 N N N 22.831 -6.482 7.443 1.030  0.541  1.451  HG2 FME 17 
+FME HG3 2HG H 0 1 N N N 22.609 -5.475 8.777 0.631  -1.190 1.560  HG3 FME 18 
+FME HE1 1HE H 0 1 N N N 19.390 -7.843 8.669 0.450  0.003  5.324  HE1 FME 19 
+FME HE2 2HE H 0 1 N N N 21.148 -8.367 8.230 1.174  -1.150 4.179  HE2 FME 20 
+FME HE3 3HE H 0 1 N N N 20.975 -7.562 9.652 1.574  0.580  4.070  HE3 FME 21 
+FME HXT HXT H 0 1 N Y N 21.763 -2.189 3.473 -1.899 1.197  -3.313 HXT FME 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FME N   CN  SING N N 1  
+FME N   CA  SING N N 2  
+FME N   H   SING N N 3  
+FME CN  O1  DOUB N N 4  
+FME CN  HCN SING N N 5  
+FME CA  CB  SING N N 6  
+FME CA  C   SING N N 7  
+FME CA  HA  SING N N 8  
+FME CB  CG  SING N N 9  
+FME CB  HB2 SING N N 10 
+FME CB  HB3 SING N N 11 
+FME CG  SD  SING N N 12 
+FME CG  HG2 SING N N 13 
+FME CG  HG3 SING N N 14 
+FME SD  CE  SING N N 15 
+FME CE  HE1 SING N N 16 
+FME CE  HE2 SING N N 17 
+FME CE  HE3 SING N N 18 
+FME C   O   DOUB N N 19 
+FME C   OXT SING N N 20 
+FME OXT HXT SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FME SMILES           ACDLabs              10.04 "O=CNC(C(=O)O)CCSC"                                                                     
+FME SMILES_CANONICAL CACTVS               3.341 "CSCC[C@H](NC=O)C(O)=O"                                                                 
+FME SMILES           CACTVS               3.341 "CSCC[CH](NC=O)C(O)=O"                                                                  
+FME SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CSCC[C@@H](C(=O)O)NC=O"                                                                
+FME SMILES           "OpenEye OEToolkits" 1.5.0 "CSCCC(C(=O)O)NC=O"                                                                     
+FME InChI            InChI                1.03  "InChI=1S/C6H11NO3S/c1-11-3-2-5(6(9)10)7-4-8/h4-5H,2-3H2,1H3,(H,7,8)(H,9,10)/t5-/m0/s1" 
+FME InChIKey         InChI                1.03  PYUSHNKNPOHWEZ-YFKPBYRVSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FME "SYSTEMATIC NAME" ACDLabs              10.04 N-formyl-L-methionine                             
+FME "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-formamido-4-methylsulfanyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FME "Create component"  1999-07-08 RCSB 
+FME "Modify descriptor" 2011-06-04 RCSB 
+# 

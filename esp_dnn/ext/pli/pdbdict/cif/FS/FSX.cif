@@ -1,0 +1,100 @@
+data_FSX
+# 
+_chem_comp.id                                    FSX 
+_chem_comp.name                                  "BIS-(MU-2-OXO),[(MU-3--SULFIDO)-BIS(MU-2--SULFIDO)-TRIS(CYS-S)-TRI-IRON] (AQUA)(GLU-O)IRON(II)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe4 O3 S3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "FE4-S3-O3 CLUSTER" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-06-21 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        367.573 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FSX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1E3D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FSX FE1 FE1 FE 0 0 N N S 37.597 44.042 8.894  ? ? ? FE1 FSX 1  
+FSX FE2 FE2 FE 0 0 N N N 40.310 45.104 7.647  ? ? ? FE2 FSX 2  
+FSX FE3 FE3 FE 0 0 N N N 38.895 42.599 10.778 ? ? ? FE3 FSX 3  
+FSX FE4 FE4 FE 0 0 N N R 40.275 42.102 8.457  ? ? ? FE4 FSX 4  
+FSX O1  O1  O  0 1 N N N 40.899 45.505 9.649  ? ? ? O1  FSX 5  
+FSX S2  S2  S  0 1 N N N 38.148 44.671 10.943 ? ? ? S2  FSX 6  
+FSX S3  S3  S  0 1 N N N 38.014 41.788 8.844  ? ? ? S3  FSX 7  
+FSX S4  S4  S  0 1 N N N 41.108 42.616 10.439 ? ? ? S4  FSX 8  
+FSX O24 O24 O  0 1 N N N 40.604 43.365 7.157  ? ? ? O24 FSX 9  
+FSX O12 O12 O  0 1 N N N 38.454 45.026 7.606  ? ? ? O12 FSX 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FSX FE1 FE3 SING N N 1  
+FSX FE1 S2  SING N N 2  
+FSX FE1 S3  SING N N 3  
+FSX FE1 O12 SING N N 4  
+FSX FE2 O1  SING N N 5  
+FSX FE2 O24 SING N N 6  
+FSX FE2 O12 SING N N 7  
+FSX FE3 FE4 SING N N 8  
+FSX FE3 S2  SING N N 9  
+FSX FE3 S3  SING N N 10 
+FSX FE3 S4  SING N N 11 
+FSX FE4 S3  SING N N 12 
+FSX FE4 S4  SING N N 13 
+FSX FE4 O24 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FSX InChI            InChI                1.02b "InChI=1/4Fe.H2O.2O.3S/h;;;;1H2;;;;;/q;;;+1;;;;;;/p-1/f4Fe.HO.2O.3S/h;;;;1h;;;;;/q;;;m;-1;;;;;/rFe4HO3S3/c5-1-6-2-4(8-2)3(7-1,9-4)10(2)4/h5H" 
+FSX InChIKey         InChI                1.02b BIOGFUMNBIDAOG-VNBKSMEUCR                                                                                                                     
+FSX SMILES_CANONICAL CACTVS               3.341 "O|[Fe]1O[Fe]|23S[Fe]|4|5|2S[Fe]|4(O1)S3|5"                                                                                                   
+FSX SMILES           CACTVS               3.341 "O|[Fe]1O[Fe]|23S[Fe]|4|5|2S[Fe]|4(O1)S3|5"                                                                                                   
+FSX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[O][Fe]1O[Fe@@]23S[Fe]245[S]3[Fe@@]4(O1)S5"                                                                                                  
+FSX SMILES           "OpenEye OEToolkits" 1.5.0 "[O][Fe]1O[Fe]23S[Fe]245[S]3[Fe]4(O1)S5"                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FSX "Create component" 2000-06-21 EBI 
+# 

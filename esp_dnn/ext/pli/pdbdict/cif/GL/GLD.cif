@@ -1,0 +1,131 @@
+data_GLD
+# 
+_chem_comp.id                                    GLD 
+_chem_comp.name                                  4,6-DIDEOXYGLUCOSE 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H12 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        148.157 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GLD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLD C1  C1  C 0 1 N N S 49.643 89.654 46.002 1.333  -0.344 -0.056 C1  GLD 1  
+GLD C2  C2  C 0 1 N N R 49.960 88.195 45.742 0.253  -0.533 -1.123 C2  GLD 2  
+GLD C3  C3  C 0 1 N N S 49.046 87.541 44.733 -0.944 0.360  -0.785 C3  GLD 3  
+GLD C4  C4  C 0 1 N N N 47.599 87.896 45.015 -1.388 0.063  0.651  C4  GLD 4  
+GLD C5  C5  C 0 1 N N R 47.436 89.403 45.004 -0.183 0.207  1.584  C5  GLD 5  
+GLD C6  C6  C 0 1 N N N 46.022 89.802 45.302 -0.623 -0.054 3.026  C6  GLD 6  
+GLD O1  O1  O 0 1 N Y N 50.390 90.488 45.142 1.724  1.029  -0.013 O1  GLD 7  
+GLD O2  O2  O 0 1 N N N 51.317 88.075 45.340 0.775  -0.170 -2.403 O2  GLD 8  
+GLD O3  O3  O 0 1 N N N 49.146 86.117 44.804 -2.020 0.087  -1.685 O3  GLD 9  
+GLD O5  O5  O 0 1 N N N 48.258 89.985 46.019 0.824  -0.732 1.218  O5  GLD 10 
+GLD H1  H1  H 0 1 N N N 49.963 89.844 47.052 2.199  -0.959 -0.303 H1  GLD 11 
+GLD H2  H2  H 0 1 N N N 49.786 87.648 46.698 -0.063 -1.576 -1.141 H2  GLD 12 
+GLD H3  H3  H 0 1 N N N 49.356 87.907 43.726 -0.654 1.408  -0.869 H3  GLD 13 
+GLD H41 1H4 H 0 1 N N N 46.896 87.391 44.311 -1.776 -0.953 0.710  H41 GLD 14 
+GLD H42 2H4 H 0 1 N N N 47.230 87.439 45.963 -2.164 0.769  0.946  H42 GLD 15 
+GLD H5  H5  H 0 1 N N N 47.725 89.759 43.987 0.217  1.217  1.506  H5  GLD 16 
+GLD H61 1H6 H 0 1 N N N 45.902 90.910 45.293 0.233  0.050  3.692  H61 GLD 17 
+GLD H62 2H6 H 0 1 N N N 45.303 89.308 44.607 -1.392 0.665  3.308  H62 GLD 18 
+GLD H63 3H6 H 0 1 N N N 45.666 89.359 46.261 -1.024 -1.064 3.106  H63 GLD 19 
+GLD HO1 HO1 H 0 1 N N N 50.191 91.402 45.305 2.404  1.105  0.670  HO1 GLD 20 
+GLD HO2 HO2 H 0 1 N N N 51.515 87.160 45.177 1.525  -0.755 -2.576 HO2 GLD 21 
+GLD HO3 HO3 H 0 1 N N N 48.571 85.705 44.169 -1.698 0.287  -2.575 HO3 GLD 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLD C1 C2  SING N N 1  
+GLD C1 O1  SING N N 2  
+GLD C1 O5  SING N N 3  
+GLD C1 H1  SING N N 4  
+GLD C2 C3  SING N N 5  
+GLD C2 O2  SING N N 6  
+GLD C2 H2  SING N N 7  
+GLD C3 C4  SING N N 8  
+GLD C3 O3  SING N N 9  
+GLD C3 H3  SING N N 10 
+GLD C4 C5  SING N N 11 
+GLD C4 H41 SING N N 12 
+GLD C4 H42 SING N N 13 
+GLD C5 C6  SING N N 14 
+GLD C5 O5  SING N N 15 
+GLD C5 H5  SING N N 16 
+GLD C6 H61 SING N N 17 
+GLD C6 H62 SING N N 18 
+GLD C6 H63 SING N N 19 
+GLD O1 HO1 SING N N 20 
+GLD O2 HO2 SING N N 21 
+GLD O3 HO3 SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLD SMILES           ACDLabs              10.04 "OC1CC(OC(O)C1O)C"                                                          
+GLD SMILES_CANONICAL CACTVS               3.341 "C[C@@H]1C[C@H](O)[C@@H](O)[C@@H](O)O1"                                     
+GLD SMILES           CACTVS               3.341 "C[CH]1C[CH](O)[CH](O)[CH](O)O1"                                            
+GLD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H]1C[C@@H]([C@H]([C@H](O1)O)O)O"                                      
+GLD SMILES           "OpenEye OEToolkits" 1.5.0 "CC1CC(C(C(O1)O)O)O"                                                        
+GLD InChI            InChI                1.03  "InChI=1S/C6H12O4/c1-3-2-4(7)5(8)6(9)10-3/h3-9H,2H2,1H3/t3-,4+,5-,6+/m1/s1" 
+GLD InChIKey         InChI                1.03  BJBURJZEESAQPG-MOJAZDJTSA-N                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLD "SYSTEMATIC NAME" ACDLabs              10.04 4,6-dideoxy-alpha-D-xylo-hexopyranose     
+GLD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3R,4S,6R)-6-methyloxane-2,3,4-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLD "Create component"  1999-07-08 EBI  
+GLD "Modify descriptor" 2011-06-04 RCSB 
+# 

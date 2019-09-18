@@ -1,0 +1,124 @@
+data_IDM
+# 
+_chem_comp.id                                    IDM 
+_chem_comp.name                                  INDOLINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H9 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.164 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IDM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AEK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IDM N1  N1  N 0 1 N N N 34.225 92.845 48.377 1.152  -0.000 -1.514 N1  IDM 1  
+IDM C2  C2  C 0 1 N N N 34.263 91.820 47.229 0.034  -0.000 -2.462 C2  IDM 2  
+IDM C3  C3  C 0 1 N N N 33.246 92.354 46.205 -1.232 0.000  -1.591 C3  IDM 3  
+IDM C4A C4A C 0 1 Y N N 32.306 93.176 47.057 -0.715 0.000  -0.170 C4A IDM 4  
+IDM C4  C4  C 0 1 Y N N 31.037 93.683 46.778 -1.386 0.000  1.037  C4  IDM 5  
+IDM C5  C5  C 0 1 Y N N 30.388 94.447 47.753 -0.678 -0.000 2.224  C5  IDM 6  
+IDM C6  C6  C 0 1 Y N N 30.988 94.711 48.990 0.704  -0.000 2.201  C6  IDM 7  
+IDM C7  C7  C 0 1 Y N N 32.261 94.216 49.286 1.377  0.000  0.998  C7  IDM 8  
+IDM C7A C7A C 0 1 Y N N 32.867 93.459 48.296 0.669  0.000  -0.205 C7A IDM 9  
+IDM HN1 HN1 H 0 1 N N N 34.987 93.521 48.353 2.090  -0.000 -1.761 HN1 IDM 10 
+IDM H21 1H2 H 0 1 N N N 35.281 91.642 46.810 0.066  -0.895 -3.084 H21 IDM 11 
+IDM H22 2H2 H 0 1 N N N 34.076 90.768 47.550 0.066  0.894  -3.084 H22 IDM 12 
+IDM H31 1H3 H 0 1 N N N 33.695 92.903 45.345 -1.824 0.895  -1.781 H31 IDM 13 
+IDM H32 2H3 H 0 1 N N N 32.749 91.568 45.589 -1.824 -0.895 -1.781 H32 IDM 14 
+IDM H4  H4  H 0 1 N N N 30.556 93.483 45.805 -2.466 0.000  1.054  H4  IDM 15 
+IDM H5  H5  H 0 1 N N N 29.382 94.849 47.542 -1.204 0.000  3.168  H5  IDM 16 
+IDM H6  H6  H 0 1 N N N 30.451 95.316 49.740 1.257  -0.000 3.128  H6  IDM 17 
+IDM H7  H7  H 0 1 N N N 32.760 94.412 50.249 2.457  0.000  0.987  H7  IDM 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IDM N1  C2  SING N N 1  
+IDM N1  C7A SING N N 2  
+IDM N1  HN1 SING N N 3  
+IDM C2  C3  SING N N 4  
+IDM C2  H21 SING N N 5  
+IDM C2  H22 SING N N 6  
+IDM C3  C4A SING N N 7  
+IDM C3  H31 SING N N 8  
+IDM C3  H32 SING N N 9  
+IDM C4A C4  DOUB Y N 10 
+IDM C4A C7A SING Y N 11 
+IDM C4  C5  SING Y N 12 
+IDM C4  H4  SING N N 13 
+IDM C5  C6  DOUB Y N 14 
+IDM C5  H5  SING N N 15 
+IDM C6  C7  SING Y N 16 
+IDM C6  H6  SING N N 17 
+IDM C7  C7A DOUB Y N 18 
+IDM C7  H7  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IDM SMILES           ACDLabs              10.04 c1cccc2c1CCN2                                         
+IDM SMILES_CANONICAL CACTVS               3.341 C1Cc2ccccc2N1                                         
+IDM SMILES           CACTVS               3.341 C1Cc2ccccc2N1                                         
+IDM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)CCN2"                                     
+IDM SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)CCN2"                                     
+IDM InChI            InChI                1.03  "InChI=1S/C8H9N/c1-2-4-8-7(3-1)5-6-9-8/h1-4,9H,5-6H2" 
+IDM InChIKey         InChI                1.03  LPAGFVYQRIESJQ-UHFFFAOYSA-N                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IDM "SYSTEMATIC NAME" ACDLabs              10.04 2,3-dihydro-1H-indole 
+IDM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,3-dihydro-1H-indole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IDM "Create component"  1999-07-08 RCSB 
+IDM "Modify descriptor" 2011-06-04 RCSB 
+# 

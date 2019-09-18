@@ -1,0 +1,123 @@
+data_1ZT
+# 
+_chem_comp.id                                    1ZT 
+_chem_comp.name                                  N-acetyl-L-cysteine 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-08-27 
+_chem_comp.pdbx_modified_date                    2010-03-29 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      SC2 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.195 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1ZT 
+_chem_comp.pdbx_model_coordinates_details        "not provided" 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        207l 
+_chem_comp.pdbx_subcomponent_list                "ACE CYS" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1ZT C   C1  C 0 1 N N N 10.616 13.202 42.186 1.486  -1.080 0.183  C   ACE 1  
+1ZT O   O1  O 0 1 N N N 11.274 13.952 42.931 1.881  -0.348 1.066  O   ACE 2  
+1ZT CH3 C2  C 0 1 N N N 10.625 11.713 42.361 2.398  -2.136 -0.385 CH3 ACE 3  
+1ZT N   N1  N 0 1 N N N 9.871  13.711 41.210 0.229  -0.952 -0.286 N   CYS 4  
+1ZT CA  C3  C 0 1 N N R 9.706  15.083 40.882 -0.660 0.071  0.270  CA  CYS 5  
+1ZT C1  C4  C 0 1 N N N 8.653  15.775 41.729 -2.094 -0.348 0.072  C   CYS 6  
+1ZT O1  O2  O 0 1 N N N 8.507  17.001 41.559 -2.347 -1.394 -0.478 O   CYS 7  
+1ZT CB  C5  C 0 1 N N N 9.399  15.245 39.387 -0.414 1.403  -0.443 CB  CYS 8  
+1ZT SG  S1  S 0 1 N N N 10.839 14.718 38.437 1.312  1.907  -0.205 SG  CYS 9  
+1ZT OXT O3  O 0 1 N Y N 8.017  15.080 42.564 -3.090 0.441  0.506  OXT CYS 10 
+1ZT H1  H2  H 0 1 N N N 11.275 11.447 43.208 2.283  -3.060 0.183  H1  ACE 11 
+1ZT H2  H3  H 0 1 N N N 9.602  11.361 42.560 2.141  -2.316 -1.428 H2  ACE 12 
+1ZT H3  H4  H 0 1 N N N 11.005 11.239 41.444 3.432  -1.797 -0.319 H3  ACE 13 
+1ZT H   H5  H 0 1 N N N 9.371  13.055 40.644 -0.087 -1.537 -0.993 H   CYS 14 
+1ZT HA  H7  H 0 1 N N N 10.661 15.580 41.110 -0.459 0.187  1.335  HA  CYS 15 
+1ZT HB2 H8  H 0 1 N N N 8.531  14.626 39.118 -0.615 1.287  -1.508 HB2 CYS 16 
+1ZT HB3 H9  H 0 1 N N N 9.175  16.299 39.167 -1.076 2.164  -0.029 HB3 CYS 17 
+1ZT HG  H10 H 0 1 N N N 10.440 14.907 37.214 1.382  3.072  -0.873 HG  CYS 18 
+1ZT HXT H11 H 0 1 N Y N 7.411  15.634 43.042 -3.993 0.130  0.356  HXT CYS 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1ZT C   O   DOUB N N 1  
+1ZT C   CH3 SING N N 2  
+1ZT CH3 H1  SING N N 3  
+1ZT CH3 H2  SING N N 4  
+1ZT CH3 H3  SING N N 5  
+1ZT N   CA  SING N N 6  
+1ZT N   H   SING N N 7  
+1ZT CA  C1  SING N N 8  
+1ZT CA  CB  SING N N 9  
+1ZT CA  HA  SING N N 10 
+1ZT C1  O1  DOUB N N 11 
+1ZT C1  OXT SING N N 12 
+1ZT CB  SG  SING N N 13 
+1ZT CB  HB2 SING N N 14 
+1ZT CB  HB3 SING N N 15 
+1ZT SG  HG  SING N N 16 
+1ZT OXT HXT SING N N 17 
+1ZT C   N   SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1ZT SMILES           ACDLabs              12.01 "O=C(NC(C(=O)O)CS)C"                                                              
+1ZT InChI            InChI                1.02  "InChI=1S/C5H9NO3S/c1-3(7)6-4(2-10)5(8)9/h4,10H,2H2,1H3,(H,6,7)(H,8,9)/t4-/m0/s1" 
+1ZT InChIKey         InChI                1.02  PWKSKIMOESPYIA-BYPYZUCNSA-N                                                       
+1ZT SMILES_CANONICAL CACTVS               3.370 "CC(=O)N[C@@H](CS)C(O)=O"                                                         
+1ZT SMILES           CACTVS               3.370 "CC(=O)N[CH](CS)C(O)=O"                                                           
+1ZT SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(=O)N[C@@H](CS)C(=O)O"                                                         
+1ZT SMILES           "OpenEye OEToolkits" 1.7.0 "CC(=O)NC(CS)C(=O)O"                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1ZT "SYSTEMATIC NAME" ACDLabs              12.01 N-acetyl-L-cysteine                          
+1ZT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2R)-2-acetamido-3-sulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1ZT "Create component" 2008-08-27 RCSB 
+# 

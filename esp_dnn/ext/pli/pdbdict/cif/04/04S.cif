@@ -1,0 +1,118 @@
+data_04S
+# 
+_chem_comp.id                                    04S 
+_chem_comp.name                                  "(3R)-pyrrolidin-3-amine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-08-01 
+_chem_comp.pdbx_modified_date                    2012-08-03 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        86.136 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     04S 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3O6G 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+04S N29  N29  N 0 1 N N N -0.645 5.432 15.644 2.032  -0.028 0.346  N29  04S 1  
+04S C30  C30  C 0 1 N N R -1.304 6.241 14.635 0.800  0.059  -0.449 C30  04S 2  
+04S C31  C31  C 0 1 N N N -1.035 7.718 14.905 -0.073 -1.189 -0.220 C31  04S 3  
+04S N32  N32  N 0 1 N N N -1.384 8.377 13.641 -1.342 -0.726 0.381  N32  04S 4  
+04S C33  C33  C 0 1 N N N -1.089 7.405 12.573 -1.505 0.686  -0.052 C33  04S 5  
+04S C34  C34  C 0 1 N N N -0.666 6.105 13.261 -0.064 1.249  0.028  C34  04S 6  
+04S HN29 HN29 H 0 0 N N N -1.102 5.558 16.524 2.582  -0.829 0.074  HN29 04S 7  
+04S H30  H30  H 0 1 N N N -2.385 6.041 14.588 1.040  0.164  -1.507 H30  04S 8  
+04S H31  H31  H 0 1 N N N -1.667 8.087 15.726 -0.271 -1.683 -1.172 H31  04S 9  
+04S H31A H31A H 0 0 N N N 0.024  7.884 15.154 0.433  -1.877 0.457  H31A 04S 10 
+04S HN32 HN32 H 0 0 N N N -2.355 8.617 13.632 -2.118 -1.291 0.069  HN32 04S 11 
+04S H33  H33  H 0 1 N N N -1.985 7.234 11.959 -1.880 0.734  -1.074 H33  04S 12 
+04S H33A H33A H 0 0 N N N -0.274 7.779 11.936 -2.166 1.223  0.627  H33A 04S 13 
+04S H34  H34  H 0 1 N N N 0.429  6.032 13.336 0.188  1.521  1.054  H34  04S 14 
+04S H34A H34A H 0 0 N N N -1.056 5.226 12.726 0.054  2.103  -0.638 H34A 04S 15 
+04S H2   H2   H 0 1 N Y N -0.690 4.468 15.380 2.571  0.822  0.273  H2   04S 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+04S C30 N29  SING N N 1  
+04S N29 HN29 SING N N 2  
+04S C34 C30  SING N N 3  
+04S C30 C31  SING N N 4  
+04S C30 H30  SING N N 5  
+04S N32 C31  SING N N 6  
+04S C31 H31  SING N N 7  
+04S C31 H31A SING N N 8  
+04S C33 N32  SING N N 9  
+04S N32 HN32 SING N N 10 
+04S C33 C34  SING N N 11 
+04S C33 H33  SING N N 12 
+04S C33 H33A SING N N 13 
+04S C34 H34  SING N N 14 
+04S C34 H34A SING N N 15 
+04S N29 H2   SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+04S SMILES           ACDLabs              12.01 NC1CCNC1                                                
+04S InChI            InChI                1.03  InChI=1S/C4H10N2/c5-4-1-2-6-3-4/h4,6H,1-3,5H2/t4-/m1/s1 
+04S InChIKey         InChI                1.03  NGXSWUFDCSEIOO-SCSAIBSYSA-N                             
+04S SMILES_CANONICAL CACTVS               3.370 "N[C@@H]1CCNC1"                                         
+04S SMILES           CACTVS               3.370 "N[CH]1CCNC1"                                           
+04S SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1CNC[C@@H]1N"                                         
+04S SMILES           "OpenEye OEToolkits" 1.7.6 C1CNCC1N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+04S "SYSTEMATIC NAME" ACDLabs              12.01 "(3R)-pyrrolidin-3-amine" 
+04S "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(3R)-pyrrolidin-3-amine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+04S "Create component" 2012-08-01 RCSB 
+# 

@@ -1,0 +1,206 @@
+data_UBZ
+# 
+_chem_comp.id                                    UBZ 
+_chem_comp.name                                  "(2S)-2-({N-[(R)-({[(benzyloxy)carbonyl]amino}methyl)(hydroxy)phosphoryl]-L-leucyl}amino)butanoic acid" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H30 N3 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-08-03 
+_chem_comp.pdbx_modified_date                    2012-07-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        443.431 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UBZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3T87 
+_chem_comp.pdbx_subcomponent_list                "PHQ PGL LEU ABA" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UBZ C3   C3   C 0 1 Y N N 15.205 40.683 -12.639 -7.028  -0.545 -1.641 C1   PHQ 1  
+UBZ C2   C2   C 0 1 Y N N 16.447 40.238 -13.081 -8.276  -0.187 -2.115 C2   PHQ 2  
+UBZ C1   C1   C 0 1 Y N N 17.589 40.401 -12.303 -9.346  -0.096 -1.244 C3   PHQ 3  
+UBZ C6   C6   C 0 1 Y N N 17.471 41.012 -11.059 -9.167  -0.363 0.100  C4   PHQ 4  
+UBZ C5   C5   C 0 1 Y N N 16.232 41.439 -10.607 -7.919  -0.722 0.574  C5   PHQ 5  
+UBZ C4   C4   C 0 1 Y N N 15.092 41.274 -11.394 -6.849  -0.812 -0.297 C6   PHQ 6  
+UBZ C7   C7   C 0 1 N N N 13.735 41.752 -10.934 -5.490  -1.208 0.219  C7   PHQ 7  
+UBZ O8   O8   O 0 1 N N N 12.872 40.887 -10.203 -4.753  -0.018 0.606  O12  PHQ 8  
+UBZ C9   C9   C 0 1 N N N 12.937 40.987 -8.786  -3.510  -0.200 1.091  C14  PHQ 9  
+UBZ O21  O21  O 0 1 N N N 13.749 41.752 -8.256  -3.054  -1.322 1.188  O15  PHQ 10 
+UBZ N10  N10  N 0 1 N N N 12.119 40.183 -8.137  -2.773  0.863  1.469  N    PGL 11 
+UBZ C11  C11  C 0 1 N N N 12.035 40.175 -6.706  -1.420  0.666  1.996  C    PGL 12 
+UBZ P12  P12  P 0 1 N N N 11.538 38.596 -6.027  -0.208  0.854  0.648  P    PGL 13 
+UBZ O22  O22  O 0 1 N N N 10.188 38.155 -6.580  -0.479  -0.153 -0.403 O1   PGL 14 
+UBZ O23  O23  O 0 1 N N N 12.620 37.594 -6.255  -0.329  2.331  0.020  O2   PGL 15 
+UBZ N13  N13  N 0 1 N N N 11.324 38.961 -4.416  1.345   0.627  1.254  N    LEU 16 
+UBZ C14  C14  C 0 1 N N S 10.148 38.515 -3.668  2.341   0.658  0.175  CA   LEU 17 
+UBZ C15  C15  C 0 1 N N N 8.957  39.399 -3.899  3.449   -0.315 0.486  C    LEU 18 
+UBZ O24  O24  O 0 1 N N N 7.818  38.914 -3.888  3.551   -0.782 1.600  O    LEU 19 
+UBZ C20  C20  C 0 1 N N N 10.513 38.573 -2.186  2.920   2.069  0.056  CB   LEU 20 
+UBZ C21  C21  C 0 1 N N N 9.424  38.042 -1.245  3.849   2.139  -1.158 CG   LEU 21 
+UBZ C22  C22  C 0 1 N N N 9.736  38.437 0.182   3.029   1.973  -2.439 CD1  LEU 22 
+UBZ C23  C23  C 0 1 N N N 9.240  36.530 -1.367  4.561   3.493  -1.179 CD2  LEU 23 
+UBZ N16  N16  N 0 1 N N N 9.200  40.707 -4.072  4.327   -0.666 -0.475 N    ABA 24 
+UBZ C17  C17  C 0 1 N N S 8.061  41.608 -4.294  5.338   -1.691 -0.205 CA   ABA 25 
+UBZ C18  C18  C 0 1 N N N 8.327  42.594 -5.386  6.534   -1.056 0.455  C    ABA 26 
+UBZ O32  O32  O 0 1 N N N 9.473  42.652 -5.902  6.543   0.131  0.677  O    ABA 27 
+UBZ C25  C25  C 0 1 N N N 7.550  42.166 -2.987  5.767   -2.343 -1.520 CB   ABA 28 
+UBZ C26  C26  C 0 1 N N N 8.655  42.915 -2.366  4.581   -3.094 -2.129 CG   ABA 29 
+UBZ O19  O19  O 0 1 N N N 7.359  43.254 -5.774  7.591   -1.810 0.797  OXT  ABA 30 
+UBZ H3   H3   H 0 1 N N N 14.333 40.567 -13.266 -6.193  -0.620 -2.322 H1   PHQ 31 
+UBZ H2   H2   H 0 1 N N N 16.526 39.758 -14.045 -8.416  0.022  -3.165 H2   PHQ 32 
+UBZ H1   H1   H 0 1 N N N 18.550 40.059 -12.659 -10.321 0.185  -1.614 H3   PHQ 33 
+UBZ H6   H6   H 0 1 N N N 18.347 41.154 -10.444 -10.003 -0.291 0.781  H4   PHQ 34 
+UBZ H5   H5   H 0 1 N N N 16.148 41.904 -9.636  -7.780  -0.931 1.624  H5   PHQ 35 
+UBZ H7   H7   H 0 1 N N N 13.925 42.614 -10.278 -5.606  -1.861 1.084  H71  PHQ 36 
+UBZ H7A  H7A  H 0 1 N N N 13.186 42.025 -11.847 -4.944  -1.735 -0.564 H72  PHQ 37 
+UBZ HN10 HN10 H 0 0 N N N 11.538 39.559 -8.659  -3.137  1.759  1.391  HN1  PGL 38 
+UBZ H11  H11  H 0 1 N N N 13.028 40.423 -6.304  -1.221  1.407  2.770  H1   PGL 39 
+UBZ H11A H11A H 0 0 N N N 11.292 40.927 -6.403  -1.339  -0.335 2.421  H2   PGL 40 
+UBZ HO23 HO23 H 0 0 N N N 12.265 36.843 -6.715  -0.090  3.040  0.633  HO2  PGL 41 
+UBZ HN13 HN13 H 0 0 N N N 12.109 38.558 -3.945  1.560   1.311  1.964  H    LEU 42 
+UBZ H14  H14  H 0 1 N N N 9.877  37.502 -4.000  1.867   0.380  -0.766 HA   LEU 43 
+UBZ H20  H20  H 0 1 N N N 11.416 37.962 -2.036  2.108   2.786  -0.067 HB2  LEU 44 
+UBZ H20A H20A H 0 0 N N N 10.701 39.625 -1.925  3.483   2.309  0.958  HB3  LEU 45 
+UBZ H21  H21  H 0 1 N N N 8.470  38.500 -1.545  4.589   1.341  -1.095 HG   LEU 46 
+UBZ H22  H22  H 0 1 N N N 8.951  38.053 0.849   3.699   1.948  -3.298 HD11 LEU 47 
+UBZ H22A H22A H 0 0 N N N 10.707 38.012 0.476   2.464   1.042  -2.391 HD12 LEU 48 
+UBZ H22B H22B H 0 0 N N N 9.777  39.534 0.258   2.340   2.812  -2.539 HD13 LEU 49 
+UBZ H23  H23  H 0 1 N N N 8.452  36.199 -0.675  5.145   3.611  -0.266 HD21 LEU 50 
+UBZ H23A H23A H 0 0 N N N 8.952  36.278 -2.398  5.223   3.543  -2.043 HD22 LEU 51 
+UBZ H23B H23B H 0 0 N N N 10.184 36.024 -1.116  3.821   4.291  -1.242 HD23 LEU 52 
+UBZ HN16 HN16 H 0 0 N N N 10.135 41.061 -4.050  4.290   -0.239 -1.345 H    ABA 53 
+UBZ H17  H17  H 0 1 N N N 7.211  41.033 -4.690  4.918   -2.450 0.456  HA   ABA 54 
+UBZ H25  H25  H 0 1 N N N 6.694  42.833 -3.168  6.104   -1.574 -2.214 HB3  ABA 55 
+UBZ H25A H25A H 0 0 N N N 7.227  41.348 -2.326  6.581   -3.043 -1.331 HB2  ABA 56 
+UBZ H26  H26  H 0 1 N N N 8.319  43.338 -1.408  3.767   -2.394 -2.319 HG1  ABA 57 
+UBZ H26A H26A H 0 0 N N N 9.504  42.238 -2.190  4.887   -3.559 -3.066 HG3  ABA 58 
+UBZ H26B H26B H 0 0 N N N 8.968  43.729 -3.036  4.243   -3.864 -1.435 HG2  ABA 59 
+UBZ HO19 HO19 H 0 0 N N N 7.620  43.798 -6.508  8.335   -1.358 1.218  HXT  ABA 60 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UBZ C2  C1   DOUB Y N 1  
+UBZ C1  C6   SING Y N 2  
+UBZ C1  H1   SING N N 3  
+UBZ C2  C3   SING Y N 4  
+UBZ C2  H2   SING N N 5  
+UBZ C3  C4   DOUB Y N 6  
+UBZ C3  H3   SING N N 7  
+UBZ C4  C7   SING N N 8  
+UBZ C4  C5   SING Y N 9  
+UBZ C6  C5   DOUB Y N 10 
+UBZ C5  H5   SING N N 11 
+UBZ C6  H6   SING N N 12 
+UBZ C7  O8   SING N N 13 
+UBZ C7  H7   SING N N 14 
+UBZ C7  H7A  SING N N 15 
+UBZ O8  C9   SING N N 16 
+UBZ C9  O21  DOUB N N 17 
+UBZ C9  N10  SING N N 18 
+UBZ N10 C11  SING N N 19 
+UBZ N10 HN10 SING N N 20 
+UBZ C11 P12  SING N N 21 
+UBZ C11 H11  SING N N 22 
+UBZ C11 H11A SING N N 23 
+UBZ O22 P12  DOUB N N 24 
+UBZ O23 P12  SING N N 25 
+UBZ P12 N13  SING N N 26 
+UBZ N13 C14  SING N N 27 
+UBZ N13 HN13 SING N N 28 
+UBZ C15 C14  SING N N 29 
+UBZ C14 C20  SING N N 30 
+UBZ C14 H14  SING N N 31 
+UBZ N16 C15  SING N N 32 
+UBZ C15 O24  DOUB N N 33 
+UBZ C17 N16  SING N N 34 
+UBZ N16 HN16 SING N N 35 
+UBZ C18 C17  SING N N 36 
+UBZ C17 C25  SING N N 37 
+UBZ C17 H17  SING N N 38 
+UBZ O32 C18  DOUB N N 39 
+UBZ O19 C18  SING N N 40 
+UBZ O19 HO19 SING N N 41 
+UBZ C20 C21  SING N N 42 
+UBZ C20 H20  SING N N 43 
+UBZ C20 H20A SING N N 44 
+UBZ C23 C21  SING N N 45 
+UBZ C21 C22  SING N N 46 
+UBZ C21 H21  SING N N 47 
+UBZ C22 H22  SING N N 48 
+UBZ C22 H22A SING N N 49 
+UBZ C22 H22B SING N N 50 
+UBZ C23 H23  SING N N 51 
+UBZ C23 H23A SING N N 52 
+UBZ C23 H23B SING N N 53 
+UBZ O23 HO23 SING N N 54 
+UBZ C25 C26  SING N N 55 
+UBZ C25 H25  SING N N 56 
+UBZ C25 H25A SING N N 57 
+UBZ C26 H26  SING N N 58 
+UBZ C26 H26A SING N N 59 
+UBZ C26 H26B SING N N 60 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UBZ SMILES           ACDLabs              12.01 "O=C(O)C(NC(=O)C(NP(=O)(O)CNC(=O)OCc1ccccc1)CC(C)C)CC"                                                                                                                                             
+UBZ InChI            InChI                1.03  "InChI=1S/C19H30N3O7P/c1-4-15(18(24)25)21-17(23)16(10-13(2)3)22-30(27,28)12-20-19(26)29-11-14-8-6-5-7-9-14/h5-9,13,15-16H,4,10-12H2,1-3H3,(H,20,26)(H,21,23)(H,24,25)(H2,22,27,28)/t15-,16-/m0/s1" 
+UBZ InChIKey         InChI                1.03  MAJTVQOCKLWFFD-HOTGVXAUSA-N                                                                                                                                                                        
+UBZ SMILES_CANONICAL CACTVS               3.370 "CC[C@H](NC(=O)[C@H](CC(C)C)N[P](O)(=O)CNC(=O)OCc1ccccc1)C(O)=O"                                                                                                                                   
+UBZ SMILES           CACTVS               3.370 "CC[CH](NC(=O)[CH](CC(C)C)N[P](O)(=O)CNC(=O)OCc1ccccc1)C(O)=O"                                                                                                                                     
+UBZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CC[C@@H](C(=O)O)NC(=O)[C@H](CC(C)C)NP(=O)(CNC(=O)OCc1ccccc1)O"                                                                                                                                    
+UBZ SMILES           "OpenEye OEToolkits" 1.7.2 "CCC(C(=O)O)NC(=O)C(CC(C)C)NP(=O)(CNC(=O)OCc1ccccc1)O"                                                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UBZ "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-2-({N-[(R)-({[(benzyloxy)carbonyl]amino}methyl)(hydroxy)phosphoryl]-L-leucyl}amino)butanoic acid"               
+UBZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S)-2-[[(2S)-4-methyl-2-[[oxidanyl(phenylmethoxycarbonylaminomethyl)phosphoryl]amino]pentanoyl]amino]butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UBZ "Create component" 2011-08-03 RCSB 
+# 

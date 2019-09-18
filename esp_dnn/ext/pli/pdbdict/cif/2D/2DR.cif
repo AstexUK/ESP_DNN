@@ -1,0 +1,125 @@
+data_2DR
+# 
+_chem_comp.id                                    2DR 
+_chem_comp.name                                  2-deoxy-beta-D-erythro-pentofuranose 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-07-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2DR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2WNV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2DR C2   C2   C 0 1 N N N 19.576 -5.092 -6.320 1.468  0.613  -0.657 C2   2DR 1  
+2DR C3   C3   C 0 1 N N S 19.340 -6.567 -6.094 0.101  1.285  -0.378 C3   2DR 2  
+2DR C4   C4   C 0 1 N N R 20.727 -7.174 -6.095 -0.736 0.177  0.289  C4   2DR 3  
+2DR C5   C5   C 0 1 N N N 20.746 -8.601 -6.615 -2.001 -0.084 -0.532 C5   2DR 4  
+2DR O1   O1   O 0 1 N N N 21.280 -4.083 -7.721 2.313  -1.623 -0.116 O1   2DR 5  
+2DR O3   O3   O 0 1 N N N 18.717 -6.727 -4.830 0.261  2.394  0.509  O3   2DR 6  
+2DR O4   O4   O 0 1 N N N 21.514 -6.296 -6.895 0.075  -1.009 0.326  O4   2DR 7  
+2DR O5   O5   O 0 1 N N N 22.056 -8.989 -7.027 -2.827 -1.027 0.153  O5   2DR 8  
+2DR C1   C1   C 0 1 N N R 21.056 -4.969 -6.627 1.453  -0.576 0.338  C1   2DR 9  
+2DR H21C H21C H 0 0 N N N 18.969 -4.721 -7.159 1.524  0.258  -1.686 H21C 2DR 10 
+2DR H22C H22C H 0 0 N N N 19.288 -4.492 -5.444 2.289  1.294  -0.436 H22C 2DR 11 
+2DR H3   H3   H 0 1 N N N 18.695 -7.039 -6.850 -0.363 1.606  -1.311 H3   2DR 12 
+2DR H1   H1   H 0 1 N N N 21.614 -4.534 -5.784 1.745  -0.246 1.335  H1   2DR 13 
+2DR H4   H4   H 0 1 N N N 21.124 -7.262 -5.073 -1.007 0.476  1.301  H4   2DR 14 
+2DR HA   HA   H 0 1 N N N 19.381 -6.763 -4.151 0.829  3.096  0.163  HA   2DR 15 
+2DR H51C H51C H 0 0 N N N 20.412 -9.275 -5.813 -2.548 0.850  -0.663 H51C 2DR 16 
+2DR H52C H52C H 0 0 N N N 20.077 -8.662 -7.486 -1.725 -0.483 -1.508 H52C 2DR 17 
+2DR H5   H5   H 0 1 N N N 22.078 -9.075 -7.973 -3.649 -1.241 -0.310 H5   2DR 18 
+2DR HB   HB   H 0 1 N N N 21.330 -3.190 -7.401 2.341  -2.391 0.470  HB   2DR 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2DR C2 C3   SING N N 1  
+2DR C2 C1   SING N N 2  
+2DR C3 C4   SING N N 3  
+2DR C3 O3   SING N N 4  
+2DR C4 C5   SING N N 5  
+2DR C4 O4   SING N N 6  
+2DR C5 O5   SING N N 7  
+2DR O1 C1   SING N N 8  
+2DR O4 C1   SING N N 9  
+2DR C2 H21C SING N N 10 
+2DR C2 H22C SING N N 11 
+2DR C3 H3   SING N N 12 
+2DR C1 H1   SING N N 13 
+2DR C4 H4   SING N N 14 
+2DR O3 HA   SING N N 15 
+2DR C5 H51C SING N N 16 
+2DR C5 H52C SING N N 17 
+2DR O5 H5   SING N N 18 
+2DR O1 HB   SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2DR SMILES           ACDLabs              10.04 "OCC1OC(O)CC1O"                                                     
+2DR SMILES_CANONICAL CACTVS               3.352 "OC[C@H]1O[C@@H](O)C[C@@H]1O"                                       
+2DR SMILES           CACTVS               3.352 "OC[CH]1O[CH](O)C[CH]1O"                                            
+2DR SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C1[C@@H]([C@H](O[C@H]1O)CO)O"                                      
+2DR SMILES           "OpenEye OEToolkits" 1.6.1 "C1C(C(OC1O)CO)O"                                                   
+2DR InChI            InChI                1.03  "InChI=1S/C5H10O4/c6-2-4-3(7)1-5(8)9-4/h3-8H,1-2H2/t3-,4+,5+/m0/s1" 
+2DR InChIKey         InChI                1.03  PDWIQYODPROSQH-VPENINKCSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2DR "SYSTEMATIC NAME" ACDLabs              10.04 2-deoxy-beta-D-erythro-pentofuranose           
+2DR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2R,4S,5R)-5-(hydroxymethyl)oxolane-2,4-diol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2DR "Create component"  2009-07-20 EBI  
+2DR "Modify descriptor" 2011-06-04 RCSB 
+# 

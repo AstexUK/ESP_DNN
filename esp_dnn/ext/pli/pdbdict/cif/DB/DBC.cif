@@ -1,0 +1,127 @@
+data_DBC
+# 
+_chem_comp.id                                    DBC 
+_chem_comp.name                                  "(4S,5S)-4,5-BIS(MERCAPTOMETHYL)-1,3-DIOXOLAN-2-OL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O3 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-06-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        182.261 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DBC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DBC O4  O4  O 0 1 N N N 5.970  66.399 -4.075 -0.038 3.111  -0.451 O4  DBC 1  
+DBC C5  C5  C 0 1 N N N 7.250  66.575 -3.368 0.000  1.972  0.412  C5  DBC 2  
+DBC O3  O3  O 0 1 N N N 7.998  67.808 -3.691 -1.172 1.173  0.207  O3  DBC 3  
+DBC O2  O2  O 0 1 N N N 7.062  66.526 -1.932 1.161  1.179  0.112  O2  DBC 4  
+DBC C2  C2  C 0 1 N N S 7.970  67.460 -1.367 0.731  -0.191 0.301  C2  DBC 5  
+DBC C1  C1  C 0 1 N N N 7.336  68.024 -0.096 1.571  -1.150 -0.545 C1  DBC 6  
+DBC S1  S1  S 0 1 N N N 7.169  66.786 1.217  3.279  -1.157 0.064  S1  DBC 7  
+DBC C3  C3  C 0 1 N N S 8.248  68.487 -2.463 -0.730 -0.136 -0.209 C3  DBC 8  
+DBC C4  C4  C 0 1 N N N 9.682  69.008 -2.534 -1.576 -1.227 0.452  C4  DBC 9  
+DBC S4  S4  S 0 1 N N N 10.122 70.041 -1.090 -3.277 -1.134 -0.170 S4  DBC 10 
+DBC HO4 HO4 H 0 1 N N N 5.261  66.361 -3.443 0.726  3.696  -0.364 HO4 DBC 11 
+DBC H5  H5  H 0 1 N N N 7.859  65.733 -3.729 0.042  2.301  1.450  H5  DBC 12 
+DBC H2  H2  H 0 1 N N N 8.935  67.036 -1.053 0.767  -0.470 1.355  H2  DBC 13 
+DBC H11 1H1 H 0 1 N N N 7.973  68.840 0.276  1.156  -2.156 -0.474 H11 DBC 14 
+DBC H12 2H1 H 0 1 N N N 6.325  68.372 -0.355 1.557  -0.824 -1.585 H12 DBC 15 
+DBC HS1 HS1 H 0 1 N N N 7.129  65.598 0.691  3.891  -2.027 -0.759 HS1 DBC 16 
+DBC H3  H3  H 0 1 N N N 7.617  69.364 -2.256 -0.763 -0.226 -1.294 H3  DBC 17 
+DBC H41 1H4 H 0 1 N N N 10.365 68.146 -2.568 -1.155 -2.204 0.216  H41 DBC 18 
+DBC H42 2H4 H 0 1 N N N 9.769  69.634 -3.434 -1.576 -1.082 1.532  H42 DBC 19 
+DBC HS4 HS4 H 0 1 N N N 10.226 69.289 -0.034 -3.894 -2.133 0.485  HS4 DBC 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DBC O4 C5  SING N N 1  
+DBC O4 HO4 SING N N 2  
+DBC C5 O3  SING N N 3  
+DBC C5 O2  SING N N 4  
+DBC C5 H5  SING N N 5  
+DBC O3 C3  SING N N 6  
+DBC O2 C2  SING N N 7  
+DBC C2 C1  SING N N 8  
+DBC C2 C3  SING N N 9  
+DBC C2 H2  SING N N 10 
+DBC C1 S1  SING N N 11 
+DBC C1 H11 SING N N 12 
+DBC C1 H12 SING N N 13 
+DBC S1 HS1 SING N N 14 
+DBC C3 C4  SING N N 15 
+DBC C3 H3  SING N N 16 
+DBC C4 S4  SING N N 17 
+DBC C4 H41 SING N N 18 
+DBC C4 H42 SING N N 19 
+DBC S4 HS4 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DBC SMILES           ACDLabs              10.04 "SCC1OC(O)OC1CS"                                                           
+DBC SMILES_CANONICAL CACTVS               3.341 "O[C@@H]1O[C@H](CS)[C@@H](CS)O1"                                           
+DBC SMILES           CACTVS               3.341 "O[CH]1O[CH](CS)[CH](CS)O1"                                                
+DBC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H](OC(O1)O)CS)S"                                              
+DBC SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(OC(O1)O)CS)S"                                                       
+DBC InChI            InChI                1.03  "InChI=1S/C5H10O3S2/c6-5-7-3(1-9)4(2-10)8-5/h3-6,9-10H,1-2H2/t3-,4-/m1/s1" 
+DBC InChIKey         InChI                1.03  URSOFHABYVLXDS-QWWZWVQMSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DBC "SYSTEMATIC NAME" ACDLabs              10.04 "(4S,5S)-4,5-bis(sulfanylmethyl)-1,3-dioxolan-2-ol" 
+DBC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4S,5S)-4,5-bis(sulfanylmethyl)-1,3-dioxolan-2-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DBC "Create component"  2007-06-21 RCSB 
+DBC "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,126 @@
+data_HRI
+# 
+_chem_comp.id                                    HRI 
+_chem_comp.name                                  "ALPHA-CHLOROISOCAPROIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H11 Cl O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.603 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HRI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HRI CZ   CZ   C  0 1 N N R 6.411 17.452 111.846 0.052  0.321  -0.417 CZ   HRI 1  
+HRI CH1  CH1  C  0 1 N N N 5.221 18.305 111.405 -0.663 -0.395 0.729  CH1  HRI 2  
+HRI CF1  CF1  C  0 1 N N N 4.904 18.508 109.921 -0.031 0.014  2.061  CF1  HRI 3  
+HRI CI1  CI1  C  0 1 N N N 4.594 17.173 109.261 -0.292 1.501  2.312  CI1  HRI 4  
+HRI CI2  CI2  C  0 1 N N N 6.075 19.205 109.246 -0.647 -0.809 3.193  CI2  HRI 5  
+HRI CH2  CH2  C  0 1 N N N 7.153 16.508 110.921 -0.650 0.018  -1.715 CH2  HRI 6  
+HRI OF2  OF2  O  0 1 N N N 6.994 15.284 111.100 -1.223 -1.035 -1.860 OF2  HRI 7  
+HRI OF3  OF3  O  0 1 N N N 7.894 17.003 110.049 -0.639 0.918  -2.710 OF3  HRI 8  
+HRI CL   CL   CL 0 0 N Y N 6.795 17.586 113.238 1.760  -0.250 -0.510 CL   HRI 9  
+HRI HCZ  HCZ  H  0 1 N N N 6.785 17.022 110.887 0.038  1.396  -0.238 HCZ  HRI 10 
+HRI HCH1 1HCH H  0 0 N N N 4.306 17.907 111.903 -0.568 -1.473 0.599  HCH1 HRI 11 
+HRI HCH2 2HCH H  0 0 N N N 5.320 19.309 111.878 -1.718 -0.120 0.727  HCH2 HRI 12 
+HRI HCF1 1HCF H  0 0 N N N 4.000 19.152 109.814 1.043  -0.164 2.023  HCF1 HRI 13 
+HRI HI11 1HI1 H  0 0 N N N 4.363 17.320 108.180 0.158  1.793  3.261  HI11 HRI 14 
+HRI HI12 2HI1 H  0 0 N N N 5.413 16.432 109.413 0.146  2.088  1.505  HI12 HRI 15 
+HRI HI13 3HI1 H  0 0 N N N 3.778 16.626 109.789 -1.366 1.680  2.349  HI13 HRI 16 
+HRI HI21 1HI2 H  0 0 N N N 5.844 19.352 108.165 -1.705 -0.564 3.287  HI21 HRI 17 
+HRI HI22 2HI2 H  0 0 N N N 6.347 20.159 109.753 -0.539 -1.871 2.970  HI22 HRI 18 
+HRI HI23 3HI2 H  0 0 N N N 7.036 18.662 109.401 -0.136 -0.580 4.128  HI23 HRI 19 
+HRI HOF3 HOF3 H  0 0 N N N 8.359 16.411 109.469 -1.090 0.724  -3.543 HOF3 HRI 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HRI CZ  CH1  SING N N 1  
+HRI CZ  CH2  SING N N 2  
+HRI CZ  CL   SING N N 3  
+HRI CZ  HCZ  SING N N 4  
+HRI CH1 CF1  SING N N 5  
+HRI CH1 HCH1 SING N N 6  
+HRI CH1 HCH2 SING N N 7  
+HRI CF1 CI1  SING N N 8  
+HRI CF1 CI2  SING N N 9  
+HRI CF1 HCF1 SING N N 10 
+HRI CI1 HI11 SING N N 11 
+HRI CI1 HI12 SING N N 12 
+HRI CI1 HI13 SING N N 13 
+HRI CI2 HI21 SING N N 14 
+HRI CI2 HI22 SING N N 15 
+HRI CI2 HI23 SING N N 16 
+HRI CH2 OF2  DOUB N N 17 
+HRI CH2 OF3  SING N N 18 
+HRI OF3 HOF3 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HRI SMILES           ACDLabs              10.04 "ClC(C(=O)O)CC(C)C"                                                       
+HRI SMILES_CANONICAL CACTVS               3.341 "CC(C)C[C@@H](Cl)C(O)=O"                                                  
+HRI SMILES           CACTVS               3.341 "CC(C)C[CH](Cl)C(O)=O"                                                    
+HRI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C(=O)O)Cl"                                                       
+HRI SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C(=O)O)Cl"                                                       
+HRI InChI            InChI                1.03  "InChI=1S/C6H11ClO2/c1-4(2)3-5(7)6(8)9/h4-5H,3H2,1-2H3,(H,8,9)/t5-/m1/s1" 
+HRI InChIKey         InChI                1.03  CBQBIPRPIHIKPW-RXMQYKEDSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HRI "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2-chloro-4-methylpentanoic acid" 
+HRI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-chloro-4-methyl-pentanoic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HRI "Create component"  1999-07-08 RCSB 
+HRI "Modify descriptor" 2011-06-04 RCSB 
+# 

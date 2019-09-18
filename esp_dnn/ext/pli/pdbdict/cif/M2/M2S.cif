@@ -1,0 +1,140 @@
+data_M2S
+# 
+_chem_comp.id                                    M2S 
+_chem_comp.name                                  "3-{[(R)-methylsulfinyl]methyl}-L-valine" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H15 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               MET 
+_chem_comp.pdbx_synonyms                         "3,3-dimethyl-methionine sulfoxide" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        193.264 
+_chem_comp.one_letter_code                       M 
+_chem_comp.three_letter_code                     M2S 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RPL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+M2S N    N    N 0 1 N N N -13.936 -0.235 3.971 1.427  1.980  0.357  N    M2S 1  
+M2S CA   CA   C 0 1 N N S -14.550 0.993  4.459 1.480  0.548  0.679  CA   M2S 2  
+M2S CB   CB   C 0 1 N N N -14.401 1.158  6.008 0.249  -0.151 0.100  CB   M2S 3  
+M2S CG1  CG1  C 0 1 N N N -15.256 2.353  6.461 0.226  0.030  -1.419 CG1  M2S 4  
+M2S CG2  CG2  C 0 1 N N N -15.028 -0.100 6.652 0.305  -1.643 0.435  CG2  M2S 5  
+M2S CG   CG   C 0 1 N N N -12.938 1.341  6.495 -1.016 0.460  0.705  CG   M2S 6  
+M2S SD   SD   S 0 1 N N R -12.539 1.069  8.267 -2.477 -0.369 0.019  SD   M2S 7  
+M2S OE   OE   O 0 1 N N N -12.707 2.543  8.919 -2.543 -0.130 -1.380 OE   M2S 8  
+M2S CE   CE   C 0 1 N N N -10.729 1.031  8.322 -3.852 0.480  0.843  CE   M2S 9  
+M2S C    C    C 0 1 N N N -14.029 2.123  3.557 2.727  -0.054 0.083  C    M2S 10 
+M2S O    O    O 0 1 N N N -12.963 2.698  3.782 3.296  0.508  -0.822 O    M2S 11 
+M2S OXT  OXT  O 0 1 N Y N -14.807 2.479  2.534 3.204  -1.215 0.558  OXT  M2S 12 
+M2S H    H    H 0 1 N N N -13.795 -0.168 2.983 1.411  2.126  -0.641 H    M2S 13 
+M2S H2   H2   H 0 1 N Y N -13.055 -0.370 4.425 0.634  2.421  0.800  H2   M2S 14 
+M2S HA   HA   H 0 1 N N N -15.647 0.996  4.372 1.496  0.419  1.761  HA   M2S 15 
+M2S HG11 HG11 H 0 0 N N N -15.460 2.271  7.539 1.128  -0.406 -1.850 HG11 M2S 16 
+M2S HG12 HG12 H 0 0 N N N -14.713 3.289  6.261 -0.651 -0.468 -1.831 HG12 M2S 17 
+M2S HG13 HG13 H 0 0 N N N -16.206 2.354  5.907 0.186  1.093  -1.658 HG13 M2S 18 
+M2S HG21 HG21 H 0 0 N N N -15.177 -0.871 5.882 0.321  -1.772 1.518  HG21 M2S 19 
+M2S HG22 HG22 H 0 0 N N N -14.356 -0.486 7.432 -0.573 -2.141 0.023  HG22 M2S 20 
+M2S HG23 HG23 H 0 0 N N N -15.998 0.162  7.100 1.206  -2.079 0.004  HG23 M2S 21 
+M2S HG2  HG2  H 0 1 N N N -12.331 0.620  5.928 -1.000 0.331  1.788  HG2  M2S 22 
+M2S HG3  HG3  H 0 1 N N N -12.737 2.411  6.338 -1.056 1.523  0.467  HG3  M2S 23 
+M2S HE1  HE1  H 0 1 N N N -10.331 1.023  7.297 -3.821 1.542  0.600  HE1  M2S 24 
+M2S HE2  HE2  H 0 1 N N N -10.360 1.921  8.852 -4.797 0.057  0.501  HE2  M2S 25 
+M2S HE3  HE3  H 0 1 N N N -10.397 0.125  8.851 -3.765 0.350  1.921  HE3  M2S 26 
+M2S HXT  HXT  H 0 1 N Y N -14.403 3.199  2.064 4.006  -1.562 0.144  HXT  M2S 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+M2S N   CA   SING N N 1  
+M2S CA  CB   SING N N 2  
+M2S CA  C    SING N N 3  
+M2S CB  CG1  SING N N 4  
+M2S CB  CG2  SING N N 5  
+M2S CB  CG   SING N N 6  
+M2S CG  SD   SING N N 7  
+M2S SD  OE   DOUB N N 8  
+M2S SD  CE   SING N N 9  
+M2S C   O    DOUB N N 10 
+M2S C   OXT  SING N N 11 
+M2S N   H    SING N N 12 
+M2S N   H2   SING N N 13 
+M2S CA  HA   SING N N 14 
+M2S CG1 HG11 SING N N 15 
+M2S CG1 HG12 SING N N 16 
+M2S CG1 HG13 SING N N 17 
+M2S CG2 HG21 SING N N 18 
+M2S CG2 HG22 SING N N 19 
+M2S CG2 HG23 SING N N 20 
+M2S CG  HG2  SING N N 21 
+M2S CG  HG3  SING N N 22 
+M2S CE  HE1  SING N N 23 
+M2S CE  HE2  SING N N 24 
+M2S CE  HE3  SING N N 25 
+M2S OXT HXT  SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+M2S SMILES           ACDLabs              10.04 "O=S(C)CC(C)(C)C(N)C(=O)O"                                                              
+M2S SMILES_CANONICAL CACTVS               3.341 "C[S@@](=O)CC(C)(C)[C@H](N)C(O)=O"                                                      
+M2S SMILES           CACTVS               3.341 "C[S](=O)CC(C)(C)[CH](N)C(O)=O"                                                         
+M2S SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C[S@](=O)C)[C@@H](C(=O)O)N"                                                      
+M2S SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(CS(=O)C)C(C(=O)O)N"                                                              
+M2S InChI            InChI                1.03  "InChI=1S/C7H15NO3S/c1-7(2,4-12(3)11)5(8)6(9)10/h5H,4,8H2,1-3H3,(H,9,10)/t5-,12-/m1/s1" 
+M2S InChIKey         InChI                1.03  MOBZVMLNWJMVLB-DAZVOFDJSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+M2S "SYSTEMATIC NAME" ACDLabs              10.04 "3-{[(R)-methylsulfinyl]methyl}-L-valine"                       
+M2S "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3,3-dimethyl-4-[(R)-methylsulfinyl]butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+M2S "Create component"  2008-06-03 PDBJ 
+M2S "Modify descriptor" 2011-06-04 RCSB 
+# 

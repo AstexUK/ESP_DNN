@@ -1,0 +1,110 @@
+data_WO3
+# 
+_chem_comp.id                                    WO3 
+_chem_comp.name                                  "TRI-TUNGSTEN(VI) OXIDE COMPLEX" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "O13 W3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-01-31 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        759.512 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     WO3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+WO3 WA  WA  W 0 1 N N N 55.236 33.149 41.648 55.236 33.149 41.648 WA  WO3 1  
+WO3 WB  WB  W 0 1 N N N 58.278 34.664 41.630 58.278 34.664 41.630 WB  WO3 2  
+WO3 WC  WC  W 0 1 N N N 58.088 31.261 41.669 58.088 31.261 41.669 WC  WO3 3  
+WO3 O   O   O 0 1 N N N 57.178 33.037 42.749 57.178 33.037 42.749 O   WO3 4  
+WO3 O1A O1A O 0 1 N N N 54.056 33.302 40.377 54.056 33.302 40.377 O1A WO3 5  
+WO3 O2A O2A O 0 1 N N N 54.685 34.152 43.003 54.685 34.152 43.003 O2A WO3 6  
+WO3 O3A O3A O 0 1 N N N 56.307 34.670 40.885 56.307 34.670 40.885 O3A WO3 7  
+WO3 O4A O4A O 0 1 N N N 54.290 31.420 42.600 54.290 31.420 42.600 O4A WO3 8  
+WO3 O1B O1B O 0 1 N N N 58.984 35.614 40.375 58.984 35.614 40.375 O1B WO3 9  
+WO3 O2B O2B O 0 1 N N N 59.439 34.689 43.011 59.439 34.689 43.011 O2B WO3 10 
+WO3 O3B O3B O 0 1 N N N 59.059 32.939 40.869 59.059 32.939 40.869 O3B WO3 11 
+WO3 O4B O4B O 0 1 N N N 57.270 36.350 42.600 57.270 36.350 42.600 O4B WO3 12 
+WO3 O1C O1C O 0 1 N N N 58.545 30.156 40.354 58.545 30.156 40.354 O1C WO3 13 
+WO3 O2C O2C O 0 1 N N N 57.505 30.273 43.029 57.505 30.273 43.029 O2C WO3 14 
+WO3 O3C O3C O 0 1 N N N 56.196 31.445 40.888 56.196 31.445 40.888 O3C WO3 15 
+WO3 O4C O4C O 0 1 N N N 60.050 31.310 42.600 60.050 31.310 42.600 O4C WO3 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+WO3 WA O1A DOUB N N 1  
+WO3 WA O3A DOUB N N 2  
+WO3 WA O3C DOUB N N 3  
+WO3 WA O4A DOUB N N 4  
+WO3 WA O   DOUB N N 5  
+WO3 WA O2A DOUB N N 6  
+WO3 WB O1B DOUB N N 7  
+WO3 WB O3B DOUB N N 8  
+WO3 WB O3A DOUB N N 9  
+WO3 WB O4B DOUB N N 10 
+WO3 WB O   DOUB N N 11 
+WO3 WB O2B DOUB N N 12 
+WO3 WC O1C DOUB N N 13 
+WO3 WC O3B DOUB N N 14 
+WO3 WC O3C DOUB N N 15 
+WO3 WC O4C DOUB N N 16 
+WO3 WC O   DOUB N N 17 
+WO3 WC O2C DOUB N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+WO3 InChI            InChI                1.02b "InChI=1/13O.3W/rO13W3/c1-14(2,3)10-15(4,5,6)12-16(7,8,9,11-14)13(14)15" 
+WO3 InChIKey         InChI                1.02b BVEQLEREZCSAPP-DIHPPWBTAS                                                
+WO3 SMILES_CANONICAL CACTVS               3.341 "O=[W+3]12(=O)(=O)O[W-3]3(=O)(=O)(=O)O[W](=[O]13)(=O)(=O)(=O)O2"         
+WO3 SMILES           CACTVS               3.341 "O=[W+3]12(=O)(=O)O[W-3]3(=O)(=O)(=O)O[W](=[O]13)(=O)(=O)(=O)O2"         
+WO3 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "O=[W]=1=2(=O=[W]=3(=O1=[W](=O2)(=O3)(=O)(=O)=O)(=O)(=O)=O)(=O)=O"       
+WO3 SMILES           "OpenEye OEToolkits" 1.5.0 "O=[W]=1=2(=O=[W]=3(=O1=[W](=O2)(=O3)(=O)(=O)=O)(=O)(=O)=O)(=O)=O"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+WO3 "Create component" 2007-01-31 RCSB 
+# 

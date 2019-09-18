@@ -1,0 +1,134 @@
+data_DMO
+# 
+_chem_comp.id                                    DMO 
+_chem_comp.name                                  ALPHA-DIFLUOROMETHYLORNITHINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H12 F2 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        182.168 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DMO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DMO CAO  CAO  C 0 1 N N N -3.744 14.072 -2.844 -1.443 2.433  0.076  CAO  DMO 1  
+DMO CO   CO   C 0 1 N N N -2.987 15.292 -2.279 -2.661 3.275  0.463  CO   DMO 2  
+DMO NO   NO   N 0 1 N N N -3.500 13.657 -4.267 -1.830 1.607  -1.077 NO   DMO 3  
+DMO CBO  CBO  C 0 1 N N N -4.817 13.314 -2.060 -0.943 1.519  1.220  CBO  DMO 4  
+DMO CGO  CGO  C 0 1 N N N -4.816 13.213 -0.538 0.254  0.624  0.864  CGO  DMO 5  
+DMO CDO  CDO  C 0 1 N N N -5.691 12.055 -0.037 0.759  -0.212 2.045  CDO  DMO 6  
+DMO NEO  NEO  N 0 1 N N N -6.167 12.340 1.353  1.895  -1.053 1.687  NEO  DMO 7  
+DMO C    C    C 0 1 N N N ?      ?      ?      -0.287 3.327  -0.391 C    DMO 8  
+DMO O    O    O 0 1 N N N ?      ?      ?      0.171  3.346  -1.527 O    DMO 9  
+DMO OH   OH   O 0 1 N N N ?      ?      ?      0.219  4.108  0.600  OH   DMO 10 
+DMO F1   F1   F 0 1 N N N ?      ?      ?      -2.341 4.149  1.451  F1   DMO 11 
+DMO F2   F2   F 0 1 N N N ?      ?      ?      -3.073 4.022  -0.595 F2   DMO 12 
+DMO HCO1 1HCO H 0 0 N N N -2.942 16.391 -2.248 -3.511 2.676  0.802  HCO1 DMO 13 
+DMO HNO1 1HNO H 0 0 N N N -2.943 14.350 -4.725 -1.176 0.935  -1.401 HNO1 DMO 14 
+DMO HNO2 2HNO H 0 0 N N N -4.375 13.565 -4.743 -2.625 1.890  -1.599 HNO2 DMO 15 
+DMO HBO1 1HBO H 0 0 N N N -4.628 12.273 -2.359 -1.765 0.876  1.560  HBO1 DMO 16 
+DMO HBO2 2HBO H 0 0 N N N -5.765 13.809 -2.316 -0.685 2.148  2.084  HBO2 DMO 17 
+DMO HGO1 1HGO H 0 0 N N N -5.227 14.150 -0.134 1.079  1.231  0.472  HGO1 DMO 18 
+DMO HGO2 2HGO H 0 0 N N N -3.783 13.046 -0.198 -0.033 -0.072 0.068  HGO2 DMO 19 
+DMO HDO1 1HDO H 0 0 N N N -5.098 11.128 -0.034 -0.055 -0.859 2.391  HDO1 DMO 20 
+DMO HDO2 2HDO H 0 0 N N N -6.559 11.940 -0.703 1.033  0.440  2.881  HDO2 DMO 21 
+DMO HEO1 1HEO H 0 0 N N N -6.669 13.205 1.363  1.817  -1.632 0.877  HEO1 DMO 22 
+DMO HEO2 2HEO H 0 0 N N N -5.381 12.404 1.968  2.620  -1.177 2.361  HEO2 DMO 23 
+DMO HXT  HXT  H 0 1 N N N 0.240  -0.901 0.182  0.971  4.683  0.343  HXT  DMO 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DMO CAO CO   SING N N 1  
+DMO CAO NO   SING N N 2  
+DMO CAO CBO  SING N N 3  
+DMO CAO C    SING N N 4  
+DMO CO  F1   SING N N 5  
+DMO CO  F2   SING N N 6  
+DMO CO  HCO1 SING N N 7  
+DMO NO  HNO1 SING N N 8  
+DMO NO  HNO2 SING N N 9  
+DMO CBO CGO  SING N N 10 
+DMO CBO HBO1 SING N N 11 
+DMO CBO HBO2 SING N N 12 
+DMO CGO CDO  SING N N 13 
+DMO CGO HGO1 SING N N 14 
+DMO CGO HGO2 SING N N 15 
+DMO CDO NEO  SING N N 16 
+DMO CDO HDO1 SING N N 17 
+DMO CDO HDO2 SING N N 18 
+DMO NEO HEO1 SING N N 19 
+DMO NEO HEO2 SING N N 20 
+DMO C   O    DOUB N N 21 
+DMO C   OH   SING N N 22 
+DMO OH  HXT  SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DMO SMILES           ACDLabs              10.04 "FC(F)C(N)(C(=O)O)CCCN"                                                               
+DMO SMILES_CANONICAL CACTVS               3.341 "NCCC[C@@](N)(C(F)F)C(O)=O"                                                           
+DMO SMILES           CACTVS               3.341 "NCCC[C](N)(C(F)F)C(O)=O"                                                             
+DMO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CC(C(F)F)(C(=O)O)N)CN"                                                             
+DMO SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC(C(F)F)(C(=O)O)N)CN"                                                             
+DMO InChI            InChI                1.03  "InChI=1S/C6H12F2N2O2/c7-4(8)6(10,5(11)12)2-1-3-9/h4H,1-3,9-10H2,(H,11,12)/t6-/m1/s1" 
+DMO InChIKey         InChI                1.03  VLCYCQAOQCDTCN-ZCFIWIBFSA-N                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DMO "SYSTEMATIC NAME" ACDLabs              10.04 "2-(difluoromethyl)-L-ornithine"               
+DMO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2,5-diamino-2-(difluoromethyl)pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DMO "Create component"  1999-07-08 RCSB 
+DMO "Modify descriptor" 2011-06-04 RCSB 
+# 

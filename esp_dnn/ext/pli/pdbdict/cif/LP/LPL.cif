@@ -1,0 +1,174 @@
+data_LPL
+# 
+_chem_comp.id                                    LPL 
+_chem_comp.name                                  LEU-HYDROXYETHYLENE-LEU 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H27 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        245.358 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     LPL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SMR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LPL N    N    N 0 1 N N N 44.803 88.662 -5.051 -1.809 -0.034 1.756  N    LPL 1  
+LPL CA   CA   C 0 1 N N S 45.618 89.859 -5.216 -0.372 0.251  1.860  CA   LPL 2  
+LPL CB   CB   C 0 1 N N N 44.923 91.136 -4.839 0.197  -0.441 3.099  CB   LPL 3  
+LPL CG   CG   C 0 1 N N N 43.561 91.329 -5.613 -0.517 0.080  4.348  CG   LPL 4  
+LPL CD1  CD1  C 0 1 N N N 42.860 92.545 -4.914 0.052  -0.611 5.588  CD1  LPL 5  
+LPL CD2  CD2  C 0 1 N N N 43.796 91.753 -7.031 -0.304 1.590  4.464  CD2  LPL 6  
+LPL CH   CH   C 0 1 N N S 47.035 89.710 -4.765 0.342  -0.270 0.611  CH   LPL 7  
+LPL OH   OH   O 0 1 N N N 47.178 89.791 -3.339 0.143  -1.681 0.503  OH   LPL 8  
+LPL CM   CM   C 0 1 N N N 47.642 88.377 -5.230 -0.227 0.421  -0.628 CM   LPL 9  
+LPL CA1  CA1  C 0 1 N N R 49.134 88.373 -5.060 0.486  -0.099 -1.876 CA1  LPL 10 
+LPL CB1  CB1  C 0 1 N N N 49.687 86.964 -4.853 -0.082 0.592  -3.116 CB1  LPL 11 
+LPL CG1  CG1  C 0 1 N N N 51.212 86.885 -4.707 -1.542 0.175  -3.308 CG1  LPL 12 
+LPL CD3  CD3  C 0 1 N N N 51.751 87.336 -3.328 -2.137 0.933  -4.496 CD3  LPL 13 
+LPL CD4  CD4  C 0 1 N N N 51.653 85.404 -4.860 -1.611 -1.329 -3.577 CD4  LPL 14 
+LPL C    C    C 0 1 N N N 49.837 88.914 -6.298 1.961  0.193  -1.771 C    LPL 15 
+LPL O    O    O 0 1 N N N 49.600 88.574 -7.448 2.338  1.212  -1.243 O    LPL 16 
+LPL OXT  OXT  O 0 1 N Y N 50.725 89.842 -6.123 2.855  -0.678 -2.262 OXT  LPL 17 
+LPL H    1HN  H 0 1 N N N 45.275 87.794 -5.307 -2.221 0.230  2.638  H    LPL 18 
+LPL H2   2HN  H 0 1 N Y N 43.925 88.754 -5.562 -1.901 -1.036 1.682  H2   LPL 19 
+LPL HA   HA   H 0 1 N N N 45.740 89.976 -6.318 -0.220 1.327  1.942  HA   LPL 20 
+LPL HB2  1HB  H 0 1 N N N 44.771 91.201 -3.736 1.263  -0.229 3.176  HB2  LPL 21 
+LPL HB3  2HB  H 0 1 N N N 45.593 92.015 -4.979 0.045  -1.517 3.017  HB3  LPL 22 
+LPL HG   HG   H 0 1 N N N 42.979 90.377 -5.602 -1.583 -0.131 4.271  HG   LPL 23 
+LPL HD11 1HD1 H 0 0 N N N 41.897 92.681 -5.460 -0.456 -0.240 6.477  HD11 LPL 24 
+LPL HD12 2HD1 H 0 0 N N N 42.738 92.422 -3.812 -0.099 -1.688 5.505  HD12 LPL 25 
+LPL HD13 3HD1 H 0 0 N N N 43.489 93.464 -4.873 1.118  -0.400 5.665  HD13 LPL 26 
+LPL HD21 1HD2 H 0 0 N N N 42.833 91.889 -7.577 0.762  1.802  4.541  HD21 LPL 27 
+LPL HD22 2HD2 H 0 0 N N N 44.430 92.668 -7.084 -0.710 2.084  3.581  HD22 LPL 28 
+LPL HD23 3HD2 H 0 0 N N N 44.472 91.044 -7.563 -0.813 1.962  5.354  HD23 LPL 29 
+LPL HH   HH   H 0 1 N N N 47.579 90.563 -5.232 1.408  -0.058 0.688  HH   LPL 30 
+LPL HO   HO   H 0 1 N N N 48.078 89.696 -3.052 -0.811 -1.824 0.437  HO   LPL 31 
+LPL HM1  1HM  H 0 1 N N N 47.168 87.508 -4.715 -1.294 0.210  -0.705 HM1  LPL 32 
+LPL HM2  2HM  H 0 1 N N N 47.347 88.135 -6.278 -0.075 1.498  -0.545 HM2  LPL 33 
+LPL HA1  HA1  H 0 1 N N N 49.326 89.011 -4.166 0.335  -1.175 -1.959 HA1  LPL 34 
+LPL HB11 1HB1 H 0 0 N N N 49.190 86.478 -3.980 -0.027 1.673  -2.987 HB11 LPL 35 
+LPL HB12 2HB1 H 0 0 N N N 49.342 86.290 -5.671 0.496  0.302  -3.993 HB12 LPL 36 
+LPL HG1  HG1  H 0 1 N N N 51.617 87.569 -5.488 -2.108 0.410  -2.407 HG1  LPL 37 
+LPL HD31 1HD3 H 0 0 N N N 52.859 87.278 -3.221 -3.177 0.636  -4.633 HD31 LPL 38 
+LPL HD32 2HD3 H 0 0 N N N 51.391 88.363 -3.088 -2.088 2.005  -4.305 HD32 LPL 39 
+LPL HD33 3HD3 H 0 0 N N N 51.253 86.763 -2.511 -1.571 0.699  -5.398 HD33 LPL 40 
+LPL HD41 1HD4 H 0 0 N N N 52.761 85.346 -4.753 -0.960 -1.578 -4.415 HD41 LPL 41 
+LPL HD42 2HD4 H 0 0 N N N 51.121 84.726 -4.152 -1.286 -1.871 -2.689 HD42 LPL 42 
+LPL HD43 3HD4 H 0 0 N N N 51.291 84.948 -5.811 -2.637 -1.608 -3.818 HD43 LPL 43 
+LPL HXT  HXT  H 0 1 N Y N 51.163 90.179 -6.895 3.801  -0.524 -2.135 HXT  LPL 44 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LPL N   CA   SING N N 1  
+LPL N   H    SING N N 2  
+LPL N   H2   SING N N 3  
+LPL CA  CB   SING N N 4  
+LPL CA  CH   SING N N 5  
+LPL CA  HA   SING N N 6  
+LPL CB  CG   SING N N 7  
+LPL CB  HB2  SING N N 8  
+LPL CB  HB3  SING N N 9  
+LPL CG  CD1  SING N N 10 
+LPL CG  CD2  SING N N 11 
+LPL CG  HG   SING N N 12 
+LPL CD1 HD11 SING N N 13 
+LPL CD1 HD12 SING N N 14 
+LPL CD1 HD13 SING N N 15 
+LPL CD2 HD21 SING N N 16 
+LPL CD2 HD22 SING N N 17 
+LPL CD2 HD23 SING N N 18 
+LPL CH  OH   SING N N 19 
+LPL CH  CM   SING N N 20 
+LPL CH  HH   SING N N 21 
+LPL OH  HO   SING N N 22 
+LPL CM  CA1  SING N N 23 
+LPL CM  HM1  SING N N 24 
+LPL CM  HM2  SING N N 25 
+LPL CA1 CB1  SING N N 26 
+LPL CA1 C    SING N N 27 
+LPL CA1 HA1  SING N N 28 
+LPL CB1 CG1  SING N N 29 
+LPL CB1 HB11 SING N N 30 
+LPL CB1 HB12 SING N N 31 
+LPL CG1 CD3  SING N N 32 
+LPL CG1 CD4  SING N N 33 
+LPL CG1 HG1  SING N N 34 
+LPL CD3 HD31 SING N N 35 
+LPL CD3 HD32 SING N N 36 
+LPL CD3 HD33 SING N N 37 
+LPL CD4 HD41 SING N N 38 
+LPL CD4 HD42 SING N N 39 
+LPL CD4 HD43 SING N N 40 
+LPL C   O    DOUB N N 41 
+LPL C   OXT  SING N N 42 
+LPL OXT HXT  SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LPL SMILES           ACDLabs              10.04 "O=C(O)C(CC(C)C)CC(O)C(N)CC(C)C"                                                                                      
+LPL SMILES_CANONICAL CACTVS               3.341 "CC(C)C[C@H](N)[C@@H](O)C[C@@H](CC(C)C)C(O)=O"                                                                        
+LPL SMILES           CACTVS               3.341 "CC(C)C[CH](N)[CH](O)C[CH](CC(C)C)C(O)=O"                                                                             
+LPL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)C[C@H](C[C@@H]([C@H](CC(C)C)N)O)C(=O)O"                                                                         
+LPL SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(CC(C(CC(C)C)N)O)C(=O)O"                                                                                      
+LPL InChI            InChI                1.03  "InChI=1S/C13H27NO3/c1-8(2)5-10(13(16)17)7-12(15)11(14)6-9(3)4/h8-12,15H,5-7,14H2,1-4H3,(H,16,17)/t10-,11+,12+/m1/s1" 
+LPL InChIKey         InChI                1.03  VQUMYZBNWKMCTB-WOPDTQHZSA-N                                                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LPL "SYSTEMATIC NAME" ACDLabs              10.04 "(2R,4S,5S)-5-amino-4-hydroxy-7-methyl-2-(2-methylpropyl)octanoic acid" 
+LPL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,4S,5S)-5-amino-4-hydroxy-7-methyl-2-(2-methylpropyl)octanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LPL "Create component"  1999-07-08 RCSB 
+LPL "Modify descriptor" 2011-06-04 RCSB 
+# 

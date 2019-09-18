@@ -1,0 +1,162 @@
+data_2SK
+# 
+_chem_comp.id                                    2SK 
+_chem_comp.name                                  "(1R,2R,3R,4S,5R)-4-(BENZYLAMINO)-5-(METHYLTHIO)CYCLOPENTANE-1,2,3-TRIOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H19 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-01-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        269.360 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2SK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2F7P 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2SK C5  C5  C 0 1 N N S 31.302 66.195 9.063  -0.671 -0.035 -0.609 C5  2SK 1  
+2SK N5  N5  N 0 1 N N N 31.104 64.868 9.661  0.644  0.079  0.035  N5  2SK 2  
+2SK C4  C4  C 0 1 N N R 32.786 66.578 9.079  -1.131 -1.514 -0.645 C4  2SK 3  
+2SK O4  O4  O 0 1 N N N 33.632 65.503 9.510  -0.767 -2.190 0.560  O4  2SK 4  
+2SK C3  C3  C 0 1 N N R 33.152 67.077 7.694  -2.671 -1.391 -0.762 C3  2SK 5  
+2SK O3  O3  O 0 1 N N N 33.786 66.082 6.907  -3.308 -2.576 -0.279 O3  2SK 6  
+2SK C2  C2  C 0 1 N N R 31.785 67.373 7.069  -3.023 -0.186 0.134  C2  2SK 7  
+2SK O2  O2  O 0 1 N N N 31.725 67.597 5.669  -3.408 -0.637 1.434  O2  2SK 8  
+2SK C1  C1  C 0 1 N N R 30.932 66.231 7.590  -1.752 0.677  0.231  C1  2SK 9  
+2SK S6  S6  S 0 1 N N N 29.172 66.369 7.385  -2.072 2.331  -0.441 S6  2SK 10 
+2SK C7  C7  C 0 1 N N N 28.530 68.032 7.624  -3.246 2.951  0.795  C7  2SK 11 
+2SK C8  C8  C 0 1 N N N 29.768 64.268 9.768  1.649  -0.138 -1.014 C8  2SK 12 
+2SK C9  C9  C 0 1 Y N N 28.978 64.582 11.056 3.029  -0.035 -0.417 C9  2SK 13 
+2SK C14 C14 C 0 1 Y N N 28.224 65.746 11.099 3.650  -1.161 0.088  C14 2SK 14 
+2SK C13 C13 C 0 1 Y N N 27.515 66.023 12.282 4.916  -1.066 0.635  C13 2SK 15 
+2SK C10 C10 C 0 1 Y N N 29.013 63.724 12.165 3.676  1.186  -0.381 C10 2SK 16 
+2SK C11 C11 C 0 1 Y N N 28.312 64.004 13.353 4.940  1.282  0.170  C11 2SK 17 
+2SK C12 C12 C 0 1 Y N N 27.540 65.188 13.406 5.561  0.156  0.677  C12 2SK 18 
+2SK H5  H5  H 0 1 N N N 30.669 66.871 9.656  -0.638 0.379  -1.617 H5  2SK 19 
+2SK HN5 HN5 H 0 1 N N N 31.639 64.236 9.100  0.739  1.039  0.333  HN5 2SK 20 
+2SK H4  H4  H 0 1 N N N 32.949 67.375 9.819  -0.717 -2.026 -1.513 H4  2SK 21 
+2SK HO4 HO4 H 0 1 N N N 33.819 64.932 8.774  -1.150 -3.076 0.511  HO4 2SK 22 
+2SK H3  H3  H 0 1 N N N 33.849 67.927 7.745  -2.961 -1.197 -1.794 H3  2SK 23 
+2SK HO3 HO3 H 0 1 N N N 33.928 66.415 6.029  -4.261 -2.418 -0.321 HO3 2SK 24 
+2SK H2  H2  H 0 1 N N N 31.421 68.368 7.366  -3.832 0.390  -0.316 H2  2SK 25 
+2SK HO2 HO2 H 0 1 N N N 31.712 68.531 5.498  -4.207 -1.170 1.320  HO2 2SK 26 
+2SK H1  H1  H 0 1 N N N 31.141 65.319 7.012  -1.429 0.751  1.269  H1  2SK 27 
+2SK H71 1H7 H 0 1 N N N 28.399 68.224 8.699  -3.548 3.965  0.533  H71 2SK 28 
+2SK H72 2H7 H 0 1 N N N 29.238 68.762 7.205  -4.124 2.305  0.818  H72 2SK 29 
+2SK H73 3H7 H 0 1 N N N 27.560 68.127 7.114  -2.773 2.955  1.777  H73 2SK 30 
+2SK H81 1H8 H 0 1 N N N 29.174 64.642 8.921  1.514  -1.130 -1.446 H81 2SK 31 
+2SK H82 2H8 H 0 1 N N N 29.931 63.180 9.777  1.531  0.616  -1.792 H82 2SK 32 
+2SK H14 H14 H 0 1 N N N 28.183 66.416 10.253 3.146  -2.116 0.056  H14 2SK 33 
+2SK H13 H13 H 0 1 N N N 26.922 66.924 12.326 5.400  -1.946 1.031  H13 2SK 34 
+2SK H10 H10 H 0 1 N N N 29.598 62.818 12.105 3.191  2.067  -0.777 H10 2SK 35 
+2SK H11 H11 H 0 1 N N N 28.362 63.335 14.199 5.444  2.237  0.202  H11 2SK 36 
+2SK H12 H12 H 0 1 N N N 26.982 65.443 14.295 6.549  0.230  1.105  H12 2SK 37 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2SK C5  N5  SING N N 1  
+2SK C5  C4  SING N N 2  
+2SK C5  C1  SING N N 3  
+2SK C5  H5  SING N N 4  
+2SK N5  C8  SING N N 5  
+2SK N5  HN5 SING N N 6  
+2SK C4  O4  SING N N 7  
+2SK C4  C3  SING N N 8  
+2SK C4  H4  SING N N 9  
+2SK O4  HO4 SING N N 10 
+2SK C3  O3  SING N N 11 
+2SK C3  C2  SING N N 12 
+2SK C3  H3  SING N N 13 
+2SK O3  HO3 SING N N 14 
+2SK C2  O2  SING N N 15 
+2SK C2  C1  SING N N 16 
+2SK C2  H2  SING N N 17 
+2SK O2  HO2 SING N N 18 
+2SK C1  S6  SING N N 19 
+2SK C1  H1  SING N N 20 
+2SK S6  C7  SING N N 21 
+2SK C7  H71 SING N N 22 
+2SK C7  H72 SING N N 23 
+2SK C7  H73 SING N N 24 
+2SK C8  C9  SING N N 25 
+2SK C8  H81 SING N N 26 
+2SK C8  H82 SING N N 27 
+2SK C9  C14 DOUB Y N 28 
+2SK C9  C10 SING Y N 29 
+2SK C14 C13 SING Y N 30 
+2SK C14 H14 SING N N 31 
+2SK C13 C12 DOUB Y N 32 
+2SK C13 H13 SING N N 33 
+2SK C10 C11 DOUB Y N 34 
+2SK C10 H10 SING N N 35 
+2SK C11 C12 SING Y N 36 
+2SK C11 H11 SING N N 37 
+2SK C12 H12 SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2SK SMILES           ACDLabs              10.04 "OC2C(O)C(NCc1ccccc1)C(SC)C2O"                                                                                        
+2SK SMILES_CANONICAL CACTVS               3.341 "CS[C@H]1[C@H](O)[C@H](O)[C@H](O)[C@@H]1NCc2ccccc2"                                                                   
+2SK SMILES           CACTVS               3.341 "CS[CH]1[CH](O)[CH](O)[CH](O)[CH]1NCc2ccccc2"                                                                         
+2SK SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CS[C@@H]1[C@H]([C@H]([C@H]([C@H]1O)O)O)NCc2ccccc2"                                                                   
+2SK SMILES           "OpenEye OEToolkits" 1.5.0 "CSC1C(C(C(C1O)O)O)NCc2ccccc2"                                                                                        
+2SK InChI            InChI                1.03  "InChI=1S/C13H19NO3S/c1-18-13-9(10(15)11(16)12(13)17)14-7-8-5-3-2-4-6-8/h2-6,9-17H,7H2,1H3/t9-,10+,11+,12+,13+/m0/s1" 
+2SK InChIKey         InChI                1.03  CHTYSDQNKZIWBZ-ZOLYEBIHSA-N                                                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2SK "SYSTEMATIC NAME" ACDLabs              10.04 "(1R,2R,3R,4S,5R)-4-(benzylamino)-5-(methylsulfanyl)cyclopentane-1,2,3-triol"     
+2SK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1R,2R,3R,4R,5S)-4-methylsulfanyl-5-(phenylmethylamino)cyclopentane-1,2,3-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2SK "Create component"  2006-01-24 RCSB 
+2SK "Modify descriptor" 2011-06-04 RCSB 
+# 

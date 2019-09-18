@@ -1,0 +1,150 @@
+data_IBC
+# 
+_chem_comp.id                                    IBC 
+_chem_comp.name                                  "3-(3-HYDROXY-7,8-DIHYDRO-6H-CYCLOHEPTA[D]ISOXAZOL-4-YL)-L-ALANINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H14 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "2-AMINO-3-(3-HYDROXY-7,8-DIHYDRO-6H-CYCLOHEPTA[D]-4-ISOXAZOLYL)PROPIONIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-12-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        238.240 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IBC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1WVJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IBC O4   O4   O 0 1 N N N 14.528 6.105  25.695 -1.267 -0.650 3.921  O4   IBC 1  
+IBC C11  C11  C 0 1 N N N 13.386 6.515  25.334 -0.047 -0.245 3.535  C11  IBC 2  
+IBC O3   O3   O 0 1 N N N 12.364 6.642  26.107 0.887  -0.336 4.294  O3   IBC 3  
+IBC C10  C10  C 0 1 N N S 13.152 6.872  23.824 0.155  0.322  2.154  C10  IBC 4  
+IBC N2   N2   N 0 1 N N N 11.685 7.174  23.542 1.252  1.299  2.183  N2   IBC 5  
+IBC C9   C9   C 0 1 N N N 14.090 8.069  23.463 0.503  -0.807 1.183  C9   IBC 6  
+IBC C4   C4   C 0 1 N N N 13.886 8.634  22.052 0.706  -0.239 -0.197 C4   IBC 7  
+IBC C1   C1   C 0 1 Y N N 14.152 7.771  20.888 -0.409 -0.120 -1.146 C1   IBC 8  
+IBC C5   C5   C 0 1 N N N 13.398 9.906  21.965 1.908  0.171  -0.608 C5   IBC 9  
+IBC C6   C6   C 0 1 N N N 13.058 10.731 20.727 2.004  0.882  -1.924 C6   IBC 10 
+IBC C7   C7   C 0 1 N N N 12.143 10.028 19.713 2.021  -0.025 -3.160 C7   IBC 11 
+IBC C8   C8   C 0 1 N N N 12.792 8.890  18.883 0.946  -1.109 -3.009 C8   IBC 12 
+IBC C3   C3   C 0 1 Y N N 13.683 7.916  19.590 -0.305 -0.508 -2.441 C3   IBC 13 
+IBC O1   O1   O 0 1 Y N N 14.126 6.932  18.788 -1.481 -0.246 -3.007 O1   IBC 14 
+IBC N1   N1   N 0 1 Y N N 14.969 6.053  19.575 -2.277 0.243  -2.230 N1   IBC 15 
+IBC C2   C2   C 0 1 Y N N 14.991 6.539  20.835 -1.768 0.391  -1.028 C2   IBC 16 
+IBC O2   O2   O 0 1 N N N 15.635 6.008  21.788 -2.373 0.900  0.073  O2   IBC 17 
+IBC HO4  HO4  H 0 1 N N N 15.282 6.011  25.125 -1.397 -1.015 4.807  HO4  IBC 18 
+IBC H10  H10  H 0 1 N N N 13.405 6.000  23.177 -0.760 0.814  1.825  H10  IBC 19 
+IBC HN21 1HN2 H 0 0 N N N 11.330 7.905  24.158 2.074  0.802  2.491  HN21 IBC 20 
+IBC HN22 2HN2 H 0 0 N N N 11.533 7.406  22.561 1.421  1.574  1.227  HN22 IBC 21 
+IBC H91  1H9  H 0 1 N N N 15.157 7.786  23.617 -0.310 -1.531 1.162  H91  IBC 22 
+IBC H92  2H9  H 0 1 N N N 13.995 8.879  24.223 1.419  -1.299 1.512  H92  IBC 23 
+IBC H5   H5   H 0 1 N N N 13.267 10.303 22.986 2.789  -0.003 -0.008 H5   IBC 24 
+IBC H61  1H6  H 0 1 N N N 13.992 11.079 20.227 2.915  1.480  -1.926 H61  IBC 25 
+IBC H62  2H6  H 0 1 N N N 12.621 11.712 21.026 1.155  1.561  -2.010 H62  IBC 26 
+IBC H71  1H7  H 0 1 N N N 11.687 10.782 19.029 3.000  -0.495 -3.253 H71  IBC 27 
+IBC H72  2H7  H 0 1 N N N 11.231 9.647  20.228 1.816  0.568  -4.051 H72  IBC 28 
+IBC H81  1H8  H 0 1 N N N 13.349 9.337  18.026 1.309  -1.889 -2.340 H81  IBC 29 
+IBC H82  2H8  H 0 1 N N N 11.991 8.328  18.348 0.729  -1.543 -3.986 H82  IBC 30 
+IBC HO2  HO2  H 0 1 N N N 16.169 5.223  21.754 -2.794 0.159  0.529  HO2  IBC 31 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IBC O4  C11  SING N N 1  
+IBC O4  HO4  SING N N 2  
+IBC C11 O3   DOUB N N 3  
+IBC C11 C10  SING N N 4  
+IBC C10 N2   SING N N 5  
+IBC C10 C9   SING N N 6  
+IBC C10 H10  SING N N 7  
+IBC N2  HN21 SING N N 8  
+IBC N2  HN22 SING N N 9  
+IBC C9  C4   SING N N 10 
+IBC C9  H91  SING N N 11 
+IBC C9  H92  SING N N 12 
+IBC C4  C1   SING N N 13 
+IBC C4  C5   DOUB N N 14 
+IBC C1  C3   DOUB Y N 15 
+IBC C1  C2   SING Y N 16 
+IBC C5  C6   SING N N 17 
+IBC C5  H5   SING N N 18 
+IBC C6  C7   SING N N 19 
+IBC C6  H61  SING N N 20 
+IBC C6  H62  SING N N 21 
+IBC C7  C8   SING N N 22 
+IBC C7  H71  SING N N 23 
+IBC C7  H72  SING N N 24 
+IBC C8  C3   SING N N 25 
+IBC C8  H81  SING N N 26 
+IBC C8  H82  SING N N 27 
+IBC C3  O1   SING Y N 28 
+IBC O1  N1   SING Y N 29 
+IBC N1  C2   DOUB Y N 30 
+IBC C2  O2   SING N N 31 
+IBC O2  HO2  SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IBC SMILES           ACDLabs              10.04 "O=C(O)C(N)CC2=CCCCc1onc(O)c12"                                                                                      
+IBC SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC1=CCCCc2onc(O)c12)C(O)=O"                                                                                 
+IBC SMILES           CACTVS               3.341 "N[CH](CC1=CCCCc2onc(O)c12)C(O)=O"                                                                                   
+IBC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CC=C(c2c(onc2O)C1)C[C@@H](C(=O)O)N"                                                                               
+IBC SMILES           "OpenEye OEToolkits" 1.5.0 "C1CC=C(c2c(onc2O)C1)CC(C(=O)O)N"                                                                                    
+IBC InChI            InChI                1.03  "InChI=1S/C11H14N2O4/c12-7(11(15)16)5-6-3-1-2-4-8-9(6)10(14)13-17-8/h3,7H,1-2,4-5,12H2,(H,13,14)(H,15,16)/t7-/m0/s1" 
+IBC InChIKey         InChI                1.03  HJEPOXZLPHUVFE-ZETCQYMHSA-N                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IBC "SYSTEMATIC NAME" ACDLabs              10.04 "3-(3-hydroxy-7,8-dihydro-6H-cyclohepta[d]isoxazol-4-yl)-L-alanine"                     
+IBC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(3-hydroxy-7,8-dihydro-6H-cyclohepta[d][1,2]oxazol-4-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IBC "Create component"  2004-12-16 RCSB 
+IBC "Modify descriptor" 2011-06-04 RCSB 
+# 

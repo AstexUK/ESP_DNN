@@ -1,0 +1,128 @@
+data_33W
+# 
+_chem_comp.id                                    33W 
+_chem_comp.name                                  "3-(5-bromothiophen-2-yl)-L-alanine" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H8 Br N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-06-13 
+_chem_comp.pdbx_modified_date                    2014-11-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        250.113 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     33W 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4TQF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+33W C4  C1  C  0 1 Y N N 6.764  48.379 30.783 -1.257 -1.405 0.423  C4  33W 1  
+33W C5  C2  C  0 1 Y N N 7.159  47.058 30.480 0.103  -1.417 0.683  C5  33W 2  
+33W N   N1  N  0 1 N N N 8.447  44.382 31.790 2.845  -1.437 -0.948 N   33W 3  
+33W CA  C3  C  0 1 N N S 9.646  44.899 31.101 2.921  -0.062 -0.436 CA  33W 4  
+33W CB  C4  C  0 1 N N N 9.221  45.701 29.835 2.159  0.032  0.887  CB  33W 5  
+33W C1  C5  C  0 1 Y N N 8.493  46.942 30.177 0.694  -0.222 0.642  C1  33W 6  
+33W C3  C6  C  0 1 Y N N 7.797  49.234 30.705 -1.769 -0.199 0.166  C3  33W 7  
+33W S2  S1  S  0 1 Y N N 9.275  48.478 30.259 -0.498 1.013  0.257  S2  33W 8  
+33W BR  BR1 BR 0 0 N N N 7.763  51.079 31.041 -3.584 0.152  -0.233 BR  33W 9  
+33W C   C7  C  0 1 N N N 10.555 45.842 31.989 4.364  0.311  -0.212 C   33W 10 
+33W O   O1  O  0 1 N N N 11.605 46.308 31.485 5.201  -0.553 -0.099 O   33W 11 
+33W OXT O2  O  0 1 N N N 10.152 46.055 33.155 4.719  1.604  -0.138 OXT 33W 12 
+33W H4  H1  H  0 1 N N N 5.756  48.666 31.045 -1.856 -2.303 0.423  H4  33W 13 
+33W H5  H2  H  0 1 N N N 6.478  46.220 30.486 0.645  -2.325 0.902  H5  33W 14 
+33W H   H3  H  0 1 N N N 8.724  43.868 32.602 3.251  -2.089 -0.294 H   33W 15 
+33W H2  H4  H  0 1 N N N 7.864  45.147 32.063 1.893  -1.689 -1.168 H2  33W 16 
+33W HA  H6  H  0 1 N N N 10.265 44.050 30.773 2.478  0.621  -1.160 HA  33W 17 
+33W HB3 H7  H  0 1 N N N 8.569  45.067 29.217 2.545  -0.713 1.583  HB3 33W 18 
+33W HB2 H8  H  0 1 N N N 10.123 45.966 29.264 2.289  1.027  1.312  HB2 33W 19 
+33W HXT H9  H  0 1 N N N 10.765 46.626 33.603 5.656  1.794  0.007  HXT 33W 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+33W CB  C1  SING N N 1  
+33W CB  CA  SING N N 2  
+33W C1  S2  SING Y N 3  
+33W C1  C5  DOUB Y N 4  
+33W S2  C3  SING Y N 5  
+33W C5  C4  SING Y N 6  
+33W C3  C4  DOUB Y N 7  
+33W C3  BR  SING N N 8  
+33W CA  N   SING N N 9  
+33W CA  C   SING N N 10 
+33W O   C   DOUB N N 11 
+33W C   OXT SING N N 12 
+33W C4  H4  SING N N 13 
+33W C5  H5  SING N N 14 
+33W N   H   SING N N 15 
+33W N   H2  SING N N 16 
+33W CA  HA  SING N N 17 
+33W CB  HB3 SING N N 18 
+33W CB  HB2 SING N N 19 
+33W OXT HXT SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+33W SMILES           ACDLabs              12.01 "Brc1sc(cc1)CC(N)C(=O)O"                                                              
+33W InChI            InChI                1.03  "InChI=1S/C7H8BrNO2S/c8-6-2-1-4(12-6)3-5(9)7(10)11/h1-2,5H,3,9H2,(H,10,11)/t5-/m0/s1" 
+33W InChIKey         InChI                1.03  LKORPMMOJAJYLC-YFKPBYRVSA-N                                                           
+33W SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1sc(Br)cc1)C(O)=O"                                                         
+33W SMILES           CACTVS               3.385 "N[CH](Cc1sc(Br)cc1)C(O)=O"                                                           
+33W SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1cc(sc1C[C@@H](C(=O)O)N)Br"                                                         
+33W SMILES           "OpenEye OEToolkits" 1.9.2 "c1cc(sc1CC(C(=O)O)N)Br"                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+33W "SYSTEMATIC NAME" ACDLabs              12.01 "3-(5-bromothiophen-2-yl)-L-alanine"                      
+33W "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "(2S)-2-azanyl-3-(5-bromanylthiophen-2-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+33W "Create component"  2014-06-13 RCSB 
+33W "Modify descriptor" 2014-09-05 RCSB 
+33W "Initial release"   2014-11-12 RCSB 
+# 

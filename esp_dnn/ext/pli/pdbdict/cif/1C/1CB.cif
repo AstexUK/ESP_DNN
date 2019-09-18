@@ -1,0 +1,121 @@
+data_1CB
+# 
+_chem_comp.id                                    1CB 
+_chem_comp.name                                  CYCLOPENTANAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H11 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-09-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        85.148 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1CB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2AS6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1CB C2   C2   C 0 1 N N N -17.961 -2.738 -5.481 -0.067 -1.225 -0.258 C2   1CB 1  
+1CB C1   C1   C 0 1 N N N -16.638 -2.985 -6.238 0.792  0.034  -0.470 C1   1CB 2  
+1CB C4   C4   C 0 1 N N N -15.557 -3.179 -5.140 -0.046 1.228  0.031  C4   1CB 3  
+1CB C5   C5   C 0 1 N N N -16.205 -2.791 -3.794 -1.510 0.732  -0.065 C5   1CB 4  
+1CB C3   C3   C 0 1 N N N -17.555 -2.154 -4.120 -1.397 -0.752 0.365  C3   1CB 5  
+1CB N2   N2   N 0 1 N N N -16.712 -4.114 -7.199 2.036  -0.069 0.305  N2   1CB 6  
+1CB H21  1H2  H 0 1 N N N -18.623 -2.055 -6.034 -0.255 -1.714 -1.213 H21  1CB 7  
+1CB H22  2H2  H 0 1 N N N -18.518 -3.678 -5.352 0.439  -1.912 0.421  H22  1CB 8  
+1CB H1   H1   H 0 1 N N N -16.390 -2.131 -6.885 1.022  0.155  -1.529 H1   1CB 9  
+1CB H41  1H4  H 0 1 N N N -14.675 -2.554 -5.344 0.210  1.467  1.063  H41  1CB 10 
+1CB H42  2H4  H 0 1 N N N -15.223 -4.227 -5.115 0.106  2.096  -0.611 H42  1CB 11 
+1CB H51  1H5  H 0 1 N N N -15.565 -2.091 -3.237 -1.878 0.811  -1.088 H51  1CB 12 
+1CB H52  2H5  H 0 1 N N N -16.344 -3.683 -3.165 -2.151 1.285  0.622  H52  1CB 13 
+1CB H31  1H3  H 0 1 N N N -18.305 -2.368 -3.344 -2.231 -1.329 -0.034 H31  1CB 14 
+1CB H32  2H3  H 0 1 N N N -17.469 -1.059 -4.173 -1.360 -0.832 1.451  H32  1CB 15 
+1CB HN21 1HN2 H 0 0 N N N -15.913 -4.704 -7.082 2.557  0.777  0.130  HN21 1CB 16 
+1CB HN22 2HN2 H 0 0 N N N -16.729 -3.757 -8.133 1.773  -0.051 1.279  HN22 1CB 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1CB C2 C1   SING N N 1  
+1CB C2 C3   SING N N 2  
+1CB C2 H21  SING N N 3  
+1CB C2 H22  SING N N 4  
+1CB C1 C4   SING N N 5  
+1CB C1 N2   SING N N 6  
+1CB C1 H1   SING N N 7  
+1CB C4 C5   SING N N 8  
+1CB C4 H41  SING N N 9  
+1CB C4 H42  SING N N 10 
+1CB C5 C3   SING N N 11 
+1CB C5 H51  SING N N 12 
+1CB C5 H52  SING N N 13 
+1CB C3 H31  SING N N 14 
+1CB C3 H32  SING N N 15 
+1CB N2 HN21 SING N N 16 
+1CB N2 HN22 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1CB SMILES           ACDLabs              10.04 NC1CCCC1                                   
+1CB SMILES_CANONICAL CACTVS               3.341 NC1CCCC1                                   
+1CB SMILES           CACTVS               3.341 NC1CCCC1                                   
+1CB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CCC(C1)N"                               
+1CB SMILES           "OpenEye OEToolkits" 1.5.0 "C1CCC(C1)N"                               
+1CB InChI            InChI                1.03  InChI=1S/C5H11N/c6-5-3-1-2-4-5/h5H,1-4,6H2 
+1CB InChIKey         InChI                1.03  NISGSNTVMOOSJQ-UHFFFAOYSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1CB "SYSTEMATIC NAME" ACDLabs              10.04 cyclopentanamine 
+1CB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 cyclopentanamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1CB "Create component"  2005-09-06 RCSB 
+1CB "Modify descriptor" 2011-06-04 RCSB 
+# 

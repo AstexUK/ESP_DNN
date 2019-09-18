@@ -1,0 +1,119 @@
+data_MUC
+# 
+_chem_comp.id                                    MUC 
+_chem_comp.name                                  "[(2S)-5-oxo-2,5-dihydrofuran-2-yl]acetic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         muconolactone 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.109 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MUC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DG6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MUC C1  C1  C 0 1 N N N 28.444 5.368 16.153 -2.158 0.091  -0.038 C1  MUC 1  
+MUC O1  O1  O 0 1 N N N 27.700 6.378 16.176 -3.312 0.053  -0.724 O1  MUC 2  
+MUC O2  O2  O 0 1 N N N 28.120 4.248 15.707 -2.020 0.876  0.869  O2  MUC 3  
+MUC C4  C4  C 0 1 N N N 30.937 3.248 16.024 1.240  -1.619 0.267  C4  MUC 4  
+MUC C5  C5  C 0 1 N N N 31.449 2.890 14.840 2.318  -0.942 -0.120 C5  MUC 5  
+MUC C6  C6  C 0 1 N N N 31.710 3.992 14.136 2.018  0.492  -0.132 C6  MUC 6  
+MUC O6  O6  O 0 1 N N N 32.418 4.014 13.127 2.803  1.366  -0.441 O6  MUC 7  
+MUC O3  O3  O 0 1 N N N 31.097 5.104 14.651 0.744  0.698  0.251  O3  MUC 8  
+MUC C3  C3  C 0 1 N N S 31.032 4.782 16.038 0.154  -0.603 0.531  C3  MUC 9  
+MUC C2  C2  C 0 1 N N N 29.870 5.540 16.763 -1.038 -0.851 -0.397 C2  MUC 10 
+MUC H4  H4  H 0 1 N N N 30.545 2.603 16.797 1.155  -2.691 0.368  H4  MUC 11 
+MUC H5  H5  H 0 1 N N N 31.622 1.876 14.510 3.269  -1.382 -0.384 H5  MUC 12 
+MUC H3  H3  H 0 1 N N N 31.898 5.111 16.631 -0.164 -0.654 1.572  H3  MUC 13 
+MUC H2  H2  H 0 1 N N N 30.111 6.613 16.731 -1.378 -1.880 -0.283 H2  MUC 14 
+MUC H2A H2A H 0 1 N N N 29.816 5.105 17.772 -0.735 -0.680 -1.430 H2A MUC 15 
+MUC HO1 HO1 H 0 1 N N N 26.855 6.158 15.802 -4.003 0.673  -0.455 HO1 MUC 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MUC C1 O1  SING N N 1  
+MUC C1 O2  DOUB N N 2  
+MUC C1 C2  SING N N 3  
+MUC C4 C5  DOUB N N 4  
+MUC C4 C3  SING N N 5  
+MUC C5 C6  SING N N 6  
+MUC C6 O6  DOUB N N 7  
+MUC C6 O3  SING N N 8  
+MUC O3 C3  SING N N 9  
+MUC C3 C2  SING N N 10 
+MUC C4 H4  SING N N 11 
+MUC C5 H5  SING N N 12 
+MUC C3 H3  SING N N 13 
+MUC C2 H2  SING N N 14 
+MUC C2 H2A SING N N 15 
+MUC O1 HO1 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MUC SMILES           ACDLabs              10.04 "O=C(O)CC1OC(=O)C=C1"                                                   
+MUC SMILES_CANONICAL CACTVS               3.341 "OC(=O)C[C@@H]1OC(=O)C=C1"                                              
+MUC SMILES           CACTVS               3.341 "OC(=O)C[CH]1OC(=O)C=C1"                                                
+MUC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=CC(=O)O[C@H]1CC(=O)O"                                               
+MUC SMILES           "OpenEye OEToolkits" 1.5.0 "C1=CC(=O)OC1CC(=O)O"                                                   
+MUC InChI            InChI                1.03  "InChI=1S/C6H6O4/c7-5(8)3-4-1-2-6(9)10-4/h1-2,4H,3H2,(H,7,8)/t4-/m1/s1" 
+MUC InChIKey         InChI                1.03  HPEKPJGPWNSAAV-SCSAIBSYSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MUC "SYSTEMATIC NAME" ACDLabs              10.04 "[(2S)-5-oxo-2,5-dihydrofuran-2-yl]acetic acid" 
+MUC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-[(2S)-5-oxo-2H-furan-2-yl]ethanoic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MUC "Create component"  2008-06-15 PDBJ 
+MUC "Modify descriptor" 2011-06-04 RCSB 
+# 

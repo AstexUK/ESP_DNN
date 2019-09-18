@@ -1,0 +1,120 @@
+data_0NC
+# 
+_chem_comp.id                                    0NC 
+_chem_comp.name                                  N-methyl-L-alaninamide 
+_chem_comp.type                                  "L-peptide NH3 amino terminus" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H10 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        102.135 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     0NC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1Y6Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0NC N   N   N 0 1 N N N -5.159 8.279  0.669  2.022  0.872  -0.396 N   0NC 1  
+0NC CA  CA  C 0 1 N N S -3.951 8.283  -0.040 1.107  -0.277 -0.414 CA  0NC 2  
+0NC C   C   C 0 1 N N N -3.095 7.069  0.130  -0.280 0.179  -0.041 C   0NC 3  
+0NC O   O   O 0 1 N N N -3.231 6.322  1.199  -0.434 1.224  0.555  O   0NC 4  
+0NC CB  CB  C 0 1 N N N -3.053 9.448  0.358  1.587  -1.327 0.590  CB  0NC 5  
+0NC HN  HN  H 0 1 N N N -4.970 8.278  1.651  2.056  1.293  0.521  HN  0NC 6  
+0NC N1  N1  N 0 1 N N N -2.201 6.667  -0.701 -1.348 -0.574 -0.369 N1  0NC 7  
+0NC C1  C1  C 0 1 N N N -1.421 5.468  -0.439 -2.696 -0.131 -0.007 C1  0NC 8  
+0NC HN1 HN1 H 0 1 N N N -2.039 7.186  -1.540 -1.224 -1.410 -0.846 HN1 0NC 9  
+0NC HNA HNA H 0 1 N N N -5.687 9.095  0.432  2.945  0.604  -0.705 HNA 0NC 10 
+0NC HA  HA  H 0 1 N N N -4.304 8.342  -1.080 1.090  -0.712 -1.414 HA  0NC 11 
+0NC HB  HB  H 0 1 N N N -2.837 9.394  1.435  1.604  -0.892 1.590  HB  0NC 12 
+0NC HBA HBA H 0 1 N N N -2.111 9.395  -0.208 0.908  -2.180 0.577  HBA 0NC 13 
+0NC HBB HBB H 0 1 N N N -3.563 10.397 0.134  2.590  -1.657 0.320  HBB 0NC 14 
+0NC H1  H1  H 0 1 N N N -1.224 4.944  -1.386 -2.767 -0.032 1.077  H1  0NC 15 
+0NC H1A H1A H 0 1 N N N -0.466 5.747  0.031  -2.900 0.833  -0.474 H1A 0NC 16 
+0NC H1B H1B H 0 1 N N N -1.983 4.806  0.236  -3.425 -0.864 -0.352 H1B 0NC 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0NC CA  N   SING N N 1  
+0NC N   HN  SING N N 2  
+0NC N   HNA SING N N 3  
+0NC CA  C   SING N N 4  
+0NC CA  CB  SING N N 5  
+0NC CA  HA  SING N N 6  
+0NC N1  C   SING N N 7  
+0NC C   O   DOUB N N 8  
+0NC CB  HB  SING N N 9  
+0NC CB  HBA SING N N 10 
+0NC CB  HBB SING N N 11 
+0NC HN1 N1  SING N N 12 
+0NC N1  C1  SING N N 13 
+0NC C1  H1  SING N N 14 
+0NC C1  H1A SING N N 15 
+0NC C1  H1B SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0NC SMILES           ACDLabs              10.04 "O=C(NC)C(N)C"                                                     
+0NC SMILES_CANONICAL CACTVS               3.341 "CNC(=O)[C@H](C)N"                                                 
+0NC SMILES           CACTVS               3.341 "CNC(=O)[CH](C)N"                                                  
+0NC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](C(=O)NC)N"                                                
+0NC SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(=O)NC)N"                                                     
+0NC InChI            InChI                1.03  "InChI=1S/C4H10N2O/c1-3(5)4(7)6-2/h3H,5H2,1-2H3,(H,6,7)/t3-/m0/s1" 
+0NC InChIKey         InChI                1.03  CKQYFZPCICOPMQ-VKHMYHEASA-N                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0NC "SYSTEMATIC NAME" ACDLabs              10.04 N-methyl-L-alaninamide              
+0NC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-N-methyl-propanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0NC "Create component"  2008-03-31 RCSB 
+0NC "Modify descriptor" 2011-06-04 RCSB 
+# 

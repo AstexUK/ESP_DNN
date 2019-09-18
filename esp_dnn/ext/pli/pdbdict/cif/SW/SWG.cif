@@ -1,0 +1,175 @@
+data_SWG
+# 
+_chem_comp.id                                    SWG 
+_chem_comp.name                                  "2-[(4Z)-2-[(1R)-1-amino-2-hydroxy-ethyl]-4-(1H-indol-3-ylmethylidene)-5-oxo-imidazol-1-yl]ethanoic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C16 H16 N4 O4" 
+_chem_comp.mon_nstd_parent_comp_id               "SER, TRP, GLY" 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-03-25 
+_chem_comp.pdbx_modified_date                    2012-03-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        328.323 
+_chem_comp.one_letter_code                       SWG 
+_chem_comp.three_letter_code                     SWG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2YE0 
+_chem_comp.pdbx_subcomponent_list                "SER TRY GLY" 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SWG CD2  CD2  C 0 1 Y N N 29.546 29.414 38.268 3.777  -0.396 -0.047 CD2 TRY 1  
+SWG CE3  CE3  C 0 1 Y N N 30.163 29.928 39.441 4.570  -1.507 -0.318 CE3 TRY 2  
+SWG CZ3  CZ3  C 0 1 Y N N 31.381 30.600 39.378 5.941  -1.409 -0.217 CZ3 TRY 3  
+SWG CH2  CH2  C 0 1 Y N N 31.972 30.745 38.092 6.530  -0.209 0.152  CH2 TRY 4  
+SWG CZ2  CZ2  C 0 1 Y N N 31.384 30.246 36.916 5.757  0.899  0.423  CZ2 TRY 5  
+SWG CE2  CE2  C 0 1 Y N N 30.157 29.577 37.032 4.372  0.820  0.327  CE2 TRY 6  
+SWG NE1  NE1  N 0 1 Y N N 29.371 29.001 36.087 3.360  1.737  0.530  NE1 TRY 7  
+SWG CD1  CD1  C 0 1 Y N N 28.262 28.467 36.686 2.151  1.171  0.307  CD1 TRY 8  
+SWG CG   CG   C 0 1 Y N N 28.302 28.682 38.017 2.322  -0.149 -0.061 CG  TRY 9  
+SWG CB2  CB2  C 0 1 N N N 27.315 28.284 39.088 1.306  -1.078 -0.384 CB  TRY 10 
+SWG CA2  CA2  C 0 1 N N N 26.116 27.676 38.711 -0.022 -0.692 -0.351 CA2 TRY 11 
+SWG N2   N2   N 0 1 N N N 25.782 27.311 37.437 -0.513 0.543  -0.029 N2  TRY 12 
+SWG C2   C2   C 0 1 N N N 25.036 27.341 39.634 -1.193 -1.520 -0.661 C2  TRY 13 
+SWG O2   O2   O 0 1 N N N 24.965 27.513 40.855 -1.202 -2.691 -0.999 O2  TRY 14 
+SWG N3   N3   N 0 1 N N N 24.125 26.796 38.856 -2.260 -0.708 -0.490 N   GLY 15 
+SWG CA3  CA3  C 0 1 N N N 22.857 26.315 39.412 -3.663 -1.084 -0.682 CA  GLY 16 
+SWG C3   C3   C 0 1 N N N 22.600 24.988 39.972 -4.225 -1.607 0.615  C   GLY 17 
+SWG O3   O3   O 0 1 N N N 21.744 24.781 40.834 -3.526 -1.660 1.599  O   GLY 18 
+SWG OXT  OXT  O 0 1 N Y N 23.489 24.061 39.486 -5.503 -2.013 0.677  OXT GLY 19 
+SWG C1   C1   C 0 1 N N N 24.528 26.767 37.582 -1.807 0.524  -0.110 C   SER 20 
+SWG CA1  CA1  C 0 1 N N R 23.781 26.235 36.426 -2.695 1.707  0.175  CA  SER 21 
+SWG N1   N1   N 0 1 N N N 22.830 27.326 36.097 -2.114 2.505  1.263  N   SER 22 
+SWG CB1  CB1  C 0 1 N N N 24.544 25.978 35.161 -2.815 2.570  -1.083 CB  SER 23 
+SWG OG1  OG1  O 0 1 N N N 25.382 24.849 35.442 -3.748 3.627  -0.849 OG  SER 24 
+SWG HE3  HE3  H 0 1 N N N 29.679 29.795 40.397 4.113  -2.443 -0.605 HE3 TRY 25 
+SWG HZ3  HZ3  H 0 1 N N N 31.855 30.993 40.265 6.559  -2.270 -0.426 HZ3 TRY 26 
+SWG HH2  HH2  H 0 1 N N N 32.917 31.263 38.015 7.606  -0.142 0.229  HH2 TRY 27 
+SWG HZ2  HZ2  H 0 1 N N N 31.861 30.374 35.956 6.227  1.829  0.710  HZ2 TRY 28 
+SWG HE1  HE1  H 0 1 N N N 29.571 28.971 35.108 3.497  2.660  0.798  HE1 TRY 29 
+SWG HD1  HD1  H 0 1 N N N 27.469 27.948 36.168 1.200  1.675  0.398  HD1 TRY 30 
+SWG HB2  HB2  H 0 1 N N N 27.533 28.467 40.130 1.567  -2.090 -0.657 HB2 TRY 31 
+SWG HA31 HA31 H 0 0 N N N 22.651 27.003 40.245 -4.233 -0.211 -0.999 HA2 GLY 32 
+SWG HA32 HA32 H 0 0 N N N 22.252 26.259 38.495 -3.730 -1.859 -1.446 HA3 GLY 33 
+SWG HXT  HXT  H 0 1 N N N 23.345 23.227 39.917 -5.818 -2.341 1.531  HXT GLY 34 
+SWG HA1  HA1  H 0 1 N N N 23.384 25.254 36.725 -3.684 1.356  0.470  HA  SER 35 
+SWG H11N H11N H 0 0 N N N 22.616 27.844 36.926 -2.084 1.977  2.122  H   SER 36 
+SWG H12N H12N H 0 0 N N N 23.243 27.936 35.421 -1.196 2.842  1.014  H2  SER 37 
+SWG HB11 HB11 H 0 0 N N N 23.859 25.759 34.329 -1.840 2.993  -1.327 HB2 SER 38 
+SWG HB12 HB12 H 0 0 N N N 25.133 26.856 34.856 -3.162 1.956  -1.913 HB3 SER 39 
+SWG HG1  HG1  H 0 1 N N N 25.567 24.383 34.635 -3.874 4.215  -1.605 HG  SER 40 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SWG CD2 CE3  SING Y N 1  
+SWG CD2 CE2  DOUB Y N 2  
+SWG CD2 CG   SING Y N 3  
+SWG CE3 CZ3  DOUB Y N 4  
+SWG CZ3 CH2  SING Y N 5  
+SWG CH2 CZ2  DOUB Y N 6  
+SWG CZ2 CE2  SING Y N 7  
+SWG CE2 NE1  SING Y N 8  
+SWG NE1 CD1  SING Y N 9  
+SWG CD1 CG   DOUB Y N 10 
+SWG CG  CB2  SING N N 11 
+SWG CB2 CA2  DOUB N N 12 
+SWG CA2 N2   SING N N 13 
+SWG CA2 C2   SING N N 14 
+SWG N2  C1   DOUB N N 15 
+SWG C2  O2   DOUB N N 16 
+SWG C2  N3   SING N N 17 
+SWG N3  CA3  SING N Z 18 
+SWG N3  C1   SING N N 19 
+SWG CA3 C3   SING N N 20 
+SWG C3  O3   DOUB N N 21 
+SWG C3  OXT  SING N N 22 
+SWG C1  CA1  SING N N 23 
+SWG CA1 N1   SING N N 24 
+SWG CA1 CB1  SING N N 25 
+SWG CB1 OG1  SING N N 26 
+SWG CE3 HE3  SING N N 27 
+SWG CZ3 HZ3  SING N N 28 
+SWG CH2 HH2  SING N N 29 
+SWG CZ2 HZ2  SING N N 30 
+SWG NE1 HE1  SING N N 31 
+SWG CD1 HD1  SING N N 32 
+SWG CB2 HB2  SING N N 33 
+SWG CA3 HA31 SING N N 34 
+SWG CA3 HA32 SING N N 35 
+SWG CA1 HA1  SING N N 36 
+SWG N1  H11N SING N N 37 
+SWG N1  H12N SING N N 38 
+SWG CB1 HB11 SING N N 39 
+SWG CB1 HB12 SING N N 40 
+SWG OG1 HG1  SING N N 41 
+SWG OXT HXT  SING N N 42 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SWG SMILES_CANONICAL CACTVS               3.352 "N[C@@H](CO)C1=N\\C(=C/c2c[nH]c3ccccc23)C(=O)N1CC(O)=O"                                                                                           
+SWG SMILES           CACTVS               3.352 "N[CH](CO)C1=NC(=Cc2c[nH]c3ccccc23)C(=O)N1CC(O)=O"                                                                                                
+SWG SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "c1ccc2c(c1)c(c[nH]2)\\C=C/3\\C(=O)N(C(=N3)[C@H](CO)N)CC(=O)O"                                                                                    
+SWG SMILES           "OpenEye OEToolkits" 1.6.1 "c1ccc2c(c1)c(c[nH]2)C=C3C(=O)N(C(=N3)C(CO)N)CC(=O)O"                                                                                             
+SWG InChI            InChI                1.03  "InChI=1S/C16H16N4O4/c17-11(8-21)15-19-13(16(24)20(15)7-14(22)23)5-9-6-18-12-4-2-1-3-10(9)12/h1-6,11,18,21H,7-8,17H2,(H,22,23)/b13-5-/t11-/m0/s1" 
+SWG InChIKey         InChI                1.03  JQODGFVDKNHIFR-LEBPBNDJSA-N                                                                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SWG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "2-[(4Z)-2-[(1R)-1-amino-2-hydroxy-ethyl]-4-(1H-indol-3-ylmethylidene)-5-oxo-imidazol-1-yl]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SWG "Create component"     2011-03-25 EBI  
+SWG "Other modification"   2011-05-03 EBI  
+SWG "Modify name"          2011-05-06 EBI  
+SWG "Modify value order"   2011-05-06 EBI  
+SWG "Other modification"   2011-05-06 EBI  
+SWG "Modify name"          2011-05-10 EBI  
+SWG "Modify value order"   2011-05-10 EBI  
+SWG "Other modification"   2011-05-10 EBI  
+SWG "Modify aromatic_flag" 2011-06-04 RCSB 
+SWG "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,102 @@
+data_DCE
+# 
+_chem_comp.id                                    DCE 
+_chem_comp.name                                  1,2-DICHLOROETHANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H4 Cl2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "ETHYLENE DICHLORIDE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        98.959 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DCE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BPH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DCE CL1 CL1 CL 0 0 N N N 26.950 41.213 19.536 0.055  0.000  -2.180 CL1 DCE 1 
+DCE C1  C1  C  0 1 N N N 28.222 40.003 20.178 -0.584 0.000  -0.494 C1  DCE 2 
+DCE C2  C2  C  0 1 N N N 28.307 38.776 19.363 0.584  0.000  0.494  C2  DCE 3 
+DCE CL2 CL2 CL 0 0 N N N 26.941 37.681 19.833 -0.055 0.000  2.180  CL2 DCE 4 
+DCE H11 1H1 H  0 1 N N N 29.221 40.488 20.274 -1.193 0.890  -0.336 H11 DCE 5 
+DCE H12 2H1 H  0 1 N N N 28.035 39.758 21.249 -1.193 -0.890 -0.336 H12 DCE 6 
+DCE H21 1H2 H  0 1 N N N 28.328 38.989 18.268 1.193  -0.890 0.336  H21 DCE 7 
+DCE H22 2H2 H  0 1 N N N 29.301 38.278 19.440 1.193  0.890  0.336  H22 DCE 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DCE CL1 C1  SING N N 1 
+DCE C1  C2  SING N N 2 
+DCE C1  H11 SING N N 3 
+DCE C1  H12 SING N N 4 
+DCE C2  CL2 SING N N 5 
+DCE C2  H21 SING N N 6 
+DCE C2  H22 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DCE SMILES           ACDLabs              10.04 ClCCCl                           
+DCE SMILES_CANONICAL CACTVS               3.341 ClCCCl                           
+DCE SMILES           CACTVS               3.341 ClCCCl                           
+DCE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CCl)Cl"                       
+DCE SMILES           "OpenEye OEToolkits" 1.5.0 "C(CCl)Cl"                       
+DCE InChI            InChI                1.03  InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2 
+DCE InChIKey         InChI                1.03  WSLDOOZREJYCGB-UHFFFAOYSA-N      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DCE "SYSTEMATIC NAME" ACDLabs              10.04 1,2-dichloroethane 
+DCE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1,2-dichloroethane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DCE "Create component"  1999-07-08 EBI  
+DCE "Modify descriptor" 2011-06-04 RCSB 
+# 

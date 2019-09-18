@@ -1,0 +1,120 @@
+data_GAQ
+# 
+_chem_comp.id                                    GAQ 
+_chem_comp.name                                  5-HYDROXYPENTANAL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-08-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        102.132 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GAQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1ZLP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GAQ O5  O5  O 0 1 N N N -51.787 55.980 8.604  1.351  -2.765 -0.082 O5  GAQ 1  
+GAQ C5  C5  C 0 1 N N N -51.089 54.849 9.156  1.417  -1.547 0.040  C5  GAQ 2  
+GAQ C4  C4  C 0 1 N N N -52.111 53.880 9.722  0.586  -0.557 -0.739 C4  GAQ 3  
+GAQ C3  C3  C 0 1 N N N -52.151 53.983 11.228 -0.336 -1.232 -1.750 C3  GAQ 4  
+GAQ C2  C2  C 0 1 N N N -51.063 53.031 11.660 -1.191 -0.209 -2.493 C2  GAQ 5  
+GAQ C1  C1  C 0 1 N N N -50.852 52.913 13.170 -2.083 -0.872 -3.534 C1  GAQ 6  
+GAQ O1  O1  O 0 1 N N N -49.925 51.864 13.547 -2.874 0.111  -4.188 O1  GAQ 7  
+GAQ H55 5H5 H 0 1 N N N -49.991 54.746 9.147  2.122  -1.096 0.760  H55 GAQ 8  
+GAQ H41 1H4 H 0 1 N N N -51.927 52.835 9.381  0.001  0.023  -0.017 H41 GAQ 9  
+GAQ H42 2H4 H 0 1 N N N -53.119 54.026 9.268  1.276  0.125  -1.247 H42 GAQ 10 
+GAQ H31 1H3 H 0 1 N N N -53.150 53.786 11.682 0.262  -1.806 -2.469 H31 GAQ 11 
+GAQ H32 2H3 H 0 1 N N N -52.049 55.019 11.627 -0.984 -1.952 -1.235 H32 GAQ 12 
+GAQ H21 1H2 H 0 1 N N N -50.102 53.297 11.160 -1.814 0.352  -1.786 H21 GAQ 13 
+GAQ H22 2H2 H 0 1 N N N -51.242 52.022 11.220 -0.550 0.535  -2.984 H22 GAQ 14 
+GAQ H1  H1  H 0 1 N N N -51.827 52.784 13.695 -2.761 -1.592 -3.064 H1  GAQ 15 
+GAQ H11 1H1 H 0 1 N N N -50.536 53.892 13.601 -1.491 -1.400 -4.289 H11 GAQ 16 
+GAQ HO1 HO1 H 0 1 N N N -49.722 51.332 12.787 -2.507 0.217  -5.080 HO1 GAQ 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GAQ O5  C5  DOUB N N 1  
+GAQ C5  C4  SING N N 2  
+GAQ C5  H55 SING N N 3  
+GAQ C4  C3  SING N N 4  
+GAQ C4  H41 SING N N 5  
+GAQ C4  H42 SING N N 6  
+GAQ C3  C2  SING N N 7  
+GAQ C3  H31 SING N N 8  
+GAQ C3  H32 SING N N 9  
+GAQ C2  C1  SING N N 10 
+GAQ C2  H21 SING N N 11 
+GAQ C2  H22 SING N N 12 
+GAQ C1  O1  SING N N 13 
+GAQ C1  H1  SING N N 14 
+GAQ C1  H11 SING N N 15 
+GAQ HO1 O1  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GAQ SMILES           ACDLabs              10.04 O=CCCCCO                                      
+GAQ SMILES_CANONICAL CACTVS               3.341 OCCCCC=O                                      
+GAQ SMILES           CACTVS               3.341 OCCCCC=O                                      
+GAQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CCO)CC=O"                                  
+GAQ SMILES           "OpenEye OEToolkits" 1.5.0 "C(CCO)CC=O"                                  
+GAQ InChI            InChI                1.03  InChI=1S/C5H10O2/c6-4-2-1-3-5-7/h4,7H,1-3,5H2 
+GAQ InChIKey         InChI                1.03  CNRGMQRNYAIBTN-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GAQ "SYSTEMATIC NAME" ACDLabs              10.04 5-hydroxypentanal 
+GAQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 5-hydroxypentanal 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GAQ "Create component"  2005-08-02 RCSB 
+GAQ "Modify descriptor" 2011-06-04 RCSB 
+# 

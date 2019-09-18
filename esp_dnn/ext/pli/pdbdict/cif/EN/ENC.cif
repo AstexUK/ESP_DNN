@@ -1,0 +1,106 @@
+data_ENC
+# 
+_chem_comp.id                                    ENC 
+_chem_comp.name                                  "ETHYL ISOCYANIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H6 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        56.086 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ENC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        109M 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ENC C   C   C 0 1 N N N 35.695 5.899 11.493 -1.771 0.279  0.000  C   ENC 1  
+ENC N   N   N 1 1 N N N 35.490 6.470 12.376 -0.713 -0.136 0.000  N   ENC 2  
+ENC C1  C1  C 0 1 N N N 34.904 7.846 12.828 0.618  -0.658 0.000  C1  ENC 3  
+ENC C2  C2  C 0 1 N N N 33.430 7.892 12.523 1.619  0.499  0.000  C2  ENC 4  
+ENC H   H   H 0 1 N N N 35.903 5.318 10.594 -2.749 0.662  0.000  H   ENC 5  
+ENC H11 1H1 H 0 1 N N N 35.118 8.062 13.900 0.769  -1.268 -0.890 H11 ENC 6  
+ENC H12 2H1 H 0 1 N N N 35.453 8.705 12.378 0.769  -1.269 0.890  H12 ENC 7  
+ENC H21 1H2 H 0 1 N N N 33.011 8.874 12.845 1.469  1.110  -0.890 H21 ENC 8  
+ENC H22 2H2 H 0 1 N N N 33.215 7.675 11.450 1.469  1.110  0.890  H22 ENC 9  
+ENC H23 3H2 H 0 1 N N N 32.880 7.032 12.973 2.634  0.101  0.000  H23 ENC 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ENC C  N   TRIP N N 1 
+ENC C  H   SING N N 2 
+ENC N  C1  SING N N 3 
+ENC C1 C2  SING N N 4 
+ENC C1 H11 SING N N 5 
+ENC C1 H12 SING N N 6 
+ENC C2 H21 SING N N 7 
+ENC C2 H22 SING N N 8 
+ENC C2 H23 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ENC SMILES           ACDLabs              10.04 "C#[N+]CC"                              
+ENC SMILES_CANONICAL CACTVS               3.341 "CC[N+]#C"                              
+ENC SMILES           CACTVS               3.341 "CC[N+]#C"                              
+ENC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC[N+]#C"                              
+ENC SMILES           "OpenEye OEToolkits" 1.5.0 "CC[N+]#C"                              
+ENC InChI            InChI                1.03  InChI=1S/C3H6N/c1-3-4-2/h2H,3H2,1H3/q+1 
+ENC InChIKey         InChI                1.03  JEGVKBYNUPNGJU-UHFFFAOYSA-N             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ENC "SYSTEMATIC NAME" ACDLabs              10.04 N-methylidyneethanaminium 
+ENC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethyl-methylidyne-azanium 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ENC "Create component"  1999-07-08 RCSB 
+ENC "Modify descriptor" 2011-06-04 RCSB 
+# 

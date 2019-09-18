@@ -1,0 +1,126 @@
+data_SNO
+# 
+_chem_comp.id                                    SNO 
+_chem_comp.name                                  "(S)-PARA-NITROSTYRENE OXIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H7 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(2S)-2-(4-NITROPHENYL)OXIRANE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-05-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        165.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SNO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1ZO8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SNO C1  C1  C 0  1 Y N N 14.796 25.200 70.131 1.364  -0.020 -0.032 C1  SNO 1  
+SNO C2  C2  C 0  1 Y N N 13.979 26.303 70.394 0.779  -1.272 -0.076 C2  SNO 2  
+SNO C3  C3  C 0  1 Y N N 14.284 27.120 71.494 -0.594 -1.391 -0.186 C3  SNO 3  
+SNO C4  C4  C 0  1 Y N N 15.396 26.845 72.327 -1.382 -0.257 -0.252 C4  SNO 4  
+SNO C5  C5  C 0  1 Y N N 16.203 25.729 72.037 -0.798 0.995  -0.207 C5  SNO 5  
+SNO C6  C6  C 0  1 Y N N 15.908 24.897 70.937 0.575  1.113  -0.093 C6  SNO 6  
+SNO C7  C7  C 0  1 N N S 15.730 27.709 73.495 -2.879 -0.386 -0.373 C7  SNO 7  
+SNO C8  C8  C 0  1 N N N 15.375 29.113 73.514 -3.717 -0.179 0.890  C8  SNO 8  
+SNO N1  N1  N 1  1 N N N 14.476 24.329 68.968 2.834  0.107  0.086  N1  SNO 9  
+SNO O1  O1  O -1 1 N N N 13.499 24.613 68.278 3.528  -0.892 0.144  O1  SNO 10 
+SNO O2  O2  O 0  1 N N N 15.201 23.357 68.740 3.349  1.210  0.120  O2  SNO 11 
+SNO O3  O3  O 0  1 N N N 14.651 28.168 74.321 -3.667 0.787  -0.164 O3  SNO 12 
+SNO H22 2H2 H 0  1 N N N 13.113 26.524 69.748 1.395  -2.158 -0.024 H22 SNO 13 
+SNO H33 3H3 H 0  1 N N N 13.641 27.990 71.707 -1.050 -2.369 -0.221 H33 SNO 14 
+SNO H55 5H5 H 0  1 N N N 17.073 25.505 72.677 -1.414 1.881  -0.259 H55 SNO 15 
+SNO H66 6H6 H 0  1 N N N 16.539 24.021 70.710 1.031  2.092  -0.058 H66 SNO 16 
+SNO H77 7H7 H 0  1 N N N 16.685 27.154 73.647 -3.233 -1.113 -1.104 H77 SNO 17 
+SNO H81 1H8 H 0  1 N N N 15.100 29.871 72.744 -4.628 -0.768 0.997  H81 SNO 18 
+SNO H82 2H8 H 0  1 N N N 15.922 30.065 73.708 -3.191 0.051  1.816  H82 SNO 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SNO C1 C2  DOUB Y N 1  
+SNO C1 C6  SING Y N 2  
+SNO C1 N1  SING N N 3  
+SNO C2 C3  SING Y N 4  
+SNO C2 H22 SING N N 5  
+SNO C3 C4  DOUB Y N 6  
+SNO C3 H33 SING N N 7  
+SNO C4 C5  SING Y N 8  
+SNO C4 C7  SING N N 9  
+SNO C5 C6  DOUB Y N 10 
+SNO C5 H55 SING N N 11 
+SNO C6 H66 SING N N 12 
+SNO C7 C8  SING N N 13 
+SNO C7 O3  SING N N 14 
+SNO C7 H77 SING N N 15 
+SNO C8 O3  SING N N 16 
+SNO C8 H81 SING N N 17 
+SNO C8 H82 SING N N 18 
+SNO N1 O1  SING N N 19 
+SNO N1 O2  DOUB N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SNO SMILES           ACDLabs              10.04 "[O-][N+](=O)c1ccc(cc1)C2OC2"                                            
+SNO SMILES_CANONICAL CACTVS               3.341 "[O-][N+](=O)c1ccc(cc1)[C@H]2CO2"                                        
+SNO SMILES           CACTVS               3.341 "[O-][N+](=O)c1ccc(cc1)[CH]2CO2"                                         
+SNO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1[C@H]2CO2)[N+](=O)[O-]"                                        
+SNO SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1C2CO2)[N+](=O)[O-]"                                            
+SNO InChI            InChI                1.03  "InChI=1S/C8H7NO3/c10-9(11)7-3-1-6(2-4-7)8-5-12-8/h1-4,8H,5H2/t8-/m1/s1" 
+SNO InChIKey         InChI                1.03  YKIUTLHCSNCTDZ-MRVPVSSYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SNO "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-(4-nitrophenyl)oxirane" 
+SNO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-(4-nitrophenyl)oxirane" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SNO "Create component"  2005-05-20 RCSB 
+SNO "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,118 @@
+data_BZI
+# 
+_chem_comp.id                                    BZI 
+_chem_comp.name                                  BENZIMIDAZOLE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        118.136 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BZI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1RYC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BZI N1  N1  N 0 1 Y N N 33.609 92.859 48.673 -1.053 0.001  1.587  N1  BZI 1  
+BZI C2  C2  C 0 1 Y N N 34.218 92.254 47.679 0.093  0.000  2.319  C2  BZI 2  
+BZI N3  N3  N 0 1 Y N N 33.497 92.366 46.587 1.127  0.000  1.531  N3  BZI 3  
+BZI C3A C3A C 0 1 Y N N 32.390 93.061 46.888 0.715  0.000  0.237  C3A BZI 4  
+BZI C4  C4  C 0 1 Y N N 31.293 93.451 46.155 1.386  0.000  -0.987 C4  BZI 5  
+BZI C5  C5  C 0 1 Y N N 30.303 94.148 46.824 0.674  0.000  -2.154 C5  BZI 6  
+BZI C6  C6  C 0 1 Y N N 30.394 94.455 48.175 -0.712 0.000  -2.136 C6  BZI 7  
+BZI C7  C7  C 0 1 Y N N 31.487 94.062 48.907 -1.396 0.001  -0.939 C7  BZI 8  
+BZI C7A C7A C 0 1 Y N N 32.469 93.368 48.234 -0.689 -0.005 0.255  C7A BZI 9  
+BZI HN1 HN1 H 0 1 N N N 33.962 92.923 49.627 -1.958 0.001  1.936  HN1 BZI 10 
+BZI H2  H2  H 0 1 N N N 35.186 91.731 47.750 0.138  0.000  3.398  H2  BZI 11 
+BZI H4  H4  H 0 1 N N N 31.211 93.215 45.080 2.466  -0.000 -1.013 H4  BZI 12 
+BZI H5  H5  H 0 1 N N N 29.410 94.469 46.261 1.197  0.000  -3.099 H5  BZI 13 
+BZI H6  H6  H 0 1 N N N 29.587 95.018 48.673 -1.260 0.001  -3.067 H6  BZI 14 
+BZI H7  H7  H 0 1 N N N 31.572 94.292 49.982 -2.476 0.001  -0.931 H7  BZI 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BZI N1  C2  SING Y N 1  
+BZI N1  C7A SING Y N 2  
+BZI N1  HN1 SING N N 3  
+BZI C2  N3  DOUB Y N 4  
+BZI C2  H2  SING N N 5  
+BZI N3  C3A SING Y N 6  
+BZI C3A C4  DOUB Y N 7  
+BZI C3A C7A SING Y N 8  
+BZI C4  C5  SING Y N 9  
+BZI C4  H4  SING N N 10 
+BZI C5  C6  DOUB Y N 11 
+BZI C5  H5  SING N N 12 
+BZI C6  C7  SING Y N 13 
+BZI C6  H6  SING N N 14 
+BZI C7  C7A DOUB Y N 15 
+BZI C7  H7  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BZI SMILES           ACDLabs              10.04 n2c1ccccc1nc2                                          
+BZI SMILES_CANONICAL CACTVS               3.341 "[nH]1cnc2ccccc12"                                     
+BZI SMILES           CACTVS               3.341 "[nH]1cnc2ccccc12"                                     
+BZI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)[nH]cn2"                                   
+BZI SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)[nH]cn2"                                   
+BZI InChI            InChI                1.03  "InChI=1S/C7H6N2/c1-2-4-7-6(3-1)8-5-9-7/h1-5H,(H,8,9)" 
+BZI InChIKey         InChI                1.03  HYZJCKYKOHLVJF-UHFFFAOYSA-N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BZI "SYSTEMATIC NAME" ACDLabs              10.04 1H-benzimidazole 
+BZI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1H-benzimidazole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BZI "Create component"  1999-07-08 RCSB 
+BZI "Modify descriptor" 2011-06-04 RCSB 
+# 

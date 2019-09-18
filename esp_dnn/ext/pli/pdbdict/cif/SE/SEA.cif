@@ -1,0 +1,107 @@
+data_SEA
+# 
+_chem_comp.id                                    SEA 
+_chem_comp.name                                  THIOETHYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 N S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      DHL 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        77.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SEA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SEA N   N   N 0 1 N N N 48.313 64.494 97.535 -0.113 -0.043 2.415  N   SEA 1  
+SEA CA  CA  C 0 1 N N N 47.180 65.110 96.842 0.490  -0.001 1.076  CA  SEA 2  
+SEA CB  CB  C 0 1 N N N 46.738 66.367 97.573 -0.612 -0.039 0.017  CB  SEA 3  
+SEA SG  SG  S 0 1 N N N 45.900 66.076 99.128 0.132  0.012  -1.635 SG  SEA 4  
+SEA HN1 1HN H 0 1 N N N 48.609 63.650 97.044 -0.627 0.817  2.528  HN1 SEA 5  
+SEA HN2 2HN H 0 1 N N N 48.105 64.310 98.516 0.647  -0.016 3.077  HN2 SEA 6  
+SEA HA1 1HA H 0 1 N N N 47.407 65.310 95.768 1.067  0.917  0.967  HA1 SEA 7  
+SEA HA2 2HA H 0 1 N N N 46.338 64.392 96.700 1.148  -0.860 0.947  HA2 SEA 8  
+SEA HB1 1HB H 0 1 N N N 47.605 67.051 97.723 -1.189 -0.958 0.127  HB1 SEA 9  
+SEA HB2 2HB H 0 1 N N N 46.106 66.999 96.906 -1.270 0.820  0.147  HB2 SEA 10 
+SEA HG  HG  H 0 1 N N N 45.623 66.861 99.584 -0.977 -0.029 -2.393 HG  SEA 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SEA N  CA  SING N N 1  
+SEA N  HN1 SING N N 2  
+SEA N  HN2 SING N N 3  
+SEA CA CB  SING N N 4  
+SEA CA HA1 SING N N 5  
+SEA CA HA2 SING N N 6  
+SEA CB SG  SING N N 7  
+SEA CB HB1 SING N N 8  
+SEA CB HB2 SING N N 9  
+SEA SG HG  SING N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SEA SMILES           ACDLabs              10.04 SCCN                              
+SEA InChI            InChI                1.02b InChI=1/C2H7NS/c3-1-2-4/h4H,1-3H2 
+SEA InChIKey         InChI                1.02b UFULAYFCSOUIOV-UHFFFAOYAX         
+SEA SMILES_CANONICAL CACTVS               3.341 NCCS                              
+SEA SMILES           CACTVS               3.341 NCCS                              
+SEA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CS)N"                          
+SEA SMILES           "OpenEye OEToolkits" 1.5.0 "C(CS)N"                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SEA "SYSTEMATIC NAME" ACDLabs              10.04 2-aminoethanethiol 
+SEA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-aminoethanethiol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SEA "Create component" 1999-07-08 RCSB 
+# 

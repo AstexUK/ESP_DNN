@@ -1,0 +1,120 @@
+data_LNK
+# 
+_chem_comp.id                                    LNK 
+_chem_comp.name                                  PENTANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H12" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        72.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LNK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IN3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LNK C1  C1  C 0 1 N N N -4.205 -3.032 -13.109 -0.343 0.000  2.498  C1  LNK 1  
+LNK C2  C2  C 0 1 N N N -4.827 -1.793 -12.455 0.539  0.000  1.249  C2  LNK 2  
+LNK C3  C3  C 0 1 N N N -4.600 -0.506 -13.254 -0.343 0.000  0.000  C3  LNK 3  
+LNK C4  C4  C 0 1 N N N -3.122 -0.096 -13.238 0.539  0.000  -1.249 C4  LNK 4  
+LNK C5  C5  C 0 1 N N N -2.960 1.366  -13.645 -0.343 0.000  -2.498 C5  LNK 5  
+LNK H11 H11 H 0 1 N N N -4.845 -3.383 -13.919 0.285  0.000  3.388  H11 LNK 6  
+LNK H12 H12 H 0 1 N N N -3.224 -2.799 -13.517 -0.972 0.890  2.498  H12 LNK 7  
+LNK H13 H13 H 0 1 N N N -3.118 -2.873 -13.303 -0.972 -0.890 2.498  H13 LNK 8  
+LNK H21 H21 H 0 1 N N N -5.899 -1.962 -12.349 1.169  0.890  1.249  H21 LNK 9  
+LNK H22 H22 H 0 1 N N N -4.403 -1.653 -11.459 1.169  -0.890 1.249  H22 LNK 10 
+LNK H31 H31 H 0 1 N N N -4.945 -0.631 -14.281 -0.972 -0.890 0.000  H31 LNK 11 
+LNK H32 H32 H 0 1 N N N -5.188 0.281  -12.779 -0.972 0.890  0.000  H32 LNK 12 
+LNK H41 H41 H 0 1 N N N -2.559 -0.713 -13.939 1.169  0.890  -1.249 H41 LNK 13 
+LNK H42 H42 H 0 1 N N N -2.716 -0.223 -12.233 1.169  -0.890 -1.249 H42 LNK 14 
+LNK H51 H51 H 0 1 N N N -3.336 1.496  -14.660 0.285  0.000  -3.388 H51 LNK 15 
+LNK H52 H52 H 0 1 N N N -3.533 1.990  -12.958 -0.972 -0.890 -2.498 H52 LNK 16 
+LNK H23 H23 H 0 1 N N N -3.582 2.041  -13.012 -0.972 0.890  -2.498 H23 LNK 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LNK C1 C2  SING N N 1  
+LNK C1 H11 SING N N 2  
+LNK C1 H12 SING N N 3  
+LNK C1 H13 SING N N 4  
+LNK C2 C3  SING N N 5  
+LNK C2 H21 SING N N 6  
+LNK C2 H22 SING N N 7  
+LNK C3 C4  SING N N 8  
+LNK C3 H31 SING N N 9  
+LNK C3 H32 SING N N 10 
+LNK C4 C5  SING N N 11 
+LNK C4 H41 SING N N 12 
+LNK C4 H42 SING N N 13 
+LNK C5 H51 SING N N 14 
+LNK C5 H52 SING N N 15 
+LNK C5 H23 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LNK SMILES           ACDLabs              10.04 CCCCC                                  
+LNK SMILES_CANONICAL CACTVS               3.341 CCCCC                                  
+LNK SMILES           CACTVS               3.341 CCCCC                                  
+LNK SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCC                                  
+LNK SMILES           "OpenEye OEToolkits" 1.5.0 CCCCC                                  
+LNK InChI            InChI                1.03  InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3 
+LNK InChIKey         InChI                1.03  OFBQJSOFQDEBGM-UHFFFAOYSA-N            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LNK "SYSTEMATIC NAME" ACDLabs              10.04 pentane 
+LNK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 pentane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LNK "Create component"  2001-05-15 RCSB 
+LNK "Modify descriptor" 2011-06-04 RCSB 
+# 

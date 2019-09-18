@@ -1,0 +1,212 @@
+data_FEG
+# 
+_chem_comp.id                                    FEG 
+_chem_comp.name                                  "5'-O-[(S)-{[2-(carboxymethyl)-6-hydroxy-3,5-dimethylpyridin-4-yl]oxy}(hydroxy)phosphoryl]guanosine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H23 N6 O11 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        542.393 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FEG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DAF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FEG N1   N1   N 0 1 Y N N 19.924 8.141  26.033 6.623  -1.472 0.532  N1   FEG 1  
+FEG C2   C2   C 0 1 Y N N 21.210 8.133  26.404 5.580  -2.256 0.757  C2   FEG 2  
+FEG O2   O2   O 0 1 N N N 22.168 7.616  25.493 5.767  -3.478 1.315  O2   FEG 3  
+FEG C3   C3   C 0 1 Y N N 21.542 8.601  27.679 4.298  -1.841 0.428  C3   FEG 4  
+FEG C3M  C3M  C 0 1 N N N 22.981 8.616  28.125 3.115  -2.737 0.688  C3M  FEG 5  
+FEG C4   C4   C 0 1 Y N N 20.499 9.053  28.518 4.121  -0.586 -0.143 C4   FEG 6  
+FEG C5   C5   C 0 1 Y N N 19.167 9.055  28.081 5.247  0.207  -0.363 C5   FEG 7  
+FEG C5M  C5M  C 0 1 N N N 18.056 9.569  28.990 5.108  1.574  -0.980 C5M  FEG 8  
+FEG C6   C6   C 0 1 Y N N 18.868 8.569  26.796 6.489  -0.275 -0.009 C6   FEG 9  
+FEG C7   C7   C 0 1 N N N 17.466 8.543  26.233 7.711  0.575  -0.243 C7   FEG 10 
+FEG C8   C8   C 0 1 N N N 16.174 8.638  27.032 8.266  0.290  -1.615 C8   FEG 11 
+FEG O28  O28  O 0 1 N N N 15.955 7.711  27.840 7.725  -0.520 -2.329 O28  FEG 12 
+FEG O18  O18  O 0 1 N N N 15.346 9.589  26.852 9.362  0.937  -2.043 O18  FEG 13 
+FEG O3P  O3P  O 0 1 N N N 20.803 9.555  29.782 2.883  -0.144 -0.479 O3P  FEG 14 
+FEG P1   P1   P 0 1 N N S 20.598 8.750  31.199 2.132  0.658  0.698  P1   FEG 15 
+FEG O1P  O1P  O 0 1 N N N 20.140 9.795  32.162 2.083  -0.183 1.914  O1P  FEG 16 
+FEG O2P  O2P  O 0 1 N N N 19.858 7.446  30.988 2.934  2.017  1.018  O2P  FEG 17 
+FEG O5S  O5S  O 0 1 N N N 22.109 8.330  31.536 0.633  1.016  0.232  O5S  FEG 18 
+FEG C5S  C5S  C 0 1 N N N 23.048 9.332  31.820 -0.323 1.636  1.095  C5S  FEG 19 
+FEG C4S  C4S  C 0 1 N N R 23.741 9.158  33.158 -1.638 1.834  0.339  C4S  FEG 20 
+FEG C3S  C3S  C 0 1 N N S 23.085 8.692  34.475 -2.647 2.614  1.211  C3S  FEG 21 
+FEG O3S  O3S  O 0 1 N N N 23.243 7.351  34.893 -2.653 3.998  0.853  O3S  FEG 22 
+FEG C2S  C2S  C 0 1 N N R 23.822 9.673  35.389 -4.010 1.964  0.882  C2S  FEG 23 
+FEG O2S  O2S  O 0 1 N N N 23.909 9.319  36.751 -4.898 2.926  0.311  O2S  FEG 24 
+FEG C1S  C1S  C 0 1 N N R 25.098 9.961  34.592 -3.663 0.868  -0.149 C1S  FEG 25 
+FEG O4S  O4S  O 0 1 N N N 25.081 9.494  33.268 -2.273 0.560  0.093  O4S  FEG 26 
+FEG N9A  N9A  N 0 1 Y N N 26.235 10.759 35.093 -4.494 -0.319 0.070  N9A  FEG 27 
+FEG C8A  C8A  C 0 1 Y N N 26.016 12.043 35.460 -4.152 -1.420 0.801  C8A  FEG 28 
+FEG N7A  N7A  N 0 1 Y N N 27.171 12.634 35.846 -5.127 -2.281 0.784  N7A  FEG 29 
+FEG C5A  C5A  C 0 1 Y N N 28.148 11.658 35.654 -6.149 -1.787 0.044  C5A  FEG 30 
+FEG C4A  C4A  C 0 1 Y N N 27.561 10.480 35.134 -5.756 -0.524 -0.415 C4A  FEG 31 
+FEG C6A  C6A  C 0 1 N N N 29.531 11.640 35.830 -7.430 -2.269 -0.314 C6A  FEG 32 
+FEG O6A  O6A  O 0 1 N N N 30.219 12.665 36.296 -7.815 -3.361 0.068  O6A  FEG 33 
+FEG N1A  N1A  N 0 1 N N N 30.239 10.492 35.530 -8.216 -1.490 -1.089 N1A  FEG 34 
+FEG C2A  C2A  C 0 1 N N N 29.622 9.370  35.070 -7.775 -0.271 -1.510 C2A  FEG 35 
+FEG N3A  N3A  N 0 1 N N N 28.284 9.331  34.885 -6.592 0.194  -1.175 N3A  FEG 36 
+FEG N2A  N2A  N 0 1 N N N 30.375 8.284  34.810 -8.595 0.499  -2.297 N2A  FEG 37 
+FEG H3M  H3M  H 0 1 N N N 23.639 8.620  27.243 2.723  -2.541 1.686  H3M  FEG 38 
+FEG H3MA H3MA H 0 0 N N N 23.169 9.518  28.726 2.339  -2.538 -0.053 H3MA FEG 39 
+FEG H3MB H3MB H 0 0 N N N 23.186 7.721  28.731 3.425  -3.779 0.617  H3MB FEG 40 
+FEG H5M  H5M  H 0 1 N N N 18.445 9.693  30.011 4.967  2.316  -0.193 H5M  FEG 41 
+FEG H5MA H5MA H 0 0 N N N 17.695 10.538 28.615 6.009  1.811  -1.546 H5MA FEG 42 
+FEG H5MB H5MB H 0 0 N N N 17.226 8.847  28.999 4.246  1.586  -1.648 H5MB FEG 43 
+FEG H7   H7   H 0 1 N N N 17.430 9.410  25.557 7.439  1.628  -0.172 H7   FEG 44 
+FEG H7A  H7A  H 0 1 N N N 17.410 7.499  25.893 8.465  0.343  0.510  H7A  FEG 45 
+FEG H5S  H5S  H 0 1 N N N 23.816 9.313  31.033 -0.494 1.000  1.963  H5S  FEG 46 
+FEG H5SA H5SA H 0 0 N N N 22.501 10.286 31.861 0.057  2.604  1.423  H5SA FEG 47 
+FEG H4S  H4S  H 0 1 N N N 22.916 8.622  32.667 -1.461 2.359  -0.599 H4S  FEG 48 
+FEG H3S  H3S  H 0 1 N N N 21.986 8.698  34.432 -2.410 2.496  2.268  H3S  FEG 49 
+FEG HO3S HO3S H 0 0 N N N 23.278 6.784  34.132 -3.269 4.535  1.369  HO3S FEG 50 
+FEG H2S  H2S  H 0 1 N N N 23.275 10.606 35.590 -4.449 1.524  1.778  H2S  FEG 51 
+FEG HO2S HO2S H 0 0 N N N 23.929 8.373  36.832 -5.102 3.669  0.895  HO2S FEG 52 
+FEG H8A  H8A  H 0 1 N N N 25.052 12.529 35.447 -3.212 -1.556 1.316  H8A  FEG 53 
+FEG HN1A HN1A H 0 0 N N N 31.231 10.486 35.654 -9.098 -1.800 -1.347 HN1A FEG 54 
+FEG HN2A HN2A H 0 0 N N N 31.337 8.477  35.002 -9.474 0.173  -2.546 HN2A FEG 55 
+FEG HN2B HN2B H 0 0 N N N 30.023 7.411  34.473 -8.295 1.368  -2.605 HN2B FEG 56 
+FEG H20  H20  H 0 1 N N N 14.589 9.461  27.412 9.681  0.721  -2.930 H20  FEG 57 
+FEG H23  H23  H 0 1 N N N 25.823 9.770  35.397 -3.798 1.244  -1.163 H23  FEG 58 
+FEG H24  H24  H 0 1 N N N 19.703 7.316  30.060 3.006  2.618  0.264  H24  FEG 59 
+FEG H25  H25  H 0 1 N N N 21.765 7.501  24.641 5.729  -3.479 2.282  H25  FEG 60 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FEG N1  C2   DOUB Y N 1  
+FEG N1  C6   SING Y N 2  
+FEG C2  O2   SING N N 3  
+FEG C2  C3   SING Y N 4  
+FEG C3  C3M  SING N N 5  
+FEG C3  C4   DOUB Y N 6  
+FEG C3M H3M  SING N N 7  
+FEG C3M H3MA SING N N 8  
+FEG C3M H3MB SING N N 9  
+FEG C4  C5   SING Y N 10 
+FEG C4  O3P  SING N N 11 
+FEG C5  C5M  SING N N 12 
+FEG C5  C6   DOUB Y N 13 
+FEG C5M H5M  SING N N 14 
+FEG C5M H5MA SING N N 15 
+FEG C5M H5MB SING N N 16 
+FEG C6  C7   SING N N 17 
+FEG C7  C8   SING N N 18 
+FEG C7  H7   SING N N 19 
+FEG C7  H7A  SING N N 20 
+FEG C8  O28  DOUB N N 21 
+FEG C8  O18  SING N N 22 
+FEG O18 H20  SING N N 23 
+FEG O3P P1   SING N N 24 
+FEG P1  O1P  DOUB N N 25 
+FEG P1  O2P  SING N N 26 
+FEG P1  O5S  SING N N 27 
+FEG O2P H24  SING N N 28 
+FEG O5S C5S  SING N N 29 
+FEG C5S C4S  SING N N 30 
+FEG C5S H5S  SING N N 31 
+FEG C5S H5SA SING N N 32 
+FEG C4S C3S  SING N N 33 
+FEG C4S O4S  SING N N 34 
+FEG C4S H4S  SING N N 35 
+FEG C3S O3S  SING N N 36 
+FEG C3S C2S  SING N N 37 
+FEG C3S H3S  SING N N 38 
+FEG O3S HO3S SING N N 39 
+FEG C2S O2S  SING N N 40 
+FEG C2S C1S  SING N N 41 
+FEG C2S H2S  SING N N 42 
+FEG O2S HO2S SING N N 43 
+FEG C1S O4S  SING N N 44 
+FEG C1S N9A  SING N N 45 
+FEG C1S H23  SING N N 46 
+FEG N9A C8A  SING Y N 47 
+FEG N9A C4A  SING Y N 48 
+FEG C8A N7A  DOUB Y N 49 
+FEG C8A H8A  SING N N 50 
+FEG N7A C5A  SING Y N 51 
+FEG C5A C4A  DOUB Y N 52 
+FEG C5A C6A  SING N N 53 
+FEG C4A N3A  SING N N 54 
+FEG C6A O6A  DOUB N N 55 
+FEG C6A N1A  SING N N 56 
+FEG N1A C2A  SING N N 57 
+FEG N1A HN1A SING N N 58 
+FEG C2A N3A  DOUB N N 59 
+FEG C2A N2A  SING N N 60 
+FEG N2A HN2A SING N N 61 
+FEG N2A HN2B SING N N 62 
+FEG O2  H25  SING N N 63 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FEG SMILES           ACDLabs              10.04 "O=C(O)Cc4nc(O)c(c(OP(=O)(O)OCC3OC(n2cnc1c2N=C(N)NC1=O)C(O)C3O)c4C)C" 
+FEG SMILES_CANONICAL CACTVS               3.341 "Cc1c(O)nc(CC(O)=O)c(C)c1O[P@](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n3cnc4C(=O)NC(=Nc34)N" 
+FEG SMILES           CACTVS               3.341 "Cc1c(O)nc(CC(O)=O)c(C)c1O[P](O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)n3cnc4C(=O)NC(=Nc34)N" 
+FEG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(nc(c(c1O[P@@](=O)(O)OCC2[C@H]([C@H](C(O2)n3cnc4c3N=C(NC4=O)N)O)O)C)O)CC(=O)O" 
+FEG SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(nc(c(c1OP(=O)(O)OCC2C(C(C(O2)n3cnc4c3N=C(NC4=O)N)O)O)C)O)CC(=O)O" 
+FEG InChI            InChI                1.03  
+"InChI=1S/C19H23N6O11P/c1-6-8(3-10(26)27)22-16(30)7(2)14(6)36-37(32,33)34-4-9-12(28)13(29)18(35-9)25-5-21-11-15(25)23-19(20)24-17(11)31/h5,9,12-13,18,28-29H,3-4H2,1-2H3,(H,22,30)(H,26,27)(H,32,33)(H3,20,23,24,31)/t9-,12-,13-,18-/m1/s1" 
+FEG InChIKey         InChI                1.03  GTHOTKPHMGEHFD-ACDAHVMNSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FEG "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-[(S)-{[2-(carboxymethyl)-6-hydroxy-3,5-dimethylpyridin-4-yl]oxy}(hydroxy)phosphoryl]guanosine"                                                        
+FEG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-[4-[[(3S,4R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-6-hydroxy-3,5-dimethyl-pyridin-2-yl]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FEG "Create component"     2008-06-09 RCSB 
+FEG "Modify aromatic_flag" 2011-06-04 RCSB 
+FEG "Modify descriptor"    2011-06-04 RCSB 
+# 

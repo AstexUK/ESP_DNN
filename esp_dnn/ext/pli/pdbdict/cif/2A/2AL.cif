@@ -1,0 +1,117 @@
+data_2AL
+# 
+_chem_comp.id                                    2AL 
+_chem_comp.name                                  "1-(2,5-DIOXO-2,5-DIHYDRO-1H-IMIDAZOL-4-YL)UREA" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H4 N4 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ALLANTOIN 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-02-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        156.100 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2AL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2FXL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2AL C4   C4   C 0 1 N N N 31.596 26.448 39.127 -0.008 -0.326 0.002  C4   2AL 1  
+2AL C5   C5   C 0 1 N N N 32.733 25.938 38.338 -1.220 -1.206 -0.002 C5   2AL 2  
+2AL O5   O5   O 0 1 N N N 33.086 26.001 37.181 -1.249 -2.418 -0.002 O5   2AL 3  
+2AL N7   N7   N 0 1 N N N 33.601 25.227 39.215 -2.274 -0.360 0.003  N7   2AL 4  
+2AL C8   C8   C 0 1 N N N 33.072 25.422 40.494 -1.799 0.898  0.001  C8   2AL 5  
+2AL O8   O8   O 0 1 N N N 33.613 25.015 41.489 -2.494 1.895  -0.001 O8   2AL 6  
+2AL N9   N9   N 0 1 N N N 31.871 26.132 40.478 -0.457 0.907  0.000  N9   2AL 7  
+2AL N3   N3   N 0 1 N N N 30.251 26.303 38.665 1.302  -0.727 0.002  N3   2AL 8  
+2AL C2   C2   C 0 1 N N N 29.797 27.605 38.231 2.288  0.192  0.000  C2   2AL 9  
+2AL N1   N1   N 0 1 N N N 30.696 28.579 38.320 3.577  -0.202 0.000  N1   2AL 10 
+2AL O2   O2   O 0 1 N N N 28.653 27.711 37.840 2.014  1.377  -0.001 O2   2AL 11 
+2AL HN7  HN7  H 0 1 N N N 34.415 24.701 38.969 -3.210 -0.616 0.003  HN7  2AL 12 
+2AL HN3  HN3  H 0 1 N N N 29.721 25.455 38.646 1.520  -1.672 0.003  HN3  2AL 13 
+2AL HN11 1HN1 H 0 0 N N N 30.276 29.427 37.996 4.286  0.460  -0.002 HN11 2AL 14 
+2AL HN12 2HN1 H 0 0 N N N 31.633 28.481 38.654 3.795  -1.147 0.005  HN12 2AL 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2AL C4 C5   SING N N 1  
+2AL C4 N9   DOUB N N 2  
+2AL C4 N3   SING N N 3  
+2AL C5 O5   DOUB N N 4  
+2AL C5 N7   SING N N 5  
+2AL N7 C8   SING N N 6  
+2AL N7 HN7  SING N N 7  
+2AL C8 O8   DOUB N N 8  
+2AL C8 N9   SING N N 9  
+2AL N3 C2   SING N N 10 
+2AL N3 HN3  SING N N 11 
+2AL C2 N1   SING N N 12 
+2AL C2 O2   DOUB N N 13 
+2AL N1 HN11 SING N N 14 
+2AL N1 HN12 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2AL SMILES           ACDLabs              10.04 "O=C1C(=NC(=O)N1)NC(=O)N"                                            
+2AL SMILES_CANONICAL CACTVS               3.341 "NC(=O)NC1=NC(=O)NC1=O"                                              
+2AL SMILES           CACTVS               3.341 "NC(=O)NC1=NC(=O)NC1=O"                                              
+2AL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1(=O)C(=NC(=O)N1)NC(=O)N"                                          
+2AL SMILES           "OpenEye OEToolkits" 1.5.0 "C1(=O)C(=NC(=O)N1)NC(=O)N"                                          
+2AL InChI            InChI                1.03  "InChI=1S/C4H4N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h(H4,5,6,7,8,9,10,11)" 
+2AL InChIKey         InChI                1.03  MFAONEQLPARJAO-UHFFFAOYSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2AL "SYSTEMATIC NAME" ACDLabs              10.04 "1-(2,5-dioxo-2,5-dihydro-1H-imidazol-4-yl)urea" 
+2AL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2,5-dioxoimidazol-4-yl)urea"                   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2AL "Create component"  2006-02-07 RCSB 
+2AL "Modify descriptor" 2011-06-04 RCSB 
+# 

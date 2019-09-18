@@ -1,0 +1,119 @@
+data_MIP
+# 
+_chem_comp.id                                    MIP 
+_chem_comp.name                                  "MONOISOPROPYL ESTER PHOSPHONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H9 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ISP 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        140.075 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MIP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MIP P    P    P 0 1 N N N 27.952 13.521 21.941 -0.777 2.352  0.935  P    MIP 1  
+MIP OA1  OA1  O 0 1 N N N 29.071 13.990 22.656 -1.033 3.948  0.923  OA1  MIP 2  
+MIP O3   O3   O 0 1 N N N 27.382 12.203 22.474 -1.291 1.610  -0.264 O3   MIP 3  
+MIP O2B  O2B  O 0 1 N N N 28.456 13.129 20.531 0.812  2.218  1.194  O2B  MIP 4  
+MIP C2B  C2B  C 0 1 N N N 28.572 13.867 19.263 1.353  0.919  1.413  C2B  MIP 5  
+MIP C1B  C1B  C 0 1 N N N 29.795 13.322 18.682 1.076  0.050  0.196  C1B  MIP 6  
+MIP C3B  C3B  C 0 1 N N N 28.522 15.309 19.303 2.843  1.038  1.698  C3B  MIP 7  
+MIP HOA  HOA  H 0 1 N N N 29.424 14.807 22.325 -1.931 4.283  0.715  HOA  MIP 8  
+MIP H2B  H2B  H 0 1 N N N 27.658 13.710 18.643 0.847  0.496  2.287  H2B  MIP 9  
+MIP H1B1 1H1B H 0 0 N N N 29.882 13.881 17.721 1.453  -0.967 0.340  H1B1 MIP 10 
+MIP H1B2 2H1B H 0 0 N N N 30.692 13.383 19.341 0.000  0.000  0.000  H1B2 MIP 11 
+MIP H1B3 3H1B H 0 0 N N N 29.808 12.211 18.578 1.540  0.471  -0.703 H1B3 MIP 12 
+MIP H3B1 1H3B H 0 0 N N N 28.609 15.868 18.342 3.288  0.059  1.899  H3B1 MIP 13 
+MIP H3B2 2H3B H 0 0 N N N 27.588 15.625 19.823 3.015  1.686  2.564  H3B2 MIP 14 
+MIP H3B3 3H3B H 0 0 N N N 29.298 15.680 20.011 3.370  1.496  0.853  H3B3 MIP 15 
+MIP OA2  OA2  O 0 1 N Y N ?      ?      ?      -1.407 1.885  2.349  OA2  MIP 16 
+MIP HOA2 HOA2 H 0 0 N Y N ?      ?      ?      -2.380 1.788  2.426  HOA2 MIP 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MIP P   OA1  SING N N 1  
+MIP P   O3   DOUB N N 2  
+MIP P   O2B  SING N N 3  
+MIP OA1 HOA  SING N N 4  
+MIP O2B C2B  SING N N 5  
+MIP C2B C1B  SING N N 6  
+MIP C2B C3B  SING N N 7  
+MIP C2B H2B  SING N N 8  
+MIP C1B H1B1 SING N N 9  
+MIP C1B H1B2 SING N N 10 
+MIP C1B H1B3 SING N N 11 
+MIP C3B H3B1 SING N N 12 
+MIP C3B H3B2 SING N N 13 
+MIP C3B H3B3 SING N N 14 
+MIP P   OA2  SING N N 15 
+MIP OA2 HOA2 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MIP SMILES           ACDLabs              10.04 "O=P(O)(O)OC(C)C"                                               
+MIP InChI            InChI                1.02b "InChI=1/C3H9O4P/c1-3(2)7-8(4,5)6/h3H,1-2H3,(H2,4,5,6)/f/h4-5H" 
+MIP InChIKey         InChI                1.02b QPPQHRDVPBTVEV-NUMVZRSTCF                                       
+MIP SMILES_CANONICAL CACTVS               3.341 "CC(C)O[P](O)(O)=O"                                             
+MIP SMILES           CACTVS               3.341 "CC(C)O[P](O)(O)=O"                                             
+MIP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)OP(=O)(O)O"                                               
+MIP SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)OP(=O)(O)O"                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MIP "SYSTEMATIC NAME" ACDLabs              10.04 "1-methylethyl dihydrogen phosphate" 
+MIP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "propan-2-yl dihydrogen phosphate"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MIP "Create component" 1999-07-08 EBI 
+# 

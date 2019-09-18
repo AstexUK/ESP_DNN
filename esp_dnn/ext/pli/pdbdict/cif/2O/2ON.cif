@@ -1,0 +1,119 @@
+data_2ON
+# 
+_chem_comp.id                                    2ON 
+_chem_comp.name                                  2-sulfanyl-1,9-dihydro-6H-purin-6-one 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H4 N4 O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-04-23 
+_chem_comp.pdbx_modified_date                    2015-03-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        168.176 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2ON 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4PDG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2ON C6  C6  C 0 1 N N N 18.813 59.248 11.624 -0.333 -1.451 0.001  C6  2ON 1  
+2ON N1  N1  N 0 1 N N N 20.122 59.055 11.435 0.987  -1.161 0.000  N1  2ON 2  
+2ON C2  C2  C 0 1 N N N 20.745 59.625 10.397 1.407  0.137  0.000  C2  2ON 3  
+2ON N3  N3  N 0 1 N N N 20.123 60.403 9.498  0.558  1.142  0.001  N3  2ON 4  
+2ON C4  C4  C 0 1 Y N N 18.804 60.625 9.647  -0.763 0.931  0.001  C4  2ON 5  
+2ON C5  C5  C 0 1 Y N N 18.099 60.045 10.726 -1.256 -0.379 -0.005 C5  2ON 6  
+2ON N9  N9  N 0 1 Y N N 17.906 61.342 8.935  -1.859 1.750  0.002  N9  2ON 7  
+2ON C8  C8  C 0 1 Y N N 16.713 61.232 9.518  -2.967 0.952  0.002  C8  2ON 8  
+2ON N7  N7  N 0 1 Y N N 16.816 60.457 10.598 -2.609 -0.299 -0.003 N7  2ON 9  
+2ON O6  O6  O 0 1 N N N 18.264 58.730 12.579 -0.719 -2.607 0.002  O6  2ON 10 
+2ON S2  S2  S 0 1 N N N 22.472 59.323 10.209 3.136  0.477  -0.000 S2  2ON 11 
+2ON HN1 HN1 H 0 1 N N N 20.638 58.482 12.072 1.639  -1.879 0.000  HN1 2ON 12 
+2ON HS2 HS2 H 0 1 N N N 22.749 59.998 9.133  3.108  1.887  -0.001 HS2 2ON 13 
+2ON HC8 HC8 H 0 1 N N N 15.803 61.698 9.170  -3.987 1.306  0.002  HC8 2ON 14 
+2ON HN9 HN9 H 0 1 N N N 18.104 61.868 8.108  -1.851 2.720  0.002  HN9 2ON 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2ON C5 C6  SING N N 1  
+2ON N1 C6  SING N N 2  
+2ON C6 O6  DOUB N N 3  
+2ON C2 N1  SING N N 4  
+2ON N1 HN1 SING N N 5  
+2ON N3 C2  DOUB N N 6  
+2ON S2 C2  SING N N 7  
+2ON N3 C4  SING N N 8  
+2ON S2 HS2 SING N N 9  
+2ON N9 C4  SING Y N 10 
+2ON C4 C5  DOUB Y N 11 
+2ON N7 C5  SING Y N 12 
+2ON N9 C8  SING Y N 13 
+2ON C8 N7  DOUB Y N 14 
+2ON C8 HC8 SING N N 15 
+2ON N9 HN9 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2ON SMILES           ACDLabs              12.01 "O=C1c2ncnc2N=C(S)N1"                                                   
+2ON InChI            InChI                1.03  "InChI=1S/C5H4N4OS/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)" 
+2ON InChIKey         InChI                1.03  XNHFAGRBSMMFKL-UHFFFAOYSA-N                                             
+2ON SMILES_CANONICAL CACTVS               3.370 "SC1=Nc2[nH]cnc2C(=O)N1"                                                
+2ON SMILES           CACTVS               3.370 "SC1=Nc2[nH]cnc2C(=O)N1"                                                
+2ON SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1[nH]c2c(n1)C(=O)NC(=N2)S"                                            
+2ON SMILES           "OpenEye OEToolkits" 1.7.6 "c1[nH]c2c(n1)C(=O)NC(=N2)S"                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2ON "SYSTEMATIC NAME" ACDLabs              12.01 2-sulfanyl-1,9-dihydro-6H-purin-6-one 
+2ON "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 2-sulfanyl-1,9-dihydropurin-6-one     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2ON "Create component" 2014-04-23 RCSB 
+2ON "Modify atom id"   2014-04-28 RCSB 
+2ON "Initial release"  2015-04-01 RCSB 
+# 

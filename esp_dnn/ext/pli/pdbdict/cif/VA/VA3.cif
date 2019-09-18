@@ -1,0 +1,97 @@
+data_VA3
+# 
+_chem_comp.id                                    VA3 
+_chem_comp.name                                  TRIVANADATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "O8 V3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2002-08-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        280.820 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VA3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H2F 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VA3 V1 V1 V 0  1 N N N 58.157 -29.624 -12.199 2.746  0.138  -0.080 V1 VA3 1  
+VA3 O0 O0 O 0  1 N N N 57.724 -31.243 -11.782 2.403  1.234  -1.518 O0 VA3 2  
+VA3 V2 V2 V 0  1 N N N 56.859 -28.520 -9.630  0.033  -1.029 -0.145 V2 VA3 3  
+VA3 O2 O2 O 0  1 N N N 56.376 -26.899 -9.202  -1.142 -1.978 -1.197 O2 VA3 4  
+VA3 O3 O3 O 0  1 N N N 57.289 -28.415 -11.321 1.208  -0.081 0.906  O3 VA3 5  
+VA3 O4 O4 O -1 1 N N N 55.519 -29.601 -9.404  -0.580 -1.919 1.344  O4 VA3 6  
+VA3 V3 V3 V 0  1 N N N 59.166 -30.397 -8.507  -2.313 0.708  0.309  V3 VA3 7  
+VA3 O6 O6 O 0  1 N N N 58.196 -28.929 -8.535  -0.765 0.542  -0.672 O6 VA3 8  
+VA3 O7 O7 O 0  1 N N N 60.743 -29.879 -8.014  -2.980 2.412  0.121  O7 VA3 9  
+VA3 O9 O9 O 0  1 N N N 59.877 -29.349 -12.142 4.047  0.900  0.974  O9 VA3 10 
+VA3 O8 O8 O 0  1 N N N 58.558 -31.482 -7.306  -3.555 -0.507 -0.296 O8 VA3 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VA3 V1 O0 DOUB N N 1  
+VA3 V1 O3 SING N N 2  
+VA3 V1 O9 DOUB N N 3  
+VA3 V2 O2 SING N N 4  
+VA3 V2 O3 SING N N 5  
+VA3 V2 O4 DOUB N N 6  
+VA3 V2 O6 SING N N 7  
+VA3 V3 O6 SING N N 8  
+VA3 V3 O7 DOUB N N 9  
+VA3 V3 O8 DOUB N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VA3 InChI            InChI                1.02b "InChI=1/H2O.7O.3V/h1H2;;;;;;;;;;/q;;;;;;;-1;;;+1/p-1/fHO.7O.3V/h1h;;;;;;;;;;/q-1;;;;;;;m;;;m/rHO8V3/c1-9(2)7-11(5,6)8-10(3)4/h5H/q-1" 
+VA3 InChIKey         InChI                1.02b YEAGUQJQPBKCCU-MLPGGQLRCG                                                                                                              
+VA3 SMILES_CANONICAL CACTVS               3.341 "O|[V+](|O)(O[V](=O)=O)O[V](=O)=O"                                                                                                     
+VA3 SMILES           CACTVS               3.341 "O|[V+](|O)(O[V](=O)=O)O[V](=O)=O"                                                                                                     
+VA3 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[O-]=[V]([O])(O[V](=O)=O)O[V](=O)=O"                                                                                                  
+VA3 SMILES           "OpenEye OEToolkits" 1.5.0 "[O-]=[V]([O])(O[V](=O)=O)O[V](=O)=O"                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VA3 "Create component" 2002-08-08 RCSB 
+# 

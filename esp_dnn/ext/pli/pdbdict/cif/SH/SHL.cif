@@ -1,0 +1,123 @@
+data_SHL
+# 
+_chem_comp.id                                    SHL 
+_chem_comp.name                                  "5-hydroxy-6-methyl-4-oxo-4H-pyran-2-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Comenic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-09-14 
+_chem_comp.pdbx_modified_date                    2012-09-21 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        170.120 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SHL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4H3D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SHL OAD OAD O 0 1 N N N 50.012 -15.232 57.589 3.075  -1.113 0.002  OAD SHL 1  
+SHL CAH CAH C 0 1 N N N 49.493 -15.192 58.737 2.462  -0.065 0.002  CAH SHL 2  
+SHL OAA OAA O 0 1 N N N 48.587 -14.369 59.021 3.129  1.105  -0.004 OAA SHL 3  
+SHL CAK CAK C 0 1 N N N 49.936 -16.070 59.791 0.982  -0.074 0.002  CAK SHL 4  
+SHL OAG OAG O 0 1 N N N 49.182 -16.029 61.008 0.313  1.090  0.002  OAG SHL 5  
+SHL CAF CAF C 0 1 N N N 49.602 -16.777 62.104 -1.025 1.140  0.001  CAF SHL 6  
+SHL CAL CAL C 0 1 N N N 48.895 -16.643 63.252 -1.717 2.479  0.001  CAL SHL 7  
+SHL CAJ CAJ C 0 1 N N N 50.717 -17.521 61.963 -1.766 0.006  0.000  CAJ SHL 8  
+SHL OAC OAC O 0 1 N N N 51.166 -18.246 62.995 -3.124 0.069  -0.001 OAC SHL 9  
+SHL CAI CAI C 0 1 N N N 51.399 -17.564 60.773 -1.103 -1.250 0.001  CAI SHL 10 
+SHL CAE CAE C 0 1 N N N 50.996 -16.876 59.686 0.319  -1.259 -0.004 CAE SHL 11 
+SHL OAB OAB O 0 1 N N N 52.490 -18.327 60.671 -1.737 -2.294 0.000  OAB SHL 12 
+SHL H1  H1  H 0 1 N N N 48.394 -13.834 58.260 4.095  1.060  -0.007 H1  SHL 13 
+SHL H2  H2  H 0 1 N N N 48.074 -15.928 63.096 -0.971 3.274  0.001  H2  SHL 14 
+SHL H3  H3  H 0 1 N N N 48.480 -17.619 63.543 -2.340 2.566  -0.890 H3  SHL 15 
+SHL H4  H4  H 0 1 N Y N 49.557 -16.273 64.049 -2.341 2.566  0.890  H4  SHL 16 
+SHL H5  H5  H 0 1 N N N 51.947 -18.719 62.734 -3.559 -0.795 -0.002 H5  SHL 17 
+SHL H6  H6  H 0 1 N N N 51.521 -16.975 58.747 0.862  -2.192 -0.007 H6  SHL 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SHL OAD CAH DOUB N N 1  
+SHL CAH OAA SING N N 2  
+SHL CAH CAK SING N N 3  
+SHL CAE CAK DOUB N N 4  
+SHL CAE CAI SING N N 5  
+SHL CAK OAG SING N N 6  
+SHL OAB CAI DOUB N N 7  
+SHL CAI CAJ SING N N 8  
+SHL OAG CAF SING N N 9  
+SHL CAJ CAF DOUB N N 10 
+SHL CAJ OAC SING N N 11 
+SHL CAF CAL SING N N 12 
+SHL OAA H1  SING N N 13 
+SHL CAL H2  SING N N 14 
+SHL CAL H3  SING N N 15 
+SHL CAL H4  SING N N 16 
+SHL OAC H5  SING N N 17 
+SHL CAE H6  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SHL SMILES           ACDLabs              12.01 "O=C1C=C(OC(=C1O)C)C(=O)O"                                          
+SHL InChI            InChI                1.03  "InChI=1S/C7H6O5/c1-3-6(9)4(8)2-5(12-3)7(10)11/h2,9H,1H3,(H,10,11)" 
+SHL InChIKey         InChI                1.03  ANRPPKUCFMTTIH-UHFFFAOYSA-N                                         
+SHL SMILES_CANONICAL CACTVS               3.370 "CC1=C(O)C(=O)C=C(O1)C(O)=O"                                        
+SHL SMILES           CACTVS               3.370 "CC1=C(O)C(=O)C=C(O1)C(O)=O"                                        
+SHL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC1=C(C(=O)C=C(O1)C(=O)O)O"                                        
+SHL SMILES           "OpenEye OEToolkits" 1.7.6 "CC1=C(C(=O)C=C(O1)C(=O)O)O"                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SHL "SYSTEMATIC NAME" ACDLabs              12.01 "5-hydroxy-6-methyl-4-oxo-4H-pyran-2-carboxylic acid"         
+SHL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "6-methyl-5-oxidanyl-4-oxidanylidene-pyran-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SHL "Create component" 2012-09-14 RCSB 
+SHL "Initial release"  2012-09-21 RCSB 
+# 

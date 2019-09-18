@@ -1,0 +1,175 @@
+data_NCX
+# 
+_chem_comp.id                                    NCX 
+_chem_comp.name                                  "1-(2-DEOXY-5-O-PHOSPHONO-BETA-D-ERYTHRO-PENTOFURANOSYL)-5-NITRO-1H-INDOLE-3-CARBOXAMIDE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C14 H16 N3 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-01-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        401.265 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     NCX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NCX P      P    P 0  1 N N N 6.177  5.790  13.613 1.592  -1.245 -4.964 P      NCX 1  
+NCX OP1    O1P  O 0  1 N N N 6.546  7.168  13.222 2.575  -0.951 -6.059 OP1    NCX 2  
+NCX OP2    O2P  O 0  1 N N N 6.971  5.077  14.638 0.886  -2.697 -5.051 OP2    NCX 3  
+NCX OP3    O3P  O 0  1 N Y N 6.129  4.888  12.278 0.339  -0.227 -4.868 OP3    NCX 4  
+NCX "O5'"  O5*  O 0  1 N N N 4.638  5.787  14.072 2.211  -1.232 -3.468 "O5'"  NCX 5  
+NCX "C5'"  C5*  C 0  1 N N N 3.678  6.591  13.407 1.348  -1.500 -2.377 "C5'"  NCX 6  
+NCX "C4'"  C4*  C 0  1 N N R 2.308  6.532  14.092 2.156  -1.432 -1.088 "C4'"  NCX 7  
+NCX "O4'"  O4*  O 0  1 N N N 1.613  5.348  13.717 2.678  -0.093 -0.958 "O4'"  NCX 8  
+NCX "C1'"  C1*  C 0  1 N N R 1.117  4.731  14.892 2.101  0.516  0.211  "C1'"  NCX 9  
+NCX N9     N9   N 0  1 Y N N 0.939  3.280  14.656 1.818  1.923  -0.049 N9     NCX 10 
+NCX C8     C8   C 0  1 Y N N 1.773  2.217  14.995 1.433  2.429  -1.267 C8     NCX 11 
+NCX C7     C7   C 0  1 Y N N 1.179  1.020  14.614 1.257  3.787  -1.132 C7     NCX 12 
+NCX CO7    CO7  C 0  1 N N N 1.840  -0.277 14.865 0.853  4.657  -2.199 CO7    NCX 13 
+NCX O7     O7   O 0  1 N N N 2.944  -0.419 15.334 0.720  5.893  -2.038 O7     NCX 14 
+NCX NH7    NH7  N 0  1 N N N 1.175  -1.394 14.589 0.619  4.099  -3.462 NH7    NCX 15 
+NCX C5     C5   C 0  1 Y N N -0.054 1.388  13.985 1.546  4.129  0.219  C5     NCX 16 
+NCX C4     C4   C 0  1 Y N N -0.138 2.751  14.044 1.894  2.946  0.876  C4     NCX 17 
+NCX C3     C3   C 0  1 Y N N -1.205 3.451  13.491 2.242  2.909  2.231  C3     NCX 18 
+NCX C2     C2   C 0  1 Y N N -2.187 2.728  12.824 2.233  4.117  2.934  C2     NCX 19 
+NCX C1     C1   C 0  1 Y N N -2.097 1.331  12.709 1.890  5.312  2.305  C1     NCX 20 
+NCX N1     N1   N 1  1 N N N -3.087 0.599  11.879 1.890  6.523  3.047  N1     NCX 21 
+NCX O11    O11  O 0  1 N N N -4.164 1.128  11.656 1.579  7.591  2.467  O11    NCX 22 
+NCX O12    O12  O -1 1 N N N -2.746 -0.490 11.451 2.202  6.491  4.262  O12    NCX 23 
+NCX C6     C6   C 0  1 Y N N -1.039 0.645  13.335 1.544  5.334  0.949  C6     NCX 24 
+NCX "C3'"  C3*  C 0  1 N N S 2.398  6.563  15.624 1.309  -1.697 0.152  "C3'"  NCX 25 
+NCX "C2'"  C2*  C 0  1 N N N 2.123  5.106  15.976 0.878  -0.312 0.578  "C2'"  NCX 26 
+NCX "O3'"  O3*  O 0  1 N N N 1.395  7.451  16.087 2.127  -2.250 1.180  "O3'"  NCX 27 
+NCX HOP3   3HOP H 0  0 N N N 6.120  5.453  11.514 -0.163 -0.014 -5.684 HOP3   NCX 28 
+NCX HOP2   2HOP H 0  0 N N N 7.849  4.924  14.309 0.508  -2.990 -5.907 HOP2   NCX 29 
+NCX "H5'"  1H5* H 0  1 N N N 4.029  7.634  13.411 0.551  -0.756 -2.359 "H5'"  NCX 30 
+NCX "H5''" 2H5* H 0  0 N N N 3.564  6.209  12.382 0.917  -2.495 -2.497 "H5''" NCX 31 
+NCX "H4'"  H4*  H 0  1 N N N 1.769  7.431  13.758 3.008  -2.117 -1.157 "H4'"  NCX 32 
+NCX "H1'"  H1*  H 0  1 N N N 0.117  5.067  15.205 2.853  0.503  1.007  "H1'"  NCX 33 
+NCX H8     H8   H 0  1 N N N 2.734  2.309  15.480 1.319  1.777  -2.123 H8     NCX 34 
+NCX HH71   1HH7 H 0  0 N N N 0.274  -1.147 14.232 0.742  3.100  -3.587 HH71   NCX 35 
+NCX HH72   2HH7 H 0  0 N N N 1.518  -2.325 14.717 0.331  4.661  -4.256 HH72   NCX 36 
+NCX H3     H3   H 0  1 N N N -1.269 4.526  13.577 2.509  1.981  2.726  H3     NCX 37 
+NCX H2     H2   H 0  1 N N N -3.029 3.246  12.389 2.499  4.108  3.989  H2     NCX 38 
+NCX H6     H6   H 0  1 N N N -0.991 -0.434 13.312 1.277  6.268  0.460  H6     NCX 39 
+NCX "H3'"  H3*  H 0  1 N N N 3.344  6.912  16.064 0.475  -2.383 -0.018 "H3'"  NCX 40 
+NCX "H2'"  1H2* H 0  1 N N N 1.711  4.990  16.989 0.008  0.008  -0.009 "H2'"  NCX 41 
+NCX "H2''" 2H2* H 0  0 N N N 3.020  4.470  15.997 0.635  -0.225 1.641  "H2''" NCX 42 
+NCX "HO3'" H3T  H 0  0 N Y N 1.546  7.650  17.004 2.928  -1.706 1.218  "HO3'" NCX 43 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NCX P     OP3    SING N N 1  
+NCX P     OP1    DOUB N N 2  
+NCX P     "O5'"  SING N N 3  
+NCX P     OP2    SING N N 4  
+NCX OP2   HOP2   SING N N 5  
+NCX OP3   HOP3   SING N N 6  
+NCX "O5'" "C5'"  SING N N 7  
+NCX "C5'" "C4'"  SING N N 8  
+NCX "C5'" "H5'"  SING N N 9  
+NCX "C5'" "H5''" SING N N 10 
+NCX "C4'" "O4'"  SING N N 11 
+NCX "C4'" "C3'"  SING N N 12 
+NCX "C4'" "H4'"  SING N N 13 
+NCX "O4'" "C1'"  SING N N 14 
+NCX "C1'" N9     SING N N 15 
+NCX "C1'" "C2'"  SING N N 16 
+NCX "C1'" "H1'"  SING N N 17 
+NCX N9    C4     SING Y N 18 
+NCX N9    C8     SING Y N 19 
+NCX C8    C7     DOUB Y N 20 
+NCX C8    H8     SING N N 21 
+NCX C7    C5     SING Y N 22 
+NCX C7    CO7    SING N N 23 
+NCX CO7   NH7    SING N N 24 
+NCX CO7   O7     DOUB N N 25 
+NCX NH7   HH71   SING N N 26 
+NCX NH7   HH72   SING N N 27 
+NCX C5    C6     DOUB Y N 28 
+NCX C5    C4     SING Y N 29 
+NCX C4    C3     DOUB Y N 30 
+NCX C3    C2     SING Y N 31 
+NCX C3    H3     SING N N 32 
+NCX C2    C1     DOUB Y N 33 
+NCX C2    H2     SING N N 34 
+NCX C1    N1     SING N N 35 
+NCX C1    C6     SING Y N 36 
+NCX N1    O12    SING N N 37 
+NCX N1    O11    DOUB N N 38 
+NCX C6    H6     SING N N 39 
+NCX "C3'" "C2'"  SING N N 40 
+NCX "C3'" "O3'"  SING N N 41 
+NCX "C3'" "H3'"  SING N N 42 
+NCX "C2'" "H2'"  SING N N 43 
+NCX "C2'" "H2''" SING N N 44 
+NCX "O3'" "HO3'" SING N N 45 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NCX SMILES           ACDLabs              10.04 "[O-][N+](=O)c2cc1c(cn(c1cc2)C3OC(C(O)C3)COP(=O)(O)O)C(=O)N"                                                                                                              
+NCX SMILES_CANONICAL CACTVS               3.341 "NC(=O)c1cn([C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)O2)c3ccc(cc13)[N+]([O-])=O"                                                                                               
+NCX SMILES           CACTVS               3.341 "NC(=O)c1cn([CH]2C[CH](O)[CH](CO[P](O)(O)=O)O2)c3ccc(cc13)[N+]([O-])=O"                                                                                                   
+NCX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc2c(cc1[N+](=O)[O-])c(cn2[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)C(=O)N"                                                                                                 
+NCX SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc2c(cc1[N+](=O)[O-])c(cn2C3CC(C(O3)COP(=O)(O)O)O)C(=O)N"                                                                                                              
+NCX InChI            InChI                1.03  "InChI=1S/C14H16N3O9P/c15-14(19)9-5-16(10-2-1-7(17(20)21)3-8(9)10)13-4-11(18)12(26-13)6-25-27(22,23)24/h1-3,5,11-13,18H,4,6H2,(H2,15,19)(H2,22,23,24)/t11-,12+,13+/m0/s1" 
+NCX InChIKey         InChI                1.03  AWLFWQPJPLUSDJ-YNEHKIRRSA-N                                                                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NCX "SYSTEMATIC NAME" ACDLabs              10.04 "1-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-5-nitro-1H-indole-3-carboxamide"              
+NCX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(3-aminocarbonyl-5-nitro-indol-1-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NCX "Create component"  2007-01-25 EBI  
+NCX "Modify descriptor" 2011-06-04 RCSB 
+# 

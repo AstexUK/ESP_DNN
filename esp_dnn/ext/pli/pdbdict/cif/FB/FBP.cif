@@ -1,0 +1,155 @@
+data_FBP
+# 
+_chem_comp.id                                    FBP 
+_chem_comp.name                                  BETA-FRUCTOSE-1,6-DIPHOSPHATE 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H14 O12 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         FRUCTOSE-1,6-BISPHOSPHATE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         BFP 
+_chem_comp.formula_weight                        340.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FBP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A5Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FBP P1   P1   P 0 1 N N N 99.925  23.147 35.799 -1.337 0.220  3.937  P1   FBP 1  
+FBP O1P  O1P  O 0 1 N N N 100.069 22.491 34.416 -1.479 1.676  3.719  O1P  FBP 2  
+FBP O2P  O2P  O 0 1 N N N 99.164  22.339 36.736 -2.773 -0.411 4.298  O2P  FBP 3  
+FBP O3P  O3P  O 0 1 N N N 99.436  24.517 35.475 -0.315 -0.043 5.153  O3P  FBP 4  
+FBP O1   O1   O 0 1 N N N 101.330 23.234 36.357 -0.768 -0.470 2.599  O1   FBP 5  
+FBP C1   C1   C 0 1 N N N 102.372 23.619 35.433 0.501  0.129  2.333  C1   FBP 6  
+FBP C2   C2   C 0 1 N N R 103.602 23.761 36.271 1.099  -0.485 1.066  C2   FBP 7  
+FBP O2   O2   O 0 1 N Y N 103.276 24.731 37.201 1.251  -1.896 1.237  O2   FBP 8  
+FBP C3   C3   C 0 1 N N S 104.860 24.229 35.485 2.472  0.156  0.771  C3   FBP 9  
+FBP O3   O3   O 0 1 N N N 104.641 25.561 34.956 3.538  -0.695 1.194  O3   FBP 10 
+FBP C4   C4   C 0 1 N N S 105.927 24.042 36.590 2.450  0.284  -0.776 C4   FBP 11 
+FBP O4   O4   O 0 1 N N N 107.308 24.188 36.165 3.263  1.375  -1.214 O4   FBP 12 
+FBP C5   C5   C 0 1 N N R 105.502 22.627 37.184 0.948  0.572  -1.027 C5   FBP 13 
+FBP O5   O5   O 0 1 N N N 104.024 22.526 36.940 0.247  -0.220 -0.054 O5   FBP 14 
+FBP C6   C6   C 0 1 N N N 105.781 22.568 38.676 0.551  0.147  -2.442 C6   FBP 15 
+FBP O6   O6   O 0 1 N N N 105.415 21.296 39.390 -0.849 0.361  -2.628 O6   FBP 16 
+FBP P2   P2   P 0 1 N N N 106.213 20.006 39.458 -1.195 -0.103 -4.130 P2   FBP 17 
+FBP O4P  O4P  O 0 1 N N N 107.448 20.270 38.657 -0.856 -1.534 -4.294 O4P  FBP 18 
+FBP O5P  O5P  O 0 1 N N N 105.202 19.056 38.878 -2.766 0.111  -4.410 O5P  FBP 19 
+FBP O6P  O6P  O 0 1 N N N 106.582 19.621 40.837 -0.339 0.773  -5.174 O6P  FBP 20 
+FBP HOP2 2HOP H 0 0 N N N 99.075  22.744 37.590 -3.078 0.028  5.104  HOP2 FBP 21 
+FBP HOP3 3HOP H 0 0 N N N 99.347  24.922 36.329 -0.251 -1.002 5.262  HOP3 FBP 22 
+FBP H11  1H1  H 0 1 N N N 102.491 22.921 34.571 1.170  -0.049 3.174  H11  FBP 23 
+FBP H12  2H1  H 0 1 N N N 102.128 24.525 34.831 0.373  1.202  2.190  H12  FBP 24 
+FBP HO2  HO2  H 0 1 N N N 104.057 24.821 37.733 0.370  -2.251 1.418  HO2  FBP 25 
+FBP H3   H3   H 0 1 N N N 105.154 23.688 34.555 2.551  1.136  1.240  H3   FBP 26 
+FBP HO3  HO3  H 0 1 N N N 105.409 25.846 34.475 4.361  -0.280 0.902  HO3  FBP 27 
+FBP H4   H4   H 0 1 N N N 105.933 24.850 37.357 2.756  -0.646 -1.252 H4   FBP 28 
+FBP HO4  HO4  H 0 1 N N N 107.963 24.073 36.843 4.175  1.156  -0.979 HO4  FBP 29 
+FBP H5   H5   H 0 1 N N N 106.070 21.793 36.708 0.736  1.630  -0.876 H5   FBP 30 
+FBP H61  1H6  H 0 1 N N N 106.854 22.803 38.863 1.108  0.739  -3.168 H61  FBP 31 
+FBP H62  2H6  H 0 1 N N N 105.289 23.432 39.180 0.779  -0.908 -2.582 H62  FBP 32 
+FBP HOP5 5HOP H 0 0 N N N 105.701 18.248 38.920 -2.930 -0.178 -5.318 HOP5 FBP 33 
+FBP HOP6 6HOP H 0 0 N N N 107.081 18.813 40.879 -0.589 1.697  -5.035 HOP6 FBP 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FBP P1  O1P  DOUB N N 1  
+FBP P1  O2P  SING N N 2  
+FBP P1  O3P  SING N N 3  
+FBP P1  O1   SING N N 4  
+FBP O2P HOP2 SING N N 5  
+FBP O3P HOP3 SING N N 6  
+FBP O1  C1   SING N N 7  
+FBP C1  C2   SING N N 8  
+FBP C1  H11  SING N N 9  
+FBP C1  H12  SING N N 10 
+FBP C2  O2   SING N N 11 
+FBP C2  C3   SING N N 12 
+FBP C2  O5   SING N N 13 
+FBP O2  HO2  SING N N 14 
+FBP C3  O3   SING N N 15 
+FBP C3  C4   SING N N 16 
+FBP C3  H3   SING N N 17 
+FBP O3  HO3  SING N N 18 
+FBP C4  O4   SING N N 19 
+FBP C4  C5   SING N N 20 
+FBP C4  H4   SING N N 21 
+FBP O4  HO4  SING N N 22 
+FBP C5  O5   SING N N 23 
+FBP C5  C6   SING N N 24 
+FBP C5  H5   SING N N 25 
+FBP C6  O6   SING N N 26 
+FBP C6  H61  SING N N 27 
+FBP C6  H62  SING N N 28 
+FBP O6  P2   SING N N 29 
+FBP P2  O4P  DOUB N N 30 
+FBP P2  O5P  SING N N 31 
+FBP P2  O6P  SING N N 32 
+FBP O5P HOP5 SING N N 33 
+FBP O6P HOP6 SING N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FBP SMILES           ACDLabs              10.04 "O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O"                                                                                                  
+FBP SMILES_CANONICAL CACTVS               3.341 "O[C@H]1[C@H](O)[C@@](O)(CO[P](O)(O)=O)O[C@@H]1CO[P](O)(O)=O"                                                                             
+FBP SMILES           CACTVS               3.341 "O[CH]1[CH](O)[C](O)(CO[P](O)(O)=O)O[CH]1CO[P](O)(O)=O"                                                                                   
+FBP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@@H]([C@](O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O"                                                                             
+FBP SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O"                                                                                              
+FBP InChI            InChI                1.03  "InChI=1S/C6H14O12P2/c7-4-3(1-16-19(10,11)12)18-6(9,5(4)8)2-17-20(13,14)15/h3-5,7-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5+,6-/m1/s1" 
+FBP InChIKey         InChI                1.03  RNBGYGVWRKECFJ-ARQDHWQXSA-N                                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FBP "SYSTEMATIC NAME" ACDLabs              10.04 1,6-di-O-phosphono-beta-D-fructofuranose                                                        
+FBP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4S,5R)-2,3,4-trihydroxy-5-(phosphonooxymethyl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FBP "Create component"  1999-07-08 EBI  
+FBP "Modify descriptor" 2011-06-04 RCSB 
+# 

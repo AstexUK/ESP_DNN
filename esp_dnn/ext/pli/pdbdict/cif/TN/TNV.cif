@@ -1,0 +1,172 @@
+data_TNV
+# 
+_chem_comp.id                                    TNV 
+_chem_comp.name                                  "[2-(6-AMINO-9H-PURIN-9-YL)-1-METHYLETHOXY]METHYL-TRIPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H16 N5 O10 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         TENOFOVIR-DIPHOSPHATE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-04-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        447.172 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TNV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1T05 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TNV PA     PA     P 0 1 N N S 70.122 57.567 -63.971 1.525  -0.296 0.204  PA     TNV 1  
+TNV O1A    O1A    O 0 1 N N N 71.173 56.546 -63.481 0.850  0.974  0.548  O1A    TNV 2  
+TNV O2A    O2A    O 0 1 N N N 69.998 58.732 -62.957 0.506  -1.522 0.425  O2A    TNV 3  
+TNV O3A    O3A    O 0 1 N N N 70.582 58.132 -65.326 1.990  -0.256 -1.336 O3A    TNV 4  
+TNV PB     PB     P 0 1 N N S 71.071 57.146 -66.478 0.658  -0.059 -2.219 PB     TNV 5  
+TNV O1B    O1B    O 0 1 N N N 70.185 57.359 -67.751 -0.003 1.208  -1.837 O1B    TNV 6  
+TNV O2B    O2B    O 0 1 N N N 70.935 55.704 -65.955 -0.346 -1.289 -1.957 O2B    TNV 7  
+TNV O3B    O3B    O 0 1 N N N 72.580 57.431 -66.864 1.051  -0.010 -3.780 O3B    TNV 8  
+TNV PG     PG     P 0 1 N N N 73.773 57.275 -65.801 -0.320 0.187  -4.599 PG     TNV 9  
+TNV O1G    O1G    O 0 1 N N N 73.828 55.888 -65.320 -0.966 1.451  -4.181 O1G    TNV 10 
+TNV O2G    O2G    O 0 1 N N N 75.069 57.600 -66.468 0.000  0.245  -6.176 O2G    TNV 11 
+TNV O3G    O3G    O 0 1 N N N 73.552 58.228 -64.575 -1.308 -1.046 -4.297 O3G    TNV 12 
+TNV "C9'"  "C9'"  C 0 1 N N N 68.547 56.744 -64.065 2.985  -0.518 1.273  "C9'"  TNV 13 
+TNV "O9'"  "O9'"  O 0 1 N N N 68.108 56.744 -65.359 2.561  -0.686 2.628  "O9'"  TNV 14 
+TNV "C8'"  "C8'"  C 0 1 N N N 67.476 58.854 -66.358 3.474  1.289  3.680  "C8'"  TNV 15 
+TNV "C7'"  "C7'"  C 0 1 N N R 66.963 57.574 -65.653 2.222  0.612  3.118  "C7'"  TNV 16 
+TNV "C6'"  "C6'"  C 0 1 N N N 66.032 57.890 -64.389 1.173  0.481  4.224  "C6'"  TNV 17 
+TNV N9     N9     N 0 1 Y N N 65.851 59.301 -64.139 -0.025 -0.166 3.687  N9     TNV 18 
+TNV C4     C4     C 0 1 Y N N 65.031 60.200 -64.787 -1.104 0.463  3.120  C4     TNV 19 
+TNV N3     N3     N 0 1 Y N N 64.196 59.926 -65.827 -1.424 1.728  2.865  N3     TNV 20 
+TNV C2     C2     C 0 1 Y N N 63.544 61.048 -66.237 -2.568 2.026  2.285  C2     TNV 21 
+TNV N1     N1     N 0 1 Y N N 63.647 62.329 -65.742 -3.442 1.104  1.926  N1     TNV 22 
+TNV C6     C6     C 0 1 Y N N 64.498 62.573 -64.691 -3.207 -0.186 2.136  C6     TNV 23 
+TNV N6     N6     N 0 1 N N N 64.574 63.823 -64.244 -4.129 -1.145 1.757  N6     TNV 24 
+TNV C5     C5     C 0 1 Y N N 65.249 61.449 -64.157 -1.999 -0.555 2.752  C5     TNV 25 
+TNV N7     N7     N 0 1 Y N N 66.184 61.313 -63.123 -1.434 -1.732 3.114  N7     TNV 26 
+TNV C8     C8     C 0 1 Y N N 66.509 60.022 -63.154 -0.276 -1.506 3.663  C8     TNV 27 
+TNV H2A    H2A    H 0 1 N N N 69.351 59.359 -63.258 1.008  -2.334 0.270  H2A    TNV 28 
+TNV H2B    H2B    H 0 1 N N N 71.226 55.116 -66.641 0.122  -2.093 -2.218 H2B    TNV 29 
+TNV H2G    H2G    H 0 1 N N N 75.774 57.507 -65.839 -0.845 0.364  -6.629 H2G    TNV 30 
+TNV H3G    H3G    H 0 1 N N N 74.257 58.135 -63.946 -0.849 -1.848 -4.584 H3G    TNV 31 
+TNV "H9'1" "1H9'" H 0 0 N N N 68.582 55.717 -63.632 3.626  0.359  1.199  "H9'1" TNV 32 
+TNV "H9'2" "2H9'" H 0 0 N N N 67.798 57.186 -63.366 3.538  -1.401 0.954  "H9'2" TNV 33 
+TNV "H8'1" "1H8'" H 0 0 N N N 66.592 59.494 -66.584 3.920  0.651  4.443  "H8'1" TNV 34 
+TNV "H8'2" "2H8'" H 0 0 N N N 68.258 59.388 -65.770 4.191  1.450  2.875  "H8'2" TNV 35 
+TNV "H8'3" "3H8'" H 0 0 N N N 68.093 58.633 -67.259 3.201  2.248  4.121  "H8'3" TNV 36 
+TNV "H7'"  "H7'"  H 0 1 N N N 66.280 57.008 -66.329 1.818  1.214  2.304  "H7'"  TNV 37 
+TNV "H6'1" "1H6'" H 0 0 N N N 65.046 57.378 -64.489 1.577  -0.120 5.039  "H6'1" TNV 38 
+TNV "H6'2" "2H6'" H 0 0 N N N 66.417 57.375 -63.478 0.914  1.471  4.598  "H6'2" TNV 39 
+TNV H2     H2     H 0 1 N N N 62.843 60.900 -67.076 -2.799 3.064  2.095  H2     TNV 40 
+TNV HN61   1HN6   H 0 0 N N N 65.205 64.004 -63.463 -4.960 -0.878 1.332  HN61   TNV 41 
+TNV HN62   2HN6   H 0 0 N N N 63.639 64.154 -64.006 -3.946 -2.084 1.916  HN62   TNV 42 
+TNV H8     H8     H 0 1 N N N 67.239 59.598 -62.444 0.388  -2.268 4.043  H8     TNV 43 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TNV PA    O1A    DOUB N N 1  
+TNV PA    O2A    SING N N 2  
+TNV PA    O3A    SING N N 3  
+TNV PA    "C9'"  SING N N 4  
+TNV O2A   H2A    SING N N 5  
+TNV O3A   PB     SING N N 6  
+TNV PB    O1B    DOUB N N 7  
+TNV PB    O2B    SING N N 8  
+TNV PB    O3B    SING N N 9  
+TNV O2B   H2B    SING N N 10 
+TNV O3B   PG     SING N N 11 
+TNV PG    O1G    DOUB N N 12 
+TNV PG    O2G    SING N N 13 
+TNV PG    O3G    SING N N 14 
+TNV O2G   H2G    SING N N 15 
+TNV O3G   H3G    SING N N 16 
+TNV "C9'" "O9'"  SING N N 17 
+TNV "C9'" "H9'1" SING N N 18 
+TNV "C9'" "H9'2" SING N N 19 
+TNV "O9'" "C7'"  SING N N 20 
+TNV "C8'" "C7'"  SING N N 21 
+TNV "C8'" "H8'1" SING N N 22 
+TNV "C8'" "H8'2" SING N N 23 
+TNV "C8'" "H8'3" SING N N 24 
+TNV "C7'" "C6'"  SING N N 25 
+TNV "C7'" "H7'"  SING N N 26 
+TNV "C6'" N9     SING N N 27 
+TNV "C6'" "H6'1" SING N N 28 
+TNV "C6'" "H6'2" SING N N 29 
+TNV N9    C4     SING Y N 30 
+TNV N9    C8     SING Y N 31 
+TNV C4    N3     SING Y N 32 
+TNV C4    C5     DOUB Y N 33 
+TNV N3    C2     DOUB Y N 34 
+TNV C2    N1     SING Y N 35 
+TNV C2    H2     SING N N 36 
+TNV N1    C6     DOUB Y N 37 
+TNV C6    N6     SING N N 38 
+TNV C6    C5     SING Y N 39 
+TNV N6    HN61   SING N N 40 
+TNV N6    HN62   SING N N 41 
+TNV C5    N7     SING Y N 42 
+TNV N7    C8     DOUB Y N 43 
+TNV C8    H8     SING N N 44 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TNV SMILES_CANONICAL CACTVS               3.341 "C[C@H](Cn1cnc2c(N)ncnc12)OC[P@@](O)(=O)O[P@@](O)(=O)O[P](O)(O)=O"                                                                                                             
+TNV SMILES           CACTVS               3.341 "C[CH](Cn1cnc2c(N)ncnc12)OC[P](O)(=O)O[P](O)(=O)O[P](O)(O)=O"                                                                                                                  
+TNV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H](Cn1cnc2c1ncnc2N)OC[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O"                                                                                                                   
+TNV SMILES           "OpenEye OEToolkits" 1.5.0 "CC(Cn1cnc2c1ncnc2N)OCP(=O)(O)OP(=O)(O)OP(=O)(O)O"                                                                                                                             
+TNV InChI            InChI                1.03  "InChI=1S/C9H16N5O10P3/c1-6(2-14-4-13-7-8(10)11-3-12-9(7)14)22-5-25(15,16)23-27(20,21)24-26(17,18)19/h3-4,6H,2,5H2,1H3,(H,15,16)(H,20,21)(H2,10,11,12)(H2,17,18,19)/t6-/m1/s1" 
+TNV InChIKey         InChI                1.03  IACQCQDWSIQSRP-ZCFIWIBFSA-N                                                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TNV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R)-1-(6-aminopurin-9-yl)propan-2-yl]oxymethyl-(hydroxy-phosphonooxy-phosphoryl)oxy-phosphinic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TNV "Create component"  2004-04-21 EBI  
+TNV "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,124 @@
+data_23B
+# 
+_chem_comp.id                                    23B 
+_chem_comp.name                                  "(2S,3R)-2,3-dihydroxy-2-methylbutanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-06-13 
+_chem_comp.pdbx_modified_date                    2013-09-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     23B 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4BT5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+23B C1  C1  C 0 1 N N N -23.013 31.820 83.038 -1.284 -0.220 -0.167 C1  23B 1  
+23B O1  O1  O 0 1 N N N -21.970 32.481 83.294 -2.350 0.206  0.528  O1  23B 2  
+23B C2  C2  C 0 1 N N S -23.201 30.473 83.656 0.038  0.491  -0.030 C2  23B 3  
+23B O2  O2  O 0 1 N N N -23.929 32.209 82.278 -1.383 -1.177 -0.898 O2  23B 4  
+23B C3  C3  C 0 1 N N R -24.563 30.433 84.382 1.174  -0.475 -0.375 C3  23B 5  
+23B O3  O3  O 0 1 N N N -22.127 30.295 84.609 0.195  0.951  1.313  O3  23B 6  
+23B C4  C4  C 0 1 N N N -24.921 29.067 84.919 2.516  0.247  -0.236 C4  23B 7  
+23B O4  O4  O 0 1 N N N -24.549 31.381 85.479 1.138  -1.590 0.518  O4  23B 8  
+23B C5  C5  C 0 1 N N N -23.105 29.387 82.571 0.076  1.685  -0.986 C5  23B 9  
+23B HO1 HO1 H 0 1 N N N -21.994 33.306 82.824 -3.176 -0.282 0.408  HO1 23B 10 
+23B H3  H3  H 0 1 N N N -25.337 30.732 83.660 1.054  -0.826 -1.400 H3  23B 11 
+23B HO3 HO3 H 0 1 N N N -22.211 29.446 85.026 0.180  0.246  1.975  HO3 23B 12 
+23B H4  H4  H 0 1 N N N -25.899 29.114 85.421 2.636  0.598  0.789  H4  23B 13 
+23B H4A H4A H 0 1 N N N -24.970 28.348 84.088 3.325  -0.440 -0.481 H4A 23B 14 
+23B H4B H4B H 0 1 N N N -24.155 28.744 85.639 2.543  1.098  -0.917 H4B 23B 15 
+23B HO4 HO4 H 0 1 N N N -25.386 31.359 85.928 1.239  -1.351 1.450  HO4 23B 16 
+23B H5  H5  H 0 1 N N N -23.244 28.397 83.029 -0.733 2.372  -0.741 H5  23B 17 
+23B H5A H5A H 0 1 N N N -23.887 29.554 81.815 1.032  2.199  -0.887 H5A 23B 18 
+23B H5B H5B H 0 1 N N N -22.116 29.434 82.092 -0.044 1.334  -2.011 H5B 23B 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+23B O2 C1  DOUB N N 1  
+23B C1 O1  SING N N 2  
+23B C1 C2  SING N N 3  
+23B O1 HO1 SING N N 4  
+23B C5 C2  SING N N 5  
+23B C2 C3  SING N N 6  
+23B C2 O3  SING N N 7  
+23B C3 C4  SING N N 8  
+23B C3 O4  SING N N 9  
+23B C3 H3  SING N N 10 
+23B O3 HO3 SING N N 11 
+23B C4 H4  SING N N 12 
+23B C4 H4A SING N N 13 
+23B C4 H4B SING N N 14 
+23B O4 HO4 SING N N 15 
+23B C5 H5  SING N N 16 
+23B C5 H5A SING N N 17 
+23B C5 H5B SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+23B SMILES           ACDLabs              12.01 "O=C(O)C(O)(C)C(O)C"                                                     
+23B InChI            InChI                1.03  "InChI=1S/C5H10O4/c1-3(6)5(2,9)4(7)8/h3,6,9H,1-2H3,(H,7,8)/t3-,5+/m1/s1" 
+23B InChIKey         InChI                1.03  AOWPAWLEXIYETE-WUJLRWPWSA-N                                              
+23B SMILES_CANONICAL CACTVS               3.370 "C[C@@H](O)[C@](C)(O)C(O)=O"                                             
+23B SMILES           CACTVS               3.370 "C[CH](O)[C](C)(O)C(O)=O"                                                
+23B SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@H]([C@@](C)(C(=O)O)O)O"                                             
+23B SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C(C)(C(=O)O)O)O"                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+23B "SYSTEMATIC NAME" ACDLabs              12.01 "(2S,3R)-2,3-dihydroxy-2-methylbutanoic acid"     
+23B "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S,3R)-2-methyl-2,3-bis(oxidanyl)butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+23B "Create component" 2013-06-13 EBI  
+23B "Initial release"  2013-09-11 RCSB 
+# 

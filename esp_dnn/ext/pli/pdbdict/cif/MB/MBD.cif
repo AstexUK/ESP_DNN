@@ -1,0 +1,121 @@
+data_MBD
+# 
+_chem_comp.id                                    MBD 
+_chem_comp.name                                  3-METHYLCATECHOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         3-METHYL-BENZENE-1,2-DIOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-12-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        124.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MBD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KNF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MBD CA1  CA1  C 0 1 Y N N 20.902 -20.662 71.344 -0.023 0.026  -1.186 CA1  MBD 1  
+MBD OA1  OA1  O 0 1 N N N 21.160 -19.376 70.931 -0.740 0.047  -2.341 OA1  MBD 2  
+MBD CA2  CA2  C 0 1 Y N N 21.943 -21.487 71.636 -0.679 0.021  0.041  CA2  MBD 3  
+MBD OA2  OA2  O 0 1 N N N 23.225 -21.024 71.510 -2.038 0.041  0.088  OA2  MBD 4  
+MBD CA3  CA3  C 0 1 Y N N 21.716 -22.779 72.043 0.055  0.005  1.215  CA3  MBD 5  
+MBD CB3  CB3  C 0 1 N N N 22.885 -23.633 72.348 -0.650 0.004  2.547  CB3  MBD 6  
+MBD CA4  CA4  C 0 1 Y N N 20.414 -23.256 72.168 1.437  -0.015 1.166  CA4  MBD 7  
+MBD CA5  CA5  C 0 1 Y N N 19.351 -22.423 71.875 2.088  -0.015 -0.052 CA5  MBD 8  
+MBD CA6  CA6  C 0 1 Y N N 19.587 -21.121 71.471 1.360  0.005  -1.228 CA6  MBD 9  
+MBD HA1  HA1  H 0 1 N N N 20.432 -18.799 70.727 -0.902 -0.874 -2.586 HA1  MBD 10 
+MBD HA2  HA2  H 0 1 N N N 23.952 -21.600 71.714 -2.331 -0.879 0.086  HA2  MBD 11 
+MBD HB31 1HB3 H 0 0 N N N 22.700 -24.681 72.678 -0.805 1.031  2.877  HB31 MBD 12 
+MBD HB32 2HB3 H 0 0 N N N 23.567 -23.644 71.466 -1.615 -0.493 2.446  HB32 MBD 13 
+MBD HB33 3HB3 H 0 0 N N N 23.522 -23.119 73.105 -0.043 -0.525 3.280  HB33 MBD 14 
+MBD HA4  HA4  H 0 1 N N N 20.225 -24.291 72.498 2.009  -0.032 2.082  HA4  MBD 15 
+MBD HA5  HA5  H 0 1 N N N 18.316 -22.796 71.963 3.167  -0.031 -0.087 HA5  MBD 16 
+MBD HA6  HA6  H 0 1 N N N 18.735 -20.455 71.252 1.871  0.006  -2.179 HA6  MBD 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MBD CA1 OA1  SING N N 1  
+MBD CA1 CA2  DOUB Y N 2  
+MBD CA1 CA6  SING Y N 3  
+MBD OA1 HA1  SING N N 4  
+MBD CA2 OA2  SING N N 5  
+MBD CA2 CA3  SING Y N 6  
+MBD OA2 HA2  SING N N 7  
+MBD CA3 CB3  SING N N 8  
+MBD CA3 CA4  DOUB Y N 9  
+MBD CB3 HB31 SING N N 10 
+MBD CB3 HB32 SING N N 11 
+MBD CB3 HB33 SING N N 12 
+MBD CA4 CA5  SING Y N 13 
+MBD CA4 HA4  SING N N 14 
+MBD CA5 CA6  DOUB Y N 15 
+MBD CA5 HA5  SING N N 16 
+MBD CA6 HA6  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MBD SMILES           ACDLabs              10.04 "Oc1c(cccc1O)C"                                      
+MBD SMILES_CANONICAL CACTVS               3.341 "Cc1cccc(O)c1O"                                      
+MBD SMILES           CACTVS               3.341 "Cc1cccc(O)c1O"                                      
+MBD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1cccc(c1O)O"                                      
+MBD SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1cccc(c1O)O"                                      
+MBD InChI            InChI                1.03  "InChI=1S/C7H8O2/c1-5-3-2-4-6(8)7(5)9/h2-4,8-9H,1H3" 
+MBD InChIKey         InChI                1.03  PGSWEKYNAOWQDF-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MBD "SYSTEMATIC NAME" ACDLabs              10.04 3-methylbenzene-1,2-diol 
+MBD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-methylbenzene-1,2-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MBD "Create component"  2001-12-19 RCSB 
+MBD "Modify descriptor" 2011-06-04 RCSB 
+# 

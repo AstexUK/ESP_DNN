@@ -1,0 +1,136 @@
+data_MLL
+# 
+_chem_comp.id                                    MLL 
+_chem_comp.name                                  "METHYL L-LEUCINATE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H15 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               LEU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.199 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     MLL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MLL N    N    N 0 1 N N N 143.972 237.596 103.188 2.710  -5.210 -0.837 N    MLL 1  
+MLL CA   CA   C 0 1 N N S 144.601 236.522 103.940 1.516  -4.465 -0.530 CA   MLL 2  
+MLL CB   CB   C 0 1 N N N 143.786 236.279 105.206 1.729  -2.951 -0.619 CB   MLL 3  
+MLL CG   CG   C 0 1 N N N 144.262 237.176 106.339 0.490  -2.104 -0.267 CG   MLL 4  
+MLL CD2  CD2  C 0 1 N N N 144.215 236.460 107.677 0.009  -2.452 1.144  CD2  MLL 5  
+MLL CD1  CD1  C 0 1 N N N 143.444 238.450 106.445 0.765  -0.602 -0.362 CD1  MLL 6  
+MLL C    C    C 0 1 N N N 144.717 235.270 103.070 0.468  -4.902 -1.535 C    MLL 7  
+MLL O    O    O 0 1 N N N 144.077 234.149 103.697 -0.559 -5.508 -1.259 O    MLL 8  
+MLL O9   O9   O 0 1 N N N 146.102 235.005 102.835 0.878  -4.557 -2.792 O9   MLL 9  
+MLL C10  C10  C 0 1 N N N 146.467 233.628 102.947 0.007  -4.954 -3.856 C10  MLL 10 
+MLL H    1HN  H 0 1 N N N 143.828 238.383 103.788 3.571  -4.965 -0.378 H    MLL 11 
+MLL H2   2HN  H 0 1 N Y N 144.564 237.861 102.427 2.714  -5.818 -1.639 H2   MLL 12 
+MLL HA   HA   H 0 1 N N N 145.625 236.797 104.234 1.200  -4.780 0.469  HA   MLL 13 
+MLL HB2  1HB  H 0 1 N N N 142.728 236.496 104.998 2.066  -2.695 -1.633 HB2  MLL 14 
+MLL HB3  2HB  H 0 1 N N N 143.913 235.230 105.511 2.552  -2.667 0.052  HB3  MLL 15 
+MLL HG   HG   H 0 1 N N N 145.302 237.437 106.096 -0.323 -2.349 -0.963 HG   MLL 16 
+MLL HD21 1HD2 H 0 0 N N N 144.204 235.373 107.511 -0.232 -3.517 1.222  HD21 MLL 17 
+MLL HD22 2HD2 H 0 0 N N N 145.101 236.731 108.269 -0.894 -1.887 1.399  HD22 MLL 18 
+MLL HD23 3HD2 H 0 0 N N N 143.306 236.757 108.220 0.775  -2.222 1.893  HD23 MLL 19 
+MLL HD11 1HD1 H 0 0 N N N 143.246 238.672 107.504 0.982  -0.300 -1.391 HD11 MLL 20 
+MLL HD12 2HD1 H 0 0 N N N 144.003 239.283 105.994 1.615  -0.314 0.266  HD12 MLL 21 
+MLL HD13 3HD1 H 0 0 N N N 142.490 238.318 105.914 -0.107 -0.026 -0.034 HD13 MLL 22 
+MLL H101 1H10 H 0 0 N N N 146.561 233.190 101.942 0.220  -5.989 -4.135 H101 MLL 23 
+MLL H102 2H10 H 0 0 N N N 147.429 233.546 103.474 0.155  -4.295 -4.715 H102 MLL 24 
+MLL H103 3H10 H 0 0 N N N 145.692 233.088 103.511 -1.028 -4.878 -3.514 H103 MLL 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MLL N   CA   SING N N 1  
+MLL N   H    SING N N 2  
+MLL N   H2   SING N N 3  
+MLL CA  CB   SING N N 4  
+MLL CA  C    SING N N 5  
+MLL CA  HA   SING N N 6  
+MLL CB  CG   SING N N 7  
+MLL CB  HB2  SING N N 8  
+MLL CB  HB3  SING N N 9  
+MLL CG  CD2  SING N N 10 
+MLL CG  CD1  SING N N 11 
+MLL CG  HG   SING N N 12 
+MLL CD2 HD21 SING N N 13 
+MLL CD2 HD22 SING N N 14 
+MLL CD2 HD23 SING N N 15 
+MLL CD1 HD11 SING N N 16 
+MLL CD1 HD12 SING N N 17 
+MLL CD1 HD13 SING N N 18 
+MLL C   O    DOUB N N 19 
+MLL C   O9   SING N N 20 
+MLL O9  C10  SING N N 21 
+MLL C10 H101 SING N N 22 
+MLL C10 H102 SING N N 23 
+MLL C10 H103 SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MLL SMILES           ACDLabs              10.04 "O=C(OC)C(N)CC(C)C"                                                   
+MLL SMILES_CANONICAL CACTVS               3.341 "COC(=O)[C@@H](N)CC(C)C"                                              
+MLL SMILES           CACTVS               3.341 "COC(=O)[CH](N)CC(C)C"                                                
+MLL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)C[C@@H](C(=O)OC)N"                                              
+MLL SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C(=O)OC)N"                                                   
+MLL InChI            InChI                1.03  "InChI=1S/C7H15NO2/c1-5(2)4-6(8)7(9)10-3/h5-6H,4,8H2,1-3H3/t6-/m0/s1" 
+MLL InChIKey         InChI                1.03  QVDXUKJJGUSGLS-LURJTMIESA-N                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MLL "SYSTEMATIC NAME" ACDLabs              10.04 "methyl L-leucinate"                      
+MLL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "methyl (2S)-2-amino-4-methyl-pentanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MLL "Create component"  2006-10-02 EBI  
+MLL "Modify descriptor" 2011-06-04 RCSB 
+# 

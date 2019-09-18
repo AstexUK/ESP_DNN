@@ -1,0 +1,121 @@
+data_MCT
+# 
+_chem_comp.id                                    MCT 
+_chem_comp.name                                  4-METHYLCATECHOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         4-METHYL-1,2-BENZENEDIOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-12-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        124.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MCT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DMH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MCT C1  C1  C 0 1 Y N N -14.739 81.230 110.535 -0.044 -0.001 1.610  C1  MCT 1  
+MCT C2  C2  C 0 1 Y N N -15.503 81.988 111.436 -1.063 0.010  0.676  C2  MCT 2  
+MCT C3  C3  C 0 1 Y N N -16.746 81.477 111.866 -0.762 0.028  -0.676 C3  MCT 3  
+MCT O3  O3  O 0 1 N N N -17.496 82.216 112.745 -1.763 0.045  -1.596 O3  MCT 4  
+MCT C4  C4  C 0 1 Y N N -17.230 80.257 111.423 0.565  0.024  -1.090 C4  MCT 5  
+MCT O4  O4  O 0 1 N N N -18.448 79.813 111.875 0.865  0.036  -2.417 O4  MCT 6  
+MCT C5  C5  C 0 1 Y N N -16.510 79.492 110.538 1.582  0.006  -0.149 C5  MCT 7  
+MCT C6  C6  C 0 1 Y N N -15.180 80.012 110.070 1.275  -0.006 1.198  C6  MCT 8  
+MCT C   C   C 0 1 N N N -13.383 81.777 110.068 -0.372 -0.016 3.081  C   MCT 9  
+MCT H2  H2  H 0 1 N N N -15.135 82.962 111.797 -2.093 0.013  1.001  H2  MCT 10 
+MCT HO3 HO3 H 0 1 N N N -18.332 81.872 113.034 -1.975 -0.876 -1.795 HO3 MCT 11 
+MCT HO4 HO4 H 0 1 N N N -18.779 78.976 111.571 0.920  -0.886 -2.699 HO4 MCT 12 
+MCT H5  H5  H 0 1 N N N -16.963 78.535 110.227 2.614  0.003  -0.468 H5  MCT 13 
+MCT H6  H6  H 0 1 N N N -14.511 79.486 109.367 2.068  -0.020 1.931  H6  MCT 14 
+MCT H1  1H  H 0 1 N N N -12.776 81.174 109.352 -0.444 1.007  3.447  H1  MCT 15 
+MCT H2A 2H  H 0 1 N N N -13.533 82.796 109.642 -1.323 -0.525 3.236  H2A MCT 16 
+MCT H3  3H  H 0 1 N N N -12.759 82.005 110.963 0.413  -0.541 3.624  H3  MCT 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MCT C1 C2  DOUB Y N 1  
+MCT C1 C6  SING Y N 2  
+MCT C1 C   SING N N 3  
+MCT C2 C3  SING Y N 4  
+MCT C2 H2  SING N N 5  
+MCT C3 O3  SING N N 6  
+MCT C3 C4  DOUB Y N 7  
+MCT O3 HO3 SING N N 8  
+MCT C4 O4  SING N N 9  
+MCT C4 C5  SING Y N 10 
+MCT O4 HO4 SING N N 11 
+MCT C5 C6  DOUB Y N 12 
+MCT C5 H5  SING N N 13 
+MCT C6 H6  SING N N 14 
+MCT C  H1  SING N N 15 
+MCT C  H2A SING N N 16 
+MCT C  H3  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MCT SMILES           ACDLabs              10.04 "Oc1ccc(cc1O)C"                                      
+MCT SMILES_CANONICAL CACTVS               3.341 "Cc1ccc(O)c(O)c1"                                    
+MCT SMILES           CACTVS               3.341 "Cc1ccc(O)c(O)c1"                                    
+MCT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1ccc(c(c1)O)O"                                    
+MCT SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1ccc(c(c1)O)O"                                    
+MCT InChI            InChI                1.03  "InChI=1S/C7H8O2/c1-5-2-3-6(8)7(9)4-5/h2-4,8-9H,1H3" 
+MCT InChIKey         InChI                1.03  ZBCATMYQYDCTIZ-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MCT "SYSTEMATIC NAME" ACDLabs              10.04 4-methylbenzene-1,2-diol 
+MCT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-methylbenzene-1,2-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MCT "Create component"  1999-12-17 RCSB 
+MCT "Modify descriptor" 2011-06-04 RCSB 
+# 

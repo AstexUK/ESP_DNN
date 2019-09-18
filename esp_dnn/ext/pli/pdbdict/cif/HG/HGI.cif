@@ -1,0 +1,92 @@
+data_HGI
+# 
+_chem_comp.id                                    HGI 
+_chem_comp.name                                  "MERCURY (II) IODIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Hg I2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "MERCURY DIIODIDE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-06-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        454.399 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HGI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1J99 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HGI HG HG HG 0 0 N N N 4.094 -27.598 34.690 0.000 0.000 0.000  HG HGI 1 
+HGI I1 I1 I  0 1 N N N 6.239 -27.907 36.021 0.000 0.000 -2.650 I1 HGI 2 
+HGI I2 I2 I  0 1 N N N 4.437 -26.429 32.307 0.000 0.000 2.650  I2 HGI 3 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HGI HG I1 SING N N 1 
+HGI HG I2 SING N N 2 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HGI SMILES           ACDLabs              10.04 "I[Hg]I"                         
+HGI SMILES_CANONICAL CACTVS               3.341 "I[Hg]I"                         
+HGI SMILES           CACTVS               3.341 "I[Hg]I"                         
+HGI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "I[Hg]I"                         
+HGI SMILES           "OpenEye OEToolkits" 1.5.0 "I[Hg]I"                         
+HGI InChI            InChI                1.03  InChI=1S/Hg.2HI/h;2*1H/q+2;;/p-2 
+HGI InChIKey         InChI                1.03  YFDLHELOZYVNJE-UHFFFAOYSA-L      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HGI "SYSTEMATIC NAME" ACDLabs              10.04 "mercury diiodide" 
+HGI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 diiodomercury      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HGI "Create component"  2001-06-20 RCSB 
+HGI "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,121 @@
+data_3MC
+# 
+_chem_comp.id                                    3MC 
+_chem_comp.name                                  3-METHYLCYTOSINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 N3 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        126.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3MC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3MCT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3MC N3   N3   N 1 1 N N N 16.747 14.523 21.672 0.157  0.669  -0.001 N3   3MC 1  
+3MC CN3  CN3  C 0 1 N N N 15.799 15.207 22.551 0.487  2.096  -0.002 CN3  3MC 2  
+3MC N1   N1   N 0 1 N N N 18.340 14.602 19.847 -1.456 -1.015 -0.002 N1   3MC 3  
+3MC C2   C2   C 0 1 N N N 17.452 15.129 20.705 -1.120 0.288  0.003  C2   3MC 4  
+3MC O2   O2   O 0 1 N N N 17.244 16.495 20.561 -1.998 1.135  0.002  O2   3MC 5  
+3MC C4   C4   C 0 1 N N N 16.881 13.202 21.917 1.132  -0.230 0.000  C4   3MC 6  
+3MC N4   N4   N 0 1 N N N 16.202 12.621 22.899 2.446  0.175  0.001  N4   3MC 7  
+3MC C5   C5   C 0 1 N N N 17.783 12.517 21.084 0.813  -1.604 0.000  C5   3MC 8  
+3MC C6   C6   C 0 1 N N N 18.462 13.288 20.083 -0.489 -1.975 -0.001 C6   3MC 9  
+3MC H31  1H3  H 0 1 N N N 15.213 14.703 23.354 1.436  2.250  0.513  H31  3MC 10 
+3MC H32  2H3  H 0 1 N N N 16.348 16.051 23.029 0.570  2.450  -1.030 H32  3MC 11 
+3MC H33  3H3  H 0 1 N N N 15.066 15.732 21.894 -0.298 2.651  0.511  H33  3MC 12 
+3MC HN1  HN1  H 0 1 N N N 18.844 15.119 19.127 -2.391 -1.271 -0.003 HN1  3MC 13 
+3MC HN41 1HN4 H 0 0 N N N 16.303 11.623 23.084 2.663  1.120  0.001  HN41 3MC 14 
+3MC HN42 2HN4 H 0 0 N N N 15.211 12.820 22.761 3.157  -0.486 0.002  HN42 3MC 15 
+3MC H5   H5   H 0 1 N N N 17.948 11.433 21.209 1.595  -2.349 0.001  H5   3MC 16 
+3MC H6   H6   H 0 1 N N N 19.178 12.802 19.399 -0.759 -3.021 -0.001 H6   3MC 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3MC N3  CN3  SING N N 1  
+3MC N3  C2   SING N N 2  
+3MC N3  C4   DOUB N N 3  
+3MC CN3 H31  SING N N 4  
+3MC CN3 H32  SING N N 5  
+3MC CN3 H33  SING N N 6  
+3MC N1  C2   SING N N 7  
+3MC N1  C6   SING N N 8  
+3MC N1  HN1  SING N N 9  
+3MC C2  O2   DOUB N N 10 
+3MC C4  N4   SING N N 11 
+3MC C4  C5   SING N N 12 
+3MC N4  HN41 SING N N 13 
+3MC N4  HN42 SING N N 14 
+3MC C5  C6   DOUB N N 15 
+3MC C5  H5   SING N N 16 
+3MC C6  H6   SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3MC SMILES           ACDLabs              10.04 "O=C1[N+](=C(N)C=CN1)C"                                          
+3MC SMILES_CANONICAL CACTVS               3.341 "C[N+]1=C(N)C=CNC1=O"                                            
+3MC SMILES           CACTVS               3.341 "C[N+]1=C(N)C=CNC1=O"                                            
+3MC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N+]1=C(C=CNC1=O)N"                                            
+3MC SMILES           "OpenEye OEToolkits" 1.5.0 "C[N+]1=C(C=CNC1=O)N"                                            
+3MC InChI            InChI                1.03  "InChI=1S/C5H7N3O/c1-8-4(6)2-3-7-5(8)9/h2-3H,1H3,(H2,6,7,9)/p+1" 
+3MC InChIKey         InChI                1.03  UPHQQDZIRIHPHU-UHFFFAOYSA-O                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3MC "SYSTEMATIC NAME" ACDLabs              10.04 6-amino-1-methyl-2-oxo-2,3-dihydropyrimidin-1-ium 
+3MC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 6-amino-1-methyl-3H-pyrimidin-1-ium-2-one         
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3MC "Create component"  1999-07-08 RCSB 
+3MC "Modify descriptor" 2011-06-04 RCSB 
+# 

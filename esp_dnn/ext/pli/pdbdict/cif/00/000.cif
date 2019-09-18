@@ -1,0 +1,104 @@
+data_000
+# 
+_chem_comp.id                                    000 
+_chem_comp.name                                  "methyl hydrogen carbonate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C2 H4 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-04-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        76.051 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     000 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3LIN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+000 C   C   C 0 1 N N N 32.880 -0.090 51.314 -0.456 0.028  -0.001 C   000 1 
+000 O   O   O 0 1 N N N 32.160 0.180  50.105 -0.376 1.240  0.001  O   000 2 
+000 OA  OA  O 0 1 N N N 34.147 -0.940 51.249 0.662  -0.720 0.001  OA  000 3 
+000 CB  CB  C 0 1 N N N 33.872 -2.227 50.459 1.929  -0.010 -0.001 CB  000 4 
+000 OXT OXT O 0 1 N Y N 32.419 0.429  52.564 -1.663 -0.566 -0.000 OXT 000 5 
+000 HB  HB  H 0 1 N N N 34.788 -2.834 50.416 1.996  0.613  -0.892 HB  000 6 
+000 HBA HBA H 0 1 N N N 33.076 -2.800 50.957 1.995  0.618  0.888  HBA 000 7 
+000 HBB HBB H 0 1 N N N 33.555 -1.969 49.438 2.748  -0.730 0.002  HBB 000 8 
+000 HXT HXT H 0 1 N Y N 31.625 0.931  52.425 -2.438 0.013  0.002  HXT 000 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+000 C   OXT SING N N 1 
+000 O   C   DOUB N N 2 
+000 OA  C   SING N N 3 
+000 CB  OA  SING N N 4 
+000 CB  HB  SING N N 5 
+000 CB  HBA SING N N 6 
+000 CB  HBB SING N N 7 
+000 OXT HXT SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+000 SMILES           ACDLabs              12.01 "O=C(O)OC"                                
+000 SMILES_CANONICAL CACTVS               3.370 "COC(O)=O"                                
+000 SMILES           CACTVS               3.370 "COC(O)=O"                                
+000 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "COC(=O)O"                                
+000 SMILES           "OpenEye OEToolkits" 1.7.0 "COC(=O)O"                                
+000 InChI            InChI                1.03  "InChI=1S/C2H4O3/c1-5-2(3)4/h1H3,(H,3,4)" 
+000 InChIKey         InChI                1.03  CXHHBNMLPJOKQD-UHFFFAOYSA-N               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+000 "SYSTEMATIC NAME" ACDLabs              12.01 "methyl hydrogen carbonate" 
+000 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "methyl hydrogen carbonate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+000 "Create component"  2010-04-27 RCSB 
+000 "Modify descriptor" 2011-06-04 RCSB 
+# 

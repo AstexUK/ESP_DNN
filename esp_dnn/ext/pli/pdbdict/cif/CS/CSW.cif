@@ -1,0 +1,120 @@
+data_CSW
+# 
+_chem_comp.id                                    CSW 
+_chem_comp.name                                  CYSTEINE-S-DIOXIDE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         "CYSTEINE SULFINIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2014-11-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      CSD 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        153.157 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     CSW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CSW N   N   N 0 1 N N N 14.095 -0.586 37.447 0.633  1.636  0.268  N   CSW 1  
+CSW CA  CA  C 0 1 N N R 13.723 0.428  36.505 0.872  0.203  0.482  CA  CSW 2  
+CSW CB  CB  C 0 1 N N N 12.454 0.007  35.765 -0.179 -0.609 -0.279 CB  CSW 3  
+CSW SG  SG  S 0 1 N N N 12.575 -1.670 35.003 -1.833 -0.175 0.327  SG  CSW 4  
+CSW C   C   C 0 1 N N N 13.654 1.789  37.287 2.246  -0.158 -0.021 C   CSW 5  
+CSW O   O   O 0 1 N N N 14.278 2.757  36.851 2.807  0.561  -0.814 O   CSW 6  
+CSW OD1 OD1 O 0 1 N N N 12.432 -2.769 36.105 -2.747 -1.053 -0.516 OD1 CSW 7  
+CSW OD2 OD2 O 0 1 N N N 13.782 -1.714 34.013 -2.165 1.138  -0.103 OD2 CSW 8  
+CSW OXT OXT O 0 1 N Y N 12.889 1.860  38.423 2.847  -1.278 0.411  OXT CSW 9  
+CSW H   H   H 0 1 N N N 14.926 -0.306 37.928 1.273  2.195  0.811  H   CSW 10 
+CSW H2  H2  H 0 1 N Y N 13.355 -0.715 38.107 0.690  1.870  -0.712 H2  CSW 11 
+CSW HA  HA  H 0 1 N N N 14.524 0.526  35.758 0.804  -0.022 1.546  HA  CSW 12 
+CSW HB2 HB2 H 0 1 N N N 11.617 0.006  36.479 -0.111 -0.384 -1.343 HB2 CSW 13 
+CSW HB3 HB3 H 0 1 N N N 12.255 0.739  34.968 -0.001 -1.673 -0.120 HB3 CSW 14 
+CSW HXT HXT H 0 1 N Y N 12.933 2.739  38.780 3.728  -1.467 0.060  HXT CSW 15 
+CSW H7  H7  H 0 1 N N N 13.154 -3.383 36.037 -3.687 -0.946 -0.318 H7  CSW 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CSW N   CA  SING N N 1  
+CSW N   H   SING N N 2  
+CSW N   H2  SING N N 3  
+CSW CA  CB  SING N N 4  
+CSW CA  C   SING N N 5  
+CSW CA  HA  SING N N 6  
+CSW CB  SG  SING N N 7  
+CSW CB  HB2 SING N N 8  
+CSW CB  HB3 SING N N 9  
+CSW SG  OD1 SING N N 10 
+CSW SG  OD2 DOUB N N 11 
+CSW C   O   DOUB N N 12 
+CSW C   OXT SING N N 13 
+CSW OXT HXT SING N N 14 
+CSW OD1 H7  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CSW SMILES           ACDLabs              12.01 "O=C(O)C(N)CS(=O)O"                                                       
+CSW InChI            InChI                1.03  "InChI=1S/C3H7NO4S/c4-2(3(5)6)1-9(7)8/h2H,1,4H2,(H,5,6)(H,7,8)/t2-/m0/s1" 
+CSW InChIKey         InChI                1.03  ADVPTQAUNPRNPO-REOHCLBHSA-N                                               
+CSW SMILES_CANONICAL CACTVS               3.385 "N[C@@H](C[S](O)=O)C(O)=O"                                                
+CSW SMILES           CACTVS               3.385 "N[CH](C[S](O)=O)C(O)=O"                                                  
+CSW SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C([C@@H](C(=O)O)N)S(=O)O"                                                
+CSW SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(C(=O)O)N)S(=O)O"                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CSW "SYSTEMATIC NAME" ACDLabs              12.01 3-sulfino-L-alanine                      
+CSW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R)-2-azanyl-3-sulfino-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CSW "Create component"   1999-07-08 RCSB 
+CSW "Modify descriptor"  2011-06-04 RCSB 
+CSW "Other modification" 2014-04-10 RCSB 
+CSW "Obsolete component" 2014-11-19 RCSB 
+# 

@@ -1,0 +1,167 @@
+data_TDI
+# 
+_chem_comp.id                                    TDI 
+_chem_comp.name                                  "(3R,4S)-1-[(4-AMINO-5H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)METHYL]-4-[(METHYLSULFANYL)METHYL]PYRROLIDIN-3-OL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H19 N5 O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(3R,4S)-1-[9-DEAZAADENIN-9-YL)METHYL]-3-HYDROXY-4-(METHYLTHIOMETHYL)PYRROLIDINE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-12-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        293.388 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TDI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1Y6Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TDI C2     C2   C 0 1 Y N N 53.790 75.119 21.033 3.569  1.913  0.421  C2     TDI 1  
+TDI C4     C4   C 0 1 Y N N 55.679 74.355 19.843 2.493  -0.120 0.387  C4     TDI 2  
+TDI C5     C5   C 0 1 Y N N 54.877 74.090 18.701 3.637  -0.705 -0.184 C5     TDI 3  
+TDI C6     C6   C 0 1 Y N N 53.497 74.366 18.796 4.742  0.116  -0.436 C6     TDI 4  
+TDI CS5    CS5  C 0 1 N N N 56.570 68.203 23.222 -6.572 -0.838 -1.052 CS5    TDI 5  
+TDI S      S    S 0 1 N N N 55.708 69.777 23.563 -5.328 -0.628 0.251  S      TDI 6  
+TDI "C5'"  C5*  C 0 1 N N N 56.913 70.567 22.496 -4.078 0.322  -0.657 "C5'"  TDI 7  
+TDI "C4'"  C4*  C 0 1 N N S 58.251 71.265 22.340 -2.897 0.626  0.267  "C4'"  TDI 8  
+TDI "C1'"  C1*  C 0 1 N N N 58.578 72.050 21.066 -2.145 -0.672 0.617  "C1'"  TDI 9  
+TDI "N1'"  N1*  N 0 1 N N N 58.843 73.448 21.530 -0.771 -0.534 0.086  "N1'"  TDI 10 
+TDI C10    C10  C 0 1 N N N 58.245 74.061 20.335 0.133  -1.081 1.107  C10    TDI 11 
+TDI C9     C9   C 0 1 Y N N 57.026 73.974 19.456 1.522  -1.199 0.536  C9     TDI 12 
+TDI C8     C8   C 0 1 Y N N 56.982 73.527 18.181 2.101  -2.318 0.061  C8     TDI 13 
+TDI N7     N7   N 0 1 Y N N 55.700 73.593 17.722 3.364  -2.040 -0.372 N7     TDI 14 
+TDI N6     N6   N 0 1 N N N 52.669 74.119 17.707 5.894  -0.403 -1.003 N6     TDI 15 
+TDI N1     N1   N 0 1 Y N N 52.999 74.877 19.974 4.662  1.405  -0.120 N1     TDI 16 
+TDI N3     N3   N 0 1 Y N N 55.108 74.866 20.980 2.506  1.184  0.678  N3     TDI 17 
+TDI "C2'"  C2*  C 0 1 N N N 57.858 73.667 22.639 -0.507 0.926  0.021  "C2'"  TDI 18 
+TDI "C3'"  C3*  C 0 1 N N R 57.862 72.329 23.412 -1.860 1.512  -0.460 "C3'"  TDI 19 
+TDI "O3'"  O3*  O 0 1 N N N 59.161 72.345 24.048 -1.988 2.880  -0.065 "O3'"  TDI 20 
+TDI H2     H2   H 0 1 N N N 53.352 75.531 21.958 3.549  2.966  0.662  H2     TDI 21 
+TDI HS51   1HS5 H 0 0 N N N 57.664 68.092 23.405 -6.131 -1.375 -1.892 HS51   TDI 22 
+TDI HS52   2HS5 H 0 0 N N N 55.821 67.712 23.886 -7.416 -1.405 -0.661 HS52   TDI 23 
+TDI HS53   3HS5 H 0 0 N N N 56.737 67.850 22.178 -6.916 0.141  -1.387 HS53   TDI 24 
+TDI "H5'1" 1H5* H 0 0 N N N 56.256 71.337 22.028 -3.730 -0.258 -1.512 "H5'1" TDI 25 
+TDI "H5'2" 2H5* H 0 0 N N N 57.053 69.749 21.751 -4.515 1.258  -1.007 "H5'2" TDI 26 
+TDI "H4'"  H4*  H 0 1 N N N 59.121 70.569 22.379 -3.245 1.118  1.175  "H4'"  TDI 27 
+TDI "H1'1" 1H1* H 0 0 N N N 57.794 71.977 20.277 -2.113 -0.803 1.699  "H1'1" TDI 28 
+TDI "H1'2" 2H1* H 0 0 N N N 59.407 71.609 20.464 -2.639 -1.524 0.151  "H1'2" TDI 29 
+TDI H101   1H10 H 0 0 N N N 59.065 73.940 19.590 0.150  -0.417 1.971  H101   TDI 30 
+TDI H102   2H10 H 0 0 N N N 58.237 75.139 20.619 -0.219 -2.067 1.412  H102   TDI 31 
+TDI H8     H8   H 0 1 N N N 57.852 73.166 17.607 1.634  -3.292 0.029  H8     TDI 32 
+TDI HN7    HN7  H 0 1 N N N 55.402 73.313 16.788 3.977  -2.686 -0.756 HN7    TDI 33 
+TDI HN61   1HN6 H 0 0 N N N 52.787 73.146 17.424 5.941  -1.345 -1.230 HN61   TDI 34 
+TDI HN62   2HN6 H 0 0 N N N 51.671 74.319 17.776 6.654  0.175  -1.173 HN62   TDI 35 
+TDI "H2'1" 1H2* H 0 0 N N N 56.849 73.996 22.298 -0.250 1.315  1.006  "H2'1" TDI 36 
+TDI "H2'2" 2H2* H 0 0 N N N 58.069 74.562 23.270 0.284  1.143  -0.697 "H2'2" TDI 37 
+TDI "H3'"  H3*  H 0 1 N N N 56.938 72.172 24.016 -1.960 1.414  -1.541 "H3'"  TDI 38 
+TDI H1     H1   H 0 1 N N N 58.924 72.993 24.701 -1.267 3.362  -0.491 H1     TDI 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TDI C2    N1     DOUB Y N 1  
+TDI C2    N3     SING Y N 2  
+TDI C2    H2     SING N N 3  
+TDI C4    C5     SING Y N 4  
+TDI C4    C9     SING Y N 5  
+TDI C4    N3     DOUB Y N 6  
+TDI C5    C6     DOUB Y N 7  
+TDI C5    N7     SING Y N 8  
+TDI C6    N6     SING N N 9  
+TDI C6    N1     SING Y N 10 
+TDI CS5   S      SING N N 11 
+TDI CS5   HS51   SING N N 12 
+TDI CS5   HS52   SING N N 13 
+TDI CS5   HS53   SING N N 14 
+TDI S     "C5'"  SING N N 15 
+TDI "C5'" "C4'"  SING N N 16 
+TDI "C5'" "H5'1" SING N N 17 
+TDI "C5'" "H5'2" SING N N 18 
+TDI "C4'" "C1'"  SING N N 19 
+TDI "C4'" "C3'"  SING N N 20 
+TDI "C4'" "H4'"  SING N N 21 
+TDI "C1'" "N1'"  SING N N 22 
+TDI "C1'" "H1'1" SING N N 23 
+TDI "C1'" "H1'2" SING N N 24 
+TDI "N1'" C10    SING N N 25 
+TDI "N1'" "C2'"  SING N N 26 
+TDI C10   C9     SING N N 27 
+TDI C10   H101   SING N N 28 
+TDI C10   H102   SING N N 29 
+TDI C9    C8     DOUB Y N 30 
+TDI C8    N7     SING Y N 31 
+TDI C8    H8     SING N N 32 
+TDI N7    HN7    SING N N 33 
+TDI N6    HN61   SING N N 34 
+TDI N6    HN62   SING N N 35 
+TDI "C2'" "C3'"  SING N N 36 
+TDI "C2'" "H2'1" SING N N 37 
+TDI "C2'" "H2'2" SING N N 38 
+TDI "C3'" "O3'"  SING N N 39 
+TDI "C3'" "H3'"  SING N N 40 
+TDI "O3'" H1     SING N N 41 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TDI SMILES           ACDLabs              10.04 "S(C)CC3CN(Cc2cnc1c2ncnc1N)CC3O"                                                                                                        
+TDI SMILES_CANONICAL CACTVS               3.341 "CSC[C@H]1CN(C[C@@H]1O)Cc2c[nH]c3c(N)ncnc23"                                                                                            
+TDI SMILES           CACTVS               3.341 "CSC[CH]1CN(C[CH]1O)Cc2c[nH]c3c(N)ncnc23"                                                                                               
+TDI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CSC[C@H]1C[N@](C[C@@H]1O)Cc2c[nH]c3c2ncnc3N"                                                                                           
+TDI SMILES           "OpenEye OEToolkits" 1.5.0 "CSCC1CN(CC1O)Cc2c[nH]c3c2ncnc3N"                                                                                                       
+TDI InChI            InChI                1.03  "InChI=1S/C13H19N5OS/c1-20-6-9-4-18(5-10(9)19)3-8-2-15-12-11(8)16-7-17-13(12)14/h2,7,9-10,15,19H,3-6H2,1H3,(H2,14,16,17)/t9-,10+/m1/s1" 
+TDI InChIKey         InChI                1.03  NTHMDFGHOCNNOE-ZJUUUORDSA-N                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TDI "SYSTEMATIC NAME" ACDLabs              10.04 "(3R,4S)-1-[(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)methyl]-4-[(methylsulfanyl)methyl]pyrrolidin-3-ol"  
+TDI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1S,3R,4S)-1-[(4-amino-5H-pyrrolo[4,5-d]pyrimidin-7-yl)methyl]-4-(methylsulfanylmethyl)pyrrolidin-3-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TDI "Create component"  2004-12-13 PDBJ 
+TDI "Modify descriptor" 2011-06-04 RCSB 
+# 

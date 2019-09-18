@@ -1,0 +1,133 @@
+data_EMR
+# 
+_chem_comp.id                                    EMR 
+_chem_comp.name                                  N-AMINOETHYLMORPHOLINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H14 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.188 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EMR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EPR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EMR O1     O1     O 0 1 N N N 2.876 42.730 11.615 0.326  -0.347 -2.640 O1     EMR 1  
+EMR C2     C2     C 0 1 N N N 2.519 42.041 12.825 -0.916 0.259  -2.289 C2     EMR 2  
+EMR C3     C3     C 0 1 N N N 2.255 40.649 12.515 -1.298 -0.135 -0.862 C3     EMR 3  
+EMR N4     N4     N 0 1 N N N 3.451 39.969 12.011 -0.291 0.376  0.076  N4     EMR 4  
+EMR C5     C5     C 0 1 N N N 3.819 40.700 10.798 0.992  -0.217 -0.319 C5     EMR 5  
+EMR C6     C6     C 0 1 N N N 4.058 42.113 11.070 1.317  0.179  -1.759 C6     EMR 6  
+EMR "C1'"  "C1'"  C 0 1 N N N 3.080 38.623 11.622 -0.623 -0.176 1.395  "C1'"  EMR 7  
+EMR "C2'"  "C2'"  C 0 1 N N N 3.145 37.669 12.829 0.391  0.319  2.427  "C2'"  EMR 8  
+EMR "N2'"  "N2'"  N 0 1 N N N 3.513 36.332 12.373 0.059  -0.233 3.746  "N2'"  EMR 9  
+EMR H21    1H2    H 0 1 N N N 3.287 42.159 13.623 -1.691 -0.075 -2.978 H21    EMR 10 
+EMR H22    2H2    H 0 1 N N N 1.666 42.527 13.354 -0.820 1.343  -2.351 H22    EMR 11 
+EMR H31    1H3    H 0 1 N N N 1.821 40.112 13.391 -1.346 -1.221 -0.786 H31    EMR 12 
+EMR H32    2H3    H 0 1 N N N 1.399 40.545 11.806 -2.272 0.288  -0.616 H32    EMR 13 
+EMR H51    1H5    H 0 1 N N N 4.693 40.230 10.290 1.779  0.143  0.343  H51    EMR 14 
+EMR H52    2H5    H 0 1 N N N 3.057 40.564 9.994  0.927  -1.303 -0.247 H52    EMR 15 
+EMR H61    1H6    H 0 1 N N N 4.427 42.652 10.166 2.295  -0.217 -2.033 H61    EMR 16 
+EMR H62    2H6    H 0 1 N N N 4.945 42.263 11.728 1.333  1.266  -1.841 H62    EMR 17 
+EMR "H1'1" "1H1'" H 0 0 N N N 2.080 38.596 11.128 -0.594 -1.265 1.351  "H1'1" EMR 18 
+EMR "H1'2" "2H1'" H 0 0 N N N 3.697 38.254 10.770 -1.623 0.148  1.684  "H1'2" EMR 19 
+EMR "H2'1" "1H2'" H 0 0 N N N 3.827 38.044 13.627 0.362  1.407  2.471  "H2'1" EMR 20 
+EMR "H2'2" "2H2'" H 0 0 N N N 2.197 37.667 13.416 1.391  -0.006 2.138  "H2'2" EMR 21 
+EMR HN21   1HN2   H 0 0 N N N 3.556 35.700 13.172 0.751  0.117  4.391  HN21   EMR 22 
+EMR HN22   2HN2   H 0 0 N N N 4.379 36.333 11.835 -0.822 0.173  4.018  HN22   EMR 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EMR O1    C2     SING N N 1  
+EMR O1    C6     SING N N 2  
+EMR C2    C3     SING N N 3  
+EMR C2    H21    SING N N 4  
+EMR C2    H22    SING N N 5  
+EMR C3    N4     SING N N 6  
+EMR C3    H31    SING N N 7  
+EMR C3    H32    SING N N 8  
+EMR N4    C5     SING N N 9  
+EMR N4    "C1'"  SING N N 10 
+EMR C5    C6     SING N N 11 
+EMR C5    H51    SING N N 12 
+EMR C5    H52    SING N N 13 
+EMR C6    H61    SING N N 14 
+EMR C6    H62    SING N N 15 
+EMR "C1'" "C2'"  SING N N 16 
+EMR "C1'" "H1'1" SING N N 17 
+EMR "C1'" "H1'2" SING N N 18 
+EMR "C2'" "N2'"  SING N N 19 
+EMR "C2'" "H2'1" SING N N 20 
+EMR "C2'" "H2'2" SING N N 21 
+EMR "N2'" HN21   SING N N 22 
+EMR "N2'" HN22   SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EMR SMILES           ACDLabs              10.04 "O1CCN(CCN)CC1"                               
+EMR SMILES_CANONICAL CACTVS               3.341 NCCN1CCOCC1                                   
+EMR SMILES           CACTVS               3.341 NCCN1CCOCC1                                   
+EMR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C1COCCN1CCN                                   
+EMR SMILES           "OpenEye OEToolkits" 1.5.0 C1COCCN1CCN                                   
+EMR InChI            InChI                1.03  InChI=1S/C6H14N2O/c7-1-2-8-3-5-9-6-4-8/h1-7H2 
+EMR InChIKey         InChI                1.03  RWIVICVCHVMHMU-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EMR "SYSTEMATIC NAME" ACDLabs              10.04 2-morpholin-4-ylethanamine 
+EMR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-morpholin-4-ylethanamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EMR "Create component"  1999-07-08 EBI  
+EMR "Modify descriptor" 2011-06-04 RCSB 
+# 

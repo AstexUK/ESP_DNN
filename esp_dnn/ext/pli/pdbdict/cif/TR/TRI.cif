@@ -1,0 +1,103 @@
+data_TRI
+# 
+_chem_comp.id                                    TRI 
+_chem_comp.name                                  1,2,4-TRIAZOLE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H3 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        69.065 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TRI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CRA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TRI N1  N1  N 0 1 Y N N -4.114 1.373  16.273 -0.643 -0.001 0.930  N1  TRI 1 
+TRI N2  N2  N 0 1 Y N N -4.820 1.461  17.355 0.642  0.000  0.931  N2  TRI 2 
+TRI C3  C3  C 0 1 Y N N -5.785 0.581  17.283 1.082  0.000  -0.297 C3  TRI 3 
+TRI N4  N4  N 0 1 Y N N -5.665 -0.054 16.116 0.000  -0.001 -1.113 N4  TRI 4 
+TRI C5  C5  C 0 1 Y N N -4.642 0.448  15.502 -1.082 0.002  -0.298 C5  TRI 5 
+TRI H3  H3  H 0 1 N N N -6.551 0.407  18.056 2.117  0.002  -0.606 H3  TRI 6 
+TRI HN4 HN4 H 0 1 N N N -6.257 -0.800 15.753 0.001  -0.002 -2.083 HN4 TRI 7 
+TRI H5  H5  H 0 1 N N N -4.285 0.143  14.503 -2.116 0.002  -0.609 H5  TRI 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TRI N1 N2  SING Y N 1 
+TRI N1 C5  DOUB Y N 2 
+TRI N2 C3  DOUB Y N 3 
+TRI C3 N4  SING Y N 4 
+TRI C3 H3  SING N N 5 
+TRI N4 C5  SING Y N 6 
+TRI N4 HN4 SING N N 7 
+TRI C5 H5  SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TRI SMILES           ACDLabs              10.04 n1ncnc1                                        
+TRI SMILES_CANONICAL CACTVS               3.341 "[nH]1cnnc1"                                   
+TRI SMILES           CACTVS               3.341 "[nH]1cnnc1"                                   
+TRI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1[nH]cnn1"                                   
+TRI SMILES           "OpenEye OEToolkits" 1.5.0 "c1[nH]cnn1"                                   
+TRI InChI            InChI                1.03  "InChI=1S/C2H3N3/c1-3-2-5-4-1/h1-2H,(H,3,4,5)" 
+TRI InChIKey         InChI                1.03  NSPMIYGKQJPBQR-UHFFFAOYSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TRI "SYSTEMATIC NAME" ACDLabs              10.04 4H-1,2,4-triazole 
+TRI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4H-1,2,4-triazole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TRI "Create component"  1999-07-08 EBI  
+TRI "Modify descriptor" 2011-06-04 RCSB 
+# 

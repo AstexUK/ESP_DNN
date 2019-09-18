@@ -1,0 +1,126 @@
+data_ICA
+# 
+_chem_comp.id                                    ICA 
+_chem_comp.name                                  "ISOCITRATE CALCIUM COMPLEX" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 Ca O7" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        231.194 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ICA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1AI2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ICA C1  C1  C  0 1 N N N -83.861 -65.748 3.273  ? ? ? C1  ICA 1  
+ICA C2  C2  C  0 1 N N R -83.487 -65.310 1.890  ? ? ? C2  ICA 2  
+ICA C3  C3  C  0 1 N N S -82.748 -64.058 1.981  ? ? ? C3  ICA 3  
+ICA C4  C4  C  0 1 N N N -83.083 -63.317 0.727  ? ? ? C4  ICA 4  
+ICA C5  C5  C  0 1 N N N -83.221 -61.928 0.717  ? ? ? C5  ICA 5  
+ICA C6  C6  C  0 1 N N N -81.205 -64.322 2.132  ? ? ? C6  ICA 6  
+ICA O1  O1  O  0 1 N N N -84.223 -64.860 4.076  ? ? ? O1  ICA 7  
+ICA O2  O2  O  0 1 N N N -83.745 -66.944 3.551  ? ? ? O2  ICA 8  
+ICA O3  O3  O  0 1 N N N -84.271 -61.358 0.375  ? ? ? O3  ICA 9  
+ICA O4  O4  O  0 1 N N N -82.360 -61.318 1.321  ? ? ? O4  ICA 10 
+ICA O5  O5  O  0 1 N N N -80.757 -64.516 3.274  ? ? ? O5  ICA 11 
+ICA O6  O6  O  0 1 N N N -80.503 -64.234 1.079  ? ? ? O6  ICA 12 
+ICA O7  O7  O  0 1 N N N -82.703 -66.348 1.272  ? ? ? O7  ICA 13 
+ICA CA  CA  CA 0 0 N N N -83.806 -68.548 1.619  ? ? ? CA  ICA 14 
+ICA H2  H2  H  0 1 N N N -84.392 -65.136 1.262  ? ? ? H2  ICA 15 
+ICA H3  H3  H  0 1 N N N -83.027 -63.463 2.882  ? ? ? H3  ICA 16 
+ICA H41 1H4 H  0 1 N N N -82.329 -63.592 -0.046 ? ? ? H41 ICA 17 
+ICA H42 2H4 H  0 1 N N N -84.016 -63.758 0.306  ? ? ? H42 ICA 18 
+ICA HO2 HO2 H  0 1 N N N -83.982 -67.221 4.428  ? ? ? HO2 ICA 19 
+ICA HO4 HO4 H  0 1 N N N -82.453 -60.372 1.314  ? ? ? HO4 ICA 20 
+ICA HO6 HO6 H  0 1 N N N -79.570 -64.393 1.170  ? ? ? HO6 ICA 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ICA C1 C2  SING N N 1  
+ICA C1 O1  DOUB N N 2  
+ICA C1 O2  SING N N 3  
+ICA C2 C3  SING N N 4  
+ICA C2 O7  SING N N 5  
+ICA C2 H2  SING N N 6  
+ICA C3 C4  SING N N 7  
+ICA C3 C6  SING N N 8  
+ICA C3 H3  SING N N 9  
+ICA C4 C5  SING N N 10 
+ICA C4 H41 SING N N 11 
+ICA C4 H42 SING N N 12 
+ICA C5 O3  DOUB N N 13 
+ICA C5 O4  SING N N 14 
+ICA C6 O5  DOUB N N 15 
+ICA C6 O6  SING N N 16 
+ICA O2 HO2 SING N N 17 
+ICA O4 HO4 SING N N 18 
+ICA O6 HO6 SING N N 19 
+ICA O7 CA  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ICA InChI            InChI                1.02b 
+"InChI=1/C6H7O7.Ca.H/c7-3(8)1-2(5(10)11)4(9)6(12)13;;/h2,4H,1H2,(H,7,8)(H,10,11)(H,12,13);;/q-1;+1;/t2-,4+;;/m0../s1/f/h7,10,12H;;/rC6H8CaO7/c7-14-4(6(12)13)2(5(10)11)1-3(8)9/h2,4,7H,1H2,(H,8,9)(H,10,11)(H,12,13)/t2-,4+/m0/s1/f/h8,10,12H" 
+ICA InChIKey         InChI                1.02b AHEGTOWQUJMCIO-MASXSRPFDD 
+ICA SMILES_CANONICAL CACTVS               3.341 "OC(=O)C[C@@H]([C@@H](O[Ca])C(O)=O)C(O)=O" 
+ICA SMILES           CACTVS               3.341 "OC(=O)C[CH]([CH](O[Ca])C(O)=O)C(O)=O" 
+ICA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]([C@H](C(=O)O)O[Ca])C(=O)O)C(=O)O" 
+ICA SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(C(=O)O)O[Ca])C(=O)O)C(=O)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ICA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S)-3-carboxy-1,5-dihydroxy-1,5-dioxo-pentan-2-yl]oxycalcium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ICA "Create component" 1999-07-08 RCSB 
+# 

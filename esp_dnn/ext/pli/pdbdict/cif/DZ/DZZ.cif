@@ -1,0 +1,114 @@
+data_DZZ
+# 
+_chem_comp.id                                    DZZ 
+_chem_comp.name                                  "O,O-DIMETHYL HYDROGEN THIOPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 O3 P S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "DIMETHYL THIOPHOSPHATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-09-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.114 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DZZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DZZ O4  O4  O 0 1 N N N 33.868 15.351 22.636 0.000  0.904  -1.516 O4  DZZ 1  
+DZZ P1  P1  P 0 1 N N N 32.394 14.991 21.713 0.000  0.289  -0.028 P1  DZZ 2  
+DZZ S1  S1  S 0 1 N N N 30.813 14.327 22.891 0.000  -1.572 -0.125 S1  DZZ 3  
+DZZ O2  O2  O 0 1 N N N 31.892 16.301 20.920 1.315  0.786  0.758  O2  DZZ 4  
+DZZ C1  C1  C 0 1 N N N 32.473 16.786 19.714 2.415  0.037  0.236  C1  DZZ 5  
+DZZ O1  O1  O 0 1 N N N 32.740 13.918 20.553 -1.315 0.785  0.758  O1  DZZ 6  
+DZZ C2  C2  C 0 1 N N N 34.024 13.295 20.551 -2.415 0.037  0.236  C2  DZZ 7  
+DZZ HO4 HO4 H 0 1 N N N 34.589 15.654 22.098 0.000  1.866  -1.421 HO4 DZZ 8  
+DZZ H11 1H1 H 0 1 N N N 32.125 17.692 19.165 3.332  0.341  0.741  H11 DZZ 9  
+DZZ H12 2H1 H 0 1 N N N 33.561 16.924 19.911 2.243  -1.026 0.403  H12 DZZ 10 
+DZZ H13 3H1 H 0 1 N N N 32.460 15.941 18.985 2.509  0.227  -0.833 H13 DZZ 11 
+DZZ H21 1H2 H 0 1 N N N 34.262 12.555 19.751 -3.332 0.340  0.741  H21 DZZ 12 
+DZZ H22 2H2 H 0 1 N N N 34.808 14.087 20.553 -2.509 0.226  -0.833 H22 DZZ 13 
+DZZ H23 3H2 H 0 1 N N N 34.194 12.818 21.544 -2.243 -1.026 0.403  H23 DZZ 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DZZ O4 P1  SING N N 1  
+DZZ O4 HO4 SING N N 2  
+DZZ P1 S1  DOUB N N 3  
+DZZ P1 O2  SING N N 4  
+DZZ P1 O1  SING N N 5  
+DZZ O2 C1  SING N N 6  
+DZZ C1 H11 SING N N 7  
+DZZ C1 H12 SING N N 8  
+DZZ C1 H13 SING N N 9  
+DZZ O1 C2  SING N N 10 
+DZZ C2 H21 SING N N 11 
+DZZ C2 H22 SING N N 12 
+DZZ C2 H23 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DZZ SMILES           ACDLabs              10.04 "S=P(O)(OC)OC"                                    
+DZZ SMILES_CANONICAL CACTVS               3.341 "CO[P](O)(=S)OC"                                  
+DZZ SMILES           CACTVS               3.341 "CO[P](O)(=S)OC"                                  
+DZZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COP(=S)(O)OC"                                    
+DZZ SMILES           "OpenEye OEToolkits" 1.5.0 "COP(=S)(O)OC"                                    
+DZZ InChI            InChI                1.03  "InChI=1S/C2H7O3PS/c1-4-6(3,7)5-2/h1-2H3,(H,3,7)" 
+DZZ InChIKey         InChI                1.03  WWJJVKAEQGGYHJ-UHFFFAOYSA-N                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DZZ "SYSTEMATIC NAME" ACDLabs              10.04 "O,O-dimethyl hydrogen thiophosphate"       
+DZZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 hydroxy-dimethoxy-sulfanylidene-phosphorane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DZZ "Create component"  2005-09-12 RCSB 
+DZZ "Modify descriptor" 2011-06-04 RCSB 
+# 

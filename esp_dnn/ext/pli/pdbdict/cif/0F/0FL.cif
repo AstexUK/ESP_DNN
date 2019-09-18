@@ -1,0 +1,120 @@
+data_0FL
+# 
+_chem_comp.id                                    0FL 
+_chem_comp.name                                  3-amino-N-formyl-L-alanine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H8 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-09-24 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.118 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     0FL 
+_chem_comp.pdbx_model_coordinates_details        "not provided" 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TMB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0FL C1  C1  C 0 1 N N N 17.623 -16.854 25.164 1.941  -0.944 -0.191 C1  0FL 1  
+0FL O1  O1  O 0 1 N N N 17.513 -18.082 24.811 1.757  -1.519 0.861  O1  0FL 2  
+0FL N   N   N 0 1 N N N 16.858 -16.056 24.418 1.084  0.016  -0.593 N   0FL 3  
+0FL CA  CA  C 0 1 N N S 16.887 -16.118 22.980 -0.068 0.366  0.241  CA  0FL 4  
+0FL C   C   C 0 1 N N N 16.771 -14.665 22.486 -1.208 -0.574 -0.058 C   0FL 5  
+0FL O   O   O 0 1 N N N 15.764 -14.039 22.857 -1.071 -1.446 -0.883 O   0FL 6  
+0FL CB  CB  C 0 1 N N N 15.672 -16.872 22.421 -0.499 1.802  -0.061 CB  0FL 7  
+0FL OXT OXT O 0 1 N Y N 17.800 -14.209 21.603 -2.375 -0.442 0.592  OXT 0FL 8  
+0FL N2  N2  N 0 1 N N N 15.609 -16.680 20.913 0.646  2.704  0.116  N2  0FL 9  
+0FL H1  H1  H 0 1 N N N 18.257 -16.508 25.967 2.793  -1.198 -0.803 H1  0FL 10 
+0FL H2  H2  H 0 1 N Y N 16.251 -15.400 24.867 1.231  0.476  -1.434 H2  0FL 11 
+0FL HA  HA  H 0 1 N N N 17.804 -16.631 22.655 0.205  0.282  1.293  HA  0FL 12 
+0FL HB1 HB1 H 0 1 N N N 15.767 -17.943 22.651 -0.857 1.866  -1.089 HB1 0FL 13 
+0FL HB2 HB2 H 0 1 N N N 14.753 -16.479 22.880 -1.299 2.092  0.621  HB2 0FL 14 
+0FL HA1 HA1 H 0 1 N N N 14.818 -17.170 20.547 1.425  2.417  -0.458 HA1 0FL 15 
+0FL HXT HXT H 0 1 N Y N 17.607 -13.322 21.322 -3.076 -1.068 0.366  HXT 0FL 16 
+0FL HB3 HB3 H 0 1 N Y N 15.523 -15.706 20.704 0.387  3.660  -0.078 HB3 0FL 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0FL C1  O1  DOUB N N 1  
+0FL C1  H1  SING N N 2  
+0FL C1  N   SING N N 3  
+0FL N   CA  SING N N 4  
+0FL N   H2  SING N N 5  
+0FL CA  C   SING N N 6  
+0FL CA  CB  SING N N 7  
+0FL CA  HA  SING N N 8  
+0FL C   O   DOUB N N 9  
+0FL C   OXT SING N N 10 
+0FL CB  HB1 SING N N 11 
+0FL CB  HB2 SING N N 12 
+0FL CB  N2  SING N N 13 
+0FL N2  HA1 SING N N 14 
+0FL OXT HXT SING N N 15 
+0FL N2  HB3 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0FL SMILES           ACDLabs              12.01 "O=CNC(C(=O)O)CN"                                                           
+0FL SMILES_CANONICAL CACTVS               3.370 "NC[C@H](NC=O)C(O)=O"                                                       
+0FL SMILES           CACTVS               3.370 "NC[CH](NC=O)C(O)=O"                                                        
+0FL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C([C@@H](C(=O)O)NC=O)N"                                                    
+0FL SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(C(=O)O)NC=O)N"                                                         
+0FL InChI            InChI                1.03  "InChI=1S/C4H8N2O3/c5-1-3(4(8)9)6-2-7/h2-3H,1,5H2,(H,6,7)(H,8,9)/t3-/m0/s1" 
+0FL InChIKey         InChI                1.03  BOEOBKSOOCDYCH-VKHMYHEASA-N                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0FL "SYSTEMATIC NAME" ACDLabs              12.01 3-amino-N-formyl-L-alanine                 
+0FL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-3-azanyl-2-formamido-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0FL "Create component"  2010-09-24 RCSB 
+0FL "Modify descriptor" 2011-06-04 RCSB 
+# 

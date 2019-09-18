@@ -1,0 +1,127 @@
+data_LXC
+# 
+_chem_comp.id                                    LXC 
+_chem_comp.name                                  BETA-L-XYLOPYRANOSE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "L-XYLOSE (CYCLIC FORM)" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-03-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LXC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GW9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LXC C5   C5   C 0 1 N N N 57.791 23.126 72.589 1.710  -0.215 0.593  C5   LXC 1  
+LXC O5   O5   O 0 1 N N N 58.286 23.993 73.640 1.637  0.331  -0.721 O5   LXC 2  
+LXC C1   C1   C 0 1 N N S 57.304 25.132 73.906 0.509  -0.253 -1.370 C1   LXC 3  
+LXC O1   O1   O 0 1 N Y N 57.819 25.991 74.942 0.501  0.130  -2.746 O1   LXC 4  
+LXC C2   C2   C 0 1 N N S 55.970 24.503 74.377 -0.780 0.228  -0.701 C2   LXC 5  
+LXC O2   O2   O 0 1 N N N 54.943 25.512 74.638 -1.907 -0.337 -1.372 O2   LXC 6  
+LXC C3   C3   C 0 1 N N R 55.463 23.525 73.311 -0.779 -0.213 0.766  C3   LXC 7  
+LXC O3   O3   O 0 1 N N N 54.212 22.887 73.747 -1.904 0.354  1.439  O3   LXC 8  
+LXC C4   C4   C 0 1 N N S 56.568 22.465 73.005 0.519  0.269  1.423  C4   LXC 9  
+LXC O4   O4   O 0 1 N N N 56.097 21.564 71.991 0.611  -0.260 2.747  O4   LXC 10 
+LXC H5C1 1H5C H 0 0 N N N 58.564 22.395 72.258 2.637  0.105  1.068  H5C1 LXC 11 
+LXC H5C2 2H5C H 0 0 N N N 57.658 23.675 71.628 1.691  -1.304 0.535  H5C2 LXC 12 
+LXC H1   H1   H 0 1 N N N 57.139 25.719 72.972 0.571  -1.338 -1.297 H1   LXC 13 
+LXC HA   HA   H 0 1 N N N 57.208 26.699 75.107 1.325  -0.194 -3.132 HA   LXC 14 
+LXC H2   H2   H 0 1 N N N 56.158 23.936 75.318 -0.833 1.316  -0.752 H2   LXC 15 
+LXC HB   HB   H 0 1 N N N 54.125 25.126 74.927 -1.865 -0.037 -2.291 HB   LXC 16 
+LXC H3   H3   H 0 1 N N N 55.258 24.098 72.377 -0.831 -1.301 0.820  H3   LXC 17 
+LXC HC   HC   H 0 1 N N N 53.540 23.532 73.933 -1.864 0.051  2.356  HC   LXC 18 
+LXC H4   H4   H 0 1 N N N 56.773 21.883 73.934 0.523  1.358  1.465  H4   LXC 19 
+LXC HD   HD   H 0 1 N N N 55.296 21.131 72.263 1.441  0.064  3.121  HD   LXC 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LXC C5 O5   SING N N 1  
+LXC C5 C4   SING N N 2  
+LXC C5 H5C1 SING N N 3  
+LXC C5 H5C2 SING N N 4  
+LXC O5 C1   SING N N 5  
+LXC C1 O1   SING N N 6  
+LXC C1 C2   SING N N 7  
+LXC C1 H1   SING N N 8  
+LXC O1 HA   SING N N 9  
+LXC C2 O2   SING N N 10 
+LXC C2 C3   SING N N 11 
+LXC C2 H2   SING N N 12 
+LXC O2 HB   SING N N 13 
+LXC C3 O3   SING N N 14 
+LXC C3 C4   SING N N 15 
+LXC C3 H3   SING N N 16 
+LXC O3 HC   SING N N 17 
+LXC C4 O4   SING N N 18 
+LXC C4 H4   SING N N 19 
+LXC O4 HD   SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LXC SMILES           ACDLabs              10.04 "OC1C(O)COC(O)C1O"                                                      
+LXC SMILES_CANONICAL CACTVS               3.341 "O[C@H]1CO[C@H](O)[C@@H](O)[C@@H]1O"                                    
+LXC SMILES           CACTVS               3.341 "O[CH]1CO[CH](O)[CH](O)[CH]1O"                                          
+LXC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H]([C@@H]([C@H](O1)O)O)O)O"                                
+LXC SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C(C(O1)O)O)O)O"                                                  
+LXC InChI            InChI                1.03  "InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4-,5-/m0/s1" 
+LXC InChIKey         InChI                1.03  SRBFZHDQGSBBOR-QTBDOELSSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LXC "SYSTEMATIC NAME" ACDLabs              10.04 beta-L-xylopyranose                  
+LXC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S,4R,5S)-oxane-2,3,4,5-tetrol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LXC "Create component"  2002-03-13 EBI  
+LXC "Modify descriptor" 2011-06-04 RCSB 
+# 

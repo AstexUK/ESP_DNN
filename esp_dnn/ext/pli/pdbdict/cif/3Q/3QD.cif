@@ -1,0 +1,110 @@
+data_3QD
+# 
+_chem_comp.id                                    3QD 
+_chem_comp.name                                  "ethylboronic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 B O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-10-15 
+_chem_comp.pdbx_modified_date                    2014-11-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        73.887 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3QD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4WKS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3QD C12 C1 C 0 1 N N N 24.763 26.238 -0.368 2.048  -0.075 0.000  C12 3QD 1  
+3QD C13 C2 C 0 1 N N N 23.943 26.624 0.882  0.851  0.878  -0.000 C13 3QD 2  
+3QD B1  B1 B 0 1 N N N 24.611 26.206 2.356  -0.480 0.046  -0.000 B1  3QD 3  
+3QD O2  O1 O 0 1 N N N 26.025 26.170 2.543  -0.431 -1.373 0.000  O2  3QD 4  
+3QD H1  H1 H 0 1 N N N 24.228 26.562 -1.273 2.012  -0.703 0.890  H1  3QD 5  
+3QD H2  H2 H 0 1 N N N 25.746 26.730 -0.328 2.012  -0.703 -0.890 H2  3QD 6  
+3QD H3  H3 H 0 1 N N N 24.900 25.147 -0.394 2.972  0.503  -0.000 H3  3QD 7  
+3QD H4  H4 H 0 1 N N N 23.808 27.716 0.872  0.887  1.506  0.890  H4  3QD 8  
+3QD H5  H5 H 0 1 N N N 22.962 26.132 0.806  0.887  1.506  -0.890 H5  3QD 9  
+3QD H7  H7 H 0 1 N N N 26.220 25.914 3.437  -1.300 -1.797 0.000  H7  3QD 10 
+3QD O1  O2 O 0 1 N Y N 24.019 25.365 3.336  -1.734 0.712  -0.000 O1  3QD 11 
+3QD H6  H6 H 0 1 N Y N 24.603 25.287 4.082  -2.496 0.117  0.000  H6  3QD 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3QD C12 C13 SING N N 1  
+3QD C13 B1  SING N N 2  
+3QD B1  O2  SING N N 3  
+3QD C12 H1  SING N N 4  
+3QD C12 H2  SING N N 5  
+3QD C12 H3  SING N N 6  
+3QD C13 H4  SING N N 7  
+3QD C13 H5  SING N N 8  
+3QD O2  H7  SING N N 9  
+3QD B1  O1  SING N N 10 
+3QD O1  H6  SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3QD SMILES           ACDLabs              12.01 "OB(O)CC"                                   
+3QD InChI            InChI                1.03  "InChI=1S/C2H7BO2/c1-2-3(4)5/h4-5H,2H2,1H3" 
+3QD InChIKey         InChI                1.03  PAVZHTXVORCEHP-UHFFFAOYSA-N                 
+3QD SMILES_CANONICAL CACTVS               3.385 "CCB(O)O"                                   
+3QD SMILES           CACTVS               3.385 "CCB(O)O"                                   
+3QD SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "B(CC)(O)O"                                 
+3QD SMILES           "OpenEye OEToolkits" 1.9.2 "B(CC)(O)O"                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3QD "SYSTEMATIC NAME" ACDLabs              12.01 "ethylboronic acid" 
+3QD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "ethylboronic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3QD "Create component" 2014-10-15 RCSB 
+3QD "Initial release"  2014-11-12 RCSB 
+# 

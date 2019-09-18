@@ -1,0 +1,96 @@
+data_4SM
+# 
+_chem_comp.id                                    4SM 
+_chem_comp.name                                  TETRATHIOMOLYBDATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Mo S4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -2 
+_chem_comp.pdbx_initial_date                     2009-10-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        224.200 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4SM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3K7R 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4SM S1  S1  S  -1 1 N N N 81.199 13.030 41.318 0.000  -1.855 -1.312 S1  4SM 1 
+4SM MO1 MO1 MO 0  0 N N N 79.975 11.881 42.759 -0.000 -0.000 0.000  MO1 4SM 2 
+4SM S2  S2  S  -1 1 N N N 78.679 10.489 41.618 1.855  -0.000 1.312  S2  4SM 3 
+4SM S3  S3  S  0  1 N N N 78.652 13.337 43.778 0.000  1.855  -1.312 S3  4SM 4 
+4SM S4  S4  S  0  1 N N N 81.209 10.827 44.219 -1.855 0.000  1.312  S4  4SM 5 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4SM S1  MO1 SING N N 1 
+4SM MO1 S3  DOUB N N 2 
+4SM MO1 S4  DOUB N N 3 
+4SM S2  MO1 SING N N 4 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4SM SMILES           ACDLabs              11.02 "[S-][Mo]([S-])(=S)=S"      
+4SM SMILES_CANONICAL CACTVS               3.352 "[S-][Mo]([S-])(=S)=S"      
+4SM SMILES           CACTVS               3.352 "[S-][Mo]([S-])(=S)=S"      
+4SM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "[S-][Mo](=S)(=S)[S-]"      
+4SM SMILES           "OpenEye OEToolkits" 1.7.0 "[S-][Mo](=S)(=S)[S-]"      
+4SM InChI            InChI                1.03  InChI=1S/Mo.4S/q;;;2*-1     
+4SM InChIKey         InChI                1.03  CXVCSRUYMINUSF-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4SM "SYSTEMATIC NAME" ACDLabs              11.02 "disulfido(dithioxo)molybdenum"                
+4SM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "bis(sulfanidyl)-bis(sulfanylidene)molybdenum" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4SM "Create component"  2009-10-20 RCSB 
+4SM "Modify descriptor" 2011-06-04 RCSB 
+# 

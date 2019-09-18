@@ -1,0 +1,121 @@
+data_060
+# 
+_chem_comp.id                                    060 
+_chem_comp.name                                  S-methyl-D-cysteine 
+_chem_comp.type                                  "D-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H9 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-01-25 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        135.185 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     060 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3ZKY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+060 C   CS   C 0 1 N N N 4.664 39.201 1.573 3.291  0.769  0.613  C   060 1  
+060 N   N    N 0 1 N N N 7.749 38.174 4.998 -0.582 -1.771 -0.137 N   060 2  
+060 S   SG   S 0 1 N N N 6.196 39.413 2.550 2.092  -0.182 -0.361 S   060 3  
+060 C1  CB   C 0 1 N N N 6.704 37.703 2.841 0.497  0.386  0.289  C1  060 4  
+060 C2  CA   C 0 1 N N S 6.764 37.326 4.335 -0.637 -0.335 -0.443 C2  060 5  
+060 O4  OXT  O 0 1 N Y N 5.285 38.253 6.016 -2.412 1.380  -0.503 O4  060 6  
+060 O5  O    O 0 1 N N N 4.449 36.693 4.673 -2.619 -0.368 0.832  O5  060 7  
+060 C13 C    C 0 1 N N N 5.443 37.444 5.104 -1.962 0.224  0.009  C13 060 8  
+060 H   HCS1 H 0 1 N N N 4.246 40.188 1.326 3.164  0.540  1.671  H   060 9  
+060 HA  HCS2 H 0 1 N N N 4.894 38.657 0.645 4.302  0.505  0.303  HA  060 10 
+060 HB  HCS3 H 0 1 N N N 3.931 38.629 2.161 3.128  1.835  0.450  HB  060 11 
+060 HN  H2   H 0 1 N N N 7.795 37.936 5.968 0.269  -2.183 -0.488 HN  060 12 
+060 H1  HB2  H 0 1 N N N 5.985 37.036 2.342 0.439  0.166  1.355  H1  060 13 
+060 H1A HB3  H 0 1 N N N 7.703 37.557 2.405 0.403  1.461  0.134  H1A 060 14 
+060 H2  HA   H 0 1 N N N 7.098 36.280 4.401 -0.528 -0.188 -1.517 H2  060 15 
+060 HO4 HXT  H 0 1 N N N 4.383 38.223 6.313 -3.267 1.699  -0.183 HO4 060 16 
+060 H3  H    H 0 1 N Y N 8.646 38.034 4.578 -0.681 -1.934 0.854  H3  060 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+060 C   S   SING N N 1  
+060 C   H   SING N N 2  
+060 C   HA  SING N N 3  
+060 C   HB  SING N N 4  
+060 C2  N   SING N N 5  
+060 N   HN  SING N N 6  
+060 S   C1  SING N N 7  
+060 C1  C2  SING N N 8  
+060 C1  H1  SING N N 9  
+060 C1  H1A SING N N 10 
+060 C2  C13 SING N N 11 
+060 C2  H2  SING N N 12 
+060 C13 O4  SING N N 13 
+060 O4  HO4 SING N N 14 
+060 O5  C13 DOUB N N 15 
+060 N   H3  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+060 SMILES           ACDLabs              12.01 "O=C(O)C(N)CSC"                                                      
+060 InChI            InChI                1.03  "InChI=1S/C4H9NO2S/c1-8-2-3(5)4(6)7/h3H,2,5H2,1H3,(H,6,7)/t3-/m1/s1" 
+060 InChIKey         InChI                1.03  IDIDJDIHTAOVLG-GSVOUGTGSA-N                                          
+060 SMILES_CANONICAL CACTVS               3.385 "CSC[C@@H](N)C(O)=O"                                                 
+060 SMILES           CACTVS               3.385 "CSC[CH](N)C(O)=O"                                                   
+060 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CSC[C@H](C(=O)O)N"                                                  
+060 SMILES           "OpenEye OEToolkits" 1.9.2 "CSCC(C(=O)O)N"                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+060 "SYSTEMATIC NAME" ACDLabs              12.01 S-methyl-D-cysteine                             
+060 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "(2S)-2-azanyl-3-methylsulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+060 "Create component"  2013-01-25 EBI  
+060 "Initial release"   2013-03-20 RCSB 
+060 "Modify descriptor" 2014-09-05 RCSB 
+# 

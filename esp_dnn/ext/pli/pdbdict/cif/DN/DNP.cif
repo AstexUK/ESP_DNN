@@ -1,0 +1,118 @@
+data_DNP
+# 
+_chem_comp.id                                    DNP 
+_chem_comp.name                                  3-AMINO-ALANINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H9 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        105.116 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     DNP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DNP N   N   N 0 1 N N N 3.529 -3.318 -3.985 -0.628 1.524  0.396  N   DNP 1  
+DNP CA  CA  C 0 1 N N S 2.438 -3.192 -4.996 -0.258 0.104  0.464  CA  DNP 2  
+DNP CB  CB  C 0 1 N N N 2.136 -4.527 -5.619 -1.178 -0.707 -0.451 CB  DNP 3  
+DNP NG  NG  N 1 1 N N N 2.033 -5.559 -4.528 -2.579 -0.449 -0.089 NG  DNP 4  
+DNP C   C   C 0 1 N N N 1.189 -2.710 -4.272 1.171  -0.065 0.015  C   DNP 5  
+DNP O   O   O 0 1 N N N 0.251 -2.328 -4.924 1.699  0.792  -0.653 O   DNP 6  
+DNP OXT OXT O 0 1 N Y N 1.182 -2.770 -2.967 1.857  -1.166 0.358  OXT DNP 7  
+DNP H   1HN H 0 1 N N N 4.009 -4.155 -3.844 0.064  2.030  0.928  H   DNP 8  
+DNP H2  2HN H 0 1 N Y N 4.364 -3.748 -4.381 -0.518 1.807  -0.566 H2  DNP 9  
+DNP HA  HA  H 0 1 N N N 2.711 -2.452 -5.735 -0.361 -0.250 1.489  HA  DNP 10 
+DNP HB2 1HB H 0 1 N N N 2.900 -4.800 -6.332 -1.011 -0.415 -1.487 HB2 DNP 11 
+DNP HB3 2HB H 0 1 N N N 1.186 -4.449 -6.141 -0.963 -1.769 -0.333 HB3 DNP 12 
+DNP HG1 1HG H 0 1 N N N 2.149 -5.119 -3.587 -2.734 -0.720 0.870  HG1 DNP 13 
+DNP HG2 2HG H 0 1 N N N 2.748 -6.302 -4.693 -2.778 0.534  -0.198 HG2 DNP 14 
+DNP HG3 3HG H 0 1 N N N 1.083 -5.993 -4.559 -3.186 -0.984 -0.692 HG3 DNP 15 
+DNP HXT HXT H 0 1 N Y N 0.402 -2.469 -2.515 2.773  -1.274 0.071  HXT DNP 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DNP N   CA  SING N N 1  
+DNP N   H   SING N N 2  
+DNP N   H2  SING N N 3  
+DNP CA  CB  SING N N 4  
+DNP CA  C   SING N N 5  
+DNP CA  HA  SING N N 6  
+DNP CB  NG  SING N N 7  
+DNP CB  HB2 SING N N 8  
+DNP CB  HB3 SING N N 9  
+DNP NG  HG1 SING N N 10 
+DNP NG  HG2 SING N N 11 
+DNP NG  HG3 SING N N 12 
+DNP C   O   DOUB N N 13 
+DNP C   OXT SING N N 14 
+DNP OXT HXT SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DNP SMILES           ACDLabs              10.04 "O=C(O)C(N)C[NH3+]"                                                  
+DNP SMILES_CANONICAL CACTVS               3.341 "N[C@@H](C[NH3+])C(O)=O"                                             
+DNP SMILES           CACTVS               3.341 "N[CH](C[NH3+])C(O)=O"                                               
+DNP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)[NH3+]"                                           
+DNP SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)[NH3+]"                                                
+DNP InChI            InChI                1.03  "InChI=1S/C3H8N2O2/c4-1-2(5)3(6)7/h2H,1,4-5H2,(H,6,7)/p+1/t2-/m0/s1" 
+DNP InChIKey         InChI                1.03  PECYZEOJVXMISF-REOHCLBHSA-O                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DNP "SYSTEMATIC NAME" ACDLabs              10.04 3-ammonio-L-alanine                            
+DNP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S)-2-amino-3-hydroxy-3-oxo-propyl]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DNP "Create component"  1999-07-08 PDBJ 
+DNP "Modify descriptor" 2011-06-04 RCSB 
+# 

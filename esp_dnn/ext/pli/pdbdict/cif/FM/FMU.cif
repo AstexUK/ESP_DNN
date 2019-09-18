@@ -1,0 +1,168 @@
+data_FMU
+# 
+_chem_comp.id                                    FMU 
+_chem_comp.name                                  "5-FLUORO-5-METHYLURIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H16 F N2 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-01-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        358.214 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     FMU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2BH2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FMU N1     N1   N 0 1 N N N 79.069 -0.492 19.581 0.452  2.524  0.177  N1     FMU 1  
+FMU N3     N3   N 0 1 N N N 79.459 -0.183 17.295 -1.175 4.209  0.434  N3     FMU 2  
+FMU O2     O2   O 0 1 N N N 78.838 1.472  18.559 -0.185 3.283  2.283  O2     FMU 3  
+FMU C5     C5   C 0 1 N N S 79.587 -2.502 18.216 -0.196 3.871  -1.775 C5     FMU 4  
+FMU C2     C2   C 0 1 N N N 79.107 0.278  18.478 -0.286 3.323  1.055  C2     FMU 5  
+FMU C5M    C5M  C 0 1 N N N 78.398 -3.454 17.951 -0.617 3.810  -3.239 C5M    FMU 6  
+FMU C6     C6   C 0 1 N N N 79.527 -1.902 19.630 0.131  2.483  -1.245 C6     FMU 7  
+FMU "C1'"  C1*  C 0 1 N N R 78.688 0.073  20.862 1.373  1.543  0.675  "C1'"  FMU 8  
+FMU C4     C4   C 0 1 N N N 79.770 -1.468 17.069 -1.268 4.520  -0.920 C4     FMU 9  
+FMU O4     O4   O 0 1 N N N 80.080 -1.875 15.956 -2.097 5.311  -1.367 O4     FMU 10 
+FMU "C2'"  C2*  C 0 1 N N R 79.316 1.417  21.334 0.748  0.163  0.786  "C2'"  FMU 11 
+FMU "O2'"  O2*  O 0 1 N N N 79.871 1.294  22.647 0.137  -0.058 2.041  "O2'"  FMU 12 
+FMU "C3'"  C3*  C 0 1 N N S 78.109 2.339  21.436 1.940  -0.742 0.560  "C3'"  FMU 13 
+FMU "C4'"  C4*  C 0 1 N N R 77.008 1.322  21.741 2.725  0.023  -0.498 "C4'"  FMU 14 
+FMU "O3'"  O3*  O 0 1 N N N 78.260 3.215  22.519 2.742  -0.809 1.739  "O3'"  FMU 15 
+FMU "O4'"  O4*  O 0 1 N N N 77.281 0.242  20.814 2.470  1.422  -0.246 "O4'"  FMU 16 
+FMU "C5'"  C5*  C 0 1 N N N 75.611 1.807  21.378 2.282  -0.292 -1.921 "C5'"  FMU 17 
+FMU "O5'"  O5*  O 0 1 N N N 74.730 0.677  21.490 3.063  0.476  -2.819 "O5'"  FMU 18 
+FMU P      P    P 0 1 N N N 73.367 0.734  22.300 2.787  0.324  -4.407 P      FMU 19 
+FMU O1P    O1P  O 0 1 N N N 72.600 2.064  22.042 2.921  -1.270 -4.647 O1P    FMU 20 
+FMU O2P    O2P  O 0 1 N N N 72.587 -0.596 22.166 3.659  1.172  -5.286 O2P    FMU 21 
+FMU O3P    O3P  O 0 1 N Y N ?      ?      ?      1.198  0.588  -4.548 O3P    FMU 22 
+FMU F      F    F 0 1 N N N 80.717 -3.227 18.172 0.945  4.622  -1.717 F      FMU 23 
+FMU H3     H3   H 0 1 N N N 79.497 0.470  16.512 -1.806 4.713  1.051  H3     FMU 24 
+FMU H5M1   1H5M H 0 0 N N N 78.441 -3.889 16.925 0.069  3.178  -3.810 H5M1   FMU 25 
+FMU H5M2   2H5M H 0 0 N N N 77.422 -2.948 18.138 -1.626 3.396  -3.332 H5M2   FMU 26 
+FMU H5M3   3H5M H 0 0 N N N 78.332 -4.250 18.729 -0.613 4.811  -3.681 H5M3   FMU 27 
+FMU H6C1   1H6C H 0 0 N N N 78.898 -2.518 20.314 -0.715 1.796  -1.367 H6C1   FMU 28 
+FMU H6C2   2H6C H 0 0 N N N 80.501 -2.002 20.163 0.999  2.077  -1.777 H6C2   FMU 29 
+FMU "H1'"  H1*  H 0 1 N N N 78.907 -0.692 21.643 1.754  1.910  1.633  "H1'"  FMU 30 
+FMU "H2'"  H2*  H 0 1 N N N 80.066 1.800  20.604 -0.000 0.004  -0.000 "H2'"  FMU 31 
+FMU HA     HA   H 0 1 N N N 80.254 2.114  22.935 -0.770 0.289  1.984  HA     FMU 32 
+FMU "H3'"  H3*  H 0 1 N N N 77.920 2.885  20.482 1.675  -1.764 0.277  "H3'"  FMU 33 
+FMU "H4'"  H4*  H 0 1 N N N 77.057 0.973  22.799 3.804  -0.139 -0.410 "H4'"  FMU 34 
+FMU HB     HB   H 0 1 N N N 77.507 3.790  22.583 3.278  -0.001 1.752  HB     FMU 35 
+FMU "H5'1" 1H5* H 0 0 N N N 75.565 2.301  20.379 1.229  -0.035 -2.051 "H5'1" FMU 36 
+FMU "H5'2" 2H5* H 0 0 N N N 75.280 2.682  21.985 2.428  -1.352 -2.133 "H5'2" FMU 37 
+FMU H3P    H3P  H 0 1 N N N -0.816 0.034  0.485  0.799  0.616  -5.443 H3P    FMU 38 
+FMU HO1    HO1  H 0 1 N N N 72.444 2.505  22.869 2.886  -1.617 -5.563 HO1    FMU 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FMU N1    C2     SING N N 1  
+FMU N1    C6     SING N N 2  
+FMU N1    "C1'"  SING N N 3  
+FMU N3    C2     SING N N 4  
+FMU N3    C4     SING N N 5  
+FMU N3    H3     SING N N 6  
+FMU O2    C2     DOUB N N 7  
+FMU C5    C5M    SING N N 8  
+FMU C5    C6     SING N N 9  
+FMU C5    C4     SING N N 10 
+FMU C5    F      SING N N 11 
+FMU C5M   H5M1   SING N N 12 
+FMU C5M   H5M2   SING N N 13 
+FMU C5M   H5M3   SING N N 14 
+FMU C6    H6C1   SING N N 15 
+FMU C6    H6C2   SING N N 16 
+FMU "C1'" "C2'"  SING N N 17 
+FMU "C1'" "O4'"  SING N N 18 
+FMU "C1'" "H1'"  SING N N 19 
+FMU C4    O4     DOUB N N 20 
+FMU "C2'" "O2'"  SING N N 21 
+FMU "C2'" "C3'"  SING N N 22 
+FMU "C2'" "H2'"  SING N N 23 
+FMU "O2'" HA     SING N N 24 
+FMU "C3'" "C4'"  SING N N 25 
+FMU "C3'" "O3'"  SING N N 26 
+FMU "C3'" "H3'"  SING N N 27 
+FMU "C4'" "O4'"  SING N N 28 
+FMU "C4'" "C5'"  SING N N 29 
+FMU "C4'" "H4'"  SING N N 30 
+FMU "O3'" HB     SING N N 31 
+FMU "C5'" "O5'"  SING N N 32 
+FMU "C5'" "H5'1" SING N N 33 
+FMU "C5'" "H5'2" SING N N 34 
+FMU "O5'" P      SING N N 35 
+FMU P     O1P    SING N N 36 
+FMU P     O2P    DOUB N N 37 
+FMU P     O3P    SING N N 38 
+FMU O3P   H3P    SING N N 39 
+FMU HO1   O1P    SING N N 40 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FMU SMILES           ACDLabs              10.04 "O=C1N(CC(F)(C(=O)N1)C)C2OC(C(O)C2O)COP(=O)(O)O"                                                                                                                 
+FMU SMILES_CANONICAL CACTVS               3.341 "C[C@]1(F)CN([C@@H]2O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]2O)C(=O)NC1=O"                                                                                            
+FMU SMILES           CACTVS               3.341 "C[C]1(F)CN([CH]2O[CH](CO[P](O)(O)=O)[CH](O)[CH]2O)C(=O)NC1=O"                                                                                                   
+FMU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@]1(CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)F"                                                                                           
+FMU SMILES           "OpenEye OEToolkits" 1.5.0 "CC1(CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O)F"                                                                                                                 
+FMU InChI            InChI                1.03  "InChI=1S/C10H16FN2O9P/c1-10(11)3-13(9(17)12-8(10)16)7-6(15)5(14)4(22-7)2-21-23(18,19)20/h4-7,14-15H,2-3H2,1H3,(H,12,16,17)(H2,18,19,20)/t4-,5-,6-,7-,10+/m1/s1" 
+FMU InChIKey         InChI                1.03  MVSQIWGOIJYVSH-NVABTJCQSA-N                                                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FMU "SYSTEMATIC NAME" ACDLabs              10.04 
+;5-fluoro-5-methyluridine 5'-(dihydrogen phosphate)
+;
+FMU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-[(5S)-5-fluoro-5-methyl-2,4-dioxo-1,3-diazinan-1-yl]-3,4-dihydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FMU "Create component"  2005-01-06 EBI  
+FMU "Modify descriptor" 2011-06-04 RCSB 
+# 

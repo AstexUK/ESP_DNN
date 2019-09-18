@@ -1,0 +1,125 @@
+data_POM
+# 
+_chem_comp.id                                    POM 
+_chem_comp.name                                  CIS-5-METHYL-4-OXOPROLINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H9 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               PRO 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        143.141 
+_chem_comp.one_letter_code                       P 
+_chem_comp.three_letter_code                     POM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A7Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+POM N    N    N 0 1 N N N -5.641 16.306 18.128 1.061  -0.511 0.141  N    POM 1  
+POM CA   CA   C 0 1 N N S -5.626 15.302 17.036 -0.187 -0.524 -0.663 CA   POM 2  
+POM C    C    C 0 1 N N N -6.554 15.688 15.875 0.056  0.048  -2.035 C    POM 3  
+POM O    O    O 0 1 N N N -7.446 16.550 16.039 0.922  0.874  -2.200 O    POM 4  
+POM OXT  OXT  O 0 1 N Y N -6.433 15.001 14.721 -0.688 -0.359 -3.075 OXT  POM 5  
+POM CB   CB   C 0 1 N N N -6.036 14.000 17.690 -1.133 0.389  0.156  CB   POM 6  
+POM CG   CG   C 0 1 N N N -6.610 14.374 19.025 -0.780 0.049  1.599  CG   POM 7  
+POM CD   CD   C 0 1 N N S -6.417 15.886 19.308 0.618  -0.533 1.552  CD   POM 8  
+POM OG   OG   O 0 1 N N N -7.170 13.608 19.802 -1.471 0.212  2.576  OG   POM 9  
+POM CD1  CD1  C 0 1 N N N -7.729 16.653 19.444 1.563  0.312  2.407  CD1  POM 10 
+POM H    HN   H 0 1 N N N -5.970 17.207 17.783 1.525  -1.391 -0.029 H    POM 11 
+POM HA   HA   H 0 1 N N N -4.617 15.224 16.566 -0.591 -1.534 -0.734 HA   POM 12 
+POM HXT  HXT  H 0 1 N Y N -7.007 15.239 14.002 -0.532 0.007  -3.956 HXT  POM 13 
+POM HB2  1HB  H 0 1 N N N -6.724 13.385 17.065 -0.931 1.439  -0.053 HB2  POM 14 
+POM HB3  2HB  H 0 1 N N N -5.210 13.253 17.753 -2.176 0.147  -0.050 HB3  POM 15 
+POM HD   HD   H 0 1 N N N -5.917 16.090 20.283 0.604  -1.559 1.920  HD   POM 16 
+POM HD11 1HD1 H 0 0 N N N -8.316 16.335 20.337 1.227  0.296  3.444  HD11 POM 17 
+POM HD12 2HD1 H 0 0 N N N -7.552 17.753 19.450 2.572  -0.094 2.345  HD12 POM 18 
+POM HD13 3HD1 H 0 0 N N N -8.338 16.575 18.513 1.562  1.339  2.042  HD13 POM 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+POM N   CA   SING N N 1  
+POM N   CD   SING N N 2  
+POM N   H    SING N N 3  
+POM CA  C    SING N N 4  
+POM CA  CB   SING N N 5  
+POM CA  HA   SING N N 6  
+POM C   O    DOUB N N 7  
+POM C   OXT  SING N N 8  
+POM OXT HXT  SING N N 9  
+POM CB  CG   SING N N 10 
+POM CB  HB2  SING N N 11 
+POM CB  HB3  SING N N 12 
+POM CG  CD   SING N N 13 
+POM CG  OG   DOUB N N 14 
+POM CD  CD1  SING N N 15 
+POM CD  HD   SING N N 16 
+POM CD1 HD11 SING N N 17 
+POM CD1 HD12 SING N N 18 
+POM CD1 HD13 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+POM SMILES           ACDLabs              10.04 "O=C1C(NC(C(=O)O)C1)C"                                                           
+POM SMILES_CANONICAL CACTVS               3.341 "C[C@@H]1N[C@@H](CC1=O)C(O)=O"                                                   
+POM SMILES           CACTVS               3.341 "C[CH]1N[CH](CC1=O)C(O)=O"                                                       
+POM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H]1C(=O)C[C@H](N1)C(=O)O"                                                   
+POM SMILES           "OpenEye OEToolkits" 1.5.0 "CC1C(=O)CC(N1)C(=O)O"                                                           
+POM InChI            InChI                1.03  "InChI=1S/C6H9NO3/c1-3-5(8)2-4(7-3)6(9)10/h3-4,7H,2H2,1H3,(H,9,10)/t3-,4-/m0/s1" 
+POM InChIKey         InChI                1.03  QQBMOLVYWYXMIA-IMJSIDKUSA-N                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+POM "SYSTEMATIC NAME" ACDLabs              10.04 "(5S)-5-methyl-4-oxo-L-proline"                        
+POM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,5S)-5-methyl-4-oxo-pyrrolidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+POM "Create component"  1999-07-08 RCSB 
+POM "Modify descriptor" 2011-06-04 RCSB 
+# 

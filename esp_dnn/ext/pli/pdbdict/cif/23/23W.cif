@@ -1,0 +1,118 @@
+data_23W
+# 
+_chem_comp.id                                    23W 
+_chem_comp.name                                  "methyl 2-(hydroxymethyl)prop-2-enoate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "methyl 2-(hydroxymethyl)acrylate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-08-26 
+_chem_comp.pdbx_modified_date                    2014-06-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        116.115 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     23W 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4M5P 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+23W CAB CAB C 0 1 N N N -42.295 -17.138 129.873 2.861  -0.815 -0.000 CAB 23W 1  
+23W OAF OAF O 0 1 N N N -42.062 -15.818 129.539 1.410  -0.860 -0.000 OAF 23W 2  
+23W CAH CAH C 0 1 N N N -41.560 -14.984 130.508 0.761  0.321  0.000  CAH 23W 3  
+23W OAC OAC O 0 1 N N N -41.200 -15.492 131.558 1.390  1.360  0.000  OAC 23W 4  
+23W CAG CAG C 0 1 N N N -41.101 -13.601 130.160 -0.709 0.352  0.000  CAG 23W 5  
+23W CAA CAA C 0 1 N N N -41.255 -13.118 128.891 -1.350 1.518  0.000  CAA 23W 6  
+23W CAE CAE C 0 1 N N N -40.461 -12.711 131.175 -1.489 -0.937 0.000  CAE 23W 7  
+23W OAD OAD O 0 1 N N N -40.105 -13.172 132.424 -2.888 -0.647 -0.000 OAD 23W 8  
+23W H1  H1  H 0 1 N N N -42.693 -17.673 128.998 3.208  -0.290 -0.890 H1  23W 9  
+23W H2  H2  H 0 1 N N N -41.353 -17.607 130.192 3.208  -0.290 0.890  H2  23W 10 
+23W H3  H3  H 0 1 N N N -43.025 -17.185 130.695 3.257  -1.831 0.000  H3  23W 11 
+23W H4  H4  H 0 1 N N N -40.918 -12.121 128.648 -2.430 1.541  0.000  H4  23W 12 
+23W H5  H5  H 0 1 N N N -41.714 -13.733 128.131 -0.790 2.442  -0.000 H5  23W 13 
+23W H6  H6  H 0 1 N N N -39.539 -12.328 130.713 -1.238 -1.514 -0.890 H6  23W 14 
+23W H7  H7  H 0 1 N N N -41.161 -11.879 131.341 -1.238 -1.514 0.890  H7  23W 15 
+23W H8  H8  H 0 1 N N N -40.362 -14.082 132.511 -3.453 -1.432 0.000  H8  23W 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+23W CAA CAG DOUB N N 1  
+23W OAF CAB SING N N 2  
+23W OAF CAH SING N N 3  
+23W CAG CAH SING N N 4  
+23W CAG CAE SING N N 5  
+23W CAH OAC DOUB N N 6  
+23W CAE OAD SING N N 7  
+23W CAB H1  SING N N 8  
+23W CAB H2  SING N N 9  
+23W CAB H3  SING N N 10 
+23W CAA H4  SING N N 11 
+23W CAA H5  SING N N 12 
+23W CAE H6  SING N N 13 
+23W CAE H7  SING N N 14 
+23W OAD H8  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+23W SMILES           ACDLabs              12.01 "O=C(OC)/C(=C)CO"                                
+23W InChI            InChI                1.03  "InChI=1S/C5H8O3/c1-4(3-6)5(7)8-2/h6H,1,3H2,2H3" 
+23W InChIKey         InChI                1.03  RFUCOAQWQVDBEU-UHFFFAOYSA-N                      
+23W SMILES_CANONICAL CACTVS               3.385 "COC(=O)C(=C)CO"                                 
+23W SMILES           CACTVS               3.385 "COC(=O)C(=C)CO"                                 
+23W SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "COC(=O)C(=C)CO"                                 
+23W SMILES           "OpenEye OEToolkits" 1.7.6 "COC(=O)C(=C)CO"                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+23W "SYSTEMATIC NAME" ACDLabs              12.01 "methyl 2-(hydroxymethyl)prop-2-enoate" 
+23W "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "methyl 2-(hydroxymethyl)prop-2-enoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+23W "Create component" 2013-08-26 RCSB 
+23W "Initial release"  2014-06-25 RCSB 
+# 

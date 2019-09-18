@@ -1,0 +1,212 @@
+data_BGO
+# 
+_chem_comp.id                                    BGO 
+_chem_comp.name                                  "3'-O-(N-methylanthraniloyl)guanosine-5'-diphosphate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C18 H22 N6 O12 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-08-16 
+_chem_comp.pdbx_modified_date                    2011-12-09 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        576.348 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BGO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3TAH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BGO "C'"   "C'"   C 0 1 N N N 21.458 -4.568  -70.692 -2.500 -2.640 -0.349 "C'"   BGO 1  
+BGO N1     N1     N 0 1 N N N 18.769 -9.956  -64.442 -3.874 5.650  0.351  N1     BGO 2  
+BGO C2     C2     C 0 1 N N N 19.105 -9.894  -65.808 -4.156 4.415  0.854  C2     BGO 3  
+BGO N2     N2     N 0 1 N N N 18.823 -10.952 -66.580 -5.365 4.206  1.468  N2     BGO 4  
+BGO N3     N3     N 0 1 N N N 19.685 -8.780  -66.295 -3.303 3.419  0.769  N3     BGO 5  
+BGO C4     C4     C 0 1 Y N N 19.930 -7.740  -65.464 -2.112 3.576  0.179  C4     BGO 6  
+BGO C5     C5     C 0 1 Y N N 19.620 -7.755  -64.102 -1.764 4.821  -0.358 C5     BGO 7  
+BGO C6     C6     C 0 1 N N N 19.024 -8.893  -63.585 -2.691 5.885  -0.259 C6     BGO 8  
+BGO O6     O6     O 0 1 N N N 18.731 -8.986  -62.393 -2.429 6.986  -0.713 O6     BGO 9  
+BGO N7     N7     N 0 1 Y N N 20.000 -6.592  -63.567 -0.521 4.698  -0.886 N7     BGO 10 
+BGO C8     C8     C 0 1 Y N N 20.533 -5.850  -64.546 -0.097 3.481  -0.709 C8     BGO 11 
+BGO N9     N9     N 0 1 Y N N 20.471 -6.559  -65.684 -1.046 2.750  -0.055 N9     BGO 12 
+BGO PA     PA     P 0 1 N N N 22.930 -1.939  -65.105 4.313  -1.058 -0.418 PA     BGO 13 
+BGO PB     PB     P 0 1 N N N 24.966 -1.003  -63.367 6.987  -0.164 0.496  PB     BGO 14 
+BGO "C1'"  "C1'"  C 0 1 Y N N 21.623 -5.388  -71.983 -3.343 -3.570 0.421  "C1'"  BGO 15 
+BGO "O1'"  "O1'"  O 0 1 N N N 20.840 -3.507  -70.654 -2.562 -2.626 -1.562 "O1'"  BGO 16 
+BGO O1A    O1A    O 0 1 N N N 21.738 -1.724  -64.275 4.509  -0.417 -1.738 O1A    BGO 17 
+BGO C1B    C1B    C 0 1 N N R 20.932 -6.267  -67.019 -0.944 1.340  0.326  C1B    BGO 18 
+BGO O1B    O1B    O 0 1 N N N 25.490 -1.770  -62.227 7.835  -1.532 0.455  O1B    BGO 19 
+BGO "C2'"  "C2'"  C 0 1 Y N N 20.859 -5.141  -73.142 -4.303 -4.360 -0.232 "C2'"  BGO 20 
+BGO "N2'"  "N2'"  N 0 1 N N N 19.951 -4.171  -73.203 -4.462 -4.269 -1.608 "N2'"  BGO 21 
+BGO "O2'"  "O2'"  O 0 1 N N N 19.569 -4.856  -68.334 -3.000 0.294  -0.512 "O2'"  BGO 22 
+BGO O2A    O2A    O 0 1 N N N 23.255 -0.951  -66.163 4.464  -2.654 -0.568 O2A    BGO 23 
+BGO C2B    C2B    C 0 1 N N R 20.834 -4.992  -67.660 -1.598 0.434  -0.748 C2B    BGO 24 
+BGO O2B    O2B    O 0 1 N N N 24.083 0.090   -63.022 7.230  0.605  -0.745 O2B    BGO 25 
+BGO "C3'"  "C3'"  C 0 1 Y N N 21.070 -5.946  -74.265 -5.092 -5.234 0.506  "C3'"  BGO 26 
+BGO "O3'"  "O3'"  O 0 1 N N N 21.997 -5.069  -69.551 -1.664 -1.800 0.293  "O3'"  BGO 27 
+BGO O3A    O3A    O 0 1 N N N 24.206 -2.172  -64.233 5.419  -0.509 0.615  O3A    BGO 28 
+BGO C3B    C3B    C 0 1 N N S 21.876 -4.262  -68.359 -0.863 -0.911 -0.530 C3B    BGO 29 
+BGO O3B    O3B    O 0 1 N N N 25.970 -0.653  -64.407 7.442  0.712  1.768  O3B    BGO 30 
+BGO "C4'"  "C4'"  C 0 1 Y N N 22.007 -6.963  -74.257 -4.931 -5.323 1.873  "C4'"  BGO 31 
+BGO "O4'"  "O4'"  O 0 1 N N N 22.405 -6.156  -66.837 0.436  0.914  0.332  "O4'"  BGO 32 
+BGO C4B    C4B    C 0 1 N N R 22.971 -4.954  -67.543 0.433  -0.518 0.205  C4B    BGO 33 
+BGO "C5'"  "C5'"  C 0 1 Y N N 22.765 -7.218  -73.117 -3.986 -4.544 2.522  "C5'"  BGO 34 
+BGO "O5'"  "O5'"  O 0 1 N N N 22.636 -3.371  -65.728 2.842  -0.708 0.134  "O5'"  BGO 35 
+BGO C5B    C5B    C 0 1 N N N 23.619 -4.117  -66.408 1.649  -0.971 -0.607 C5B    BGO 36 
+BGO "C6'"  "C6'"  C 0 1 Y N N 22.563 -6.424  -71.983 -3.190 -3.676 1.807  "C6'"  BGO 37 
+BGO "CM'"  "CM'"  C 0 1 N N N 19.343 -3.740  -74.478 -5.544 -5.001 -2.271 "CM'"  BGO 38 
+BGO HN1    HN1    H 0 1 N N N 18.338 -10.783 -64.081 -4.527 6.363  0.427  HN1    BGO 39 
+BGO HN2    HN2    H 0 1 N N N 19.044 -10.932 -67.555 -6.005 4.932  1.539  HN2    BGO 40 
+BGO HN2A   HN2A   H 0 0 N N N 18.392 -11.761 -66.181 -5.580 3.333  1.831  HN2A   BGO 41 
+BGO H8     H8     H 0 1 N N N 20.941 -4.856  -64.439 0.863  3.105  -1.032 H8     BGO 42 
+BGO H1B    H1B    H 0 1 N N N 20.353 -7.002  -67.597 -1.403 1.173  1.301  H1B    BGO 43 
+BGO HO1B   HO1B   H 0 0 N N N 25.149 -1.408  -61.418 7.724  -2.087 1.239  HO1B   BGO 44 
+BGO "HN2'" "HN2'" H 0 0 N N N 19.188 -4.485  -72.637 -3.856 -3.721 -2.131 "HN2'" BGO 45 
+BGO "HO2'" "HO2'" H 0 0 N N N 19.700 -4.422  -69.169 -3.490 1.126  -0.548 "HO2'" BGO 46 
+BGO HO2A   HO2A   H 0 0 N N N 22.602 -0.261  -66.164 4.347  -3.139 0.260  HO2A   BGO 47 
+BGO H2B    H2B    H 0 1 N N N 21.006 -4.443  -66.723 -1.411 0.822  -1.750 H2B    BGO 48 
+BGO "H3'"  "H3'"  H 0 1 N N N 20.489 -5.770  -75.158 -5.831 -5.844 0.009  "H3'"  BGO 49 
+BGO H3B    H3B    H 0 1 N N N 21.818 -3.172  -68.495 -0.635 -1.381 -1.486 H3B    BGO 50 
+BGO HO3B   HO3B   H 0 0 N N N 25.852 0.252   -64.670 8.378  0.956  1.762  HO3B   BGO 51 
+BGO "H4'"  "H4'"  H 0 1 N N N 22.152 -7.564  -75.142 -5.547 -6.004 2.442  "H4'"  BGO 52 
+BGO H4B    H4B    H 0 1 N N N 23.737 -5.173  -68.302 0.453  -0.978 1.193  H4B    BGO 53 
+BGO "H5'"  "H5'"  H 0 1 N N N 23.495 -8.014  -73.108 -3.869 -4.621 3.592  "H5'"  BGO 54 
+BGO H5B    H5B    H 0 1 N N N 24.115 -4.794  -65.697 1.574  -2.040 -0.808 H5B    BGO 55 
+BGO H5BA   H5BA   H 0 0 N N N 24.358 -3.429  -66.843 1.679  -0.425 -1.550 H5BA   BGO 56 
+BGO "H6'"  "H6'"  H 0 1 N N N 23.143 -6.614  -71.092 -2.452 -3.075 2.317  "H6'"  BGO 57 
+BGO "HM'"  "HM'"  H 0 1 N N N 18.624 -2.930  -74.287 -5.424 -6.069 -2.089 "HM'"  BGO 58 
+BGO "HM'A" "HM'A" H 0 0 N N N 20.130 -3.379  -75.156 -6.503 -4.670 -1.872 "HM'A" BGO 59 
+BGO "HM'B" "HM'B" H 0 0 N N N 18.822 -4.591  -74.941 -5.510 -4.808 -3.343 "HM'B" BGO 60 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BGO "C'"  "C1'"  SING N N 1  
+BGO "C'"  "O1'"  DOUB N N 2  
+BGO "C'"  "O3'"  SING N N 3  
+BGO N1    C2     SING N N 4  
+BGO N1    C6     SING N N 5  
+BGO C2    N2     SING N N 6  
+BGO C2    N3     DOUB N N 7  
+BGO N3    C4     SING N N 8  
+BGO C4    C5     DOUB Y N 9  
+BGO C4    N9     SING Y N 10 
+BGO C5    C6     SING N N 11 
+BGO C5    N7     SING Y N 12 
+BGO C6    O6     DOUB N N 13 
+BGO N7    C8     DOUB Y N 14 
+BGO C8    N9     SING Y N 15 
+BGO N9    C1B    SING N N 16 
+BGO PA    O1A    DOUB N N 17 
+BGO PA    O2A    SING N N 18 
+BGO PA    O3A    SING N N 19 
+BGO PA    "O5'"  SING N N 20 
+BGO PB    O1B    SING N N 21 
+BGO PB    O2B    DOUB N N 22 
+BGO PB    O3A    SING N N 23 
+BGO PB    O3B    SING N N 24 
+BGO "C1'" "C2'"  DOUB Y N 25 
+BGO "C1'" "C6'"  SING Y N 26 
+BGO C1B   C2B    SING N N 27 
+BGO C1B   "O4'"  SING N N 28 
+BGO "C2'" "N2'"  SING N N 29 
+BGO "C2'" "C3'"  SING Y N 30 
+BGO "N2'" "CM'"  SING N N 31 
+BGO "O2'" C2B    SING N N 32 
+BGO C2B   C3B    SING N N 33 
+BGO "C3'" "C4'"  DOUB Y N 34 
+BGO "O3'" C3B    SING N N 35 
+BGO C3B   C4B    SING N N 36 
+BGO "C4'" "C5'"  SING Y N 37 
+BGO "O4'" C4B    SING N N 38 
+BGO C4B   C5B    SING N N 39 
+BGO "C5'" "C6'"  DOUB Y N 40 
+BGO "O5'" C5B    SING N N 41 
+BGO N1    HN1    SING N N 42 
+BGO N2    HN2    SING N N 43 
+BGO N2    HN2A   SING N N 44 
+BGO C8    H8     SING N N 45 
+BGO C1B   H1B    SING N N 46 
+BGO O1B   HO1B   SING N N 47 
+BGO "N2'" "HN2'" SING N N 48 
+BGO "O2'" "HO2'" SING N N 49 
+BGO O2A   HO2A   SING N N 50 
+BGO C2B   H2B    SING N N 51 
+BGO "C3'" "H3'"  SING N N 52 
+BGO C3B   H3B    SING N N 53 
+BGO O3B   HO3B   SING N N 54 
+BGO "C4'" "H4'"  SING N N 55 
+BGO C4B   H4B    SING N N 56 
+BGO "C5'" "H5'"  SING N N 57 
+BGO C5B   H5B    SING N N 58 
+BGO C5B   H5BA   SING N N 59 
+BGO "C6'" "H6'"  SING N N 60 
+BGO "CM'" "HM'"  SING N N 61 
+BGO "CM'" "HM'A" SING N N 62 
+BGO "CM'" "HM'B" SING N N 63 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BGO SMILES           ACDLabs              12.01 "O=P(O)(O)OP(=O)(O)OCC4OC(n2cnc1c2N=C(N)NC1=O)C(O)C4OC(=O)c3ccccc3NC" 
+BGO InChI            InChI                1.03  
+"InChI=1S/C18H22N6O12P2/c1-20-9-5-3-2-4-8(9)17(27)35-13-10(6-33-38(31,32)36-37(28,29)30)34-16(12(13)25)24-7-21-11-14(24)22-18(19)23-15(11)26/h2-5,7,10,12-13,16,20,25H,6H2,1H3,(H,31,32)(H2,28,29,30)(H3,19,22,23,26)/t10-,12-,13-,16-/m1/s1" 
+BGO InChIKey         InChI                1.03  DAJQUPOUYBWRQQ-XNIJJKJLSA-N 
+BGO SMILES_CANONICAL CACTVS               3.370 "CNc1ccccc1C(=O)O[C@H]2[C@@H](O)[C@@H](O[C@@H]2CO[P](O)(=O)O[P](O)(O)=O)n3cnc4C(=O)NC(=Nc34)N" 
+BGO SMILES           CACTVS               3.370 "CNc1ccccc1C(=O)O[CH]2[CH](O)[CH](O[CH]2CO[P](O)(=O)O[P](O)(O)=O)n3cnc4C(=O)NC(=Nc34)N" 
+BGO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CNc1ccccc1C(=O)O[C@@H]2[C@H](O[C@H]([C@@H]2O)n3cnc4c3N=C(NC4=O)N)CO[P@](=O)(O)OP(=O)(O)O" 
+BGO SMILES           "OpenEye OEToolkits" 1.7.2 "CNc1ccccc1C(=O)OC2C(OC(C2O)n3cnc4c3N=C(NC4=O)N)COP(=O)(O)OP(=O)(O)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BGO "SYSTEMATIC NAME" ACDLabs              12.01 
+;3'-O-[2-(methylamino)benzoyl]guanosine 5'-(trihydrogen diphosphate)
+;
+BGO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "[(2R,3S,4R,5R)-5-(2-azanyl-6-oxidanylidene-1H-purin-9-yl)-4-oxidanyl-2-[[oxidanyl(phosphonooxy)phosphoryl]oxymethyl]oxolan-3-yl] 2-(methylamino)benzoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BGO "Create component" 2011-08-16 PDBJ 
+# 

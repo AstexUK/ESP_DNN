@@ -1,0 +1,158 @@
+data_PBF
+# 
+_chem_comp.id                                    PBF 
+_chem_comp.name                                  "PARA-(BENZOYL)-PHENYLALANINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C16 H15 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               PHE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-02-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        269.295 
+_chem_comp.one_letter_code                       F 
+_chem_comp.three_letter_code                     PBF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EEN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PBF N   N   N 0 1 N N N 15.115 21.071 8.664 -0.471 -2.353 1.412 N   PBF 1  
+PBF C   C   C 0 1 N N N 17.395 20.308 8.489 0.380  -2.394 3.703 C   PBF 2  
+PBF O   O   O 0 1 N N N ?      ?      ?     -0.649 -1.938 4.191 O   PBF 3  
+PBF CA  CA  C 0 1 N N S 16.122 20.591 7.737 0.717  -2.278 2.224 CA  PBF 4  
+PBF CB  CB  C 0 1 N N N 16.369 21.608 6.635 1.484  -0.975 1.962 CB  PBF 5  
+PBF CG  CG  C 0 1 Y N N 15.141 21.915 5.838 2.940  -1.060 2.353 CG  PBF 6  
+PBF CD1 CD1 C 0 1 Y N N 14.267 22.915 6.245 3.319  -0.712 3.640 CD1 PBF 7  
+PBF CD2 CD2 C 0 1 Y N N 14.832 21.170 4.708 3.871  -1.483 1.417 CD2 PBF 8  
+PBF CE1 CE1 C 0 1 Y N N 13.090 23.170 5.528 4.664  -0.791 4.001 CE1 PBF 9  
+PBF CE2 CE2 C 0 1 Y N N 13.658 21.420 3.993 5.216  -1.561 1.779 CE2 PBF 10 
+PBF CZ  CZ  C 0 1 Y N N 12.778 22.422 4.399 5.612  -1.215 3.070 CZ  PBF 11 
+PBF CN1 CN1 C 0 1 N N N 11.497 22.678 3.615 7.015  -1.296 3.446 CN1 PBF 12 
+PBF ON2 ON2 O 0 1 N N N 11.051 21.823 2.858 7.761  -0.317 3.292 ON2 PBF 13 
+PBF CT  CT  C 0 1 Y N N 10.813 24.024 3.652 7.619  -2.533 4.026 CT  PBF 14 
+PBF CI1 CI1 C 0 1 Y N N 11.531 25.222 3.598 6.815  -3.634 4.208 CI1 PBF 15 
+PBF CI2 CI2 C 0 1 Y N N 9.427  24.066 3.728 8.954  -2.522 4.354 CI2 PBF 16 
+PBF CK1 CK1 C 0 1 Y N N 10.872 26.451 3.618 7.378  -4.790 4.750 CK1 PBF 17 
+PBF CK2 CK2 C 0 1 Y N N 8.760  25.280 3.751 9.518  -3.677 4.895 CK2 PBF 18 
+PBF CL  CL  C 0 1 Y N N 9.479  26.478 3.695 8.730  -4.811 5.093 CL  PBF 19 
+PBF OXT OXT O 0 1 N Y N 17.986 19.161 8.183 1.302  -3.050 4.447 OXT PBF 20 
+PBF H   1HN H 0 1 N N N 14.252 21.262 8.154 -0.760 -3.246 1.052 H   PBF 21 
+PBF H2  2HN H 0 1 N Y N 15.435 21.877 9.199 -0.871 -1.502 1.053 H2  PBF 22 
+PBF HCA HCA H 0 1 N N N 15.758 19.651 7.258 1.321  -3.155 1.965 HCA PBF 23 
+PBF HB2 1HB H 0 1 N N N 16.819 22.540 7.047 1.432  -0.707 0.899 HB2 PBF 24 
+PBF HB3 2HB H 0 1 N N N 17.203 21.281 5.971 1.005  -0.141 2.494 HB3 PBF 25 
+PBF HD1 HD1 H 0 1 N N N 14.508 23.509 7.142 2.587  -0.381 4.371 HD1 PBF 26 
+PBF HD2 HD2 H 0 1 N N N 15.522 20.376 4.376 3.571  -1.755 0.409 HD2 PBF 27 
+PBF HE1 HE1 H 0 1 N N N 12.402 23.967 5.855 4.961  -0.520 5.010 HE1 PBF 28 
+PBF HE2 HE2 H 0 1 N N N 13.423 20.819 3.098 5.946  -1.894 1.045 HE2 PBF 29 
+PBF HI1 HI1 H 0 1 N N N 12.632 25.197 3.538 5.760  -3.628 3.944 HI1 PBF 30 
+PBF HI2 HI2 H 0 1 N N N 8.850  23.126 3.770 9.578  -1.644 4.205 HI2 PBF 31 
+PBF HK1 HK1 H 0 1 N N N 11.446 27.391 3.573 6.764  -5.672 4.904 HK1 PBF 32 
+PBF HK2 HK2 H 0 1 N N N 7.658  25.292 3.813 10.571 -3.694 5.162 HK2 PBF 33 
+PBF HCL HCL H 0 1 N N N 8.947  27.444 3.711 9.169  -5.711 5.514 HCL PBF 34 
+PBF HXT HXT H 0 1 N Y N 18.575 19.848 8.470 1.082  -3.131 5.399 HXT PBF 35 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PBF N   CA  SING N N 1  
+PBF N   H   SING N N 2  
+PBF N   H2  SING N N 3  
+PBF C   O   DOUB N N 4  
+PBF C   CA  SING N N 5  
+PBF C   OXT SING N N 6  
+PBF CA  CB  SING N N 7  
+PBF CA  HCA SING N N 8  
+PBF CB  CG  SING N N 9  
+PBF CB  HB2 SING N N 10 
+PBF CB  HB3 SING N N 11 
+PBF CG  CD1 DOUB Y N 12 
+PBF CG  CD2 SING Y N 13 
+PBF CD1 CE1 SING Y N 14 
+PBF CD1 HD1 SING N N 15 
+PBF CD2 CE2 DOUB Y N 16 
+PBF CD2 HD2 SING N N 17 
+PBF CE1 CZ  DOUB Y N 18 
+PBF CE1 HE1 SING N N 19 
+PBF CE2 CZ  SING Y N 20 
+PBF CE2 HE2 SING N N 21 
+PBF CZ  CN1 SING N N 22 
+PBF CN1 ON2 DOUB N N 23 
+PBF CN1 CT  SING N N 24 
+PBF CT  CI1 DOUB Y N 25 
+PBF CT  CI2 SING Y N 26 
+PBF CI1 CK1 SING Y N 27 
+PBF CI1 HI1 SING N N 28 
+PBF CI2 CK2 DOUB Y N 29 
+PBF CI2 HI2 SING N N 30 
+PBF CK1 CL  DOUB Y N 31 
+PBF CK1 HK1 SING N N 32 
+PBF CK2 CL  SING Y N 33 
+PBF CK2 HK2 SING N N 34 
+PBF CL  HCL SING N N 35 
+PBF OXT HXT SING N N 36 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PBF SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc1ccc(cc1)C(=O)c2ccccc2"                                                                                 
+PBF SMILES_CANONICAL CACTVS               3.341 "N[C@@H](Cc1ccc(cc1)C(=O)c2ccccc2)C(O)=O"                                                                            
+PBF SMILES           CACTVS               3.341 "N[CH](Cc1ccc(cc1)C(=O)c2ccccc2)C(O)=O"                                                                              
+PBF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C(=O)c2ccc(cc2)C[C@@H](C(=O)O)N"                                                                          
+PBF SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C(=O)c2ccc(cc2)CC(C(=O)O)N"                                                                               
+PBF InChI            InChI                1.03  "InChI=1S/C16H15NO3/c17-14(16(19)20)10-11-6-8-13(9-7-11)15(18)12-4-2-1-3-5-12/h1-9,14H,10,17H2,(H,19,20)/t14-/m0/s1" 
+PBF InChIKey         InChI                1.03  TVIDEEHSOPHZBR-AWEZNQCLSA-N                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PBF "SYSTEMATIC NAME" ACDLabs              10.04 "4-(phenylcarbonyl)-L-phenylalanine"                      
+PBF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-[4-(phenylcarbonyl)phenyl]propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PBF "Create component"  2000-02-22 RCSB 
+PBF "Modify descriptor" 2011-06-04 RCSB 
+# 

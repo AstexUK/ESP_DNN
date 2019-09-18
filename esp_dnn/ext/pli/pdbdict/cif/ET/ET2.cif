@@ -1,0 +1,121 @@
+data_ET2
+# 
+_chem_comp.id                                    ET2 
+_chem_comp.name                                  6-fluoro-1H-benzimidazol-2-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 F N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-12-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        151.141 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ET2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KR2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ET2 NAA  NAA  N 0 1 N N N 27.859 57.859 -27.787 3.725  0.292  -0.000 NAA  ET2 1  
+ET2 FAB  FAB  F 0 1 N N N 23.757 62.022 -23.881 -3.441 0.716  0.000  FAB  ET2 2  
+ET2 CAC  CAC  C 0 1 Y N N 24.835 59.995 -23.355 -1.986 -1.156 0.000  CAC  ET2 3  
+ET2 CAD  CAD  C 0 1 Y N N 25.645 58.944 -23.732 -0.712 -1.677 0.000  CAD  ET2 4  
+ET2 CAE  CAE  C 0 1 Y N N 25.034 60.969 -25.561 -1.106 1.081  -0.000 CAE  ET2 5  
+ET2 NAF  NAF  N 0 1 Y N N 26.461 59.629 -27.067 1.444  1.147  -0.000 NAF  ET2 6  
+ET2 NAG  NAG  N 0 1 Y N N 26.933 58.060 -25.627 1.734  -1.023 0.000  NAG  ET2 7  
+ET2 CAH  CAH  C 0 1 Y N N 24.537 60.996 -24.266 -2.185 0.219  0.000  CAH  ET2 8  
+ET2 CAI  CAI  C 0 1 Y N N 27.121 58.486 -26.876 2.355  0.130  0.000  CAI  ET2 9  
+ET2 CAJ  CAJ  C 0 1 Y N N 25.845 59.919 -25.932 0.184  0.571  -0.000 CAJ  ET2 10 
+ET2 CAK  CAK  C 0 1 Y N N 26.146 58.923 -25.017 0.390  -0.818 -0.000 CAK  ET2 11 
+ET2 HNAA HNAA H 0 0 N N N 28.245 57.027 -27.389 4.107  1.184  -0.000 HNAA ET2 12 
+ET2 HNAB HNAB H 0 0 N N N 27.287 57.619 -28.571 4.305  -0.485 0.004  HNAB ET2 13 
+ET2 HAC  HAC  H 0 1 N N N 24.434 60.038 -22.353 -2.837 -1.821 -0.004 HAC  ET2 14 
+ET2 HAD  HAD  H 0 1 N N N 25.882 58.154 -23.035 -0.564 -2.747 0.001  HAD  ET2 15 
+ET2 HAE  HAE  H 0 1 N N N 24.791 61.753 -26.262 -1.266 2.149  -0.001 HAE  ET2 16 
+ET2 HNAF HNAF H 0 0 N N N 26.436 60.166 -27.910 1.642  2.097  -0.000 HNAF ET2 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ET2 NAA CAI  SING N N 1  
+ET2 FAB CAH  SING N N 2  
+ET2 CAC CAD  DOUB Y N 3  
+ET2 CAC CAH  SING Y N 4  
+ET2 CAD CAK  SING Y N 5  
+ET2 CAE CAH  DOUB Y N 6  
+ET2 CAE CAJ  SING Y N 7  
+ET2 NAF CAI  SING Y N 8  
+ET2 NAF CAJ  SING Y N 9  
+ET2 NAG CAI  DOUB Y N 10 
+ET2 NAG CAK  SING Y N 11 
+ET2 CAJ CAK  DOUB Y N 12 
+ET2 NAA HNAA SING N N 13 
+ET2 NAA HNAB SING N N 14 
+ET2 CAC HAC  SING N N 15 
+ET2 CAD HAD  SING N N 16 
+ET2 CAE HAE  SING N N 17 
+ET2 NAF HNAF SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ET2 SMILES_CANONICAL CACTVS               3.352 "Nc1[nH]c2cc(F)ccc2n1"                                             
+ET2 SMILES           CACTVS               3.352 "Nc1[nH]c2cc(F)ccc2n1"                                             
+ET2 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc2c(cc1F)[nH]c(n2)N"                                           
+ET2 SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc2c(cc1F)[nH]c(n2)N"                                           
+ET2 InChI            InChI                1.03  "InChI=1S/C7H6FN3/c8-4-1-2-5-6(3-4)11-7(9)10-5/h1-3H,(H3,9,10,11)" 
+ET2 InChIKey         InChI                1.03  MKYGXXIXMHTQFA-UHFFFAOYSA-N                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ET2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 6-fluoro-1H-benzimidazol-2-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ET2 "Create component"     2009-12-04 RCSB 
+ET2 "Modify aromatic_flag" 2011-06-04 RCSB 
+ET2 "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,116 @@
+data_3HL
+# 
+_chem_comp.id                                    3HL 
+_chem_comp.name                                  "(3S)-3-HYDROXYBUTANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-02-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        104.105 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3HL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3HL CA   CA   C 0 1 N N N 54.367 -14.281 16.184 1.066  1.497  2.061  CA   3HL 1  
+3HL CB   CB   C 0 1 N N S 54.805 -14.036 14.684 1.164  -0.009 1.833  CB   3HL 2  
+3HL OG1  OG1  O 0 1 N N N 53.988 -13.021 14.059 0.156  -0.660 2.604  OG1  3HL 3  
+3HL CG2  CG2  C 0 1 N N N 56.286 -13.625 14.556 0.951  -0.394 0.375  CG2  3HL 4  
+3HL C    C    C 0 1 N N N 54.960 -13.395 17.315 1.220  1.856  3.517  C    3HL 5  
+3HL OA   OA   O 0 1 N N N 54.454 -12.262 17.460 1.814  1.160  4.331  OA   3HL 6  
+3HL OB   OB   O 0 1 N N N 55.885 -13.837 18.029 0.607  3.021  3.841  OB   3HL 7  
+3HL HA1  1HA  H 0 1 N N N 53.278 -14.128 16.214 0.133  1.904  1.654  HA1  3HL 8  
+3HL HA2  2HA  H 0 1 N N N 54.753 -15.286 16.409 1.859  2.022  1.513  HA2  3HL 9  
+3HL HB   HB   H 0 1 N N N 54.665 -14.999 14.172 2.136  -0.390 2.166  HB   3HL 10 
+3HL HOG1 HOG1 H 0 0 N N N 53.809 -12.329 14.684 -0.538 -0.002 2.761  HOG1 3HL 11 
+3HL HG21 1HG2 H 0 0 N N N 56.549 -13.527 13.492 0.961  -1.479 0.237  HG21 3HL 12 
+3HL HG22 2HG2 H 0 0 N N N 56.444 -12.662 15.063 0.000  0.000  0.000  HG22 3HL 13 
+3HL HG23 3HG2 H 0 0 N N N 56.921 -14.393 15.021 1.738  0.041  -0.251 HG23 3HL 14 
+3HL HOB  HOB  H 0 1 N N N 56.126 -13.184 18.676 0.668  3.281  4.785  HOB  3HL 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3HL CA  CB   SING N N 1  
+3HL CA  C    SING N N 2  
+3HL CA  HA1  SING N N 3  
+3HL CA  HA2  SING N N 4  
+3HL CB  OG1  SING N N 5  
+3HL CB  CG2  SING N N 6  
+3HL CB  HB   SING N N 7  
+3HL OG1 HOG1 SING N N 8  
+3HL CG2 HG21 SING N N 9  
+3HL CG2 HG22 SING N N 10 
+3HL CG2 HG23 SING N N 11 
+3HL C   OA   DOUB N N 12 
+3HL C   OB   SING N N 13 
+3HL OB  HOB  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3HL SMILES           ACDLabs              10.04 "O=C(O)CC(O)C"                                                   
+3HL SMILES_CANONICAL CACTVS               3.341 "C[C@H](O)CC(O)=O"                                               
+3HL SMILES           CACTVS               3.341 "C[CH](O)CC(O)=O"                                                
+3HL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](CC(=O)O)O"                                              
+3HL SMILES           "OpenEye OEToolkits" 1.5.0 "CC(CC(=O)O)O"                                                   
+3HL InChI            InChI                1.03  "InChI=1S/C4H8O3/c1-3(5)2-4(6)7/h3,5H,2H2,1H3,(H,6,7)/t3-/m0/s1" 
+3HL InChIKey         InChI                1.03  WHBMMWSBFZVSSR-VKHMYHEASA-N                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3HL "SYSTEMATIC NAME" ACDLabs              10.04 "(3S)-3-hydroxybutanoic acid" 
+3HL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3S)-3-hydroxybutanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3HL "Create component"  2007-02-15 RCSB 
+3HL "Modify descriptor" 2011-06-04 RCSB 
+# 

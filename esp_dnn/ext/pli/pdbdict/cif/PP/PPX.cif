@@ -1,0 +1,200 @@
+data_PPX
+# 
+_chem_comp.id                                    PPX 
+_chem_comp.name                                  "[PHENYLALANINYL-PROLINYL]-[2-(PYRIDIN-4-YLAMINO)-ETHYL]-AMINE" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C21 H27 N5 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        381.471 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PPX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QBV 
+_chem_comp.pdbx_subcomponent_list                "DPN PRO 01R" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PPX N1   N1   N 0 1 N N N 16.575 -16.957 23.518 3.817  2.132  0.034  N    DPN 1  
+PPX C2   C2   C 0 1 N N R 17.851 -16.186 23.667 3.608  0.678  0.035  CA   DPN 2  
+PPX C10  C10  C 0 1 N N N 17.604 -14.837 22.963 2.217  0.370  -0.455 C    DPN 3  
+PPX O11  O11  O 0 1 N N N 16.570 -14.215 23.190 1.606  1.193  -1.104 O    DPN 4  
+PPX C3   C3   C 0 1 N N N 18.137 -15.971 25.161 4.632  0.015  -0.888 CB   DPN 5  
+PPX C4   C4   C 0 1 Y N N ?      ?       ?      6.017  0.219  -0.330 CG   DPN 6  
+PPX C5   C5   C 0 1 Y N N 19.934 -14.391 25.984 6.553  -0.706 0.547  CD1  DPN 7  
+PPX C6   C6   C 0 1 Y N N 20.586 -16.450 24.993 6.754  1.328  -0.700 CD2  DPN 8  
+PPX C7   C7   C 0 1 Y N N 21.260 -13.989 26.022 7.823  -0.519 1.058  CE1  DPN 9  
+PPX C8   C8   C 0 1 Y N N 21.924 -16.056 25.027 8.025  1.516  -0.188 CE2  DPN 10 
+PPX C9   C9   C 0 1 Y N N 22.251 -14.802 25.541 8.558  0.594  0.693  CZ   DPN 11 
+PPX N12  N12  N 0 1 N N N 18.520 -14.427 22.064 1.651  -0.821 -0.173 N    PRO 12 
+PPX C14  C14  C 0 1 N N S 18.379 -13.143 21.349 0.305  -1.248 -0.581 CA   PRO 13 
+PPX C17  C17  C 0 1 N N N 17.060 -13.064 20.596 -0.729 -0.332 0.021  C    PRO 14 
+PPX O18  O18  O 0 1 N N N 16.720 -13.966 19.834 -0.383 0.592  0.726  O    PRO 15 
+PPX C15  C15  C 0 1 N N N 19.582 -13.155 20.372 0.101  -2.685 -0.057 CB   PRO 16 
+PPX C16  C16  C 0 1 N N N 20.510 -14.234 20.912 1.556  -3.195 0.133  CG   PRO 17 
+PPX C13  C13  C 0 1 N N N 19.598 -15.261 21.476 2.276  -1.907 0.603  CD   PRO 18 
+PPX N19  N19  N 0 1 N N N 16.302 -11.996 20.811 -2.038 -0.539 -0.223 N19  01R 19 
+PPX C20  C20  C 0 1 N N N 14.996 -11.785 20.177 -3.043 0.351  0.363  C20  01R 20 
+PPX C30  C30  C 0 1 N N N 14.053 -11.040 21.076 -4.439 -0.101 -0.069 C30  01R 21 
+PPX N27  N27  N 0 1 N N N 13.172 -11.983 21.665 -5.444 0.789  0.517  N27  01R 22 
+PPX C21  C21  C 0 1 Y N N 12.372 -11.656 22.674 -6.796 0.575  0.265  C21  01R 23 
+PPX C22  C22  C 0 1 Y N N 11.452 -12.613 23.063 -7.768 1.412  0.813  C22  01R 24 
+PPX C23  C23  C 0 1 Y N N 10.603 -12.362 24.144 -9.096 1.165  0.539  C23  01R 25 
+PPX N24  N24  N 0 1 Y N N 10.682 -11.213 24.814 -9.452 0.153  -0.231 N24  01R 26 
+PPX C25  C25  C 0 1 Y N N 11.567 -10.259 24.456 -8.563 -0.661 -0.768 C25  01R 27 
+PPX C26  C26  C 0 1 Y N N 12.438 -10.457 23.384 -7.214 -0.479 -0.548 C26  01R 28 
+PPX HN11 HN11 H 0 0 N N N 16.383 -17.100 22.547 3.709  2.512  -0.894 H    DPN 29 
+PPX HN12 HN12 H 0 0 N N N 16.665 -17.842 23.974 3.195  2.587  0.686  H2   DPN 30 
+PPX H2   H2   H 0 1 N N N 18.715 -16.710 23.231 3.730  0.294  1.048  HA   DPN 31 
+PPX H31  H31  H 0 1 N N N 17.484 -15.183 25.565 4.422  -1.053 -0.957 HB2  DPN 32 
+PPX H32  H32  H 0 1 N N N 17.955 -16.900 25.722 4.570  0.462  -1.880 HB3  DPN 33 
+PPX H5   H5   H 0 1 N N N 18.860 -14.456 26.082 5.978  -1.575 0.832  HD1  DPN 34 
+PPX H6   H6   H 0 1 N N N 19.660 -16.990 24.862 6.338  2.049  -1.388 HD2  DPN 35 
+PPX H7   H7   H 0 1 N N N 21.514 -13.024 26.435 8.241  -1.241 1.744  HE1  DPN 36 
+PPX H8   H8   H 0 1 N N N 22.697 -16.715 24.660 8.601  2.382  -0.477 HE2  DPN 37 
+PPX H9   H9   H 0 1 N N N 23.280 -14.474 25.560 9.551  0.740  1.093  HZ   DPN 38 
+PPX H14  H14  H 0 1 N N N 18.374 -12.274 22.024 0.226  -1.235 -1.668 HA   PRO 39 
+PPX H151 H151 H 0 0 N N N 19.257 -13.389 19.348 -0.430 -2.677 0.895  HB2  PRO 40 
+PPX H152 H152 H 0 0 N N N 20.084 -12.176 20.351 -0.430 -3.292 -0.791 HB3  PRO 41 
+PPX H161 H161 H 0 0 N N N 21.180 -13.831 21.685 1.972  -3.556 -0.808 HG2  PRO 42 
+PPX H162 H162 H 0 0 N N N 21.137 -14.656 20.112 1.600  -3.969 0.900  HG3  PRO 43 
+PPX H131 H131 H 0 0 N N N 20.096 -15.885 22.233 3.342  -1.967 0.381  HD2  PRO 44 
+PPX H132 H132 H 0 0 N N N 19.216 -15.944 20.703 2.118  -1.752 1.670  HD3  PRO 45 
+PPX H19  H19  H 0 1 N N N 16.640 -11.296 21.440 -2.315 -1.279 -0.787 H19  01R 46 
+PPX H201 H201 H 0 0 N N N 15.141 -11.201 19.257 -2.969 0.317  1.449  H201 01R 47 
+PPX H202 H202 H 0 0 N N N 14.557 -12.765 19.940 -2.869 1.371  0.019  H202 01R 48 
+PPX H301 H301 H 0 0 N N N 14.618 -10.513 21.859 -4.513 -0.067 -1.156 H301 01R 49 
+PPX H302 H302 H 0 0 N N N 13.480 -10.304 20.492 -4.613 -1.121 0.275  H302 01R 50 
+PPX H27  H27  H 0 1 N N N 12.566 -12.281 20.928 -5.167 1.528  1.081  H27  01R 51 
+PPX H22  H22  H 0 1 N N N 11.390 -13.552 22.533 -7.484 2.241  1.444  H22  01R 52 
+PPX H23  H23  H 0 1 N N N 9.877  -13.105 24.439 -9.856 1.808  0.959  H23  01R 53 
+PPX H25  H25  H 0 1 N N N 11.601 -9.330  25.006 -8.896 -1.477 -1.392 H25  01R 54 
+PPX H26  H26  H 0 1 N N N 13.152 -9.695  23.108 -6.491 -1.146 -0.995 H26  01R 55 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PPX N1  C2   SING N N 1  
+PPX N1  HN11 SING N N 2  
+PPX N1  HN12 SING N N 3  
+PPX C2  C3   SING N N 4  
+PPX C2  C10  SING N N 5  
+PPX C2  H2   SING N N 6  
+PPX C3  C4   SING N N 7  
+PPX C3  H31  SING N N 8  
+PPX C3  H32  SING N N 9  
+PPX C4  C5   DOUB Y N 10 
+PPX C4  C6   SING Y N 11 
+PPX C5  C7   SING Y N 12 
+PPX C5  H5   SING N N 13 
+PPX C6  C8   DOUB Y N 14 
+PPX C6  H6   SING N N 15 
+PPX C7  C9   DOUB Y N 16 
+PPX C7  H7   SING N N 17 
+PPX C8  C9   SING Y N 18 
+PPX C8  H8   SING N N 19 
+PPX C9  H9   SING N N 20 
+PPX C10 O11  DOUB N N 21 
+PPX C10 N12  SING N N 22 
+PPX N12 C13  SING N N 23 
+PPX N12 C14  SING N N 24 
+PPX C13 C16  SING N N 25 
+PPX C13 H131 SING N N 26 
+PPX C13 H132 SING N N 27 
+PPX C14 C15  SING N N 28 
+PPX C14 C17  SING N N 29 
+PPX C14 H14  SING N N 30 
+PPX C15 C16  SING N N 31 
+PPX C15 H151 SING N N 32 
+PPX C15 H152 SING N N 33 
+PPX C16 H161 SING N N 34 
+PPX C16 H162 SING N N 35 
+PPX C17 O18  DOUB N N 36 
+PPX C17 N19  SING N N 37 
+PPX N19 C20  SING N N 38 
+PPX N19 H19  SING N N 39 
+PPX C20 C30  SING N N 40 
+PPX C20 H201 SING N N 41 
+PPX C20 H202 SING N N 42 
+PPX C30 N27  SING N N 43 
+PPX C30 H301 SING N N 44 
+PPX C30 H302 SING N N 45 
+PPX N27 C21  SING N N 46 
+PPX N27 H27  SING N N 47 
+PPX C21 C22  DOUB Y N 48 
+PPX C21 C26  SING Y N 49 
+PPX C22 C23  SING Y N 50 
+PPX C22 H22  SING N N 51 
+PPX C23 N24  DOUB Y N 52 
+PPX C23 H23  SING N N 53 
+PPX N24 C25  SING Y N 54 
+PPX C25 C26  DOUB Y N 55 
+PPX C25 H25  SING N N 56 
+PPX C26 H26  SING N N 57 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PPX SMILES           ACDLabs              12.01 "O=C(NCCNc1ccncc1)C3N(C(=O)C(N)Cc2ccccc2)CCC3"                                                                                                                                   
+PPX SMILES_CANONICAL CACTVS               3.370 "N[C@H](Cc1ccccc1)C(=O)N2CCC[C@H]2C(=O)NCCNc3ccncc3"                                                                                                                             
+PPX SMILES           CACTVS               3.370 "N[CH](Cc1ccccc1)C(=O)N2CCC[CH]2C(=O)NCCNc3ccncc3"                                                                                                                               
+PPX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)C[C@H](C(=O)N2CCC[C@H]2C(=O)NCCNc3ccncc3)N"                                                                                                                           
+PPX SMILES           "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)CC(C(=O)N2CCCC2C(=O)NCCNc3ccncc3)N"                                                                                                                                   
+PPX InChI            InChI                1.03  "InChI=1S/C21H27N5O2/c22-18(15-16-5-2-1-3-6-16)21(28)26-14-4-7-19(26)20(27)25-13-12-24-17-8-10-23-11-9-17/h1-3,5-6,8-11,18-19H,4,7,12-15,22H2,(H,23,24)(H,25,27)/t18-,19+/m1/s1" 
+PPX InChIKey         InChI                1.03  GEIDRYBJURDUSW-MOPGFXCFSA-N                                                                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PPX "SYSTEMATIC NAME" ACDLabs              12.01 "D-phenylalanyl-N-[2-(pyridin-4-ylamino)ethyl]-L-prolinamide"                                       
+PPX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-1-[(2R)-2-azanyl-3-phenyl-propanoyl]-N-[2-(pyridin-4-ylamino)ethyl]pyrrolidine-2-carboxamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PPX "Create component"         1999-07-08 RCSB 
+PPX "Modify subcomponent list" 2011-02-24 RCSB 
+PPX "Modify descriptor"        2011-06-04 RCSB 
+# 

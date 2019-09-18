@@ -1,0 +1,98 @@
+data_OXL
+# 
+_chem_comp.id                                    OXL 
+_chem_comp.name                                  "OXALATE ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "C2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -2 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        88.019 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OXL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DWK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OXL C1 C1 C 0  1 N N N -23.053 -14.579 39.952 0.747  0.000  0.002  C1 OXL 1 
+OXL C2 C2 C 0  1 N N N -23.330 -13.308 40.751 -0.747 0.000  0.000  C2 OXL 2 
+OXL O1 O1 O 0  1 N N N -23.095 -15.668 40.620 1.385  -1.105 0.001  O1 OXL 3 
+OXL O2 O2 O 0  1 N N N -23.166 -12.011 40.608 -1.385 -1.105 -0.002 O2 OXL 4 
+OXL O3 O3 O -1 1 N N N -22.878 -14.885 38.709 1.385  1.105  -0.002 O3 OXL 5 
+OXL O4 O4 O -1 1 N N N -23.663 -13.539 42.016 -1.385 1.105  0.001  O4 OXL 6 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OXL C1 C2 SING N N 1 
+OXL C1 O1 DOUB N N 2 
+OXL C1 O3 SING N N 3 
+OXL C2 O2 DOUB N N 4 
+OXL C2 O4 SING N N 5 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OXL SMILES           ACDLabs              10.04 "[O-]C(=O)C([O-])=O"                               
+OXL SMILES_CANONICAL CACTVS               3.341 "[O-]C(=O)C([O-])=O"                               
+OXL SMILES           CACTVS               3.341 "[O-]C(=O)C([O-])=O"                               
+OXL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)(C(=O)[O-])[O-]"                             
+OXL SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)(C(=O)[O-])[O-]"                             
+OXL InChI            InChI                1.03  "InChI=1S/C2H2O4/c3-1(4)2(5)6/h(H,3,4)(H,5,6)/p-2" 
+OXL InChIKey         InChI                1.03  MUBZPKHOEPUJKR-UHFFFAOYSA-L                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OXL "SYSTEMATIC NAME" ACDLabs              10.04 ethanedioate 
+OXL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethanedioate 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OXL "Create component"  1999-07-08 RCSB 
+OXL "Modify descriptor" 2011-06-04 RCSB 
+# 

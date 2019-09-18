@@ -1,0 +1,126 @@
+data_1LM
+# 
+_chem_comp.id                                    1LM 
+_chem_comp.name                                  quinolin-4-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H8 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-03-21 
+_chem_comp.pdbx_modified_date                    2013-07-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        144.173 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1LM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4JQJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1LM C01 C01 C 0 1 Y N N 8.864  1.767 3.106 2.303  -1.110 0.000  C01 1LM 1  
+1LM C02 C02 C 0 1 Y N N 10.005 1.746 3.920 2.697  0.226  -0.000 C02 1LM 2  
+1LM C03 C03 C 0 1 Y N N 10.011 2.400 5.126 1.778  1.230  -0.000 C03 1LM 3  
+1LM C04 C04 C 0 1 Y N N 8.828  3.118 5.504 0.407  0.920  -0.000 C04 1LM 4  
+1LM C05 C05 C 0 1 Y N N 7.708  3.135 4.719 0.009  -0.438 -0.000 C05 1LM 5  
+1LM C06 C06 C 0 1 Y N N 7.723  2.453 3.475 0.982  -1.447 0.001  C06 1LM 6  
+1LM C07 C07 C 0 1 Y N N 6.542  3.859 5.093 -1.372 -0.747 0.000  C07 1LM 7  
+1LM C08 C08 C 0 1 Y N N 6.547  4.517 6.318 -2.272 0.307  0.000  C08 1LM 8  
+1LM C09 C09 C 0 1 Y N N 7.714  4.528 7.069 -1.802 1.613  -0.000 C09 1LM 9  
+1LM N10 N10 N 0 1 Y N N 8.826  3.852 6.676 -0.518 1.887  0.000  N10 1LM 10 
+1LM N11 N11 N 0 1 N N N 5.363  3.860 4.292 -1.811 -2.062 -0.000 N11 1LM 11 
+1LM H1  H1  H 0 1 N N N 8.877  1.234 2.167 3.052  -1.888 -0.004 H1  1LM 12 
+1LM H2  H2  H 0 1 N N N 10.885 1.211 3.596 3.750  0.469  -0.000 H2  1LM 13 
+1LM H3  H3  H 0 1 N N N 10.878 2.375 5.770 2.101  2.260  0.000  H3  1LM 14 
+1LM H4  H4  H 0 1 N N N 6.858  2.470 2.828 0.688  -2.486 0.001  H4  1LM 15 
+1LM H5  H5  H 0 1 N N N 5.657  5.011 6.679 -3.335 0.113  -0.000 H5  1LM 16 
+1LM H6  H6  H 0 1 N N N 7.739  5.089 7.991 -2.512 2.426  -0.001 H6  1LM 17 
+1LM H7  H7  H 0 1 N N N 4.663  4.426 4.728 -1.167 -2.788 -0.001 H7  1LM 18 
+1LM H8  H8  H 0 1 N N N 5.575  4.231 3.388 -2.761 -2.257 -0.000 H8  1LM 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1LM C01 C06 DOUB Y N 1  
+1LM C01 C02 SING Y N 2  
+1LM C06 C05 SING Y N 3  
+1LM C02 C03 DOUB Y N 4  
+1LM N11 C07 SING N N 5  
+1LM C05 C07 DOUB Y N 6  
+1LM C05 C04 SING Y N 7  
+1LM C07 C08 SING Y N 8  
+1LM C03 C04 SING Y N 9  
+1LM C04 N10 DOUB Y N 10 
+1LM C08 C09 DOUB Y N 11 
+1LM N10 C09 SING Y N 12 
+1LM C01 H1  SING N N 13 
+1LM C02 H2  SING N N 14 
+1LM C03 H3  SING N N 15 
+1LM C06 H4  SING N N 16 
+1LM C08 H5  SING N N 17 
+1LM C09 H6  SING N N 18 
+1LM N11 H7  SING N N 19 
+1LM N11 H8  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1LM SMILES           ACDLabs              12.01 "n1ccc(c2ccccc12)N"                                             
+1LM InChI            InChI                1.03  "InChI=1S/C9H8N2/c10-8-5-6-11-9-4-2-1-3-7(8)9/h1-6H,(H2,10,11)" 
+1LM InChIKey         InChI                1.03  FQYRLEXKXQRZDH-UHFFFAOYSA-N                                     
+1LM SMILES_CANONICAL CACTVS               3.370 Nc1ccnc2ccccc12                                                 
+1LM SMILES           CACTVS               3.370 Nc1ccnc2ccccc12                                                 
+1LM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)c(ccn2)N"                                           
+1LM SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)c(ccn2)N"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1LM "SYSTEMATIC NAME" ACDLabs              12.01 quinolin-4-amine 
+1LM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 quinolin-4-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1LM "Create component" 2013-03-21 RCSB 
+1LM "Initial release"  2013-07-31 RCSB 
+# 

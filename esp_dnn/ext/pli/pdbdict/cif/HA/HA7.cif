@@ -1,0 +1,121 @@
+data_HA7
+# 
+_chem_comp.id                                    HA7 
+_chem_comp.name                                  "(7S)-3-hydroxy-4,5,6,7-tetrahydroisoxazolo[5,4-c]pyridine-7-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-10-29 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HA7 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        3PD8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HA7 C1  C1  C 0 1 N N N 63.288 66.483 50.781 ? ? ? C1  HA7 1  
+HA7 N1  N1  N 0 1 N N N 62.135 66.008 51.253 ? ? ? N1  HA7 2  
+HA7 O1  O1  O 0 1 N N N 61.794 66.801 52.413 ? ? ? O1  HA7 3  
+HA7 C2  C2  C 0 1 N N N 63.730 67.536 51.561 ? ? ? C2  HA7 4  
+HA7 N2  N2  N 0 1 N N N 64.148 69.750 53.221 ? ? ? N2  HA7 5  
+HA7 O2  O2  O 0 1 N N N 62.831 67.201 55.249 ? ? ? O2  HA7 6  
+HA7 C3  C3  C 0 1 N N N 65.000 68.352 51.382 ? ? ? C3  HA7 7  
+HA7 O3  O3  O 0 1 N N N 63.664 69.196 55.820 ? ? ? O3  HA7 8  
+HA7 C4  C4  C 0 1 N N N 65.325 69.006 52.728 ? ? ? C4  HA7 9  
+HA7 O4  O4  O 0 1 N N N 63.892 66.060 49.801 ? ? ? O4  HA7 10 
+HA7 C5  C5  C 0 1 N N S 63.018 68.874 53.589 ? ? ? C5  HA7 11 
+HA7 C6  C6  C 0 1 N N N 62.802 67.728 52.578 ? ? ? C6  HA7 12 
+HA7 C7  C7  C 0 1 N N N 63.203 68.369 55.008 ? ? ? C7  HA7 13 
+HA7 HN2 HN2 H 0 1 N N N 63.842 70.368 52.497 ? ? ? HN2 HA7 14 
+HA7 H3  H3  H 0 1 N N N 65.828 67.699 51.070 ? ? ? H3  HA7 15 
+HA7 H3A H3A H 0 1 N N N 64.848 69.124 50.614 ? ? ? H3A HA7 16 
+HA7 HO3 HO3 H 0 1 N N N 63.698 68.806 56.686 ? ? ? HO3 HA7 17 
+HA7 H4  H4  H 0 1 N N N 65.595 68.227 53.456 ? ? ? H4  HA7 18 
+HA7 H4A H4A H 0 1 N N N 66.168 69.701 52.601 ? ? ? H4A HA7 19 
+HA7 H5  H5  H 0 1 N N N 62.094 69.470 53.551 ? ? ? H5  HA7 20 
+HA7 H8  H8  H 0 1 N N N 63.411 65.334 49.421 ? ? ? H8  HA7 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HA7 C1 N1  DOUB N N 1  
+HA7 C1 C2  SING N N 2  
+HA7 N1 O1  SING N N 3  
+HA7 O1 C6  SING N N 4  
+HA7 C2 C6  DOUB N N 5  
+HA7 N2 C5  SING N N 6  
+HA7 N2 HN2 SING N N 7  
+HA7 C3 C2  SING N N 8  
+HA7 C3 C4  SING N N 9  
+HA7 C3 H3  SING N N 10 
+HA7 C3 H3A SING N N 11 
+HA7 O3 HO3 SING N N 12 
+HA7 C4 N2  SING N N 13 
+HA7 C4 H4  SING N N 14 
+HA7 C4 H4A SING N N 15 
+HA7 O4 C1  SING N N 16 
+HA7 C5 C7  SING N N 17 
+HA7 C5 H5  SING N N 18 
+HA7 C6 C5  SING N N 19 
+HA7 C7 O2  DOUB N N 20 
+HA7 C7 O3  SING N N 21 
+HA7 O4 H8  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HA7 InChI            InChI                1.03  "InChI=1S/C7H8N2O4/c10-6-3-1-2-8-4(7(11)12)5(3)13-9-6/h4,8H,1-2H2,(H,9,10)(H,11,12)/t4-/m0/s1" 
+HA7 InChIKey         InChI                1.03  YRSIGIYXZNQZCI-BYPYZUCNSA-N                                                                    
+HA7 SMILES_CANONICAL CACTVS               3.385 "OC(=O)[C@H]1NCCc2c(O)noc12"                                                                   
+HA7 SMILES           CACTVS               3.385 "OC(=O)[CH]1NCCc2c(O)noc12"                                                                    
+HA7 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "C1CN[C@@H](c2c1c(no2)O)C(=O)O"                                                                
+HA7 SMILES           "OpenEye OEToolkits" 1.7.5 "C1CNC(c2c1c(no2)O)C(=O)O"                                                                     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HA7 "Create component"  2010-10-29 RCSB 
+HA7 "Modify descriptor" 2011-06-04 RCSB 
+HA7 "Modify descriptor" 2012-01-05 RCSB 
+# 

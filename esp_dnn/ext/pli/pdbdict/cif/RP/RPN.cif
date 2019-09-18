@@ -1,0 +1,133 @@
+data_RPN
+# 
+_chem_comp.id                                    RPN 
+_chem_comp.name                                  "(R)-1-PARA-NITRO-PHENYL-2-AZIDO-ETHANOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 N4 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-07-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        208.174 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RPN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PX0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RPN C1   C1   C 0  1 N N N 23.091 4.065  34.158 -2.425 -0.464 -0.614 C1   RPN 1  
+RPN C2   C2   C 0  1 N N R 24.584 4.242  34.393 -1.650 -0.594 0.698  C2   RPN 2  
+RPN O3   O3   O 0  1 N N N 25.228 3.960  33.200 -2.119 0.385  1.628  O3   RPN 3  
+RPN C4   C4   C 0  1 Y N N 25.149 3.341  35.485 -0.182 -0.377 0.438  C4   RPN 4  
+RPN N5   N5   N 0  1 N N N 22.369 4.501  35.332 -3.853 -0.675 -0.361 N5   RPN 5  
+RPN N6   N6   N 1  1 N N N 21.305 5.077  35.185 -4.592 0.139  -0.597 N6   RPN 6  
+RPN N7   N7   N -1 1 N N N 20.320 5.574  35.050 -5.330 0.952  -0.833 N7   RPN 7  
+RPN C8   C8   C 0  1 Y N N 25.178 1.924  35.357 0.650  -1.460 0.223  C8   RPN 8  
+RPN C9   C9   C 0  1 Y N N 25.714 1.093  36.371 1.997  -1.261 -0.016 C9   RPN 9  
+RPN C10  C10  C 0  1 Y N N 26.222 1.696  37.543 2.512  0.022  -0.039 C10  RPN 10 
+RPN C11  C11  C 0  1 Y N N 26.205 3.109  37.687 1.681  1.105  0.175  C11  RPN 11 
+RPN C12  C12  C 0  1 Y N N 25.665 3.917  36.661 0.333  0.906  0.409  C12  RPN 12 
+RPN N13  N13  N 1  1 N N N 26.795 0.855  38.640 3.955  0.235  -0.294 N13  RPN 13 
+RPN O14  O14  O -1 1 N N N 26.802 -0.368 38.501 4.687  -0.720 -0.482 O14  RPN 14 
+RPN O15  O15  O 0  1 N N N 27.224 1.457  39.632 4.409  1.365  -0.315 O15  RPN 15 
+RPN HC11 1HC1 H 0  0 N N N 22.830 3.022  33.864 -2.273 0.533  -1.029 HC11 RPN 16 
+RPN HC12 2HC1 H 0  0 N N N 22.744 4.581  33.232 -2.068 -1.210 -1.323 HC12 RPN 17 
+RPN HC2  HC2  H 0  1 N N N 24.751 5.289  34.737 -1.802 -1.590 1.113  HC2  RPN 18 
+RPN H03  H03  H 0  1 N N N 26.160 4.071  33.347 -1.966 1.250  1.223  H03  RPN 19 
+RPN HC8  HC8  H 0  1 N N N 24.773 1.456  34.444 0.247  -2.462 0.242  HC8  RPN 20 
+RPN HC9  HC9  H 0  1 N N N 25.735 -0.003 36.250 2.646  -2.107 -0.183 HC9  RPN 21 
+RPN H11  H11  H 0  1 N N N 26.612 3.580  38.598 2.084  2.107  0.157  H11  RPN 22 
+RPN H12  H12  H 0  1 N N N 25.646 5.013  36.780 -0.317 1.752  0.577  H12  RPN 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RPN C1  C2   SING N N 1  
+RPN C1  N5   SING N N 2  
+RPN C1  HC11 SING N N 3  
+RPN C1  HC12 SING N N 4  
+RPN C2  O3   SING N N 5  
+RPN C2  C4   SING N N 6  
+RPN C2  HC2  SING N N 7  
+RPN O3  H03  SING N N 8  
+RPN C4  C8   DOUB Y N 9  
+RPN C4  C12  SING Y N 10 
+RPN N5  N6   DOUB N N 11 
+RPN N6  N7   DOUB N N 12 
+RPN C8  C9   SING Y N 13 
+RPN C8  HC8  SING N N 14 
+RPN C9  C10  DOUB Y N 15 
+RPN C9  HC9  SING N N 16 
+RPN C10 C11  SING Y N 17 
+RPN C10 N13  SING N N 18 
+RPN C11 C12  DOUB Y N 19 
+RPN C11 H11  SING N N 20 
+RPN C12 H12  SING N N 21 
+RPN N13 O14  SING N N 22 
+RPN N13 O15  DOUB N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RPN SMILES           ACDLabs              10.04 "[O-][N+](=O)c1ccc(cc1)C(O)C/N=[N+]=[N-]"                                           
+RPN SMILES_CANONICAL CACTVS               3.341 "O[C@@H](CN=[N+]=[N-])c1ccc(cc1)[N+]([O-])=O"                                       
+RPN SMILES           CACTVS               3.341 "O[CH](CN=[N+]=[N-])c1ccc(cc1)[N+]([O-])=O"                                         
+RPN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1[C@H](CN=[N+]=[N-])O)[N+](=O)[O-]"                                        
+RPN SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1C(CN=[N+]=[N-])O)[N+](=O)[O-]"                                            
+RPN InChI            InChI                1.03  "InChI=1S/C8H8N4O3/c9-11-10-5-8(13)6-1-3-7(4-2-6)12(14)15/h1-4,8,13H,5H2/t8-/m0/s1" 
+RPN InChIKey         InChI                1.03  DHEGJYKMZJGYGW-QMMMGPOBSA-N                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RPN "SYSTEMATIC NAME" ACDLabs              10.04 "(1R)-2-azido-1-(4-nitrophenyl)ethanol" 
+RPN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1R)-2-azido-1-(4-nitrophenyl)ethanol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RPN "Create component"  2003-07-11 RCSB 
+RPN "Modify descriptor" 2011-06-04 RCSB 
+# 

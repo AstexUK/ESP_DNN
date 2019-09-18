@@ -1,0 +1,130 @@
+data_MPH
+# 
+_chem_comp.id                                    MPH 
+_chem_comp.name                                  "(1-AMINO-3-METHYLSULFANYL-PROPYL)-PHOSPHONIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H12 N O3 P S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "METHIONINE PHOSPHONATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.182 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     MPH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C23 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MPH N   N   N 0 1 N N N 20.241 -15.409 9.201  -2.185 0.215  -1.797 N   MPH 1  
+MPH CA  CA  C 0 1 N N R 20.790 -14.069 8.949  -1.061 0.585  -0.925 CA  MPH 2  
+MPH CB  CB  C 0 1 N N N 22.207 -14.105 8.327  -1.286 0.002  0.471  CB  MPH 3  
+MPH CG  CG  C 0 1 N N N 23.285 -14.520 9.333  -0.116 0.387  1.378  CG  MPH 4  
+MPH SD  SD  S 0 1 N N N 24.836 -14.573 8.425  -0.382 -0.302 3.034  SD  MPH 5  
+MPH CE  CE  C 0 1 N N N 25.971 -14.363 9.806  1.113  0.294  3.869  CE  MPH 6  
+MPH O1  O1  O 0 1 N N N 18.310 -13.357 8.465  0.397  -1.552 -1.707 O1  MPH 7  
+MPH O2  O2  O 0 1 N N N 19.916 -13.736 6.400  0.725  0.534  -3.088 O2  MPH 8  
+MPH O3  O3  O 0 1 N N N 20.080 -11.615 7.951  1.719  0.327  -0.663 O3  MPH 9  
+MPH P   P   P 0 1 N N N 19.764 -13.157 7.865  0.488  -0.078 -1.618 P   MPH 10 
+MPH H   H   H 0 1 N N N 19.307 -15.385 9.610  -3.026 0.510  -1.325 H   MPH 11 
+MPH HN2 HN2 H 0 1 N N N 20.877 -15.961 9.775  -2.208 -0.792 -1.828 HN2 MPH 12 
+MPH HA  HA  H 0 1 N N N 20.842 -13.581 9.950  -0.994 1.671  -0.860 HA  MPH 13 
+MPH HB1 1HB H 0 1 N N N 22.230 -14.758 7.423  -1.353 -1.083 0.405  HB1 MPH 14 
+MPH HB2 2HB H 0 1 N N N 22.459 -13.129 7.850  -2.213 0.399  0.885  HB2 MPH 15 
+MPH HG1 1HG H 0 1 N N N 23.323 -13.865 10.234 -0.049 1.473  1.444  HG1 MPH 16 
+MPH HG2 2HG H 0 1 N N N 23.051 -15.472 9.863  0.810  -0.008 0.964  HG2 MPH 17 
+MPH HE1 1HE H 0 1 N N N 26.932 -14.395 9.242  1.110  -0.042 4.905  HE1 MPH 18 
+MPH HE2 2HE H 0 1 N N N 25.805 -13.468 10.450 1.994  -0.098 3.361  HE2 MPH 19 
+MPH HE3 3HE H 0 1 N N N 25.865 -15.087 10.647 1.134  1.384  3.841  HE3 MPH 20 
+MPH HO2 HO2 H 0 1 N N N 19.358 -13.240 5.811  1.553  0.159  -3.418 HO2 MPH 21 
+MPH HO3 HO3 H 0 1 N N N 19.522 -11.119 7.362  1.743  1.293  -0.633 HO3 MPH 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MPH N  CA  SING N N 1  
+MPH N  H   SING N N 2  
+MPH N  HN2 SING N N 3  
+MPH CA CB  SING N N 4  
+MPH CA P   SING N N 5  
+MPH CA HA  SING N N 6  
+MPH CB CG  SING N N 7  
+MPH CB HB1 SING N N 8  
+MPH CB HB2 SING N N 9  
+MPH CG SD  SING N N 10 
+MPH CG HG1 SING N N 11 
+MPH CG HG2 SING N N 12 
+MPH SD CE  SING N N 13 
+MPH CE HE1 SING N N 14 
+MPH CE HE2 SING N N 15 
+MPH CE HE3 SING N N 16 
+MPH O1 P   DOUB N N 17 
+MPH O2 P   SING N N 18 
+MPH O2 HO2 SING N N 19 
+MPH O3 P   SING N N 20 
+MPH O3 HO3 SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MPH SMILES           ACDLabs              10.04 "O=P(O)(O)C(N)CCSC"                                                              
+MPH SMILES_CANONICAL CACTVS               3.341 "CSCC[C@H](N)[P](O)(O)=O"                                                        
+MPH SMILES           CACTVS               3.341 "CSCC[CH](N)[P](O)(O)=O"                                                         
+MPH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CSCC[C@H](N)P(=O)(O)O"                                                          
+MPH SMILES           "OpenEye OEToolkits" 1.5.0 "CSCCC(N)P(=O)(O)O"                                                              
+MPH InChI            InChI                1.03  "InChI=1S/C4H12NO3PS/c1-10-3-2-4(5)9(6,7)8/h4H,2-3,5H2,1H3,(H2,6,7,8)/t4-/m1/s1" 
+MPH InChIKey         InChI                1.03  XKCSXHUCPYVQIW-SCSAIBSYSA-N                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MPH "SYSTEMATIC NAME" ACDLabs              10.04 "[(1R)-1-amino-3-(methylsulfanyl)propyl]phosphonic acid" 
+MPH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1R)-1-amino-3-methylsulfanyl-propyl]phosphonic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MPH "Create component"  1999-07-28 EBI  
+MPH "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,116 @@
+data_7HP
+# 
+_chem_comp.id                                    7HP 
+_chem_comp.name                                  "7-HYDROXY-PYRAZOLO[4,3-D]PYRIMIDINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H4 N4 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-12-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        136.111 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     7HP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TC2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+7HP C9  C9  C 0 1 Y N N 39.536 38.718 53.781 -0.720 -0.011 -2.121 C9  7HP 1  
+7HP C4  C4  C 0 1 Y N N 38.734 38.084 52.862 -0.831 -0.005 -0.714 C4  7HP 2  
+7HP N3  N3  N 0 1 Y N N 38.732 38.285 51.518 -1.858 -0.010 0.143  N3  7HP 3  
+7HP C2  C2  C 0 1 Y N N 37.831 37.500 50.904 -1.644 -0.001 1.439  C2  7HP 4  
+7HP N1  N1  N 0 1 Y N N 37.016 36.617 51.578 -0.428 0.012  1.959  N1  7HP 5  
+7HP C6  C6  C 0 1 Y N N 36.956 36.387 52.989 0.650  0.018  1.187  C6  7HP 6  
+7HP O6  O6  O 0 1 N N N 36.130 35.622 53.547 1.891  0.033  1.731  O6  7HP 7  
+7HP C5  C5  C 0 1 Y N N 37.935 37.223 53.623 0.479  0.015  -0.201 C5  7HP 8  
+7HP N7  N7  N 0 1 Y N N 38.259 37.376 54.976 1.324  0.012  -1.278 N7  7HP 9  
+7HP N8  N8  N 0 1 Y N N 39.196 38.258 54.970 0.543  -0.001 -2.441 N8  7HP 10 
+7HP H9  H9  H 0 1 N N N 40.321 39.470 53.595 -1.545 -0.023 -2.817 H9  7HP 11 
+7HP H2  H2  H 0 1 N N N 37.757 37.583 49.806 -2.493 -0.006 2.105  H2  7HP 12 
+7HP HO6 HO6 H 0 1 N N N 36.090 35.469 54.483 2.155  -0.889 1.849  HO6 7HP 13 
+7HP HN7 HN7 H 0 1 N N N 37.882 36.927 55.811 2.293  0.021  -1.242 HN7 7HP 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+7HP C9 C4  SING Y N 1  
+7HP C9 N8  DOUB Y N 2  
+7HP C9 H9  SING N N 3  
+7HP C4 N3  SING Y N 4  
+7HP C4 C5  DOUB Y N 5  
+7HP N3 C2  DOUB Y N 6  
+7HP C2 N1  SING Y N 7  
+7HP C2 H2  SING N N 8  
+7HP N1 C6  DOUB Y N 9  
+7HP C6 O6  SING N N 10 
+7HP C6 C5  SING Y N 11 
+7HP O6 HO6 SING N N 12 
+7HP C5 N7  SING Y N 13 
+7HP N7 N8  SING Y N 14 
+7HP N7 HN7 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+7HP SMILES           ACDLabs              10.04 "n1c(O)c2c(nc1)cnn2"                                                 
+7HP SMILES_CANONICAL CACTVS               3.341 "Oc1ncnc2cn[nH]c12"                                                  
+7HP SMILES           CACTVS               3.341 "Oc1ncnc2cn[nH]c12"                                                  
+7HP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c2c(c(ncn2)O)[nH]n1"                                              
+7HP SMILES           "OpenEye OEToolkits" 1.5.0 "c1c2c(c(ncn2)O)[nH]n1"                                              
+7HP InChI            InChI                1.03  "InChI=1S/C5H4N4O/c10-5-4-3(1-8-9-4)6-2-7-5/h1-2H,(H,8,9)(H,6,7,10)" 
+7HP InChIKey         InChI                1.03  JFZSDNLQDTYVEE-UHFFFAOYSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+7HP "SYSTEMATIC NAME" ACDLabs              10.04 "1H-pyrazolo[4,3-d]pyrimidin-7-ol" 
+7HP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1H-pyrazolo[3,4-e]pyrimidin-7-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+7HP "Create component"  1999-12-15 RCSB 
+7HP "Modify descriptor" 2011-06-04 RCSB 
+# 

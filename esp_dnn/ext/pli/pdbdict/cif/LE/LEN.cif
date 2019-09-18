@@ -1,0 +1,124 @@
+data_LEN
+# 
+_chem_comp.id                                    LEN 
+_chem_comp.name                                  3-METHYLBUTAN-1-AMINE 
+_chem_comp.type                                  "L-peptide COOH carboxy terminus" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H13 N" 
+_chem_comp.mon_nstd_parent_comp_id               LEU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-05-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        87.163 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     LEN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PE5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LEN CD2  CD2  C 0 1 N N N 38.335 37.381 -1.057 -1.297 1.388  -0.227 CD2  LEN 1  
+LEN CG   CG   C 0 1 N N N 38.484 38.451 -2.113 -1.062 -0.007 0.357  CG   LEN 2  
+LEN CD1  CD1  C 0 1 N N N 39.910 38.929 -2.067 -2.207 -0.933 -0.059 CD1  LEN 3  
+LEN CB   CB   C 0 1 N N N 38.269 37.878 -3.513 0.262  -0.563 -0.171 CB   LEN 4  
+LEN CA   CA   C 0 1 N N N 38.548 38.975 -4.574 1.418  0.293  0.348  CA   LEN 5  
+LEN N    N    N 0 1 N N N 37.469 40.062 -4.368 2.690  -0.241 -0.158 N    LEN 6  
+LEN HD21 HD21 H 0 0 N N N 37.301 37.004 -1.059 -0.482 2.048  0.069  HD21 LEN 7  
+LEN HD22 HD22 H 0 0 N N N 39.027 36.554 -1.273 -1.337 1.325  -1.314 HD22 LEN 8  
+LEN HD23 HD23 H 0 0 N N N 38.568 37.806 -0.069 -2.241 1.785  0.149  HD23 LEN 9  
+LEN HG   HG   H 0 1 N N N 37.749 39.246 -1.919 -1.022 0.056  1.444  HG   LEN 10 
+LEN HD11 HD11 H 0 0 N N N 40.059 39.712 -2.825 -2.247 -0.996 -1.146 HD11 LEN 11 
+LEN HD12 HD12 H 0 0 N N N 40.127 39.338 -1.069 -2.039 -1.927 0.357  HD12 LEN 12 
+LEN HD13 HD13 H 0 0 N N N 40.586 38.086 -2.273 -3.150 -0.537 0.317  HD13 LEN 13 
+LEN HB1  HB1  H 0 1 N N N 38.955 37.033 -3.672 0.387  -1.590 0.173  HB1  LEN 14 
+LEN HB2  HB2  H 0 1 N N N 37.230 37.531 -3.610 0.256  -0.543 -1.261 HB2  LEN 15 
+LEN HA1  HA1  H 0 1 N N N 39.554 39.398 -4.436 1.293  1.320  0.005  HA1  LEN 16 
+LEN HA2  HA2  H 0 1 N N N 38.484 38.555 -5.589 1.424  0.273  1.438  HA2  LEN 17 
+LEN HN1  HN1  H 0 1 N N N 37.605 40.797 -5.032 2.684  -0.293 -1.166 HN1  LEN 18 
+LEN HN2  HN2  H 0 1 N Y N 36.562 39.660 -4.497 3.470  0.308  0.171  HN2  LEN 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LEN CD2 CG   SING N N 1  
+LEN CD2 HD21 SING N N 2  
+LEN CD2 HD22 SING N N 3  
+LEN CD2 HD23 SING N N 4  
+LEN CG  CD1  SING N N 5  
+LEN CG  CB   SING N N 6  
+LEN CG  HG   SING N N 7  
+LEN CD1 HD11 SING N N 8  
+LEN CD1 HD12 SING N N 9  
+LEN CD1 HD13 SING N N 10 
+LEN CB  CA   SING N N 11 
+LEN CB  HB1  SING N N 12 
+LEN CB  HB2  SING N N 13 
+LEN CA  N    SING N N 14 
+LEN CA  HA1  SING N N 15 
+LEN CA  HA2  SING N N 16 
+LEN N   HN1  SING N N 17 
+LEN N   HN2  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LEN SMILES           ACDLabs              12.01 "NCCC(C)C"                                       
+LEN SMILES_CANONICAL CACTVS               3.370 "CC(C)CCN"                                       
+LEN SMILES           CACTVS               3.370 "CC(C)CCN"                                       
+LEN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)CCN"                                       
+LEN SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)CCN"                                       
+LEN InChI            InChI                1.03  "InChI=1S/C5H13N/c1-5(2)3-4-6/h5H,3-4,6H2,1-2H3" 
+LEN InChIKey         InChI                1.03  BMFVGAAISNGQNM-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LEN "SYSTEMATIC NAME" ACDLabs              12.01 3-methylbutan-1-amine 
+LEN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 3-methylbutan-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LEN "Create component"  2003-05-27 RCSB 
+LEN "Modify descriptor" 2011-06-04 RCSB 
+# 

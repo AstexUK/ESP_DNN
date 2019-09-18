@@ -1,0 +1,128 @@
+data_BE1
+# 
+_chem_comp.id                                    BE1 
+_chem_comp.name                                  "N-BROMOACETYL-AMINOETHYL PHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H9 Br N O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-03-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        261.996 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BE1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C7Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BE1 C1   C1   C  0 1 N N N 52.230 -10.417 24.054 1.023  1.404  -3.095 C1   BE1 1  
+BE1 C2   C2   C  0 1 N N N 52.803 -10.842 22.722 1.436  0.316  -2.138 C2   BE1 2  
+BE1 C3   C3   C  0 1 N N N 53.582 -12.854 21.533 0.900  -1.476 -0.578 C3   BE1 3  
+BE1 C4   C4   C  0 1 N N N 54.655 -13.848 21.960 1.025  -0.895 0.831  C4   BE1 4  
+BE1 O2   O2   O  0 1 N N N 53.757 -10.120 22.386 2.612  0.102  -1.934 O2   BE1 5  
+BE1 N    N    N  0 1 N N N 52.999 -12.153 22.673 0.499  -0.418 -1.508 N    BE1 6  
+BE1 O4   O4   O  0 1 N N N 55.413 -13.411 23.097 -0.234 -0.356 1.238  O4   BE1 7  
+BE1 P    P    P  0 1 N N N 56.975 -13.699 23.341 -0.030 0.234  2.721  P    BE1 8  
+BE1 O1P  O1P  O  0 1 N N N 57.340 -15.091 23.014 1.007  1.288  2.694  O1P  BE1 9  
+BE1 O2P  O2P  O  0 1 N N N 57.150 -13.182 24.727 -1.418 0.861  3.244  O2P  BE1 10 
+BE1 O3P  O3P  O  0 1 N N N 57.978 -12.626 22.685 0.431  -0.948 3.711  O3P  BE1 11 
+BE1 BR   BR   BR 0 0 N Y N 52.134 -9.022  24.527 -1.295 -0.092 -1.819 BR   BE1 12 
+BE1 H11  H11  H  0 1 N N N 51.374 -11.064 24.355 1.912  1.885  -3.504 H11  BE1 13 
+BE1 H12  H12  H  0 1 N N N 53.015 -10.384 24.844 0.439  0.971  -3.907 H12  BE1 14 
+BE1 H13  H13  H  0 1 N N N 51.944 -9.339  24.050 0.420  2.143  -2.567 H13  BE1 15 
+BE1 H31  H31  H  0 1 N N N 53.974 -12.136 20.774 0.149  -2.266 -0.580 H31  BE1 16 
+BE1 H32  H32  H  0 1 N N N 52.795 -13.348 20.917 1.861  -1.887 -0.888 H32  BE1 17 
+BE1 H41  H41  H  0 1 N N N 54.212 -14.854 22.142 1.324  -1.682 1.524  H41  BE1 18 
+BE1 H42  H42  H  0 1 N N N 55.328 -14.095 21.106 1.776  -0.105 0.833  H42  BE1 19 
+BE1 HOP2 2HOP H  0 0 N N N 58.073 -13.352 24.871 -1.253 1.202  4.134  HOP2 BE1 20 
+BE1 HOP3 3HOP H  0 0 N N N 58.901 -12.796 22.829 -0.271 -1.612 3.700  HOP3 BE1 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BE1 C1  C2   SING N N 1  
+BE1 C1  H11  SING N N 2  
+BE1 C1  H12  SING N N 3  
+BE1 C1  H13  SING N N 4  
+BE1 C2  O2   DOUB N N 5  
+BE1 C2  N    SING N N 6  
+BE1 C3  C4   SING N N 7  
+BE1 C3  N    SING N N 8  
+BE1 C3  H31  SING N N 9  
+BE1 C3  H32  SING N N 10 
+BE1 C4  O4   SING N N 11 
+BE1 C4  H41  SING N N 12 
+BE1 C4  H42  SING N N 13 
+BE1 N   BR   SING N N 14 
+BE1 O4  P    SING N N 15 
+BE1 P   O1P  DOUB N N 16 
+BE1 P   O2P  SING N N 17 
+BE1 P   O3P  SING N N 18 
+BE1 O2P HOP2 SING N N 19 
+BE1 O3P HOP3 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BE1 SMILES           ACDLabs              10.04 "O=P(O)(OCCN(Br)C(=O)C)O"                                                
+BE1 SMILES_CANONICAL CACTVS               3.341 "CC(=O)N(Br)CCO[P](O)(O)=O"                                              
+BE1 SMILES           CACTVS               3.341 "CC(=O)N(Br)CCO[P](O)(O)=O"                                              
+BE1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)N(CCOP(=O)(O)O)Br"                                                
+BE1 SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)N(CCOP(=O)(O)O)Br"                                                
+BE1 InChI            InChI                1.03  "InChI=1S/C4H9BrNO5P/c1-4(7)6(5)2-3-11-12(8,9)10/h2-3H2,1H3,(H2,8,9,10)" 
+BE1 InChIKey         InChI                1.03  DPNUMPJWOVYEOX-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BE1 "SYSTEMATIC NAME" ACDLabs              10.04 "2-[acetyl(bromo)amino]ethyl dihydrogen phosphate"   
+BE1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(bromo-ethanoyl-amino)ethyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BE1 "Create component"  2000-03-08 EBI  
+BE1 "Modify descriptor" 2011-06-04 RCSB 
+# 

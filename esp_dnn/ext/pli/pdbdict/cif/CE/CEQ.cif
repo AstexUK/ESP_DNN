@@ -1,0 +1,126 @@
+data_CEQ
+# 
+_chem_comp.id                                    CEQ 
+_chem_comp.name                                  ETHYL-TRIMETHYL-SILANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H14 Si" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-09-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        102.250 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CEQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1FV2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CEQ SI1 SI1 SI 0 0 N N N 12.205 -7.364 -9.091  0.000  0.003  -0.392 SI1 CEQ 1  
+CEQ C2  C2  C  0 1 N N N 11.744 -6.890 -10.761 -0.012 1.157  -1.855 C2  CEQ 2  
+CEQ C3  C3  C  0 1 N N N 10.721 -7.868 -8.227  1.532  -1.054 -0.449 C3  CEQ 3  
+CEQ C4  C4  C  0 1 N N N 13.309 -8.767 -9.174  -1.509 -1.087 -0.449 C4  CEQ 4  
+CEQ C5  C5  C  0 1 N N N 12.980 -6.015 -8.211  -0.010 0.997  1.182  C5  CEQ 5  
+CEQ C6  C6  C  0 1 N N N 14.519 -6.093 -8.215  -0.000 0.049  2.383  C6  CEQ 6  
+CEQ H21 1H2 H  0 1 N N N 12.668 -6.576 -11.299 -0.006 0.575  -2.777 H21 CEQ 7  
+CEQ H22 2H2 H  0 1 N N N 11.184 -7.691 -11.297 -0.909 1.775  -1.822 H22 CEQ 8  
+CEQ H23 3H2 H  0 1 N N N 10.947 -6.110 -10.783 0.870  1.795  -1.822 H23 CEQ 9  
+CEQ H31 1H3 H  0 1 N N N 11.007 -8.162 -7.190  2.415  -0.416 -0.416 H31 CEQ 10 
+CEQ H32 2H3 H  0 1 N N N 9.924  -7.088 -8.249  1.540  -1.729 0.406  H32 CEQ 11 
+CEQ H33 3H3 H  0 1 N N N 10.161 -8.669 -8.763  1.539  -1.636 -1.371 H33 CEQ 12 
+CEQ H41 1H4 H  0 1 N N N 13.595 -9.061 -8.137  -2.406 -0.468 -0.416 H41 CEQ 13 
+CEQ H42 2H4 H  0 1 N N N 12.876 -9.615 -9.753  -1.503 -1.669 -1.371 H42 CEQ 14 
+CEQ H43 3H4 H  0 1 N N N 14.195 -8.573 -9.821  -1.502 -1.762 0.406  H43 CEQ 15 
+CEQ H51 1H5 H  0 1 N N N 12.631 -5.031 -8.605  -0.907 1.615  1.216  H51 CEQ 16 
+CEQ H52 2H5 H  0 1 N N N 12.588 -5.944 -7.169  0.872  1.635  1.216  H52 CEQ 17 
+CEQ H61 1H6 H  0 1 N N N 15.002 -5.251 -7.666  -0.006 0.630  3.305  H61 CEQ 18 
+CEQ H62 2H6 H  0 1 N N N 14.867 -7.076 -7.821  -0.883 -0.588 2.350  H62 CEQ 19 
+CEQ H63 3H6 H  0 1 N N N 14.910 -6.163 -9.256  0.896  -0.569 2.350  H63 CEQ 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CEQ SI1 C2  SING N N 1  
+CEQ SI1 C3  SING N N 2  
+CEQ SI1 C4  SING N N 3  
+CEQ SI1 C5  SING N N 4  
+CEQ C2  H21 SING N N 5  
+CEQ C2  H22 SING N N 6  
+CEQ C2  H23 SING N N 7  
+CEQ C3  H31 SING N N 8  
+CEQ C3  H32 SING N N 9  
+CEQ C3  H33 SING N N 10 
+CEQ C4  H41 SING N N 11 
+CEQ C4  H42 SING N N 12 
+CEQ C4  H43 SING N N 13 
+CEQ C5  C6  SING N N 14 
+CEQ C5  H51 SING N N 15 
+CEQ C5  H52 SING N N 16 
+CEQ C6  H61 SING N N 17 
+CEQ C6  H62 SING N N 18 
+CEQ C6  H63 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CEQ SMILES           ACDLabs              10.04 "CC[Si](C)(C)C"                            
+CEQ SMILES_CANONICAL CACTVS               3.341 "CC[Si](C)(C)C"                            
+CEQ SMILES           CACTVS               3.341 "CC[Si](C)(C)C"                            
+CEQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC[Si](C)(C)C"                            
+CEQ SMILES           "OpenEye OEToolkits" 1.5.0 "CC[Si](C)(C)C"                            
+CEQ InChI            InChI                1.03  "InChI=1S/C5H14Si/c1-5-6(2,3)4/h5H2,1-4H3" 
+CEQ InChIKey         InChI                1.03  UKAJDOBPPOAZSS-UHFFFAOYSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CEQ "SYSTEMATIC NAME" ACDLabs              10.04 "ethyl(trimethyl)silane" 
+CEQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethyl-trimethyl-silane   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CEQ "Create component"  2000-09-29 RCSB 
+CEQ "Modify descriptor" 2011-06-04 RCSB 
+# 

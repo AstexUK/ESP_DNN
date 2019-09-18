@@ -1,0 +1,123 @@
+data_PXY
+# 
+_chem_comp.id                                    PXY 
+_chem_comp.name                                  PARA-XYLENE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H10" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        106.165 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PXY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        187L 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PXY C1     C1     C 0 1 Y N N 26.645 6.141 4.668 0.000  0.001  1.382  C1     PXY 1  
+PXY C2     C2     C 0 1 Y N N 26.781 5.671 3.444 1.197  -0.000 0.691  C2     PXY 2  
+PXY C3     C3     C 0 1 Y N N 27.270 6.472 2.435 1.197  -0.000 -0.691 C3     PXY 3  
+PXY C4     C4     C 0 1 Y N N 27.583 7.775 2.686 0.000  0.000  -1.382 C4     PXY 4  
+PXY C5     C5     C 0 1 Y N N 27.442 8.266 3.939 -1.197 0.000  -0.691 C5     PXY 5  
+PXY C6     C6     C 0 1 Y N N 26.979 7.434 4.947 -1.197 -0.002 0.691  C6     PXY 6  
+PXY "C1'"  "C1'"  C 0 1 N N N 26.137 5.226 5.770 0.000  0.001  2.889  "C1'"  PXY 7  
+PXY "C4'"  "C4'"  C 0 1 N N N 28.102 8.664 1.552 0.000  0.000  -2.889 "C4'"  PXY 8  
+PXY H2     H2     H 0 1 N N N 26.489 4.622 3.266 2.132  -0.001 1.231  H2     PXY 9  
+PXY H3     H3     H 0 1 N N N 27.411 6.067 1.418 2.132  -0.001 -1.231 H3     PXY 10 
+PXY H5     H5     H 0 1 N N N 27.698 9.320 4.134 -2.132 0.001  -1.231 H5     PXY 11 
+PXY H6     H6     H 0 1 N N N 26.875 7.804 5.980 -2.132 -0.002 1.231  H6     PXY 12 
+PXY "H1'1" "1H1'" H 0 0 N N N 26.022 5.623 6.805 0.001  1.029  3.252  "H1'1" PXY 13 
+PXY "H1'2" "2H1'" H 0 0 N N N 25.164 4.787 5.447 -0.890 -0.511 3.252  "H1'2" PXY 14 
+PXY "H1'3" "3H1'" H 0 0 N N N 26.785 4.320 5.807 0.889  -0.513 3.252  "H1'3" PXY 15 
+PXY "H4'1" "1H4'" H 0 0 N N N 28.358 9.729 1.757 -0.001 -1.026 -3.252 "H4'1" PXY 16 
+PXY "H4'2" "2H4'" H 0 0 N N N 28.988 8.169 1.091 -0.889 0.515  -3.252 "H4'2" PXY 17 
+PXY "H4'3" "3H4'" H 0 0 N N N 27.369 8.631 0.712 0.890  0.513  -3.252 "H4'3" PXY 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PXY C1    C2     DOUB Y N 1  
+PXY C1    C6     SING Y N 2  
+PXY C1    "C1'"  SING N N 3  
+PXY C2    C3     SING Y N 4  
+PXY C2    H2     SING N N 5  
+PXY C3    C4     DOUB Y N 6  
+PXY C3    H3     SING N N 7  
+PXY C4    C5     SING Y N 8  
+PXY C4    "C4'"  SING N N 9  
+PXY C5    C6     DOUB Y N 10 
+PXY C5    H5     SING N N 11 
+PXY C6    H6     SING N N 12 
+PXY "C1'" "H1'1" SING N N 13 
+PXY "C1'" "H1'2" SING N N 14 
+PXY "C1'" "H1'3" SING N N 15 
+PXY "C4'" "H4'1" SING N N 16 
+PXY "C4'" "H4'2" SING N N 17 
+PXY "C4'" "H4'3" SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PXY SMILES           ACDLabs              10.04 "c1cc(ccc1C)C"                                  
+PXY SMILES_CANONICAL CACTVS               3.341 "Cc1ccc(C)cc1"                                  
+PXY SMILES           CACTVS               3.341 "Cc1ccc(C)cc1"                                  
+PXY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1ccc(cc1)C"                                  
+PXY SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1ccc(cc1)C"                                  
+PXY InChI            InChI                1.03  "InChI=1S/C8H10/c1-7-3-5-8(2)6-4-7/h3-6H,1-2H3" 
+PXY InChIKey         InChI                1.03  URLKBWYHVLBVBO-UHFFFAOYSA-N                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PXY "SYSTEMATIC NAME" ACDLabs              10.04 1,4-dimethylbenzene 
+PXY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1,4-dimethylbenzene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PXY "Create component"  1999-07-08 RCSB 
+PXY "Modify descriptor" 2011-06-04 RCSB 
+# 

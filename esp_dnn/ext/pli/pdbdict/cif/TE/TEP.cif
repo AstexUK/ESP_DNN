@@ -1,0 +1,130 @@
+data_TEP
+# 
+_chem_comp.id                                    TEP 
+_chem_comp.name                                  THEOPHYLLINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.164 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TEP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EHT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TEP C1  C1  C 0 1 N N N -4.880 -7.237 9.725  1.282  -0.003 2.733  C1  TEP 1  
+TEP N1  N1  N 0 1 Y N N -5.272 -6.678 10.938 0.625  -0.002 1.423  N1  TEP 2  
+TEP C2  C2  C 0 1 Y N N -5.445 -7.515 12.010 -0.717 -0.000 1.356  C2  TEP 3  
+TEP O2  O2  O 0 1 N N N -5.242 -8.714 11.809 -1.362 0.000  2.387  O2  TEP 4  
+TEP N3  N3  N 0 1 Y N N -5.828 -7.108 13.263 -1.366 0.000  0.177  N3  TEP 5  
+TEP C3  C3  C 0 1 N N N -5.995 -7.973 14.332 -2.831 0.002  0.147  C3  TEP 6  
+TEP C4  C4  C 0 1 Y N N -6.029 -5.762 13.349 -0.650 -0.000 -1.009 C4  TEP 7  
+TEP C5  C5  C 0 1 Y N N -5.855 -4.938 12.275 0.737  -0.002 -0.955 C5  TEP 8  
+TEP C6  C6  C 0 1 Y N N -5.462 -5.335 10.984 1.376  0.001  0.303  C6  TEP 9  
+TEP O6  O6  O 0 1 N N N -5.291 -4.635 9.987  2.592  0.005  0.376  O6  TEP 10 
+TEP N7  N7  N 0 1 Y N N -6.144 -3.659 12.731 1.175  -0.002 -2.264 N7  TEP 11 
+TEP C8  C8  C 0 1 Y N N -6.471 -3.795 14.038 0.077  -0.000 -3.046 C8  TEP 12 
+TEP N9  N9  N 0 1 Y N N -6.419 -5.027 14.463 -0.996 0.000  -2.299 N9  TEP 13 
+TEP H11 1H1 H 0 1 N N N -4.319 -6.504 9.148  0.984  -0.892 3.288  H11 TEP 14 
+TEP H12 2H1 H 0 1 N N N -5.762 -7.543 9.163  2.363  -0.004 2.597  H12 TEP 15 
+TEP H13 3H1 H 0 1 N N N -4.248 -8.107 9.908  0.987  0.887  3.288  H13 TEP 16 
+TEP H31 1H3 H 0 1 N N N -5.027 -8.375 14.628 -3.214 0.002  1.168  H31 TEP 17 
+TEP H32 2H3 H 0 1 N N N -6.653 -8.791 14.038 -3.182 0.892  -0.373 H32 TEP 18 
+TEP H33 3H3 H 0 1 N N N -6.437 -7.437 15.172 -3.185 -0.887 -0.373 H33 TEP 19 
+TEP HN7 HN7 H 0 1 N N N -6.111 -2.825 12.166 2.097  -0.003 -2.564 HN7 TEP 20 
+TEP H8  H8  H 0 1 N N N -6.746 -2.954 14.674 0.084  -0.001 -4.126 H8  TEP 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TEP C1 N1  SING N N 1  
+TEP C1 H11 SING N N 2  
+TEP C1 H12 SING N N 3  
+TEP C1 H13 SING N N 4  
+TEP N1 C2  SING Y N 5  
+TEP N1 C6  SING Y N 6  
+TEP C2 O2  DOUB N N 7  
+TEP C2 N3  SING Y N 8  
+TEP N3 C3  SING N N 9  
+TEP N3 C4  SING Y N 10 
+TEP C3 H31 SING N N 11 
+TEP C3 H32 SING N N 12 
+TEP C3 H33 SING N N 13 
+TEP C4 C5  DOUB Y N 14 
+TEP C4 N9  SING Y N 15 
+TEP C5 C6  SING Y N 16 
+TEP C5 N7  SING Y N 17 
+TEP C6 O6  DOUB N N 18 
+TEP N7 C8  SING Y N 19 
+TEP N7 HN7 SING N N 20 
+TEP C8 N9  DOUB Y N 21 
+TEP C8 H8  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TEP SMILES           ACDLabs              10.04 "O=C2N(c1ncnc1C(=O)N2C)C"                                                 
+TEP SMILES_CANONICAL CACTVS               3.341 "CN1C(=O)N(C)c2nc[nH]c2C1=O"                                              
+TEP SMILES           CACTVS               3.341 "CN1C(=O)N(C)c2nc[nH]c2C1=O"                                              
+TEP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CN1c2c([nH]cn2)C(=O)N(C1=O)C"                                            
+TEP SMILES           "OpenEye OEToolkits" 1.5.0 "CN1c2c([nH]cn2)C(=O)N(C1=O)C"                                            
+TEP InChI            InChI                1.03  "InChI=1S/C7H8N4O2/c1-10-5-4(8-3-9-5)6(12)11(2)7(10)13/h3H,1-2H3,(H,8,9)" 
+TEP InChIKey         InChI                1.03  ZFXYFBGIUFBOJW-UHFFFAOYSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TEP "SYSTEMATIC NAME" ACDLabs              10.04 1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione 
+TEP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1,3-dimethyl-7H-purine-2,6-dione             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TEP "Create component"  1999-07-08 PDBJ 
+TEP "Modify descriptor" 2011-06-04 RCSB 
+# 

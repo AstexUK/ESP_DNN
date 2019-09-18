@@ -1,0 +1,115 @@
+data_DIO
+# 
+_chem_comp.id                                    DIO 
+_chem_comp.name                                  "1,4-DIETHYLENE DIOXIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         DOX 
+_chem_comp.formula_weight                        88.105 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DIO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AF4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DIO C1     C1     C 0 1 N N N 4.027 34.555 4.863 -1.147 0.244  0.724  C1     DIO 1  
+DIO C2     C2     C 0 1 N N N 2.539 32.753 5.104 1.147  0.244  0.724  C2     DIO 2  
+DIO "C1'"  "C1'"  C 0 1 N N N 3.102 35.195 3.826 -1.147 -0.244 -0.724 "C1'"  DIO 3  
+DIO "C2'"  "C2'"  C 0 1 N N N 1.610 33.389 3.998 1.147  -0.244 -0.724 "C2'"  DIO 4  
+DIO O1     O1     O 0 1 N N N 3.263 33.778 5.797 0.000  -0.266 1.403  O1     DIO 5  
+DIO "O1'"  "O1'"  O 0 1 N N N 2.385 34.171 3.094 0.000  0.266  -1.403 "O1'"  DIO 6  
+DIO H11    1H1    H 0 1 N N N 4.835 33.954 4.385 -1.123 1.334  0.739  H11    DIO 7  
+DIO H12    2H1    H 0 1 N N N 4.665 35.312 5.375 -2.050 -0.104 1.225  H12    DIO 8  
+DIO H21    1H2    H 0 1 N N N 1.965 32.103 5.805 2.050  -0.104 1.225  H21    DIO 9  
+DIO H22    2H2    H 0 1 N N N 3.219 31.978 4.679 1.123  1.334  0.739  H22    DIO 10 
+DIO "H1'1" "1H1'" H 0 0 N N N 2.410 35.938 4.287 -1.123 -1.334 -0.739 "H1'1" DIO 11 
+DIO "H1'2" "2H1'" H 0 0 N N N 3.653 35.884 3.145 -2.050 0.104  -1.225 "H1'2" DIO 12 
+DIO "H2'1" "1H2'" H 0 0 N N N 1.005 32.616 3.467 1.123  -1.334 -0.739 "H2'1" DIO 13 
+DIO "H2'2" "2H2'" H 0 0 N N N 0.773 33.975 4.444 2.050  0.104  -1.225 "H2'2" DIO 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DIO C1    "C1'"  SING N N 1  
+DIO C1    O1     SING N N 2  
+DIO C1    H11    SING N N 3  
+DIO C1    H12    SING N N 4  
+DIO C2    "C2'"  SING N N 5  
+DIO C2    O1     SING N N 6  
+DIO C2    H21    SING N N 7  
+DIO C2    H22    SING N N 8  
+DIO "C1'" "O1'"  SING N N 9  
+DIO "C1'" "H1'1" SING N N 10 
+DIO "C1'" "H1'2" SING N N 11 
+DIO "C2'" "O1'"  SING N N 12 
+DIO "C2'" "H2'1" SING N N 13 
+DIO "C2'" "H2'2" SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DIO SMILES           ACDLabs              10.04 O1CCOCC1                              
+DIO SMILES_CANONICAL CACTVS               3.341 C1COCCO1                              
+DIO SMILES           CACTVS               3.341 C1COCCO1                              
+DIO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C1COCCO1                              
+DIO SMILES           "OpenEye OEToolkits" 1.5.0 C1COCCO1                              
+DIO InChI            InChI                1.03  InChI=1S/C4H8O2/c1-2-6-4-3-5-1/h1-4H2 
+DIO InChIKey         InChI                1.03  RYHBNJHYFVUHQT-UHFFFAOYSA-N           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DIO "SYSTEMATIC NAME" ACDLabs              10.04 1,4-dioxane 
+DIO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1,4-dioxane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DIO "Create component"  1999-07-08 RCSB 
+DIO "Modify descriptor" 2011-06-04 RCSB 
+# 

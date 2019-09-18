@@ -1,0 +1,126 @@
+data_GPA
+# 
+_chem_comp.id                                    GPA 
+_chem_comp.name                                  "2-AMINO-3-GUANIDINO-PROPIONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-11-22 
+_chem_comp.pdbx_modified_date                    2012-06-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.148 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GPA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GPA N    N    N 0 1 N N N -2.393 6.835 62.899 1.024  1.829  -0.131 N    GPA 1  
+GPA CA   CA   C 0 1 N N S -3.051 6.279 64.100 1.072  0.487  0.465  CA   GPA 2  
+GPA C    C    C 0 1 N N N -4.492 6.583 64.165 2.333  -0.212 0.026  C    GPA 3  
+GPA OA1  OA1  O 0 1 N N N -5.131 6.992 63.193 2.802  -1.255 0.729  OA1  GPA 4  
+GPA OA2  OA2  O 0 1 N N N -5.110 6.418 65.243 2.923  0.167  -0.958 OA2  GPA 5  
+GPA CD   CD   C 0 1 N N N -2.304 6.808 65.349 -0.144 -0.319 0.005  CD   GPA 6  
+GPA NE   NE   N 0 1 N N N -1.011 6.197 65.443 -1.368 0.418  0.325  NE   GPA 7  
+GPA CZ   CZ   C 0 1 N N N 0.169  6.861 65.380 -2.595 -0.113 0.004  CZ   GPA 8  
+GPA NH1  NH1  N 0 1 N N N 0.276  8.210 65.200 -2.672 -1.337 -0.618 NH1  GPA 9  
+GPA NH2  NH2  N 0 1 N N N 1.287  6.168 65.495 -3.685 0.543  0.289  NH2  GPA 10 
+GPA HN1  HN1  H 0 1 N N N -3.071 6.961 62.175 1.035  1.703  -1.132 HN1  GPA 11 
+GPA HN2  HN2  H 0 1 N N N -1.979 7.717 63.124 0.122  2.218  0.102  HN2  GPA 12 
+GPA HA   HA   H 0 1 N N N -2.992 5.182 64.055 1.063  0.571  1.551  HA   GPA 13 
+GPA HXT  HXT  H 0 1 N N N -6.039 7.120 63.442 3.611  -1.704 0.448  HXT  GPA 14 
+GPA HCD1 1HCD H 0 0 N N N -2.185 7.898 65.267 -0.087 -0.479 -1.072 HCD1 GPA 15 
+GPA HCD2 2HCD H 0 0 N N N -2.886 6.562 66.249 -0.155 -1.282 0.515  HCD2 GPA 16 
+GPA HNE1 1HNE H 0 0 N N N -0.977 5.205 65.564 -1.314 1.281  0.764  HNE1 GPA 17 
+GPA HN11 1HN1 H 0 0 N N N 1.236  8.488 65.184 -3.538 -1.712 -0.845 HN11 GPA 18 
+GPA HN12 2HN1 H 0 0 N N N -0.499 8.834 65.098 -1.861 -1.825 -0.831 HN12 GPA 19 
+GPA HN21 1HN2 H 0 0 N N N 1.087  5.196 65.621 -4.550 0.168  0.062  HN21 GPA 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GPA N   CA   SING N N 1  
+GPA N   HN1  SING N N 2  
+GPA N   HN2  SING N N 3  
+GPA CA  C    SING N N 4  
+GPA CA  CD   SING N N 5  
+GPA CA  HA   SING N N 6  
+GPA C   OA1  SING N N 7  
+GPA C   OA2  DOUB N N 8  
+GPA OA1 HXT  SING N N 9  
+GPA CD  NE   SING N N 10 
+GPA CD  HCD1 SING N N 11 
+GPA CD  HCD2 SING N N 12 
+GPA NE  CZ   SING N N 13 
+GPA NE  HNE1 SING N N 14 
+GPA CZ  NH1  SING N N 15 
+GPA CZ  NH2  DOUB N N 16 
+GPA NH1 HN11 SING N N 17 
+GPA NH1 HN12 SING N N 18 
+GPA NH2 HN21 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GPA SMILES           ACDLabs              10.04 "O=C(O)C(N)CNC(=[N@H])N"                                                          
+GPA SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CNC(N)=N)C(O)=O"                                                         
+GPA SMILES           CACTVS               3.341 "N[CH](CNC(N)=N)C(O)=O"                                                           
+GPA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[H]/N=C(/N)\NC[C@@H](C(=O)O)N"                                                   
+GPA SMILES           "OpenEye OEToolkits" 1.5.0 "[H]N=C(N)NCC(C(=O)O)N"                                                           
+GPA InChI            InChI                1.03  "InChI=1S/C4H10N4O2/c5-2(3(9)10)1-8-4(6)7/h2H,1,5H2,(H,9,10)(H4,6,7,8)/t2-/m0/s1" 
+GPA InChIKey         InChI                1.03  XNBJHKABANTVCP-REOHCLBHSA-N                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GPA "SYSTEMATIC NAME" ACDLabs              10.04 3-carbamimidamido-L-alanine                     
+GPA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-carbamimidamido-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GPA "Create component"  2000-11-22 RCSB 
+GPA "Modify descriptor" 2011-06-04 RCSB 
+# 

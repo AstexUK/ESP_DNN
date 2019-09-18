@@ -1,0 +1,100 @@
+data_SBO
+# 
+_chem_comp.id                                    SBO 
+_chem_comp.name                                  "TRIHYDROXYANTIMONITE(III)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H3 O3 Sb" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-06-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        172.782 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SBO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1F48 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SBO SB  SB  SB 0 0 N N N 25.575 18.235 90.211 -0.007 -0.194 0.007  SB  SBO 1 
+SBO O1  O1  O  0 1 N N N 25.809 17.657 88.198 -0.505 0.489  1.863  O1  SBO 2 
+SBO O2  O2  O  0 1 N N N 24.250 19.599 90.204 -1.364 0.485  -1.355 O2  SBO 3 
+SBO O3  O3  O  0 1 N N N 25.409 16.310 91.130 1.852  0.480  -0.490 O3  SBO 4 
+SBO H11 1H1 H  0 1 N N N 26.470 16.975 88.201 0.159  0.146  2.475  H11 SBO 5 
+SBO H21 1H2 H  0 1 N N N 24.144 19.859 91.111 -1.092 0.140  -2.216 H21 SBO 6 
+SBO H31 1H3 H  0 1 N N N 25.303 16.570 92.037 2.048  0.135  -1.372 H31 SBO 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SBO SB O1  SING N N 1 
+SBO SB O2  SING N N 2 
+SBO SB O3  SING N N 3 
+SBO O1 H11 SING N N 4 
+SBO O2 H21 SING N N 5 
+SBO O3 H31 SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SBO SMILES           ACDLabs              10.04 "O[Sb](O)O"                         
+SBO SMILES_CANONICAL CACTVS               3.341 "O[Sb](O)O"                         
+SBO SMILES           CACTVS               3.341 "O[Sb](O)O"                         
+SBO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "O[Sb](O)O"                         
+SBO SMILES           "OpenEye OEToolkits" 1.5.0 "O[Sb](O)O"                         
+SBO InChI            InChI                1.03  InChI=1S/3H2O.Sb/h3*1H2;/q;;;+3/p-3 
+SBO InChIKey         InChI                1.03  SZOADBKOANDULT-UHFFFAOYSA-K         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SBO "SYSTEMATIC NAME" ACDLabs              10.04 "antimonous acid" 
+SBO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "stiborous acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SBO "Create component"  2000-06-19 RCSB 
+SBO "Modify descriptor" 2011-06-04 RCSB 
+# 

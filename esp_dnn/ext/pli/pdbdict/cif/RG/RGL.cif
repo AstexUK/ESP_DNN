@@ -1,0 +1,138 @@
+data_RGL
+# 
+_chem_comp.id                                    RGL 
+_chem_comp.name                                  ARGINAL 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H15 N4 O" 
+_chem_comp.mon_nstd_parent_comp_id               ARG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2010-05-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        159.209 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RGL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XE4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RGL N    N    N 0 1 N N N -2.412 22.223 74.977 2.818  -1.327 0.576  N    RGL 1  
+RGL CA   CA   C 0 1 N N S -1.465 22.168 76.123 2.651  -0.280 -0.441 CA   RGL 2  
+RGL C    C    C 0 1 N N N -0.080 22.351 75.432 3.840  0.646  -0.408 C    RGL 3  
+RGL O    O    O 0 1 N N N 0.271  21.279 74.517 4.734  0.453  0.381  O    RGL 4  
+RGL CB   CB   C 0 1 N N N -1.495 20.825 76.890 1.377  0.515  -0.150 CB   RGL 5  
+RGL CG   CG   C 0 1 N N N -2.984 20.778 77.502 0.159  -0.398 -0.306 CG   RGL 6  
+RGL CD   CD   C 0 1 N N N -3.069 19.463 78.331 -1.115 0.397  -0.015 CD   RGL 7  
+RGL NE   NE   N 0 1 N N N -4.450 19.082 78.543 -2.281 -0.477 -0.164 NE   RGL 8  
+RGL CZ   CZ   C 0 1 N N N -5.200 19.286 79.693 -3.538 0.017  0.047  CZ   RGL 9  
+RGL NH1  NH1  N 0 1 N N N -4.765 20.119 80.680 -3.703 1.294  0.390  NH1  RGL 10 
+RGL NH2  NH2  N 1 1 N N N -6.357 18.576 79.678 -4.598 -0.777 -0.088 NH2  RGL 11 
+RGL HX   HX   H 0 1 N Y N 0.562  23.200 75.617 3.892  1.481  -1.090 HX   RGL 12 
+RGL HN1  HN1  H 0 1 N N N -3.351 22.235 75.320 2.891  -0.927 1.499  HN1  RGL 13 
+RGL HN2  HN2  H 0 1 N Y N -2.241 23.051 74.443 2.066  -1.998 0.530  HN2  RGL 14 
+RGL HA   HA   H 0 1 N N N -1.711 22.924 76.883 2.576  -0.740 -1.427 HA   RGL 15 
+RGL HB1  HB1  H 0 1 N N N -1.306 19.973 76.220 1.414  0.900  0.869  HB1C RGL 16 
+RGL HB2  HB2  H 0 1 N N N -0.714 20.756 77.661 1.300  1.346  -0.851 HB2C RGL 17 
+RGL HG1  HG1  H 0 1 N N N -3.167 21.653 78.144 0.122  -0.784 -1.325 HG1C RGL 18 
+RGL HG2  HG2  H 0 1 N N N -3.744 20.800 76.707 0.237  -1.230 0.394  HG2C RGL 19 
+RGL HD1  HD1  H 0 1 N N N -2.554 18.659 77.784 -1.078 0.782  1.004  HD1C RGL 20 
+RGL HD2  HD2  H 0 1 N N N -2.592 19.628 79.308 -1.192 1.228  -0.716 HD2C RGL 21 
+RGL HE   HE   H 0 1 N N N -4.911 18.625 77.782 -2.161 -1.407 -0.414 HE   RGL 22 
+RGL HH11 HH11 H 0 0 N N N -5.434 20.138 81.423 -2.931 1.873  0.488  HH11 RGL 23 
+RGL HH12 HH12 H 0 0 N N N -3.907 20.633 80.664 -4.595 1.645  0.540  HH12 RGL 24 
+RGL HH21 HH21 H 0 0 N N N -6.418 18.051 78.829 -5.490 -0.427 0.062  HH21 RGL 25 
+RGL HH22 HH22 H 0 0 N N N -7.043 18.577 80.405 -4.479 -1.707 -0.338 HH22 RGL 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RGL N   CA   SING N N 1  
+RGL CA  C    SING N N 2  
+RGL CA  CB   SING N N 3  
+RGL C   O    DOUB N N 4  
+RGL C   HX   SING N N 5  
+RGL CB  CG   SING N N 6  
+RGL CG  CD   SING N N 7  
+RGL CD  NE   SING N N 8  
+RGL NE  CZ   SING N N 9  
+RGL CZ  NH1  SING N N 10 
+RGL CZ  NH2  DOUB N N 11 
+RGL N   HN1  SING N N 12 
+RGL N   HN2  SING N N 13 
+RGL CA  HA   SING N N 14 
+RGL CB  HB1  SING N N 15 
+RGL CB  HB2  SING N N 16 
+RGL CG  HG1  SING N N 17 
+RGL CG  HG2  SING N N 18 
+RGL CD  HD1  SING N N 19 
+RGL CD  HD2  SING N N 20 
+RGL NE  HE   SING N N 21 
+RGL NH1 HH11 SING N N 22 
+RGL NH1 HH12 SING N N 23 
+RGL NH2 HH21 SING N N 24 
+RGL NH2 HH22 SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RGL SMILES           ACDLabs              10.04 "O=CC(N)CCCN\C(=[NH2+])N"                                                            
+RGL SMILES_CANONICAL CACTVS               3.352 "N[C@@H](CCCNC(N)=[NH2+])C=O"                                                        
+RGL SMILES           CACTVS               3.352 "N[CH](CCCNC(N)=[NH2+])C=O"                                                          
+RGL SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C(C[C@@H](C=O)N)CNC(=[NH2+])N"                                                      
+RGL SMILES           "OpenEye OEToolkits" 1.6.1 "C(CC(C=O)N)CNC(=[NH2+])N"                                                           
+RGL InChI            InChI                1.03  "InChI=1S/C6H14N4O/c7-5(4-11)2-1-3-10-6(8)9/h4-5H,1-3,7H2,(H4,8,9,10)/p+1/t5-/m0/s1" 
+RGL InChIKey         InChI                1.03  QJYRUYURLPTHLR-YFKPBYRVSA-O                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RGL "SYSTEMATIC NAME" ACDLabs              10.04 "amino{[(4S)-4-amino-5-oxopentyl]amino}methaniminium"          
+RGL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "[amino-[[(4S)-4-amino-5-oxo-pentyl]amino]methylidene]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RGL "Create component"  2010-05-18 EBI  
+RGL "Modify descriptor" 2011-06-04 RCSB 
+# 

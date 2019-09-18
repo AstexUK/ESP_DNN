@@ -1,0 +1,126 @@
+data_MED
+# 
+_chem_comp.id                                    MED 
+_chem_comp.name                                  D-METHIONINE 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-01-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.211 
+_chem_comp.one_letter_code                       M 
+_chem_comp.three_letter_code                     MED 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KQ0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MED N   N   N 0 1 N N N 20.779 27.715 16.515 -1.228 1.830  0.137  N   MED 1  
+MED CA  CA  C 0 1 N N R 19.604 28.469 15.985 -1.222 0.404  0.489  CA  MED 2  
+MED C   C   C 0 1 N N N 18.517 28.702 17.029 -2.505 -0.234 0.023  C   MED 3  
+MED O   O   O 0 1 N N N 18.753 29.040 18.193 -3.167 0.298  -0.836 O   MED 4  
+MED CB  CB  C 0 1 N N N 20.029 29.809 15.405 -0.035 -0.283 -0.189 CB  MED 5  
+MED CG  CG  C 0 1 N N N 20.938 30.640 16.249 1.271  0.280  0.377  CG  MED 6  
+MED SD  SD  S 0 1 N N N 21.032 32.191 15.335 2.679  -0.535 -0.427 SD  MED 7  
+MED CE  CE  C 0 1 N N N 19.498 32.908 15.736 4.110  0.251  0.363  CE  MED 8  
+MED OXT OXT O 0 1 N Y N 17.347 28.561 16.692 -2.912 -1.394 0.562  OXT MED 9  
+MED H   H   H 0 1 N N N 21.429 27.546 15.774 -0.408 2.295  0.495  H   MED 10 
+MED H2  HN2 H 0 1 N Y N 21.223 28.252 17.233 -1.308 1.956  -0.861 H2  MED 11 
+MED HA  HA  H 0 1 N N N 19.179 27.833 15.194 -1.135 0.297  1.570  HA  MED 12 
+MED HB2 HB1 H 0 1 N N N 20.558 29.603 14.463 -0.080 -1.356 -0.001 HB2 MED 13 
+MED HB3 HB2 H 0 1 N N N 19.103 30.394 15.302 -0.074 -0.101 -1.263 HB3 MED 14 
+MED HG2 HG1 H 0 1 N N N 20.532 30.788 17.261 1.316  1.352  0.189  HG2 MED 15 
+MED HG3 HG2 H 0 1 N N N 21.921 30.175 16.411 1.310  0.097  1.451  HG3 MED 16 
+MED HE1 HE1 H 0 1 N N N 19.437 33.059 16.824 4.084  1.325  0.175  HE1 MED 17 
+MED HE2 HE2 H 0 1 N N N 19.402 33.877 15.225 4.078  0.070  1.437  HE2 MED 18 
+MED HE3 HE3 H 0 1 N N N 18.686 32.240 15.412 5.028  -0.168 -0.050 HE3 MED 19 
+MED HXT HXT H 0 1 N Y N 16.780 28.747 17.431 -3.741 -1.765 0.230  HXT MED 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MED N   CA  SING N N 1  
+MED N   H   SING N N 2  
+MED N   H2  SING N N 3  
+MED CA  C   SING N N 4  
+MED CA  CB  SING N N 5  
+MED CA  HA  SING N N 6  
+MED C   O   DOUB N N 7  
+MED C   OXT SING N N 8  
+MED CB  CG  SING N N 9  
+MED CB  HB2 SING N N 10 
+MED CB  HB3 SING N N 11 
+MED CG  SD  SING N N 12 
+MED CG  HG2 SING N N 13 
+MED CG  HG3 SING N N 14 
+MED SD  CE  SING N N 15 
+MED CE  HE1 SING N N 16 
+MED CE  HE2 SING N N 17 
+MED CE  HE3 SING N N 18 
+MED OXT HXT SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MED SMILES           ACDLabs              10.04 "O=C(O)C(N)CCSC"                                                          
+MED SMILES_CANONICAL CACTVS               3.341 "CSCC[C@@H](N)C(O)=O"                                                     
+MED SMILES           CACTVS               3.341 "CSCC[CH](N)C(O)=O"                                                       
+MED SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CSCC[C@H](C(=O)O)N"                                                      
+MED SMILES           "OpenEye OEToolkits" 1.5.0 "CSCCC(C(=O)O)N"                                                          
+MED InChI            InChI                1.03  "InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m1/s1" 
+MED InChIKey         InChI                1.03  FFEARJCKVFRZRR-SCSAIBSYSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MED "SYSTEMATIC NAME" ACDLabs              10.04 D-methionine                                  
+MED "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-4-methylsulfanyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MED "Create component"  2002-01-18 RCSB 
+MED "Modify descriptor" 2011-06-04 RCSB 
+# 

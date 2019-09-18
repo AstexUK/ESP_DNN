@@ -1,0 +1,124 @@
+data_0F1
+# 
+_chem_comp.id                                    0F1 
+_chem_comp.name                                  "3,6-dichloro-1-benzothiophene-2-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H4 Cl2 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-12-30 
+_chem_comp.pdbx_modified_date                    2013-01-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        247.098 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0F1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3VAD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0F1 CL1 CL1 CL 0 0 N N N -8.864  -32.372 21.451 -4.710 -0.319 -0.001 CL1 0F1 1  
+0F1 C2  C2  C  0 1 Y N N -8.896  -31.996 19.698 -3.007 0.020  -0.001 C2  0F1 2  
+0F1 C1  C1  C  0 1 Y N N -9.787  -31.028 19.226 -2.562 1.338  0.004  C1  0F1 3  
+0F1 C6  C6  C  0 1 Y N N -9.864  -30.702 17.877 -1.233 1.621  0.004  C6  0F1 4  
+0F1 C3  C3  C  0 1 Y N N -8.034  -32.682 18.844 -2.102 -1.015 -0.000 C3  0F1 5  
+0F1 C4  C4  C  0 1 Y N N -8.079  -32.377 17.495 -0.729 -0.748 -0.000 C4  0F1 6  
+0F1 C5  C5  C  0 1 Y N N -9.020  -31.360 16.996 -0.276 0.578  -0.001 C5  0F1 7  
+0F1 C8  C8  C  0 1 Y N N -8.856  -31.236 15.512 1.126  0.669  -0.001 C8  0F1 8  
+0F1 CL2 CL2 CL 0 0 N N N -9.839  -30.072 14.489 1.955  2.194  -0.002 CL2 0F1 9  
+0F1 S   S   S  0 1 Y N N -7.176  -33.042 16.320 0.650  -1.842 0.000  S   0F1 10 
+0F1 C7  C7  C  0 1 Y N N -7.791  -32.180 15.020 1.780  -0.500 -0.000 C7  0F1 11 
+0F1 C9  C9  C  0 1 N N N -7.393  -32.310 13.596 3.240  -0.639 0.000  C9  0F1 12 
+0F1 O1  O1  O  0 1 N N N -6.482  -33.115 13.330 3.800  -1.865 0.001  O1  0F1 13 
+0F1 O2  O2  O  0 1 N N N -7.978  -31.657 12.705 3.944  0.352  -0.000 O2  0F1 14 
+0F1 H1  H1  H  0 1 N N N -10.432 -30.520 19.928 -3.280 2.145  0.008  H1  0F1 15 
+0F1 H2  H2  H  0 1 N N N -10.562 -29.957 17.525 -0.904 2.650  0.007  H2  0F1 16 
+0F1 H3  H3  H  0 1 N N N -7.352  -33.429 19.223 -2.451 -2.036 0.000  H3  0F1 17 
+0F1 H4  H4  H  0 1 N N N -6.336  -33.130 12.391 4.766  -1.906 0.002  H4  0F1 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0F1 O2  C9  DOUB N N 1  
+0F1 O1  C9  SING N N 2  
+0F1 C9  C7  SING N N 3  
+0F1 CL2 C8  SING N N 4  
+0F1 C7  C8  DOUB Y N 5  
+0F1 C7  S   SING Y N 6  
+0F1 C8  C5  SING Y N 7  
+0F1 S   C4  SING Y N 8  
+0F1 C5  C4  DOUB Y N 9  
+0F1 C5  C6  SING Y N 10 
+0F1 C4  C3  SING Y N 11 
+0F1 C6  C1  DOUB Y N 12 
+0F1 C3  C2  DOUB Y N 13 
+0F1 C1  C2  SING Y N 14 
+0F1 C2  CL1 SING N N 15 
+0F1 C1  H1  SING N N 16 
+0F1 C6  H2  SING N N 17 
+0F1 C3  H3  SING N N 18 
+0F1 O1  H4  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0F1 SMILES           ACDLabs              12.01 "O=C(O)c2sc1cc(Cl)ccc1c2Cl"                                                 
+0F1 InChI            InChI                1.03  "InChI=1S/C9H4Cl2O2S/c10-4-1-2-5-6(3-4)14-8(7(5)11)9(12)13/h1-3H,(H,12,13)" 
+0F1 InChIKey         InChI                1.03  AAHPIJMQJAZYTM-UHFFFAOYSA-N                                                 
+0F1 SMILES_CANONICAL CACTVS               3.370 "OC(=O)c1sc2cc(Cl)ccc2c1Cl"                                                 
+0F1 SMILES           CACTVS               3.370 "OC(=O)c1sc2cc(Cl)ccc2c1Cl"                                                 
+0F1 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1Cl)sc(c2Cl)C(=O)O"                                               
+0F1 SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1Cl)sc(c2Cl)C(=O)O"                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0F1 "SYSTEMATIC NAME" ACDLabs              12.01 "3,6-dichloro-1-benzothiophene-2-carboxylic acid"       
+0F1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "3,6-bis(chloranyl)-1-benzothiophene-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0F1 "Create component" 2011-12-30 RCSB 
+0F1 "Initial release"  2013-01-11 RCSB 
+# 

@@ -1,0 +1,145 @@
+data_ALC
+# 
+_chem_comp.id                                    ALC 
+_chem_comp.name                                  "2-AMINO-3-CYCLOHEXYL-PROPIONIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H17 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-06-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         HAC 
+_chem_comp.formula_weight                        171.237 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     ALC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1B3H 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ALC N    N    N 0 1 N N N 5.202 19.841 15.462 0.018  1.763  1.424  N    ALC 1  
+ALC CA   CA   C 0 1 N N S 4.068 20.470 16.099 -0.305 0.331  1.460  CA   ALC 2  
+ALC C    C    C 0 1 N N N 2.773 20.426 15.279 -0.081 -0.199 2.853  C    ALC 3  
+ALC O    O    O 0 1 N N N 2.695 20.749 14.080 0.762  0.297  3.560  O    ALC 4  
+ALC CB   CB   C 0 1 N N N 4.350 21.947 16.448 0.595  -0.419 0.477  CB   ALC 5  
+ALC CG   CG   C 0 1 N N N 5.173 22.082 17.793 0.368  0.118  -0.936 CG   ALC 6  
+ALC CD2  CD2  C 0 1 N N N 4.984 23.530 18.320 1.269  -0.632 -1.918 CD2  ALC 7  
+ALC CE2  CE2  C 0 1 N N N 5.877 23.819 19.539 1.042  -0.093 -3.332 CE2  ALC 8  
+ALC CZ   CZ   C 0 1 N N N 7.361 23.533 19.253 -0.422 -0.295 -3.726 CZ   ALC 9  
+ALC CE1  CE1  C 0 1 N N N 7.579 22.144 18.620 -1.322 0.455  -2.743 CE1  ALC 10 
+ALC CD1  CD1  C 0 1 N N N 6.674 21.928 17.416 -1.095 -0.083 -1.329 CD1  ALC 11 
+ALC OXT  OXT  O 0 1 N Y N 1.684 20.010 15.944 -0.819 -1.224 3.307  OXT  ALC 12 
+ALC H    H    H 0 1 N N N 6.063 19.870 16.007 0.988  1.848  1.689  H    ALC 13 
+ALC H2   HN2  H 0 1 N Y N 5.354 20.239 14.535 -0.044 2.050  0.459  H2   ALC 14 
+ALC HA   HA   H 0 1 N N N 3.916 19.863 17.022 -1.348 0.186  1.180  HA   ALC 15 
+ALC HB2  1HB  H 0 1 N N N 4.856 22.474 15.606 1.639  -0.275 0.758  HB2  ALC 16 
+ALC HB3  2HB  H 0 1 N N N 3.408 22.543 16.485 0.356  -1.482 0.504  HB3  ALC 17 
+ALC HG   HG   H 0 1 N N N 4.848 21.330 18.549 0.608  1.181  -0.962 HG   ALC 18 
+ALC HD23 1HD2 H 0 0 N N N 5.147 24.280 17.511 2.312  -0.487 -1.638 HD23 ALC 19 
+ALC HD22 2HD2 H 0 0 N N N 3.912 23.743 18.543 1.029  -1.695 -1.892 HD22 ALC 20 
+ALC HE23 1HE2 H 0 0 N N N 5.730 24.861 19.908 1.282  0.969  -3.359 HE23 ALC 21 
+ALC HE22 2HE2 H 0 0 N N N 5.524 23.261 20.438 1.684  -0.628 -4.032 HE22 ALC 22 
+ALC HZ3  1HZ  H 0 1 N N N 7.811 24.336 18.625 -0.583 0.088  -4.733 HZ3  ALC 23 
+ALC HZ2  2HZ  H 0 1 N N N 7.979 23.657 20.172 -0.661 -1.358 -3.699 HZ2  ALC 24 
+ALC HE13 1HE1 H 0 0 N N N 8.650 21.979 18.358 -1.083 1.518  -2.770 HE13 ALC 25 
+ALC HE12 2HE1 H 0 0 N N N 7.456 21.330 19.372 -2.366 0.311  -3.024 HE12 ALC 26 
+ALC HD12 1HD1 H 0 0 N N N 6.872 20.945 16.928 -1.335 -1.146 -1.303 HD12 ALC 27 
+ALC HD13 2HD1 H 0 0 N N N 6.952 22.600 16.571 -1.737 0.451  -0.629 HD13 ALC 28 
+ALC HXT  HXT  H 0 1 N Y N 0.881 19.982 15.436 -0.676 -1.564 4.201  HXT  ALC 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ALC N   CA   SING N N 1  
+ALC N   H    SING N N 2  
+ALC N   H2   SING N N 3  
+ALC CA  C    SING N N 4  
+ALC CA  CB   SING N N 5  
+ALC CA  HA   SING N N 6  
+ALC C   O    DOUB N N 7  
+ALC C   OXT  SING N N 8  
+ALC CB  CG   SING N N 9  
+ALC CB  HB2  SING N N 10 
+ALC CB  HB3  SING N N 11 
+ALC CG  CD2  SING N N 12 
+ALC CG  CD1  SING N N 13 
+ALC CG  HG   SING N N 14 
+ALC CD2 CE2  SING N N 15 
+ALC CD2 HD23 SING N N 16 
+ALC CD2 HD22 SING N N 17 
+ALC CE2 CZ   SING N N 18 
+ALC CE2 HE23 SING N N 19 
+ALC CE2 HE22 SING N N 20 
+ALC CZ  CE1  SING N N 21 
+ALC CZ  HZ3  SING N N 22 
+ALC CZ  HZ2  SING N N 23 
+ALC CE1 CD1  SING N N 24 
+ALC CE1 HE13 SING N N 25 
+ALC CE1 HE12 SING N N 26 
+ALC CD1 HD12 SING N N 27 
+ALC CD1 HD13 SING N N 28 
+ALC OXT HXT  SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ALC SMILES           ACDLabs              10.04 "O=C(O)C(N)CC1CCCCC1"                                                                
+ALC SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC1CCCCC1)C(O)=O"                                                           
+ALC SMILES           CACTVS               3.341 "N[CH](CC1CCCCC1)C(O)=O"                                                             
+ALC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CCC(CC1)C[C@@H](C(=O)O)N"                                                         
+ALC SMILES           "OpenEye OEToolkits" 1.5.0 "C1CCC(CC1)CC(C(=O)O)N"                                                              
+ALC InChI            InChI                1.03  "InChI=1S/C9H17NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h7-8H,1-6,10H2,(H,11,12)/t8-/m0/s1" 
+ALC InChIKey         InChI                1.03  ORQXBVXKBGUSBA-QMMMGPOBSA-N                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ALC "SYSTEMATIC NAME" ACDLabs              10.04 3-cyclohexyl-L-alanine                     
+ALC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-cyclohexyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ALC "Create component"  2000-06-30 EBI  
+ALC "Modify descriptor" 2011-06-04 RCSB 
+# 

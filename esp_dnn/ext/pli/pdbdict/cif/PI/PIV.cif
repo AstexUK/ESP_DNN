@@ -1,0 +1,120 @@
+data_PIV
+# 
+_chem_comp.id                                    PIV 
+_chem_comp.name                                  "PIVALIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        102.132 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     PIV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SMR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PIV CT  CT  C 0 1 N N N 31.862 84.296 -3.110 -0.038 0.000  0.643  CT  PIV 1  
+PIV C1  C1  C 0 1 N N N 32.858 84.879 -2.058 1.342  0.000  1.303  C1  PIV 2  
+PIV C2  C2  C 0 1 N N N 31.291 82.970 -2.607 -0.809 -1.249 1.074  C2  PIV 3  
+PIV C3  C3  C 0 1 N N N 30.785 85.306 -3.391 -0.809 1.249  1.074  C3  PIV 4  
+PIV C   C   C 0 1 N N N 32.686 83.941 -4.375 0.120  0.000  -0.854 C   PIV 5  
+PIV O1  O1  O 0 1 N N N 33.365 82.909 -4.229 1.224  0.000  -1.345 O1  PIV 6  
+PIV O2  O2  O 0 1 N Y N 32.964 84.823 -5.265 -0.964 0.000  -1.644 O2  PIV 7  
+PIV H11 1H1 H 0 1 N N N 33.274 85.846 -2.424 1.227  0.000  2.387  H11 PIV 8  
+PIV H12 2H1 H 0 1 N N N 32.391 84.979 -1.050 1.891  -0.890 0.996  H12 PIV 9  
+PIV H13 3H1 H 0 1 N N N 33.660 84.151 -1.793 1.891  0.890  0.996  H13 PIV 10 
+PIV H21 1H2 H 0 1 N N N 30.579 82.553 -3.358 -0.260 -2.139 0.767  H21 PIV 11 
+PIV H22 2H2 H 0 1 N N N 32.093 82.242 -2.342 -0.924 -1.249 2.158  H22 PIV 12 
+PIV H23 3H2 H 0 1 N N N 30.824 83.070 -1.599 -1.793 -1.249 0.605  H23 PIV 13 
+PIV H31 1H3 H 0 1 N N N 30.073 84.889 -4.142 -0.260 2.139  0.767  H31 PIV 14 
+PIV H32 2H3 H 0 1 N N N 30.268 85.641 -2.461 -1.793 1.249  0.605  H32 PIV 15 
+PIV H33 3H3 H 0 1 N N N 31.202 86.291 -3.705 -0.924 1.249  2.158  H33 PIV 16 
+PIV HO2 HO2 H 0 1 N N N 33.468 84.605 -6.039 -0.862 0.000  -2.606 HO2 PIV 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PIV CT C1  SING N N 1  
+PIV CT C2  SING N N 2  
+PIV CT C3  SING N N 3  
+PIV CT C   SING N N 4  
+PIV C1 H11 SING N N 5  
+PIV C1 H12 SING N N 6  
+PIV C1 H13 SING N N 7  
+PIV C2 H21 SING N N 8  
+PIV C2 H22 SING N N 9  
+PIV C2 H23 SING N N 10 
+PIV C3 H31 SING N N 11 
+PIV C3 H32 SING N N 12 
+PIV C3 H33 SING N N 13 
+PIV C  O1  DOUB N N 14 
+PIV C  O2  SING N N 15 
+PIV O2 HO2 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PIV SMILES           ACDLabs              10.04 "O=C(O)C(C)(C)C"                                 
+PIV SMILES_CANONICAL CACTVS               3.341 "CC(C)(C)C(O)=O"                                 
+PIV SMILES           CACTVS               3.341 "CC(C)(C)C(O)=O"                                 
+PIV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C)C(=O)O"                                 
+PIV SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C)C(=O)O"                                 
+PIV InChI            InChI                1.03  "InChI=1S/C5H10O2/c1-5(2,3)4(6)7/h1-3H3,(H,6,7)" 
+PIV InChIKey         InChI                1.03  IUGYQRQAERSCNH-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PIV "SYSTEMATIC NAME" ACDLabs              10.04 "2,2-dimethylpropanoic acid" 
+PIV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2,2-dimethylpropanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PIV "Create component"  1999-07-08 RCSB 
+PIV "Modify descriptor" 2011-06-04 RCSB 
+# 

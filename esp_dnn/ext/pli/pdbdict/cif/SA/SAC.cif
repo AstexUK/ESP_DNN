@@ -1,0 +1,124 @@
+data_SAC
+# 
+_chem_comp.id                                    SAC 
+_chem_comp.name                                  N-ACETYL-SERINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.129 
+_chem_comp.one_letter_code                       S 
+_chem_comp.three_letter_code                     SAC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EVU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SAC C1A  C1A  C 0 1 N N N 28.800 -20.442 52.184 0.209  0.164  2.017  C1A  SAC 1  
+SAC C2A  C2A  C 0 1 N N N 27.582 -20.920 52.921 0.302  -0.529 3.351  C2A  SAC 2  
+SAC OAC  OAC  O 0 1 N N N 29.486 -19.404 52.332 -0.139 1.324  1.960  OAC  SAC 3  
+SAC N    N    N 0 1 N N N 29.134 -21.312 51.223 0.515  -0.504 0.887  N    SAC 4  
+SAC CA   CA   C 0 1 N N S 28.095 -22.115 50.607 0.425  0.170  -0.409 CA   SAC 5  
+SAC C    C    C 0 1 N N N 28.033 -23.481 51.295 -0.959 -0.012 -0.975 C    SAC 6  
+SAC O    O    O 0 1 N N N 28.600 -23.731 52.381 -1.434 0.834  -1.694 O    SAC 7  
+SAC OXT  OXT  O 0 1 N Y N 27.550 -24.489 50.589 -1.665 -1.115 -0.681 OXT  SAC 8  
+SAC CB   CB   C 0 1 N N N 28.387 -22.131 49.125 1.452  -0.432 -1.370 CB   SAC 9  
+SAC OG   OG   O 0 1 N N N 27.634 -21.367 48.257 1.364  0.225  -2.635 OG   SAC 10 
+SAC H2A1 1H2A H 0 0 N N N 26.971 -21.843 52.789 0.019  0.164  4.142  H2A1 SAC 11 
+SAC H2A2 2H2A H 0 0 N N N 27.880 -20.924 53.995 -0.370 -1.387 3.363  H2A2 SAC 12 
+SAC H2A3 3H2A H 0 0 N N N 26.852 -20.080 52.843 1.325  -0.868 3.515  H2A3 SAC 13 
+SAC H    HN   H 0 1 N N N 30.122 -21.360 50.974 0.794  -1.432 0.933  H    SAC 14 
+SAC HA   HA   H 0 1 N N N 27.067 -21.701 50.733 0.628  1.233  -0.281 HA   SAC 15 
+SAC HXT  HXT  H 0 1 N Y N 27.511 -25.336 51.016 -2.553 -1.232 -1.044 HXT  SAC 16 
+SAC HB2  1HB  H 0 1 N N N 29.461 -21.872 48.977 2.453  -0.300 -0.960 HB2  SAC 17 
+SAC HB3  2HB  H 0 1 N N N 28.359 -23.189 48.774 1.249  -1.495 -1.498 HB3  SAC 18 
+SAC HG   HOG  H 0 1 N N N 27.817 -21.377 47.325 2.026  -0.183 -3.209 HG   SAC 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SAC C1A C2A  SING N N 1  
+SAC C1A OAC  DOUB N N 2  
+SAC C1A N    SING N N 3  
+SAC C2A H2A1 SING N N 4  
+SAC C2A H2A2 SING N N 5  
+SAC C2A H2A3 SING N N 6  
+SAC N   CA   SING N N 7  
+SAC N   H    SING N N 8  
+SAC CA  C    SING N N 9  
+SAC CA  CB   SING N N 10 
+SAC CA  HA   SING N N 11 
+SAC C   O    DOUB N N 12 
+SAC C   OXT  SING N N 13 
+SAC OXT HXT  SING N N 14 
+SAC CB  OG   SING N N 15 
+SAC CB  HB2  SING N N 16 
+SAC CB  HB3  SING N N 17 
+SAC OG  HG   SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SAC SMILES           ACDLabs              10.04 "O=C(O)C(NC(=O)C)CO"                                                             
+SAC SMILES_CANONICAL CACTVS               3.341 "CC(=O)N[C@@H](CO)C(O)=O"                                                        
+SAC SMILES           CACTVS               3.341 "CC(=O)N[CH](CO)C(O)=O"                                                          
+SAC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)N[C@@H](CO)C(=O)O"                                                        
+SAC SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)NC(CO)C(=O)O"                                                             
+SAC InChI            InChI                1.03  "InChI=1S/C5H9NO4/c1-3(8)6-4(2-7)5(9)10/h4,7H,2H2,1H3,(H,6,8)(H,9,10)/t4-/m0/s1" 
+SAC InChIKey         InChI                1.03  JJIHLJJYMXLCOY-BYPYZUCNSA-N                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SAC "SYSTEMATIC NAME" ACDLabs              10.04 N-acetyl-L-serine                           
+SAC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-acetamido-3-hydroxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SAC "Create component"  1999-07-08 RCSB 
+SAC "Modify descriptor" 2011-06-04 RCSB 
+# 

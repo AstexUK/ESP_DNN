@@ -1,0 +1,134 @@
+data_RSH
+# 
+_chem_comp.id                                    RSH 
+_chem_comp.name                                  "3-DEOXY-D-LYXO-HEXONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H12 O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         D-2-KETO-3-DEOXYGALACTONATE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-07-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.156 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RSH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1W3T 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RSH O2   O2   O 0 1 N N N -14.028 62.816 12.568 -3.732 0.154  0.668  O2   RSH 1  
+RSH C1   C1   C 0 1 N N N -13.999 63.426 13.657 -2.951 -0.395 -0.072 C1   RSH 2  
+RSH O1   O1   O 0 1 N N N -13.825 64.677 13.705 -3.196 -1.643 -0.500 O1   RSH 3  
+RSH C2   C2   C 0 1 N N S -14.187 62.662 14.907 -1.701 0.322  -0.515 C2   RSH 4  
+RSH C3   C3   C 0 1 N N N -13.097 61.687 15.362 -0.473 -0.403 0.040  C3   RSH 5  
+RSH C4   C4   C 0 1 N N R -11.690 62.034 14.797 0.796  0.250  -0.511 C4   RSH 6  
+RSH O4   O4   O 0 1 N N N -10.926 62.659 15.840 0.895  1.589  -0.021 O4   RSH 7  
+RSH C5   C5   C 0 1 N N R -10.953 60.788 14.147 2.019  -0.550 -0.057 C5   RSH 8  
+RSH O5   O5   O 0 1 N N N -9.549  60.673 14.468 2.010  -0.667 1.367  O5   RSH 9  
+RSH C6   C6   C 0 1 N N N -10.936 60.851 12.600 3.293  0.170  -0.502 C6   RSH 10 
+RSH O6   O6   O 0 1 N N N -11.319 59.596 11.971 4.431  -0.633 -0.181 O6   RSH 11 
+RSH OT   OT   O 0 1 N Y N -15.155 62.112 14.847 -1.723 1.665  -0.026 OT   RSH 12 
+RSH H1   H1   H 0 1 N N N -13.731 65.018 12.823 -3.997 -2.103 -0.216 H1   RSH 13 
+RSH H2C1 1H2C H 0 0 N N N -14.150 63.445 15.678 -1.655 0.333  -1.604 H2C1 RSH 14 
+RSH H3C1 1H3C H 0 0 N N N -13.367 60.691 14.982 -0.503 -1.450 -0.261 H3C1 RSH 15 
+RSH H3C2 2H3C H 0 0 N N N -13.044 61.717 16.460 -0.473 -0.337 1.128  H3C2 RSH 16 
+RSH H4   H4   H 0 1 N N N -11.803 62.739 13.960 0.755  0.263  -1.600 H4   RSH 17 
+RSH HA   HA   H 0 1 N N N -10.035 62.797 15.541 0.929  1.532  0.943  HA   RSH 18 
+RSH H5   H5   H 0 1 N N N -11.535 59.950 14.559 1.989  -1.544 -0.503 H5   RSH 19 
+RSH HB   HB   H 0 1 N N N -9.041  60.648 13.665 2.037  0.232  1.722  HB   RSH 20 
+RSH H6C1 1H6C H 0 0 N N N -9.904  61.072 12.291 3.368  1.128  0.013  H6C1 RSH 21 
+RSH H6C2 2H6C H 0 0 N N N -11.646 61.628 12.279 3.259  0.338  -1.578 H6C2 RSH 22 
+RSH H6   H6   H 0 1 N N N -11.402 59.724 11.033 5.211  -0.144 -0.477 H6   RSH 23 
+RSH HT   HT   H 0 1 N N N -15.486 61.956 15.724 -1.764 1.610  0.939  HT   RSH 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RSH O2 C1   DOUB N N 1  
+RSH C1 O1   SING N N 2  
+RSH C1 C2   SING N N 3  
+RSH O1 H1   SING N N 4  
+RSH C2 C3   SING N N 5  
+RSH C2 OT   SING N N 6  
+RSH C2 H2C1 SING N N 7  
+RSH C3 C4   SING N N 8  
+RSH C3 H3C1 SING N N 9  
+RSH C3 H3C2 SING N N 10 
+RSH C4 O4   SING N N 11 
+RSH C4 C5   SING N N 12 
+RSH C4 H4   SING N N 13 
+RSH O4 HA   SING N N 14 
+RSH C5 O5   SING N N 15 
+RSH C5 C6   SING N N 16 
+RSH C5 H5   SING N N 17 
+RSH O5 HB   SING N N 18 
+RSH C6 O6   SING N N 19 
+RSH C6 H6C1 SING N N 20 
+RSH C6 H6C2 SING N N 21 
+RSH O6 H6   SING N N 22 
+RSH OT HT   SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RSH SMILES           ACDLabs              10.04 "O=C(O)C(O)CC(O)C(O)CO"                                                                   
+RSH SMILES_CANONICAL CACTVS               3.341 "OC[C@@H](O)[C@H](O)C[C@H](O)C(O)=O"                                                      
+RSH SMILES           CACTVS               3.341 "OC[CH](O)[CH](O)C[CH](O)C(O)=O"                                                          
+RSH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@H]([C@@H](CO)O)O)[C@@H](C(=O)O)O"                                                   
+RSH SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(CO)O)O)C(C(=O)O)O"                                                                 
+RSH InChI            InChI                1.03  "InChI=1S/C6H12O6/c7-2-5(10)3(8)1-4(9)6(11)12/h3-5,7-10H,1-2H2,(H,11,12)/t3-,4+,5-/m1/s1" 
+RSH InChIKey         InChI                1.03  YGMNHEPVTNXLLS-MROZADKFSA-N                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RSH "SYSTEMATIC NAME" ACDLabs              10.04 "3-deoxy-D-lyxo-hexonic acid"                  
+RSH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,4R,5R)-2,4,5,6-tetrahydroxyhexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RSH "Create component"  2004-07-19 EBI  
+RSH "Modify descriptor" 2011-06-04 RCSB 
+# 

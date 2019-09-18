@@ -1,0 +1,123 @@
+data_TMZ
+# 
+_chem_comp.id                                    TMZ 
+_chem_comp.name                                  3,4,5-TRIMETHYL-1,3-THIAZOLE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 N S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        128.215 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TMZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AC8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TMZ S1  S1  S 0 1 Y N N 31.420 94.310 49.580 0.955  1.398  -0.001 S1  TMZ 1  
+TMZ C2  C2  C 0 1 Y N N 32.900 93.400 49.350 -0.778 1.503  0.000  C2  TMZ 2  
+TMZ N3  N3  N 1 1 Y N N 32.970 92.930 48.090 -1.132 0.238  0.001  N3  TMZ 3  
+TMZ C4  C4  C 0 1 Y N N 31.850 93.310 47.310 -0.235 -0.726 -0.003 C4  TMZ 4  
+TMZ C5  C5  C 0 1 Y N N 30.880 94.020 47.990 1.079  -0.385 0.001  C5  TMZ 5  
+TMZ C6  C6  C 0 1 N N N 33.980 92.160 47.640 -2.555 -0.108 0.002  C6  TMZ 6  
+TMZ C7  C7  C 0 1 N N N 31.790 92.770 45.930 -0.657 -2.173 -0.002 C7  TMZ 7  
+TMZ C8  C8  C 0 1 N N N 29.600 94.650 47.500 2.302  -1.265 0.002  C8  TMZ 8  
+TMZ H2  H2  H 0 1 N N N 33.763 93.130 49.980 -1.405 2.382  -0.001 H2  TMZ 9  
+TMZ H61 1H6 H 0 1 N N N 34.038 91.770 46.596 -2.884 -0.296 -1.020 H61 TMZ 10 
+TMZ H62 2H6 H 0 1 N N N 34.929 92.708 47.841 -2.712 -1.002 0.605  H62 TMZ 11 
+TMZ H63 3H6 H 0 1 N N N 34.058 91.283 48.324 -3.130 0.718  0.421  H63 TMZ 12 
+TMZ H71 1H7 H 0 1 N N N 30.908 93.069 45.316 -0.862 -2.492 -1.023 H71 TMZ 13 
+TMZ H72 2H7 H 0 1 N N N 32.729 93.025 45.386 0.143  -2.784 0.416  H72 TMZ 14 
+TMZ H73 3H7 H 0 1 N N N 31.867 91.658 45.958 -1.556 -2.288 0.603  H73 TMZ 15 
+TMZ H81 1H8 H 0 1 N N N 29.246 94.460 46.459 3.197  -0.643 0.001  H81 TMZ 16 
+TMZ H82 2H8 H 0 1 N N N 28.780 94.377 48.205 2.297  -1.894 0.892  H82 TMZ 17 
+TMZ H83 3H8 H 0 1 N N N 29.668 95.752 47.653 2.297  -1.895 -0.888 H83 TMZ 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TMZ S1 C2  SING Y N 1  
+TMZ S1 C5  SING Y N 2  
+TMZ C2 N3  DOUB Y N 3  
+TMZ C2 H2  SING N N 4  
+TMZ N3 C4  SING Y N 5  
+TMZ N3 C6  SING N N 6  
+TMZ C4 C5  DOUB Y N 7  
+TMZ C4 C7  SING N N 8  
+TMZ C5 C8  SING N N 9  
+TMZ C6 H61 SING N N 10 
+TMZ C6 H62 SING N N 11 
+TMZ C6 H63 SING N N 12 
+TMZ C7 H71 SING N N 13 
+TMZ C7 H72 SING N N 14 
+TMZ C7 H73 SING N N 15 
+TMZ C8 H81 SING N N 16 
+TMZ C8 H82 SING N N 17 
+TMZ C8 H83 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TMZ SMILES           ACDLabs              10.04 "s1c(c([n+](c1)C)C)C"                               
+TMZ SMILES_CANONICAL CACTVS               3.341 "Cc1sc[n+](C)c1C"                                   
+TMZ SMILES           CACTVS               3.341 "Cc1sc[n+](C)c1C"                                   
+TMZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(sc[n+]1C)C"                                   
+TMZ SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(sc[n+]1C)C"                                   
+TMZ InChI            InChI                1.03  "InChI=1S/C6H10NS/c1-5-6(2)8-4-7(5)3/h4H,1-3H3/q+1" 
+TMZ InChIKey         InChI                1.03  LTPCOIDSGQEHKC-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TMZ "SYSTEMATIC NAME" ACDLabs              10.04 3,4,5-trimethyl-1,3-thiazol-3-ium 
+TMZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3,4,5-trimethyl-1,3-thiazol-3-ium 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TMZ "Create component"  1999-07-08 EBI  
+TMZ "Modify descriptor" 2011-06-04 RCSB 
+# 

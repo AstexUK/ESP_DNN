@@ -1,0 +1,160 @@
+data_TTI
+# 
+_chem_comp.id                                    TTI 
+_chem_comp.name                                  
+;2'-deoxy-5-telluroxouridine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "DNA linking" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C9 H13 N2 O8 P Te" 
+_chem_comp.mon_nstd_parent_comp_id               DU 
+_chem_comp.pdbx_synonyms                         "5-Tellurium-deoxyuridine-5'-phosphate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-12-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        435.782 
+_chem_comp.one_letter_code                       U 
+_chem_comp.three_letter_code                     TTI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3FA1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TTI O3P    O3P    O  0 1 N Y N 34.261 23.986 6.717 -5.560 -2.010 -1.195 O3P    TTI 1  
+TTI N1     N1     N  0 1 N N N 35.179 28.961 3.592 0.604  0.702  -0.154 N1     TTI 2  
+TTI C2     C2     C  0 1 N N N 35.071 29.894 2.585 0.556  0.350  -1.452 C2     TTI 3  
+TTI O2     O2     O  0 1 N N N 35.907 30.762 2.381 -0.477 0.531  -2.066 O2     TTI 4  
+TTI N3     N3     N  0 1 N N N 33.935 29.781 1.824 1.596  -0.191 -2.097 N3     TTI 5  
+TTI C4     C4     C  0 1 N N N 32.920 28.855 1.966 2.785  -0.439 -1.528 C4     TTI 6  
+TTI O4     O4     O  0 1 N N N 31.953 28.885 1.203 3.680  -0.935 -2.191 O4     TTI 7  
+TTI C5     C5     C  0 1 N N N 33.096 27.910 3.045 3.008  -0.132 -0.175 C5     TTI 8  
+TTI C6     C6     C  0 1 N N N 34.203 28.007 3.794 1.854  0.483  0.594  C6     TTI 9  
+TTI "C1'"  "C1'"  C  0 1 N N R 36.376 29.000 4.448 -0.563 1.296  0.502  "C1'"  TTI 10 
+TTI "C2'"  "C2'"  C  0 1 N N N 36.287 29.993 5.608 -0.940 2.632  -0.178 "C2'"  TTI 11 
+TTI "C3'"  "C3'"  C  0 1 N N S 35.861 29.117 6.770 -2.484 2.646  -0.148 "C3'"  TTI 12 
+TTI "O3'"  "O3'"  O  0 1 N N N 36.317 29.643 8.019 -2.960 3.759  0.611  "O3'"  TTI 13 
+TTI "C4'"  "C4'"  C  0 1 N N R 36.570 27.807 6.461 -2.859 1.317  0.546  "C4'"  TTI 14 
+TTI "O4'"  "O4'"  O  0 1 N N N 36.538 27.705 5.021 -1.723 0.453  0.326  "O4'"  TTI 15 
+TTI "C5'"  "C5'"  C  0 1 N N N 35.939 26.581 7.081 -4.115 0.719  -0.091 "C5'"  TTI 16 
+TTI "O5'"  "O5'"  O  0 1 N N N 34.555 26.504 6.731 -4.510 -0.445 0.638  "O5'"  TTI 17 
+TTI P      P      P  0 1 N N N 33.622 25.344 7.306 -5.796 -1.330 0.245  P      TTI 18 
+TTI O1P    O1P    O  0 1 N N N 32.272 25.512 6.712 -6.994 -0.463 0.190  O1P    TTI 19 
+TTI O2P    O2P    O  0 1 N N N 33.768 25.305 8.783 -6.015 -2.479 1.352  O2P    TTI 20 
+TTI TE5    TE5    TE 0 0 N N N 31.594 26.423 3.371 4.703  -0.476 0.665  TE5    TTI 21 
+TTI HO3P   HO3P   H  0 0 N N N 34.387 24.075 5.780 -4.790 -2.594 -1.233 HO3P   TTI 22 
+TTI HN3    HN3    H  0 1 N N N 33.830 30.444 1.083 1.483  -0.418 -3.033 HN3    TTI 23 
+TTI H6     H6     H  0 1 N N N 34.717 27.042 3.670 2.188  1.446  0.982  H6     TTI 24 
+TTI H6A    H6A    H  0 1 N N N 33.789 28.313 4.766 1.630  -0.160 1.445  H6A    TTI 25 
+TTI "H1'"  "H1'"  H  0 1 N N N 37.213 29.316 3.808 -0.364 1.451  1.562  "H1'"  TTI 26 
+TTI "H2'"  "H2'"  H  0 1 N N N 37.253 30.483 5.800 -0.539 3.474  0.387  "H2'"  TTI 27 
+TTI "H2'A" "H2'A" H  0 0 N N N 35.591 30.823 5.414 -0.577 2.653  -1.205 "H2'A" TTI 28 
+TTI "H3'"  "H3'"  H  0 1 N N N 34.769 29.030 6.868 -2.886 2.676  -1.161 "H3'"  TTI 29 
+TTI "HO3'" "HO3'" H  0 0 N Y N 36.418 28.934 8.644 -2.702 4.619  0.253  "HO3'" TTI 30 
+TTI "H4'"  "H4'"  H  0 1 N N N 37.582 27.830 6.890 -3.015 1.477  1.613  "H4'"  TTI 31 
+TTI "H5'"  "H5'"  H  0 1 N N N 36.456 25.683 6.712 -4.919 1.454  -0.067 "H5'"  TTI 32 
+TTI "H5'A" "H5'A" H  0 0 N N N 36.028 26.647 8.175 -3.902 0.446  -1.125 "H5'A" TTI 33 
+TTI HO2P   HO2P   H  0 0 N N N 34.690 25.297 9.010 -6.775 -3.052 1.179  HO2P   TTI 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TTI O3P   P      SING N N 1  
+TTI O3P   HO3P   SING N N 2  
+TTI C2    N1     SING N N 3  
+TTI N1    C6     SING N N 4  
+TTI N1    "C1'"  SING N N 5  
+TTI N3    C2     SING N N 6  
+TTI O2    C2     DOUB N N 7  
+TTI N3    C4     SING N N 8  
+TTI N3    HN3    SING N N 9  
+TTI O4    C4     DOUB N N 10 
+TTI C4    C5     SING N N 11 
+TTI C5    TE5    DOUB N N 12 
+TTI C5    C6     SING N N 13 
+TTI C6    H6     SING N N 14 
+TTI C6    H6A    SING N N 15 
+TTI "C1'" "O4'"  SING N N 16 
+TTI "C1'" "C2'"  SING N N 17 
+TTI "C1'" "H1'"  SING N N 18 
+TTI "C2'" "C3'"  SING N N 19 
+TTI "C2'" "H2'"  SING N N 20 
+TTI "C2'" "H2'A" SING N N 21 
+TTI "C4'" "C3'"  SING N N 22 
+TTI "C3'" "O3'"  SING N N 23 
+TTI "C3'" "H3'"  SING N N 24 
+TTI "O3'" "HO3'" SING N N 25 
+TTI "O4'" "C4'"  SING N N 26 
+TTI "C4'" "C5'"  SING N N 27 
+TTI "C4'" "H4'"  SING N N 28 
+TTI "O5'" "C5'"  SING N N 29 
+TTI "C5'" "H5'"  SING N N 30 
+TTI "C5'" "H5'A" SING N N 31 
+TTI "O5'" P      SING N N 32 
+TTI O1P   P      DOUB N N 33 
+TTI P     O2P    SING N N 34 
+TTI O2P   HO2P   SING N N 35 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TTI SMILES           ACDLabs              10.04 "[Te]=C2C(=O)NC(=O)N(C1OC(C(O)C1)COP(=O)(O)O)C2"                                                                                               
+TTI SMILES_CANONICAL CACTVS               3.341 "O[C@H]1C[C@@H](O[C@@H]1CO[P](O)(O)=O)N2CC(=[Te])C(=O)NC2=O"                                                                                   
+TTI SMILES           CACTVS               3.341 "O[CH]1C[CH](O[CH]1CO[P](O)(O)=O)N2CC(=[Te])C(=O)NC2=O"                                                                                        
+TTI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H](O[C@H]1N2CC(=[Te])C(=O)NC2=O)COP(=O)(O)O)O"                                                                                    
+TTI SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(OC1N2CC(=[Te])C(=O)NC2=O)COP(=O)(O)O)O"                                                                                                 
+TTI InChI            InChI                1.03  "InChI=1S/C9H13N2O8PTe/c12-4-1-7(19-5(4)3-18-20(15,16)17)11-2-6(21)8(13)10-9(11)14/h4-5,7,12H,1-3H2,(H,10,13,14)(H2,15,16,17)/t4-,5+,7+/m0/s1" 
+TTI InChIKey         InChI                1.03  JBISBBUKLAQYGW-HBPOCXIASA-N                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TTI "SYSTEMATIC NAME" ACDLabs              10.04 
+;2'-deoxy-5-telluroxouridine 5'-(dihydrogen phosphate)
+;
+TTI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(2,4-dioxo-5-tellanylidene-1,3-diazinan-1-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TTI "Create component"  2008-12-03 RCSB 
+TTI "Modify descriptor" 2011-06-04 RCSB 
+# 

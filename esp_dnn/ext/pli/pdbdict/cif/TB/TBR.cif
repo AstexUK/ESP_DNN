@@ -1,0 +1,131 @@
+data_TBR
+# 
+_chem_comp.id                                    TBR 
+_chem_comp.name                                  "HEXATANTALUM DODECABROMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Br12 Ta6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         DODECABROMOHEXATANTALUM 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-11-12 
+_chem_comp.pdbx_modified_date                    2010-09-15 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        2044.535 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TBR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DD4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TBR TA1 TA1 TA 0 0 N N N 7.285  -7.899  32.642 7.285  -7.899  32.642 TA1 TBR 1  
+TBR TA2 TA2 TA 0 0 N N N 5.977  -10.513 32.571 5.977  -10.513 32.571 TA2 TBR 2  
+TBR TA3 TA3 TA 0 0 N N N 8.878  -10.352 32.967 8.878  -10.352 32.967 TA3 TBR 3  
+TBR TA4 TA4 TA 0 0 N N N 7.122  -11.158 35.180 7.122  -11.158 35.180 TA4 TBR 4  
+TBR TA5 TA5 TA 0 0 N N N 8.432  -8.546  35.250 8.432  -8.546  35.250 TA5 TBR 5  
+TBR TA6 TA6 TA 0 0 N N N 5.530  -8.705  34.853 5.530  -8.705  34.853 TA6 TBR 6  
+TBR BR1 BR1 BR 0 0 N N N 5.804  -8.747  30.668 5.804  -8.747  30.668 BR1 TBR 7  
+TBR BR2 BR2 BR 0 0 N N N 9.338  -8.507  31.160 9.338  -8.507  31.160 BR2 TBR 8  
+TBR BR3 BR3 BR 0 0 N N N 8.827  -6.310  33.981 8.827  -6.310  33.981 BR3 TBR 9  
+TBR BR4 BR4 BR 0 0 N N N 5.265  -6.496  33.515 5.265  -6.496  33.515 BR4 TBR 10 
+TBR BR5 BR5 BR 0 0 N N N 7.709  -11.761 31.102 7.709  -11.761 31.102 BR5 TBR 11 
+TBR BR6 BR6 BR 0 0 N N N 10.758 -9.286  34.415 10.758 -9.286  34.415 BR6 TBR 12 
+TBR BR7 BR7 BR 0 0 N N N 8.604  -10.311 37.152 8.604  -10.311 37.152 BR7 TBR 13 
+TBR BR8 BR8 BR 0 0 N N N 5.070  -10.550 36.660 5.070  -10.550 36.660 BR8 TBR 14 
+TBR BR9 BR9 BR 0 0 N N N 5.581  -12.749 33.837 5.581  -12.749 33.837 BR9 TBR 15 
+TBR BRA BRA BR 0 0 N N N 9.143  -12.562 34.306 9.143  -12.562 34.306 BRA TBR 16 
+TBR BRB BRB BR 0 0 N N N 6.697  -7.297  36.720 6.697  -7.297  36.720 BRB TBR 17 
+TBR BRC BRC BR 0 0 N N N 3.650  -9.771  33.405 3.650  -9.771  33.405 BRC TBR 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TBR TA1 TA2 SING N N 1  
+TBR TA1 TA3 SING N N 2  
+TBR TA1 TA5 SING N N 3  
+TBR TA1 TA6 SING N N 4  
+TBR TA1 BR1 SING N N 5  
+TBR TA1 BR2 SING N N 6  
+TBR TA1 BR3 SING N N 7  
+TBR TA1 BR4 SING N N 8  
+TBR TA2 TA3 SING N N 9  
+TBR TA2 TA4 SING N N 10 
+TBR TA2 TA6 SING N N 11 
+TBR TA2 BR1 SING N N 12 
+TBR TA2 BR5 SING N N 13 
+TBR TA2 BR9 SING N N 14 
+TBR TA2 BRC SING N N 15 
+TBR TA3 TA4 SING N N 16 
+TBR TA3 TA5 SING N N 17 
+TBR TA3 BR2 SING N N 18 
+TBR TA3 BR5 SING N N 19 
+TBR TA3 BRA SING N N 20 
+TBR TA3 BR6 SING N N 21 
+TBR TA4 TA5 SING N N 22 
+TBR TA4 TA6 SING N N 23 
+TBR TA4 BR7 SING N N 24 
+TBR TA4 BR8 SING N N 25 
+TBR TA4 BR9 SING N N 26 
+TBR TA4 BRA SING N N 27 
+TBR TA5 TA6 SING N N 28 
+TBR TA5 BR3 SING N N 29 
+TBR TA5 BR6 SING N N 30 
+TBR TA5 BR7 SING N N 31 
+TBR TA5 BRB SING N N 32 
+TBR TA6 BR4 SING N N 33 
+TBR TA6 BR8 SING N N 34 
+TBR TA6 BRB SING N N 35 
+TBR TA6 BRC SING N N 36 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TBR InChI            InChI                1.02  InChI=1S/12BrH.6Ta/h12*1H;;;;;;/q;;;;;;;;;;;;;;;;;+1/p-1                                                                                                                    
+TBR InChIKey         InChI                1.02  YWYIQTPPCOBSGN-UHFFFAOYSA-M                                                                                                                                                 
+TBR SMILES_CANONICAL CACTVS               3.370 "Br|1[Ta]|2|3|4|5|Br[Ta]|6|7|89%10|2|Br[Ta]|%11|%12|%13|%14|1|3|6Br|[Ta]|%15|%16|%17|7|%11(Br|[Ta]|%18|4|%12|%15(Br|%13)(Br|%14)|Br[Ta]|5|8|%16|%18(|Br9)(Br)Br|%17)|Br%10" 
+TBR SMILES           CACTVS               3.370 "Br|1[Ta]|2|3|4|5|Br[Ta]|6|7|89%10|2|Br[Ta]|%11|%12|%13|%14|1|3|6Br|[Ta]|%15|%16|%17|7|%11(Br|[Ta]|%18|4|%12|%15(Br|%13)(Br|%14)|Br[Ta]|5|8|%16|%18(|Br9)(Br)Br|%17)|Br%10" 
+TBR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "Br[Ta]123456Br[Ta]17891%10[Ta]22%11(Br7)[Ta]337%12%13([Ta]484([Ta]923(Br%11)(Br1)(Br4)(Br7)Br%12)(Br5)(Br%10)Br%13)Br6"                                                    
+TBR SMILES           "OpenEye OEToolkits" 1.7.0 "Br[Ta]123456Br[Ta]17891%10[Ta]22%11(Br7)[Ta]337%12%13([Ta]484([Ta]923(Br%11)(Br1)(Br4)(Br7)Br%12)(Br5)(Br%10)Br%13)Br6"                                                    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TBR "Create component"   1999-11-12 PDBJ 
+TBR "Other modification" 2010-09-15 RCSB 
+# 

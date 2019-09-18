@@ -1,0 +1,164 @@
+data_A5L
+# 
+_chem_comp.id                                    A5L 
+_chem_comp.name                                  "9-(2-deoxy-2-fluoro-5-O-phosphono-beta-D-arabinofuranosyl)-9H-purin-6-amine" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H13 F N5 O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               DA 
+_chem_comp.pdbx_synonyms                         
+;2'-DEOXY-2'-FLUORO-ARABINO-FURANOSYL ADENINE-5'-PHOSPHATE
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-10-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        349.212 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     A5L 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2KP4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+A5L F      F      F 0 1 N N N -2.145 -3.632 -7.778  1.606  2.099  -1.084 F      A5L 1  
+A5L P      P      P 0 1 N N N -1.051 -6.695 -10.935 -4.857 -0.981 0.109  P      A5L 2  
+A5L N1     N1     N 0 1 Y N N -3.076 -5.300 -1.249  5.779  -0.511 0.697  N1     A5L 3  
+A5L C2     C2     C 0 1 Y N N -4.087 -5.547 -2.069  5.150  0.388  1.432  C2     A5L 4  
+A5L N3     N3     N 0 1 Y N N -4.102 -5.460 -3.393  3.855  0.602  1.331  N3     A5L 5  
+A5L C4     C4     C 0 1 Y N N -2.894 -5.074 -3.891  3.118  -0.092 0.470  C4     A5L 6  
+A5L C5     C5     C 0 1 Y N N -1.763 -4.795 -3.171  3.741  -1.061 -0.335 C5     A5L 7  
+A5L C6     C6     C 0 1 Y N N -1.908 -4.928 -1.771  5.125  -1.253 -0.191 C6     A5L 8  
+A5L N6     N6     N 0 1 N N N -0.969 -4.662 -0.880  5.793  -2.193 -0.956 N6     A5L 9  
+A5L N7     N7     N 0 1 Y N N -0.719 -4.402 -4.009  2.778  -1.615 -1.110 N7     A5L 10 
+A5L C8     C8     C 0 1 Y N N -1.267 -4.440 -5.194  1.632  -1.060 -0.839 C8     A5L 11 
+A5L N9     N9     N 0 1 Y N N -2.588 -4.827 -5.211  1.789  -0.115 0.130  N9     A5L 12 
+A5L "C1'"  "C1'"  C 0 1 N N R -3.570 -4.896 -6.329  0.733  0.724  0.702  "C1'"  A5L 13 
+A5L "C2'"  "C2'"  C 0 1 N N S -3.469 -3.845 -7.441  0.679  2.075  -0.036 "C2'"  A5L 14 
+A5L "C3'"  "C3'"  C 0 1 N N R -4.206 -4.538 -8.595  -0.766 2.147  -0.590 "C3'"  A5L 15 
+A5L "O3'"  "O3'"  O 0 1 N N N -5.607 -4.274 -8.702  -1.303 3.463  -0.443 "O3'"  A5L 16 
+A5L "C4'"  "C4'"  C 0 1 N N R -3.984 -6.032 -8.312  -1.513 1.140  0.321  "C4'"  A5L 17 
+A5L "O4'"  "O4'"  O 0 1 N N N -3.483 -6.159 -6.982  -0.544 0.087  0.530  "O4'"  A5L 18 
+A5L "C5'"  "C5'"  C 0 1 N N N -3.133 -6.781 -9.343  -2.757 0.595  -0.384 "C5'"  A5L 19 
+A5L "O5'"  "O5'"  O 0 1 N N N -2.064 -6.028 -9.881  -3.488 -0.238 0.517  "O5'"  A5L 20 
+A5L OP1    OP1    O 0 1 N N N -1.745 -7.797 -11.633 -5.996 0.118  -0.189 OP1    A5L 21 
+A5L OP2    OP2    O 0 1 N N N -0.396 -5.613 -11.698 -4.632 -1.799 -1.104 OP2    A5L 22 
+A5L OP3    OP3    O 0 1 N Y N 0.044  -7.323 -9.930  -5.333 -1.933 1.317  OP3    A5L 23 
+A5L H2     H2     H 0 1 N N N -5.011 -5.857 -1.603  5.719  0.970  2.142  H2     A5L 24 
+A5L H8     H8     H 0 1 N N N -0.725 -4.187 -6.093  0.694  -1.312 -1.313 H8     A5L 25 
+A5L HN6    HN6    H 0 1 N N N -1.335 -4.798 0.041   6.749  -2.316 -0.848 HN6    A5L 26 
+A5L HN6A   HN6A   H 0 0 N N N -0.191 -5.274 -1.023  5.305  -2.728 -1.602 HN6A   A5L 27 
+A5L "H5'"  "H5'"  H 0 1 N N N -2.706 -7.666 -8.848  -3.386 1.426  -0.703 "H5'"  A5L 28 
+A5L "H5'A" "H5'A" H 0 0 N N N -3.791 -7.072 -10.175 -2.455 0.013  -1.254 "H5'A" A5L 29 
+A5L "H1'"  "H1'"  H 0 1 N N N -4.519 -4.709 -5.806  0.925  0.888  1.763  "H1'"  A5L 30 
+A5L "H2'"  "H2'"  H 0 1 N N N -3.881 -2.862 -7.170  0.865  2.896  0.656  "H2'"  A5L 31 
+A5L "H3'"  "H3'"  H 0 1 N N N -3.811 -4.165 -9.552  -0.799 1.828  -1.631 "H3'"  A5L 32 
+A5L "H4'"  "H4'"  H 0 1 N N N -4.957 -6.536 -8.408  -1.781 1.605  1.270  "H4'"  A5L 33 
+A5L "HO3'" "HO3'" H 0 0 N N N -5.963 -4.748 -9.444  -0.813 4.143  -0.924 "HO3'" A5L 34 
+A5L HOP1   HOP1   H 0 0 N N N -1.682 -7.667 -12.572 -6.195 0.691  0.564  HOP1   A5L 35 
+A5L HOP3   HOP3   H 0 0 N Y N 0.872  -6.869 -10.039 -6.153 -2.412 1.140  HOP3   A5L 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+A5L F     "C2'"  SING N N 1  
+A5L OP2   P      DOUB N N 2  
+A5L OP1   P      SING N N 3  
+A5L P     OP3    SING N N 4  
+A5L P     "O5'"  SING N N 5  
+A5L C2    N1     DOUB Y N 6  
+A5L C6    N1     SING Y N 7  
+A5L N3    C2     SING Y N 8  
+A5L C2    H2     SING N N 9  
+A5L C4    N3     DOUB Y N 10 
+A5L N9    C4     SING Y N 11 
+A5L C4    C5     SING Y N 12 
+A5L N7    C5     SING Y N 13 
+A5L C5    C6     DOUB Y N 14 
+A5L C6    N6     SING N N 15 
+A5L HN6   N6     SING N N 16 
+A5L N6    HN6A   SING N N 17 
+A5L C8    N7     DOUB Y N 18 
+A5L H8    C8     SING N N 19 
+A5L N9    C8     SING Y N 20 
+A5L "C1'" N9     SING N N 21 
+A5L "C2'" "C1'"  SING N N 22 
+A5L "O4'" "C1'"  SING N N 23 
+A5L "C1'" "H1'"  SING N N 24 
+A5L "C3'" "C2'"  SING N N 25 
+A5L "C2'" "H2'"  SING N N 26 
+A5L "H3'" "C3'"  SING N N 27 
+A5L "O3'" "C3'"  SING N N 28 
+A5L "C3'" "C4'"  SING N N 29 
+A5L "O3'" "HO3'" SING N N 30 
+A5L "C5'" "C4'"  SING N N 31 
+A5L "H4'" "C4'"  SING N N 32 
+A5L "C4'" "O4'"  SING N N 33 
+A5L "H5'" "C5'"  SING N N 34 
+A5L "O5'" "C5'"  SING N N 35 
+A5L "C5'" "H5'A" SING N N 36 
+A5L OP1   HOP1   SING N N 37 
+A5L OP3   HOP3   SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+A5L SMILES           ACDLabs              11.02 "O=P(O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(F)C3O"                                                                                                                   
+A5L SMILES_CANONICAL CACTVS               3.352 "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@@H]3F"                                                                                              
+A5L SMILES           CACTVS               3.352 "Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(O)=O)[CH](O)[CH]3F"                                                                                                     
+A5L SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)F)N"                                                                                            
+A5L SMILES           "OpenEye OEToolkits" 1.7.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)O)O)F)N"                                                                                                             
+A5L InChI            InChI                1.03  "InChI=1S/C10H13FN5O6P/c11-5-7(17)4(1-21-23(18,19)20)22-10(5)16-3-15-6-8(12)13-2-14-9(6)16/h2-5,7,10,17H,1H2,(H2,12,13,14)(H2,18,19,20)/t4-,5+,7-,10-/m1/s1" 
+A5L InChIKey         InChI                1.03  WMEBOUQKZKATDW-GQTRHBFLSA-N                                                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+A5L "SYSTEMATIC NAME" ACDLabs              11.02 "9-(2-deoxy-2-fluoro-5-O-phosphono-beta-D-arabinofuranosyl)-9H-purin-6-amine"                     
+A5L "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "[(2R,3R,4S,5R)-5-(6-aminopurin-9-yl)-4-fluoro-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+A5L "Create component"     2009-10-21 RCSB 
+A5L "Modify aromatic_flag" 2011-06-04 RCSB 
+A5L "Modify descriptor"    2011-06-04 RCSB 
+# 

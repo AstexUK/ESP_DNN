@@ -1,0 +1,123 @@
+data_ECE
+# 
+_chem_comp.id                                    ECE 
+_chem_comp.name                                  Caprolactone 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Oxepan-2-one; Epsilon-Caprolactone" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-10-06 
+_chem_comp.pdbx_modified_date                    2014-10-10 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        114.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ECE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4RG3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ECE C4  C4  C 0 1 N N N 13.116 1.757  21.681 1.573  0.473  -0.660 C4  ECE 1  
+ECE C5  C5  C 0 1 N N N 12.046 0.930  22.389 1.614  -0.724 0.250  C5  ECE 2  
+ECE C6  C6  C 0 1 N N N 12.293 -0.581 22.315 0.445  -1.625 -0.160 C6  ECE 3  
+ECE C2  C2  C 0 1 N N N 12.847 0.296  19.561 -0.383 1.152  0.779  C2  ECE 4  
+ECE C3  C3  C 0 1 N N N 13.819 0.955  20.560 0.837  1.672  -0.010 C3  ECE 5  
+ECE O7  O7  O 0 1 N N N 11.529 -1.177 21.202 -0.774 -1.229 0.377  O7  ECE 6  
+ECE C1  C1  C 0 1 N N N 12.276 -1.048 20.054 -1.137 0.068  0.114  C1  ECE 7  
+ECE O   O   O 0 1 N N N 12.495 -2.067 19.405 -2.048 0.317  -0.639 O   ECE 8  
+ECE H1  H1  H 0 1 N N N 13.869 2.071  22.419 2.594  0.771  -0.900 H1  ECE 9  
+ECE H2  H2  H 0 1 N N N 12.643 2.646  21.239 1.059  0.200  -1.582 H2  ECE 10 
+ECE H3  H3  H 0 1 N N N 12.020 1.227  23.448 2.557  -1.256 0.126  H3  ECE 11 
+ECE H4  H4  H 0 1 N N N 11.073 1.147  21.923 1.498  -0.409 1.287  H4  ECE 12 
+ECE H5  H5  H 0 1 N N N 11.977 -1.046 23.261 0.366  -1.621 -1.247 H5  ECE 13 
+ECE H6  H6  H 0 1 N N N 13.366 -0.765 22.157 0.656  -2.643 0.169  H6  ECE 14 
+ECE H7  H7  H 0 1 N N N 13.384 0.121  18.617 -0.037 0.788  1.746  H7  ECE 15 
+ECE H8  H8  H 0 1 N N N 12.009 0.986  19.384 -1.062 1.987  0.953  H8  ECE 16 
+ECE H9  H9  H 0 1 N N N 14.425 0.164  21.027 1.514  2.191  0.669  H9  ECE 17 
+ECE H10 H10 H 0 1 N N N 14.476 1.640  20.004 0.502  2.359  -0.787 H10 ECE 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ECE O  C1  DOUB N N 1  
+ECE C2 C1  SING N N 2  
+ECE C2 C3  SING N N 3  
+ECE C1 O7  SING N N 4  
+ECE C3 C4  SING N N 5  
+ECE O7 C6  SING N N 6  
+ECE C4 C5  SING N N 7  
+ECE C6 C5  SING N N 8  
+ECE C4 H1  SING N N 9  
+ECE C4 H2  SING N N 10 
+ECE C5 H3  SING N N 11 
+ECE C5 H4  SING N N 12 
+ECE C6 H5  SING N N 13 
+ECE C6 H6  SING N N 14 
+ECE C2 H7  SING N N 15 
+ECE C2 H8  SING N N 16 
+ECE C3 H9  SING N N 17 
+ECE C3 H10 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ECE SMILES           ACDLabs              12.01 O=C1OCCCCC1                                
+ECE InChI            InChI                1.03  InChI=1S/C6H10O2/c7-6-4-2-1-3-5-8-6/h1-5H2 
+ECE InChIKey         InChI                1.03  PAPBSGBWRJIAAV-UHFFFAOYSA-N                
+ECE SMILES_CANONICAL CACTVS               3.385 O=C1CCCCCO1                                
+ECE SMILES           CACTVS               3.385 O=C1CCCCCO1                                
+ECE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1CCC(=O)OCC1"                            
+ECE SMILES           "OpenEye OEToolkits" 1.7.6 "C1CCC(=O)OCC1"                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ECE "SYSTEMATIC NAME" ACDLabs              12.01 oxepan-2-one 
+ECE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 oxepan-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ECE "Create component" 2014-10-06 RCSB 
+ECE "Initial release"  2014-10-15 RCSB 
+# 

@@ -1,0 +1,127 @@
+data_PIW
+# 
+_chem_comp.id                                    PIW 
+_chem_comp.name                                  1-phenyl-1H-imidazole 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H8 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-06-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        144.173 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PIW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3NC6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PIW N1  N1  N 0 1 Y N N 37.204 6.498 25.344 0.973  -0.003 -0.001 N1  PIW 1  
+PIW C2  C2  C 0 1 Y N N 36.029 6.711 24.721 1.780  1.089  0.002  C2  PIW 2  
+PIW N3  N3  N 0 1 Y N N 36.077 5.917 23.616 3.022  0.688  0.001  N3  PIW 3  
+PIW C4  C4  C 0 1 Y N N 37.271 5.240 23.625 3.056  -0.653 -0.003 C4  PIW 4  
+PIW C5  C5  C 0 1 Y N N 37.998 5.604 24.742 1.788  -1.106 0.001  C5  PIW 5  
+PIW C6  C6  C 0 1 Y N N 37.537 7.067 26.531 -0.430 -0.003 -0.001 C6  PIW 6  
+PIW C7  C7  C 0 1 Y N N 36.711 6.929 27.670 -1.125 -1.205 0.001  C7  PIW 7  
+PIW C8  C8  C 0 1 Y N N 37.018 7.473 28.919 -2.507 -1.202 0.002  C8  PIW 8  
+PIW C9  C9  C 0 1 Y N N 38.195 8.182 29.108 -3.197 -0.003 -0.001 C9  PIW 9  
+PIW C10 C10 C 0 1 Y N N 39.051 8.325 28.025 -2.507 1.195  -0.004 C10 PIW 10 
+PIW C11 C11 C 0 1 Y N N 38.724 7.782 26.768 -1.125 1.198  0.003  C11 PIW 11 
+PIW H2  H2  H 0 1 N N N 35.227 7.366 25.029 1.450  2.117  0.005  H2  PIW 12 
+PIW H4  H4  H 0 1 N N N 37.592 4.532 22.875 3.946  -1.264 -0.005 H4  PIW 13 
+PIW H5  H5  H 0 1 N N N 38.971 5.253 25.054 1.473  -2.139 -0.001 H5  PIW 14 
+PIW H7  H7  H 0 1 N N N 35.791 6.372 27.569 -0.587 -2.141 0.003  H7  PIW 15 
+PIW H8  H8  H 0 1 N N N 36.334 7.341 29.744 -3.048 -2.136 0.004  H8  PIW 16 
+PIW H9  H9  H 0 1 N N N 38.438 8.610 30.069 -4.277 -0.003 -0.001 H9  PIW 17 
+PIW H10 H10 H 0 1 N N N 39.981 8.860 28.148 -3.048 2.129  -0.006 H10 PIW 18 
+PIW H11 H11 H 0 1 N N N 39.415 7.921 25.950 -0.587 2.134  0.005  H11 PIW 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PIW C2  N1  SING Y N 1  
+PIW C5  N1  SING Y N 2  
+PIW N1  C6  SING Y N 3  
+PIW N3  C2  DOUB Y N 4  
+PIW C2  H2  SING N N 5  
+PIW N3  C4  SING Y N 6  
+PIW C4  C5  DOUB Y N 7  
+PIW C4  H4  SING N N 8  
+PIW C5  H5  SING N N 9  
+PIW C6  C11 DOUB Y N 10 
+PIW C6  C7  SING Y N 11 
+PIW C7  C8  DOUB Y N 12 
+PIW C7  H7  SING N N 13 
+PIW C8  C9  SING Y N 14 
+PIW C8  H8  SING N N 15 
+PIW C10 C9  DOUB Y N 16 
+PIW C9  H9  SING N N 17 
+PIW C11 C10 SING Y N 18 
+PIW C10 H10 SING N N 19 
+PIW C11 H11 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PIW SMILES           ACDLabs              12.01 "n2ccn(c1ccccc1)c2"                                   
+PIW SMILES_CANONICAL CACTVS               3.370 "c1ccc(cc1)n2ccnc2"                                   
+PIW SMILES           CACTVS               3.370 "c1ccc(cc1)n2ccnc2"                                   
+PIW SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)n2ccnc2"                                   
+PIW SMILES           "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)n2ccnc2"                                   
+PIW InChI            InChI                1.03  "InChI=1S/C9H8N2/c1-2-4-9(5-3-1)11-7-6-10-8-11/h1-8H" 
+PIW InChIKey         InChI                1.03  SEULWJSKCVACTH-UHFFFAOYSA-N                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PIW "SYSTEMATIC NAME" ACDLabs              12.01 1-phenyl-1H-imidazole 
+PIW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 1-phenylimidazole     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PIW "Create component"     2010-06-08 RCSB 
+PIW "Modify aromatic_flag" 2011-06-04 RCSB 
+PIW "Modify descriptor"    2011-06-04 RCSB 
+# 

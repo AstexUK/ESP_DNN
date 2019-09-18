@@ -1,0 +1,226 @@
+data_CAG
+# 
+_chem_comp.id                                    CAG 
+_chem_comp.name                                  
+;GUANOSINE 5'-TRIPHOSPHATE P3-[1-(2-NITROPHENYL)ETHYL ESTER]
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C18 H23 N6 O16 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        672.327 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CAG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PLJ,1GNR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CAG PG     PG     P 0  1 N N S 5.601  32.097 22.169 -0.486 0.564  4.738   PG     CAG 1  
+CAG O1G    O1G    O 0  1 N N N 4.765  32.737 21.159 -1.913 0.308  5.033   O1G    CAG 2  
+CAG O2G    O2G    O 0  1 N N N 5.302  30.721 22.577 0.306  -0.835 4.667   O2G    CAG 3  
+CAG O3G    O3G    O 0  1 N N N 5.719  33.048 23.455 0.146  1.480  5.901   O3G    CAG 4  
+CAG PB     PB     P 0  1 N N S 7.466  32.074 20.092 -1.007 0.357  2.215   PB     CAG 5  
+CAG O1B    O1B    O 0  1 N N N 7.585  30.621 19.813 -0.270 -0.926 2.188   O1B    CAG 6  
+CAG O2B    O2B    O 0  1 N N N 6.606  32.903 19.223 -2.551 0.083  2.578   O2B    CAG 7  
+CAG O3B    O3B    O 0  1 N N N 7.131  32.229 21.676 -0.358 1.325  3.325   O3B    CAG 8  
+CAG PA     PA     P 0  1 N N S 9.308  34.189 19.531 -1.576 0.043  -0.287  PA     CAG 9  
+CAG O1A    O1A    O 0  1 N N N 9.261  34.278 18.051 -0.831 -1.235 -0.275  O1A    CAG 10 
+CAG O2A    O2A    O 0  1 N N N 8.583  35.189 20.337 -3.110 -0.226 0.118   O2A    CAG 11 
+CAG O3A    O3A    O 0  1 N N N 8.953  32.699 20.078 -0.912 1.060  0.769   O3A    CAG 12 
+CAG "O5'"  O5*    O 0  1 N N N 10.870 34.205 19.907 -1.515 0.685  -1.761  "O5'"  CAG 13 
+CAG C5B    C5*    C 0  1 N N N 11.257 33.802 21.216 -2.116 -0.259 -2.649  C5B    CAG 14 
+CAG C4B    C4*    C 0  1 N N R 12.667 34.245 21.568 -2.090 0.292  -4.076  C4B    CAG 15 
+CAG "O4'"  O4*    O 0  1 N N N 13.652 33.427 20.928 -0.731 0.492  -4.498  "O4'"  CAG 16 
+CAG C3B    C3*    C 0  1 N N S 12.877 35.694 21.137 -2.729 -0.723 -5.042  C3B    CAG 17 
+CAG "O3'"  O3*    O 0  1 N N N 13.690 36.404 22.084 -3.864 -0.153 -5.698  "O3'"  CAG 18 
+CAG C2B    C2*    C 0  1 N N R 13.532 35.497 19.780 -1.605 -1.025 -6.067  C2B    CAG 19 
+CAG "O2'"  O2*    O 0  1 N N N 14.336 36.559 19.263 -2.133 -1.106 -7.393  "O2'"  CAG 20 
+CAG C1B    C1*    C 0  1 N N R 14.370 34.270 20.038 -0.683 0.211  -5.913  C1B    CAG 21 
+CAG N9     N9     N 0  1 Y N N 14.542 33.600 18.762 0.684  -0.104 -6.331  N9     CAG 22 
+CAG C8     C8     C 0  1 Y N N 13.622 33.177 17.841 1.655  -0.666 -5.555  C8     CAG 23 
+CAG N7     N7     N 0  1 Y N N 14.151 32.717 16.741 2.747  -0.806 -6.248  N7     CAG 24 
+CAG C5     C5     C 0  1 Y N N 15.520 32.760 17.005 2.543  -0.345 -7.506  C5     CAG 25 
+CAG C6     C6     C 0  1 Y N N 16.612 32.331 16.219 3.351  -0.248 -8.663  C6     CAG 26 
+CAG O6     O6     O 0  1 N N N 16.612 31.627 15.210 4.508  -0.631 -8.651  O6     CAG 27 
+CAG N1     N1     N 0  1 Y N N 17.806 32.669 16.819 2.808  0.280  -9.782  N1     CAG 28 
+CAG C2     C2     C 0  1 Y N N 17.947 33.185 18.081 1.513  0.704  -9.785  C2     CAG 29 
+CAG N2     N2     N 0  1 N N N 19.185 33.401 18.486 0.988  1.237  -10.935 N2     CAG 30 
+CAG N3     N3     N 0  1 Y N N 16.935 33.480 18.880 0.752  0.619  -8.716  N3     CAG 31 
+CAG C4     C4     C 0  1 Y N N 15.754 33.274 18.255 1.219  0.103  -7.574  C4     CAG 32 
+CAG "C'"   "C'"   C 0  1 N N R 5.821  32.633 24.814 0.003  0.753  7.123   "C'"   CAG 33 
+CAG "CM'"  "CM'"  C 0  1 N N N 5.279  33.765 25.660 -0.843 1.566  8.104   "CM'"  CAG 34 
+CAG "C1'"  "C1'"  C 0  1 Y N N 7.183  32.238 25.322 1.364  0.504  7.722   "C1'"  CAG 35 
+CAG "C2'"  "C2'"  C 0  1 Y N N 8.316  32.987 25.202 1.568  -0.591 8.577   "C2'"  CAG 36 
+CAG "N2'"  "N2'"  N 1  1 N N N 8.384  34.218 24.560 0.552  -1.426 8.862   "N2'"  CAG 37 
+CAG "O'L"  "1O2'" O -1 1 N N N 7.411  34.622 23.643 0.775  -2.604 9.077   "O'L"  CAG 38 
+CAG "O'M"  "2O2'" O 0  1 N N N 9.521  35.015 24.758 -0.588 -1.004 8.905   "O'M"  CAG 39 
+CAG "C3'"  "C3'"  C 0  1 Y N N 9.451  32.616 25.837 2.843  -0.815 9.125   "C3'"  CAG 40 
+CAG "C4'"  "C4'"  C 0  1 Y N N 9.464  31.566 26.688 3.875  0.045  8.827   "C4'"  CAG 41 
+CAG "C5'"  "C5'"  C 0  1 Y N N 8.344  30.828 26.837 3.661  1.126  7.986   "C5'"  CAG 42 
+CAG "C6'"  "C6'"  C 0  1 Y N N 7.226  31.161 26.147 2.410  1.353  7.437   "C6'"  CAG 43 
+CAG HOG2   2HOG   H 0  0 N N N 5.846  30.304 23.234 1.229  -0.624 4.473   HOG2   CAG 44 
+CAG HOB2   2HOB   H 0  0 N N N 6.529  33.833 19.401 -2.993 0.943  2.585   HOB2   CAG 45 
+CAG HOA2   2HOA   H 0  0 N N N 8.613  35.132 21.284 -3.559 0.630  0.098   HOA2   CAG 46 
+CAG "H5'1" 1H5*   H 0  0 N N N 10.523 34.155 21.977 -1.560 -1.196 -2.612  "H5'1" CAG 47 
+CAG "H5'2" 2H5*   H 0  0 N N N 11.137 32.701 21.348 -3.148 -0.436 -2.346  "H5'2" CAG 48 
+CAG H4B    H4*    H 0  1 N N N 12.784 34.145 22.672 -2.633 1.236  -4.117  H4B    CAG 49 
+CAG H3B    H3*    H 0  1 N N N 11.956 36.320 21.084 -3.013 -1.630 -4.509  H3B    CAG 50 
+CAG HO3    HO3    H 0  1 N N N 13.820 37.305 21.815 -4.181 -0.813 -6.330  HO3    CAG 51 
+CAG "H2'"  H2*    H 0  1 N N N 12.753 35.429 18.984 -1.074 -1.940 -5.806  "H2'"  CAG 52 
+CAG HO2    HO2    H 0  1 N N N 14.745 36.435 18.414 -2.694 -1.893 -7.422  HO2    CAG 53 
+CAG "H1'"  H1*    H 0  1 N N N 15.360 34.523 20.483 -1.073 1.053  -6.485  "H1'"  CAG 54 
+CAG H8     H8     H 0  1 N N N 12.527 33.204 17.976 1.536  -0.951 -4.520  H8     CAG 55 
+CAG H1     H1     H 0  1 N N N 18.660 32.524 16.281 3.342  0.357  -10.588 H1     CAG 56 
+CAG H21    1H2    H 0  1 N N N 19.289 33.785 19.425 0.068  1.544  -10.952 H21    CAG 57 
+CAG H22    2H2    H 0  1 N N N 19.669 33.995 17.813 1.538  1.307  -11.732 H22    CAG 58 
+CAG "H'"   "H'"   H 0  1 N N N 5.241  31.683 24.884 -0.485 -0.199 6.924   "H'"   CAG 59 
+CAG HCM1   1HCM   H 0  0 N N N 5.358  33.440 26.723 -0.354 2.520  8.303   HCM1   CAG 60 
+CAG HCM2   2HCM   H 0  0 N N N 5.779  34.741 25.460 -1.827 1.747  7.671   HCM2   CAG 61 
+CAG HCM3   3HCM   H 0  0 N N N 4.247  34.073 25.371 -0.953 1.012  9.036   HCM3   CAG 62 
+CAG "H3'"  "H3'"  H 0  1 N N N 10.382 33.179 25.657 3.011  -1.657 9.779   "H3'"  CAG 63 
+CAG "H4'"  "H4'"  H 0  1 N N N 10.376 31.314 27.253 4.855  -0.122 9.249   "H4'"  CAG 64 
+CAG "H5'"  "H5'"  H 0  1 N N N 8.342  29.959 27.517 4.477  1.796  7.757   "H5'"  CAG 65 
+CAG "H6'"  "H6'"  H 0  1 N N N 6.323  30.536 26.260 2.254  2.198  6.783   "H6'"  CAG 66 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CAG PG    O1G    DOUB N N 1  
+CAG PG    O2G    SING N N 2  
+CAG PG    O3G    SING N N 3  
+CAG PG    O3B    SING N N 4  
+CAG O2G   HOG2   SING N N 5  
+CAG O3G   "C'"   SING N N 6  
+CAG PB    O1B    DOUB N N 7  
+CAG PB    O2B    SING N N 8  
+CAG PB    O3B    SING N N 9  
+CAG PB    O3A    SING N N 10 
+CAG O2B   HOB2   SING N N 11 
+CAG PA    O1A    DOUB N N 12 
+CAG PA    O2A    SING N N 13 
+CAG PA    O3A    SING N N 14 
+CAG PA    "O5'"  SING N N 15 
+CAG O2A   HOA2   SING N N 16 
+CAG "O5'" C5B    SING N N 17 
+CAG C5B   C4B    SING N N 18 
+CAG C5B   "H5'1" SING N N 19 
+CAG C5B   "H5'2" SING N N 20 
+CAG C4B   "O4'"  SING N N 21 
+CAG C4B   C3B    SING N N 22 
+CAG C4B   H4B    SING N N 23 
+CAG "O4'" C1B    SING N N 24 
+CAG C3B   "O3'"  SING N N 25 
+CAG C3B   C2B    SING N N 26 
+CAG C3B   H3B    SING N N 27 
+CAG "O3'" HO3    SING N N 28 
+CAG C2B   "O2'"  SING N N 29 
+CAG C2B   C1B    SING N N 30 
+CAG C2B   "H2'"  SING N N 31 
+CAG "O2'" HO2    SING N N 32 
+CAG C1B   N9     SING N N 33 
+CAG C1B   "H1'"  SING N N 34 
+CAG N9    C8     SING Y N 35 
+CAG N9    C4     SING Y N 36 
+CAG C8    N7     DOUB Y N 37 
+CAG C8    H8     SING N N 38 
+CAG N7    C5     SING Y N 39 
+CAG C5    C6     SING Y N 40 
+CAG C5    C4     DOUB Y N 41 
+CAG C6    O6     DOUB N N 42 
+CAG C6    N1     SING Y N 43 
+CAG N1    C2     SING Y N 44 
+CAG N1    H1     SING N N 45 
+CAG C2    N2     SING N N 46 
+CAG C2    N3     DOUB Y N 47 
+CAG N2    H21    SING N N 48 
+CAG N2    H22    SING N N 49 
+CAG N3    C4     SING Y N 50 
+CAG "C'"  "CM'"  SING N N 51 
+CAG "C'"  "C1'"  SING N N 52 
+CAG "C'"  "H'"   SING N N 53 
+CAG "CM'" HCM1   SING N N 54 
+CAG "CM'" HCM2   SING N N 55 
+CAG "CM'" HCM3   SING N N 56 
+CAG "C1'" "C2'"  DOUB Y N 57 
+CAG "C1'" "C6'"  SING Y N 58 
+CAG "C2'" "N2'"  SING N N 59 
+CAG "C2'" "C3'"  SING Y N 60 
+CAG "N2'" "O'L"  SING N N 61 
+CAG "N2'" "O'M"  DOUB N N 62 
+CAG "C3'" "C4'"  DOUB Y N 63 
+CAG "C3'" "H3'"  SING N N 64 
+CAG "C4'" "C5'"  SING Y N 65 
+CAG "C4'" "H4'"  SING N N 66 
+CAG "C5'" "C6'"  DOUB Y N 67 
+CAG "C5'" "H5'"  SING N N 68 
+CAG "C6'" "H6'"  SING N N 69 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CAG SMILES           ACDLabs              10.04 "[O-][N+](=O)c1ccccc1C(OP(=O)(O)OP(=O)(O)OP(=O)(O)OCC4OC(n3cnc2c3N=C(N)NC2=O)C(O)C4O)C" 
+CAG SMILES_CANONICAL CACTVS               3.341 "C[C@@H](O[P@@](O)(=O)O[P@](O)(=O)O[P@](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3C(=O)NC(=Nc23)N)c4ccccc4[N+]([O-])=O" 
+CAG SMILES           CACTVS               3.341 "C[CH](O[P](O)(=O)O[P](O)(=O)O[P](O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O)n2cnc3C(=O)NC(=Nc23)N)c4ccccc4[N+]([O-])=O" 
+CAG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H](c1ccccc1[N+](=O)[O-])O[P@](=O)(O)O[P@@](=O)(O)O[P@@](=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3N=C(NC4=O)N)O)O" 
+CAG SMILES           "OpenEye OEToolkits" 1.5.0 "CC(c1ccccc1[N+](=O)[O-])OP(=O)(O)OP(=O)(O)OP(=O)(O)OCC2C(C(C(O2)n3cnc4c3N=C(NC4=O)N)O)O" 
+CAG InChI            InChI                1.03  
+;InChI=1S/C18H23N6O16P3/c1-8(9-4-2-3-5-10(9)24(28)29)38-42(32,33)40-43(34,35)39-41(30,31)36-6-11-13(25)14(26)17(37-11)23-7-20-12-15(23)21-18(19)22-16(12)27/h2-5,7-8,11,13-14,17,25-26H,6H2,1H3,(H,30,31)(H,32,33)(H,34,35)(H3,19,21,22,27)/t8-,11-,13-,14-,17-/m1/s1
+;
+CAG InChIKey         InChI                1.03  NYWDUFBXCCSYMK-JPDTYCKISA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CAG "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-[(S)-hydroxy{[(S)-hydroxy({(S)-hydroxy[(1R)-1-(2-nitrophenyl)ethoxy]phosphoryl}oxy)phosphoryl]oxy}phosphoryl]guanosine"                                                    
+CAG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl] [(1R)-1-(2-nitrophenyl)ethyl] hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CAG "Create component"  1999-07-08 RCSB 
+CAG "Modify descriptor" 2011-06-04 RCSB 
+# 

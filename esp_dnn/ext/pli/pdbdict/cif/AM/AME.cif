@@ -1,0 +1,136 @@
+data_AME
+# 
+_chem_comp.id                                    AME 
+_chem_comp.name                                  N-ACETYLMETHIONINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H13 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-05-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        191.248 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AME 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SJA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AME CT2  CT2  C 0 1 N N N 27.076 46.120 57.048 -2.402 2.835  0.611  CT2  AME 1  
+AME CT1  CT1  C 0 1 N N N 25.688 45.572 57.270 -1.987 1.579  -0.111 CT1  AME 2  
+AME OT   OT   O 0 1 N N N 24.978 45.268 56.223 -2.480 1.306  -1.185 OT   AME 3  
+AME CB   CB   C 0 1 N N N 23.260 43.949 59.549 0.741  -0.867 0.184  CB   AME 4  
+AME CG   CG   C 0 1 N N N 23.043 42.994 58.383 1.744  0.202  -0.254 CG   AME 5  
+AME SD   SD   S 0 1 N N N 23.323 41.240 58.772 3.411  -0.279 0.278  SD   AME 6  
+AME CE   CE   C 0 1 N N N 23.317 40.535 57.114 4.362  1.129  -0.358 CE   AME 7  
+AME C    C    C 0 1 N N N 23.545 46.185 60.212 -1.633 -1.570 0.057  C    AME 8  
+AME O    O    O 0 1 N N N 22.617 45.822 61.055 -2.566 -1.361 0.797  O    AME 9  
+AME OXT  OXT  O 0 1 N Y N 24.219 47.282 60.432 -1.461 -2.789 -0.478 OXT  AME 10 
+AME N    N    N 0 1 N N N 25.189 45.384 58.629 -1.068 0.759  0.437  N    AME 11 
+AME CA   CA   C 0 1 N N S 23.803 45.300 59.052 -0.664 -0.462 -0.265 CA   AME 12 
+AME HT23 3HT2 H 0 0 N N N 27.250 46.253 55.970 -2.316 2.681  1.687  HT23 AME 13 
+AME HT22 2HT2 H 0 0 N N N 27.173 47.090 57.558 -3.435 3.074  0.359  HT22 AME 14 
+AME HT21 1HT2 H 0 0 N N N 27.817 45.416 57.454 -1.754 3.658  0.310  HT21 AME 15 
+AME HB2  2HB  H 0 1 N N N 22.301 44.114 60.061 0.763  -0.962 1.269  HB2  AME 16 
+AME HB1  1HB  H 0 1 N N N 23.993 43.505 60.239 1.006  -1.822 -0.270 HB1  AME 17 
+AME HG2  2HG  H 0 1 N N N 22.000 43.101 58.052 1.723  0.297  -1.340 HG2  AME 18 
+AME HG1  1HG  H 0 1 N N N 23.782 43.266 57.614 1.479  1.157  0.200  HG1  AME 19 
+AME HE3  3HE  H 0 1 N N N 23.316 41.346 56.370 4.000  2.049  0.100  HE3  AME 20 
+AME HE2  2HE  H 0 1 N N N 24.214 39.913 56.977 4.243  1.190  -1.439 HE2  AME 21 
+AME HE1  1HE  H 0 1 N N N 22.417 39.916 56.982 5.417  0.994  -0.115 HE1  AME 22 
+AME HO   HO   H 0 1 N N N 23.912 47.687 61.235 -2.083 -3.500 -0.271 HO   AME 23 
+AME HN1  1HN  H 0 1 N N N 25.879 45.304 59.349 -0.673 0.978  1.296  HN1  AME 24 
+AME HA   HA   H 0 1 N N N 23.306 45.559 58.106 -0.664 -0.280 -1.340 HA   AME 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AME CT2 CT1  SING N N 1  
+AME CT2 HT23 SING N N 2  
+AME CT2 HT22 SING N N 3  
+AME CT2 HT21 SING N N 4  
+AME CT1 OT   DOUB N N 5  
+AME CT1 N    SING N N 6  
+AME CB  CG   SING N N 7  
+AME CB  CA   SING N N 8  
+AME CB  HB2  SING N N 9  
+AME CB  HB1  SING N N 10 
+AME CG  SD   SING N N 11 
+AME CG  HG2  SING N N 12 
+AME CG  HG1  SING N N 13 
+AME SD  CE   SING N N 14 
+AME CE  HE3  SING N N 15 
+AME CE  HE2  SING N N 16 
+AME CE  HE1  SING N N 17 
+AME C   O    DOUB N N 18 
+AME C   OXT  SING N N 19 
+AME C   CA   SING N N 20 
+AME OXT HO   SING N N 21 
+AME N   CA   SING N N 22 
+AME N   HN1  SING N N 23 
+AME CA  HA   SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AME SMILES           ACDLabs              10.04 "O=C(NC(C(=O)O)CCSC)C"                                                                      
+AME SMILES_CANONICAL CACTVS               3.341 "CSCC[C@H](NC(C)=O)C(O)=O"                                                                  
+AME SMILES           CACTVS               3.341 "CSCC[CH](NC(C)=O)C(O)=O"                                                                   
+AME SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)N[C@@H](CCSC)C(=O)O"                                                                 
+AME SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)NC(CCSC)C(=O)O"                                                                      
+AME InChI            InChI                1.03  "InChI=1S/C7H13NO3S/c1-5(9)8-6(7(10)11)3-4-12-2/h6H,3-4H2,1-2H3,(H,8,9)(H,10,11)/t6-/m0/s1" 
+AME InChIKey         InChI                1.03  XUYPXLNMDZIRQH-LURJTMIESA-N                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AME "SYSTEMATIC NAME" ACDLabs              10.04 N-acetyl-L-methionine                             
+AME "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-acetamido-4-methylsulfanyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AME "Create component"  2000-05-11 EBI  
+AME "Modify descriptor" 2011-06-04 RCSB 
+# 

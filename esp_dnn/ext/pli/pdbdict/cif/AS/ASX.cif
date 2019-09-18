@@ -1,0 +1,104 @@
+data_ASX
+# 
+_chem_comp.id                                    ASX 
+_chem_comp.name                                  "ASP/ASN AMBIGUOUS" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H6 N O2 X2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-09-23 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        100.096 
+_chem_comp.one_letter_code                       B 
+_chem_comp.three_letter_code                     ASX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ASX N   N   N 0 1 N N N 51.317 39.590 59.402 0.780  1.516  -0.368 N   ASX 1  
+ASX CA  CA  C 0 1 N N S 51.650 38.347 60.112 0.407  0.097  -0.432 CA  ASX 2  
+ASX C   C   C 0 1 N N N 50.527 37.977 60.972 -1.035 -0.062 -0.023 C   ASX 3  
+ASX O   O   O 0 1 N N N 49.674 37.321 60.470 -1.579 0.804  0.620  O   ASX 4  
+ASX CB  CB  C 0 1 N N N 52.940 38.356 60.920 1.297  -0.708 0.517  CB  ASX 5  
+ASX CG  CG  C 0 1 N N N 54.129 38.325 59.970 2.724  -0.650 0.037  CG  ASX 6  
+ASX XD1 AD1 X 0 1 N N N 55.289 38.501 60.390 3.100  0.195  -1.320 XD1 ASX 7  
+ASX XD2 AD2 X 0 1 N N N 53.861 38.141 58.663 3.903  -1.431 0.871  XD2 ASX 8  
+ASX OXT OXT O 0 1 N Y N ?      ?      ?      -1.715 -1.164 -0.375 OXT ASX 9  
+ASX H   H   H 0 1 N N N 52.080 39.851 58.811 0.251  2.059  -1.033 H   ASX 10 
+ASX H2  H2  H 0 1 N Y N 50.498 39.447 58.846 0.667  1.878  0.566  H2  ASX 11 
+ASX HA  HA  H 0 1 N N N 51.833 37.604 59.322 0.538  -0.268 -1.451 HA  ASX 12 
+ASX HB1 HB1 H 0 1 N N N 52.983 39.268 61.534 1.234  -0.286 1.520  HB1 ASX 13 
+ASX HB2 HB2 H 0 1 N N N 52.970 37.473 61.575 0.962  -1.745 0.537  HB2 ASX 14 
+ASX HXT HXT H 0 1 N Y N ?      ?      ?      -2.637 -1.221 -0.090 HXT ASX 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ASX N   CA  SING N N 1  
+ASX CA  C   SING N N 2  
+ASX CA  CB  SING N N 3  
+ASX CA  HA  SING N N 4  
+ASX C   O   DOUB N N 5  
+ASX C   OXT SING N N 6  
+ASX CB  CG  SING N N 7  
+ASX CB  HB1 SING N N 8  
+ASX CB  HB2 SING N N 9  
+ASX CG  XD1 DOUB N N 10 
+ASX CG  XD2 SING N N 11 
+ASX OXT HXT SING N N 12 
+ASX N   H   SING N N 13 
+ASX N   H2  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ASX SMILES_CANONICAL CACTVS               3.370 "C(C[C@H](N)C(O)=O)(=[F,Cl,Br,I])[F,Cl,Br,I]" 
+ASX SMILES           CACTVS               3.370 "C(C[CH](N)C(O)=O)(=[F,Cl,Br,I])[F,Cl,Br,I]"  
+ASX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "*=C(*)C[C@@H](C(=O)O)N"                      
+ASX SMILES           "OpenEye OEToolkits" 1.7.2 "*=C(*)CC(C(=O)O)N"                           
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ASX "Create component"   1999-07-08 EBI  
+ASX "Other modification" 2011-09-23 RCSB 
+# 

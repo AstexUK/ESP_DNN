@@ -1,0 +1,112 @@
+data_ATJ
+# 
+_chem_comp.id                                    ATJ 
+_chem_comp.name                                  "ETHYL HYDROGEN PHOSPHONATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 O3 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-09-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        110.049 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ATJ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2C0P 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ATJ P    P    P 0 1 N N S 28.701 15.686 12.434 1.976  -4.977 -0.376 P    ATJ 1  
+ATJ OA1  OA1  O 0 1 N N N 29.575 15.720 10.870 0.404  -5.117 0.015  OA1  ATJ 2  
+ATJ O1   O1   O 0 1 N N N 29.579 15.291 13.670 2.262  -5.545 -1.741 O1   ATJ 3  
+ATJ O2B  O2B  O 0 1 N N N 27.957 17.053 12.755 2.156  -3.362 -0.337 O2B  ATJ 4  
+ATJ C2B  C2B  C 0 1 N N N 28.739 18.187 13.168 3.470  -2.832 -0.357 C2B  ATJ 5  
+ATJ C1B  C1B  C 0 1 N N N 28.809 19.281 12.107 3.393  -1.320 -0.314 C1B  ATJ 6  
+ATJ H1A1 1H1A H 0 0 N Y N 28.948 15.726 10.156 -0.210 -5.511 -0.640 H1A1 ATJ 7  
+ATJ H2B1 1H2B H 0 0 N N N 29.765 17.834 13.347 4.018  -3.213 0.510  H2B1 ATJ 8  
+ATJ H2B2 2H2B H 0 0 N N N 28.280 18.612 14.073 3.970  -3.164 -1.272 H2B2 ATJ 9  
+ATJ H1B1 1H1B H 0 0 N N N 27.928 19.212 11.451 4.393  -0.878 -0.328 H1B1 ATJ 10 
+ATJ H1B2 2H1B H 0 0 N N N 29.723 19.153 11.509 2.825  -0.938 -1.169 H1B2 ATJ 11 
+ATJ H1B3 3H1B H 0 0 N N N 28.826 20.266 12.596 2.872  -0.987 0.589  H1B3 ATJ 12 
+ATJ HP1  HP1  H 0 1 N Y N 27.746 14.653 12.239 2.651  -5.421 0.781  HP1  ATJ 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ATJ P   OA1  SING N N 1  
+ATJ P   O1   DOUB N N 2  
+ATJ P   O2B  SING N N 3  
+ATJ OA1 H1A1 SING N N 4  
+ATJ O2B C2B  SING N N 5  
+ATJ C2B C1B  SING N N 6  
+ATJ C2B H2B1 SING N N 7  
+ATJ C2B H2B2 SING N N 8  
+ATJ C1B H1B1 SING N N 9  
+ATJ C1B H1B2 SING N N 10 
+ATJ C1B H1B3 SING N N 11 
+ATJ HP1 P    SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ATJ SMILES           ACDLabs              10.04 "O=P(O)OCC"                                         
+ATJ SMILES_CANONICAL CACTVS               3.341 "CCO[P@@H](O)=O"                                    
+ATJ SMILES           CACTVS               3.341 "CCO[PH](O)=O"                                      
+ATJ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCO[P@H](=O)O"                                     
+ATJ SMILES           "OpenEye OEToolkits" 1.5.0 "CCOP(=O)O"                                         
+ATJ InChI            InChI                1.03  "InChI=1S/C2H7O3P/c1-2-5-6(3)4/h6H,2H2,1H3,(H,3,4)" 
+ATJ InChIKey         InChI                1.03  VUERQRKTYBIULR-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ATJ "SYSTEMATIC NAME" ACDLabs              10.04 "ethyl hydrogen (R)-phosphonate" 
+ATJ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "ethoxyphosphinic acid"          
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ATJ "Create component"  2005-09-07 EBI  
+ATJ "Modify descriptor" 2011-06-04 RCSB 
+# 

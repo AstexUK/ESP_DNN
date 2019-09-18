@@ -1,0 +1,119 @@
+data_4JO
+# 
+_chem_comp.id                                    4JO 
+_chem_comp.name                                  5-bromo-6-methylpyridin-2-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 Br N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-03-23 
+_chem_comp.pdbx_modified_date                    2015-08-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        187.037 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4JO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4YRO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4JO BR BR1 BR 0 0 N N N 61.538 7.991 19.981 -1.999 0.203  0.001  BR 4JO 1  
+4JO C5 C1  C  0 1 Y N N 63.415 8.213 19.820 -0.108 0.216  0.001  C5 4JO 2  
+4JO C1 C2  C  0 1 Y N N 64.106 7.824 18.646 0.597  -0.972 -0.001 C1 4JO 3  
+4JO C  C3  C  0 1 N N N 63.435 7.141 17.494 -0.149 -2.281 -0.002 C  4JO 4  
+4JO C4 C4  C  0 1 Y N N 64.103 8.806 20.866 0.586  1.419  -0.003 C4 4JO 5  
+4JO C3 C5  C  0 1 Y N N 65.463 9.021 20.738 1.969  1.383  -0.002 C3 4JO 6  
+4JO C2 C6  C  0 1 Y N N 66.103 8.621 19.540 2.614  0.151  0.002  C2 4JO 7  
+4JO N  N1  N  0 1 Y N N 65.427 8.038 18.523 1.917  -0.975 -0.001 N  4JO 8  
+4JO N1 N2  N  0 1 N N N 67.430 8.795 19.367 4.003  0.101  0.002  N1 4JO 9  
+4JO H1 H1  H  0 1 N N N 64.178 6.924 16.712 -0.329 -2.595 -1.031 H1 4JO 10 
+4JO H2 H2  H  0 1 N N N 62.981 6.200 17.839 0.443  -3.038 0.510  H2 4JO 11 
+4JO H3 H3  H  0 1 N N N 62.652 7.797 17.084 -1.103 -2.156 0.511  H3 4JO 12 
+4JO H4 H4  H  0 1 N N N 63.585 9.096 21.768 0.058  2.361  -0.007 H4 4JO 13 
+4JO H5 H5  H  0 1 N N N 66.025 9.484 21.535 2.540  2.300  -0.006 H5 4JO 14 
+4JO H6 H6  H  0 1 N N N 67.698 8.444 18.470 4.518  0.923  -0.000 H6 4JO 15 
+4JO H7 H7  H  0 1 N N N 67.648 9.769 19.423 4.458  -0.756 0.005  H7 4JO 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4JO C  C1 SING N N 1  
+4JO N  C1 DOUB Y N 2  
+4JO N  C2 SING Y N 3  
+4JO C1 C5 SING Y N 4  
+4JO N1 C2 SING N N 5  
+4JO C2 C3 DOUB Y N 6  
+4JO C5 BR SING N N 7  
+4JO C5 C4 DOUB Y N 8  
+4JO C3 C4 SING Y N 9  
+4JO C  H1 SING N N 10 
+4JO C  H2 SING N N 11 
+4JO C  H3 SING N N 12 
+4JO C4 H4 SING N N 13 
+4JO C3 H5 SING N N 14 
+4JO N1 H6 SING N N 15 
+4JO N1 H7 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4JO SMILES           ACDLabs              12.01 "Brc1ccc(nc1C)N"                                            
+4JO InChI            InChI                1.03  "InChI=1S/C6H7BrN2/c1-4-5(7)2-3-6(8)9-4/h2-3H,1H3,(H2,8,9)" 
+4JO InChIKey         InChI                1.03  SEOZHXRTVJPQPZ-UHFFFAOYSA-N                                 
+4JO SMILES_CANONICAL CACTVS               3.385 "Cc1nc(N)ccc1Br"                                            
+4JO SMILES           CACTVS               3.385 "Cc1nc(N)ccc1Br"                                            
+4JO SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "Cc1c(ccc(n1)N)Br"                                          
+4JO SMILES           "OpenEye OEToolkits" 1.9.2 "Cc1c(ccc(n1)N)Br"                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4JO "SYSTEMATIC NAME" ACDLabs              12.01 5-bromo-6-methylpyridin-2-amine     
+4JO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 5-bromanyl-6-methyl-pyridin-2-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4JO "Create component" 2015-03-23 RCSB 
+4JO "Initial release"  2015-08-12 RCSB 
+# 

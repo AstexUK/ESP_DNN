@@ -1,0 +1,139 @@
+data_MDF
+# 
+_chem_comp.id                                    MDF 
+_chem_comp.name                                  
+;META, META'-DI-HYDROXY-PHENYLALANINE
+;
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H11 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               TYR 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-09-02 
+_chem_comp.pdbx_modified_date                    2012-06-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        197.188 
+_chem_comp.one_letter_code                       Y 
+_chem_comp.three_letter_code                     MDF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MDF N   N   N 0 1 N N N 24.894 19.741 17.595 1.356  -1.528 -1.794 N   MDF 1  
+MDF CA  CA  C 0 1 N N S 26.089 20.214 18.246 1.205  -0.211 -1.161 CA  MDF 2  
+MDF CG  CG  C 0 1 Y N N 27.287 19.297 18.146 -0.184 -0.085 -0.590 CG  MDF 3  
+MDF CD1 CD1 C 0 1 Y N N 27.278 18.082 18.823 -0.870 1.110  -0.700 CD1 MDF 4  
+MDF CD2 CD2 C 0 1 Y N N 28.379 19.594 17.367 -0.772 -1.166 0.038  CD2 MDF 5  
+MDF CE1 CE1 C 0 1 Y N N 28.401 17.259 18.786 -2.149 1.228  -0.174 CE1 MDF 6  
+MDF CE2 CE2 C 0 1 Y N N 29.478 18.777 17.359 -2.049 -1.052 0.569  CE2 MDF 7  
+MDF CZ  CZ  C 0 1 Y N N 29.488 17.592 18.066 -2.739 0.146  0.461  CZ  MDF 8  
+MDF OH1 OH1 O 0 1 N N N 28.273 16.087 19.515 -2.822 2.403  -0.283 OH1 MDF 9  
+MDF OH2 OH2 O 0 1 N N N 30.548 19.128 16.595 -2.625 -2.114 1.190  OH2 MDF 10 
+MDF C   C   C 0 1 N N N 26.484 21.607 17.774 2.218  -0.065 -0.055 C   MDF 11 
+MDF O   O   O 0 1 N N N 26.138 22.029 16.687 2.732  -1.046 0.426  O   MDF 12 
+MDF OXT OXT O 0 1 N Y N 27.183 22.238 18.633 2.550  1.156  0.394  OXT MDF 13 
+MDF CH3 CH3 C 0 1 N N N 27.661 23.585 18.265 3.526  1.296  1.460  CH3 MDF 14 
+MDF H   H   H 0 1 N N N 24.608 20.403 16.902 2.324  -1.608 -2.068 H   MDF 15 
+MDF H2  H2N H 0 1 N Y N 24.166 19.631 18.272 1.202  -2.216 -1.073 H2  MDF 16 
+MDF HA  HA  H 0 1 N N N 25.804 20.240 19.308 1.364  0.570  -1.905 HA  MDF 17 
+MDF HD1 HD1 H 0 1 N N N 26.402 17.777 19.376 -0.410 1.952  -1.194 HD1 MDF 18 
+MDF HD2 HD2 H 0 1 N N N 28.371 20.483 16.753 -0.235 -2.099 0.122  HD2 MDF 19 
+MDF HZ  HZ  H 0 1 N N N 30.352 16.944 18.042 -3.734 0.236  0.870  HZ  MDF 20 
+MDF HH1 HH1 H 0 1 N N N 28.244 15.346 18.921 -3.318 2.366  -1.112 HH1 MDF 21 
+MDF HH2 HH2 H 0 1 N N N 30.277 19.210 15.688 -3.101 -2.611 0.511  HH2 MDF 22 
+MDF H31 1H3 H 0 1 N N N 26.930 24.063 17.597 3.171  0.775  2.349  H31 MDF 23 
+MDF H32 2H3 H 0 1 N N N 28.629 23.502 17.750 4.475  0.866  1.142  H32 MDF 24 
+MDF H33 3H3 H 0 1 N N N 27.780 24.193 19.174 3.664  2.353  1.689  H33 MDF 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MDF N   CA  SING N N 1  
+MDF N   H   SING N N 2  
+MDF N   H2  SING N N 3  
+MDF CA  CG  SING N N 4  
+MDF CA  C   SING N N 5  
+MDF CA  HA  SING N N 6  
+MDF CG  CD1 DOUB Y N 7  
+MDF CG  CD2 SING Y N 8  
+MDF CD1 CE1 SING Y N 9  
+MDF CD1 HD1 SING N N 10 
+MDF CD2 CE2 DOUB Y N 11 
+MDF CD2 HD2 SING N N 12 
+MDF CE1 CZ  DOUB Y N 13 
+MDF CE1 OH1 SING N N 14 
+MDF CE2 CZ  SING Y N 15 
+MDF CE2 OH2 SING N N 16 
+MDF CZ  HZ  SING N N 17 
+MDF OH1 HH1 SING N N 18 
+MDF OH2 HH2 SING N N 19 
+MDF C   O   DOUB N N 20 
+MDF C   OXT SING N N 21 
+MDF OXT CH3 SING N N 22 
+MDF CH3 H31 SING N N 23 
+MDF CH3 H32 SING N N 24 
+MDF CH3 H33 SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MDF SMILES           ACDLabs              10.04 "O=C(OC)C(c1cc(O)cc(O)c1)N"                                                              
+MDF SMILES_CANONICAL CACTVS               3.341 "COC(=O)[C@@H](N)c1cc(O)cc(O)c1"                                                         
+MDF SMILES           CACTVS               3.341 "COC(=O)[CH](N)c1cc(O)cc(O)c1"                                                           
+MDF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COC(=O)[C@H](c1cc(cc(c1)O)O)N"                                                          
+MDF SMILES           "OpenEye OEToolkits" 1.5.0 "COC(=O)C(c1cc(cc(c1)O)O)N"                                                              
+MDF InChI            InChI                1.03  "InChI=1S/C9H11NO4/c1-14-9(13)8(10)5-2-6(11)4-7(12)3-5/h2-4,8,11-12H,10H2,1H3/t8-/m0/s1" 
+MDF InChIKey         InChI                1.03  RPSOEOPINVKYBT-QMMMGPOBSA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MDF "SYSTEMATIC NAME" ACDLabs              10.04 "methyl (2S)-amino(3,5-dihydroxyphenyl)ethanoate"      
+MDF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "methyl (2S)-2-amino-2-(3,5-dihydroxyphenyl)ethanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MDF "Create component"  2002-09-02 RCSB 
+MDF "Modify descriptor" 2011-06-04 RCSB 
+# 

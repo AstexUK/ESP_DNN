@@ -1,0 +1,115 @@
+data_TZC
+# 
+_chem_comp.id                                    TZC 
+_chem_comp.name                                  1,2,4-TRIAZOLE-CARBOXAMIDINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H6 N5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-12-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        112.113 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TZC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DM8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TZC N1   N1   N 0 1 Y N N 0.549  9.289  67.942 -0.042 0.008  0.001  N1   TZC 1  
+TZC N2   N2   N 0 1 Y N N 0.899  8.027  68.483 -0.904 -1.101 -0.004 N2   TZC 2  
+TZC C3   C3   C 0 1 Y N N 1.404  8.177  69.763 -2.123 -0.632 0.001  C3   TZC 3  
+TZC N4   N4   N 0 1 Y N N 1.393  9.520  70.068 -2.078 0.701  0.001  N4   TZC 4  
+TZC C5   C5   C 0 1 Y N N 0.877  10.193 68.973 -0.834 1.103  0.000  C5   TZC 5  
+TZC C6   C6   C 0 1 N N N -0.030 9.602  66.616 1.343  -0.016 0.000  C6   TZC 6  
+TZC N7   N7   N 0 1 N N N -0.158 8.679  65.653 2.027  1.123  -0.001 N7   TZC 7  
+TZC N8   N8   N 1 1 N N N -0.454 10.828 66.319 1.987  -1.178 0.001  N8   TZC 8  
+TZC H3   H3   H 0 1 N N N 1.754  7.367  70.424 -3.024 -1.228 0.002  H3   TZC 9  
+TZC H5   H5   H 0 1 N N N 0.746  11.287 68.928 -0.498 2.129  0.000  H5   TZC 10 
+TZC HN71 1HN7 H 0 0 N N N -0.556 8.894  64.739 2.997  1.107  -0.001 HN71 TZC 11 
+TZC HN72 2HN7 H 0 0 N N N -0.684 7.897  66.042 1.556  1.972  -0.006 HN72 TZC 12 
+TZC HN81 1HN8 H 0 0 N N N -0.356 11.530 67.052 1.488  -2.009 0.002  HN81 TZC 13 
+TZC HN82 2HN8 H 0 0 N N N -0.852 11.043 65.405 2.957  -1.195 0.001  HN82 TZC 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TZC N1 N2   SING Y N 1  
+TZC N1 C5   SING Y N 2  
+TZC N1 C6   SING N N 3  
+TZC N2 C3   DOUB Y N 4  
+TZC C3 N4   SING Y N 5  
+TZC C3 H3   SING N N 6  
+TZC N4 C5   DOUB Y N 7  
+TZC C5 H5   SING N N 8  
+TZC C6 N7   SING N N 9  
+TZC C6 N8   DOUB N N 10 
+TZC N7 HN71 SING N N 11 
+TZC N7 HN72 SING N N 12 
+TZC N8 HN81 SING N N 13 
+TZC N8 HN82 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TZC SMILES           ACDLabs              10.04 "n1cnn(C(=[NH2+])\N)c1"                                 
+TZC SMILES_CANONICAL CACTVS               3.341 "NC(=[NH2+])n1cncn1"                                    
+TZC SMILES           CACTVS               3.341 "NC(=[NH2+])n1cncn1"                                    
+TZC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ncn(n1)C(=[NH2+])N"                                  
+TZC SMILES           "OpenEye OEToolkits" 1.5.0 "c1ncn(n1)C(=[NH2+])N"                                  
+TZC InChI            InChI                1.03  "InChI=1S/C3H5N5/c4-3(5)8-2-6-1-7-8/h1-2H,(H3,4,5)/p+1" 
+TZC InChIKey         InChI                1.03  CDIOIIJXUJXYPB-UHFFFAOYSA-O                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TZC "SYSTEMATIC NAME" ACDLabs              10.04 "amino(1H-1,2,4-triazol-1-yl)methaniminium"      
+TZC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[amino-(1,2,4-triazol-1-yl)methylidene]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TZC "Create component"  1999-12-16 EBI  
+TZC "Modify descriptor" 2011-06-04 RCSB 
+# 

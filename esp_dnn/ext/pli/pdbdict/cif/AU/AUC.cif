@@ -1,0 +1,96 @@
+data_AUC
+# 
+_chem_comp.id                                    AUC 
+_chem_comp.name                                  "GOLD (I) CYANIDE ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "C2 Au N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        249.001 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AUC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HUG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AUC AU AU AU 0 0 N N N 33.276 14.723 -18.456 0.000 0.000 0.000  AU AUC 1 
+AUC C1 C1 C  0 1 N N N 33.826 14.981 -16.446 0.000 0.000 -2.150 C1 AUC 2 
+AUC N1 N1 N  0 1 N N N 34.452 15.487 -15.505 0.000 0.000 -3.286 N1 AUC 3 
+AUC C2 C2 C  0 1 N N N 32.476 14.039 -20.471 0.000 0.000 2.150  C2 AUC 4 
+AUC N2 N2 N  0 1 N N N 32.127 14.408 -21.653 0.000 0.000 3.286  N2 AUC 5 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AUC AU C1 SING N N 1 
+AUC AU C2 SING N N 2 
+AUC C1 N1 TRIP N N 3 
+AUC C2 N2 TRIP N N 4 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AUC SMILES           ACDLabs              10.04 "N#C[Au]C#N"                
+AUC SMILES_CANONICAL CACTVS               3.341 "N#C[Au]C#N"                
+AUC SMILES           CACTVS               3.341 "N#C[Au]C#N"                
+AUC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(#N)[Au]C#N"              
+AUC SMILES           "OpenEye OEToolkits" 1.5.0 "C(#N)[Au]C#N"              
+AUC InChI            InChI                1.03  InChI=1S/2CN.Au/c2*1-2;     
+AUC InChIKey         InChI                1.03  DGOHFTDNMSZWDQ-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AUC "SYSTEMATIC NAME" ACDLabs              10.04 "bis(cyano-kappaC)gold" 
+AUC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 dicyanogold             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AUC "Create component"  1999-07-08 RCSB 
+AUC "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,125 @@
+data_PZI
+# 
+_chem_comp.id                                    PZI 
+_chem_comp.name                                  "2-(2-oxopyrrolidin-1-yl)acetamide" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-02-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.156 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PZI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3LSF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PZI N01  N01  N 0 1 N N N 7.351 49.117 35.496 3.283  0.015  -0.061 N01  PZI 1  
+PZI C02  C02  C 0 1 N N N 7.622 50.428 34.898 1.955  0.144  0.131  C02  PZI 2  
+PZI O03  O03  O 0 1 N N N 8.494 51.067 35.400 1.527  0.453  1.223  O03  PZI 3  
+PZI C04  C04  C 0 1 N N N 6.545 51.175 34.089 1.001  -0.096 -1.011 C04  PZI 4  
+PZI N05  N05  N 0 1 N N N 6.484 52.627 34.228 -0.374 0.105  -0.549 N05  PZI 5  
+PZI C06  C06  C 0 1 N N N 7.117 53.321 35.198 -1.082 1.390  -0.592 C06  PZI 6  
+PZI C07  C07  C 0 1 N N N 6.702 54.669 35.151 -2.283 1.231  0.366  C07  PZI 7  
+PZI C08  C08  C 0 1 N N N 5.784 54.800 34.130 -2.502 -0.300 0.346  C08  PZI 8  
+PZI C09  C09  C 0 1 N N N 5.620 53.573 33.559 -1.152 -0.864 -0.037 C09  PZI 9  
+PZI O10  O10  O 0 1 N N N 4.754 53.333 32.491 -0.819 -2.022 0.100  O10  PZI 10 
+PZI HN01 HN01 H 0 0 N N N 7.886 48.805 36.281 3.896  0.170  0.674  HN01 PZI 11 
+PZI HN0A HN0A H 0 0 N N N 6.631 48.535 35.119 3.624  -0.236 -0.934 HN0A PZI 12 
+PZI H04  H04  H 0 1 N N N 6.739 50.964 33.027 1.219  0.602  -1.819 H04  PZI 13 
+PZI H04A H04A H 0 0 N N N 5.571 50.782 34.415 1.117  -1.118 -1.373 H04A PZI 14 
+PZI H06  H06  H 0 1 N N N 6.867 52.893 36.180 -0.430 2.192  -0.249 H06  PZI 15 
+PZI H07  H07  H 0 1 N N N 6.241 54.953 36.108 -2.030 1.576  1.369  H07  PZI 16 
+PZI H08  H08  H 0 1 N N N 4.825 55.161 34.529 -2.802 -0.655 1.332  H08  PZI 17 
+PZI H08A H08A H 0 0 N N N 6.152 55.518 33.382 -3.251 -0.568 -0.399 H08A PZI 18 
+PZI H06A H06A H 0 0 N N N 8.204 53.265 35.041 -1.431 1.595  -1.605 H06A PZI 19 
+PZI H07A H07A H 0 0 N N N 7.568 55.321 34.963 -3.159 1.756  -0.015 H07A PZI 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PZI C02 N01  SING N N 1  
+PZI N01 HN01 SING N N 2  
+PZI N01 HN0A SING N N 3  
+PZI C04 C02  SING N N 4  
+PZI C02 O03  DOUB N N 5  
+PZI C04 N05  SING N N 6  
+PZI C04 H04  SING N N 7  
+PZI C04 H04A SING N N 8  
+PZI C09 N05  SING N N 9  
+PZI N05 C06  SING N N 10 
+PZI C07 C06  SING N N 11 
+PZI C06 H06  SING N N 12 
+PZI C08 C07  SING N N 13 
+PZI C07 H07  SING N N 14 
+PZI C09 C08  SING N N 15 
+PZI C08 H08  SING N N 16 
+PZI O10 C09  DOUB N N 17 
+PZI C08 H08A SING N N 18 
+PZI C06 H06A SING N N 19 
+PZI C07 H07A SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PZI SMILES_CANONICAL CACTVS               3.352 "NC(=O)CN1CCCC1=O"                                           
+PZI SMILES           CACTVS               3.352 "NC(=O)CN1CCCC1=O"                                           
+PZI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1CC(=O)N(C1)CC(=O)N"                                       
+PZI SMILES           "OpenEye OEToolkits" 1.7.0 "C1CC(=O)N(C1)CC(=O)N"                                       
+PZI InChI            InChI                1.03  "InChI=1S/C6H10N2O2/c7-5(9)4-8-3-1-2-6(8)10/h1-4H2,(H2,7,9)" 
+PZI InChIKey         InChI                1.03  GMZVRMREEHBGGF-UHFFFAOYSA-N                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PZI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "2-(2-oxopyrrolidin-1-yl)ethanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PZI "Create component"  2010-02-17 RCSB 
+PZI "Modify descriptor" 2011-06-04 RCSB 
+# 

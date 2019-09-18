@@ -1,0 +1,126 @@
+data_NIC
+# 
+_chem_comp.id                                    NIC 
+_chem_comp.name                                  "NITROISOCITRIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H7 N O7" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        193.112 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NIC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        8ACN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NIC C1  C1  C 0  1 N N N 35.425 34.776 69.956 -2.364 -0.140 -0.529 C1  NIC 1  
+NIC O1  O1  O 0  1 N N N 35.328 36.011 70.043 -3.162 -0.048 0.373  O1  NIC 2  
+NIC O2  O2  O 0  1 N N N 34.887 34.187 69.017 -2.562 0.535  -1.672 O2  NIC 3  
+NIC C2  C2  C 0  1 N N R 36.281 33.942 70.955 -1.146 -1.013 -0.370 C2  NIC 4  
+NIC C3  C3  C 0  1 N N S 35.745 34.178 72.407 0.112  -0.143 -0.395 C3  NIC 5  
+NIC O7  O7  O 0  1 N N N 36.446 32.557 70.635 -1.218 -1.711 0.875  O7  NIC 6  
+NIC C4  C4  C 0  1 N N N 36.634 33.948 73.572 1.349  -1.029 -0.234 C4  NIC 7  
+NIC C5  C5  C 0  1 N N N 37.809 34.836 73.297 2.592  -0.189 -0.381 C5  NIC 8  
+NIC O3  O3  O 0  1 N N N 37.877 36.073 73.077 2.498  0.997  -0.593 O3  NIC 9  
+NIC O4  O4  O 0  1 N N N 38.883 34.206 73.325 3.803  -0.758 -0.277 O4  NIC 10 
+NIC N6  N6  N 1  1 N N N 34.300 33.929 72.653 0.059  0.824  0.704  N6  NIC 11 
+NIC O5  O5  O -1 1 N N N 33.433 33.958 71.768 -0.007 0.434  1.856  O5  NIC 12 
+NIC O6  O6  O 0  1 N N N 33.859 33.651 73.749 0.079  2.019  0.466  O6  NIC 13 
+NIC HO2 HO2 H 0  1 N N N 34.961 33.242 68.950 -3.343 1.095  -1.774 HO2 NIC 14 
+NIC H2  H2  H 0  1 N N N 37.326 34.321 70.871 -1.106 -1.733 -1.188 H2  NIC 15 
+NIC H3  H3  H 0  1 N N N 35.816 35.289 72.352 0.168  0.389  -1.345 H3  NIC 16 
+NIC HO7 HO7 H 0  1 N N N 36.968 32.048 71.244 -1.252 -1.039 1.570  HO7 NIC 17 
+NIC H41 1H4 H 0  1 N N N 36.150 34.116 74.562 1.342  -1.805 -1.000 H41 NIC 18 
+NIC H42 2H4 H 0  1 N N N 36.895 32.878 73.749 1.338  -1.492 0.752  H42 NIC 19 
+NIC HO4 HO4 H 0  1 N N N 39.628 34.769 73.150 4.600  -0.220 -0.371 HO4 NIC 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NIC C1 O1  DOUB N N 1  
+NIC C1 O2  SING N N 2  
+NIC C1 C2  SING N N 3  
+NIC O2 HO2 SING N N 4  
+NIC C2 C3  SING N N 5  
+NIC C2 O7  SING N N 6  
+NIC C2 H2  SING N N 7  
+NIC C3 C4  SING N N 8  
+NIC C3 N6  SING N N 9  
+NIC C3 H3  SING N N 10 
+NIC O7 HO7 SING N N 11 
+NIC C4 C5  SING N N 12 
+NIC C4 H41 SING N N 13 
+NIC C4 H42 SING N N 14 
+NIC C5 O3  DOUB N N 15 
+NIC C5 O4  SING N N 16 
+NIC O4 HO4 SING N N 17 
+NIC N6 O5  SING N N 18 
+NIC N6 O6  DOUB N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NIC SMILES           ACDLabs              10.04 "O=C(O)C(O)C([N+]([O-])=O)CC(=O)O"                                                          
+NIC SMILES_CANONICAL CACTVS               3.341 "O[C@H]([C@H](CC(O)=O)[N+]([O-])=O)C(O)=O"                                                  
+NIC SMILES           CACTVS               3.341 "O[CH]([CH](CC(O)=O)[N+]([O-])=O)C(O)=O"                                                    
+NIC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]([C@H](C(=O)O)O)[N+](=O)[O-])C(=O)O"                                               
+NIC SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(C(=O)O)O)[N+](=O)[O-])C(=O)O"                                                        
+NIC InChI            InChI                1.03  "InChI=1S/C5H7NO7/c7-3(8)1-2(6(12)13)4(9)5(10)11/h2,4,9H,1H2,(H,7,8)(H,10,11)/t2-,4+/m0/s1" 
+NIC InChIKey         InChI                1.03  ZTJSGPUFCRRTOT-ZAFYKAAXSA-N                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NIC "SYSTEMATIC NAME" ACDLabs              10.04 "2,3-dideoxy-3-nitro-L-threo-pentaric acid"   
+NIC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3S)-2-hydroxy-3-nitro-pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NIC "Create component"  1999-07-08 RCSB 
+NIC "Modify descriptor" 2011-06-04 RCSB 
+# 

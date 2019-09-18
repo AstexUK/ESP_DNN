@@ -1,0 +1,122 @@
+data_29H
+# 
+_chem_comp.id                                    29H 
+_chem_comp.name                                  "2-aminopyrimido[4,5-d]pyrimidin-4(3H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 N5 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-09-11 
+_chem_comp.pdbx_modified_date                    2014-07-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     29H 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4LX6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+29H NAH NAH N 0 1 N N N 30.705 17.038 13.864 1.857  0.734  0.002  NAH 29H 1  
+29H CAJ CAJ C 0 1 N N N 30.124 16.840 15.113 0.664  1.375  0.001  CAJ 29H 2  
+29H OAB OAB O 0 1 N N N 29.361 15.884 15.287 0.598  2.590  -0.000 OAB 29H 3  
+29H C5  C5  C 0 1 Y N N 30.441 17.733 16.134 -0.546 0.545  0.001  C5  29H 4  
+29H C6  C6  C 0 1 Y N N 29.885 17.564 17.390 -1.829 1.083  -0.001 C6  29H 5  
+29H N1  N1  N 0 1 Y N N 30.209 18.487 18.414 -2.859 0.250  -0.002 N1  29H 6  
+29H C2  C2  C 0 1 Y N N 31.091 19.549 18.146 -2.685 -1.060 -0.001 C2  29H 7  
+29H N3  N3  N 0 1 Y N N 31.633 19.689 16.854 -1.495 -1.621 0.001  N3  29H 8  
+29H C4  C4  C 0 1 Y N N 31.319 18.799 15.892 -0.396 -0.865 0.001  C4  29H 9  
+29H NAG NAG N 0 1 N N N 31.854 18.964 14.674 0.839  -1.389 0.002  NAG 29H 10 
+29H CAI CAI C 0 1 N N N 31.583 18.125 13.675 1.909  -0.628 -0.003 CAI 29H 11 
+29H NAA NAA N 0 1 N N N 32.145 18.340 12.494 3.137  -1.233 -0.002 NAA 29H 12 
+29H H1  H1  H 0 1 N N N 30.502 16.416 13.108 2.680  1.247  0.002  H1  29H 13 
+29H H2  H2  H 0 1 N N N 29.214 16.741 17.586 -1.982 2.153  -0.001 H2  29H 14 
+29H H3  H3  H 0 1 N N N 31.350 20.251 18.924 -3.557 -1.697 -0.001 H3  29H 15 
+29H H4  H4  H 0 1 N N N 32.758 19.119 12.367 3.944  -0.693 0.002  H4  29H 16 
+29H H5  H5  H 0 1 N N N 31.956 17.723 11.730 3.202  -2.201 -0.005 H5  29H 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+29H NAA CAI SING N N 1  
+29H CAI NAH SING N N 2  
+29H CAI NAG DOUB N N 3  
+29H NAH CAJ SING N N 4  
+29H NAG C4  SING N N 5  
+29H CAJ OAB DOUB N N 6  
+29H CAJ C5  SING N N 7  
+29H C4  C5  DOUB Y N 8  
+29H C4  N3  SING Y N 9  
+29H C5  C6  SING Y N 10 
+29H N3  C2  DOUB Y N 11 
+29H C6  N1  DOUB Y N 12 
+29H C2  N1  SING Y N 13 
+29H NAH H1  SING N N 14 
+29H C6  H2  SING N N 15 
+29H C2  H3  SING N N 16 
+29H NAA H4  SING N N 17 
+29H NAA H5  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+29H SMILES           ACDLabs              12.01 "O=C1c2cncnc2N=C(N)N1"                                                       
+29H InChI            InChI                1.03  "InChI=1S/C6H5N5O/c7-6-10-4-3(5(12)11-6)1-8-2-9-4/h1-2H,(H3,7,8,9,10,11,12)" 
+29H InChIKey         InChI                1.03  HHOGMIYMABYION-UHFFFAOYSA-N                                                  
+29H SMILES_CANONICAL CACTVS               3.385 "NC1=Nc2ncncc2C(=O)N1"                                                       
+29H SMILES           CACTVS               3.385 "NC1=Nc2ncncc2C(=O)N1"                                                       
+29H SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c2c(ncn1)N=C(NC2=O)N"                                                     
+29H SMILES           "OpenEye OEToolkits" 1.7.6 "c1c2c(ncn1)N=C(NC2=O)N"                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+29H "SYSTEMATIC NAME" ACDLabs              12.01 "2-aminopyrimido[4,5-d]pyrimidin-4(3H)-one"  
+29H "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-azanyl-3H-pyrimido[4,5-d]pyrimidin-4-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+29H "Create component" 2013-09-11 RCSB 
+29H "Initial release"  2014-07-16 RCSB 
+# 

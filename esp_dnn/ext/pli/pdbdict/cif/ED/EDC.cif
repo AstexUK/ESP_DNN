@@ -1,0 +1,163 @@
+data_EDC
+# 
+_chem_comp.id                                    EDC 
+_chem_comp.name                                  "N3,N4-ETHENO-2'-DEOXYCYTIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C11 H14 N3 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "6-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)imidazo[1,2-c]pyrimidin-5(6H)-one" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2012-01-09 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        331.219 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EDC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UBY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EDC OP3    OP3    O 0 1 N Y N 3.262  1.316  35.492 -4.900 2.099  -1.289 OP3    EDC 1  
+EDC P      P      P 0 1 N N N 2.260  1.465  34.267 -4.513 1.125  -0.067 P      EDC 2  
+EDC N1     N1     N 0 1 N N N 0.733  -0.643 30.679 2.019  -0.380 -0.095 N1     EDC 3  
+EDC C2     C2     C 0 1 N N N 0.949  -0.198 29.354 3.100  -0.163 -0.864 C2     EDC 4  
+EDC O2     O2     O 0 1 N N N 1.642  -0.892 28.572 3.114  -0.586 -2.003 O2     EDC 5  
+EDC N3     N3     N 0 1 Y N N 0.427  0.971  28.931 4.165  0.511  -0.399 N3     EDC 6  
+EDC C4     C4     C 0 1 Y N N -0.316 1.735  29.755 4.164  0.996  0.887  C4     EDC 7  
+EDC N4     N4     N 0 1 Y N N -0.711 2.830  29.087 5.308  1.611  1.096  N4     EDC 8  
+EDC C5     C5     C 0 1 N N N -0.554 1.323  31.066 2.987  0.759  1.727  C5     EDC 9  
+EDC C6     C6     C 0 1 N N N -0.016 0.115  31.504 1.950  0.081  1.198  C6     EDC 10 
+EDC C7     C7     C 0 1 Y N N -0.217 2.768  27.834 6.056  1.543  -0.015 C7     EDC 11 
+EDC C8     C8     C 0 1 Y N N 0.497  1.591  27.744 5.369  0.867  -0.956 C8     EDC 12 
+EDC "C1'"  "C1'"  C 0 1 N N R 1.297  -1.931 31.130 0.884  -1.122 -0.651 "C1'"  EDC 13 
+EDC "C2'"  "C2'"  C 0 1 N N N 2.814  -1.931 31.308 0.703  -2.450 0.110  "C2'"  EDC 14 
+EDC "C3'"  "C3'"  C 0 1 N N S 3.024  -2.598 32.654 -0.739 -2.372 0.669  "C3'"  EDC 15 
+EDC "O3'"  "O3'"  O 0 1 N N N 3.234  -3.995 32.416 -1.402 -3.632 0.545  "O3'"  EDC 16 
+EDC "C4'"  "C4'"  C 0 1 N N R 1.715  -2.407 33.406 -1.390 -1.312 -0.256 "C4'"  EDC 17 
+EDC "O4'"  "O4'"  O 0 1 N N N 0.719  -2.322 32.386 -0.325 -0.363 -0.482 "O4'"  EDC 18 
+EDC "C5'"  "C5'"  C 0 1 N N N 1.700  -1.153 34.294 -2.572 -0.639 0.444  "C5'"  EDC 19 
+EDC "O5'"  "O5'"  O 0 1 N N N 2.262  -0.025 33.620 -3.224 0.247  -0.468 "O5'"  EDC 20 
+EDC OP1    OP1    O 0 1 N N N 2.960  2.350  33.256 -4.204 1.936  1.131  OP1    EDC 21 
+EDC OP2    OP2    O 0 1 N N N 0.856  1.768  34.726 -5.751 0.146  0.252  OP2    EDC 22 
+EDC HOP3   HOP3   H 0 0 N Y N 4.056  1.807  35.314 -5.669 2.658  -1.118 HOP3   EDC 23 
+EDC H5     H5     H 0 1 N N N -1.147 1.932  31.732 2.949  1.124  2.743  H5     EDC 24 
+EDC H6     H6     H 0 1 N N N -0.201 -0.217 32.515 1.066  -0.104 1.791  H6     EDC 25 
+EDC H7     H7     H 0 1 N N N -0.354 3.499  27.051 7.044  1.962  -0.135 H7     EDC 26 
+EDC H8     H8     H 0 1 N N N 1.021  1.232  26.870 5.703  0.645  -1.959 H8     EDC 27 
+EDC "H1'"  "H1'"  H 0 1 N N N 1.052  -2.695 30.377 1.054  -1.321 -1.709 "H1'"  EDC 28 
+EDC "H2'"  "H2'"  H 0 1 N N N 3.302  -2.505 30.507 0.803  -3.296 -0.570 "H2'"  EDC 29 
+EDC "H2''" "H2''" H 0 0 N N N 3.207  -0.904 31.315 1.424  -2.525 0.924  "H2''" EDC 30 
+EDC "H3'"  "H3'"  H 0 1 N N N 3.861  -2.136 33.197 -0.737 -2.035 1.705  "H3'"  EDC 31 
+EDC "HO3'" "HO3'" H 0 0 N Y N 3.369  -4.441 33.244 -0.977 -4.350 1.036  "HO3'" EDC 32 
+EDC "H4'"  "H4'"  H 0 1 N N N 1.536  -3.289 34.038 -1.708 -1.765 -1.195 "H4'"  EDC 33 
+EDC "H5'"  "H5'"  H 0 1 N N N 0.660  -0.923 34.569 -3.277 -1.400 0.778  "H5'"  EDC 34 
+EDC "H5''" "H5''" H 0 0 N N N 2.285  -1.353 35.204 -2.211 -0.075 1.304  "H5''" EDC 35 
+EDC HOP2   HOP2   H 0 0 N N N 0.542  2.551  34.289 -6.008 -0.417 -0.491 HOP2   EDC 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EDC P     OP3    SING N N 1  
+EDC OP3   HOP3   SING N N 2  
+EDC OP1   P      DOUB N N 3  
+EDC "O5'" P      SING N N 4  
+EDC P     OP2    SING N N 5  
+EDC C2    N1     SING N N 6  
+EDC N1    "C1'"  SING N N 7  
+EDC N1    C6     SING N N 8  
+EDC O2    C2     DOUB N N 9  
+EDC N3    C2     SING N N 10 
+EDC C8    N3     SING Y N 11 
+EDC N3    C4     SING Y N 12 
+EDC N4    C4     DOUB Y N 13 
+EDC C4    C5     SING N N 14 
+EDC C7    N4     SING Y N 15 
+EDC C5    C6     DOUB N N 16 
+EDC C5    H5     SING N N 17 
+EDC C6    H6     SING N N 18 
+EDC C8    C7     DOUB Y N 19 
+EDC C7    H7     SING N N 20 
+EDC C8    H8     SING N N 21 
+EDC "C1'" "C2'"  SING N N 22 
+EDC "C1'" "O4'"  SING N N 23 
+EDC "C1'" "H1'"  SING N N 24 
+EDC "C2'" "C3'"  SING N N 25 
+EDC "C2'" "H2'"  SING N N 26 
+EDC "C2'" "H2''" SING N N 27 
+EDC "O3'" "C3'"  SING N N 28 
+EDC "C3'" "C4'"  SING N N 29 
+EDC "C3'" "H3'"  SING N N 30 
+EDC "O3'" "HO3'" SING N N 31 
+EDC "O4'" "C4'"  SING N N 32 
+EDC "C4'" "C5'"  SING N N 33 
+EDC "C4'" "H4'"  SING N N 34 
+EDC "O5'" "C5'"  SING N N 35 
+EDC "C5'" "H5'"  SING N N 36 
+EDC "C5'" "H5''" SING N N 37 
+EDC OP2   HOP2   SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EDC SMILES           ACDLabs              12.01 "O=P(O)(O)OCC3OC(N2C(=O)n1c(ncc1)C=C2)CC3O"                                                                                                  
+EDC InChI            InChI                1.03  "InChI=1S/C11H14N3O7P/c15-7-5-10(21-8(7)6-20-22(17,18)19)14-3-1-9-12-2-4-13(9)11(14)16/h1-4,7-8,10,15H,5-6H2,(H2,17,18,19)/t7-,8+,10+/m0/s1" 
+EDC InChIKey         InChI                1.03  GFTHJCBXWZWVBW-QXFUBDJGSA-N                                                                                                                  
+EDC SMILES_CANONICAL CACTVS               3.370 "O[C@H]1C[C@@H](O[C@@H]1CO[P](O)(O)=O)N2C=Cc3nccn3C2=O"                                                                                      
+EDC SMILES           CACTVS               3.370 "O[CH]1C[CH](O[CH]1CO[P](O)(O)=O)N2C=Cc3nccn3C2=O"                                                                                           
+EDC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cn2c(n1)C=CN(C2=O)[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O"                                                                                   
+EDC SMILES           "OpenEye OEToolkits" 1.7.6 "c1cn2c(n1)C=CN(C2=O)C3CC(C(O3)COP(=O)(O)O)O"                                                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EDC "SYSTEMATIC NAME" ACDLabs              12.01 "6-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)imidazo[1,2-c]pyrimidin-5(6H)-one"                      
+EDC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(2R,3S,5R)-3-oxidanyl-5-(5-oxidanylideneimidazo[1,2-c]pyrimidin-6-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EDC "Create component"   1999-07-08 RCSB 
+EDC "Modify descriptor"  2011-06-04 RCSB 
+EDC "Other modification" 2011-12-19 RCSB 
+EDC "Other modification" 2012-01-09 RCSB 
+# 

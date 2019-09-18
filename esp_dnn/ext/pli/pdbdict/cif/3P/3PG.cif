@@ -1,0 +1,122 @@
+data_3PG
+# 
+_chem_comp.id                                    3PG 
+_chem_comp.name                                  "3-PHOSPHOGLYCERIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         MP3 
+_chem_comp.formula_weight                        186.057 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3PG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QHF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3PG C1   C1   C 0 1 N N N -0.744 19.034 -27.524 -0.302 0.006  -2.852 C1   3PG 1  
+3PG O1   O1   O 0 1 N N N -0.531 18.455 -28.723 0.285  -0.633 -3.692 O1   3PG 2  
+3PG O2   O2   O 0 1 N N N -0.375 20.326 -27.423 -1.625 0.202  -2.964 O2   3PG 3  
+3PG C2   C2   C 0 1 N N R -1.371 18.380 -26.368 0.448  0.582  -1.680 C2   3PG 4  
+3PG O3   O3   O 0 1 N N N -0.437 17.437 -25.824 1.831  0.239  -1.785 O3   3PG 5  
+3PG C3   C3   C 0 1 N N N -2.680 17.749 -26.851 -0.121 0.012  -0.379 C3   3PG 6  
+3PG O1P  O1P  O 0 1 N N N -3.425 17.282 -25.752 0.590  0.559  0.731  O1P  3PG 7  
+3PG P    P    P 0 1 N N N -4.499 18.399 -25.160 -0.057 -0.079 2.059  P    3PG 8  
+3PG O2P  O2P  O 0 1 N N N -3.765 19.152 -23.845 0.083  -1.552 2.018  O2P  3PG 9  
+3PG O3P  O3P  O 0 1 N N N -4.731 19.624 -26.311 0.701  0.495  3.357  O3P  3PG 10 
+3PG O4P  O4P  O 0 1 N N N -5.969 17.739 -24.689 -1.618 0.307  2.134  O4P  3PG 11 
+3PG HO2  HO2  H 0 1 N N N -0.525 20.733 -26.578 -2.107 -0.167 -3.717 HO2  3PG 12 
+3PG H2   H2   H 0 1 N N N -1.624 19.089 -25.546 0.342  1.667  -1.679 H2   3PG 13 
+3PG HO3  HO3  H 0 1 N N N -0.842 17.014 -25.076 1.880  -0.726 -1.783 HO3  3PG 14 
+3PG H31  1H3  H 0 1 N N N -3.270 18.447 -27.488 -1.176 0.274  -0.299 H31  3PG 15 
+3PG H32  2H3  H 0 1 N N N -2.503 16.948 -27.606 -0.015 -1.072 -0.381 H32  3PG 16 
+3PG HOP3 3HOP H 0 0 N N N -5.346 20.263 -25.972 0.283  0.088  4.129  HOP3 3PG 17 
+3PG HOP4 4HOP H 0 0 N N N -6.584 18.378 -24.350 -1.666 1.273  2.160  HOP4 3PG 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3PG C1  O1   DOUB N N 1  
+3PG C1  O2   SING N N 2  
+3PG C1  C2   SING N N 3  
+3PG O2  HO2  SING N N 4  
+3PG C2  O3   SING N N 5  
+3PG C2  C3   SING N N 6  
+3PG C2  H2   SING N N 7  
+3PG O3  HO3  SING N N 8  
+3PG C3  O1P  SING N N 9  
+3PG C3  H31  SING N N 10 
+3PG C3  H32  SING N N 11 
+3PG O1P P    SING N N 12 
+3PG P   O2P  DOUB N N 13 
+3PG P   O3P  SING N N 14 
+3PG P   O4P  SING N N 15 
+3PG O3P HOP3 SING N N 16 
+3PG O4P HOP4 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3PG SMILES           ACDLabs              10.04 "O=P(O)(O)OCC(O)C(=O)O"                                                           
+3PG SMILES_CANONICAL CACTVS               3.341 "O[C@H](CO[P](O)(O)=O)C(O)=O"                                                     
+3PG SMILES           CACTVS               3.341 "O[CH](CO[P](O)(O)=O)C(O)=O"                                                      
+3PG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@H](C(=O)O)O)OP(=O)(O)O"                                                     
+3PG SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)O)OP(=O)(O)O"                                                         
+3PG InChI            InChI                1.03  "InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)/t2-/m1/s1" 
+3PG InChIKey         InChI                1.03  OSJPPGNTCRNQQC-UWTATZPHSA-N                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3PG "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2-hydroxy-3-(phosphonooxy)propanoic acid" 
+3PG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-hydroxy-3-phosphonooxy-propanoic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3PG "Create component"  1999-07-08 RCSB 
+3PG "Modify descriptor" 2011-06-04 RCSB 
+# 

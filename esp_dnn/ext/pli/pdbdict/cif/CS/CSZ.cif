@@ -1,0 +1,116 @@
+data_CSZ
+# 
+_chem_comp.id                                    CSZ 
+_chem_comp.name                                  "S-SELANYL CYSTEINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O2 S Se" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-09-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        200.118 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     CSZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1FFV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CSZ N   N    N  0 1 N N N 37.917 71.863 43.910 ? ? ? N   CSZ 1  
+CSZ CA  CA   C  0 1 N N R 37.658 72.164 42.499 ? ? ? CA  CSZ 2  
+CSZ C   C    C  0 1 N N N 37.257 73.595 42.152 ? ? ? C   CSZ 3  
+CSZ O   O    O  0 1 N N N 37.271 73.971 40.977 ? ? ? O   CSZ 4  
+CSZ CB  CB   C  0 1 N N N 36.616 71.205 41.934 ? ? ? CB  CSZ 5  
+CSZ SG  SG   S  0 1 N N N 34.911 71.502 42.473 ? ? ? SG  CSZ 6  
+CSZ SE  SE   SE 0 0 N N N 34.724 71.700 44.562 ? ? ? SE  CSZ 7  
+CSZ OXT OXT  O  0 1 N Y N 36.862 74.371 43.164 ? ? ? OXT CSZ 8  
+CSZ H   H    H  0 1 N N N 38.185 70.906 44.141 ? ? ? H   CSZ 9  
+CSZ H2  HN2  H  0 1 N Y N 37.106 72.132 44.468 ? ? ? H2  CSZ 10 
+CSZ HA  HA   H  0 1 N N N 38.658 72.029 42.025 ? ? ? HA  CSZ 11 
+CSZ HB2 1HB  H  0 1 N N N 36.668 71.196 40.820 ? ? ? HB2 CSZ 12 
+CSZ HB3 2HB  H  0 1 N N N 36.907 70.151 42.153 ? ? ? HB3 CSZ 13 
+CSZ HXT HXT  H  0 1 N Y N 36.612 75.261 42.948 ? ? ? HXT CSZ 14 
+CSZ HE  HSE1 H  0 1 N N N 34.680 70.339 45.192 ? ? ? HE  CSZ 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CSZ N   CA  SING N N 1  
+CSZ N   H   SING N N 2  
+CSZ N   H2  SING N N 3  
+CSZ CA  C   SING N N 4  
+CSZ CA  CB  SING N N 5  
+CSZ CA  HA  SING N N 6  
+CSZ C   O   DOUB N N 7  
+CSZ C   OXT SING N N 8  
+CSZ CB  SG  SING N N 9  
+CSZ CB  HB2 SING N N 10 
+CSZ CB  HB3 SING N N 11 
+CSZ SG  SE  SING N N 12 
+CSZ OXT HXT SING N N 13 
+CSZ HE  SE  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CSZ SMILES           ACDLabs              10.04 "O=C(O)C(N)CS[SeH]"                                                  
+CSZ SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CS[SeH])C(O)=O"                                             
+CSZ SMILES           CACTVS               3.341 "N[CH](CS[SeH])C(O)=O"                                               
+CSZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)S[SeH]"                                           
+CSZ SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)S[SeH]"                                                
+CSZ InChI            InChI                1.03  "InChI=1S/C3H7NO2SSe/c4-2(1-7-8)3(5)6/h2,8H,1,4H2,(H,5,6)/t2-/m0/s1" 
+CSZ InChIKey         InChI                1.03  KRUPEGHZMWTFPP-REOHCLBHSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CSZ "SYSTEMATIC NAME" ACDLabs              10.04 S-selanyl-L-cysteine                            
+CSZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-selanylsulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CSZ "Create component"  2000-09-05 RCSB 
+CSZ "Modify descriptor" 2011-06-04 RCSB 
+# 

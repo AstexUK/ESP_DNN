@@ -1,0 +1,124 @@
+data_HIO
+# 
+_chem_comp.id                                    HIO 
+_chem_comp.name                                  "N-HYDROXY-N-ISOPROPYLOXAMIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.129 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HIO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1YVE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HIO C1   C1   C 0 1 N N N 37.558 -7.674  11.324 0.103  -0.037 -1.795 C1   HIO 1  
+HIO O11  O11  O 0 1 N N N 38.316 -7.483  10.383 -1.038 -0.161 -2.183 O11  HIO 2  
+HIO O12  O12  O 0 1 N N N 37.327 -6.608  12.164 1.111  0.032  -2.683 O12  HIO 3  
+HIO C2   C2   C 0 1 N N N 36.642 -8.878  11.501 0.391  0.037  -0.331 C2   HIO 4  
+HIO O2   O2   O 0 1 N N N 35.705 -8.770  12.364 1.539  0.068  0.060  O2   HIO 5  
+HIO N3   N3   N 0 1 N N N 36.878 -10.103 10.862 -0.624 0.070  0.554  N3   HIO 6  
+HIO O3   O3   O 0 1 N N N 35.707 -10.780 10.516 -1.958 0.195  0.097  O3   HIO 7  
+HIO C4   C4   C 0 1 N N N 38.131 -10.443 10.095 -0.347 -0.023 1.989  C4   HIO 8  
+HIO C41  C41  C 0 1 N N N 38.937 -11.690 10.559 0.359  -1.346 2.287  C41  HIO 9  
+HIO C42  C42  C 0 1 N N N 37.687 -10.617 8.667  0.549  1.141  2.413  C42  HIO 10 
+HIO H12  H12  H 0 1 N N N 36.738 -6.756  12.894 0.925  -0.015 -3.631 H12  HIO 11 
+HIO HO3  HO3  H 0 1 N N N 35.867 -11.610 10.082 -1.914 0.350  -0.856 HO3  HIO 12 
+HIO H4   H4   H 0 1 N N N 38.858 -9.615  10.264 -1.285 0.020  2.544  H4   HIO 13 
+HIO H411 1H41 H 0 0 N N N 39.863 -11.941 9.991  0.565  -1.416 3.356  H411 HIO 14 
+HIO H412 2H41 H 0 0 N N N 39.182 -11.589 11.642 -0.279 -2.176 1.986  H412 HIO 15 
+HIO H413 3H41 H 0 0 N N N 38.263 -12.578 10.579 1.297  -1.390 1.733  H413 HIO 16 
+HIO H421 1H42 H 0 0 N N N 38.613 -10.868 8.099  1.487  1.097  1.859  H421 HIO 17 
+HIO H422 2H42 H 0 0 N N N 36.865 -11.360 8.538  0.045  2.084  2.200  H422 HIO 18 
+HIO H423 3H42 H 0 0 N N N 37.133 -9.739  8.258  0.755  1.071  3.481  H423 HIO 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HIO C1  O11  DOUB N N 1  
+HIO C1  O12  SING N N 2  
+HIO C1  C2   SING N N 3  
+HIO O12 H12  SING N N 4  
+HIO C2  O2   DOUB N N 5  
+HIO C2  N3   SING N N 6  
+HIO N3  O3   SING N N 7  
+HIO N3  C4   SING N N 8  
+HIO O3  HO3  SING N N 9  
+HIO C4  C41  SING N N 10 
+HIO C4  C42  SING N N 11 
+HIO C4  H4   SING N N 12 
+HIO C41 H411 SING N N 13 
+HIO C41 H412 SING N N 14 
+HIO C41 H413 SING N N 15 
+HIO C42 H421 SING N N 16 
+HIO C42 H422 SING N N 17 
+HIO C42 H423 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HIO SMILES           ACDLabs              10.04 "O=C(O)C(=O)N(O)C(C)C"                                        
+HIO SMILES_CANONICAL CACTVS               3.341 "CC(C)N(O)C(=O)C(O)=O"                                        
+HIO SMILES           CACTVS               3.341 "CC(C)N(O)C(=O)C(O)=O"                                        
+HIO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)N(C(=O)C(=O)O)O"                                        
+HIO SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)N(C(=O)C(=O)O)O"                                        
+HIO InChI            InChI                1.03  "InChI=1S/C5H9NO4/c1-3(2)6(10)4(7)5(8)9/h3,10H,1-2H3,(H,8,9)" 
+HIO InChIKey         InChI                1.03  QVIOSGUKMDGWNN-UHFFFAOYSA-N                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HIO "SYSTEMATIC NAME" ACDLabs              10.04 "[hydroxy(1-methylethyl)amino](oxo)acetic acid"     
+HIO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(hydroxy-propan-2-yl-amino)-2-oxo-ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HIO "Create component"  1999-07-08 RCSB 
+HIO "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,118 @@
+data_9HX
+# 
+_chem_comp.id                                    9HX 
+_chem_comp.name                                  9-DEAZAHYPOXANTHINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 N3 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-03-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        135.123 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     9HX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1I80 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+9HX C9  C9  C 0 1 Y N N 0.169  44.204 2.843 0.901  0.000  -2.051 C9  9HX 1  
+9HX C8  C8  C 0 1 Y N N -0.769 45.082 3.336 -0.371 0.000  -2.496 C8  9HX 2  
+9HX N7  N7  N 0 1 Y N N -1.326 44.604 4.472 -1.222 0.000  -1.434 N7  9HX 3  
+9HX C5  C5  C 0 1 Y N N -0.742 43.393 4.718 -0.483 -0.005 -0.274 C5  9HX 4  
+9HX C6  C6  C 0 1 Y N N -0.924 42.448 5.759 -0.808 0.000  1.097  C6  9HX 5  
+9HX O6  O6  O 0 1 N N N -1.690 42.476 6.734 -1.972 0.000  1.463  O6  9HX 6  
+9HX N1  N1  N 0 1 Y N N -0.080 41.339 5.584 0.199  0.000  1.997  N1  9HX 7  
+9HX C2  C2  C 0 1 Y N N 0.831  41.147 4.555 1.493  0.000  1.584  C2  9HX 8  
+9HX N3  N3  N 0 1 Y N N 0.990  42.044 3.584 1.817  0.000  0.323  N3  9HX 9  
+9HX C4  C4  C 0 1 Y N N 0.186  43.139 3.722 0.866  0.000  -0.640 C4  9HX 10 
+9HX H9  H9  H 0 1 N N N 0.779  44.328 1.933 1.790  0.001  -2.665 H9  9HX 11 
+9HX H8  H8  H 0 1 N N N -1.040 46.048 2.877 -0.669 0.001  -3.534 H8  9HX 12 
+9HX HN7 HN7 H 0 1 N N N -2.043 45.064 5.031 -2.191 0.000  -1.486 HN7 9HX 13 
+9HX HN1 HN1 H 0 1 N N N -0.134 40.593 6.278 -0.002 0.001  2.945  HN1 9HX 14 
+9HX H2  H2  H 0 1 N N N 1.457  40.240 4.506 2.278  0.000  2.325  H2  9HX 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+9HX C9 C8  DOUB Y N 1  
+9HX C9 C4  SING Y N 2  
+9HX C9 H9  SING N N 3  
+9HX C8 N7  SING Y N 4  
+9HX C8 H8  SING N N 5  
+9HX N7 C5  SING Y N 6  
+9HX N7 HN7 SING N N 7  
+9HX C5 C6  SING Y N 8  
+9HX C5 C4  DOUB Y N 9  
+9HX C6 O6  DOUB N N 10 
+9HX C6 N1  SING Y N 11 
+9HX N1 C2  SING Y N 12 
+9HX N1 HN1 SING N N 13 
+9HX C2 N3  DOUB Y N 14 
+9HX C2 H2  SING N N 15 
+9HX N3 C4  SING Y N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+9HX SMILES           ACDLabs              10.04 "O=C1c2c(N=CN1)ccn2"                                            
+9HX SMILES_CANONICAL CACTVS               3.341 "O=C1NC=Nc2cc[nH]c12"                                           
+9HX SMILES           CACTVS               3.341 "O=C1NC=Nc2cc[nH]c12"                                           
+9HX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c[nH]c2c1N=CNC2=O"                                           
+9HX SMILES           "OpenEye OEToolkits" 1.5.0 "c1c[nH]c2c1N=CNC2=O"                                           
+9HX InChI            InChI                1.03  "InChI=1S/C6H5N3O/c10-6-5-4(1-2-7-5)8-3-9-6/h1-3,7H,(H,8,9,10)" 
+9HX InChIKey         InChI                1.03  UWMXUDUWVFWJPX-UHFFFAOYSA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+9HX "SYSTEMATIC NAME" ACDLabs              10.04 "3,5-dihydro-4H-pyrrolo[3,2-d]pyrimidin-4-one" 
+9HX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3,5-dihydropyrrolo[2,3-e]pyrimidin-4-one"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+9HX "Create component"  2001-03-26 RCSB 
+9HX "Modify descriptor" 2011-06-04 RCSB 
+# 

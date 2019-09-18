@@ -1,0 +1,123 @@
+data_IQ0
+# 
+_chem_comp.id                                    IQ0 
+_chem_comp.name                                  "cyclopentanecarboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-03-08 
+_chem_comp.pdbx_modified_date                    2012-01-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        114.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IQ0 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2X96 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IQ0 C19  C19  C 0 1 N N N 29.233 3.581 23.964 -1.416 -0.087 -0.045 C19  IQ0 1  
+IQ0 O5   O5   O 0 1 N N N 29.630 2.564 24.547 -1.741 -1.145 0.439  O5   IQ0 2  
+IQ0 C18  C18  C 0 1 N N N 27.776 3.822 23.684 -0.005 0.116  -0.534 C18  IQ0 3  
+IQ0 C20  C20  C 0 1 N N N 27.227 4.892 24.627 0.832  -1.161 -0.312 C20  IQ0 4  
+IQ0 C21  C21  C 0 1 N N N 26.007 4.303 25.331 2.240  -0.697 0.101  C21  IQ0 5  
+IQ0 C22  C22  C 0 1 N N N 26.085 2.786 25.176 2.210  0.845  0.115  C22  IQ0 6  
+IQ0 C17  C17  C 0 1 N N N 26.872 2.641 23.911 0.714  1.194  0.315  C17  IQ0 7  
+IQ0 OXT  OXT  O 0 1 N Y N 30.012 4.570 23.521 -2.312 0.906  -0.152 OXT  IQ0 8  
+IQ0 H18  H18  H 0 1 N N N 27.766 4.096 22.619 -0.004 0.394  -1.588 H18  IQ0 9  
+IQ0 H201 H201 H 0 0 N N N 27.991 5.173 25.366 0.390  -1.763 0.482  H201 IQ0 10 
+IQ0 H202 H202 H 0 0 N N N 26.939 5.787 24.057 0.885  -1.738 -1.235 H202 IQ0 11 
+IQ0 H171 H171 H 0 0 N N N 26.172 2.563 23.066 0.496  2.193  -0.064 H171 IQ0 12 
+IQ0 H172 H172 H 0 0 N N N 27.487 1.732 23.979 0.434  1.108  1.365  H172 IQ0 13 
+IQ0 H211 H211 H 0 0 N N N 26.013 4.577 26.396 2.482  -1.074 1.095  H211 IQ0 14 
+IQ0 H212 H212 H 0 0 N N N 25.082 4.685 24.874 2.976  -1.049 -0.622 H212 IQ0 15 
+IQ0 H221 H221 H 0 0 N N N 26.587 2.309 26.031 2.805  1.232  0.942  H221 IQ0 16 
+IQ0 H222 H222 H 0 0 N N N 25.088 2.328 25.096 2.570  1.243  -0.834 H222 IQ0 17 
+IQ0 HXT  HXT  H 0 1 N N N 30.919 4.373 23.722 -3.206 0.728  0.172  HXT  IQ0 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IQ0 C19 O5   DOUB N N 1  
+IQ0 C19 C18  SING N N 2  
+IQ0 C19 OXT  SING N N 3  
+IQ0 C18 C20  SING N N 4  
+IQ0 C18 C17  SING N N 5  
+IQ0 C20 C21  SING N N 6  
+IQ0 C21 C22  SING N N 7  
+IQ0 C22 C17  SING N N 8  
+IQ0 C18 H18  SING N N 9  
+IQ0 C20 H201 SING N N 10 
+IQ0 C20 H202 SING N N 11 
+IQ0 C17 H171 SING N N 12 
+IQ0 C17 H172 SING N N 13 
+IQ0 C21 H211 SING N N 14 
+IQ0 C21 H212 SING N N 15 
+IQ0 C22 H221 SING N N 16 
+IQ0 C22 H222 SING N N 17 
+IQ0 OXT HXT  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IQ0 SMILES           ACDLabs              12.01 "O=C(O)C1CCCC1"                                         
+IQ0 SMILES_CANONICAL CACTVS               3.370 "OC(=O)C1CCCC1"                                         
+IQ0 SMILES           CACTVS               3.370 "OC(=O)C1CCCC1"                                         
+IQ0 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1CCC(C1)C(=O)O"                                       
+IQ0 SMILES           "OpenEye OEToolkits" 1.7.0 "C1CCC(C1)C(=O)O"                                       
+IQ0 InChI            InChI                1.03  "InChI=1S/C6H10O2/c7-6(8)5-3-1-2-4-5/h5H,1-4H2,(H,7,8)" 
+IQ0 InChIKey         InChI                1.03  JBDSSBMEKXHSJF-UHFFFAOYSA-N                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IQ0 "SYSTEMATIC NAME" ACDLabs              12.01 "cyclopentanecarboxylic acid" 
+IQ0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "cyclopentanecarboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IQ0 "Create component"  2011-03-08 EBI  
+IQ0 "Modify descriptor" 2011-06-04 RCSB 
+# 

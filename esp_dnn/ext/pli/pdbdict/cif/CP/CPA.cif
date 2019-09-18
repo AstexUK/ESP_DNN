@@ -1,0 +1,217 @@
+data_CPA
+# 
+_chem_comp.id                                    CPA 
+_chem_comp.name                                  "2'-DEOXYCYTIDINE-2'-DEOXYADENOSINE-3',5'-MONOPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H25 N8 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        540.424 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CPA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1RPG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CPA P    P      P 0 1 N N R 29.672 17.229 5.732  -1.233 -0.102 0.977  P    CPA 1  
+CPA O1P  O1P    O 0 1 N N N 30.011 17.950 6.971  -2.410 -0.840 1.486  O1P  CPA 2  
+CPA O2P  O2P    O 0 1 N N N 28.375 17.414 5.056  0.052  -1.071 0.982  O2P  CPA 3  
+CPA O5D  "CO5'" O 0 1 N N N 33.553 14.187 5.073  -3.819 1.223  5.310  O5D  CPA 4  
+CPA C5X  "CC5'" C 0 1 N N N 32.462 13.299 4.923  -2.975 0.588  4.348  C5X  CPA 5  
+CPA C4X  "CC4'" C 0 1 N N R 31.350 13.662 5.866  -1.639 1.330  4.272  C4X  CPA 6  
+CPA O4D  "CO4'" O 0 1 N N N 31.440 12.903 7.083  -0.913 1.207  5.516  O4D  CPA 7  
+CPA C3X  "CC3'" C 0 1 N N S 31.225 15.114 6.247  -0.701 0.663  3.235  C3X  CPA 8  
+CPA O3D  "CO3'" O 0 1 N N N 29.966 15.692 5.896  -0.949 1.170  1.922  O3D  CPA 9  
+CPA C2X  "CC2'" C 0 1 N N N 31.499 15.151 7.727  0.697  1.093  3.738  C2X  CPA 10 
+CPA C1X  "CC1'" C 0 1 N N R 31.287 13.731 8.220  0.470  1.459  5.218  C1X  CPA 11 
+CPA N1C  CN1    N 0 1 N N N 32.294 13.362 9.246  1.323  0.630  6.073  N1C  CPA 12 
+CPA CC2  CC2    C 0 1 N N N 31.937 13.672 10.537 1.198  -0.709 6.045  CC2  CPA 13 
+CPA N3C  CN3    N 0 1 N N N 32.813 13.368 11.505 1.961  -1.486 6.812  N3C  CPA 14 
+CPA CC4  CC4    C 0 1 N N N 33.977 12.802 11.279 2.866  -0.957 7.625  CC4  CPA 15 
+CPA CC5  CC5    C 0 1 N N N 34.372 12.470 9.933  3.018  0.443  7.681  CC5  CPA 16 
+CPA CC6  CC6    C 0 1 N N N 33.509 12.766 8.954  2.239  1.219  6.892  CC6  CPA 17 
+CPA O2C  CO2    O 0 1 N N N 30.850 14.210 10.691 0.373  -1.219 5.306  O2C  CPA 18 
+CPA N4C  CN4    N 0 1 N N N 34.789 12.535 12.303 3.648  -1.770 8.413  N4C  CPA 19 
+CPA O5B  "AO5'" O 0 1 N N N 30.775 17.682 4.616  -1.521 0.398  -0.525 O5B  CPA 20 
+CPA C5B  "AC5'" C 0 1 N N N 30.571 17.371 3.249  -1.765 -0.769 -1.310 C5B  CPA 21 
+CPA C4B  "AC4'" C 0 1 N N R 30.276 18.599 2.429  -2.047 -0.361 -2.757 C4B  CPA 22 
+CPA O4B  "AO4'" O 0 1 N N N 31.302 19.603 2.627  -0.891 0.275  -3.341 O4B  CPA 23 
+CPA C3B  "AC3'" C 0 1 N N S 30.199 18.375 0.925  -2.261 -1.614 -3.645 C3B  CPA 24 
+CPA O3B  "AO3'" O 0 1 N N N 29.140 19.160 0.367  -3.623 -2.045 -3.609 O3B  CPA 25 
+CPA C2B  "AC2'" C 0 1 N N N 31.570 18.831 0.441  -1.888 -1.079 -5.052 C2B  CPA 26 
+CPA C1B  "AC1'" C 0 1 N N R 31.829 20.006 1.374  -1.026 0.165  -4.768 C1B  CPA 27 
+CPA N9A  AN9    N 0 1 Y N N 33.263 20.283 1.573  0.293  0.012  -5.383 N9A  CPA 28 
+CPA C8A  AC8    C 0 1 Y N N 34.321 19.435 1.723  1.391  -0.552 -4.806 C8A  CPA 29 
+CPA N7A  AN7    N 0 1 Y N N 35.462 20.083 1.890  2.394  -0.523 -5.636 N7A  CPA 30 
+CPA C5A  AC5    C 0 1 Y N N 35.107 21.434 1.842  2.004  0.059  -6.795 C5A  CPA 31 
+CPA C6A  AC6    C 0 1 Y N N 35.912 22.606 1.951  2.636  0.356  -8.014 C6A  CPA 32 
+CPA N6A  AN6    N 0 1 N N N 37.219 22.598 2.137  3.967  0.034  -8.218 N6A  CPA 33 
+CPA N1A  AN1    N 0 1 Y N N 35.253 23.809 1.861  1.927  0.953  -8.966 N1A  CPA 34 
+CPA C2A  AC2    C 0 1 Y N N 33.943 23.768 1.672  0.658  1.264  -8.780 C2A  CPA 35 
+CPA N3A  AN3    N 0 1 Y N N 33.106 22.738 1.553  0.024  1.005  -7.656 N3A  CPA 36 
+CPA C4A  AC4    C 0 1 Y N N 33.738 21.566 1.646  0.649  0.405  -6.649 C4A  CPA 37 
+CPA HOP2 2HOP   H 0 0 N N N 28.156 16.949 4.256  0.794  -0.552 0.645  HOP2 CPA 38 
+CPA HO5C CHO5   H 0 0 N N N 34.256 13.957 4.476  -4.648 0.725  5.327  HO5C CPA 39 
+CPA H51C CH51   H 0 0 N N N 32.109 13.251 3.866  -3.458 0.608  3.371  H51C CPA 40 
+CPA H52C CH52   H 0 0 N N N 32.774 12.235 5.042  -2.799 -0.445 4.645  H52C CPA 41 
+CPA H4D  "CH4'" H 0 1 N N N 30.440 13.416 5.269  -1.799 2.380  4.026  H4D  CPA 42 
+CPA H3D  "CH3'" H 0 1 N N N 31.948 15.742 5.677  -0.806 -0.421 3.257  H3D  CPA 43 
+CPA H21C CH21   H 0 0 N N N 32.499 15.569 7.985  1.053  1.959  3.181  H21C CPA 44 
+CPA H22C CH22   H 0 0 N N N 30.892 15.909 8.274  1.403  0.267  3.654  H22C CPA 45 
+CPA H1D  "CH1'" H 0 1 N N N 30.283 13.621 8.693  0.697  2.513  5.378  H1D  CPA 46 
+CPA H5C  CH5    H 0 1 N N N 35.326 11.993 9.654  3.750  0.889  8.338  H5C  CPA 47 
+CPA H6C  CH6    H 0 1 N N N 33.796 12.521 7.917  2.340  2.294  6.914  H6C  CPA 48 
+CPA H41C CH41   H 0 0 N N N 35.692 12.095 12.127 3.538  -2.733 8.375  H41C CPA 49 
+CPA H42C CH42   H 0 0 N N N 34.279 11.970 12.983 4.311  -1.381 9.003  H42C CPA 50 
+CPA H51A AH51   H 0 0 N N N 31.434 16.802 2.830  -0.888 -1.417 -1.279 H51A CPA 51 
+CPA H52A AH52   H 0 0 N N N 29.775 16.600 3.123  -2.625 -1.304 -0.909 H52A CPA 52 
+CPA H4B  "AH4'" H 0 1 N N N 29.270 18.917 2.790  -2.914 0.296  -2.807 H4B  CPA 53 
+CPA H3B  "AH3'" H 0 1 N N N 29.976 17.323 0.628  -1.591 -2.419 -3.345 H3B  CPA 54 
+CPA HO3A AHO3   H 0 0 N N N 29.092 19.020 -0.571 -3.705 -2.765 -4.249 HO3A CPA 55 
+CPA H21A AH21   H 0 0 N N N 32.360 18.044 0.428  -2.787 -0.804 -5.603 H21A CPA 56 
+CPA H22A AH22   H 0 0 N N N 31.643 19.058 -0.648 -1.314 -1.823 -5.604 H22A CPA 57 
+CPA H1B  "AH1'" H 0 1 N N N 31.371 20.927 0.943  -1.519 1.054  -5.163 H1B  CPA 58 
+CPA H8A  AH8    H 0 1 N N N 34.259 18.333 1.710  1.425  -0.962 -3.808 H8A  CPA 59 
+CPA H61A AH61   H 0 0 N N N 37.794 23.436 2.215  4.392  0.244  -9.064 H61A CPA 60 
+CPA H62A AH62   H 0 0 N N N 37.621 22.029 1.392  4.473  -0.401 -7.515 H62A CPA 61 
+CPA H2A  AH2    H 0 1 N N N 33.468 24.761 1.601  0.119  1.749  -9.581 H2A  CPA 62 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CPA P   O1P  DOUB N N 1  
+CPA P   O2P  SING N N 2  
+CPA P   O3D  SING N N 3  
+CPA P   O5B  SING N N 4  
+CPA O2P HOP2 SING N N 5  
+CPA O5D C5X  SING N N 6  
+CPA O5D HO5C SING N N 7  
+CPA C5X C4X  SING N N 8  
+CPA C5X H51C SING N N 9  
+CPA C5X H52C SING N N 10 
+CPA C4X O4D  SING N N 11 
+CPA C4X C3X  SING N N 12 
+CPA C4X H4D  SING N N 13 
+CPA O4D C1X  SING N N 14 
+CPA C3X O3D  SING N N 15 
+CPA C3X C2X  SING N N 16 
+CPA C3X H3D  SING N N 17 
+CPA C2X C1X  SING N N 18 
+CPA C2X H21C SING N N 19 
+CPA C2X H22C SING N N 20 
+CPA C1X N1C  SING N N 21 
+CPA C1X H1D  SING N N 22 
+CPA N1C CC2  SING N N 23 
+CPA N1C CC6  SING N N 24 
+CPA CC2 N3C  SING N N 25 
+CPA CC2 O2C  DOUB N N 26 
+CPA N3C CC4  DOUB N N 27 
+CPA CC4 CC5  SING N N 28 
+CPA CC4 N4C  SING N N 29 
+CPA CC5 CC6  DOUB N N 30 
+CPA CC5 H5C  SING N N 31 
+CPA CC6 H6C  SING N N 32 
+CPA N4C H41C SING N N 33 
+CPA N4C H42C SING N N 34 
+CPA O5B C5B  SING N N 35 
+CPA C5B C4B  SING N N 36 
+CPA C5B H51A SING N N 37 
+CPA C5B H52A SING N N 38 
+CPA C4B O4B  SING N N 39 
+CPA C4B C3B  SING N N 40 
+CPA C4B H4B  SING N N 41 
+CPA O4B C1B  SING N N 42 
+CPA C3B O3B  SING N N 43 
+CPA C3B C2B  SING N N 44 
+CPA C3B H3B  SING N N 45 
+CPA O3B HO3A SING N N 46 
+CPA C2B C1B  SING N N 47 
+CPA C2B H21A SING N N 48 
+CPA C2B H22A SING N N 49 
+CPA C1B N9A  SING N N 50 
+CPA C1B H1B  SING N N 51 
+CPA N9A C8A  SING Y N 52 
+CPA N9A C4A  SING Y N 53 
+CPA C8A N7A  DOUB Y N 54 
+CPA C8A H8A  SING N N 55 
+CPA N7A C5A  SING Y N 56 
+CPA C5A C6A  SING Y N 57 
+CPA C5A C4A  DOUB Y N 58 
+CPA C6A N6A  SING N N 59 
+CPA C6A N1A  DOUB Y N 60 
+CPA N6A H61A SING N N 61 
+CPA N6A H62A SING N N 62 
+CPA N1A C2A  SING Y N 63 
+CPA C2A N3A  DOUB Y N 64 
+CPA C2A H2A  SING N N 65 
+CPA N3A C4A  SING Y N 66 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CPA SMILES           ACDLabs              10.04 "O=C1N=C(N)C=CN1C5OC(CO)C(OP(=O)(O)OCC4OC(n3cnc2c(ncnc23)N)CC4O)C5" 
+CPA SMILES_CANONICAL CACTVS               3.341 "NC1=NC(=O)N(C=C1)[C@H]2C[C@H](O[P@@](O)(=O)OC[C@H]3O[C@H](C[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](CO)O2" 
+CPA SMILES           CACTVS               3.341 "NC1=NC(=O)N(C=C1)[CH]2C[CH](O[P](O)(=O)OC[CH]3O[CH](C[CH]3O)n4cnc5c(N)ncnc45)[CH](CO)O2" 
+CPA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3C[C@@H]([C@H](O3)CO[P@@](=O)(O)O[C@H]4C[C@@H](O[C@@H]4CO)N5C=CC(=NC5=O)N)O)N" 
+CPA SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3CC(C(O3)COP(=O)(O)OC4CC(OC4CO)N5C=CC(=NC5=O)N)O)N" 
+CPA InChI            InChI                1.03  
+"InChI=1S/C19H25N8O9P/c20-13-1-2-26(19(30)25-13)15-4-10(11(5-28)34-15)36-37(31,32)33-6-12-9(29)3-14(35-12)27-8-24-16-17(21)22-7-23-18(16)27/h1-2,7-12,14-15,28-29H,3-6H2,(H,31,32)(H2,20,25,30)(H2,21,22,23)/t9-,10-,11+,12+,14+,15+/m0/s1" 
+CPA InChIKey         InChI                1.03  LYWWDKIADIGKTH-IDMWBNCISA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CPA "SYSTEMATIC NAME" ACDLabs              10.04 
+"(2R,3S,5R)-5-(4-amino-2-oxopyrimidin-1(2H)-yl)-2-(hydroxymethyl)tetrahydrofuran-3-yl [(2R,3S,5R)-5-(6-amino-9H-purin-9-yl)-3-hydroxytetrahydrofuran-2-yl]methyl hydrogen (R)-phosphate (non-preferred name)" 
+CPA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(4-amino-2-oxo-pyrimidin-1-yl)-2-(hydroxymethyl)oxolan-3-yl] [(2R,3S,5R)-5-(6-aminopurin-9-yl)-3-hydroxy-oxolan-2-yl]methyl hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CPA "Create component"  1999-07-08 RCSB 
+CPA "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,166 @@
+data_IFS
+# 
+_chem_comp.id                                    IFS 
+_chem_comp.name                                  "bis(1-methylethyl) [2-(sulfanylmethyl)phenyl]phosphonate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H21 O3 P S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Diisopropyl 2-(sulfanylmethyl)phenylphosphonate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-08-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        288.343 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IFS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3IOF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IFS C1   C1   C 0 1 Y N N 3.591 48.781 48.759 1.251  -0.955 -0.142 C1   IFS 1  
+IFS O1   O1   O 0 1 N N N 5.161 50.802 47.722 -0.735 -0.508 -1.911 O1   IFS 2  
+IFS P1   P1   P 0 1 N N N 5.151 49.288 48.201 -0.456 -0.428 -0.460 P1   IFS 3  
+IFS S1   S1   S 0 1 N N N 3.575 45.388 46.861 1.874  2.418  0.767  S1   IFS 4  
+IFS C2   C2   C 0 1 Y N N 3.208 47.331 48.872 2.290  -0.054 -0.282 C2   IFS 5  
+IFS C3   C3   C 0 1 Y N N 1.925 47.081 49.354 3.590  -0.455 -0.034 C3   IFS 6  
+IFS C4   C4   C 0 1 Y N N 1.052 48.117 49.712 3.850  -1.756 0.353  C4   IFS 7  
+IFS C5   C5   C 0 1 Y N N 1.429 49.449 49.598 2.811  -2.657 0.492  C5   IFS 8  
+IFS C6   C6   C 0 1 Y N N 2.695 49.778 49.120 1.512  -2.257 0.244  C6   IFS 9  
+IFS C7   C7   C 0 1 N N N 4.070 46.118 48.474 2.005  1.364  -0.703 C7   IFS 10 
+IFS C101 C101 C 0 0 N N N 6.887 51.301 50.366 -1.531 3.014  -1.127 C101 IFS 11 
+IFS C102 C102 C 0 0 N N N 7.476 46.631 46.774 -3.549 -1.153 1.549  C102 IFS 12 
+IFS O21  O21  O 0 1 N N N 5.742 48.274 47.110 -1.472 -1.390 0.337  O21  IFS 13 
+IFS O22  O22  O 0 1 N N N 6.136 49.191 49.450 -0.650 1.090  0.041  O22  IFS 14 
+IFS C81  C81  C 0 1 N N N 5.919 50.124 50.519 -1.843 1.841  -0.196 C81  IFS 15 
+IFS C82  C82  C 0 1 N N N 7.147 48.117 46.851 -2.890 -1.325 0.179  C82  IFS 16 
+IFS C91  C91  C 0 1 N N N 6.058 49.383 51.845 -2.382 2.374  1.133  C91  IFS 17 
+IFS C92  C92  C 0 1 N N N 7.431 48.837 45.549 -3.391 -2.617 -0.469 C92  IFS 18 
+IFS HS1  HS1  H 0 1 N N N 4.419 44.407 46.738 1.624  3.633  0.248  HS1  IFS 19 
+IFS H3   H3   H 0 1 N N N 1.593 46.058 49.455 4.402  0.249  -0.144 H3   IFS 20 
+IFS H4   H4   H 0 1 N N N 0.067 47.875 50.084 4.866  -2.069 0.545  H4   IFS 21 
+IFS H5   H5   H 0 1 N N N 0.739 50.231 49.880 3.015  -3.674 0.794  H5   IFS 22 
+IFS H6   H6   H 0 1 N N N 2.982 50.815 49.030 0.700  -2.961 0.353  H6   IFS 23 
+IFS H7   H7   H 0 1 N N N 3.962 45.347 49.251 1.068  1.397  -1.259 H7   IFS 24 
+IFS H7A  H7A  H 0 1 N N N 5.117 46.447 48.399 2.816  1.724  -1.337 H7A  IFS 25 
+IFS H101 H101 H 0 0 N N N 6.724 52.019 51.183 -0.783 3.657  -0.663 H101 IFS 26 
+IFS H10A H10A H 0 0 N N N 7.922 50.931 50.404 -1.146 2.635  -2.073 H10A IFS 27 
+IFS H10B H10B H 0 0 N N N 6.710 51.798 49.401 -2.440 3.587  -1.307 H10B IFS 28 
+IFS H102 H102 H 0 0 N N N 8.550 46.503 46.576 -3.256 -0.194 1.976  H102 IFS 29 
+IFS H10C H10C H 0 0 N N N 7.219 46.149 47.729 -4.633 -1.186 1.438  H10C IFS 30 
+IFS H10D H10D H 0 0 N N N 6.896 46.169 45.962 -3.227 -1.958 2.211  H10D IFS 31 
+IFS H81  H81  H 0 1 N N N 4.905 50.550 50.490 -2.591 1.198  -0.660 H81  IFS 32 
+IFS H82  H82  H 0 1 N N N 7.774 48.543 47.648 -3.147 -0.477 -0.456 H82  IFS 33 
+IFS H91  H91  H 0 1 N N N 5.334 48.556 51.881 -3.342 2.862  0.966  H91  IFS 34 
+IFS H91A H91A H 0 0 N N N 7.078 48.981 51.935 -2.512 1.546  1.831  H91A IFS 35 
+IFS H91B H91B H 0 0 N N N 5.862 50.078 52.675 -1.676 3.093  1.549  H91B IFS 36 
+IFS H92  H92  H 0 1 N N N 7.178 49.902 45.656 -4.473 -2.568 -0.590 H92  IFS 37 
+IFS H92A H92A H 0 0 N N N 8.498 48.737 45.300 -2.921 -2.740 -1.445 H92A IFS 38 
+IFS H92B H92B H 0 0 N N N 6.824 48.395 44.746 -3.134 -3.465 0.166  H92B IFS 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IFS P1   C1   SING N N 1  
+IFS C1   C2   DOUB Y N 2  
+IFS C1   C6   SING Y N 3  
+IFS O1   P1   DOUB N N 4  
+IFS O21  P1   SING N N 5  
+IFS P1   O22  SING N N 6  
+IFS S1   C7   SING N N 7  
+IFS S1   HS1  SING N N 8  
+IFS C7   C2   SING N N 9  
+IFS C2   C3   SING Y N 10 
+IFS C3   C4   DOUB Y N 11 
+IFS C3   H3   SING N N 12 
+IFS C5   C4   SING Y N 13 
+IFS C4   H4   SING N N 14 
+IFS C6   C5   DOUB Y N 15 
+IFS C5   H5   SING N N 16 
+IFS C6   H6   SING N N 17 
+IFS C7   H7   SING N N 18 
+IFS C7   H7A  SING N N 19 
+IFS C101 C81  SING N N 20 
+IFS C101 H101 SING N N 21 
+IFS C101 H10A SING N N 22 
+IFS C101 H10B SING N N 23 
+IFS C102 C82  SING N N 24 
+IFS C102 H102 SING N N 25 
+IFS C102 H10C SING N N 26 
+IFS C102 H10D SING N N 27 
+IFS C82  O21  SING N N 28 
+IFS O22  C81  SING N N 29 
+IFS C81  C91  SING N N 30 
+IFS C81  H81  SING N N 31 
+IFS C92  C82  SING N N 32 
+IFS C82  H82  SING N N 33 
+IFS C91  H91  SING N N 34 
+IFS C91  H91A SING N N 35 
+IFS C91  H91B SING N N 36 
+IFS C92  H92  SING N N 37 
+IFS C92  H92A SING N N 38 
+IFS C92  H92B SING N N 39 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IFS SMILES           ACDLabs              11.02 "O=P(OC(C)C)(OC(C)C)c1ccccc1CS"                                                                 
+IFS SMILES_CANONICAL CACTVS               3.352 "CC(C)O[P](=O)(OC(C)C)c1ccccc1CS"                                                               
+IFS SMILES           CACTVS               3.352 "CC(C)O[P](=O)(OC(C)C)c1ccccc1CS"                                                               
+IFS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)OP(=O)(c1ccccc1CS)OC(C)C"                                                                 
+IFS SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)OP(=O)(c1ccccc1CS)OC(C)C"                                                                 
+IFS InChI            InChI                1.03  "InChI=1S/C13H21O3PS/c1-10(2)15-17(14,16-11(3)4)13-8-6-5-7-12(13)9-18/h5-8,10-11,18H,9H2,1-4H3" 
+IFS InChIKey         InChI                1.03  JFZVPWMZPZJUTE-UHFFFAOYSA-N                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IFS "SYSTEMATIC NAME" ACDLabs              11.02 "dipropan-2-yl [2-(sulfanylmethyl)phenyl]phosphonate" 
+IFS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "[2-di(propan-2-yloxy)phosphorylphenyl]methanethiol"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IFS "Create component"     2009-08-18 PDBJ 
+IFS "Modify aromatic_flag" 2011-06-04 RCSB 
+IFS "Modify descriptor"    2011-06-04 RCSB 
+# 

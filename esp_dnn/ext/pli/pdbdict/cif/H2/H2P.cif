@@ -1,0 +1,151 @@
+data_H2P
+# 
+_chem_comp.id                                    H2P 
+_chem_comp.name                                  HEPTULOSE-2-PHOSPHATE 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C7 H15 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        274.162 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     H2P 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        6GPB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+H2P C1   C1   C 0 1 N N R 33.483 23.008 27.832 0.832  -0.639 0.035  C1   H2P 1  
+H2P C2   C2   C 0 1 N N R 33.687 23.171 26.331 1.516  -0.540 -1.330 C2   H2P 2  
+H2P C3   C3   C 0 1 N N S 32.477 22.615 25.591 0.747  0.459  -2.201 C3   H2P 3  
+H2P C4   C4   C 0 1 N N S 32.301 21.140 25.921 -0.728 0.044  -2.238 C4   H2P 4  
+H2P C5   C5   C 0 1 N N R 32.112 20.969 27.424 -1.241 -0.098 -0.803 C5   H2P 5  
+H2P C6   C6   C 0 1 N N N 32.040 19.493 27.790 -2.722 -0.480 -0.831 C6   H2P 6  
+H2P C7   C7   C 0 1 N N N 34.700 23.475 28.616 1.612  -1.610 0.925  C7   H2P 7  
+H2P O1   O1   O 0 1 N N N 32.322 23.833 28.198 0.808  0.651  0.648  O1   H2P 8  
+H2P O2   O2   O 0 1 N N N 33.855 24.590 26.003 2.862  -0.091 -1.161 O2   H2P 9  
+H2P O3   O3   O 0 1 N N N 32.669 22.780 24.144 1.280  0.453  -3.527 O3   H2P 10 
+H2P O4   O4   O 0 1 N N N 31.129 20.614 25.211 -1.490 1.042  -2.921 O4   H2P 11 
+H2P O5   O5   O 0 1 N N N 33.243 21.587 28.134 -0.503 -1.113 -0.125 O5   H2P 12 
+H2P O6   O6   O 0 1 N N N 33.281 18.805 27.405 -3.206 -0.608 0.507  O6   H2P 13 
+H2P P    P    P 0 1 N N N 31.512 25.030 27.503 0.243  0.446  2.142  P    H2P 14 
+H2P OP1  OP1  O 0 1 N N N 30.386 24.483 26.524 1.227  -0.316 2.941  OP1  H2P 15 
+H2P OP2  OP2  O 0 1 N N N 30.824 25.866 28.677 -0.003 1.884  2.824  OP2  H2P 16 
+H2P OP3  OP3  O 0 1 N N N 32.515 25.948 26.681 -1.145 -0.365 2.084  OP3  H2P 17 
+H2P H2   H2   H 0 1 N N N 34.601 22.613 26.021 1.515  -1.518 -1.810 H2   H2P 18 
+H2P H3   H3   H 0 1 N N N 31.564 23.170 25.909 0.835  1.459  -1.776 H3   H2P 19 
+H2P H4   H4   H 0 1 N N N 33.209 20.578 25.599 -0.826 -0.908 -2.757 H4   H2P 20 
+H2P H5   H5   H 0 1 N N N 31.157 21.462 27.721 -1.121 0.848  -0.279 H5   H2P 21 
+H2P H61  1H6  H 0 1 N N N 31.801 19.344 28.869 -3.288 0.294  -1.349 H61  H2P 22 
+H2P H62  2H6  H 0 1 N N N 31.140 19.000 27.352 -2.844 -1.429 -1.353 H62  H2P 23 
+H2P H71  1H7  H 0 1 N N N 34.550 23.355 29.714 0.999  -1.891 1.781  H71  H2P 24 
+H2P H72  2H7  H 0 1 N N N 35.627 22.960 28.272 1.867  -2.502 0.353  H72  H2P 25 
+H2P H73  3H7  H 0 1 N N N 34.976 24.523 28.353 2.525  -1.129 1.274  H73  H2P 26 
+H2P HO2  HO2  H 0 1 N N N 33.982 24.691 25.067 3.251  -0.037 -2.045 HO2  H2P 27 
+H2P HO3  HO3  H 0 1 N N N 31.914 22.433 23.682 0.759  1.086  -4.040 HO3  H2P 28 
+H2P HO4  HO4  H 0 1 N N N 31.019 19.693 25.417 -2.409 0.744  -2.914 HO4  H2P 29 
+H2P HO6  HO6  H 0 1 N N N 33.236 17.884 27.633 -4.141 -0.849 0.445  HO6  H2P 30 
+H2P HOP2 2HOP H 0 0 N N N 30.344 26.575 28.265 -0.340 1.716  3.714  HOP2 H2P 31 
+H2P HOP3 3HOP H 0 0 N N N 32.035 26.657 26.269 -1.757 0.164  1.555  HOP3 H2P 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+H2P C1  C2   SING N N 1  
+H2P C1  C7   SING N N 2  
+H2P C1  O1   SING N N 3  
+H2P C1  O5   SING N N 4  
+H2P C2  C3   SING N N 5  
+H2P C2  O2   SING N N 6  
+H2P C2  H2   SING N N 7  
+H2P C3  C4   SING N N 8  
+H2P C3  O3   SING N N 9  
+H2P C3  H3   SING N N 10 
+H2P C4  C5   SING N N 11 
+H2P C4  O4   SING N N 12 
+H2P C4  H4   SING N N 13 
+H2P C5  C6   SING N N 14 
+H2P C5  O5   SING N N 15 
+H2P C5  H5   SING N N 16 
+H2P C6  O6   SING N N 17 
+H2P C6  H61  SING N N 18 
+H2P C6  H62  SING N N 19 
+H2P C7  H71  SING N N 20 
+H2P C7  H72  SING N N 21 
+H2P C7  H73  SING N N 22 
+H2P O1  P    SING N N 23 
+H2P O2  HO2  SING N N 24 
+H2P O3  HO3  SING N N 25 
+H2P O4  HO4  SING N N 26 
+H2P O6  HO6  SING N N 27 
+H2P P   OP1  DOUB N N 28 
+H2P P   OP2  SING N N 29 
+H2P P   OP3  SING N N 30 
+H2P OP2 HOP2 SING N N 31 
+H2P OP3 HOP3 SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+H2P SMILES           ACDLabs              10.04 "O=P(OC1(OC(C(O)C(O)C1O)CO)C)(O)O"                                                                                      
+H2P SMILES_CANONICAL CACTVS               3.341 "C[C@@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)O[P](O)(O)=O"                                                               
+H2P SMILES           CACTVS               3.341 "C[C]1(O[CH](CO)[CH](O)[CH](O)[CH]1O)O[P](O)(O)=O"                                                                      
+H2P SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)OP(=O)(O)O"                                                               
+H2P SMILES           "OpenEye OEToolkits" 1.5.0 "CC1(C(C(C(C(O1)CO)O)O)O)OP(=O)(O)O"                                                                                    
+H2P InChI            InChI                1.03  "InChI=1S/C7H15O9P/c1-7(16-17(12,13)14)6(11)5(10)4(9)3(2-8)15-7/h3-6,8-11H,2H2,1H3,(H2,12,13,14)/t3-,4-,5+,6-,7-/m1/s1" 
+H2P InChIKey         InChI                1.03  QZBAZODTRUGOQS-XUUWZHRGSA-N                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+H2P "SYSTEMATIC NAME" ACDLabs              10.04 1-deoxy-2-O-phosphono-alpha-D-gluco-hept-2-ulopyranose                                          
+H2P "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)-2-methyl-oxan-2-yl] dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+H2P "Create component"  1999-07-08 EBI  
+H2P "Modify descriptor" 2011-06-04 RCSB 
+# 

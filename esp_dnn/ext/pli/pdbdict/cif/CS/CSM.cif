@@ -1,0 +1,172 @@
+data_CSM
+# 
+_chem_comp.id                                    CSM 
+_chem_comp.name                                  "1-{2,5-anhydro-6-O-methyl-4-[(phosphonooxy)methyl]-alpha-L-mannofuranosyl}pyrimidine-2,4(1H,3H)-dione" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C12 H17 N2 O10 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-01-11 
+_chem_comp.pdbx_modified_date                    2012-06-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        380.245 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CSM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UKE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CSM P      P      P 0 1 N N N 4.480  6.337 -7.781 -3.714 -2.002 0.187  P      CSM 1  
+CSM N1     N1     N 0 1 N N N 0.118  3.667 -5.751 2.842  -0.126 0.386  N1     CSM 2  
+CSM C2     C2     C 0 1 N N N -0.950 2.909 -5.501 4.031  0.369  0.774  C2     CSM 3  
+CSM O2     O2     O 0 1 N N N -1.683 3.157 -4.377 4.068  1.385  1.440  O2     CSM 4  
+CSM N3     N3     N 0 1 N N N -1.309 1.905 -6.331 5.180  -0.245 0.436  N3     CSM 5  
+CSM C4     C4     C 0 1 N N N -0.571 1.666 -7.428 5.157  -1.373 -0.301 C4     CSM 6  
+CSM O4     O4     O 0 1 N N N -0.932 0.654 -8.231 6.196  -1.930 -0.607 O4     CSM 7  
+CSM C5     C5     C 0 1 N N N 0.559  2.440 -7.718 3.912  -1.906 -0.717 C5     CSM 8  
+CSM C6     C6     C 0 1 N N N 0.894  3.451 -6.824 2.775  -1.272 -0.359 C6     CSM 9  
+CSM "C1'"  "C1'"  C 0 1 N N R 0.374  4.804 -4.844 1.608  0.564  0.769  "C1'"  CSM 10 
+CSM "C2'"  "C2'"  C 0 1 N N R 1.223  4.479 -3.632 1.286  1.701  -0.251 "C2'"  CSM 11 
+CSM O2A    O2A    O 0 1 N N N 1.122  5.643 -2.772 0.214  2.450  0.390  O2A    CSM 12 
+CSM "C3'"  "C3'"  C 0 1 N N S 2.587  4.635 -4.252 0.482  0.864  -1.310 "C3'"  CSM 13 
+CSM "O3'"  "O3'"  O 0 1 N N N 3.608  4.679 -3.237 -0.212 1.688  -2.248 "O3'"  CSM 14 
+CSM "C4'"  "C4'"  C 0 1 N N R 2.256  6.053 -4.721 -0.474 0.247  -0.226 "C4'"  CSM 15 
+CSM "O4'"  "O4'"  O 0 1 N N N 1.106  5.844 -5.535 0.487  -0.340 0.698  "O4'"  CSM 16 
+CSM "C5'"  "C5'"  C 0 1 N N N 3.374  6.738 -5.478 -1.592 -0.664 -0.734 "C5'"  CSM 17 
+CSM "O5'"  "O5'"  O 0 1 N N N 3.866  5.795 -6.429 -2.432 -1.043 0.358  "O5'"  CSM 18 
+CSM "C6'"  "C6'"  C 0 1 N N S 1.698  6.758 -3.489 -0.919 1.563  0.486  "C6'"  CSM 19 
+CSM "C7'"  "C7'"  C 0 1 N N N 2.763  7.521 -2.696 -2.128 2.169  -0.228 "C7'"  CSM 20 
+CSM "O8'"  "O8'"  O 0 1 N N N 2.211  7.901 -1.436 -2.593 3.306  0.503  "O8'"  CSM 21 
+CSM "C9'"  "C9'"  C 0 1 N N N 1.380  9.049 -1.507 -3.727 3.950  -0.083 "C9'"  CSM 22 
+CSM OP1    OP1    O 0 1 N N N 5.513  7.393 -7.432 -4.817 -1.266 -0.727 OP1    CSM 23 
+CSM OP2    OP2    O 0 1 N N N 4.800  5.129 -8.616 -3.301 -3.267 -0.460 OP2    CSM 24 
+CSM OP3    OP3    O 0 1 N Y N 3.389  7.221 -8.529 -4.343 -2.319 1.635  OP3    CSM 25 
+CSM H5     H5     H 0 1 N N N 1.149  2.258 -8.604 3.873  -2.808 -1.308 H5     CSM 26 
+CSM H6     H6     H 0 1 N N N 1.772  4.057 -6.992 1.816  -1.664 -0.667 H6     CSM 27 
+CSM "H1'"  "H1'"  H 0 1 N N N -0.589 5.206 -4.496 1.702  0.974  1.774  "H1'"  CSM 28 
+CSM "H2'"  "H2'"  H 0 1 N N N 1.024  3.503 -3.165 2.134  2.284  -0.611 "H2'"  CSM 29 
+CSM "H3'"  "H3'"  H 0 1 N N N 2.782  3.935 -5.078 1.098  0.111  -1.803 "H3'"  CSM 30 
+CSM "HO3'" "HO3'" H 0 0 N Y N 4.459  4.777 -3.647 0.366  2.253  -2.779 "HO3'" CSM 31 
+CSM "H5'"  "H5'"  H 0 1 N N N 2.991  7.631 -5.994 -2.184 -0.133 -1.480 "H5'"  CSM 32 
+CSM "H5'A" "H5'A" H 0 0 N N N 4.177  7.031 -4.785 -1.158 -1.557 -1.184 "H5'A" CSM 33 
+CSM "H6'"  "H6'"  H 0 1 N N N 0.910  7.459 -3.800 -1.156 1.365  1.531  "H6'"  CSM 34 
+CSM "H7'"  "H7'"  H 0 1 N N N 3.639  6.875 -2.537 -1.840 2.476  -1.234 "H7'"  CSM 35 
+CSM "H7'A" "H7'A" H 0 0 N N N 3.066  8.420 -3.253 -2.924 1.426  -0.289 "H7'A" CSM 36 
+CSM "H9'"  "H9'"  H 0 1 N N N 0.991  9.283 -0.505 -4.017 4.802  0.531  "H9'"  CSM 37 
+CSM "H9'A" "H9'A" H 0 0 N N N 1.965  9.902 -1.882 -3.472 4.294  -1.085 "H9'A" CSM 38 
+CSM "H9'B" "H9'B" H 0 0 N N N 0.540  8.852 -2.189 -4.555 3.244  -0.141 "H9'B" CSM 39 
+CSM HOP1   HOP1   H 0 0 N N N 6.349  7.159 -7.818 -5.134 -0.428 -0.363 HOP1   CSM 40 
+CSM HOP3   HOP3   H 0 0 N Y N 3.158  6.809 -9.353 -5.121 -2.894 1.608  HOP3   CSM 41 
+CSM HN3    HN3    H 0 1 N N N -2.114 1.347 -6.131 6.029  0.126  0.725  HN3    CSM 42 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CSM OP2   P      DOUB N N 1  
+CSM OP3   P      SING N N 2  
+CSM P     OP1    SING N N 3  
+CSM P     "O5'"  SING N N 4  
+CSM C6    N1     SING N N 5  
+CSM N1    C2     SING N N 6  
+CSM N1    "C1'"  SING N N 7  
+CSM N3    C2     SING N N 8  
+CSM C2    O2     DOUB N N 9  
+CSM C4    N3     SING N N 10 
+CSM O4    C4     DOUB N N 11 
+CSM C5    C4     SING N N 12 
+CSM C5    C6     DOUB N N 13 
+CSM C5    H5     SING N N 14 
+CSM C6    H6     SING N N 15 
+CSM "O4'" "C1'"  SING N N 16 
+CSM "C1'" "C2'"  SING N N 17 
+CSM "C1'" "H1'"  SING N N 18 
+CSM "C3'" "C2'"  SING N N 19 
+CSM "C2'" O2A    SING N N 20 
+CSM "C2'" "H2'"  SING N N 21 
+CSM "C6'" O2A    SING N N 22 
+CSM "C4'" "C3'"  SING N N 23 
+CSM "C3'" "O3'"  SING N N 24 
+CSM "C3'" "H3'"  SING N N 25 
+CSM "O3'" "HO3'" SING N N 26 
+CSM "O4'" "C4'"  SING N N 27 
+CSM "C5'" "C4'"  SING N N 28 
+CSM "C4'" "C6'"  SING N N 29 
+CSM "O5'" "C5'"  SING N N 30 
+CSM "C5'" "H5'"  SING N N 31 
+CSM "C5'" "H5'A" SING N N 32 
+CSM "C6'" "C7'"  SING N N 33 
+CSM "C6'" "H6'"  SING N N 34 
+CSM "C7'" "O8'"  SING N N 35 
+CSM "C7'" "H7'"  SING N N 36 
+CSM "C7'" "H7'A" SING N N 37 
+CSM "C9'" "O8'"  SING N N 38 
+CSM "C9'" "H9'"  SING N N 39 
+CSM "C9'" "H9'A" SING N N 40 
+CSM "C9'" "H9'B" SING N N 41 
+CSM OP1   HOP1   SING N N 42 
+CSM OP3   HOP3   SING N N 43 
+CSM N3    HN3    SING N N 44 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CSM SMILES           ACDLabs              12.01 "O=P(O)(O)OCC32OC(N1C(=O)NC(=O)C=C1)C(OC2COC)C3O"                                                                                                                              
+CSM InChI            InChI                1.03  "InChI=1S/C12H17N2O10P/c1-21-4-6-12(5-22-25(18,19)20)9(16)8(23-6)10(24-12)14-3-2-7(15)13-11(14)17/h2-3,6,8-10,16H,4-5H2,1H3,(H,13,15,17)(H2,18,19,20)/t6-,8+,9-,10+,12-/m0/s1" 
+CSM InChIKey         InChI                1.03  CCBFKLZCTXQEKB-FIRPKLOMSA-N                                                                                                                                                    
+CSM SMILES_CANONICAL CACTVS               3.370 "COC[C@@H]1O[C@@H]2[C@H](O)[C@@]1(CO[P](O)(O)=O)O[C@H]2N3C=CC(=O)NC3=O"                                                                                                        
+CSM SMILES           CACTVS               3.370 "COC[CH]1O[CH]2[CH](O)[C]1(CO[P](O)(O)=O)O[CH]2N3C=CC(=O)NC3=O"                                                                                                                
+CSM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "COC[C@H]1[C@]2([C@H]([C@@H](O1)[C@@H](O2)N3C=CC(=O)NC3=O)O)COP(=O)(O)O"                                                                                                       
+CSM SMILES           "OpenEye OEToolkits" 1.7.6 "COCC1C2(C(C(O1)C(O2)N3C=CC(=O)NC3=O)O)COP(=O)(O)O"                                                                                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CSM "SYSTEMATIC NAME" ACDLabs              12.01 "1-{2,5-anhydro-6-O-methyl-4-[(phosphonooxy)methyl]-alpha-L-mannofuranosyl}pyrimidine-2,4(1H,3H)-dione"                                                  
+CSM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(1R,3S,4R,6R,7S)-6-[2,4-bis(oxidanylidene)pyrimidin-1-yl]-3-(methoxymethyl)-7-oxidanyl-2,5-dioxabicyclo[2.2.1]heptan-4-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CSM "Create component" 2012-01-11 RCSB 
+# 

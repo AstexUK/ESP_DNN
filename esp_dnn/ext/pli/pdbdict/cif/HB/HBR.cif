@@ -1,0 +1,114 @@
+data_HBR
+# 
+_chem_comp.id                                    HBR 
+_chem_comp.name                                  R,3-HYDROXYBUTAN-2-ONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-04-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        88.105 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HBR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P28 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HBR C4  C4  C 0 1 N N N 10.700 0.875  2.877  1.175  -1.305 -0.585 C4  HBR 1  
+HBR C3  C3  C 0 1 N N R 9.870  0.973  1.597  0.659  -0.254 0.400  C3  HBR 2  
+HBR O7  O7  O 0 1 N N N 9.787  2.348  1.237  1.513  0.892  0.364  O7  HBR 3  
+HBR C2  C2  C 0 1 N N N 10.459 0.163  0.462  -0.741 0.151  0.015  C2  HBR 4  
+HBR C1  C1  C 0 1 N N N 9.844  -1.168 0.140  -1.908 -0.723 0.395  C1  HBR 5  
+HBR O2  O2  O 0 1 N N N 11.414 0.585  -0.195 -0.927 1.175  -0.597 O2  HBR 6  
+HBR H41 H41 H 0 1 N N N 10.782 -0.179 3.181  2.188  -1.597 -0.307 H41 HBR 7  
+HBR H42 H42 H 0 1 N N N 11.705 1.283  2.694  0.524  -2.179 -0.558 H42 HBR 8  
+HBR H43 H43 H 0 1 N N N 10.210 1.450  3.676  1.181  -0.887 -1.592 H43 HBR 9  
+HBR H3  H3  H 0 1 N N N 8.871  0.554  1.786  0.653  -0.671 1.407  H3  HBR 10 
+HBR HO7 HO7 H 0 1 N N N 10.345 2.513  0.486  2.431  0.706  0.601  HO7 HBR 11 
+HBR H11 H11 H 0 1 N N N 10.375 -1.622 -0.710 -1.547 -1.596 0.939  H11 HBR 12 
+HBR H12 H12 H 0 1 N N N 9.921  -1.829 1.016  -2.594 -0.159 1.028  H12 HBR 13 
+HBR H13 H13 H 0 1 N N N 8.785  -1.029 -0.122 -2.429 -1.046 -0.507 H13 HBR 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HBR C4 C3  SING N N 1  
+HBR C4 H41 SING N N 2  
+HBR C4 H42 SING N N 3  
+HBR C4 H43 SING N N 4  
+HBR C3 O7  SING N N 5  
+HBR C3 C2  SING N N 6  
+HBR C3 H3  SING N N 7  
+HBR O7 HO7 SING N N 8  
+HBR C2 C1  SING N N 9  
+HBR C2 O2  DOUB N N 10 
+HBR C1 H11 SING N N 11 
+HBR C1 H12 SING N N 12 
+HBR C1 H13 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HBR SMILES           ACDLabs              11.02 "O=C(C)C(O)C"                                        
+HBR SMILES_CANONICAL CACTVS               3.352 "C[C@@H](O)C(C)=O"                                   
+HBR SMILES           CACTVS               3.352 "C[CH](O)C(C)=O"                                     
+HBR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C[C@H](C(=O)C)O"                                    
+HBR SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C(=O)C)O"                                        
+HBR InChI            InChI                1.03  "InChI=1S/C4H8O2/c1-3(5)4(2)6/h3,5H,1-2H3/t3-/m1/s1" 
+HBR InChIKey         InChI                1.03  ROWKJAVDOGWPAT-GSVOUGTGSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HBR "SYSTEMATIC NAME" ACDLabs              11.02 "(3R)-3-hydroxybutan-2-one" 
+HBR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(3R)-3-hydroxybutan-2-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HBR "Create component"  2003-04-21 RCSB 
+HBR "Modify descriptor" 2011-06-04 RCSB 
+# 

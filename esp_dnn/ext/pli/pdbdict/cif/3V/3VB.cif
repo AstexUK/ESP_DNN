@@ -1,0 +1,123 @@
+data_3VB
+# 
+_chem_comp.id                                    3VB 
+_chem_comp.name                                  D-Threitol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-11-12 
+_chem_comp.pdbx_modified_date                    2015-06-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        122.120 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3VB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4RSM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3VB O6  O6  O 0 1 N N N 60.395 13.897 49.527 3.063  -0.037 -0.372 O6  3VB 1  
+3VB C11 C11 C 0 1 N N N 60.666 15.252 49.755 1.813  0.645  -0.255 C11 3VB 2  
+3VB C13 C13 C 0 1 N N R 62.143 15.554 49.465 0.670  -0.370 -0.317 C13 3VB 3  
+3VB O7  O7  O 0 1 N N N 62.975 14.815 50.392 0.737  -1.234 0.819  O7  3VB 4  
+3VB C14 C14 C 0 1 N N R 62.539 15.133 48.060 -0.670 0.370  -0.317 C14 3VB 5  
+3VB O8  O8  O 0 1 N N N 63.886 15.645 47.902 -0.737 1.234  0.819  O8  3VB 6  
+3VB C15 C15 C 0 1 N N N 61.618 15.691 46.986 -1.813 -0.645 -0.255 C15 3VB 7  
+3VB OAA OAA O 0 1 N N N 62.009 15.322 45.660 -3.063 0.037  -0.372 OAA 3VB 8  
+3VB H1  H1  H 0 1 N N N 59.479 13.722 49.709 3.834  0.545  -0.340 H1  3VB 9  
+3VB H2  H2  H 0 1 N N N 60.445 15.495 50.805 1.776  1.175  0.697  H2  3VB 10 
+3VB H3  H3  H 0 1 N N N 60.034 15.865 49.096 1.710  1.359  -1.072 H3  3VB 11 
+3VB H4  H4  H 0 1 N N N 62.316 16.634 49.580 0.758  -0.961 -1.229 H4  3VB 12 
+3VB H5  H5  H 0 1 N N N 62.750 15.058 51.283 0.664  -0.775 1.667  H5  3VB 13 
+3VB H6  H6  H 0 1 N N N 62.541 14.035 47.999 -0.758 0.961  -1.229 H6  3VB 14 
+3VB H7  H7  H 0 1 N N N 64.444 15.285 48.581 -0.664 0.775  1.667  H7  3VB 15 
+3VB H8  H8  H 0 1 N N N 61.621 16.789 47.059 -1.710 -1.359 -1.072 H8  3VB 16 
+3VB H9  H9  H 0 1 N N N 60.601 15.314 47.168 -1.776 -1.175 0.697  H9  3VB 17 
+3VB H10 H10 H 0 1 N N N 61.401 15.697 45.034 -3.834 -0.545 -0.340 H10 3VB 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3VB OAA C15 SING N N 1  
+3VB C15 C14 SING N N 2  
+3VB O8  C14 SING N N 3  
+3VB C14 C13 SING N N 4  
+3VB C13 C11 SING N N 5  
+3VB C13 O7  SING N N 6  
+3VB O6  C11 SING N N 7  
+3VB O6  H1  SING N N 8  
+3VB C11 H2  SING N N 9  
+3VB C11 H3  SING N N 10 
+3VB C13 H4  SING N N 11 
+3VB O7  H5  SING N N 12 
+3VB C14 H6  SING N N 13 
+3VB O8  H7  SING N N 14 
+3VB C15 H8  SING N N 15 
+3VB C15 H9  SING N N 16 
+3VB OAA H10 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3VB SMILES           ACDLabs              12.01 "OCC(O)C(O)CO"                                               
+3VB InChI            InChI                1.03  "InChI=1S/C4H10O4/c5-1-3(7)4(8)2-6/h3-8H,1-2H2/t3-,4-/m1/s1" 
+3VB InChIKey         InChI                1.03  UNXHWFMMPAWVPI-QWWZWVQMSA-N                                  
+3VB SMILES_CANONICAL CACTVS               3.385 "OC[C@@H](O)[C@H](O)CO"                                      
+3VB SMILES           CACTVS               3.385 "OC[CH](O)[CH](O)CO"                                         
+3VB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C([C@H]([C@@H](CO)O)O)O"                                    
+3VB SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(C(CO)O)O)O"                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3VB "SYSTEMATIC NAME" ACDLabs              12.01 "(2R,3R)-butane-1,2,3,4-tetrol" 
+3VB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R,3R)-butane-1,2,3,4-tetrol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3VB "Create component" 2014-11-12 RCSB 
+3VB "Initial release"  2014-12-10 RCSB 
+3VB "Modify name"      2015-06-01 RCSB 
+# 

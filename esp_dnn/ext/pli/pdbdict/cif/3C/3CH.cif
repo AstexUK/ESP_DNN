@@ -1,0 +1,113 @@
+data_3CH
+# 
+_chem_comp.id                                    3CH 
+_chem_comp.name                                  3-CHLOROPHENOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 Cl O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-04-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        128.556 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3CH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1LI3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3CH C4  C4  C  0 1 Y N N 26.724 5.142 3.313 1.422  0.010  -0.465 C4  3CH 1  
+3CH C5  C5  C  0 1 Y N N 27.521 5.841 2.405 1.833  0.006  0.856  C5  3CH 2  
+3CH C3  C3  C  0 1 Y N N 26.467 5.780 4.516 0.073  -0.001 -0.772 C3  3CH 3  
+3CH C6  C6  C  0 1 Y N N 28.072 7.099 2.651 0.896  -0.009 1.871  C6  3CH 4  
+3CH C2  C2  C  0 1 Y N N 27.003 7.032 4.810 -0.867 -0.022 0.241  C2  3CH 5  
+3CH C1  C1  C  0 1 Y N N 27.803 7.693 3.874 -0.457 -0.021 1.566  C1  3CH 6  
+3CH OH  OH  O  0 1 N N N 28.373 8.912 4.123 -1.380 -0.036 2.564  OH  3CH 7  
+3CH CL  CL  CL 0 0 N N N 25.677 5.144 5.436 -0.438 0.004  -2.431 CL  3CH 8  
+3CH HC4 HC4 H  0 1 N N N 26.319 4.140 3.092 2.156  0.022  -1.257 HC4 3CH 9  
+3CH HC5 HC5 H  0 1 N N N 27.729 5.369 1.430 2.886  0.015  1.093  HC5 3CH 10 
+3CH HC6 HC6 H  0 1 N N N 28.701 7.608 1.902 1.218  -0.012 2.902  HC6 3CH 11 
+3CH HC2 HC2 H  0 1 N N N 26.794 7.501 5.786 -1.920 -0.031 0.001  HC2 3CH 12 
+3CH HO  HO  H  0 1 N N N 28.189 9.319 4.961 -1.579 0.887  2.775  HO  3CH 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3CH C4 C5  DOUB Y N 1  
+3CH C4 C3  SING Y N 2  
+3CH C4 HC4 SING N N 3  
+3CH C5 C6  SING Y N 4  
+3CH C5 HC5 SING N N 5  
+3CH C3 C2  DOUB Y N 6  
+3CH C3 CL  SING N N 7  
+3CH C6 C1  DOUB Y N 8  
+3CH C6 HC6 SING N N 9  
+3CH C2 C1  SING Y N 10 
+3CH C2 HC2 SING N N 11 
+3CH C1 OH  SING N N 12 
+3CH OH HO  SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3CH SMILES           ACDLabs              10.04 "Clc1cc(O)ccc1"                               
+3CH SMILES_CANONICAL CACTVS               3.341 "Oc1cccc(Cl)c1"                               
+3CH SMILES           CACTVS               3.341 "Oc1cccc(Cl)c1"                               
+3CH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(cc(c1)Cl)O"                             
+3CH SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(cc(c1)Cl)O"                             
+3CH InChI            InChI                1.03  "InChI=1S/C6H5ClO/c7-5-2-1-3-6(8)4-5/h1-4,8H" 
+3CH InChIKey         InChI                1.03  HORNXRXVQWOLPJ-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3CH "SYSTEMATIC NAME" ACDLabs              10.04 3-chlorophenol 
+3CH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-chlorophenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3CH "Create component"  2002-04-18 RCSB 
+3CH "Modify descriptor" 2011-06-04 RCSB 
+# 

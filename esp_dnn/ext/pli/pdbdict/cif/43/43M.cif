@@ -1,0 +1,119 @@
+data_43M
+# 
+_chem_comp.id                                    43M 
+_chem_comp.name                                  4-CHLORO-3-METHYLPHENOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 Cl O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-04-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.583 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     43M 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye OEToolkits" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+43M C1  C1  C  0 1 Y N N 49.217 -26.605 -94.652 0.764  -0.484 1.955  C1  43M 1  
+43M C2  C2  C  0 1 Y N N 48.598 -27.383 -95.667 1.800  -1.079 2.676  C2  43M 2  
+43M C3  C3  C  0 1 Y N N 47.415 -26.903 -96.341 2.878  -1.652 2.002  C3  43M 3  
+43M C7  C7  C  0 1 N N N 46.712 -27.682 -97.427 4.008  -2.298 2.737  C7  43M 4  
+43M C4  C4  C  0 1 Y N N 46.890 -25.631 -95.963 2.921  -1.631 0.608  C4  43M 5  
+43M C5  C5  C  0 1 Y N N 47.521 -24.862 -94.947 1.885  -1.036 -0.112 C5  43M 6  
+43M C6  C6  C  0 1 Y N N 48.681 -25.342 -94.288 0.807  -0.463 0.561  C6  43M 7  
+43M CL1 CL1 CL 0 0 N N N 49.323 -28.903 -96.045 1.713  -1.085 4.399  CL1 43M 8  
+43M O1  O1  O  0 1 N N N 46.974 -23.649 -94.633 1.926  -1.016 -1.473 O1  43M 9  
+43M H1  H1  H  0 1 N N N 50.101 -26.977 -94.154 -0.084 -0.033 2.465  H1  43M 10 
+43M H71 1H7 H  0 1 N N N 46.541 -27.029 -98.295 4.522  -1.562 3.365  H71 43M 11 
+43M H72 2H7 H  0 1 N N N 47.336 -28.536 -97.728 3.648  -3.114 3.376  H72 43M 12 
+43M H73 3H7 H  0 1 N N N 45.746 -28.048 -97.049 4.734  -2.734 2.041  H73 43M 13 
+43M H4  H4  H  0 1 N N N 46.006 -25.249 -96.453 3.760  -2.077 0.079  H4  43M 14 
+43M H6  H6  H  0 1 N N N 49.153 -24.752 -93.516 -0.003 0.001  0.005  H6  43M 15 
+43M HO1 HO1 H  0 1 N N N 46.847 -23.592 -93.693 2.547  -1.686 -1.801 HO1 43M 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+43M C1 C2  DOUB Y N 1  
+43M C1 C6  SING Y N 2  
+43M C1 H1  SING N N 3  
+43M C2 C3  SING Y N 4  
+43M C2 CL1 SING N N 5  
+43M C3 C7  SING N N 6  
+43M C3 C4  DOUB Y N 7  
+43M C7 H71 SING N N 8  
+43M C7 H72 SING N N 9  
+43M C7 H73 SING N N 10 
+43M C4 C5  SING Y N 11 
+43M C4 H4  SING N N 12 
+43M C5 C6  DOUB Y N 13 
+43M C5 O1  SING N N 14 
+43M C6 H6  SING N N 15 
+43M O1 HO1 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+43M SMILES           ACDLabs              10.04 "Clc1ccc(O)cc1C"                                    
+43M SMILES_CANONICAL CACTVS               3.341 "Cc1cc(O)ccc1Cl"                                    
+43M SMILES           CACTVS               3.341 "Cc1cc(O)ccc1Cl"                                    
+43M SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1cc(ccc1Cl)O"                                    
+43M SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1cc(ccc1Cl)O"                                    
+43M InChI            InChI                1.03  "InChI=1S/C7H7ClO/c1-5-4-6(9)2-3-7(5)8/h2-4,9H,1H3" 
+43M InChIKey         InChI                1.03  CFKMVGJGLGKFKI-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+43M "SYSTEMATIC NAME" ACDLabs              10.04 4-chloro-3-methylphenol  
+43M "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-chloro-3-methyl-phenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+43M "Create component"  2007-04-16 RCSB 
+43M "Modify descriptor" 2011-06-04 RCSB 
+# 

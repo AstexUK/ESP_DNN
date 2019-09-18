@@ -1,0 +1,127 @@
+data_VFB
+# 
+_chem_comp.id                                    VFB 
+_chem_comp.name                                  "3,4-dihydro[1,2,4]triazolo[1,5-a][3,1]benzimidazol-9-ium" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H7 N4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2012-10-08 
+_chem_comp.pdbx_modified_date                    2013-06-21 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        159.168 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VFB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4BDA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VFB N1   N1   N 0 1 Y N N -38.050 33.892 5.334 0.284  -1.629 -0.000 N1   VFB 1  
+VFB CAB  CAB  C 0 1 Y N N -39.303 31.698 5.499 -2.227 -1.197 0.000  CAB  VFB 2  
+VFB CAC  CAC  C 0 1 Y N N -39.153 30.697 7.698 -2.781 1.139  0.000  CAC  VFB 3  
+VFB CAD  CAD  C 0 1 Y N N -38.554 32.773 5.975 -0.878 -0.876 -0.001 CAD  VFB 4  
+VFB CAE  CAE  C 0 1 Y N N -38.416 31.778 8.178 -1.445 1.474  -0.000 CAE  VFB 5  
+VFB CAF  CAF  C 0 1 Y N N -36.164 35.664 7.614 3.079  0.616  0.001  CAF  VFB 6  
+VFB CAG  CAG  C 0 1 Y N N -37.296 34.609 6.199 1.345  -0.752 -0.000 CAG  VFB 7  
+VFB NAH  NAH  N 0 1 Y N N -36.545 35.693 6.309 2.710  -0.695 0.000  NAH  VFB 8  
+VFB NAI  NAI  N 0 1 Y N N -36.598 34.655 8.334 2.001  1.347  0.000  NAI  VFB 9  
+VFB CAJ  CAJ  C 0 1 Y N N -39.586 30.656 6.373 -3.172 -0.191 0.001  CAJ  VFB 10 
+VFB CAK  CAK  C 0 1 Y N N -38.111 32.807 7.297 -0.479 0.468  -0.001 CAK  VFB 11 
+VFB NAL  NAL  N 1 1 Y N N -37.343 33.944 7.419 0.892  0.488  -0.001 NAL  VFB 12 
+VFB HN1  HN1  H 0 1 N N N -38.218 34.133 4.378 0.340  -2.598 0.003  HN1  VFB 13 
+VFB HAB  HAB  H 0 1 N N N -39.654 31.676 4.478 -2.538 -2.231 -0.000 HAB  VFB 14 
+VFB HAC  HAC  H 0 1 N N N -39.392 29.879 8.362 -3.529 1.918  0.001  HAC  VFB 15 
+VFB HAE  HAE  H 0 1 N N N -38.091 31.814 9.207 -1.146 2.512  -0.001 HAE  VFB 16 
+VFB HAF  HAF  H 0 1 N N N -35.535 36.433 8.038 4.094  0.987  0.001  HAF  VFB 17 
+VFB HNAH HNAH H 0 0 N N N -36.315 36.366 5.607 3.312  -1.456 0.000  HNAH VFB 18 
+VFB HAJ  HAJ  H 0 1 N N N -40.148 29.803 6.022 -4.223 -0.442 0.001  HAJ  VFB 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VFB N1  CAD  SING Y N 1  
+VFB N1  CAG  SING Y N 2  
+VFB CAB CAD  DOUB Y N 3  
+VFB CAB CAJ  SING Y N 4  
+VFB CAC CAE  SING Y N 5  
+VFB CAC CAJ  DOUB Y N 6  
+VFB CAD CAK  SING Y N 7  
+VFB CAE CAK  DOUB Y N 8  
+VFB CAF NAH  SING Y N 9  
+VFB CAF NAI  DOUB Y N 10 
+VFB CAG NAH  SING Y N 11 
+VFB CAG NAL  DOUB Y N 12 
+VFB NAI NAL  SING Y N 13 
+VFB CAK NAL  SING Y N 14 
+VFB N1  HN1  SING N N 15 
+VFB CAB HAB  SING N N 16 
+VFB CAC HAC  SING N N 17 
+VFB CAE HAE  SING N N 18 
+VFB CAF HAF  SING N N 19 
+VFB NAH HNAH SING N N 20 
+VFB CAJ HAJ  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VFB SMILES           ACDLabs              12.01 "n3[n+]2c1ccccc1nc2nc3"                                                   
+VFB InChI            InChI                1.03  "InChI=1S/C8H6N4/c1-2-4-7-6(3-1)11-8-9-5-10-12(7)8/h1-5H,(H,9,10,11)/p+1" 
+VFB InChIKey         InChI                1.03  UHMYOSZMUIJCFW-UHFFFAOYSA-O                                               
+VFB SMILES_CANONICAL CACTVS               3.370 "[nH]1cn[n+]2c1[nH]c3ccccc23"                                             
+VFB SMILES           CACTVS               3.370 "[nH]1cn[n+]2c1[nH]c3ccccc23"                                             
+VFB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)[nH]c3[n+]2nc[nH]3"                                           
+VFB SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)[nH]c3[n+]2nc[nH]3"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VFB "SYSTEMATIC NAME" ACDLabs              12.01 "3,4-dihydro[1,2,4]triazolo[1,5-a][3,1]benzimidazol-9-ium" 
+VFB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "3,4-dihydro-[1,2,4]triazolo[1,5-a]benzimidazol-9-ium"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VFB "Create component" 2012-10-08 EBI  
+VFB "Initial release"  2013-06-26 RCSB 
+# 

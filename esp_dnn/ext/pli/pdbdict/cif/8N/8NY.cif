@@ -1,0 +1,116 @@
+data_8NY
+# 
+_chem_comp.id                                    8NY 
+_chem_comp.name                                  5-iodanyl-1H-indazole 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 I N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-03-06 
+_chem_comp.pdbx_modified_date                    2015-05-08 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        244.032 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     8NY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        5AKX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+8NY C1   C1   C 0 1 Y N N 17.040 10.170 12.940 -0.466 -1.516 -0.000 C1   8NY 1  
+8NY C2   C2   C 0 1 Y N N 15.746 10.267 12.421 -1.811 -1.753 -0.000 C2   8NY 2  
+8NY C3   C3   C 0 1 Y N N 15.589 9.997  11.015 -2.704 -0.685 0.000  C3   8NY 3  
+8NY C4   C4   C 0 1 Y N N 16.673 9.648  10.138 -2.207 0.633  0.000  C4   8NY 4  
+8NY C5   C5   C 0 1 Y N N 17.940 9.558  10.657 -0.824 0.851  -0.000 C5   8NY 5  
+8NY C6   C6   C 0 1 Y N N 18.096 9.822  12.082 0.027  -0.216 -0.000 C6   8NY 6  
+8NY I7   I7   I 0 1 N N N 20.002 9.644  12.959 2.097  0.108  0.000  I7   8NY 7  
+8NY C8   C8   C 0 1 Y N N 16.074 9.479  8.883  -3.372 1.511  0.000  C8   8NY 8  
+8NY N9   N9   N 0 1 Y N N 14.748 9.685  8.967  -4.436 0.760  -0.000 N9   8NY 9  
+8NY N10  N10  N 0 1 Y N N 14.461 10.013 10.246 -4.071 -0.590 0.000  N10  8NY 10 
+8NY H1   H1   H 0 1 N N N 17.225 10.360 13.987 0.223  -2.348 0.004  H1   8NY 11 
+8NY H2   H2   H 0 1 N N N 14.904 10.532 13.044 -2.181 -2.768 -0.000 H2   8NY 12 
+8NY H5   H5   H 0 1 N N N 18.786 9.302  10.036 -0.434 1.858  -0.001 H5   8NY 13 
+8NY H8   H8   H 0 1 N N N 16.602 9.220  7.977  -3.355 2.591  0.001  H8   8NY 14 
+8NY HN10 HN10 H 0 0 N N N 13.547 10.237 10.583 -4.687 -1.339 0.000  HN10 8NY 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+8NY C1  C2   DOUB Y N 1  
+8NY C1  C6   SING Y N 2  
+8NY C2  C3   SING Y N 3  
+8NY C3  C4   DOUB Y N 4  
+8NY C3  N10  SING Y N 5  
+8NY C4  C5   SING Y N 6  
+8NY C4  C8   SING Y N 7  
+8NY C5  C6   DOUB Y N 8  
+8NY C6  I7   SING N N 9  
+8NY C8  N9   DOUB Y N 10 
+8NY N9  N10  SING Y N 11 
+8NY C1  H1   SING N N 12 
+8NY C2  H2   SING N N 13 
+8NY C5  H5   SING N N 14 
+8NY C8  H8   SING N N 15 
+8NY N10 HN10 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+8NY InChI            InChI                1.03  "InChI=1S/C7H5IN2/c8-6-1-2-7-5(3-6)4-9-10-7/h1-4H,(H,9,10)" 
+8NY InChIKey         InChI                1.03  CGCHCLICSHIAAM-UHFFFAOYSA-N                                 
+8NY SMILES_CANONICAL CACTVS               3.385 "Ic1ccc2[nH]ncc2c1"                                         
+8NY SMILES           CACTVS               3.385 "Ic1ccc2[nH]ncc2c1"                                         
+8NY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1I)cn[nH]2"                                       
+8NY SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1I)cn[nH]2"                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+8NY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 5-iodanyl-1H-indazole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+8NY "Create component" 2015-03-06 EBI  
+8NY "Initial release"  2015-05-13 RCSB 
+# 

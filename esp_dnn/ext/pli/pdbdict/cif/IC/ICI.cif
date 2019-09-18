@@ -1,0 +1,127 @@
+data_ICI
+# 
+_chem_comp.id                                    ICI 
+_chem_comp.name                                  "ISOCITRIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H8 O7" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-04 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ICT 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        192.124 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ICI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ICI C1  C1  C 0 1 N N N 61.123 66.170 65.645 -1.185 0.150  1.711  C1  ICI 1  
+ICI C2  C2  C 0 1 N N R 60.082 66.441 66.661 -0.808 -0.396 0.358  C2  ICI 2  
+ICI C3  C3  C 0 1 N N S 60.843 66.176 67.964 0.409  0.360  -0.175 C3  ICI 3  
+ICI C4  C4  C 0 1 N N N 59.882 66.076 69.155 0.791  -0.194 -1.549 C4  ICI 4  
+ICI C5  C5  C 0 1 N N N 58.712 65.263 68.642 -0.301 0.115  -2.539 C5  ICI 5  
+ICI C6  C6  C 0 1 N N N 61.894 66.837 68.730 1.565  0.187  0.775  C6  ICI 6  
+ICI O1  O1  O 0 1 N N N 61.606 67.088 64.894 -1.183 -0.574 2.678  O1  ICI 7  
+ICI O2  O2  O 0 1 N N N 61.486 64.977 65.550 -1.523 1.443  1.842  O2  ICI 8  
+ICI O3  O3  O 0 1 N N N 58.803 64.132 68.097 -1.232 0.813  -2.211 O3  ICI 9  
+ICI O4  O4  O 0 1 N N N 57.632 65.855 68.814 -0.240 -0.382 -3.784 O4  ICI 10 
+ICI O5  O5  O 0 1 N N N 62.828 67.143 68.041 1.407  -0.403 1.817  O5  ICI 11 
+ICI O6  O6  O 0 1 N N N 61.972 67.198 69.902 2.770  0.690  0.465  O6  ICI 12 
+ICI O7  O7  O 0 1 N N N 59.670 67.792 66.205 -0.492 -1.784 0.477  O7  ICI 13 
+ICI H2  H2  H 0 1 N N N 59.134 65.872 66.808 -1.644 -0.271 -0.329 H2  ICI 14 
+ICI H3  H3  H 0 1 N N N 61.387 65.417 67.354 0.168  1.419  -0.266 H3  ICI 15 
+ICI H41 1H4 H 0 1 N N N 60.348 65.663 70.080 1.723  0.264  -1.880 H41 ICI 16 
+ICI H42 2H4 H 0 1 N N N 59.593 67.062 69.587 0.923  -1.274 -1.480 H42 ICI 17 
+ICI HO2 HO2 H 0 1 N N N 62.154 64.803 64.897 -1.764 1.794  2.710  HO2 ICI 18 
+ICI HO4 HO4 H 0 1 N N N 56.898 65.345 68.492 -0.942 -0.182 -4.419 HO4 ICI 19 
+ICI HO6 HO6 H 0 1 N N N 62.656 67.628 70.400 3.512  0.580  1.076  HO6 ICI 20 
+ICI HO7 HO7 H 0 1 N N N 59.001 67.966 66.857 0.250  -1.850 1.093  HO7 ICI 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ICI C1 C2  SING N N 1  
+ICI C1 O1  DOUB N N 2  
+ICI C1 O2  SING N N 3  
+ICI C2 C3  SING N N 4  
+ICI C2 O7  SING N N 5  
+ICI C2 H2  SING N N 6  
+ICI C3 C4  SING N N 7  
+ICI C3 C6  SING N N 8  
+ICI C3 H3  SING N N 9  
+ICI C4 C5  SING N N 10 
+ICI C4 H41 SING N N 11 
+ICI C4 H42 SING N N 12 
+ICI C5 O3  DOUB N N 13 
+ICI C5 O4  SING N N 14 
+ICI C6 O5  DOUB N N 15 
+ICI C6 O6  SING N N 16 
+ICI O2 HO2 SING N N 17 
+ICI O4 HO4 SING N N 18 
+ICI O6 HO6 SING N N 19 
+ICI O7 HO7 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ICI SMILES           ACDLabs              10.04 "O=C(O)C(CC(=O)O)C(O)C(=O)O"                                                                                   
+ICI InChI            InChI                1.02b "InChI=1/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/t2-,4+/m0/s1/f/h7,10,12H" 
+ICI InChIKey         InChI                1.02b ODBLHEXUDAPZAU-AORVBZGWDC                                                                                      
+ICI SMILES_CANONICAL CACTVS               3.341 "O[C@H]([C@H](CC(O)=O)C(O)=O)C(O)=O"                                                                           
+ICI SMILES           CACTVS               3.341 "O[CH]([CH](CC(O)=O)C(O)=O)C(O)=O"                                                                             
+ICI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]([C@H](C(=O)O)O)C(=O)O)C(=O)O"                                                                        
+ICI SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(C(=O)O)O)C(=O)O)C(=O)O"                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ICI "SYSTEMATIC NAME" ACDLabs              10.04 "3-carboxy-2,3-dideoxy-L-threo-pentaric acid"       
+ICI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1R,2S)-1-hydroxypropane-1,2,3-tricarboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ICI "Create component" 1999-08-04 RCSB 
+# 

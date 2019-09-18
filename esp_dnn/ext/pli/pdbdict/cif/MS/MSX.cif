@@ -1,0 +1,141 @@
+data_MSX
+# 
+_chem_comp.id                                    MSX 
+_chem_comp.name                                  1,6-DIDEOXY-DITHIO-METHYL-ALPHA-D-MANNOSE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H14 O4 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-10-27 
+_chem_comp.pdbx_modified_date                    2015-03-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        226.314 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MSX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4D4B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MSX O3   O3   O 0 1 N N N -13.330 -24.917 -30.079 -0.839 1.529  -1.700 O3   MSX 1  
+MSX C6   C6   C 0 1 N N S -12.553 -25.955 -30.689 -0.317 2.008  -0.459 C6   MSX 2  
+MSX C    C    C 0 1 N N S -11.686 -26.715 -29.687 -1.275 1.637  0.677  C    MSX 3  
+MSX O    O    O 0 1 N N N -10.740 -25.819 -29.093 -0.786 2.173  1.908  O    MSX 4  
+MSX C5   C5   C 0 1 N N S -13.478 -26.949 -31.398 1.047  1.364  -0.194 C5   MSX 5  
+MSX O2   O2   O 0 1 N N N -14.387 -27.543 -30.448 1.927  1.644  -1.284 O2   MSX 6  
+MSX C3   C3   C 0 1 N N R -12.642 -28.022 -32.076 0.869  -0.150 -0.055 C3   MSX 7  
+MSX S1   S1   S 0 1 N N N -11.719 -27.338 -33.431 2.468  -0.914 0.330  S1   MSX 8  
+MSX C4   C4   C 0 1 N N N -11.371 -28.804 -34.375 2.127  -2.687 0.153  C4   MSX 9  
+MSX O1   O1   O 0 1 N N N -11.828 -28.675 -31.097 -0.057 -0.426 0.998  O1   MSX 10 
+MSX C1   C1   C 0 1 N N S -10.934 -27.856 -30.336 -1.363 0.112  0.782  C1   MSX 11 
+MSX C2   C2   C 0 1 N N N -10.296 -28.769 -29.303 -1.940 -0.456 -0.516 C2   MSX 12 
+MSX S    S    S 0 1 N N N -11.557 -29.772 -28.455 -2.228 -2.237 -0.322 S    MSX 13 
+MSX H3   H3   H 0 1 N N N -13.849 -24.478 -30.743 -0.282 1.729  -2.465 H3   MSX 14 
+MSX H6   H6   H 0 1 N N N -11.888 -25.512 -31.446 -0.208 3.092  -0.504 H6   MSX 15 
+MSX H    H    H 0 1 N N N -12.342 -27.129 -28.907 -2.264 2.046  0.469  H    MSX 16 
+MSX H5   H5   H 0 1 N N N -14.048 -26.408 -32.168 1.467  1.768  0.727  H5   MSX 17 
+MSX HA   HA   H 0 1 N N N -10.202 -26.293 -28.470 -0.700 3.136  1.911  HA   MSX 18 
+MSX H1   H1   H 0 1 N N N -10.147 -27.445 -30.986 -2.010 -0.158 1.617  H1   MSX 19 
+MSX H2   H2   H 0 1 N N N -14.957 -28.158 -30.896 2.811  1.265  -1.182 H2   MSX 20 
+MSX HB   HB   H 0 1 N N N -13.326 -28.755 -32.528 0.487  -0.558 -0.991 HB   MSX 21 
+MSX H41C H41C H 0 0 N N N -10.790 -28.535 -35.269 1.344  -2.978 0.854  H41C MSX 22 
+MSX H42C H42C H 0 0 N N N -10.792 -29.508 -33.759 1.798  -2.894 -0.865 H42C MSX 23 
+MSX H43C H43C H 0 0 N N N -12.316 -29.276 -34.681 3.033  -3.254 0.365  H43C MSX 24 
+MSX H21C H21C H 0 0 N N N -9.582  -29.438 -29.806 -2.883 0.041  -0.743 H21C MSX 25 
+MSX H22C H22C H 0 0 N N N -9.764  -28.156 -28.560 -1.236 -0.289 -1.331 H22C MSX 26 
+MSX HS   HS   H 0 1 N N N -10.836 -30.471 -27.630 -2.727 -2.595 -1.518 HS   MSX 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MSX O3 C6   SING N N 1  
+MSX C6 C    SING N N 2  
+MSX C6 C5   SING N N 3  
+MSX C  O    SING N N 4  
+MSX C  C1   SING N N 5  
+MSX C5 O2   SING N N 6  
+MSX C5 C3   SING N N 7  
+MSX C3 S1   SING N N 8  
+MSX C3 O1   SING N N 9  
+MSX S1 C4   SING N N 10 
+MSX O1 C1   SING N N 11 
+MSX C1 C2   SING N N 12 
+MSX C2 S    SING N N 13 
+MSX O3 H3   SING N N 14 
+MSX C6 H6   SING N N 15 
+MSX C  H    SING N N 16 
+MSX C5 H5   SING N N 17 
+MSX O  HA   SING N N 18 
+MSX C1 H1   SING N N 19 
+MSX O2 H2   SING N N 20 
+MSX C3 HB   SING N N 21 
+MSX C4 H41C SING N N 22 
+MSX C4 H42C SING N N 23 
+MSX C4 H43C SING N N 24 
+MSX C2 H21C SING N N 25 
+MSX C2 H22C SING N N 26 
+MSX S  HS   SING N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MSX SMILES           ACDLabs              12.01 "OC1C(O)C(O)C(OC1SC)CS"                                                                       
+MSX InChI            InChI                1.03  "InChI=1S/C7H14O4S2/c1-13-7-6(10)5(9)4(8)3(2-12)11-7/h3-10,12H,2H2,1H3/t3-,4-,5+,6+,7-/m1/s1" 
+MSX InChIKey         InChI                1.03  VSIIBZKFQKUEEH-ULQPCXBYSA-N                                                                   
+MSX SMILES_CANONICAL CACTVS               3.385 "CS[C@H]1O[C@H](CS)[C@@H](O)[C@H](O)[C@@H]1O"                                                 
+MSX SMILES           CACTVS               3.385 "CS[CH]1O[CH](CS)[CH](O)[CH](O)[CH]1O"                                                        
+MSX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CS[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CS)O)O)O"                                               
+MSX SMILES           "OpenEye OEToolkits" 1.7.6 "CSC1C(C(C(C(O1)CS)O)O)O"                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MSX "SYSTEMATIC NAME" ACDLabs              12.01 "methyl 1,6-dithio-alpha-D-mannopyranoside"                             
+MSX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R,3S,4S,5S,6S)-2-methylsulfanyl-6-(sulfanylmethyl)oxane-3,4,5-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MSX "Create component" 2014-10-27 EBI  
+MSX "Initial release"  2015-03-25 RCSB 
+# 

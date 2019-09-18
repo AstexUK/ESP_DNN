@@ -1,0 +1,101 @@
+data_OEX
+# 
+_chem_comp.id                                    OEX 
+_chem_comp.name                                  "CA-MN4-O5 CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Ca Mn4 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-01-17 
+_chem_comp.pdbx_modified_date                    2011-04-15 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        339.827 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OEX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        3ARC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OEX O1  O1  O  0 1 N N N -26.509 -36.600 204.049 ? ? ? O1  OEX 1  
+OEX CA1 CA1 CA 0 0 N N N -27.970 -36.453 202.242 ? ? ? CA1 OEX 2  
+OEX MN1 MN1 MN 0 0 N N N -24.976 -35.546 203.850 ? ? ? MN1 OEX 3  
+OEX O2  O2  O  0 1 N N N -28.561 -34.527 203.697 ? ? ? O2  OEX 4  
+OEX MN2 MN2 MN 0 0 N N N -27.388 -35.240 205.327 ? ? ? MN2 OEX 5  
+OEX O3  O3  O  0 1 N N N -25.809 -34.095 204.542 ? ? ? O3  OEX 6  
+OEX MN3 MN3 MN 0 0 N N R -27.257 -33.264 203.228 ? ? ? MN3 OEX 7  
+OEX O4  O4  O  0 1 N N N -28.739 -32.585 201.925 ? ? ? O4  OEX 8  
+OEX MN4 MN4 MN 0 0 N N N -27.601 -33.238 200.276 ? ? ? MN4 OEX 9  
+OEX O5  O5  O  0 1 N N N -26.217 -34.764 201.698 ? ? ? O5  OEX 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OEX O1  CA1 SING N N 1  
+OEX O1  MN1 SING N N 2  
+OEX O1  MN2 SING N N 3  
+OEX CA1 O2  SING N N 4  
+OEX CA1 O5  SING N N 5  
+OEX MN1 O5  SING N N 6  
+OEX MN1 O3  SING N N 7  
+OEX O2  MN2 SING N N 8  
+OEX O2  MN3 SING N N 9  
+OEX MN2 O3  SING N N 10 
+OEX MN4 O5  SING N N 11 
+OEX O3  MN3 SING N N 12 
+OEX MN3 O4  SING N N 13 
+OEX O4  MN4 SING N N 14 
+OEX MN3 O5  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OEX InChI            InChI                1.02  InChI=1S/Ca.4Mn.5O                                     
+OEX InChIKey         InChI                1.02  SEXWDHMBWJEXOJ-UHFFFAOYSA-N                            
+OEX SMILES_CANONICAL CACTVS               3.370 "O12|[Ca]3O4|[Mn]1O5|[Mn]2[O]36[Mn]O[Mn@]456"          
+OEX SMILES           CACTVS               3.370 "O12|[Ca]3O4|[Mn]1O5|[Mn]2[O]36[Mn]O[Mn]456"           
+OEX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "O1[Mn][O@]23[Mn@@]14[O@]5[Ca]2[O@@]6[Mn]5[O@]4[Mn]36" 
+OEX SMILES           "OpenEye OEToolkits" 1.7.0 "O1[Mn]O23[Mn]14O5[Ca]2O6[Mn]5O4[Mn]36"                
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OEX "Create component" 2011-01-17 PDBJ 
+# 

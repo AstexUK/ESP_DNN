@@ -1,0 +1,128 @@
+data_ME0
+# 
+_chem_comp.id                                    ME0 
+_chem_comp.name                                  hydroxy-L-methionine 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               MET 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        165.211 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ME0 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3NBB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ME0 C   C   C 0 1 N N N -1.889 105.665 70.064 2.938  0.124  -0.009 C   ME0 1  
+ME0 N   N   N 0 1 N N N -1.131 103.522 71.212 1.480  -1.813 -0.173 N   ME0 2  
+ME0 O   O   O 0 1 N N N -3.091 105.409 69.980 3.540  -0.480 0.847  O   ME0 3  
+ME0 CA  CA  C 0 1 N N S -0.848 104.554 70.222 1.606  -0.385 -0.496 CA  ME0 4  
+ME0 CB  CB  C 0 1 N N N -0.693 103.894 68.857 0.481  0.394  0.187  CB  ME0 5  
+ME0 SD  SD  S 0 1 N N N -0.237 103.947 66.137 -2.200 0.888  0.412  SD  ME0 6  
+ME0 CE  CE  C 0 1 N N N -1.219 102.438 66.422 -3.690 0.250  -0.402 CE  ME0 7  
+ME0 OF  OF  O 0 1 N N N -0.761 101.410 66.946 -3.980 -1.059 0.093  OF  ME0 8  
+ME0 CG  CG  C 0 1 N N N -0.396 104.830 67.709 -0.866 -0.036 -0.398 CG  ME0 9  
+ME0 OXT OXT O 0 1 N Y N -1.810 107.031 70.478 3.454  1.253  -0.522 OXT ME0 10 
+ME0 HN  HN  H 0 1 N N N -0.384 102.857 71.223 2.173  -2.357 -0.664 HN  ME0 11 
+ME0 HNA HNA H 0 1 N N N -1.217 103.942 72.116 1.540  -1.964 0.823  HNA ME0 12 
+ME0 HA  HA  H 0 1 N N N 0.062  105.043 70.599 1.538  -0.250 -1.576 HA  ME0 13 
+ME0 HB  HB  H 0 1 N N N 0.143  103.182 68.927 0.495  0.189  1.257  HB  ME0 14 
+ME0 HBA HBA H 0 1 N N N -1.639 103.381 68.629 0.625  1.462  0.020  HBA ME0 15 
+ME0 HE  HE  H 0 1 N N N -2.040 102.753 67.082 -4.530 0.912  -0.192 HE  ME0 16 
+ME0 H7  H7  H 0 1 N N N -1.555 102.123 65.423 -3.525 0.203  -1.478 H7  ME0 17 
+ME0 H8  H8  H 0 1 N N N -1.442 100.750 66.997 -4.767 -1.462 -0.299 H8  ME0 18 
+ME0 HG  HG  H 0 1 N N N 0.550  105.351 67.916 -0.879 0.169  -1.469 HG  ME0 19 
+ME0 HGA HGA H 0 1 N N N -1.220 105.554 67.624 -1.010 -1.104 -0.231 HGA ME0 20 
+ME0 HXT HXT H 0 1 N Y N -2.687 107.383 70.580 4.310  1.540  -0.179 HXT ME0 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ME0 C   CA  SING N N 1  
+ME0 O   C   DOUB N N 2  
+ME0 CA  N   SING N N 3  
+ME0 CB  CA  SING N N 4  
+ME0 SD  CE  SING N N 5  
+ME0 SD  CG  SING N N 6  
+ME0 CE  OF  SING N N 7  
+ME0 CG  CB  SING N N 8  
+ME0 C   OXT SING N N 9  
+ME0 N   HN  SING N N 10 
+ME0 N   HNA SING N N 11 
+ME0 CA  HA  SING N N 12 
+ME0 CB  HB  SING N N 13 
+ME0 CB  HBA SING N N 14 
+ME0 CE  HE  SING N N 15 
+ME0 CE  H7  SING N N 16 
+ME0 OF  H8  SING N N 17 
+ME0 CG  HG  SING N N 18 
+ME0 CG  HGA SING N N 19 
+ME0 OXT HXT SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ME0 SMILES           ACDLabs              12.01 "O=C(O)C(N)CCSCO"                                                          
+ME0 SMILES_CANONICAL CACTVS               3.370 "N[C@@H](CCSCO)C(O)=O"                                                     
+ME0 SMILES           CACTVS               3.370 "N[CH](CCSCO)C(O)=O"                                                       
+ME0 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CSCO)[C@@H](C(=O)O)N"                                                   
+ME0 SMILES           "OpenEye OEToolkits" 1.7.0 "C(CSCO)C(C(=O)O)N"                                                        
+ME0 InChI            InChI                1.03  "InChI=1S/C5H11NO3S/c6-4(5(8)9)1-2-10-3-7/h4,7H,1-3,6H2,(H,8,9)/t4-/m0/s1" 
+ME0 InChIKey         InChI                1.03  WAYHNLGKMVZKIA-BYPYZUCNSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ME0 "SYSTEMATIC NAME" ACDLabs              12.01 hydroxy-L-methionine                                   
+ME0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-2-azanyl-4-(hydroxymethylsulfanyl)butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ME0 "Create component"  2010-07-19 RCSB 
+ME0 "Modify descriptor" 2011-06-04 RCSB 
+# 

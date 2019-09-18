@@ -1,0 +1,121 @@
+data_DTH
+# 
+_chem_comp.id                                    DTH 
+_chem_comp.name                                  D-THREONINE 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H9 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.119 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     DTH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DTH N    N    N 0 1 N N N 35.423 40.675 60.977 0.402  -1.692 -0.300 N    DTH 1  
+DTH CA   CA   C 0 1 N N R 34.985 41.140 59.656 0.054  -0.310 -0.658 CA   DTH 2  
+DTH CB   CB   C 0 1 N N S 35.147 40.003 58.616 1.085  0.648  -0.058 CB   DTH 3  
+DTH CG2  CG2  C 0 1 N N N 34.696 40.425 57.198 2.473  0.313  -0.608 CG2  DTH 4  
+DTH OG1  OG1  O 0 1 N N N 34.361 38.874 59.019 1.091  0.511  1.365  OG1  DTH 5  
+DTH C    C    C 0 1 N N N 35.828 42.378 59.254 -1.313 0.020  -0.116 C    DTH 6  
+DTH O    O    O 0 1 N N N 37.051 42.287 59.273 -1.781 -0.637 0.784  O    DTH 7  
+DTH OXT  OXT  O 0 1 N Y N 35.235 43.404 58.961 -2.011 1.043  -0.633 OXT  DTH 8  
+DTH H    H    H 0 1 N N N 35.523 39.680 60.965 1.358  -1.834 -0.590 H    DTH 9  
+DTH HN2  HN2  H 0 1 N Y N 36.302 41.095 61.204 0.394  -1.741 0.708  HN2  DTH 10 
+DTH HA   HA   H 0 1 N N N 33.923 41.423 59.690 0.049  -0.206 -1.743 HA   DTH 11 
+DTH HB   HB   H 0 1 N N N 36.218 39.755 58.576 0.827  1.673  -0.323 HB   DTH 12 
+DTH HG21 1HG2 H 0 0 N N N 33.601 40.525 57.176 3.208  0.995  -0.180 HG21 DTH 13 
+DTH HG22 2HG2 H 0 0 N N N 35.158 41.389 56.938 2.731  -0.712 -0.342 HG22 DTH 14 
+DTH HG23 3HG2 H 0 0 N N N 35.009 39.661 56.471 2.469  0.417  -1.693 HG23 DTH 15 
+DTH HG1  HOG  H 0 1 N N N 34.187 38.323 58.265 1.752  1.130  1.703  HG1  DTH 16 
+DTH HXT  HXT  H 0 1 N Y N 35.864 44.087 58.760 -2.889 1.254  -0.286 HXT  DTH 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DTH N   CA   SING N N 1  
+DTH N   H    SING N N 2  
+DTH N   HN2  SING N N 3  
+DTH CA  CB   SING N N 4  
+DTH CA  C    SING N N 5  
+DTH CA  HA   SING N N 6  
+DTH CB  CG2  SING N N 7  
+DTH CB  OG1  SING N N 8  
+DTH CB  HB   SING N N 9  
+DTH CG2 HG21 SING N N 10 
+DTH CG2 HG22 SING N N 11 
+DTH CG2 HG23 SING N N 12 
+DTH OG1 HG1  SING N N 13 
+DTH C   O    DOUB N N 14 
+DTH C   OXT  SING N N 15 
+DTH OXT HXT  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DTH SMILES           ACDLabs              10.04 "O=C(O)C(N)C(O)C"                                                        
+DTH SMILES_CANONICAL CACTVS               3.341 "C[C@H](O)[C@@H](N)C(O)=O"                                               
+DTH SMILES           CACTVS               3.341 "C[CH](O)[CH](N)C(O)=O"                                                  
+DTH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H]([C@H](C(=O)O)N)O"                                               
+DTH SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(C(=O)O)N)O"                                                        
+DTH InChI            InChI                1.03  "InChI=1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m0/s1" 
+DTH InChIKey         InChI                1.03  AYFVYJQAPQTCCC-STHAYSLISA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DTH "SYSTEMATIC NAME" ACDLabs              10.04 D-threonine                               
+DTH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3S)-2-amino-3-hydroxy-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DTH "Create component"  1999-07-08 RCSB 
+DTH "Modify descriptor" 2011-06-04 RCSB 
+DTH "Modify descriptor" 2012-08-22 RCSB 
+# 

@@ -1,0 +1,113 @@
+data_2XE
+# 
+_chem_comp.id                                    2XE 
+_chem_comp.name                                  4-bromobenzenethiol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 Br S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-04-04 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.073 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2XE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4Q03 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2XE SAH SAH S  0 1 N N N 21.885 39.194 98.399  3.979  -0.000 -0.025 SAH 2XE 1  
+2XE CAI CAI C  0 1 Y N N 22.913 42.871 101.106 -0.551 0.000  -0.008 CAI 2XE 2  
+2XE BR  BR  BR 0 0 N N N 23.198 44.226 102.082 -2.442 -0.000 0.006  BR  2XE 3  
+2XE CAK CAK C  0 1 Y N N 21.816 42.869 100.219 0.140  1.199  -0.011 CAK 2XE 4  
+2XE CAL CAL C  0 1 Y N N 21.542 41.772 99.411  1.520  1.203  -0.016 CAL 2XE 5  
+2XE CAM CAM C  0 1 Y N N 22.330 40.628 99.456  2.217  -0.000 -0.018 CAM 2XE 6  
+2XE CAN CAN C  0 1 Y N N 23.409 40.607 100.321 1.520  -1.203 -0.016 CAN 2XE 7  
+2XE CAO CAO C  0 1 Y N N 23.704 41.734 101.149 0.140  -1.199 -0.011 CAO 2XE 8  
+2XE H1  H1  H  0 1 N N N 22.817 38.338 98.698  4.286  0.000  1.284  H1  2XE 9  
+2XE H2  H2  H  0 1 N N N 21.176 43.738 100.167 -0.402 2.134  -0.009 H2  2XE 10 
+2XE H3  H3  H  0 1 N N N 20.700 41.809 98.735  2.059  2.139  -0.018 H3  2XE 11 
+2XE H4  H4  H  0 1 N N N 24.036 39.729 100.371 2.059  -2.139 -0.018 H4  2XE 12 
+2XE H5  H5  H  0 1 N N N 24.553 41.699 101.816 -0.402 -2.134 -0.004 H5  2XE 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2XE SAH CAM SING N N 1  
+2XE CAL CAM DOUB Y N 2  
+2XE CAL CAK SING Y N 3  
+2XE CAM CAN SING Y N 4  
+2XE CAK CAI DOUB Y N 5  
+2XE CAN CAO DOUB Y N 6  
+2XE CAI CAO SING Y N 7  
+2XE CAI BR  SING N N 8  
+2XE SAH H1  SING N N 9  
+2XE CAK H2  SING N N 10 
+2XE CAL H3  SING N N 11 
+2XE CAN H4  SING N N 12 
+2XE CAO H5  SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2XE SMILES           ACDLabs              12.01 "Brc1ccc(S)cc1"                               
+2XE InChI            InChI                1.03  "InChI=1S/C6H5BrS/c7-5-1-3-6(8)4-2-5/h1-4,8H" 
+2XE InChIKey         InChI                1.03  FTBCOQFMQSTCQQ-UHFFFAOYSA-N                   
+2XE SMILES_CANONICAL CACTVS               3.385 "Sc1ccc(Br)cc1"                               
+2XE SMILES           CACTVS               3.385 "Sc1ccc(Br)cc1"                               
+2XE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1S)Br"                               
+2XE SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1S)Br"                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2XE "SYSTEMATIC NAME" ACDLabs              12.01 4-bromobenzenethiol    
+2XE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 4-bromanylbenzenethiol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2XE "Create component" 2014-04-04 RCSB 
+2XE "Initial release"  2014-09-10 RCSB 
+# 

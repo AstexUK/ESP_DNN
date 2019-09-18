@@ -1,0 +1,125 @@
+data_DGL
+# 
+_chem_comp.id                                    DGL 
+_chem_comp.name                                  "D-GLUTAMIC ACID" 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.129 
+_chem_comp.one_letter_code                       E 
+_chem_comp.three_letter_code                     DGL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CZQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DGL N   N   N 0 1 N N N 15.813 -4.736 28.474 -1.198 1.861  -0.122 N   DGL 1  
+DGL CA  CA  C 0 1 N N R 14.782 -5.702 28.834 -1.130 0.510  0.451  CA  DGL 2  
+DGL C   C   C 0 1 N N N 14.875 -6.180 30.276 -2.352 -0.272 0.040  C   DGL 3  
+DGL O   O   O 0 1 N N N 14.832 -7.381 30.553 -2.999 0.079  -0.918 O   DGL 4  
+DGL CB  CB  C 0 1 N N N 13.397 -5.090 28.574 0.125  -0.199 -0.062 CB  DGL 5  
+DGL CG  CG  C 0 1 N N N 13.060 -4.844 27.093 1.368  0.525  0.460  CG  DGL 6  
+DGL CD  CD  C 0 1 N N N 13.663 -3.568 26.500 2.605  -0.173 -0.045 CD  DGL 7  
+DGL OE1 OE1 O 0 1 N N N 14.422 -2.859 27.182 2.502  -1.149 -0.750 OE1 DGL 8  
+DGL OE2 OE2 O 0 1 N N N 13.367 -3.264 25.323 3.820  0.290  0.289  OE2 DGL 9  
+DGL OXT OXT O 0 1 N Y N 15.022 -5.237 31.196 -2.720 -1.357 0.738  OXT DGL 10 
+DGL H   H   H 0 1 N N N 15.696 -4.464 27.519 -1.236 1.826  -1.129 H   DGL 11 
+DGL H2  HN2 H 0 1 N Y N 15.735 -3.931 29.062 -1.984 2.373  0.252  H2  DGL 12 
+DGL HA  HA  H 0 1 N N N 14.940 -6.589 28.203 -1.091 0.577  1.538  HA  DGL 13 
+DGL HB2 HB1 H 0 1 N N N 12.645 -5.785 28.976 0.130  -1.230 0.291  HB2 DGL 14 
+DGL HB3 HB2 H 0 1 N N N 13.359 -4.119 29.090 0.129  -0.188 -1.152 HB3 DGL 15 
+DGL HG2 HG1 H 0 1 N N N 13.446 -5.697 26.516 1.363  1.556  0.107  HG2 DGL 16 
+DGL HG3 HG2 H 0 1 N N N 11.966 -4.769 27.006 1.364  0.514  1.550  HG3 DGL 17 
+DGL HE2 HE2 H 0 1 N N N 13.804 -2.455 25.085 4.583  -0.191 -0.059 HE2 DGL 18 
+DGL HXT HXT H 0 1 N Y N 15.084 -5.639 32.055 -3.510 -1.826 0.436  HXT DGL 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DGL N   CA  SING N N 1  
+DGL N   H   SING N N 2  
+DGL N   H2  SING N N 3  
+DGL CA  C   SING N N 4  
+DGL CA  CB  SING N N 5  
+DGL CA  HA  SING N N 6  
+DGL C   O   DOUB N N 7  
+DGL C   OXT SING N N 8  
+DGL CB  CG  SING N N 9  
+DGL CB  HB2 SING N N 10 
+DGL CB  HB3 SING N N 11 
+DGL CG  CD  SING N N 12 
+DGL CG  HG2 SING N N 13 
+DGL CG  HG3 SING N N 14 
+DGL CD  OE1 DOUB N N 15 
+DGL CD  OE2 SING N N 16 
+DGL OE2 HE2 SING N N 17 
+DGL OXT HXT SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DGL SMILES           ACDLabs              12.01 "O=C(O)C(N)CCC(=O)O"                                                           
+DGL SMILES_CANONICAL CACTVS               3.370 "N[C@H](CCC(O)=O)C(O)=O"                                                       
+DGL SMILES           CACTVS               3.370 "N[CH](CCC(O)=O)C(O)=O"                                                        
+DGL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)[C@H](C(=O)O)N"                                                     
+DGL SMILES           "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C(C(=O)O)N"                                                         
+DGL InChI            InChI                1.03  "InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m1/s1" 
+DGL InChIKey         InChI                1.03  WHUUTDBJXJRKMK-GSVOUGTGSA-N                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DGL "SYSTEMATIC NAME" ACDLabs              12.01 "D-glutamic acid"                
+DGL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2R)-2-azanylpentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DGL "Create component"         1999-07-07 RCSB 
+DGL "Modify leaving atom flag" 2011-01-28 RCSB 
+DGL "Modify descriptor"        2011-06-04 RCSB 
+# 

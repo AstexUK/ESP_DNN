@@ -1,0 +1,127 @@
+data_1LP
+# 
+_chem_comp.id                                    1LP 
+_chem_comp.name                                  TRANYLCYPROMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H10 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(2S)-2-PHENYLPROPANAL" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.175 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1LP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1OJB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1LP O2    O2    O 0 1 N N N 52.210 148.368 25.473 -1.027 -0.860 2.892  O2    1LP 1  
+1LP C1    C1    C 0 1 N N N 53.217 148.740 24.559 -0.103 -0.708 2.129  C1    1LP 2  
+1LP C2    C2    C 0 1 N N S 54.206 149.912 24.571 0.017  0.567  1.337  C2    1LP 3  
+1LP C3    C3    C 0 1 N N N 54.608 149.973 23.102 1.338  1.257  1.681  C3    1LP 4  
+1LP "C1'" "C1'" C 0 1 Y N N 54.037 151.385 24.727 -0.014 0.249  -0.135 "C1'" 1LP 5  
+1LP "C6'" "C6'" C 0 1 Y N N 55.116 152.153 25.173 -1.006 0.785  -0.936 "C6'" 1LP 6  
+1LP "C5'" "C5'" C 0 1 Y N N 54.977 153.534 25.317 -1.035 0.493  -2.287 "C5'" 1LP 7  
+1LP "C4'" "C4'" C 0 1 Y N N 53.761 154.155 25.023 -0.073 -0.333 -2.837 "C4'" 1LP 8  
+1LP "C3'" "C3'" C 0 1 Y N N 52.682 153.392 24.580 0.917  -0.867 -2.036 "C3'" 1LP 9  
+1LP "C2'" "C2'" C 0 1 Y N N 52.823 152.011 24.433 0.950  -0.572 -0.686 "C2'" 1LP 10 
+1LP H1C1  1H1C  H 0 0 N N N 53.233 148.019 23.724 0.635  -1.488 2.014  H1C1  1LP 11 
+1LP H2    H2    H 0 1 N N N 54.733 149.631 25.495 -0.813 1.228  1.584  H2    1LP 12 
+1LP H3C1  1H3C  H 0 0 N N N 54.716 148.952 22.708 2.169  0.596  1.433  H3C1  1LP 13 
+1LP H3C2  2H3C  H 0 0 N N N 53.833 150.506 22.532 1.426  2.180  1.108  H3C2  1LP 14 
+1LP H3C3  3H3C  H 0 0 N N N 55.566 150.506 23.006 1.362  1.487  2.746  H3C3  1LP 15 
+1LP "H6'" "H6'" H 0 1 N N N 56.041 151.686 25.402 -1.757 1.430  -0.507 "H6'" 1LP 16 
+1LP "H5'" "H5'" H 0 1 N N N 55.800 154.115 25.652 -1.810 0.911  -2.913 "H5'" 1LP 17 
+1LP "H4'" "H4'" H 0 1 N N N 53.659 155.205 25.137 -0.097 -0.561 -3.892 "H4'" 1LP 18 
+1LP "H3'" "H3'" H 0 1 N N N 51.756 153.860 24.355 1.669  -1.513 -2.466 "H3'" 1LP 19 
+1LP "H2'" "H2'" H 0 1 N N N 52.001 151.431 24.095 1.725  -0.990 -0.060 "H2'" 1LP 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1LP O2    C1    DOUB N N 1  
+1LP C1    C2    SING N N 2  
+1LP C1    H1C1  SING N N 3  
+1LP C2    C3    SING N N 4  
+1LP C2    "C1'" SING N N 5  
+1LP C2    H2    SING N N 6  
+1LP C3    H3C1  SING N N 7  
+1LP C3    H3C2  SING N N 8  
+1LP C3    H3C3  SING N N 9  
+1LP "C1'" "C6'" DOUB Y N 10 
+1LP "C1'" "C2'" SING Y N 11 
+1LP "C6'" "C5'" SING Y N 12 
+1LP "C6'" "H6'" SING N N 13 
+1LP "C5'" "C4'" DOUB Y N 14 
+1LP "C5'" "H5'" SING N N 15 
+1LP "C4'" "C3'" SING Y N 16 
+1LP "C4'" "H4'" SING N N 17 
+1LP "C3'" "C2'" DOUB Y N 18 
+1LP "C3'" "H3'" SING N N 19 
+1LP "C2'" "H2'" SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1LP SMILES           ACDLabs              10.04 "O=CC(c1ccccc1)C"                                             
+1LP SMILES_CANONICAL CACTVS               3.341 "C[C@H](C=O)c1ccccc1"                                         
+1LP SMILES           CACTVS               3.341 "C[CH](C=O)c1ccccc1"                                          
+1LP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H](C=O)c1ccccc1"                                         
+1LP SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C=O)c1ccccc1"                                             
+1LP InChI            InChI                1.03  "InChI=1S/C9H10O/c1-8(7-10)9-5-3-2-4-6-9/h2-8H,1H3/t8-/m1/s1" 
+1LP InChIKey         InChI                1.03  IQVAERDLDAZARL-MRVPVSSYSA-N                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1LP "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-phenylpropanal" 
+1LP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-phenylpropanal" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1LP "Create component"  2003-07-08 EBI  
+1LP "Modify descriptor" 2011-06-04 RCSB 
+# 

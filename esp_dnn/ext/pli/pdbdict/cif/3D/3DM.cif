@@ -1,0 +1,130 @@
+data_3DM
+# 
+_chem_comp.id                                    3DM 
+_chem_comp.name                                  2,6-dimethoxyphenol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H10 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-01-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.163 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3DM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3FU7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3DM O1  O1  O 0 1 N N N -16.628 31.876 20.617 0.000  -2.085 0.032  O1  3DM 1  
+3DM C1  C1  C 0 1 Y N N -15.345 31.782 20.243 -0.000 -0.724 0.017  C1  3DM 2  
+3DM C2  C2  C 0 1 Y N N -15.003 31.769 18.797 1.202  -0.027 0.007  C2  3DM 3  
+3DM O2  O2  O 0 1 N N N -16.004 31.852 17.868 2.382  -0.704 0.011  O2  3DM 4  
+3DM C7  C7  C 0 1 N N N -16.170 30.817 16.910 3.579  0.077  0.000  C7  3DM 5  
+3DM C3  C3  C 0 1 Y N N -13.669 31.667 18.394 1.198  1.359  -0.009 C3  3DM 6  
+3DM C4  C4  C 0 1 Y N N -12.635 31.583 19.330 -0.000 2.049  -0.014 C4  3DM 7  
+3DM C5  C5  C 0 1 Y N N -12.904 31.594 20.701 -1.198 1.360  -0.003 C5  3DM 8  
+3DM C6  C6  C 0 1 Y N N -14.203 31.691 21.211 -1.202 -0.027 0.006  C6  3DM 9  
+3DM O3  O3  O 0 1 N N N -14.326 31.701 22.588 -2.382 -0.704 0.011  O3  3DM 10 
+3DM C8  C8  C 0 1 N N N -15.544 31.779 23.331 -3.579 0.077  -0.001 C8  3DM 11 
+3DM HO1 HO1 H 0 1 N N N -16.681 31.898 21.565 0.002  -2.488 -0.846 HO1 3DM 12 
+3DM H7  H7  H 0 1 N N N -16.213 31.254 15.901 4.444  -0.585 0.005  H7  3DM 13 
+3DM H7A H7A H 0 1 N N N -15.321 30.121 16.972 3.600  0.696  -0.897 H7A 3DM 14 
+3DM H7B H7B H 0 1 N N N -17.105 30.275 17.115 3.604  0.715  0.883  H7B 3DM 15 
+3DM H3  H3  H 0 1 N N N -13.433 31.653 17.340 2.132  1.901  -0.017 H3  3DM 16 
+3DM H4  H4  H 0 1 N N N -11.613 31.508 18.989 -0.000 3.129  -0.025 H4  3DM 17 
+3DM H5  H5  H 0 1 N N N -12.078 31.525 21.393 -2.132 1.902  -0.006 H5  3DM 18 
+3DM H8  H8  H 0 1 N N N -15.317 31.799 24.407 -3.604 0.715  0.882  H8  3DM 19 
+3DM H8A H8A H 0 1 N N N -16.085 32.696 23.053 -3.600 0.695  -0.898 H8A 3DM 20 
+3DM H8B H8B H 0 1 N N N -16.168 30.902 23.104 -4.444 -0.585 0.004  H8B 3DM 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3DM C1 O1  SING N N 1  
+3DM O1 HO1 SING N N 2  
+3DM C2 C1  DOUB Y N 3  
+3DM C1 C6  SING Y N 4  
+3DM O2 C2  SING N N 5  
+3DM C3 C2  SING Y N 6  
+3DM C7 O2  SING N N 7  
+3DM C7 H7  SING N N 8  
+3DM C7 H7A SING N N 9  
+3DM C7 H7B SING N N 10 
+3DM C3 C4  DOUB Y N 11 
+3DM C3 H3  SING N N 12 
+3DM C4 C5  SING Y N 13 
+3DM C4 H4  SING N N 14 
+3DM C5 C6  DOUB Y N 15 
+3DM C5 H5  SING N N 16 
+3DM C6 O3  SING N N 17 
+3DM O3 C8  SING N N 18 
+3DM C8 H8  SING N N 19 
+3DM C8 H8A SING N N 20 
+3DM C8 H8B SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3DM SMILES           ACDLabs              10.04 "O(c1cccc(OC)c1O)C"                                         
+3DM SMILES_CANONICAL CACTVS               3.341 "COc1cccc(OC)c1O"                                           
+3DM SMILES           CACTVS               3.341 "COc1cccc(OC)c1O"                                           
+3DM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COc1cccc(c1O)OC"                                           
+3DM SMILES           "OpenEye OEToolkits" 1.5.0 "COc1cccc(c1O)OC"                                           
+3DM InChI            InChI                1.03  "InChI=1S/C8H10O3/c1-10-6-4-3-5-7(11-2)8(6)9/h3-5,9H,1-2H3" 
+3DM InChIKey         InChI                1.03  KLIDCXVFHGNTTM-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3DM "SYSTEMATIC NAME" ACDLabs              10.04 2,6-dimethoxyphenol 
+3DM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,6-dimethoxyphenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3DM "Create component"     2009-01-19 RCSB 
+3DM "Modify aromatic_flag" 2011-06-04 RCSB 
+3DM "Modify descriptor"    2011-06-04 RCSB 
+# 

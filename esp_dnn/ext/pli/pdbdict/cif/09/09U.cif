@@ -1,0 +1,119 @@
+data_09U
+# 
+_chem_comp.id                                    09U 
+_chem_comp.name                                  "(methoxymethyl)cyclopropane" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-11-15 
+_chem_comp.pdbx_modified_date                    2012-12-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        86.132 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     09U 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UGI 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+09U C1  C1  C 0 1 N N N 12.837 3.800 -8.345  -0.375 0.367  0.263  C1  09U 1  
+09U C2  C2  C 0 1 N N N 13.098 3.271 -9.732  0.919  -0.002 -0.466 C2  09U 2  
+09U C3  C3  C 0 1 N N N 14.082 2.150 -9.690  2.212  0.661  0.011  C3  09U 3  
+09U C4  C4  C 0 1 N N N 12.626 1.860 -9.807  1.957  -0.818 0.306  C4  09U 4  
+09U C5  C5  C 0 1 N N N 12.325 5.809 -7.136  -2.747 0.028  0.214  C5  09U 5  
+09U O1  O1  O 0 1 N N N 12.127 4.983 -8.229  -1.484 -0.254 -0.391 O1  09U 6  
+09U H1  H1  H 0 1 N N N 12.277 3.026 -7.799  -0.322 0.022  1.295  H1  09U 7  
+09U H2  H2  H 0 1 N N N 13.814 3.955 -7.864  -0.504 1.450  0.248  H2  09U 8  
+09U H3  H3  H 0 1 N N N 13.036 3.936 -10.606 0.817  -0.197 -1.534 H3  09U 9  
+09U H4  H4  H 0 1 N N N 14.615 1.921 -8.756  2.962  0.902  -0.743 H4  09U 10 
+09U H5  H5  H 0 1 N N N 14.749 1.971 -10.546 2.141  1.361  0.844  H5  09U 11 
+09U H6  H6  H 0 1 N N N 12.084 1.416 -8.959  1.718  -1.092 1.334  H6  09U 12 
+09U H7  H7  H 0 1 N N N 12.218 1.466 -10.750 2.539  -1.550 -0.253 H7  09U 13 
+09U H8  H8  H 0 1 N N N 11.676 6.693 -7.222  -2.743 -0.324 1.246  H8  09U 14 
+09U H9  H9  H 0 1 N N N 12.079 5.262 -6.214  -2.926 1.103  0.199  H9  09U 15 
+09U H10 H10 H 0 1 N N N 13.377 6.128 -7.104  -3.537 -0.479 -0.340 H10 09U 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+09U C4 C2  SING N N 1  
+09U C4 C3  SING N N 2  
+09U C2 C3  SING N N 3  
+09U C2 C1  SING N N 4  
+09U C1 O1  SING N N 5  
+09U O1 C5  SING N N 6  
+09U C1 H1  SING N N 7  
+09U C1 H2  SING N N 8  
+09U C2 H3  SING N N 9  
+09U C3 H4  SING N N 10 
+09U C3 H5  SING N N 11 
+09U C4 H6  SING N N 12 
+09U C4 H7  SING N N 13 
+09U C5 H8  SING N N 14 
+09U C5 H9  SING N N 15 
+09U C5 H10 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+09U SMILES           ACDLabs              12.01 "cyclopropylmethyl methyl ether"             
+09U InChI            InChI                1.03  InChI=1S/C5H10O/c1-6-4-5-2-3-5/h5H,2-4H2,1H3 
+09U InChIKey         InChI                1.03  XZUHEKNCBBQEBT-UHFFFAOYSA-N                  
+09U SMILES_CANONICAL CACTVS               3.370 COCC1CC1                                     
+09U SMILES           CACTVS               3.370 COCC1CC1                                     
+09U SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 COCC1CC1                                     
+09U SMILES           "OpenEye OEToolkits" 1.7.6 COCC1CC1                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+09U "SYSTEMATIC NAME" ACDLabs              12.01 "(methoxymethyl)cyclopropane" 
+09U "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 methoxymethylcyclopropane     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+09U "Create component" 2011-11-15 RCSB 
+09U "Initial release"  2012-12-07 RCSB 
+# 

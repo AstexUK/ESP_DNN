@@ -1,0 +1,116 @@
+data_6SP
+# 
+_chem_comp.id                                    6SP 
+_chem_comp.name                                  "(3S)-pyrrolidin-3-ol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H9 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-10-27 
+_chem_comp.pdbx_modified_date                    2012-01-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        87.120 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     6SP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UBW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+6SP O1  O1  O 0 1 N N N -17.088 -1.723 13.817 1.858  -0.031 0.487  O1  6SP 1  
+6SP C2  C2  C 0 1 N N S -17.285 -2.801 12.899 0.820  0.043  -0.492 C2  6SP 2  
+6SP C3  C3  C 0 1 N N N -18.777 -2.918 12.591 -0.126 1.218  -0.181 C3  6SP 3  
+6SP N4  N4  N 0 1 N N N -19.210 -4.183 13.208 -1.476 0.648  0.016  N4  6SP 4  
+6SP C5  C5  C 0 1 N N N -18.138 -4.865 13.940 -1.263 -0.758 0.447  C5  6SP 5  
+6SP C6  C6  C 0 1 N N N -16.855 -4.116 13.564 -0.070 -1.219 -0.427 C6  6SP 6  
+6SP HO1 HO1 H 0 1 N N N -16.163 -1.641 14.016 2.422  0.754  0.523  HO1 6SP 7  
+6SP H2  H2  H 0 1 N N N -16.701 -2.614 11.986 1.248  0.155  -1.488 H2  6SP 8  
+6SP H3  H3  H 0 1 N N N -19.331 -2.067 13.014 0.199  1.726  0.727  H3  6SP 9  
+6SP H3A H3A H 0 1 N N N -18.952 -2.933 11.505 -0.136 1.917  -1.017 H3A 6SP 10 
+6SP HN4 HN4 H 0 1 N N N -19.949 -3.981 13.851 -1.989 1.166  0.713  HN4 6SP 11 
+6SP H5  H5  H 0 1 N N N -18.314 -4.822 15.025 -1.005 -0.801 1.505  H5  6SP 12 
+6SP H5A H5A H 0 1 N N N -18.075 -5.924 13.648 -2.147 -1.361 0.241  H5A 6SP 13 
+6SP H6  H6  H 0 1 N N N -16.251 -4.717 12.868 -0.409 -1.504 -1.423 H6  6SP 14 
+6SP H6A H6A H 0 1 N N N -16.254 -3.912 14.463 0.462  -2.042 0.051  H6A 6SP 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+6SP O1 C2  SING N N 1  
+6SP C2 C3  SING N N 2  
+6SP C2 C6  SING N N 3  
+6SP C3 N4  SING N N 4  
+6SP N4 C5  SING N N 5  
+6SP C5 C6  SING N N 6  
+6SP O1 HO1 SING N N 7  
+6SP C2 H2  SING N N 8  
+6SP C3 H3  SING N N 9  
+6SP C3 H3A SING N N 10 
+6SP N4 HN4 SING N N 11 
+6SP C5 H5  SING N N 12 
+6SP C5 H5A SING N N 13 
+6SP C6 H6  SING N N 14 
+6SP C6 H6A SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+6SP SMILES           ACDLabs              12.01 OC1CCNC1                                             
+6SP InChI            InChI                1.03  InChI=1S/C4H9NO/c6-4-1-2-5-3-4/h4-6H,1-3H2/t4-/m0/s1 
+6SP InChIKey         InChI                1.03  JHHZLHWJQPUNKB-BYPYZUCNSA-N                          
+6SP SMILES_CANONICAL CACTVS               3.370 "O[C@H]1CCNC1"                                       
+6SP SMILES           CACTVS               3.370 "O[CH]1CCNC1"                                        
+6SP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C1CNC[C@H]1O"                                       
+6SP SMILES           "OpenEye OEToolkits" 1.7.2 C1CNCC1O                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+6SP "SYSTEMATIC NAME" ACDLabs              12.01 "(3S)-pyrrolidin-3-ol" 
+6SP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(3S)-pyrrolidin-3-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+6SP "Create component" 2011-10-27 RCSB 
+# 

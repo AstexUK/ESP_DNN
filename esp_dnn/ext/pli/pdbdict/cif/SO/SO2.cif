@@ -1,0 +1,92 @@
+data_SO2
+# 
+_chem_comp.id                                    SO2 
+_chem_comp.name                                  "SULFUR DIOXIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        64.064 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SO2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AOF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SO2 S  S  S 0 1 N N N -1.534 17.336 82.068 -0.484 0.000 0.000  S  SO2 1 
+SO2 O1 O1 O 0 1 N N N -1.756 17.831 80.766 0.485  0.000 -1.156 O1 SO2 2 
+SO2 O2 O2 O 0 1 N N N -2.639 17.615 82.872 0.485  0.000 1.156  O2 SO2 3 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SO2 S O1 DOUB N N 1 
+SO2 S O2 DOUB N N 2 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SO2 SMILES           ACDLabs              10.04 O=S=O                       
+SO2 SMILES_CANONICAL CACTVS               3.341 "O=[S]=O"                   
+SO2 SMILES           CACTVS               3.341 "O=[S]=O"                   
+SO2 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 O=S=O                       
+SO2 SMILES           "OpenEye OEToolkits" 1.5.0 O=S=O                       
+SO2 InChI            InChI                1.03  InChI=1S/O2S/c1-3-2         
+SO2 InChIKey         InChI                1.03  RAHZWNYVWXNFOC-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SO2 "SYSTEMATIC NAME" ACDLabs              10.04 "oxosulfane oxide" 
+SO2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "sulfur dioxide"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SO2 "Create component"  1999-07-08 RCSB 
+SO2 "Modify descriptor" 2011-06-04 RCSB 
+# 

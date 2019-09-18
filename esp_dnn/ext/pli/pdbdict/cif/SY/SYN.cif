@@ -1,0 +1,119 @@
+data_SYN
+# 
+_chem_comp.id                                    SYN 
+_chem_comp.name                                  ethenylbenzene 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         styrene 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-15 
+_chem_comp.pdbx_modified_date                    2013-04-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        104.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SYN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4HGF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SYN CAF CAF C 0 1 Y N N 26.852 -0.868 14.101 -0.417 1.303  0.002  CAF SYN 1  
+SYN CAD CAD C 0 1 Y N N 27.056 -1.440 12.805 -1.764 1.005  -0.001 CAD SYN 2  
+SYN CAC CAC C 0 1 Y N N 25.946 -1.761 12.010 -2.184 -0.313 -0.001 CAC SYN 3  
+SYN CAE CAE C 0 1 Y N N 24.653 -1.493 12.516 -1.257 -1.341 -0.001 CAE SYN 4  
+SYN CAG CAG C 0 1 Y N N 24.479 -0.937 13.801 0.093  -1.056 0.001  CAG SYN 5  
+SYN CAH CAH C 0 1 Y N N 25.587 -0.630 14.612 0.523  0.271  0.002  CAH SYN 6  
+SYN CAB CAB C 0 1 N N N 25.375 -0.051 15.881 1.968  0.583  -0.001 CAB SYN 7  
+SYN CAA CAA C 0 1 N N N 24.343 1.127  15.893 2.858  -0.399 -0.001 CAA SYN 8  
+SYN H1  H1  H 0 1 N N N 27.713 -0.613 14.701 -0.090 2.332  -0.002 H1  SYN 9  
+SYN H2  H2  H 0 1 N N N 28.057 -1.623 12.442 -2.492 1.802  -0.001 H2  SYN 10 
+SYN H3  H3  H 0 1 N N N 26.076 -2.203 11.033 -3.239 -0.541 -0.002 H3  SYN 11 
+SYN H4  H4  H 0 1 N N N 23.787 -1.717 11.911 -1.591 -2.368 -0.001 H4  SYN 12 
+SYN H5  H5  H 0 1 N N N 23.481 -0.744 14.167 0.815  -1.859 0.002  H5  SYN 13 
+SYN H6  H6  H 0 1 N N N 25.883 -0.392 16.771 2.298  1.612  -0.004 H6  SYN 14 
+SYN H8  H8  H 0 1 N N N 24.114 1.634  16.818 3.914  -0.171 -0.003 H8  SYN 15 
+SYN H9  H9  H 0 1 N N N 23.861 1.432  14.976 2.528  -1.427 0.003  H9  SYN 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SYN CAC CAE DOUB Y N 1  
+SYN CAC CAD SING Y N 2  
+SYN CAE CAG SING Y N 3  
+SYN CAD CAF DOUB Y N 4  
+SYN CAG CAH DOUB Y N 5  
+SYN CAF CAH SING Y N 6  
+SYN CAH CAB SING N N 7  
+SYN CAB CAA DOUB N N 8  
+SYN CAF H1  SING N N 9  
+SYN CAD H2  SING N N 10 
+SYN CAC H3  SING N N 11 
+SYN CAE H4  SING N N 12 
+SYN CAG H5  SING N N 13 
+SYN CAB H6  SING N N 14 
+SYN CAA H8  SING N N 15 
+SYN CAA H9  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SYN SMILES           ACDLabs              12.01 C=C\c1ccccc1                               
+SYN InChI            InChI                1.03  InChI=1S/C8H8/c1-2-8-6-4-3-5-7-8/h2-7H,1H2 
+SYN InChIKey         InChI                1.03  PPBRXRYQALVLMV-UHFFFAOYSA-N                
+SYN SMILES_CANONICAL CACTVS               3.370 C=Cc1ccccc1                                
+SYN SMILES           CACTVS               3.370 C=Cc1ccccc1                                
+SYN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C=Cc1ccccc1                                
+SYN SMILES           "OpenEye OEToolkits" 1.7.6 C=Cc1ccccc1                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SYN "SYSTEMATIC NAME" ACDLabs              12.01 ethenylbenzene 
+SYN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 ethenylbenzene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SYN "Create component" 2012-10-15 RCSB 
+SYN "Initial release"  2013-05-01 RCSB 
+# 

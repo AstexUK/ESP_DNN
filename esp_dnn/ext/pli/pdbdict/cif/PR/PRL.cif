@@ -1,0 +1,143 @@
+data_PRL
+# 
+_chem_comp.id                                    PRL 
+_chem_comp.name                                  PROFLAVIN 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H11 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         PF 
+_chem_comp.formula_weight                        209.247 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PRL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BCU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PRL C1   C1   C 0 1 Y N N 8.982  23.182 49.516 1.616  0.000  2.444  C1   PRL 1  
+PRL C2   C2   C 0 1 Y N N 9.670  23.649 48.475 0.888  0.000  3.588  C2   PRL 2  
+PRL C3   C3   C 0 1 Y N N 10.665 22.851 47.794 -0.513 0.001  3.565  C3   PRL 3  
+PRL C4   C4   C 0 1 Y N N 10.902 21.573 48.264 -1.211 -0.004 2.380  C4   PRL 4  
+PRL C5   C5   C 0 1 Y N N 9.939  17.864 51.143 -1.211 -0.000 -2.380 C5   PRL 5  
+PRL C6   C6   C 0 1 Y N N 9.231  17.253 52.163 -0.513 0.000  -3.565 C6   PRL 6  
+PRL C7   C7   C 0 1 Y N N 8.222  18.030 52.852 0.888  0.000  -3.588 C7   PRL 7  
+PRL C8   C8   C 0 1 Y N N 7.968  19.299 52.528 1.616  -0.000 -2.444 C8   PRL 8  
+PRL C9   C9   C 0 1 Y N N 8.475  21.272 51.058 1.678  -0.000 0.000  C9   PRL 9  
+PRL N10  N10  N 0 1 Y N N 10.385 19.776 49.768 -1.158 -0.000 0.000  N10  PRL 10 
+PRL C11  C11  C 0 1 Y N N 10.196 21.070 49.336 -0.507 -0.000 1.160  C11  PRL 11 
+PRL C12  C12  C 0 1 Y N N 8.690  19.965 51.464 0.958  -0.000 -1.196 C12  PRL 12 
+PRL C13  C13  C 0 1 Y N N 9.190  21.846 50.020 0.958  -0.000 1.196  C13  PRL 13 
+PRL C14  C14  C 0 1 Y N N 9.691  19.173 50.793 -0.507 -0.000 -1.160 C14  PRL 14 
+PRL N15  N15  N 0 1 N N N 11.274 23.326 46.684 -1.214 0.002  4.768  N15  PRL 15 
+PRL N16  N16  N 0 1 N N N 9.453  15.962 52.502 -1.214 0.001  -4.768 N16  PRL 16 
+PRL H1   H1   H 0 1 N N N 8.254  23.887 49.951 2.695  0.000  2.487  H1   PRL 17 
+PRL H2   H2   H 0 1 N N N 9.419  24.682 48.181 1.400  0.000  4.539  H2   PRL 18 
+PRL H4   H4   H 0 1 N N N 11.666 20.944 47.776 -2.291 -0.008 2.385  H4   PRL 19 
+PRL H5   H5   H 0 1 N N N 10.714 17.298 50.599 -2.291 0.000  -2.385 H5   PRL 20 
+PRL H7   H7   H 0 1 N N N 7.607  17.629 53.676 1.400  0.000  -4.539 H7   PRL 21 
+PRL H8   H8   H 0 1 N N N 7.179  19.786 53.125 2.695  0.000  -2.487 H8   PRL 22 
+PRL H9   H9   H 0 1 N N N 7.710  21.874 51.577 2.758  -0.000 0.000  H9   PRL 23 
+PRL HNF1 1HNF H 0 0 N N N 11.975 22.763 46.203 -0.732 0.001  5.610  HNF1 PRL 24 
+PRL HNF2 2HNF H 0 0 N N N 11.685 24.232 46.906 -2.184 0.006  4.764  HNF2 PRL 25 
+PRL HNG1 1HNG H 0 0 N N N 8.931  15.511 53.253 -0.732 0.001  -5.610 HNG1 PRL 26 
+PRL HNG2 2HNG H 0 0 N N N 10.447 15.856 52.703 -2.184 0.001  -4.764 HNG2 PRL 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PRL C1  C2   DOUB Y N 1  
+PRL C1  C13  SING Y N 2  
+PRL C1  H1   SING N N 3  
+PRL C2  C3   SING Y N 4  
+PRL C2  H2   SING N N 5  
+PRL C3  C4   DOUB Y N 6  
+PRL C3  N15  SING N N 7  
+PRL C4  C11  SING Y N 8  
+PRL C4  H4   SING N N 9  
+PRL C5  C6   DOUB Y N 10 
+PRL C5  C14  SING Y N 11 
+PRL C5  H5   SING N N 12 
+PRL C6  C7   SING Y N 13 
+PRL C6  N16  SING N N 14 
+PRL C7  C8   DOUB Y N 15 
+PRL C7  H7   SING N N 16 
+PRL C8  C12  SING Y N 17 
+PRL C8  H8   SING N N 18 
+PRL C9  C12  DOUB Y N 19 
+PRL C9  C13  SING Y N 20 
+PRL C9  H9   SING N N 21 
+PRL N10 C11  SING Y N 22 
+PRL N10 C14  DOUB Y N 23 
+PRL C11 C13  DOUB Y N 24 
+PRL C12 C14  SING Y N 25 
+PRL N15 HNF1 SING N N 26 
+PRL N15 HNF2 SING N N 27 
+PRL N16 HNG1 SING N N 28 
+PRL N16 HNG2 SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PRL SMILES           ACDLabs              10.04 "n1c3c(cc2c1cc(N)cc2)ccc(c3)N"                                                   
+PRL SMILES_CANONICAL CACTVS               3.341 "Nc1ccc2cc3ccc(N)cc3nc2c1"                                                       
+PRL SMILES           CACTVS               3.341 "Nc1ccc2cc3ccc(N)cc3nc2c1"                                                       
+PRL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(cc2c1cc3ccc(cc3n2)N)N"                                                     
+PRL SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(cc2c1cc3ccc(cc3n2)N)N"                                                     
+PRL InChI            InChI                1.03  "InChI=1S/C13H11N3/c14-10-3-1-8-5-9-2-4-11(15)7-13(9)16-12(8)6-10/h1-7H,14-15H2" 
+PRL InChIKey         InChI                1.03  WDVSHHCDHLJJJR-UHFFFAOYSA-N                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PRL "SYSTEMATIC NAME" ACDLabs              10.04 acridine-3,6-diamine 
+PRL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 acridine-3,6-diamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PRL "Create component"  1999-07-08 EBI  
+PRL "Modify descriptor" 2011-06-04 RCSB 
+# 

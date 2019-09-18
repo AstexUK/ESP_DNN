@@ -1,0 +1,152 @@
+data_BRX
+# 
+_chem_comp.id                                    BRX 
+_chem_comp.name                                  BROMAMPHENICOL 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             ? 
+_chem_comp.formula                               "C11 H12 Br2 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-08-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        412.031 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BRX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2JKL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BRX O2   O2   O  0  1 N N N 40.520 38.972 -11.172 40.520 38.972 -11.172 O2   BRX 1  
+BRX C2   C2   C  0  1 N N N 39.376 38.909 -11.425 39.376 38.909 -11.425 C2   BRX 2  
+BRX N2   N2   N  0  1 N N N 38.873 39.399 -12.516 38.873 39.399 -12.516 N2   BRX 3  
+BRX C3   C3   C  0  1 N N R 39.548 39.879 -13.724 39.548 39.879 -13.724 C3   BRX 4  
+BRX C4   C4   C  0  1 N N N 39.606 41.376 -13.723 39.606 41.376 -13.723 C4   BRX 5  
+BRX O4   O4   O  0  1 N N N 38.182 41.570 -13.940 38.182 41.570 -13.940 O4   BRX 6  
+BRX C5   C5   C  0  1 N N R 39.554 38.915 -14.800 39.554 38.915 -14.800 C5   BRX 7  
+BRX O5   O5   O  0  1 N N N 38.168 38.968 -15.097 38.168 38.968 -15.097 O5   BRX 8  
+BRX C6   C6   C  0  1 Y N N 40.365 37.792 -14.976 40.365 37.792 -14.976 C6   BRX 9  
+BRX C11  C11  C  0  1 Y N N 39.639 36.648 -15.115 39.639 36.648 -15.115 C11  BRX 10 
+BRX C10  C10  C  0  1 Y N N 40.351 35.367 -15.154 40.351 35.367 -15.154 C10  BRX 11 
+BRX C9   C9   C  0  1 Y N N 41.730 35.363 -15.041 41.730 35.363 -15.041 C9   BRX 12 
+BRX N9   N9   N  1  1 N N N 42.475 34.086 -15.084 42.475 34.086 -15.084 N9   BRX 13 
+BRX O9B  O9B  O  -1 1 N N N 43.688 34.085 -14.988 43.688 34.085 -14.988 O9B  BRX 14 
+BRX O9A  O9A  O  0  1 N N N 41.872 33.034 -15.219 41.872 33.034 -15.219 O9A  BRX 15 
+BRX C8   C8   C  0  1 Y N N 42.415 36.552 -14.894 42.415 36.552 -14.894 C8   BRX 16 
+BRX C7   C7   C  0  1 Y N N 41.696 37.826 -14.834 41.696 37.826 -14.834 C7   BRX 17 
+BRX C1   C1   C  0  1 N N N 38.694 38.135 -10.470 38.694 38.135 -10.470 C1   BRX 18 
+BRX BR1  BR1  BR 0  0 N N N 38.422 36.198 -10.656 38.422 36.198 -10.656 BR1  BRX 19 
+BRX BR2  BR2  BR 0  0 N N N 38.924 38.615 -8.572  38.924 38.615 -8.572  BR2  BRX 20 
+BRX H2   H2   H  0  1 N N N 37.875 39.458 -12.535 37.875 39.458 -12.535 H2   BRX 21 
+BRX H1   H1   H  0  1 N N N 37.743 38.529 -10.858 37.743 38.529 -10.858 H1   BRX 22 
+BRX H3   H3   H  0  1 N N N 40.628 39.868 -13.932 40.628 39.868 -13.932 H3   BRX 23 
+BRX H41C H41C H  0  0 N N N 39.988 41.816 -12.790 39.988 41.816 -12.790 H41C BRX 24 
+BRX H42C H42C H  0  0 N N N 40.293 41.853 -14.438 40.293 41.853 -14.438 H42C BRX 25 
+BRX H5   H5   H  0  1 N N N 40.312 39.103 -15.575 40.312 39.104 -15.575 H5   BRX 26 
+BRX H4   H4   H  0  1 N N N 37.736 41.612 -13.102 37.736 41.612 -13.102 H4   BRX 27 
+BRX HA   HA   H  0  1 N N N 37.671 38.980 -14.288 37.671 38.980 -14.288 HA   BRX 28 
+BRX H11  H11  H  0  1 N N N 38.563 36.684 -15.195 38.562 36.684 -15.195 H11  BRX 29 
+BRX H7   H7   H  0  1 N N N 42.220 38.758 -14.681 42.220 38.758 -14.681 H7   BRX 30 
+BRX H10  H10  H  0  1 N N N 39.808 34.441 -15.269 39.807 34.441 -15.269 H10  BRX 31 
+BRX H8   H8   H  0  1 N N N 43.493 36.543 -14.822 43.493 36.543 -14.823 H8   BRX 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BRX O2  C2   DOUB N N 1  
+BRX C2  N2   SING N N 2  
+BRX C2  C1   SING N N 3  
+BRX N2  C3   SING N N 4  
+BRX C3  C4   SING N N 5  
+BRX C3  C5   SING N N 6  
+BRX C4  O4   SING N N 7  
+BRX C5  O5   SING N N 8  
+BRX C5  C6   SING N N 9  
+BRX C6  C11  SING Y N 10 
+BRX C6  C7   DOUB Y N 11 
+BRX C11 C10  DOUB Y N 12 
+BRX C10 C9   SING Y N 13 
+BRX C9  N9   SING N N 14 
+BRX C9  C8   DOUB Y N 15 
+BRX N9  O9B  SING N N 16 
+BRX N9  O9A  DOUB N N 17 
+BRX C8  C7   SING Y N 18 
+BRX C1  BR1  SING N N 19 
+BRX C1  BR2  SING N N 20 
+BRX N2  H2   SING N N 21 
+BRX C1  H1   SING N N 22 
+BRX C3  H3   SING N N 23 
+BRX C4  H41C SING N N 24 
+BRX C4  H42C SING N N 25 
+BRX C5  H5   SING N N 26 
+BRX O4  H4   SING N N 27 
+BRX O5  HA   SING N N 28 
+BRX C11 H11  SING N N 29 
+BRX C7  H7   SING N N 30 
+BRX C10 H10  SING N N 31 
+BRX C8  H8   SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BRX SMILES           ACDLabs              10.04 "BrC(Br)C(=O)NC(C(O)c1ccc([N+]([O-])=O)cc1)CO"                                                                             
+BRX SMILES_CANONICAL CACTVS               3.341 "OC[C@@H](NC(=O)C(Br)Br)[C@H](O)c1ccc(cc1)[N+]([O-])=O"                                                                    
+BRX SMILES           CACTVS               3.341 "OC[CH](NC(=O)C(Br)Br)[CH](O)c1ccc(cc1)[N+]([O-])=O"                                                                       
+BRX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Br)Br)O)[N+](=O)[O-]"                                                                    
+BRX SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1C(C(CO)NC(=O)C(Br)Br)O)[N+](=O)[O-]"                                                                             
+BRX InChI            InChI                1.03  "InChI=1S/C11H12Br2N2O5/c12-10(13)11(18)14-8(5-16)9(17)6-1-3-7(4-2-6)15(19)20/h1-4,8-10,16-17H,5H2,(H,14,18)/t8-,9-/m1/s1" 
+BRX InChIKey         InChI                1.03  UWOHGNMWBGIRAQ-RKDXNWHRSA-N                                                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BRX "SYSTEMATIC NAME" ACDLabs              10.04 "2,2-dibromo-N-[(1R,2R)-2-hydroxy-1-(hydroxymethyl)-2-(4-nitrophenyl)ethyl]acetamide" 
+BRX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2,2-dibromo-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]ethanamide"        
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BRX "Create component"     2008-08-28 EBI  
+BRX "Modify aromatic_flag" 2011-06-04 RCSB 
+BRX "Modify descriptor"    2011-06-04 RCSB 
+# 

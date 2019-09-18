@@ -1,0 +1,185 @@
+data_PPS
+# 
+_chem_comp.id                                    PPS 
+_chem_comp.name                                  
+;3'-PHOSPHATE-ADENOSINE-5'-PHOSPHATE SULFATE
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H15 N5 O13 P2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        507.264 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PPS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BUX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PPS S2     S2   S 0 1 N N N ?      ?      ?      5.849  6.093  0.650  S2     PPS 1  
+PPS OS1    OS1  O 0 1 N N N ?      ?      ?      6.154  7.570  0.031  OS1    PPS 2  
+PPS OS2    OS2  O 0 1 N N N ?      ?      ?      6.809  5.859  1.712  OS2    PPS 3  
+PPS OS3    OS3  O 0 1 N N N ?      ?      ?      4.424  6.018  0.912  OS3    PPS 4  
+PPS O6P    O6P  O 0 1 N N N 33.034 34.394 4.838  6.196  5.104  -0.603 O6P    PPS 5  
+PPS P2     P2   P 0 1 N N S 33.533 33.404 5.843  6.144  3.524  -0.251 P2     PPS 6  
+PPS O4P    O4P  O 0 1 N N N 35.007 33.256 6.038  7.086  3.052  0.820  O4P    PPS 7  
+PPS O5P    O5P  O 0 1 N N N 32.889 31.941 5.520  6.381  2.827  -1.694 O5P    PPS 8  
+PPS "O5'"  O5*  O 0 1 N N N 32.827 33.744 7.268  4.566  3.301  0.029  "O5'"  PPS 9  
+PPS "C5'"  C5*  C 0 1 N N N 32.911 35.019 7.841  4.092  1.980  0.223  "C5'"  PPS 10 
+PPS "C4'"  C4*  C 0 1 N N R 32.738 35.000 9.351  2.595  2.031  0.465  "C4'"  PPS 11 
+PPS "O4'"  O4*  O 0 1 N N N 31.568 34.351 9.798  1.933  2.574  -0.689 "O4'"  PPS 12 
+PPS "C1'"  C1*  C 0 1 N N R 31.960 33.139 10.439 0.622  1.976  -0.784 "C1'"  PPS 13 
+PPS N9     N9   N 0 1 Y N N 31.049 32.053 10.076 0.424  1.450  -2.136 N9     PPS 14 
+PPS C4     C4   C 0 1 Y N N 30.125 31.491 10.963 -0.749 1.408  -2.837 C4     PPS 15 
+PPS N3     N3   N 0 1 Y N N 29.847 31.919 12.174 -1.956 1.836  -2.437 N3     PPS 16 
+PPS C2     C2   C 0 1 Y N N 28.983 31.116 12.794 -2.875 1.627  -3.404 C2     PPS 17 
+PPS N1     N1   N 0 1 Y N N 28.310 30.065 12.367 -2.709 1.075  -4.630 N1     PPS 18 
+PPS C6     C6   C 0 1 Y N N 28.518 29.712 11.096 -1.462 0.665  -4.967 C6     PPS 19 
+PPS N6     N6   N 0 1 N N N 27.706 28.767 10.601 -1.225 0.085  -6.225 N6     PPS 20 
+PPS C5     C5   C 0 1 Y N N 29.525 30.426 10.337 -0.426 0.827  -4.052 C5     PPS 21 
+PPS N7     N7   N 0 1 Y N N 30.097 30.265 9.019  0.910  0.517  -4.103 N7     PPS 22 
+PPS C8     C8   C 0 1 Y N N 30.928 31.316 8.864  1.390  0.903  -2.940 C8     PPS 23 
+PPS "C2'"  C2*  C 0 1 N N R 33.377 32.886 9.950  0.518  0.913  0.310  "C2'"  PPS 24 
+PPS "O2'"  O2*  O 0 1 N N N 34.223 31.964 10.628 -0.210 1.445  1.415  "O2'"  PPS 25 
+PPS "C3'"  C3*  C 0 1 N N S 33.865 34.265 10.021 1.969  0.663  0.677  "C3'"  PPS 26 
+PPS "O3'"  O3*  O 0 1 N N N 33.847 34.799 11.336 2.143  0.197  1.998  "O3'"  PPS 27 
+PPS P1     P1   P 0 1 N N N 35.186 35.412 11.937 1.433  -1.191 2.415  P1     PPS 28 
+PPS O1P    O1P  O 0 1 N N N 36.008 35.707 10.726 2.004  -1.486 3.899  O1P    PPS 29 
+PPS O2P    O2P  O 0 1 N N N 34.770 36.594 12.741 2.208  -2.273 1.496  O2P    PPS 30 
+PPS O3P    O3P  O 0 1 N N N 35.667 34.274 12.723 -0.062 -1.207 2.288  O3P    PPS 31 
+PPS HO1    HO1  H 0 1 N N N 0.950  0.000  0.000  5.775  7.739  -0.863 HO1    PPS 32 
+PPS HO5P   PHO5 H 0 0 N N N 33.206 31.313 6.158  7.293  2.766  -2.048 HO5P   PPS 33 
+PPS "H5'1" 1H5* H 0 0 N N N 32.185 35.719 7.365  4.308  1.388  -0.668 "H5'1" PPS 34 
+PPS "H5'2" 2H5* H 0 0 N N N 33.864 35.523 7.555  4.597  1.541  1.085  "H5'2" PPS 35 
+PPS "H4'"  H4*  H 0 1 N N N 32.699 36.082 9.618  2.399  2.693  1.317  "H4'"  PPS 36 
+PPS "H1'"  H1*  H 0 1 N N N 31.922 33.203 11.552 -0.125 2.769  -0.673 "H1'"  PPS 37 
+PPS H2     H2   H 0 1 N N N 28.790 31.366 13.851 -3.885 1.945  -3.168 H2     PPS 38 
+PPS HN61   1HN6 H 0 0 N N N 26.734 29.049 10.725 -0.293 -0.186 -6.475 HN61   PPS 39 
+PPS HN62   2HN6 H 0 0 N N N 27.865 28.497 9.630  -1.971 0.035  -6.893 HN62   PPS 40 
+PPS H8     H8   H 0 1 N N N 31.426 31.536 7.905  2.421  0.814  -2.623 H8     PPS 41 
+PPS "H2'"  H2*  H 0 1 N N N 33.382 32.353 8.970  -0.000 0.001  -0.003 "H2'"  PPS 42 
+PPS "HO2'" *HO2 H 0 0 N N N 35.109 31.806 10.322 -0.922 0.815  1.623  "HO2'" PPS 43 
+PPS "H3'"  H3*  H 0 1 N N N 34.900 34.337 9.613  2.403  -0.065 -0.019 "H3'"  PPS 44 
+PPS HO1P   PHO1 H 0 0 N N N 36.808 36.073 11.085 1.661  -2.260 4.394  HO1P   PPS 45 
+PPS HO2P   PHO2 H 0 0 N N N 35.570 36.960 13.100 1.897  -3.203 1.494  HO2P   PPS 46 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PPS S2    OS1    SING N N 1  
+PPS S2    OS2    DOUB N N 2  
+PPS S2    OS3    DOUB N N 3  
+PPS S2    O6P    SING N N 4  
+PPS OS1   HO1    SING N N 5  
+PPS O6P   P2     SING N N 6  
+PPS P2    O4P    DOUB N N 7  
+PPS P2    O5P    SING N N 8  
+PPS P2    "O5'"  SING N N 9  
+PPS O5P   HO5P   SING N N 10 
+PPS "O5'" "C5'"  SING N N 11 
+PPS "C5'" "C4'"  SING N N 12 
+PPS "C5'" "H5'1" SING N N 13 
+PPS "C5'" "H5'2" SING N N 14 
+PPS "C4'" "O4'"  SING N N 15 
+PPS "C4'" "C3'"  SING N N 16 
+PPS "C4'" "H4'"  SING N N 17 
+PPS "O4'" "C1'"  SING N N 18 
+PPS "C1'" N9     SING N N 19 
+PPS "C1'" "C2'"  SING N N 20 
+PPS "C1'" "H1'"  SING N N 21 
+PPS N9    C4     SING Y N 22 
+PPS N9    C8     SING Y N 23 
+PPS C4    N3     SING Y N 24 
+PPS C4    C5     DOUB Y N 25 
+PPS N3    C2     DOUB Y N 26 
+PPS C2    N1     SING Y N 27 
+PPS C2    H2     SING N N 28 
+PPS N1    C6     DOUB Y N 29 
+PPS C6    N6     SING N N 30 
+PPS C6    C5     SING Y N 31 
+PPS N6    HN61   SING N N 32 
+PPS N6    HN62   SING N N 33 
+PPS C5    N7     SING Y N 34 
+PPS N7    C8     DOUB Y N 35 
+PPS C8    H8     SING N N 36 
+PPS "C2'" "O2'"  SING N N 37 
+PPS "C2'" "C3'"  SING N N 38 
+PPS "C2'" "H2'"  SING N N 39 
+PPS "O2'" "HO2'" SING N N 40 
+PPS "C3'" "O3'"  SING N N 41 
+PPS "C3'" "H3'"  SING N N 42 
+PPS "O3'" P1     SING N N 43 
+PPS P1    O1P    SING N N 44 
+PPS P1    O2P    SING N N 45 
+PPS P1    O3P    DOUB N N 46 
+PPS O1P   HO1P   SING N N 47 
+PPS O2P   HO2P   SING N N 48 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PPS SMILES           ACDLabs              10.04 "O=S(=O)(O)OP(=O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3OP(=O)(O)O"                                                                                                                                                 
+PPS SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P@](O)(=O)O[S](O)(=O)=O)[C@@H](O[P](O)(O)=O)[C@H]3O"                                                                                                                        
+PPS SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(=O)O[S](O)(=O)=O)[CH](O[P](O)(O)=O)[CH]3O"                                                                                                                               
+PPS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)OS(=O)(=O)O)OP(=O)(O)O)O)N"                                                                                                                     
+PPS SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OS(=O)(=O)O)OP(=O)(O)O)O)N"                                                                                                                                           
+PPS InChI            InChI                1.03  "InChI=1S/C10H15N5O13P2S/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7(27-29(17,18)19)4(26-10)1-25-30(20,21)28-31(22,23)24/h2-4,6-7,10,16H,1H2,(H,20,21)(H2,11,12,13)(H2,17,18,19)(H,22,23,24)/t4-,6-,7-,10-/m1/s1" 
+PPS InChIKey         InChI                1.03  GACDQMDRPRGCTN-KQYNXXCUSA-N                                                                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PPS "SYSTEMATIC NAME" ACDLabs              10.04 
+;5'-O-[(R)-hydroxy(sulfooxy)phosphoryl]adenosine 3'-(dihydrogen phosphate)
+;
+PPS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-4-hydroxy-3-phosphonooxy-oxolan-2-yl]methyl sulfo hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PPS "Create component"  1999-07-08 RCSB 
+PPS "Modify descriptor" 2011-06-04 RCSB 
+# 

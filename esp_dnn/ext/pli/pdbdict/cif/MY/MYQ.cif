@@ -1,0 +1,116 @@
+data_MYQ
+# 
+_chem_comp.id                                    MYQ 
+_chem_comp.name                                  "(S)-(1,2-DICARBOXYETHYLTHIO)GOLD" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H5 Au O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         MYOCRISIN 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-09-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        346.112 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MYQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        2ATO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MYQ S   S   S  0 1 N N N 29.154 55.978 64.476 ? ? ? S   MYQ 1  
+MYQ O1  O1  O  0 1 N N N 32.426 55.729 64.162 ? ? ? O1  MYQ 2  
+MYQ O2  O2  O  0 1 N N N 32.557 53.640 64.844 ? ? ? O2  MYQ 3  
+MYQ O3  O3  O  0 1 N N N 30.288 51.147 63.535 ? ? ? O3  MYQ 4  
+MYQ O4  O4  O  0 1 N N N 31.022 52.820 62.235 ? ? ? O4  MYQ 5  
+MYQ C1  C1  C  0 1 N N N 31.805 54.658 64.559 ? ? ? C1  MYQ 6  
+MYQ C2  C2  C  0 1 N N S 30.328 54.639 64.731 ? ? ? C2  MYQ 7  
+MYQ C3  C3  C  0 1 N N N 29.669 53.329 64.279 ? ? ? C3  MYQ 8  
+MYQ C4  C4  C  0 1 N N N 30.371 52.385 63.310 ? ? ? C4  MYQ 9  
+MYQ AU  AU  AU 0 0 N N N 30.253 58.189 64.077 ? ? ? AU  MYQ 10 
+MYQ HO2 HO2 H  0 1 N N N 33.468 53.870 64.705 ? ? ? HO2 MYQ 11 
+MYQ HO3 HO3 H  0 1 N N N 30.739 50.669 62.849 ? ? ? HO3 MYQ 12 
+MYQ H2  H2  H  0 1 N N N 30.500 54.826 65.801 ? ? ? H2  MYQ 13 
+MYQ H31 1H3 H  0 1 N N N 28.800 53.676 63.700 ? ? ? H31 MYQ 14 
+MYQ H32 2H3 H  0 1 N N N 29.504 52.746 65.197 ? ? ? H32 MYQ 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MYQ S  C2  SING N N 1  
+MYQ S  AU  SING N N 2  
+MYQ O1 C1  DOUB N N 3  
+MYQ O2 C1  SING N N 4  
+MYQ O2 HO2 SING N N 5  
+MYQ O3 C4  SING N N 6  
+MYQ O3 HO3 SING N N 7  
+MYQ O4 C4  DOUB N N 8  
+MYQ C1 C2  SING N N 9  
+MYQ C2 C3  SING N N 10 
+MYQ C2 H2  SING N N 11 
+MYQ C3 C4  SING N N 12 
+MYQ C3 H31 SING N N 13 
+MYQ C3 H32 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MYQ SMILES           ACDLabs              10.04 "O=C(O)CC(S[Au])C(=O)O"                                                                  
+MYQ SMILES_CANONICAL CACTVS               3.341 "OC(=O)C[C@H](S[Au])C(O)=O"                                                              
+MYQ SMILES           CACTVS               3.341 "OC(=O)C[CH](S[Au])C(O)=O"                                                               
+MYQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)S[Au])C(=O)O"                                                           
+MYQ SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)S[Au])C(=O)O"                                                                
+MYQ InChI            InChI                1.03  "InChI=1S/C4H6O4S.Au/c5-3(6)1-2(9)4(7)8;/h2,9H,1H2,(H,5,6)(H,7,8);/q;+1/p-1/t2-;/m0./s1" 
+MYQ InChIKey         InChI                1.03  XJHSMFDIQHVMCY-DKWTVANSSA-M                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MYQ "SYSTEMATIC NAME" ACDLabs              10.04 "gold(1+) (1S)-1,2-dicarboxyethanethiolate"             
+MYQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S)-1,4-dihydroxy-1,4-dioxo-butan-2-yl]sulfanylgold" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MYQ "Create component"  2005-09-07 RCSB 
+MYQ "Modify descriptor" 2011-06-04 RCSB 
+# 

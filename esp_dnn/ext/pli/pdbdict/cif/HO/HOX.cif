@@ -1,0 +1,138 @@
+data_HOX
+# 
+_chem_comp.id                                    HOX 
+_chem_comp.name                                  4-amino-L-phenylalanine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H12 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               PHE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-08-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.204 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HOX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3IDN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HOX O    O    O 0 1 N N N 3.321  55.362 83.397 3.872  -0.822 0.115  O    HOX 1  
+HOX C    C    C 0 1 N N N 2.096  55.886 83.423 3.174  0.136  -0.119 C    HOX 2  
+HOX N    N    N 0 1 N N N 1.694  55.144 81.093 1.472  -1.442 -0.840 N    HOX 3  
+HOX OXT  OXT  O 0 1 N Y N 1.764  56.765 84.217 3.704  1.369  -0.115 OXT  HOX 4  
+HOX CA   CA   C 0 1 N N S 1.092  55.353 82.400 1.710  -0.054 -0.421 CA   HOX 5  
+HOX CB   CB   C 0 1 N N N 0.523  54.024 82.894 0.887  0.248  0.834  CB   HOX 6  
+HOX CG   CG   C 0 1 Y N N -0.350 54.099 84.129 -0.581 0.178  0.501  CG   HOX 7  
+HOX CZ   CZ   C 0 1 Y N N -1.972 54.123 86.427 -3.276 0.049  -0.110 CZ   HOX 8  
+HOX NZ   NZ   N 0 1 N N N -2.770 54.099 87.557 -4.637 -0.016 -0.419 NZ   HOX 9  
+HOX CD1  CD1  C 0 1 Y N N -1.737 54.035 84.026 -1.245 1.311  0.067  CD1  HOX 10 
+HOX CD2  CD2  C 0 1 Y N N 0.210  54.184 85.403 -1.260 -1.020 0.624  CD2  HOX 11 
+HOX CE1  CE1  C 0 1 Y N N -2.550 54.045 85.167 -2.590 1.250  -0.239 CE1  HOX 12 
+HOX CE2  CE2  C 0 1 Y N N -0.593 54.196 86.555 -2.605 -1.088 0.319  CE2  HOX 13 
+HOX HN   HN   H 0 1 N N N 1.003  54.796 80.459 1.740  -2.089 -0.114 HN   HOX 14 
+HOX HNA  HNA  H 0 1 N Y N 2.055  56.011 80.750 0.510  -1.578 -1.110 HNA  HOX 15 
+HOX HXT  HXT  H 0 1 N Y N 2.502  56.985 84.773 4.648  1.441  0.080  HXT  HOX 16 
+HOX HA   HA   H 0 1 N N N 0.299  56.108 82.294 1.413  0.623  -1.221 HA   HOX 17 
+HOX HB   HB   H 0 1 N N N -0.091 53.606 82.082 1.120  -0.485 1.606  HB   HOX 18 
+HOX HBA  HBA  H 0 1 N N N 1.374  53.370 83.132 1.130  1.247  1.196  HBA  HOX 19 
+HOX HNZ  HNZ  H 0 1 N N N -2.195 54.164 88.373 -5.114 -0.856 -0.333 HNZ  HOX 20 
+HOX HNZA HNZA H 0 0 N N N -3.404 54.872 87.534 -5.105 0.780  -0.719 HNZA HOX 21 
+HOX HD1  HD1  H 0 1 N N N -2.194 53.977 83.049 -0.710 2.244  -0.033 HD1  HOX 22 
+HOX HD2  HD2  H 0 1 N N N 1.284  54.242 85.506 -0.737 -1.904 0.959  HD2  HOX 23 
+HOX HE1  HE1  H 0 1 N N N -3.624 53.992 85.067 -3.108 2.135  -0.578 HE1  HOX 24 
+HOX HE2  HE2  H 0 1 N N N -0.140 54.262 87.533 -3.136 -2.023 0.420  HE2  HOX 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HOX O   C    DOUB N N 1  
+HOX CA  C    SING N N 2  
+HOX C   OXT  SING N N 3  
+HOX N   CA   SING N N 4  
+HOX N   HN   SING N N 5  
+HOX N   HNA  SING N N 6  
+HOX OXT HXT  SING N N 7  
+HOX CA  CB   SING N N 8  
+HOX CA  HA   SING N N 9  
+HOX CB  CG   SING N N 10 
+HOX CB  HB   SING N N 11 
+HOX CB  HBA  SING N N 12 
+HOX CD1 CG   DOUB Y N 13 
+HOX CG  CD2  SING Y N 14 
+HOX CE1 CZ   DOUB Y N 15 
+HOX CZ  CE2  SING Y N 16 
+HOX CZ  NZ   SING N N 17 
+HOX NZ  HNZ  SING N N 18 
+HOX NZ  HNZA SING N N 19 
+HOX CD1 CE1  SING Y N 20 
+HOX CD1 HD1  SING N N 21 
+HOX CD2 CE2  DOUB Y N 22 
+HOX CD2 HD2  SING N N 23 
+HOX CE1 HE1  SING N N 24 
+HOX CE2 HE2  SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HOX SMILES           ACDLabs              11.02 "O=C(O)C(N)Cc1ccc(N)cc1"                                                                    
+HOX SMILES_CANONICAL CACTVS               3.352 "N[C@@H](Cc1ccc(N)cc1)C(O)=O"                                                               
+HOX SMILES           CACTVS               3.352 "N[CH](Cc1ccc(N)cc1)C(O)=O"                                                                 
+HOX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc(ccc1C[C@@H](C(=O)O)N)N"                                                               
+HOX SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc(ccc1CC(C(=O)O)N)N"                                                                    
+HOX InChI            InChI                1.03  "InChI=1S/C9H12N2O2/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,8H,5,10-11H2,(H,12,13)/t8-/m0/s1" 
+HOX InChIKey         InChI                1.03  CMUHFUGDYMFHEI-QMMMGPOBSA-N                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HOX "SYSTEMATIC NAME" ACDLabs              11.02 4-amino-L-phenylalanine                          
+HOX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-3-(4-aminophenyl)-2-azanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HOX "Create component"     2009-08-25 RCSB 
+HOX "Modify aromatic_flag" 2011-06-04 RCSB 
+HOX "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,162 @@
+data_TAF
+# 
+_chem_comp.id                                    TAF 
+_chem_comp.name                                  
+;2'-DEOXY-2'-FLUORO-ARABINO-FURANOSYL THYMINE-5'-PHOSPHATE
+;
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H14 F N2 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        340.199 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     TAF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DPN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TAF P      P    P 0 1 N N N 16.567 -6.604 20.853 1.102  -0.016 -4.239 P      TAF 1  
+TAF OP1    O1P  O 0 1 N N N 17.890 -6.814 20.163 2.366  -0.833 -4.812 OP1    TAF 2  
+TAF OP2    O2P  O 0 1 N N N 15.972 -7.648 21.693 -0.047 0.049  -5.363 OP2    TAF 3  
+TAF OP3    O3P  O 0 1 N Y N 15.540 -6.189 19.682 1.523  1.356  -3.882 OP3    TAF 4  
+TAF "O5'"  O5*  O 0 1 N N N 16.628 -5.295 21.783 0.531  -0.760 -2.930 "O5'"  TAF 5  
+TAF N1     N1   N 0 1 N N N 13.841 -2.402 24.115 -0.168 -0.411 2.211  N1     TAF 6  
+TAF C6     C6   C 0 1 N N N 13.234 -3.641 24.088 0.057  -1.284 3.240  C6     TAF 7  
+TAF C2     C2   C 0 1 N N N 13.160 -1.295 24.577 0.328  0.838  2.251  C2     TAF 8  
+TAF O2     O2   O 0 1 N N N 13.645 -0.190 24.633 0.114  1.598  1.326  O2     TAF 9  
+TAF N3     N3   N 0 1 N N N 11.864 -1.536 24.932 1.056  1.260  3.301  N3     TAF 10 
+TAF C4     C4   C 0 1 N N N 11.186 -2.728 24.884 1.298  0.431  4.337  C4     TAF 11 
+TAF O4     O4   O 0 1 N N N 10.018 -2.755 25.226 1.957  0.811  5.288  O4     TAF 12 
+TAF C5     C5   C 0 1 N N N 11.968 -3.867 24.466 0.786  -0.888 4.305  C5     TAF 13 
+TAF C5M    C5M  C 0 1 N N N 11.296 -5.212 24.440 1.044  -1.835 5.448  C5M    TAF 14 
+TAF "F2'"  F2*  F 0 1 N N N 15.859 -3.761 25.214 -1.958 1.327  1.453  "F2'"  TAF 15 
+TAF "C2'"  C2*  C 0 1 N N S 16.330 -2.704 24.518 -2.188 0.075  0.873  "C2'"  TAF 16 
+TAF "C5'"  C5*  C 0 1 N N N 16.993 -4.049 21.138 -0.582 0.008  -2.471 "C5'"  TAF 17 
+TAF "C4'"  C4*  C 0 1 N N R 16.727 -2.952 22.138 -1.174 -0.647 -1.222 "C4'"  TAF 18 
+TAF "O4'"  O4*  O 0 1 N N N 15.321 -2.930 22.376 -0.195 -0.684 -0.161 "O4'"  TAF 19 
+TAF "C1'"  C1*  C 0 1 N N R 15.262 -2.194 23.727 -0.958 -0.841 1.054  "C1'"  TAF 20 
+TAF "C3'"  C3*  C 0 1 N N R 17.377 -3.116 23.520 -2.332 0.207  -0.661 "C3'"  TAF 21 
+TAF "O3'"  O3*  O 0 1 N N N 18.543 -2.304 23.529 -3.592 -0.310 -1.093 "O3'"  TAF 22 
+TAF HOP1   1HOP H 0 0 N N N 18.275 -6.137 19.618 2.677  -0.356 -5.593 HOP1   TAF 23 
+TAF HOP2   2HOP H 0 0 N N N 15.137 -7.515 22.128 -0.293 -0.863 -5.567 HOP2   TAF 24 
+TAF H6     H6   H 0 1 N N N 13.804 -4.517 23.737 -0.344 -2.286 3.199  H6     TAF 25 
+TAF H3     H3   H 0 1 N N N 11.340 -0.730 25.273 1.407  2.164  3.315  H3     TAF 26 
+TAF H71    1H5M H 0 1 N N N 10.242 -5.400 24.754 1.646  -1.334 6.207  H71    TAF 27 
+TAF H72    2H5M H 0 1 N N N 11.398 -5.604 23.401 0.095  -2.146 5.885  H72    TAF 28 
+TAF H73    3H5M H 0 1 N N N 11.938 -5.906 25.030 1.579  -2.711 5.080  H73    TAF 29 
+TAF "H2'"  H2*  H 0 1 N N N 16.749 -1.976 25.251 -3.078 -0.385 1.301  "H2'"  TAF 30 
+TAF "H5'"  1H5* H 0 1 N N N 18.037 -4.044 20.746 -1.340 0.052  -3.253 "H5'"  TAF 31 
+TAF "H5''" 2H5* H 0 0 N N N 16.477 -3.890 20.162 -0.251 1.018  -2.229 "H5''" TAF 32 
+TAF "H4'"  H4*  H 0 1 N N N 17.161 -2.030 21.684 -1.523 -1.654 -1.452 "H4'"  TAF 33 
+TAF "H1'"  H1*  H 0 1 N N N 15.449 -1.097 23.795 -1.272 -1.878 1.174  "H1'"  TAF 34 
+TAF "H3'"  H3*  H 0 1 N N N 17.702 -4.152 23.770 -2.222 1.247  -0.968 "H3'"  TAF 35 
+TAF "HO'3" 3HO* H 0 0 N N N 19.204 -2.564 22.898 -4.274 0.260  -0.713 "HO'3" TAF 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TAF P     OP1    SING N N 1  
+TAF P     OP2    SING N N 2  
+TAF P     OP3    DOUB N N 3  
+TAF P     "O5'"  SING N N 4  
+TAF OP1   HOP1   SING N N 5  
+TAF OP2   HOP2   SING N N 6  
+TAF "O5'" "C5'"  SING N N 7  
+TAF N1    C6     SING N N 8  
+TAF N1    C2     SING N N 9  
+TAF N1    "C1'"  SING N N 10 
+TAF C6    C5     DOUB N N 11 
+TAF C6    H6     SING N N 12 
+TAF C2    O2     DOUB N N 13 
+TAF C2    N3     SING N N 14 
+TAF N3    C4     SING N N 15 
+TAF N3    H3     SING N N 16 
+TAF C4    O4     DOUB N N 17 
+TAF C4    C5     SING N N 18 
+TAF C5    C5M    SING N N 19 
+TAF C5M   H71    SING N N 20 
+TAF C5M   H72    SING N N 21 
+TAF C5M   H73    SING N N 22 
+TAF "F2'" "C2'"  SING N N 23 
+TAF "C2'" "C1'"  SING N N 24 
+TAF "C2'" "C3'"  SING N N 25 
+TAF "C2'" "H2'"  SING N N 26 
+TAF "C5'" "C4'"  SING N N 27 
+TAF "C5'" "H5'"  SING N N 28 
+TAF "C5'" "H5''" SING N N 29 
+TAF "C4'" "O4'"  SING N N 30 
+TAF "C4'" "C3'"  SING N N 31 
+TAF "C4'" "H4'"  SING N N 32 
+TAF "O4'" "C1'"  SING N N 33 
+TAF "C1'" "H1'"  SING N N 34 
+TAF "C3'" "O3'"  SING N N 35 
+TAF "C3'" "H3'"  SING N N 36 
+TAF "O3'" "HO'3" SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TAF SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C(O)C2F)COP(=O)(O)O"                                                                                                            
+TAF SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@@H]2O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@@H]2F)C(=O)NC1=O"                                                                                       
+TAF SMILES           CACTVS               3.341 "CC1=CN([CH]2O[CH](CO[P](O)(O)=O)[CH](O)[CH]2F)C(=O)NC1=O"                                                                                              
+TAF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2[C@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)F"                                                                                         
+TAF SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)F"                                                                                                          
+TAF InChI            InChI                1.03  "InChI=1S/C10H14FN2O8P/c1-4-2-13(10(16)12-8(4)15)9-6(11)7(14)5(21-9)3-20-22(17,18)19/h2,5-7,9,14H,3H2,1H3,(H,12,15,16)(H2,17,18,19)/t5-,6+,7-,9-/m1/s1" 
+TAF InChIKey         InChI                1.03  XJQFIHYTCPKUTK-JVZYCSMKSA-N                                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TAF "SYSTEMATIC NAME" ACDLabs              10.04 "1-(2-deoxy-2-fluoro-5-O-phosphono-beta-D-arabinofuranosyl)-5-methylpyrimidine-2,4(1H,3H)-dione"                 
+TAF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4S,5R)-4-fluoro-3-hydroxy-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TAF "Create component"  1999-07-08 RCSB 
+TAF "Modify descriptor" 2011-06-04 RCSB 
+# 

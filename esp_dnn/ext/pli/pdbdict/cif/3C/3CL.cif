@@ -1,0 +1,110 @@
+data_3CL
+# 
+_chem_comp.id                                    3CL 
+_chem_comp.name                                  3-CHLOROPROPANOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 Cl O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-11-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        94.540 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3CL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XVF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3CL O1  O1  O  0 1 N N N 70.240 73.134 85.276 -0.444 0.000  2.965  O1  3CL 1  
+3CL C2  C2  C  0 1 N N N 71.036 73.082 86.436 0.482  0.000  1.878  C2  3CL 2  
+3CL C3  C3  C  0 1 N N N 72.012 74.174 86.235 -0.284 0.000  0.554  C3  3CL 3  
+3CL C4  C4  C  0 1 N N N 72.729 74.484 87.470 0.708  0.000  -0.610 C4  3CL 4  
+3CL CL5 CL5 CL 0 0 N N N 74.199 75.119 86.861 -0.195 0.000  -2.170 CL5 3CL 5  
+3CL HO1 HO1 H  0 1 N N N 69.613 72.432 85.405 0.078  0.000  3.778  HO1 3CL 6  
+3CL H21 1H2 H  0 1 N N N 71.493 72.085 86.638 1.109  0.890  1.935  H21 3CL 7  
+3CL H22 2H2 H  0 1 N N N 70.464 73.144 87.391 1.109  -0.890 1.935  H22 3CL 8  
+3CL H31 1H3 H  0 1 N N N 71.527 75.082 85.806 -0.911 -0.890 0.497  H31 3CL 9  
+3CL H32 2H3 H  0 1 N N N 72.716 73.944 85.401 -0.911 0.890  0.497  H32 3CL 10 
+3CL H41 1H4 H  0 1 N N N 72.837 73.634 88.183 1.334  0.890  -0.553 H41 3CL 11 
+3CL H42 2H4 H  0 1 N N N 72.184 75.146 88.183 1.334  -0.890 -0.553 H42 3CL 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3CL O1 C2  SING N N 1  
+3CL O1 HO1 SING N N 2  
+3CL C2 C3  SING N N 3  
+3CL C2 H21 SING N N 4  
+3CL C2 H22 SING N N 5  
+3CL C3 C4  SING N N 6  
+3CL C3 H31 SING N N 7  
+3CL C3 H32 SING N N 8  
+3CL C4 CL5 SING N N 9  
+3CL C4 H41 SING N N 10 
+3CL C4 H42 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3CL SMILES           ACDLabs              10.04 ClCCCO                                
+3CL SMILES_CANONICAL CACTVS               3.341 OCCCCl                                
+3CL SMILES           CACTVS               3.341 OCCCCl                                
+3CL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CO)CCl"                            
+3CL SMILES           "OpenEye OEToolkits" 1.5.0 "C(CO)CCl"                            
+3CL InChI            InChI                1.03  InChI=1S/C3H7ClO/c4-2-1-3-5/h5H,1-3H2 
+3CL InChIKey         InChI                1.03  LAMUXTNQCICZQX-UHFFFAOYSA-N           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3CL "SYSTEMATIC NAME" ACDLabs              10.04 3-chloropropan-1-ol 
+3CL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-chloropropan-1-ol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3CL "Create component"  2004-11-03 RCSB 
+3CL "Modify descriptor" 2011-06-04 RCSB 
+# 

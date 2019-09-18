@@ -1,0 +1,126 @@
+data_MB1
+# 
+_chem_comp.id                                    MB1 
+_chem_comp.name                                  2-chloro-5-nitrobenzenesulfonamide 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 Cl N2 O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-09-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        236.633 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MB1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2QP6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MB1 S1   S1   S  0  1 N N N -5.939 0.766  16.753 1.741  1.157  -0.095 S1   MB1 1  
+MB1 O1   O1   O  0  1 N N N -7.371 0.707  16.703 1.235  2.485  -0.092 O1   MB1 2  
+MB1 O2   O2   O  0  1 N N N -5.300 1.057  18.007 2.591  0.651  -1.115 O2   MB1 3  
+MB1 N1   N1   N  0  1 N N N -5.366 -0.603 16.243 2.558  0.965  1.332  N1   MB1 4  
+MB1 C1   C1   C  0  1 Y N N -4.746 4.006  13.699 -1.861 -1.582 0.042  C1   MB1 5  
+MB1 C2   C2   C  0  1 Y N N -4.470 2.627  13.478 -2.035 -0.212 0.004  C2   MB1 6  
+MB1 C3   C3   C  0  1 Y N N -4.840 1.665  14.426 -0.935 0.625  -0.038 C3   MB1 7  
+MB1 C4   C4   C  0  1 Y N N -5.492 2.055  15.609 0.339  0.091  -0.041 C4   MB1 8  
+MB1 C5   C5   C  0  1 Y N N -5.782 3.424  15.852 0.515  -1.281 -0.004 C5   MB1 9  
+MB1 C6   C6   C  0  1 Y N N -5.399 4.395  14.884 -0.586 -2.118 0.038  C6   MB1 10 
+MB1 CL   CL   CL 0  0 N N N -6.581 3.902  17.277 2.115  -1.953 -0.009 CL   MB1 11 
+MB1 N2   N2   N  1  1 N N N -3.788 2.175  12.215 -3.400 0.361  0.008  N2   MB1 12 
+MB1 O3   O3   O  0  1 N N N -4.160 2.742  10.965 -3.554 1.568  -0.026 O3   MB1 13 
+MB1 O4   O4   O  -1 1 N N N -2.803 1.163  12.273 -4.370 -0.376 0.044  O4   MB1 14 
+MB1 HN11 1HN1 H  0  0 N N N -5.244 -0.565 15.251 2.342  1.525  2.094  HN11 MB1 15 
+MB1 HN12 2HN1 H  0  0 N N N -4.484 -0.779 16.681 3.253  0.292  1.406  HN12 MB1 16 
+MB1 H1   H1   H  0  1 N N N -4.458 4.745  12.966 -2.720 -2.235 0.079  H1   MB1 17 
+MB1 H3   H3   H  0  1 N N N -4.624 0.622  14.248 -1.072 1.696  -0.067 H3   MB1 18 
+MB1 H6   H6   H  0  1 N N N -5.611 5.439  15.060 -0.450 -3.188 0.072  H6   MB1 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MB1 O3 N2   DOUB N N 1  
+MB1 N2 O4   SING N N 2  
+MB1 N2 C2   SING N N 3  
+MB1 C2 C1   DOUB Y N 4  
+MB1 C2 C3   SING Y N 5  
+MB1 C1 C6   SING Y N 6  
+MB1 C3 C4   DOUB Y N 7  
+MB1 C6 C5   DOUB Y N 8  
+MB1 C4 C5   SING Y N 9  
+MB1 C4 S1   SING N N 10 
+MB1 C5 CL   SING N N 11 
+MB1 N1 S1   SING N N 12 
+MB1 O1 S1   DOUB N N 13 
+MB1 S1 O2   DOUB N N 14 
+MB1 N1 HN11 SING N N 15 
+MB1 N1 HN12 SING N N 16 
+MB1 C1 H1   SING N N 17 
+MB1 C3 H3   SING N N 18 
+MB1 C6 H6   SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MB1 SMILES           ACDLabs              10.04 "O=S(=O)(c1cc(ccc1Cl)[N+]([O-])=O)N"                                          
+MB1 SMILES_CANONICAL CACTVS               3.341 "N[S](=O)(=O)c1cc(ccc1Cl)[N+]([O-])=O"                                        
+MB1 SMILES           CACTVS               3.341 "N[S](=O)(=O)c1cc(ccc1Cl)[N+]([O-])=O"                                        
+MB1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1[N+](=O)[O-])S(=O)(=O)N)Cl"                                        
+MB1 SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1[N+](=O)[O-])S(=O)(=O)N)Cl"                                        
+MB1 InChI            InChI                1.03  "InChI=1S/C6H5ClN2O4S/c7-5-2-1-4(9(10)11)3-6(5)14(8,12)13/h1-3H,(H2,8,12,13)" 
+MB1 InChIKey         InChI                1.03  ZAJALNCZCSSGJC-UHFFFAOYSA-N                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MB1 "SYSTEMATIC NAME" ACDLabs              10.04 2-chloro-5-nitrobenzenesulfonamide  
+MB1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-chloro-5-nitro-benzenesulfonamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MB1 "Create component"     2007-09-04 RCSB 
+MB1 "Modify aromatic_flag" 2011-06-04 RCSB 
+MB1 "Modify descriptor"    2011-06-04 RCSB 
+# 

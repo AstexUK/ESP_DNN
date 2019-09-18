@@ -1,0 +1,109 @@
+data_GCM
+# 
+_chem_comp.id                                    GCM 
+_chem_comp.name                                  "GLYCYLMETHYLENE GROUP" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2009-01-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      GLM 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        73.094 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     GCM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GEC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GCM N   N   N 0 1 N N N 27.595 46.894 34.500 -1.921 0.041  0.038  N   GCM 1  
+GCM CA  CA  C 0 1 N N N 26.736 47.606 33.578 -0.721 -0.807 0.013  CA  GCM 2  
+GCM C   C   C 0 1 N N N 27.154 47.176 32.185 0.509  0.064  0.006  C   GCM 3  
+GCM O   O   O 0 1 N N N 28.307 47.362 31.809 0.398  1.266  0.021  O   GCM 4  
+GCM CM  CM  C 0 1 N N N 26.289 46.295 31.381 1.878  -0.566 -0.019 CM  GCM 5  
+GCM H   1HN H 0 1 N N N 27.313 47.183 35.436 -1.944 0.537  -0.840 H   GCM 6  
+GCM H2  2HN H 0 1 N Y N 28.588 47.031 34.315 -2.715 -0.581 0.042  H2  GCM 7  
+GCM HA1 1HA H 0 1 N N N 25.649 47.455 33.779 -0.733 -1.426 -0.884 HA1 GCM 8  
+GCM HA2 2HA H 0 1 N N N 26.751 48.711 33.722 -0.709 -1.446 0.895  HA2 GCM 9  
+GCM HM1 1HM H 0 1 N N N 25.280 46.764 31.313 2.638  0.215  -0.021 HM1 GCM 10 
+GCM HM2 2HM H 0 1 N N N 26.596 45.979 30.357 2.005  -1.195 0.862  HM2 GCM 11 
+GCM HM3 3HM H 0 1 N N N 26.073 45.379 31.979 1.981  -1.175 -0.918 HM3 GCM 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GCM N  CA  SING N N 1  
+GCM N  H   SING N N 2  
+GCM N  H2  SING N N 3  
+GCM CA C   SING N N 4  
+GCM CA HA1 SING N N 5  
+GCM CA HA2 SING N N 6  
+GCM C  O   DOUB N N 7  
+GCM C  CM  SING N N 8  
+GCM CM HM1 SING N N 9  
+GCM CM HM2 SING N N 10 
+GCM CM HM3 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GCM SMILES           ACDLabs              10.04 "O=C(C)CN"                             
+GCM InChI            InChI                1.02b "InChI=1/C3H7NO/c1-3(5)2-4/h2,4H2,1H3" 
+GCM InChIKey         InChI                1.02b BCDGQXUMWHRQCB-UHFFFAOYAB              
+GCM SMILES_CANONICAL CACTVS               3.341 "CC(=O)CN"                             
+GCM SMILES           CACTVS               3.341 "CC(=O)CN"                             
+GCM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)CN"                             
+GCM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)CN"                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GCM "SYSTEMATIC NAME" ACDLabs              10.04 1-aminopropan-2-one 
+GCM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-aminopropan-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GCM "Create component" 1999-07-08 RCSB 
+# 

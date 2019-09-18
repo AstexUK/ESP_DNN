@@ -1,0 +1,117 @@
+data_2MB
+# 
+_chem_comp.id                                    2MB 
+_chem_comp.name                                  "2-METHYL BUT-2-ENE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-11-19 
+_chem_comp.pdbx_modified_date                    2012-01-25 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        70.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2MB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2MB C4     C4     C 0 1 N N N ? ? ? 1.979  0.170  -0.000 C4     2MB 1  
+2MB C3     C3     C 0 1 N N N ? ? ? 0.602  0.783  -0.000 C3     2MB 2  
+2MB C2     C2     C 0 1 N N N ? ? ? -0.458 0.014  -0.000 C2     2MB 3  
+2MB C1     C1     C 0 1 N N N ? ? ? -0.301 -1.485 0.000  C1     2MB 4  
+2MB "C2'"  "C2'"  C 0 1 N N N ? ? ? -1.834 0.627  -0.000 "C2'"  2MB 5  
+2MB H4C1   H4C1   H 0 0 N N N ? ? ? 2.729  0.961  -0.000 H4C1   2MB 6  
+2MB H4C2   H4C2   H 0 0 N N N ? ? ? 2.102  -0.447 0.890  H4C2   2MB 7  
+2MB H4C3   H4C3   H 0 0 N N N ? ? ? 2.102  -0.447 -0.890 H4C3   2MB 8  
+2MB H3     H3     H 0 1 N N N ? ? ? 0.490  1.857  -0.000 H3     2MB 9  
+2MB H1C1   H1C1   H 0 0 N N N ? ? ? -0.263 -1.847 1.028  H1C1   2MB 10 
+2MB H1C2   H1C2   H 0 0 N N N ? ? ? -1.148 -1.939 -0.514 H1C2   2MB 11 
+2MB H1C3   H1C3   H 0 0 N N N ? ? ? 0.622  -1.754 -0.514 H1C3   2MB 12 
+2MB "H2'1" "H2'1" H 0 0 N N N ? ? ? -2.166 0.775  -1.028 "H2'1" 2MB 13 
+2MB "H2'2" "H2'2" H 0 0 N N N ? ? ? -2.528 -0.038 0.514  "H2'2" 2MB 14 
+2MB "H2'3" "H2'3" H 0 0 N N N ? ? ? -1.804 1.588  0.514  "H2'3" 2MB 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2MB C4    C3     SING N N 1  
+2MB C4    H4C1   SING N N 2  
+2MB C4    H4C2   SING N N 3  
+2MB C4    H4C3   SING N N 4  
+2MB C3    C2     DOUB N N 5  
+2MB C3    H3     SING N N 6  
+2MB C2    C1     SING N N 7  
+2MB C2    "C2'"  SING N N 8  
+2MB C1    H1C1   SING N N 9  
+2MB C1    H1C2   SING N N 10 
+2MB C1    H1C3   SING N N 11 
+2MB "C2'" "H2'1" SING N N 12 
+2MB "C2'" "H2'2" SING N N 13 
+2MB "C2'" "H2'3" SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2MB SMILES           ACDLabs              12.01 "C(=C(\C)C)\C"                        
+2MB InChI            InChI                1.03  "InChI=1S/C5H10/c1-4-5(2)3/h4H,1-3H3" 
+2MB InChIKey         InChI                1.03  BKOOMYPCSUNDGP-UHFFFAOYSA-N           
+2MB SMILES_CANONICAL CACTVS               3.370 "CC=C(C)C"                            
+2MB SMILES           CACTVS               3.370 "CC=C(C)C"                            
+2MB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC=C(C)C"                            
+2MB SMILES           "OpenEye OEToolkits" 1.7.6 "CC=C(C)C"                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2MB "SYSTEMATIC NAME" ACDLabs              12.01 2-methylbut-2-ene 
+2MB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 2-methylbut-2-ene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2MB "Create component"   2004-11-19 RCSB 
+2MB "Modify descriptor"  2011-06-04 RCSB 
+2MB "Obsolete component" 2012-01-25 RCSB 
+# 

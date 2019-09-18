@@ -1,0 +1,123 @@
+data_B24
+# 
+_chem_comp.id                                    B24 
+_chem_comp.name                                  1-ethyl-1,2-dihydro-1,2-azaborinine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 B N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         1-ETHYL-2-HYDRO-1,2-AZABORINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-05-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        106.961 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     B24 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3HH5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+B24 "C2'"  "C2'"  C 0 1 N N N 27.312 8.475 1.524 -2.729 -0.118 0.704  "C2'"  B24 1  
+B24 "C1'"  "C1'"  C 0 1 N N N 28.028 7.333 2.217 -1.940 0.247  -0.555 "C1'"  B24 2  
+B24 N1     N1     N 0 1 N N N 27.214 6.806 3.319 -0.506 0.104  -0.292 N1     B24 3  
+B24 B2     B2     B 0 1 N N N 27.141 7.558 4.610 0.371  1.323  -0.089 B2     B24 4  
+B24 C3     C3     C 0 1 N N N 26.302 7.006 5.711 1.758  1.110  0.164  C3     B24 5  
+B24 C4     C4     C 0 1 N N N 25.620 5.816 5.477 2.231  -0.163 0.212  C4     B24 6  
+B24 C5     C5     C 0 1 N N N 25.734 5.169 4.244 1.391  -1.260 0.020  C5     B24 7  
+B24 C6     C6     C 0 1 N N N 26.520 5.661 3.194 0.068  -1.128 -0.218 C6     B24 8  
+B24 "H2'"  "H2'"  H 0 1 N N N 27.139 9.290 2.243 -2.441 0.546  1.519  "H2'"  B24 9  
+B24 "H2'A" "H2'A" H 0 0 N N N 27.931 8.845 0.693 -3.796 -0.011 0.508  "H2'A" B24 10 
+B24 "H2'B" "H2'B" H 0 0 N N N 26.347 8.119 1.133 -2.512 -1.149 0.983  "H2'B" B24 11 
+B24 "H1'"  "H1'"  H 0 1 N N N 28.212 6.529 1.489 -2.228 -0.417 -1.370 "H1'"  B24 12 
+B24 "H1'A" "H1'A" H 0 0 N N N 28.979 7.705 2.625 -2.157 1.279  -0.833 "H1'A" B24 13 
+B24 H3     H3     H 0 1 N N N 26.226 7.514 6.661 2.422  1.948  0.315  H3     B24 14 
+B24 H4     H4     H 0 1 N N N 25.000 5.391 6.252 3.281  -0.329 0.403  H4     B24 15 
+B24 H5     H5     H 0 1 N N N 25.191 4.247 4.093 1.814  -2.253 0.067  H5     B24 16 
+B24 H6     H6     H 0 1 N N N 26.570 5.110 2.266 -0.540 -2.010 -0.355 H6     B24 17 
+B24 H10    H10    H 0 1 N N N 27.745 8.584 4.756 -0.075 2.403  -0.138 H10    B24 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+B24 "C2'" "C1'"  SING N N 1  
+B24 "C2'" "H2'"  SING N N 2  
+B24 "C2'" "H2'A" SING N N 3  
+B24 "C2'" "H2'B" SING N N 4  
+B24 "C1'" N1     SING N N 5  
+B24 "C1'" "H1'"  SING N N 6  
+B24 "C1'" "H1'A" SING N N 7  
+B24 N1    B2     SING N N 8  
+B24 N1    C6     SING N N 9  
+B24 B2    C3     SING N N 10 
+B24 C3    C4     DOUB N N 11 
+B24 C3    H3     SING N N 12 
+B24 C4    C5     SING N N 13 
+B24 C4    H4     SING N N 14 
+B24 C5    C6     DOUB N N 15 
+B24 C5    H5     SING N N 16 
+B24 C6    H6     SING N N 17 
+B24 B2    H10    SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+B24 SMILES           ACDLabs              10.04 B1C=CC=CN1CC                                      
+B24 SMILES_CANONICAL CACTVS               3.341 CCN1BC=CC=C1                                      
+B24 SMILES           CACTVS               3.341 CCN1BC=CC=C1                                      
+B24 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 B1C=CC=CN1CC                                      
+B24 SMILES           "OpenEye OEToolkits" 1.5.0 B1C=CC=CN1CC                                      
+B24 InChI            InChI                1.03  InChI=1S/C6H10BN/c1-2-8-6-4-3-5-7-8/h3-7H,2H2,1H3 
+B24 InChIKey         InChI                1.03  CXNLOBXKEIGPFX-UHFFFAOYSA-N                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+B24 "SYSTEMATIC NAME" ACDLabs              10.04 1-ethyl-1,2-dihydro-1,2-azaborinine 
+B24 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-ethyl-2H-1,2-azaborinine          
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+B24 "Create component"  2009-05-21 RCSB 
+B24 "Modify descriptor" 2011-06-04 RCSB 
+# 

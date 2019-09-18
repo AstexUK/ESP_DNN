@@ -1,0 +1,135 @@
+data_BYR
+# 
+_chem_comp.id                                    BYR 
+_chem_comp.name                                  3-bromo-L-tyrosine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H10 Br N O3" 
+_chem_comp.mon_nstd_parent_comp_id               TYR 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-12-17 
+_chem_comp.pdbx_modified_date                    2015-08-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        260.085 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BYR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3WN9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BYR N   N   N  0 1 N N N -31.435 -5.978 -32.112 2.303  -1.255 -1.002 N   BYR 1  
+BYR CA  CA  C  0 1 N N S -30.007 -5.831 -31.961 2.922  -0.056 -0.423 CA  BYR 2  
+BYR CB  CB  C  0 1 N N N -29.525 -5.462 -33.347 2.162  0.351  0.841  CB  BYR 3  
+BYR CG  CG  C  0 1 Y N N -30.083 -4.145 -33.850 0.761  0.765  0.473  CG  BYR 4  
+BYR CD2 CD2 C  0 1 Y N N -29.440 -2.971 -33.480 -0.252 -0.176 0.445  CD2 BYR 5  
+BYR CE2 CE2 C  0 1 Y N N -29.940 -1.763 -33.977 -1.538 0.200  0.108  CE2 BYR 6  
+BYR BR  BR  BR 0 0 N N N -29.055 -0.123 -33.468 -2.923 -1.087 0.072  BR  BYR 7  
+BYR CZ  CZ  C  0 1 Y N N -31.061 -1.708 -34.837 -1.812 1.525  -0.203 CZ  BYR 8  
+BYR OH  OH  O  0 1 N N N -31.500 -0.487 -35.302 -3.076 1.899  -0.535 OH  BYR 9  
+BYR CE1 CE1 C  0 1 Y N N -31.708 -2.868 -35.201 -0.795 2.467  -0.175 CE1 BYR 10 
+BYR CD1 CD1 C  0 1 Y N N -31.212 -4.087 -34.709 0.488  2.086  0.169  CD1 BYR 11 
+BYR C   C   C  0 1 N N N -29.520 -4.945 -30.832 4.358  -0.351 -0.072 C   BYR 12 
+BYR O   O   O  0 1 N N N -30.290 -4.155 -30.286 4.723  -1.495 0.064  O   BYR 13 
+BYR OXT OXT O  0 1 N Y N -28.239 -5.047 -30.503 5.231  0.656  0.088  OXT BYR 14 
+BYR H   H   H  0 1 N N N -31.840 -6.225 -31.232 2.746  -1.507 -1.873 H   BYR 15 
+BYR H2  H2  H  0 1 N Y N -31.827 -5.114 -32.429 2.325  -2.024 -0.350 H2  BYR 16 
+BYR HA  HA  H  0 1 N N N -29.603 -6.833 -31.756 2.885  0.758  -1.147 HA  BYR 17 
+BYR HB2 HB2 H  0 1 N N N -29.827 -6.257 -34.044 2.123  -0.493 1.529  HB2 BYR 18 
+BYR HB3 HB3 H  0 1 N N N -28.428 -5.390 -33.326 2.674  1.187  1.319  HB3 BYR 19 
+BYR HD2 HD2 H  0 1 N N N -28.579 -2.990 -32.828 -0.038 -1.207 0.688  HD2 BYR 20 
+BYR HH  HH  H  0 1 N N N -30.945 0.202  -34.956 -3.617 2.171  0.220  HH  BYR 21 
+BYR HE1 HE1 H  0 1 N N N -32.573 -2.841 -35.847 -1.006 3.498  -0.417 HE1 BYR 22 
+BYR HD1 HD1 H  0 1 N N N -31.703 -5.006 -34.992 1.281  2.819  0.191  HD1 BYR 23 
+BYR HXT HXT H  0 1 N Y N -28.040 -4.431 -29.807 6.141  0.417  0.312  HXT BYR 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BYR OH  CZ  SING N N 1  
+BYR CE1 CZ  DOUB Y N 2  
+BYR CE1 CD1 SING Y N 3  
+BYR CZ  CE2 SING Y N 4  
+BYR CD1 CG  DOUB Y N 5  
+BYR CE2 CD2 DOUB Y N 6  
+BYR CE2 BR  SING N N 7  
+BYR CG  CD2 SING Y N 8  
+BYR CG  CB  SING N N 9  
+BYR CB  CA  SING N N 10 
+BYR N   CA  SING N N 11 
+BYR CA  C   SING N N 12 
+BYR C   O   DOUB N N 13 
+BYR C   OXT SING N N 14 
+BYR N   H   SING N N 15 
+BYR N   H2  SING N N 16 
+BYR CA  HA  SING N N 17 
+BYR CB  HB2 SING N N 18 
+BYR CB  HB3 SING N N 19 
+BYR CD2 HD2 SING N N 20 
+BYR OH  HH  SING N N 21 
+BYR CE1 HE1 SING N N 22 
+BYR CD1 HD1 SING N N 23 
+BYR OXT HXT SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BYR SMILES           ACDLabs              12.01 "Brc1cc(ccc1O)CC(C(=O)O)N"                                                                      
+BYR InChI            InChI                1.03  "InChI=1S/C9H10BrNO3/c10-6-3-5(1-2-8(6)12)4-7(11)9(13)14/h1-3,7,12H,4,11H2,(H,13,14)/t7-/m0/s1" 
+BYR InChIKey         InChI                1.03  HGWOSUKIFQMEIF-ZETCQYMHSA-N                                                                     
+BYR SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1ccc(O)c(Br)c1)C(O)=O"                                                               
+BYR SMILES           CACTVS               3.385 "N[CH](Cc1ccc(O)c(Br)c1)C(O)=O"                                                                 
+BYR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(c(cc1C[C@@H](C(=O)O)N)Br)O"                                                               
+BYR SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(c(cc1CC(C(=O)O)N)Br)O"                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BYR "SYSTEMATIC NAME" ACDLabs              12.01 3-bromo-L-tyrosine                                             
+BYR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-azanyl-3-(3-bromanyl-4-oxidanyl-phenyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BYR "Create component" 2013-12-17 PDBJ 
+BYR "Initial release"  2015-08-19 RCSB 
+# 

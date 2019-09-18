@@ -1,0 +1,115 @@
+data_0R0
+# 
+_chem_comp.id                                    0R0 
+_chem_comp.name                                  2-hydroxybenzonitrile 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-Cyanophenol 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-04-21 
+_chem_comp.pdbx_modified_date                    2012-08-31 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.121 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0R0 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4EKR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0R0 NAA NAA N 0 1 N N N 5.856 11.071 -0.548 -2.990 -0.664 -0.005 NAA 0R0 1  
+0R0 CAC CAC C 0 1 N N N 5.055 10.411 -0.072 -1.861 -0.537 -0.004 CAC 0R0 2  
+0R0 CAI CAI C 0 1 Y N N 4.064 9.589  0.534  -0.438 -0.377 -0.002 CAI 0R0 3  
+0R0 CAG CAG C 0 1 Y N N 3.479 8.551  -0.156 0.395  -1.499 0.010  CAG 0R0 4  
+0R0 CAE CAE C 0 1 Y N N 2.497 7.764  0.434  1.764  -1.339 0.011  CAE 0R0 5  
+0R0 CAD CAD C 0 1 Y N N 2.073 8.026  1.730  2.318  -0.069 0.000  CAD 0R0 6  
+0R0 CAF CAF C 0 1 Y N N 2.653 9.070  2.436  1.506  1.048  -0.012 CAF 0R0 7  
+0R0 CAH CAH C 0 1 Y N N 3.650 9.845  1.829  0.127  0.905  -0.020 CAH 0R0 8  
+0R0 OAB OAB O 0 1 N N N 4.243 10.841 2.514  -0.671 2.002  -0.037 OAB 0R0 9  
+0R0 H1  H1  H 0 1 N N N 3.788 8.345  -1.170 -0.033 -2.491 0.019  H1  0R0 10 
+0R0 H2  H2  H 0 1 N N N 2.062 6.944  -0.118 2.407  -2.206 0.021  H2  0R0 11 
+0R0 H3  H3  H 0 1 N N N 1.300 7.423  2.184  3.392  0.047  0.002  H3  0R0 12 
+0R0 H4  H4  H 0 1 N N N 2.338 9.284  3.447  1.946  2.034  -0.021 H4  0R0 13 
+0R0 H5  H5  H 0 1 N N N 3.860 10.901 3.381  -0.905 2.332  0.841  H5  0R0 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0R0 NAA CAC TRIP N N 1  
+0R0 CAG CAE DOUB Y N 2  
+0R0 CAG CAI SING Y N 3  
+0R0 CAC CAI SING N N 4  
+0R0 CAE CAD SING Y N 5  
+0R0 CAI CAH DOUB Y N 6  
+0R0 CAD CAF DOUB Y N 7  
+0R0 CAH CAF SING Y N 8  
+0R0 CAH OAB SING N N 9  
+0R0 CAG H1  SING N N 10 
+0R0 CAE H2  SING N N 11 
+0R0 CAD H3  SING N N 12 
+0R0 CAF H4  SING N N 13 
+0R0 OAB H5  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0R0 SMILES           ACDLabs              12.01 N#Cc1ccccc1O                                   
+0R0 InChI            InChI                1.03  "InChI=1S/C7H5NO/c8-5-6-3-1-2-4-7(6)9/h1-4,9H" 
+0R0 InChIKey         InChI                1.03  CHZCERSEMVWNHL-UHFFFAOYSA-N                    
+0R0 SMILES_CANONICAL CACTVS               3.370 Oc1ccccc1C#N                                   
+0R0 SMILES           CACTVS               3.370 Oc1ccccc1C#N                                   
+0R0 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(c(c1)C#N)O"                             
+0R0 SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(c(c1)C#N)O"                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0R0 "SYSTEMATIC NAME" ACDLabs              12.01 2-hydroxybenzonitrile         
+0R0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 2-oxidanylbenzenecarbonitrile 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0R0 "Create component" 2012-04-21 RCSB 
+0R0 "Initial release"  2012-08-31 RCSB 
+# 

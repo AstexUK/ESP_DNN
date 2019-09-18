@@ -1,0 +1,115 @@
+data_ASI
+# 
+_chem_comp.id                                    ASI 
+_chem_comp.name                                  L-ISO-ASPARTATE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H6 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ASP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2000-01-21 
+_chem_comp.pdbx_modified_date                    2009-12-23 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ASP 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.095 
+_chem_comp.one_letter_code                       D 
+_chem_comp.three_letter_code                     ASI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DLG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ASI N   N   N 0  1 N N N 24.115 31.607 28.129 0.406  1.638  -0.220 N   ASI 1  
+ASI CA  CA  C 0  1 N N S 25.370 31.019 27.644 0.505  0.281  0.334  CA  ASI 2  
+ASI C1  C1  C 0  1 N N N 26.284 32.083 27.096 1.888  -0.263 0.086  C1  ASI 3  
+ASI O1  O1  O 0  1 N N N 27.305 31.729 26.459 2.715  0.417  -0.499 O1  ASI 4  
+ASI O2  O2  O -1 1 N N N 25.970 33.282 27.319 2.181  -1.383 0.469  O2  ASI 5  
+ASI C2  C2  C 0  1 N N N 25.082 29.903 26.624 -0.528 -0.623 -0.343 C2  ASI 6  
+ASI C   C   C 0  1 N N N 24.333 30.429 25.413 -1.915 -0.150 0.006  C   ASI 7  
+ASI O   O   O 0  1 N N N 24.170 31.649 25.294 -2.063 0.811  0.723  O   ASI 8  
+ASI OXT OXT O 0  1 N Y N 23.887 29.542 24.525 -2.987 -0.797 -0.479 OXT ASI 9  
+ASI H   H   H 0  1 N N N 23.495 30.886 28.500 1.167  2.169  0.176  H   ASI 10 
+ASI H2  HN2 H 0  1 N Y N 23.656 32.163 27.408 0.589  1.562  -1.210 H2  ASI 11 
+ASI HA  HA  H 0  1 N N N 25.905 30.548 28.501 0.313  0.312  1.406  HA  ASI 12 
+ASI H21 1H2 H 0  1 N N N 26.016 29.373 26.325 -0.392 -0.583 -1.424 H21 ASI 13 
+ASI H22 2H2 H 0  1 N N N 24.542 29.049 27.096 -0.395 -1.648 0.002  H22 ASI 14 
+ASI HXT HXT H 0  1 N Y N 23.418 29.871 23.767 -3.877 -0.493 -0.255 HXT ASI 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ASI N   CA  SING N N 1  
+ASI N   H   SING N N 2  
+ASI N   H2  SING N N 3  
+ASI CA  C1  SING N N 4  
+ASI CA  C2  SING N N 5  
+ASI CA  HA  SING N N 6  
+ASI C1  O1  DOUB N N 7  
+ASI C1  O2  SING N N 8  
+ASI C2  C   SING N N 9  
+ASI C2  H21 SING N N 10 
+ASI C2  H22 SING N N 11 
+ASI C   O   DOUB N N 12 
+ASI C   OXT SING N N 13 
+ASI OXT HXT SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ASI SMILES           ACDLabs              10.04 "[O-]C(=O)C(N)CC(=O)O"                                                                       
+ASI InChI            InChI                1.02b "InChI=1/C4H7NO4/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H,6,7)(H,8,9)/p-1/t2-/m0/s1/fC4H6NO4/h6H/q-1" 
+ASI InChIKey         InChI                1.02b CKLJMWTZIZZHCS-QKJHDDKEDV                                                                    
+ASI SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC(O)=O)C([O-])=O"                                                                  
+ASI SMILES           CACTVS               3.341 "N[CH](CC(O)=O)C([O-])=O"                                                                    
+ASI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)[O-])N)C(=O)O"                                                                
+ASI SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)[O-])N)C(=O)O"                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ASI "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-amino-3-carboxypropanoate"       
+ASI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-hydroxy-4-oxo-butanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ASI "Create component" 2000-01-21 EBI 
+# 

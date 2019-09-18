@@ -1,0 +1,283 @@
+data_SFD
+# 
+_chem_comp.id                                    SFD 
+_chem_comp.name                                  
+;(S)-10-((2S,3S,4R)-5-((S)-((S)-(((2R,3S,4R,5R)-5-(6-AMINO-9H-PURIN-9-YL)-3,4-DIHYDROXY-TETRAHYDROFURAN-2-YL)METHOXY)(HYDROXY)PHOSPHORYLOXY)(HYDROXY)PHOSPHORYLOXY)-2,3,4-TRIHYDROXYPENTYL)-7,8-DIMETHYL-2,4-DIOXO-2,3,4,4A-TETRAHYDROBENZO[G]PTERIDINE-5(10H)-SULFONIC ACID
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C27 H35 N9 O18 P2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "N5-SULFONO FLAVIN-ADENINE DINUCLEOTIDE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-01-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        867.629 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SFD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SFD O2   O2   O 0 1 N N N 24.469 -7.336 127.423 -9.205  -2.021 2.490  O2   SFD 1  
+SFD C4A  C4A  C 0 1 Y N N 36.781 7.769  132.111 11.299  -1.547 0.471  C4A  SFD 2  
+SFD N10  N10  N 0 1 N N N 25.507 -4.596 130.629 -6.772  -0.243 -1.115 N10  SFD 3  
+SFD C0F  C0F  C 0 1 N N N 24.242 -5.181 131.202 -7.203  -1.510 -0.909 C0F  SFD 4  
+SFD N1F  N1F  N 0 1 N N N 24.070 -5.295 132.583 -6.369  -2.512 -0.989 N1F  SFD 5  
+SFD C2F  C2F  C 0 1 N N N 22.894 -5.552 133.221 -6.718  -3.760 -0.656 C2F  SFD 6  
+SFD O2F  O2F  O 0 1 N N N 22.881 -5.626 134.375 -5.935  -4.668 -0.865 O2F  SFD 7  
+SFD N3F  N3F  N 0 1 N N N 21.695 -5.717 132.360 -7.907  -4.040 -0.096 N3F  SFD 8  
+SFD C4F  C4F  C 0 1 N N N 21.724 -5.631 130.861 -8.871  -3.104 -0.019 C4F  SFD 9  
+SFD O4F  O4F  O 0 1 N N N 20.703 -5.747 130.225 -9.920  -3.366 0.531  O4F  SFD 10 
+SFD C5F  C5F  C 0 1 N N S 23.022 -5.381 130.239 -8.660  -1.744 -0.606 C5F  SFD 11 
+SFD N5F  N5F  N 0 1 N N N 23.173 -5.185 128.799 -9.107  -0.684 0.306  N5F  SFD 12 
+SFD C6F  C6F  C 0 1 Y N N 24.255 -4.492 128.235 -8.763  0.630  -0.040 C6F  SFD 13 
+SFD C9F  C9F  C 0 1 Y N N 25.506 -4.129 129.132 -7.587  0.841  -0.764 C9F  SFD 14 
+SFD C1F  C1F  C 0 1 Y N N 26.502 -3.085 128.486 -7.227  2.131  -1.120 C1F  SFD 15 
+SFD C8F  C8F  C 0 1 Y N N 26.339 -2.504 127.173 -8.027  3.198  -0.752 C8F  SFD 16 
+SFD C3F  C3F  C 0 1 N N N 27.382 -1.531 126.734 -7.634  4.599  -1.144 C3F  SFD 17 
+SFD C7F  C7F  C 0 1 Y N N 25.012 -2.998 126.304 -9.182  2.986  -0.022 C7F  SFD 18 
+SFD CBF  CBF  C 0 1 Y N N 24.023 -3.993 126.895 -9.552  1.696  0.352  CBF  SFD 19 
+SFD CAF  CAF  C 0 1 N N N 24.773 -2.466 124.943 -10.028 4.162  0.394  CAF  SFD 20 
+SFD C1R  C1R  C 0 1 N N N 26.545 -4.411 131.295 -5.453  -0.005 -1.704 C1R  SFD 21 
+SFD C2R  C2R  C 0 1 N N S 26.680 -3.135 132.148 -4.407  0.092  -0.592 C2R  SFD 22 
+SFD O2R  O2R  O 0 1 N N N 26.249 -1.959 131.500 -4.740  1.173  0.282  O2R  SFD 23 
+SFD C3R  C3R  C 0 1 N N S 28.196 -3.122 132.732 -3.028  0.340  -1.208 C3R  SFD 24 
+SFD O3R  O3R  O 0 1 N N N 28.516 -4.329 133.330 -2.695  -0.741 -2.081 O3R  SFD 25 
+SFD C4R  C4R  C 0 1 N N R 28.459 -1.954 133.552 -1.983  0.437  -0.095 C4R  SFD 26 
+SFD O4R  O4R  O 0 1 N N N 28.082 -0.629 133.039 -2.316  1.518  0.779  O4R  SFD 27 
+SFD C5R  C5R  C 0 1 N N N 30.122 -1.890 133.821 -0.604  0.685  -0.711 C5R  SFD 28 
+SFD O5R  O5R  O 0 1 N N N 30.416 -0.720 134.661 0.388   0.660  0.317  O5R  SFD 29 
+SFD PF   PF   P 0 1 N N S 31.817 0.022  134.542 1.806   0.926  -0.398 PF   SFD 30 
+SFD OP1  OP1  O 0 1 N N N 31.714 0.851  135.697 2.143   -0.294 -1.393 OP1  SFD 31 
+SFD OP2  OP2  O 0 1 N N N 32.901 -1.098 134.595 1.740   2.188  -1.170 OP2  SFD 32 
+SFD OP   OP   O 0 1 N N N 31.822 0.659  133.166 2.958   1.042  0.720  OP   SFD 33 
+SFD PA   PA   P 0 1 N N S 30.819 1.950  132.743 4.195   1.813  0.036  PA   SFD 34 
+SFD OP3  OP3  O 0 1 N N N 29.621 1.957  133.360 3.905   3.396  0.032  OP3  SFD 35 
+SFD OP4  OP4  O 0 1 N N N 30.937 1.943  131.262 4.363   1.338  -1.356 OP4  SFD 36 
+SFD O0R  O0R  O 0 1 N N N 31.728 3.180  133.238 5.540   1.516  0.870  O0R  SFD 37 
+SFD C0R  C0R  C 0 1 N N N 33.010 3.628  132.985 6.614   2.125  0.152  C0R  SFD 38 
+SFD C9R  C9R  C 0 1 N N R 33.152 5.191  133.194 7.929   1.879  0.895  C9R  SFD 39 
+SFD O9R  O9R  O 0 1 N N N 34.507 5.526  133.011 8.251   0.479  0.868  O9R  SFD 40 
+SFD C6R  C6R  C 0 1 N N R 34.586 6.714  132.154 9.690   0.379  0.800  C6R  SFD 41 
+SFD N9A  N9A  N 0 1 Y N N 35.895 6.828  131.716 10.092  -0.927 0.271  N9A  SFD 42 
+SFD N3A  N3A  N 0 1 Y N N 36.616 8.911  133.052 12.409  -1.248 1.139  N3A  SFD 43 
+SFD C2A  C2A  C 0 1 Y N N 37.783 9.736  133.258 13.431  -2.078 1.148  C2A  SFD 44 
+SFD N1A  N1A  N 0 1 Y N N 39.037 9.455  132.585 13.411  -3.234 0.510  N1A  SFD 45 
+SFD C6A  C6A  C 0 1 Y N N 39.196 8.316  131.660 12.343  -3.621 -0.181 C6A  SFD 46 
+SFD N9   N9   N 0 1 N N N 40.345 8.037  131.041 12.332  -4.834 -0.846 N9   SFD 47 
+SFD C5M  C5M  C 0 1 Y N N 38.022 7.402  131.381 11.226  -2.769 -0.220 C5M  SFD 48 
+SFD N7A  N7A  N 0 1 Y N N 37.819 6.332  130.627 10.004  -2.826 -0.801 N7A  SFD 49 
+SFD C8A  C8A  C 0 1 Y N N 36.590 5.984  130.807 9.337   -1.747 -0.514 C8A  SFD 50 
+SFD C7R  C7R  C 0 1 N N R 33.244 6.397  131.206 10.085  1.513  -0.180 C7R  SFD 51 
+SFD O7R  O7R  O 0 1 N N N 33.127 7.810  130.553 11.429  1.942  0.052  O7R  SFD 52 
+SFD C8R  C8R  C 0 1 N N S 32.090 5.907  132.160 9.076   2.631  0.193  C8R  SFD 53 
+SFD O8R  O8R  O 0 1 N N N 31.432 7.037  132.810 9.681   3.575  1.079  O8R  SFD 54 
+SFD S    S    S 0 1 N N N 23.187 -6.990 128.004 -9.997  -1.019 1.662  S    SFD 55 
+SFD O1   O1   O 0 1 N N N 22.729 -8.052 128.842 -10.011 0.183  2.420  O1   SFD 56 
+SFD O3   O3   O 0 1 N N N 22.244 -6.895 126.903 -11.147 -1.718 1.207  O3   SFD 57 
+SFD HO2  HO2  H 0 1 N N N 24.380 -7.412 126.480 -9.731  -2.210 3.279  HO2  SFD 58 
+SFD H3F  H3F  H 0 1 N N N 20.817 -5.896 132.804 -8.072  -4.928 0.256  H3F  SFD 59 
+SFD H5F  H5F  H 0 1 N N N 23.091 -6.321 129.672 -9.227  -1.670 -1.534 H5F  SFD 60 
+SFD H1F  H1F  H 0 1 N N N 27.363 -2.786 129.065 -6.322  2.304  -1.685 H1F  SFD 61 
+SFD H3F1 1H3F H 0 0 N N N 28.379 -1.973 126.877 -8.070  4.841  -2.113 H3F1 SFD 62 
+SFD H3F2 2H3F H 0 0 N N N 27.300 -0.611 127.331 -8.001  5.301  -0.395 H3F2 SFD 63 
+SFD H3F3 3H3F H 0 0 N N N 27.236 -1.292 125.670 -6.548  4.668  -1.206 H3F3 SFD 64 
+SFD HBF  HBF  H 0 1 N N N 23.165 -4.320 126.326 -10.440 1.524  0.942  HBF  SFD 65 
+SFD HAF1 1HAF H 0 0 N N N 23.827 -2.870 124.553 -9.681  4.537  1.357  HAF1 SFD 66 
+SFD HAF2 2HAF H 0 0 N N N 25.600 -2.765 124.282 -9.947  4.951  -0.354 HAF2 SFD 67 
+SFD HAF3 3HAF H 0 0 N N N 24.714 -1.368 124.983 -11.068 3.848  0.480  HAF3 SFD 68 
+SFD H1R1 1H1R H 0 0 N N N 27.333 -4.306 130.535 -5.199  -0.829 -2.371 H1R1 SFD 69 
+SFD H1R2 2H1R H 0 0 N N N 26.618 -5.258 131.993 -5.469  0.927  -2.269 H1R2 SFD 70 
+SFD H2R  H2R  H 0 1 N N N 25.980 -3.153 132.996 -4.390  -0.840 -0.027 H2R  SFD 71 
+SFD H1   H1   H 0 1 N N N 26.152 -1.262 132.139 -4.744  1.976  -0.256 H1   SFD 72 
+SFD H3R  H3R  H 0 1 N N N 28.889 -3.022 131.884 -3.045  1.272  -1.773 H3R  SFD 73 
+SFD H2   H2   H 0 1 N N N 28.589 -5.003 132.665 -2.691  -1.544 -1.543 H2   SFD 74 
+SFD H4R  H4R  H 0 1 N N N 27.819 -2.111 134.432 -1.966  -0.495 0.470  H4R  SFD 75 
+SFD H3   H3   H 0 1 N N N 28.001 -0.020 133.763 -2.320  2.321  0.241  H3   SFD 76 
+SFD H5R1 1H5R H 0 0 N N N 30.655 -1.807 132.862 -0.388  -0.092 -1.444 H5R1 SFD 77 
+SFD H5R2 2H5R H 0 0 N N N 30.452 -2.807 134.331 -0.595  1.659  -1.201 H5R2 SFD 78 
+SFD HP1  HP1  H 0 1 N N N 31.691 0.308  136.476 2.177   -1.095 -0.851 HP1  SFD 79 
+SFD HP3  HP3  H 0 1 N N N 29.749 1.959  134.301 3.802   3.664  0.956  HP3  SFD 80 
+SFD H0R1 1H0R H 0 0 N N N 33.245 3.405  131.934 6.675   1.693  -0.847 H0R1 SFD 81 
+SFD H0R2 2H0R H 0 0 N N N 33.701 3.119  133.673 6.437   3.198  0.074  H0R2 SFD 82 
+SFD H9R  H9R  H 0 1 N N N 32.894 5.547  134.202 7.840   2.219  1.927  H9R  SFD 83 
+SFD H6R  H6R  H 0 1 N N N 34.485 7.755  132.493 10.133  0.547  1.781  H6R  SFD 84 
+SFD H2A  H2A  H 0 1 N N N 37.721 10.581 133.928 14.319  -1.803 1.697  H2A  SFD 85 
+SFD HN91 1HN9 H 0 0 N N N 40.514 7.283  130.407 11.546  -5.105 -1.347 HN91 SFD 86 
+SFD HN92 2HN9 H 0 0 N N N 41.003 8.730  131.335 13.109  -5.414 -0.812 HN92 SFD 87 
+SFD H8A  H8A  H 0 1 N N N 36.135 5.136  130.316 8.333   -1.531 -0.849 H8A  SFD 88 
+SFD H7R  H7R  H 0 1 N N N 33.250 5.604  130.443 9.953   1.197  -1.214 H7R  SFD 89 
+SFD H4   H4   H 0 1 N N N 33.103 8.473  131.233 11.612  2.645  -0.586 H4   SFD 90 
+SFD H8R  H8R  H 0 1 N N N 31.258 5.323  131.740 8.712   3.131  -0.704 H8R  SFD 91 
+SFD H5   H5   H 0 1 N N N 31.289 6.836  133.727 10.426  3.967  0.604  H5   SFD 92 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SFD O2  S    SING N N 1  
+SFD O2  HO2  SING N N 2  
+SFD C4A N9A  SING Y N 3  
+SFD C4A N3A  SING Y N 4  
+SFD C4A C5M  DOUB Y N 5  
+SFD N10 C0F  SING N N 6  
+SFD N10 C9F  SING N N 7  
+SFD N10 C1R  SING N N 8  
+SFD C0F N1F  DOUB N N 9  
+SFD C0F C5F  SING N N 10 
+SFD N1F C2F  SING N N 11 
+SFD C2F O2F  DOUB N N 12 
+SFD C2F N3F  SING N N 13 
+SFD N3F C4F  SING N N 14 
+SFD N3F H3F  SING N N 15 
+SFD C4F O4F  DOUB N N 16 
+SFD C4F C5F  SING N N 17 
+SFD C5F N5F  SING N N 18 
+SFD C5F H5F  SING N N 19 
+SFD N5F C6F  SING N N 20 
+SFD N5F S    SING N N 21 
+SFD C6F C9F  SING Y N 22 
+SFD C6F CBF  DOUB Y N 23 
+SFD C9F C1F  DOUB Y N 24 
+SFD C1F C8F  SING Y N 25 
+SFD C1F H1F  SING N N 26 
+SFD C8F C3F  SING N N 27 
+SFD C8F C7F  DOUB Y N 28 
+SFD C3F H3F1 SING N N 29 
+SFD C3F H3F2 SING N N 30 
+SFD C3F H3F3 SING N N 31 
+SFD C7F CBF  SING Y N 32 
+SFD C7F CAF  SING N N 33 
+SFD CBF HBF  SING N N 34 
+SFD CAF HAF1 SING N N 35 
+SFD CAF HAF2 SING N N 36 
+SFD CAF HAF3 SING N N 37 
+SFD C1R C2R  SING N N 38 
+SFD C1R H1R1 SING N N 39 
+SFD C1R H1R2 SING N N 40 
+SFD C2R O2R  SING N N 41 
+SFD C2R C3R  SING N N 42 
+SFD C2R H2R  SING N N 43 
+SFD O2R H1   SING N N 44 
+SFD C3R O3R  SING N N 45 
+SFD C3R C4R  SING N N 46 
+SFD C3R H3R  SING N N 47 
+SFD O3R H2   SING N N 48 
+SFD C4R O4R  SING N N 49 
+SFD C4R C5R  SING N N 50 
+SFD C4R H4R  SING N N 51 
+SFD O4R H3   SING N N 52 
+SFD C5R O5R  SING N N 53 
+SFD C5R H5R1 SING N N 54 
+SFD C5R H5R2 SING N N 55 
+SFD O5R PF   SING N N 56 
+SFD PF  OP1  SING N N 57 
+SFD PF  OP2  DOUB N N 58 
+SFD PF  OP   SING N N 59 
+SFD OP1 HP1  SING N N 60 
+SFD OP  PA   SING N N 61 
+SFD PA  OP3  SING N N 62 
+SFD PA  OP4  DOUB N N 63 
+SFD PA  O0R  SING N N 64 
+SFD OP3 HP3  SING N N 65 
+SFD O0R C0R  SING N N 66 
+SFD C0R C9R  SING N N 67 
+SFD C0R H0R1 SING N N 68 
+SFD C0R H0R2 SING N N 69 
+SFD C9R O9R  SING N N 70 
+SFD C9R C8R  SING N N 71 
+SFD C9R H9R  SING N N 72 
+SFD O9R C6R  SING N N 73 
+SFD C6R N9A  SING N N 74 
+SFD C6R C7R  SING N N 75 
+SFD C6R H6R  SING N N 76 
+SFD N9A C8A  SING Y N 77 
+SFD N3A C2A  DOUB Y N 78 
+SFD C2A N1A  SING Y N 79 
+SFD C2A H2A  SING N N 80 
+SFD N1A C6A  DOUB Y N 81 
+SFD C6A N9   SING N N 82 
+SFD C6A C5M  SING Y N 83 
+SFD N9  HN91 SING N N 84 
+SFD N9  HN92 SING N N 85 
+SFD C5M N7A  SING Y N 86 
+SFD N7A C8A  DOUB Y N 87 
+SFD C8A H8A  SING N N 88 
+SFD C7R O7R  SING N N 89 
+SFD C7R C8R  SING N N 90 
+SFD C7R H7R  SING N N 91 
+SFD O7R H4   SING N N 92 
+SFD C8R O8R  SING N N 93 
+SFD C8R H8R  SING N N 94 
+SFD O8R H5   SING N N 95 
+SFD S   O1   DOUB N N 96 
+SFD S   O3   DOUB N N 97 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SFD SMILES           ACDLabs              10.04 "O=S(=O)(O)N2c1cc(c(cc1N(C3=NC(=O)NC(=O)C23)CC(O)C(O)C(O)COP(=O)(O)OP(=O)(O)OCC6OC(n5cnc4c(ncnc45)N)C(O)C6O)C)C" 
+SFD SMILES_CANONICAL CACTVS               3.341 "Cc1cc2N(C[C@H](O)[C@H](O)[C@H](O)CO[P@@](O)(=O)O[P@](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)C6=NC(=O)NC(=O)[C@H]6N(c2cc1C)[S](O)(=O)=O" 
+SFD SMILES           CACTVS               3.341 "Cc1cc2N(C[CH](O)[CH](O)[CH](O)CO[P](O)(=O)O[P](O)(=O)OC[CH]3O[CH]([CH](O)[CH]3O)n4cnc5c(N)ncnc45)C6=NC(=O)NC(=O)[CH]6N(c2cc1C)[S](O)(=O)=O" 
+SFD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1cc2c(cc1C)[N@](C3C(=O)NC(=O)N=C3N2C[C@@H]([C@@H]([C@@H](CO[P@](=O)(O)O[P@@](=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)n5cnc6c5ncnc6N)O)O)O)O)O)S(=O)(=O)O" 
+SFD SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1cc2c(cc1C)N(C3C(=O)NC(=O)N=C3N2CC(C(C(COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)n5cnc6c5ncnc6N)O)O)O)O)O)S(=O)(=O)O" 
+SFD InChI            InChI                1.03  
+;InChI=1S/C27H35N9O18P2S/c1-10-3-12-13(4-11(10)2)36(57(48,49)50)18-24(32-27(43)33-25(18)42)34(12)5-14(37)19(39)15(38)6-51-55(44,45)54-56(46,47)52-7-16-20(40)21(41)26(53-16)35-9-31-17-22(28)29-8-30-23(17)35/h3-4,8-9,14-16,18-21,26,37-41H,5-7H2,1-2H3,(H,44,45)(H,46,47)(H2,28,29,30)(H,33,42,43)(H,48,49,50)/t14-,15+,16+,18-,19-,20+,21+,26+/m0/s1
+;
+SFD InChIKey         InChI                1.03  WCBOBURWKHIISA-LDVRFEIFSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SFD "SYSTEMATIC NAME" ACDLabs              10.04 
+;(4aS)-10-[(2S,3S,4R)-5-{[(S)-{[(S)-{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(hydroxy)phosphoryl]oxy}(hydroxy)phosphoryl]oxy}-2,3,4-trihydroxypentyl]-7,8-dimethyl-2,4-dioxo-2,4,4a,10-tetrahydrobenzo[g]pteridine-5(3H)-sulfonic acid (non-preferred name)
+;
+SFD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 
+"(5S)-10-[(2S,3S,4R)-5-[[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxy-2,3,4-trihydroxy-pentyl]-7,8-dimethyl-2,4-dioxo-4aH-benzo[g]pteridine-5-sulfonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SFD "Create component"  2006-01-11 RCSB 
+SFD "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,113 @@
+data_09V
+# 
+_chem_comp.id                                    09V 
+_chem_comp.name                                  cyclopropylmethanol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-11-16 
+_chem_comp.pdbx_modified_date                    2012-12-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        72.106 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     09V 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UGL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+09V O1 O1 O 0 1 N N N -9.883  -4.189 15.175 2.062  0.208  -0.179 O1 09V 1  
+09V C1 C1 C 0 1 N N N -10.181 -2.990 15.831 0.894  -0.382 0.397  C1 09V 2  
+09V C2 C2 C 0 1 N N N -11.537 -2.800 16.365 -0.330 -0.014 -0.443 C2 09V 3  
+09V C3 C3 C 0 1 N N N -11.509 -1.681 17.336 -1.668 -0.647 -0.057 C3 09V 4  
+09V C4 C4 C 0 1 N N N -12.012 -1.461 15.959 -1.415 0.836  0.222  C4 09V 5  
+09V H1 H1 H 0 1 N N N -8.979  -4.175 14.884 2.878  0.016  0.303  H1 09V 6  
+09V H2 H2 H 0 1 N N N -9.484  -2.901 16.677 1.008  -1.465 0.419  H2 09V 7  
+09V H3 H3 H 0 1 N N N -9.996  -2.174 15.116 0.763  -0.009 1.413  H3 09V 8  
+09V H4 H4 H 0 1 N N N -12.233 -3.643 16.484 -0.140 0.153  -1.504 H4 09V 9  
+09V H5 H5 H 0 1 N N N -10.548 -1.246 17.647 -2.358 -0.896 -0.863 H5 09V 10 
+09V H6 H6 H 0 1 N N N -12.208 -1.672 18.185 -1.676 -1.326 0.795  H6 09V 11 
+09V H7 H7 H 0 1 N N N -11.424 -0.861 15.248 -1.256 1.132  1.259  H7 09V 12 
+09V H8 H8 H 0 1 N N N -13.084 -1.287 15.787 -1.938 1.562  -0.400 H8 09V 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+09V O1 C1 SING N N 1  
+09V C1 C2 SING N N 2  
+09V C4 C2 SING N N 3  
+09V C4 C3 SING N N 4  
+09V C2 C3 SING N N 5  
+09V O1 H1 SING N N 6  
+09V C1 H2 SING N N 7  
+09V C1 H3 SING N N 8  
+09V C2 H4 SING N N 9  
+09V C3 H5 SING N N 10 
+09V C3 H6 SING N N 11 
+09V C4 H7 SING N N 12 
+09V C4 H8 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+09V SMILES           ACDLabs              12.01 OCC1CC1                                 
+09V InChI            InChI                1.03  InChI=1S/C4H8O/c5-3-4-1-2-4/h4-5H,1-3H2 
+09V InChIKey         InChI                1.03  GUDMZGLFZNLYEY-UHFFFAOYSA-N             
+09V SMILES_CANONICAL CACTVS               3.370 OCC1CC1                                 
+09V SMILES           CACTVS               3.370 OCC1CC1                                 
+09V SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C1CC1CO                                 
+09V SMILES           "OpenEye OEToolkits" 1.7.6 C1CC1CO                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+09V "SYSTEMATIC NAME" ACDLabs              12.01 cyclopropylmethanol 
+09V "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 cyclopropylmethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+09V "Create component" 2011-11-16 RCSB 
+09V "Initial release"  2012-12-07 RCSB 
+# 

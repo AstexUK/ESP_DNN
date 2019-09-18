@@ -1,0 +1,123 @@
+data_ES1
+# 
+_chem_comp.id                                    ES1 
+_chem_comp.name                                  quinolin-4-ol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-12-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ES1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ES1 O01  O01  O 0 1 N N N 26.967 45.355 14.067 1.806  2.011  0.030  O01  ES1 1  
+ES1 CAD  CAD  C 0 1 Y N N 28.158 46.241 15.968 2.258  -0.330 0.012  CAD  ES1 2  
+ES1 CAE  CAE  C 0 1 Y N N 28.834 46.033 17.196 1.778  -1.633 -0.000 CAE  ES1 3  
+ES1 CAF  CAF  C 0 1 Y N N 27.654 45.159 15.267 1.367  0.729  0.017  CAF  ES1 4  
+ES1 CAG  CAG  C 0 1 Y N N 27.447 41.459 15.519 -2.303 1.121  0.007  CAG  ES1 5  
+ES1 NAH  NAH  N 0 1 Y N N 28.990 44.745 17.685 0.493  -1.898 -0.008 NAH  ES1 6  
+ES1 CAI  CAI  C 0 1 Y N N 27.289 42.768 15.016 -0.980 1.448  0.014  CAI  ES1 7  
+ES1 CAJ  CAJ  C 0 1 Y N N 28.644 42.344 17.479 -1.797 -1.222 -0.011 CAJ  ES1 8  
+ES1 CAK  CAK  C 0 1 Y N N 28.123 41.247 16.748 -2.708 -0.211 -0.007 CAK  ES1 9  
+ES1 CAL  CAL  C 0 1 Y N N 27.810 43.866 15.757 -0.014 0.431  0.009  CAL  ES1 10 
+ES1 CAM  CAM  C 0 1 Y N N 28.481 43.656 16.980 -0.424 -0.924 -0.003 CAM  ES1 11 
+ES1 HO01 HO01 H 0 0 N N N 26.691 44.515 13.719 1.937  2.391  -0.849 HO01 ES1 12 
+ES1 HAD  HAD  H 0 1 N N N 28.036 47.241 15.580 3.322  -0.144 0.023  HAD  ES1 13 
+ES1 HAE  HAE  H 0 1 N N N 29.226 46.874 17.749 2.483  -2.452 -0.005 HAE  ES1 14 
+ES1 HAG  HAG  H 0 1 N N N 27.053 40.618 14.968 -3.046 1.905  0.011  HAG  ES1 15 
+ES1 HAI  HAI  H 0 1 N N N 26.778 42.935 14.079 -0.677 2.485  0.024  HAI  ES1 16 
+ES1 HAJ  HAJ  H 0 1 N N N 29.162 42.178 18.412 -2.129 -2.250 -0.022 HAJ  ES1 17 
+ES1 HAK  HAK  H 0 1 N N N 28.241 40.243 17.129 -3.763 -0.445 -0.013 HAK  ES1 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ES1 O01 CAF  SING N N 1  
+ES1 CAD CAE  DOUB Y N 2  
+ES1 CAD CAF  SING Y N 3  
+ES1 CAE NAH  SING Y N 4  
+ES1 CAF CAL  DOUB Y N 5  
+ES1 CAG CAI  DOUB Y N 6  
+ES1 CAG CAK  SING Y N 7  
+ES1 NAH CAM  DOUB Y N 8  
+ES1 CAI CAL  SING Y N 9  
+ES1 CAJ CAK  DOUB Y N 10 
+ES1 CAJ CAM  SING Y N 11 
+ES1 CAL CAM  SING Y N 12 
+ES1 O01 HO01 SING N N 13 
+ES1 CAD HAD  SING N N 14 
+ES1 CAE HAE  SING N N 15 
+ES1 CAG HAG  SING N N 16 
+ES1 CAI HAI  SING N N 17 
+ES1 CAJ HAJ  SING N N 18 
+ES1 CAK HAK  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ES1 SMILES_CANONICAL CACTVS               3.352 Oc1ccnc2ccccc12                                                
+ES1 SMILES           CACTVS               3.352 Oc1ccnc2ccccc12                                                
+ES1 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1ccc2c(c1)c(ccn2)O"                                          
+ES1 SMILES           "OpenEye OEToolkits" 1.7.0 "c1ccc2c(c1)c(ccn2)O"                                          
+ES1 InChI            InChI                1.03  "InChI=1S/C9H7NO/c11-9-5-6-10-8-4-2-1-3-7(8)9/h1-6H,(H,10,11)" 
+ES1 InChIKey         InChI                1.03  PMZDQRJGMBOQBF-UHFFFAOYSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ES1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 quinolin-4-ol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ES1 "Create component"     2009-12-02 RCSB 
+ES1 "Modify aromatic_flag" 2011-06-04 RCSB 
+ES1 "Modify descriptor"    2011-06-04 RCSB 
+# 

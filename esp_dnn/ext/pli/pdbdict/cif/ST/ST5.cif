@@ -1,0 +1,147 @@
+data_ST5
+# 
+_chem_comp.id                                    ST5 
+_chem_comp.name                                  "4-(ACETYLAMINO)-3-[(HYDROXYACETYL)AMINO]BENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H12 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        252.223 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ST5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1ING 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ST5 "C'"   "C'"   C 0 1 N N N 49.117 -20.520 -23.684 2.086  0.027  -2.776 "C'"   ST5 1  
+ST5 "O1'"  "O1'"  O 0 1 N N N 49.072 -19.283 -23.856 1.316  0.029  -3.717 "O1'"  ST5 2  
+ST5 "O2'"  "O2'"  O 0 1 N N N 49.916 -21.249 -24.312 3.411  0.146  -2.990 "O2'"  ST5 3  
+ST5 C1     C1     C 0 1 Y N N 48.272 -21.108 -22.739 1.570  -0.104 -1.401 C1     ST5 4  
+ST5 C2     C2     C 0 1 Y N N 48.007 -22.476 -22.771 0.196  -0.227 -1.178 C2     ST5 5  
+ST5 C3     C3     C 0 1 Y N N 47.187 -23.080 -21.818 -0.282 -0.356 0.112  C3     ST5 6  
+ST5 N3     N3     N 0 1 N N N 46.888 -24.428 -21.936 -1.659 -0.480 0.340  N3     ST5 7  
+ST5 "C3'"  "C3'"  C 0 1 N N N 46.250 -24.876 -23.017 -2.537 0.004  -0.559 "C3'"  ST5 8  
+ST5 O3     O3     O 0 1 N N N 45.399 -24.216 -23.612 -2.140 0.641  -1.512 O3     ST5 9  
+ST5 CM3    CM3    C 0 1 N N N 46.582 -26.274 -23.491 -4.013 -0.244 -0.382 CM3    ST5 10 
+ST5 "O3'"  "O3'"  O 0 1 N N N 45.839 -26.573 -24.666 -4.732 0.364  -1.456 "O3'"  ST5 11 
+ST5 C4     C4     C 0 1 Y N N 46.621 -22.296 -20.802 0.606  -0.351 1.189  C4     ST5 12 
+ST5 N4     N4     N 0 1 N N N 45.839 -22.853 -19.804 0.122  -0.476 2.492  N4     ST5 13 
+ST5 "C4'"  "C4'"  C 0 1 N N N 46.316 -23.795 -18.989 0.733  0.174  3.502  "C4'"  ST5 14 
+ST5 O4     O4     O 0 1 N N N 47.486 -24.185 -19.058 1.750  0.800  3.293  O4     ST5 15 
+ST5 CM4    CM4    C 0 1 N N N 45.418 -24.371 -17.912 0.150  0.124  4.891  CM4    ST5 16 
+ST5 C5     C5     C 0 1 Y N N 46.882 -20.933 -20.772 1.972  -0.229 0.965  C5     ST5 17 
+ST5 C6     C6     C 0 1 Y N N 47.699 -20.347 -21.727 2.454  -0.106 -0.319 C6     ST5 18 
+ST5 "HO2'" "'HO2" H 0 0 N N N 49.950 -22.189 -24.181 3.749  0.233  -3.892 "HO2'" ST5 19 
+ST5 H2     H2     H 0 1 N N N 48.455 -23.093 -23.567 -0.489 -0.226 -2.012 H2     ST5 20 
+ST5 HN3    HN3    H 0 1 N N N 47.008 -25.016 -21.161 -1.980 -0.914 1.145  HN3    ST5 21 
+ST5 HM31   1HM3   H 0 0 N N N 47.540 -26.333 -23.688 -4.202 -1.318 -0.381 HM31   ST5 22 
+ST5 HM32   2HM3   H 0 0 N N N 46.355 -26.916 -22.792 -4.343 0.183  0.564  HM32   ST5 23 
+ST5 HO3    HO3    H 0 1 N N N 46.030 -27.461 -24.976 -5.669 0.181  -1.305 HO3    ST5 24 
+ST5 HN4    HN4    H 0 1 N N N 44.916 -22.544 -19.699 -0.652 -1.031 2.671  HN4    ST5 25 
+ST5 HM41   1HM4   H 0 0 N N N 45.816 -25.158 -17.230 0.776  0.704  5.569  HM41   ST5 26 
+ST5 HM42   2HM4   H 0 0 N N N 45.019 -23.532 -17.293 -0.855 0.541  4.879  HM42   ST5 27 
+ST5 HM43   3HM4   H 0 0 N N N 44.486 -24.752 -18.391 0.110  -0.910 5.231  HM43   ST5 28 
+ST5 H5     H5     H 0 1 N N N 46.435 -20.308 -19.980 2.658  -0.231 1.800  H5     ST5 29 
+ST5 H6     H6     H 0 1 N N N 47.895 -19.262 -21.681 3.517  -0.011 -0.489 H6     ST5 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ST5 "C'"  "O1'"  DOUB N N 1  
+ST5 "C'"  "O2'"  SING N N 2  
+ST5 "C'"  C1     SING N N 3  
+ST5 "O2'" "HO2'" SING N N 4  
+ST5 C1    C2     DOUB Y N 5  
+ST5 C1    C6     SING Y N 6  
+ST5 C2    C3     SING Y N 7  
+ST5 C2    H2     SING N N 8  
+ST5 C3    N3     SING N N 9  
+ST5 C3    C4     DOUB Y N 10 
+ST5 N3    "C3'"  SING N N 11 
+ST5 N3    HN3    SING N N 12 
+ST5 "C3'" O3     DOUB N N 13 
+ST5 "C3'" CM3    SING N N 14 
+ST5 CM3   "O3'"  SING N N 15 
+ST5 CM3   HM31   SING N N 16 
+ST5 CM3   HM32   SING N N 17 
+ST5 "O3'" HO3    SING N N 18 
+ST5 C4    N4     SING N N 19 
+ST5 C4    C5     SING Y N 20 
+ST5 N4    "C4'"  SING N N 21 
+ST5 N4    HN4    SING N N 22 
+ST5 "C4'" O4     DOUB N N 23 
+ST5 "C4'" CM4    SING N N 24 
+ST5 CM4   HM41   SING N N 25 
+ST5 CM4   HM42   SING N N 26 
+ST5 CM4   HM43   SING N N 27 
+ST5 C5    C6     DOUB Y N 28 
+ST5 C5    H5     SING N N 29 
+ST5 C6    H6     SING N N 30 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ST5 SMILES           ACDLabs              10.04 "O=C(Nc1cc(ccc1NC(=O)C)C(=O)O)CO"                                                                                  
+ST5 SMILES_CANONICAL CACTVS               3.341 "CC(=O)Nc1ccc(cc1NC(=O)CO)C(O)=O"                                                                                  
+ST5 SMILES           CACTVS               3.341 "CC(=O)Nc1ccc(cc1NC(=O)CO)C(O)=O"                                                                                  
+ST5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)Nc1ccc(cc1NC(=O)CO)C(=O)O"                                                                                  
+ST5 SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)Nc1ccc(cc1NC(=O)CO)C(=O)O"                                                                                  
+ST5 InChI            InChI                1.03  "InChI=1S/C11H12N2O5/c1-6(15)12-8-3-2-7(11(17)18)4-9(8)13-10(16)5-14/h2-4,14H,5H2,1H3,(H,12,15)(H,13,16)(H,17,18)" 
+ST5 InChIKey         InChI                1.03  CRHJDPGLFDNPOA-UHFFFAOYSA-N                                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ST5 "SYSTEMATIC NAME" ACDLabs              10.04 "4-(acetylamino)-3-[(hydroxyacetyl)amino]benzoic acid" 
+ST5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4-acetamido-3-(2-hydroxyethanoylamino)benzoic acid"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ST5 "Create component"  1999-07-08 RCSB 
+ST5 "Modify descriptor" 2011-06-04 RCSB 
+# 

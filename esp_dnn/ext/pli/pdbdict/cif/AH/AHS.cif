@@ -1,0 +1,187 @@
+data_AHS
+# 
+_chem_comp.id                                    AHS 
+_chem_comp.name                                  "(3-AMINO-4-CYCLOHEXYL-2-HYDROXY-BUTYL)-ISOBUTYL-CARBAMIC ACID" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H30 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        286.410 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     AHS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        5ER2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AHS N    N    N 0 1 N N N 4.032  32.013 15.130 -1.032 1.424  1.036  N    AHS 1  
+AHS CA   CA   C 0 1 N N S 4.918  33.177 14.966 -1.095 0.185  0.249  CA   AHS 2  
+AHS CB   CB   C 0 1 N N N 6.379  32.757 15.114 -2.205 0.302  -0.798 CB   AHS 3  
+AHS CG   CG   C 0 1 N N N 6.740  32.370 16.545 -3.561 0.395  -0.095 CG   AHS 4  
+AHS CD1  CD1  C 0 1 N N N 6.308  33.403 17.588 -3.850 -0.920 0.632  CD1  AHS 5  
+AHS CD2  CD2  C 0 1 N N N 8.232  32.060 16.692 -4.656 0.656  -1.132 CD2  AHS 6  
+AHS CE1  CE1  C 0 1 N N N 6.580  32.858 18.996 -5.206 -0.826 1.334  CE1  AHS 7  
+AHS CE2  CE2  C 0 1 N N N 8.544  31.532 18.093 -6.011 0.750  -0.429 CE2  AHS 8  
+AHS CZ   CZ   C 0 1 N N N 8.054  32.491 19.179 -6.301 -0.565 0.298  CZ   AHS 9  
+AHS CH   CH   C 0 1 N N S 4.657  33.833 13.604 0.245  -0.042 -0.453 CH   AHS 10 
+AHS OH   OH   O 0 1 N N N 5.241  33.028 12.573 0.522  1.059  -1.320 OH   AHS 11 
+AHS CM   CM   C 0 1 N N N 3.162  33.993 13.343 1.355  -0.159 0.594  CM   AHS 12 
+AHS N1   N1   N 0 1 N N N 2.958  35.114 12.414 2.639  -0.377 -0.078 N1   AHS 13 
+AHS CB2  CB2  C 0 1 N N N 2.573  34.842 11.021 3.465  0.769  -0.469 CB2  AHS 14 
+AHS CG2  CG2  C 0 1 N N N 1.124  34.386 10.914 4.415  1.127  0.676  CG2  AHS 15 
+AHS CD3  CD3  C 0 1 N N N 0.163  35.561 10.923 5.399  -0.024 0.900  CD3  AHS 16 
+AHS CD4  CD4  C 0 1 N N N 0.893  33.447 9.746  5.189  2.397  0.318  CD4  AHS 17 
+AHS C    C    C 0 1 N N N 3.043  36.353 12.866 3.060  -1.630 -0.336 C    AHS 18 
+AHS O    O    O 0 1 N N N 3.262  36.544 14.065 4.125  -1.811 -0.893 O    AHS 19 
+AHS OXT  OXT  O 0 1 N Y N 3.034  37.366 12.015 2.302  -2.683 0.024  OXT  AHS 20 
+AHS H    HN1  H 0 1 N N N 3.080  32.302 15.031 -0.941 2.230  0.435  H    AHS 21 
+AHS H2   HN2  H 0 1 N Y N 4.247  31.330 14.432 -1.837 1.511  1.638  H2   AHS 22 
+AHS HA   HA   H 0 1 N N N 4.704  33.916 15.753 -1.306 -0.655 0.910  HA   AHS 23 
+AHS HB2  HB1  H 0 1 N N N 6.558  31.888 14.464 -2.045 1.196  -1.399 HB2  AHS 24 
+AHS HB3  HB2  H 0 1 N N N 7.015  33.602 14.812 -2.190 -0.577 -1.443 HB3  AHS 25 
+AHS HG   HG   H 0 1 N N N 6.165  31.454 16.747 -3.541 1.212  0.626  HG   AHS 26 
+AHS HD12 HD11 H 0 0 N N N 6.877  34.333 17.439 -3.870 -1.737 -0.089 HD12 AHS 27 
+AHS HD13 HD12 H 0 0 N N N 5.233  33.608 17.476 -3.070 -1.106 1.370  HD13 AHS 28 
+AHS HD23 HD21 H 0 0 N N N 8.514  31.298 15.951 -4.449 1.593  -1.650 HD23 AHS 29 
+AHS HD22 HD22 H 0 0 N N N 8.808  32.981 16.520 -4.676 -0.161 -1.853 HD22 AHS 30 
+AHS HE12 HE11 H 0 0 N N N 6.312  33.630 19.733 -5.412 -1.763 1.852  HE12 AHS 31 
+AHS HE13 HE12 H 0 0 N N N 5.968  31.957 19.152 -5.186 -0.009 2.056  HE13 AHS 32 
+AHS HE23 HE21 H 0 0 N N N 8.043  30.562 18.225 -5.991 1.567  0.292  HE23 AHS 33 
+AHS HE22 HE22 H 0 0 N N N 9.633  31.413 18.192 -6.791 0.936  -1.168 HE22 AHS 34 
+AHS HZ2  HZ1  H 0 1 N N N 8.654  33.412 19.132 -6.321 -1.382 -0.423 HZ2  AHS 35 
+AHS HZ3  HZ2  H 0 1 N N N 8.177  32.005 20.158 -7.267 -0.498 0.799  HZ3  AHS 36 
+AHS HH   HH   H 0 1 N N N 5.112  34.835 13.607 0.199  -0.962 -1.036 HH   AHS 37 
+AHS HO   HO   H 0 1 N N N 5.082  33.431 11.728 0.578  1.912  -0.867 HO   AHS 38 
+AHS HM1  HM1  H 0 1 N N N 2.762  33.068 12.901 1.402  0.760  1.178  HM1  AHS 39 
+AHS HM2  HM2  H 0 1 N N N 2.641  34.197 14.290 1.144  -0.999 1.255  HM2  AHS 40 
+AHS HB21 HB21 H 0 0 N N N 2.697  35.764 10.434 4.044  0.513  -1.356 HB21 AHS 41 
+AHS HB22 HB22 H 0 0 N N N 3.223  34.048 10.624 2.822  1.622  -0.688 HB22 AHS 42 
+AHS HG2  HG2  H 0 1 N N N 0.908  33.795 11.816 3.840  1.296  1.586  HG2  AHS 43 
+AHS HD31 HD31 H 0 0 N N N -0.870 35.191 10.844 6.076  0.231  1.716  HD31 AHS 44 
+AHS HD32 HD32 H 0 0 N N N 0.280  36.123 11.861 4.847  -0.929 1.156  HD32 AHS 45 
+AHS HD33 HD33 H 0 0 N N N 0.382  36.220 10.070 5.974  -0.193 -0.010 HD33 AHS 46 
+AHS HD41 HD41 H 0 0 N N N -0.166 33.151 9.717  4.488  3.216  0.157  HD41 AHS 47 
+AHS HD42 HD42 H 0 0 N N N 1.157  33.957 8.808  5.866  2.652  1.133  HD42 AHS 48 
+AHS HD43 HD43 H 0 0 N N N 1.521  32.552 9.866  5.764  2.227  -0.593 HD43 AHS 49 
+AHS HXT  HXT  H 0 1 N Y N 3.213  38.174 12.482 1.463  -2.490 0.464  HXT  AHS 50 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AHS N   CA   SING N N 1  
+AHS N   H    SING N N 2  
+AHS N   H2   SING N N 3  
+AHS CA  CB   SING N N 4  
+AHS CA  CH   SING N N 5  
+AHS CA  HA   SING N N 6  
+AHS CB  CG   SING N N 7  
+AHS CB  HB2  SING N N 8  
+AHS CB  HB3  SING N N 9  
+AHS CG  CD1  SING N N 10 
+AHS CG  CD2  SING N N 11 
+AHS CG  HG   SING N N 12 
+AHS CD1 CE1  SING N N 13 
+AHS CD1 HD12 SING N N 14 
+AHS CD1 HD13 SING N N 15 
+AHS CD2 CE2  SING N N 16 
+AHS CD2 HD23 SING N N 17 
+AHS CD2 HD22 SING N N 18 
+AHS CE1 CZ   SING N N 19 
+AHS CE1 HE12 SING N N 20 
+AHS CE1 HE13 SING N N 21 
+AHS CE2 CZ   SING N N 22 
+AHS CE2 HE23 SING N N 23 
+AHS CE2 HE22 SING N N 24 
+AHS CZ  HZ2  SING N N 25 
+AHS CZ  HZ3  SING N N 26 
+AHS CH  OH   SING N N 27 
+AHS CH  CM   SING N N 28 
+AHS CH  HH   SING N N 29 
+AHS OH  HO   SING N N 30 
+AHS CM  N1   SING N N 31 
+AHS CM  HM1  SING N N 32 
+AHS CM  HM2  SING N N 33 
+AHS N1  CB2  SING N N 34 
+AHS N1  C    SING N N 35 
+AHS CB2 CG2  SING N N 36 
+AHS CB2 HB21 SING N N 37 
+AHS CB2 HB22 SING N N 38 
+AHS CG2 CD3  SING N N 39 
+AHS CG2 CD4  SING N N 40 
+AHS CG2 HG2  SING N N 41 
+AHS CD3 HD31 SING N N 42 
+AHS CD3 HD32 SING N N 43 
+AHS CD3 HD33 SING N N 44 
+AHS CD4 HD41 SING N N 45 
+AHS CD4 HD42 SING N N 46 
+AHS CD4 HD43 SING N N 47 
+AHS C   O    DOUB N N 48 
+AHS C   OXT  SING N N 49 
+AHS OXT HXT  SING N N 50 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AHS SMILES           ACDLabs              12.01 "O=C(O)N(CC(C)C)CC(O)C(N)CC1CCCCC1"                                                                                              
+AHS SMILES_CANONICAL CACTVS               3.370 "CC(C)CN(C[C@H](O)[C@@H](N)CC1CCCCC1)C(O)=O"                                                                                     
+AHS SMILES           CACTVS               3.370 "CC(C)CN(C[CH](O)[CH](N)CC1CCCCC1)C(O)=O"                                                                                        
+AHS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)CN(C[C@@H]([C@H](CC1CCCCC1)N)O)C(=O)O"                                                                                     
+AHS SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)CN(CC(C(CC1CCCCC1)N)O)C(=O)O"                                                                                              
+AHS InChI            InChI                1.03  "InChI=1S/C15H30N2O3/c1-11(2)9-17(15(19)20)10-14(18)13(16)8-12-6-4-3-5-7-12/h11-14,18H,3-10,16H2,1-2H3,(H,19,20)/t13-,14-/m0/s1" 
+AHS InChIKey         InChI                1.03  AXBVZKHUXGSFMA-KBPBESRZSA-N                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AHS "SYSTEMATIC NAME" ACDLabs              12.01 "[(2S,3S)-3-amino-4-cyclohexyl-2-hydroxybutyl](2-methylpropyl)carbamic acid"    
+AHS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[(2S,3S)-3-azanyl-4-cyclohexyl-2-hydroxy-butyl]-(2-methylpropyl)carbamic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AHS "Create component"  1999-07-08 EBI  
+AHS "Modify descriptor" 2011-06-04 RCSB 
+# 

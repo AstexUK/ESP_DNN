@@ -1,0 +1,121 @@
+data_DBH
+# 
+_chem_comp.id                                    DBH 
+_chem_comp.name                                  "2,3-DIHYDROXY-BENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-03-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.120 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DBH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DBH O17  O17  O 0 1 N N N 52.991 107.635 34.099 -0.772 0.014  2.961  O17  DBH 1  
+DBH C21  C21  C 0 1 N N N 52.280 106.499 33.931 0.130  -0.004 1.960  C21  DBH 2  
+DBH O9   O9   O 0 1 N N N 51.039 106.499 33.873 1.318  -0.019 2.214  O9   DBH 3  
+DBH C18  C18  C 0 1 Y N N 53.109 105.261 33.795 -0.323 -0.005 0.558  C18  DBH 4  
+DBH C15  C15  C 0 1 Y N N 52.665 104.192 32.948 -1.690 0.011  0.262  C15  DBH 5  
+DBH C12  C12  C 0 1 Y N N 53.386 103.060 32.784 -2.110 0.010  -1.049 C12  DBH 6  
+DBH C3   C3   C 0 1 Y N N 54.318 105.091 34.436 0.611  -0.018 -0.484 C3   DBH 7  
+DBH O3   O3   O 0 1 N N N 54.887 105.966 35.250 1.940  -0.035 -0.208 O3   DBH 8  
+DBH C6   C6   C 0 1 Y N N 55.063 103.913 34.262 0.170  -0.025 -1.804 C6   DBH 9  
+DBH C9   C9   C 0 1 Y N N 54.599 102.894 33.431 -1.185 -0.008 -2.080 C9   DBH 10 
+DBH O6   O6   O 0 1 N N N 56.220 103.889 34.947 1.072  -0.044 -2.822 O6   DBH 11 
+DBH HO17 HO17 H 0 0 N N N 53.940 107.635 34.143 -0.474 0.015  3.881  HO17 DBH 12 
+DBH HC15 HC15 H 0 0 N N N 51.715 104.243 32.391 -2.416 0.025  1.061  HC15 DBH 13 
+DBH HC12 HC12 H 0 0 N N N 52.985 102.273 32.123 -3.166 0.024  -1.274 HC12 DBH 14 
+DBH HO3  HO3  H 0 1 N N N 55.720 105.849 35.692 2.227  0.886  -0.161 HO3  DBH 15 
+DBH HC9  HC9  H 0 1 N N N 55.183 101.970 33.288 -1.524 -0.009 -3.106 HC9  DBH 16 
+DBH HO6  HO6  H 0 1 N N N 56.724 103.092 34.829 1.270  0.877  -3.036 HO6  DBH 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DBH O17 C21  SING N N 1  
+DBH O17 HO17 SING N N 2  
+DBH C21 O9   DOUB N N 3  
+DBH C21 C18  SING N N 4  
+DBH C18 C15  DOUB Y N 5  
+DBH C18 C3   SING Y N 6  
+DBH C15 C12  SING Y N 7  
+DBH C15 HC15 SING N N 8  
+DBH C12 C9   DOUB Y N 9  
+DBH C12 HC12 SING N N 10 
+DBH C3  O3   SING N N 11 
+DBH C3  C6   DOUB Y N 12 
+DBH O3  HO3  SING N N 13 
+DBH C6  C9   SING Y N 14 
+DBH C6  O6   SING N N 15 
+DBH C9  HC9  SING N N 16 
+DBH O6  HO6  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DBH SMILES           ACDLabs              10.04 "O=C(O)c1cccc(O)c1O"                                             
+DBH SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1cccc(O)c1O"                                             
+DBH SMILES           CACTVS               3.341 "OC(=O)c1cccc(O)c1O"                                             
+DBH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)O)O)C(=O)O"                                         
+DBH SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)O)O)C(=O)O"                                         
+DBH InChI            InChI                1.03  "InChI=1S/C7H6O4/c8-5-3-1-2-4(6(5)9)7(10)11/h1-3,8-9H,(H,10,11)" 
+DBH InChIKey         InChI                1.03  GLDQAMYCGOIJDV-UHFFFAOYSA-N                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DBH "SYSTEMATIC NAME" ACDLabs              10.04 "2,3-dihydroxybenzoic acid" 
+DBH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2,3-dihydroxybenzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DBH "Create component"  2002-03-20 RCSB 
+DBH "Modify descriptor" 2011-06-04 RCSB 
+# 

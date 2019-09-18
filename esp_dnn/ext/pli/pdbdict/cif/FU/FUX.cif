@@ -1,0 +1,117 @@
+data_FUX
+# 
+_chem_comp.id                                    FUX 
+_chem_comp.name                                  5-HYDROXYMETHYL-FURFURAL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-09-10 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        126.110 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FUX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QXE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FUX C1  C1  C 0 1 N N N 31.222 28.014 34.608 0.854  -2.157 -4.049 C1  FUX 1  
+FUX C2  C2  C 0 1 Y N N 32.653 28.137 34.279 0.510  -1.752 -2.729 C2  FUX 2  
+FUX O3  O3  O 0 1 Y N N 33.159 27.436 33.249 0.025  -2.696 -1.880 O3  FUX 3  
+FUX C4  C4  C 0 1 Y N N 34.443 27.816 33.306 -0.223 -2.068 -0.701 C4  FUX 4  
+FUX C5  C5  C 0 1 Y N N 34.781 28.691 34.268 0.097  -0.733 -0.788 C5  FUX 5  
+FUX C6  C6  C 0 1 Y N N 33.493 28.909 34.957 0.573  -0.528 -2.105 C6  FUX 6  
+FUX C7  C7  C 0 1 N N N 35.385 27.211 32.269 -0.761 -2.905 0.381  C7  FUX 7  
+FUX O8  O8  O 0 1 N N N 34.687 26.434 31.261 -2.190 -2.914 0.335  O8  FUX 8  
+FUX OXT OXT O 0 1 N N N ?      ?      ?      1.309  -1.389 -4.926 OXT FUX 9  
+FUX H1  H1  H 0 1 N N N 31.833 28.586 35.325 0.713  -3.236 -4.340 H1  FUX 10 
+FUX H5  H5  H 0 1 N N N 35.791 29.099 34.437 -0.000 0.002  -0.001 H5  FUX 11 
+FUX H6  H6  H 0 1 N N N 33.210 29.534 35.820 0.918  0.399  -2.541 H6  FUX 12 
+FUX H71 1H7 H 0 1 N N N 36.019 27.998 31.798 -0.417 -3.955 0.314  H71 FUX 13 
+FUX H72 2H7 H 0 1 N N N 36.182 26.605 32.759 -0.457 -2.542 1.381  H72 FUX 14 
+FUX HO8 HO8 H 0 1 N N N 35.273 26.057 30.615 -2.491 -2.982 1.253  HO8 FUX 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FUX C1 C2  SING N N 1  
+FUX C1 OXT DOUB N N 2  
+FUX C1 H1  SING N N 3  
+FUX C2 O3  SING Y N 4  
+FUX C2 C6  DOUB Y N 5  
+FUX O3 C4  SING Y N 6  
+FUX C4 C5  DOUB Y N 7  
+FUX C4 C7  SING N N 8  
+FUX C5 C6  SING Y N 9  
+FUX C5 H5  SING N N 10 
+FUX C6 H6  SING N N 11 
+FUX C7 O8  SING N N 12 
+FUX C7 H71 SING N N 13 
+FUX C7 H72 SING N N 14 
+FUX O8 HO8 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FUX SMILES           ACDLabs              10.04 "O=Cc1oc(cc1)CO"                                   
+FUX SMILES_CANONICAL CACTVS               3.341 "OCc1oc(C=O)cc1"                                   
+FUX SMILES           CACTVS               3.341 "OCc1oc(C=O)cc1"                                   
+FUX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(oc1CO)C=O"                                   
+FUX SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(oc1CO)C=O"                                   
+FUX InChI            InChI                1.03  "InChI=1S/C6H6O3/c7-3-5-1-2-6(4-8)9-5/h1-3,8H,4H2" 
+FUX InChIKey         InChI                1.03  NOEGNKMFWQHSLB-UHFFFAOYSA-N                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FUX "SYSTEMATIC NAME" ACDLabs              10.04 "5-(hydroxymethyl)furan-2-carbaldehyde" 
+FUX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "5-(hydroxymethyl)furan-2-carbaldehyde" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FUX "Create component"  2003-09-10 RCSB 
+FUX "Modify descriptor" 2011-06-04 RCSB 
+# 

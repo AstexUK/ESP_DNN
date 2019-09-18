@@ -1,0 +1,172 @@
+data_BCC
+# 
+_chem_comp.id                                    BCC 
+_chem_comp.name                                  "(3S,6S,8aR)-6-amino-6-benzyl-5-oxooctahydroindolizine-3-carboxylic acid" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C16 H20 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2013-06-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        288.342 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BCC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1B5G 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BCC C1   C1   C 0 1 N N N 16.409 -12.763 20.167 1.812  -2.007 0.041  C1   BCC 1  
+BCC O1   O1   O 0 1 N N N 15.994 -13.753 19.571 0.864  -1.834 0.771  O1   BCC 2  
+BCC C2   C2   C 0 1 N N S 17.797 -12.780 20.817 2.346  -0.864 -0.784 C2   BCC 3  
+BCC C3   C3   C 0 1 N N N 18.965 -12.752 19.806 3.808  -0.567 -0.385 C3   BCC 4  
+BCC C4   C4   C 0 1 N N N 19.441 -14.231 19.710 3.672  0.653  0.568  C4   BCC 5  
+BCC C5   C5   C 0 1 N N R 19.342 -14.698 21.176 2.498  1.416  -0.088 C5   BCC 6  
+BCC C6   C6   C 0 1 N N N 19.386 -16.210 21.424 1.764  2.256  0.961  C6   BCC 7  
+BCC C7   C7   C 0 1 N N N 18.759 -16.654 22.734 0.503  2.834  0.320  C7   BCC 8  
+BCC C8   C8   C 0 1 N N S 17.497 -15.888 23.174 -0.456 1.746  -0.133 C8   BCC 9  
+BCC C9   C9   C 0 1 N N N 17.239 -14.503 22.507 0.237  0.505  -0.602 C9   BCC 10 
+BCC O2   O2   O 0 1 N N N 16.171 -13.954 22.737 -0.427 -0.393 -1.076 O2   BCC 11 
+BCC N1   N1   N 0 1 N N N 18.063 -14.035 21.547 1.567  0.350  -0.517 N1   BCC 12 
+BCC N2   N2   N 0 1 N N N 17.441 -15.798 24.644 -1.279 2.270  -1.231 N2   BCC 13 
+BCC C10  C10  C 0 1 N N N 16.253 -16.692 22.709 -1.375 1.384  1.036  C10  BCC 14 
+BCC C11  C11  C 0 1 Y N N 16.448 -18.142 23.161 -2.334 0.305  0.605  C11  BCC 15 
+BCC C12  C12  C 0 1 Y N N 17.328 -18.982 22.492 -1.994 -1.025 0.762  C12  BCC 16 
+BCC C13  C13  C 0 1 Y N N 17.516 -20.304 22.938 -2.874 -2.015 0.366  C13  BCC 17 
+BCC C14  C14  C 0 1 Y N N 16.803 -20.772 24.041 -4.095 -1.675 -0.186 C14  BCC 18 
+BCC C15  C15  C 0 1 Y N N 15.881 -19.938 24.697 -4.435 -0.344 -0.342 C15  BCC 19 
+BCC C16  C16  C 0 1 Y N N 15.699 -18.627 24.242 -3.557 0.646  0.058  C16  BCC 20 
+BCC O3   O3   O 0 1 N Y N 15.594 -11.591 20.254 2.393  -3.215 -0.031 O3   BCC 21 
+BCC H2   H2   H 0 1 N N N 17.889 -11.921 21.498 2.294  -1.115 -1.843 H2   BCC 22 
+BCC H31  H31  H 0 1 N Y N 18.621 -12.391 18.826 4.246  -1.417 0.138  H31  BCC 23 
+BCC H32  H32  H 0 1 N N N 19.778 -12.106 20.170 4.401  -0.306 -1.262 H32  BCC 24 
+BCC H41  H41  H 0 1 N N N 18.781 -14.821 19.057 3.416  0.334  1.579  H41  BCC 25 
+BCC H42  H42  H 0 1 N N N 20.475 -14.294 19.340 4.580  1.255  0.567  H42  BCC 26 
+BCC H5   H5   H 0 1 N N N 20.162 -14.231 21.741 2.838  2.029  -0.922 H5   BCC 27 
+BCC H61  H61  H 0 1 N N N 18.852 -16.708 20.602 1.490  1.628  1.808  H61  BCC 28 
+BCC H62  H62  H 0 1 N N N 20.439 -16.527 21.423 2.409  3.068  1.298  H62  BCC 29 
+BCC H71  H71  H 0 1 N N N 18.490 -17.716 22.635 -0.002 3.473  1.044  H71  BCC 30 
+BCC H72  H72  H 0 1 N N N 19.515 -16.539 23.525 0.788  3.436  -0.543 H72  BCC 31 
+BCC HN21 HN21 H 0 0 N N N 16.618 -15.299 24.917 -1.931 1.573  -1.559 HN21 BCC 32 
+BCC HN22 HN22 H 0 0 N N N 17.417 -16.719 25.034 -1.760 3.112  -0.952 HN22 BCC 33 
+BCC H101 H101 H 0 0 N N N 15.344 -16.275 23.166 -0.775 1.025  1.872  H101 BCC 34 
+BCC H102 H102 H 0 0 N N N 16.166 -16.649 21.613 -1.935 2.267  1.344  H102 BCC 35 
+BCC H12  H12  H 0 1 N N N 17.868 -18.621 21.629 -1.040 -1.291 1.193  H12  BCC 36 
+BCC H13  H13  H 0 1 N N N 18.211 -20.954 22.427 -2.608 -3.055 0.488  H13  BCC 37 
+BCC H14  H14  H 0 1 N N N 16.960 -21.781 24.393 -4.782 -2.448 -0.495 H14  BCC 38 
+BCC H15  H15  H 0 1 N N N 15.319 -20.305 25.543 -5.389 -0.078 -0.774 H15  BCC 39 
+BCC H16  H16  H 0 1 N N N 14.978 -17.986 24.726 -3.825 1.685  -0.061 H16  BCC 40 
+BCC H20  H20  H 0 1 N Y N 14.772 -11.743 19.803 2.018  -3.916 0.520  H20  BCC 41 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BCC C1  O1   DOUB N N 1  
+BCC C1  C2   SING N N 2  
+BCC C1  O3   SING N N 3  
+BCC C2  C3   SING N N 4  
+BCC C2  N1   SING N N 5  
+BCC C2  H2   SING N N 6  
+BCC C3  C4   SING N N 7  
+BCC C3  H31  SING N N 8  
+BCC C3  H32  SING N N 9  
+BCC C4  C5   SING N N 10 
+BCC C4  H41  SING N N 11 
+BCC C4  H42  SING N N 12 
+BCC C5  C6   SING N N 13 
+BCC C5  N1   SING N N 14 
+BCC C5  H5   SING N N 15 
+BCC C6  C7   SING N N 16 
+BCC C6  H61  SING N N 17 
+BCC C6  H62  SING N N 18 
+BCC C7  C8   SING N N 19 
+BCC C7  H71  SING N N 20 
+BCC C7  H72  SING N N 21 
+BCC C8  C9   SING N N 22 
+BCC C8  N2   SING N N 23 
+BCC C8  C10  SING N N 24 
+BCC C9  O2   DOUB N N 25 
+BCC C9  N1   SING N N 26 
+BCC N2  HN21 SING N N 27 
+BCC N2  HN22 SING N N 28 
+BCC C10 C11  SING N N 29 
+BCC C10 H101 SING N N 30 
+BCC C10 H102 SING N N 31 
+BCC C11 C12  DOUB Y N 32 
+BCC C11 C16  SING Y N 33 
+BCC C12 C13  SING Y N 34 
+BCC C12 H12  SING N N 35 
+BCC C13 C14  DOUB Y N 36 
+BCC C13 H13  SING N N 37 
+BCC C14 C15  SING Y N 38 
+BCC C14 H14  SING N N 39 
+BCC C15 C16  DOUB Y N 40 
+BCC C15 H15  SING N N 41 
+BCC C16 H16  SING N N 42 
+BCC O3  H20  SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BCC SMILES           ACDLabs              12.01 "O=C(O)C2N1C(=O)C(N)(CCC1CC2)Cc3ccccc3"                                                                                                  
+BCC InChI            InChI                1.03  "InChI=1S/C16H20N2O3/c17-16(10-11-4-2-1-3-5-11)9-8-12-6-7-13(14(19)20)18(12)15(16)21/h1-5,12-13H,6-10,17H2,(H,19,20)/t12-,13+,16+/m1/s1" 
+BCC InChIKey         InChI                1.03  CPHJQEQVQOMCAQ-WWGRRREGSA-N                                                                                                              
+BCC SMILES_CANONICAL CACTVS               3.385 "N[C@@]1(CC[C@H]2CC[C@H](N2C1=O)C(O)=O)Cc3ccccc3"                                                                                        
+BCC SMILES           CACTVS               3.385 "N[C]1(CC[CH]2CC[CH](N2C1=O)C(O)=O)Cc3ccccc3"                                                                                            
+BCC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)C[C@]2(CC[C@H]3CC[C@H](N3C2=O)C(=O)O)N"                                                                                       
+BCC SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)CC2(CCC3CCC(N3C2=O)C(=O)O)N"                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BCC "SYSTEMATIC NAME" ACDLabs              12.01 "(3S,6S,8aR)-6-amino-6-benzyl-5-oxooctahydroindolizine-3-carboxylic acid"                                  
+BCC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(3S,6S,8aR)-6-azanyl-5-oxidanylidene-6-(phenylmethyl)-1,2,3,7,8,8a-hexahydroindolizine-3-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BCC "Create component"   1999-07-08 EBI  
+BCC "Modify descriptor"  2011-06-04 RCSB 
+BCC "Obsolete component" 2013-06-26 RCSB 
+# 

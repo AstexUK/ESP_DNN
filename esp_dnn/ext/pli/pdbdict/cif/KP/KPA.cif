@@ -1,0 +1,128 @@
+data_KPA
+# 
+_chem_comp.id                                    KPA 
+_chem_comp.name                                  "2-OXO-5-PHOSPHONOPENTANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-02-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        196.095 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     KPA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1VB3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+KPA OA  OA  O 0 1 N N N -1.315 50.668 18.149 2.164  -1.462 0.070  OA  KPA 1  
+KPA CA  CA  C 0 1 N N N -1.407 49.397 18.143 2.380  -0.275 0.017  CA  KPA 2  
+KPA C   C   C 0 1 N N N -2.453 48.818 19.140 3.784  0.227  -0.014 C   KPA 3  
+KPA O   O   O 0 1 N N N -2.590 47.591 19.170 4.810  -0.644 0.019  O   KPA 4  
+KPA OXT OXT O 0 1 N N N -3.100 49.562 19.870 4.001  1.418  -0.067 OXT KPA 5  
+KPA CB  CB  C 0 1 N N N -0.558 48.710 17.239 1.231  0.700  -0.019 CB  KPA 6  
+KPA CG  CG  C 0 1 N N N -0.652 47.442 16.342 -0.091 -0.069 0.022  CG  KPA 7  
+KPA CP  CP  C 0 1 N N N -2.098 47.086 15.978 -1.258 0.920  -0.015 CP  KPA 8  
+KPA P   P   P 0 1 N N N -2.640 47.586 14.320 -2.833 0.004  0.035  P   KPA 9  
+KPA O1  O1  O 0 1 N N N -2.271 49.032 14.062 -2.850 -0.885 1.218  O1  KPA 10 
+KPA O2  O2  O 0 1 N N N -1.933 46.659 13.360 -4.057 1.046  0.128  O2  KPA 11 
+KPA O3  O3  O 0 1 N N N -4.115 47.501 14.272 -2.982 -0.880 -1.303 O3  KPA 12 
+KPA HO  HO  H 0 1 N N N -3.228 47.237 19.778 5.720  -0.319 -0.001 HO  KPA 13 
+KPA HB1 1HB H 0 1 N N N -0.266 49.506 16.515 1.292  1.365  0.842  HB1 KPA 14 
+KPA HB2 2HB H 0 1 N N N 0.353  48.516 17.850 1.281  1.287  -0.936 HB2 KPA 15 
+KPA HG1 1HG H 0 1 N N N -0.023 47.550 15.427 -0.152 -0.734 -0.839 HG1 KPA 16 
+KPA HG2 2HG H 0 1 N N N -0.132 46.576 16.815 -0.141 -0.656 0.939  HG2 KPA 17 
+KPA HP1 1HP H 0 1 N N N -2.267 45.993 16.119 -1.197 1.585  0.847  HP1 KPA 18 
+KPA HP2 2HP H 0 1 N N N -2.795 47.496 16.745 -1.207 1.507  -0.932 HP2 KPA 19 
+KPA HO2 HO2 H 0 1 N N N -2.216 46.920 12.492 -4.869 0.521  0.152  HO2 KPA 20 
+KPA HO3 HO3 H 0 1 N N N -4.398 47.762 13.404 -2.966 -0.264 -2.048 HO3 KPA 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+KPA OA CA  DOUB N N 1  
+KPA CA C   SING N N 2  
+KPA CA CB  SING N N 3  
+KPA C  O   SING N N 4  
+KPA C  OXT DOUB N N 5  
+KPA O  HO  SING N N 6  
+KPA CB CG  SING N N 7  
+KPA CB HB1 SING N N 8  
+KPA CB HB2 SING N N 9  
+KPA CG CP  SING N N 10 
+KPA CG HG1 SING N N 11 
+KPA CG HG2 SING N N 12 
+KPA CP P   SING N N 13 
+KPA CP HP1 SING N N 14 
+KPA CP HP2 SING N N 15 
+KPA P  O1  DOUB N N 16 
+KPA P  O2  SING N N 17 
+KPA P  O3  SING N N 18 
+KPA O2 HO2 SING N N 19 
+KPA O3 HO3 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+KPA SMILES           ACDLabs              10.04 "O=C(C(=O)O)CCCP(=O)(O)O"                                                 
+KPA SMILES_CANONICAL CACTVS               3.341 "OC(=O)C(=O)CCC[P](O)(O)=O"                                               
+KPA SMILES           CACTVS               3.341 "OC(=O)C(=O)CCC[P](O)(O)=O"                                               
+KPA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CC(=O)C(=O)O)CP(=O)(O)O"                                               
+KPA SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC(=O)C(=O)O)CP(=O)(O)O"                                               
+KPA InChI            InChI                1.03  "InChI=1S/C5H9O6P/c6-4(5(7)8)2-1-3-12(9,10)11/h1-3H2,(H,7,8)(H2,9,10,11)" 
+KPA InChIKey         InChI                1.03  UFXCSKVWNXIICO-UHFFFAOYSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+KPA "SYSTEMATIC NAME" ACDLabs              10.04 "2-oxo-5-phosphonopentanoic acid"  
+KPA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-oxo-5-phosphono-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+KPA "Create component"  2004-02-24 RCSB 
+KPA "Modify descriptor" 2011-06-04 RCSB 
+# 

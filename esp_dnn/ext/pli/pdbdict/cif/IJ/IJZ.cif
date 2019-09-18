@@ -1,0 +1,112 @@
+data_IJZ
+# 
+_chem_comp.id                                    IJZ 
+_chem_comp.name                                  "5-amino-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H5 N3 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "5-aminoorotic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-04-15 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        171.111 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IJZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        3MJY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IJZ O10  O10  O 0 1 N N N -53.627 17.273 16.453 ? ? ? O10  IJZ 1  
+IJZ C9   C9   C 0 1 N N N -53.462 18.452 16.812 ? ? ? C9   IJZ 2  
+IJZ O11  O11  O 0 1 N N N -53.587 18.820 17.994 ? ? ? O11  IJZ 3  
+IJZ C5   C5   C 0 1 N N N -53.137 19.432 15.736 ? ? ? C5   IJZ 4  
+IJZ C4   C4   C 0 1 N N N -53.680 20.796 15.793 ? ? ? C4   IJZ 5  
+IJZ N12  N12  N 0 1 N N N -54.460 21.212 16.825 ? ? ? N12  IJZ 6  
+IJZ C3   C3   C 0 1 N N N -53.336 21.680 14.655 ? ? ? C3   IJZ 7  
+IJZ O8   O8   O 0 1 N N N -53.769 22.849 14.639 ? ? ? O8   IJZ 8  
+IJZ N2   N2   N 0 1 N N N -52.540 21.195 13.669 ? ? ? N2   IJZ 9  
+IJZ C1   C1   C 0 1 N N N -52.073 19.913 13.680 ? ? ? C1   IJZ 10 
+IJZ N6   N6   N 0 1 N N N -52.361 19.059 14.685 ? ? ? N6   IJZ 11 
+IJZ O7   O7   O 0 1 N N N -51.344 19.495 12.754 ? ? ? O7   IJZ 12 
+IJZ H112 H112 H 0 0 N N N -54.727 22.165 16.679 ? ? ? H112 IJZ 13 
+IJZ H212 H212 H 0 0 N N N -55.279 20.641 16.875 ? ? ? H212 IJZ 14 
+IJZ HN2  HN2  H 0 1 N N N -52.288 21.796 12.911 ? ? ? HN2  IJZ 15 
+IJZ HN6  HN6  H 0 1 N N N -51.994 18.129 14.655 ? ? ? HN6  IJZ 16 
+IJZ H5   H5   H 0 1 N N N -53.647 18.050 18.564 ? ? ? H5   IJZ 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IJZ O10 C9   DOUB N N 1  
+IJZ C9  O11  SING N N 2  
+IJZ C9  C5   SING N N 3  
+IJZ C5  C4   DOUB N N 4  
+IJZ C5  N6   SING N N 5  
+IJZ C4  N12  SING N N 6  
+IJZ C4  C3   SING N N 7  
+IJZ N12 H112 SING N N 8  
+IJZ N12 H212 SING N N 9  
+IJZ C3  O8   DOUB N N 10 
+IJZ C3  N2   SING N N 11 
+IJZ N2  C1   SING N N 12 
+IJZ N2  HN2  SING N N 13 
+IJZ C1  N6   SING N N 14 
+IJZ C1  O7   DOUB N N 15 
+IJZ N6  HN6  SING N N 16 
+IJZ O11 H5   SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IJZ InChI            InChI                1.03  "InChI=1S/C5H5N3O4/c6-1-2(4(10)11)7-5(12)8-3(1)9/h6H2,(H,10,11)(H2,7,8,9,12)" 
+IJZ InChIKey         InChI                1.03  HWCXJKLFOSBVLH-UHFFFAOYSA-N                                                   
+IJZ SMILES_CANONICAL CACTVS               3.385 "NC1=C(NC(=O)NC1=O)C(O)=O"                                                    
+IJZ SMILES           CACTVS               3.385 "NC1=C(NC(=O)NC1=O)C(O)=O"                                                    
+IJZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "C1(=C(NC(=O)NC1=O)C(=O)O)N"                                                  
+IJZ SMILES           "OpenEye OEToolkits" 1.7.5 "C1(=C(NC(=O)NC1=O)C(=O)O)N"                                                  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IJZ "Create component"  2010-04-15 RCSB 
+IJZ "Modify descriptor" 2011-06-04 RCSB 
+IJZ "Modify descriptor" 2012-01-05 RCSB 
+# 

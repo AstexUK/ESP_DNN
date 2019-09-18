@@ -1,0 +1,122 @@
+data_FBW
+# 
+_chem_comp.id                                    FBW 
+_chem_comp.name                                  3-fluorobenzenesulfonamide 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 F N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-04-01 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        175.181 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FBW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2WEO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FBW C1   C1   C 0 1 Y N N 4.098 -6.142 14.440 -2.655 0.877  -0.050 C1   FBW 1  
+FBW C2   C2   C 0 1 Y N N 5.449 -6.139 14.774 -2.257 -0.449 -0.012 C2   FBW 2  
+FBW C3   C3   C 0 1 Y N N 6.013 -5.062 15.478 -0.910 -0.765 0.036  C3   FBW 3  
+FBW C4   C4   C 0 1 Y N N 5.244 -3.949 15.865 0.036  0.243  0.047  C4   FBW 4  
+FBW C5   C5   C 0 1 Y N N 3.875 -3.982 15.505 -0.363 1.566  0.010  C5   FBW 5  
+FBW C6   C6   C 0 1 Y N N 3.317 -5.057 14.797 -1.708 1.883  -0.039 C6   FBW 6  
+FBW S    S    S 0 1 N N N 5.915 -2.688 16.720 1.750  -0.159 0.109  S    FBW 7  
+FBW N2   N2   N 0 1 N N N 5.385 -1.309 16.096 2.277  -0.301 -1.455 N2   FBW 8  
+FBW O1   O1   O 0 1 N N N 5.389 -2.842 18.040 2.409  0.976  0.653  O1   FBW 9  
+FBW O2   O2   O 0 1 N N N 7.349 -2.807 16.585 1.837  -1.457 0.681  O2   FBW 10 
+FBW F    F    F 0 1 N N N 6.238 -7.195 14.432 -3.183 -1.433 -0.022 F    FBW 11 
+FBW H1   H1   H 0 1 N N N 3.666 -6.978 13.910 -3.706 1.125  -0.092 H1   FBW 12 
+FBW H6   H6   H 0 1 N N N 2.271 -5.038 14.529 -2.018 2.917  -0.068 H6   FBW 13 
+FBW H3   H3   H 0 1 N N N 7.063 -5.089 15.728 -0.599 -1.798 0.066  H3   FBW 14 
+FBW H5   H5   H 0 1 N N N 3.241 -3.154 15.784 0.377  2.353  0.019  H5   FBW 15 
+FBW H21N H21N H 0 0 N N N 5.275 -0.633 16.825 1.658  -0.164 -2.189 H21N FBW 16 
+FBW H22N H22N H 0 0 N N N 6.046 -0.971 15.426 3.204  -0.521 -1.636 H22N FBW 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FBW C1 C2   SING Y N 1  
+FBW C1 C6   DOUB Y N 2  
+FBW C2 C3   DOUB Y N 3  
+FBW C2 F    SING N N 4  
+FBW C3 C4   SING Y N 5  
+FBW C4 C5   DOUB Y N 6  
+FBW C4 S    SING N N 7  
+FBW C5 C6   SING Y N 8  
+FBW S  N2   SING N N 9  
+FBW S  O1   DOUB N N 10 
+FBW S  O2   DOUB N N 11 
+FBW C1 H1   SING N N 12 
+FBW C6 H6   SING N N 13 
+FBW C3 H3   SING N N 14 
+FBW C5 H5   SING N N 15 
+FBW N2 H21N SING N N 16 
+FBW N2 H22N SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FBW SMILES           ACDLabs              10.04 "O=S(=O)(c1cc(F)ccc1)N"                                           
+FBW SMILES_CANONICAL CACTVS               3.352 "N[S](=O)(=O)c1cccc(F)c1"                                         
+FBW SMILES           CACTVS               3.352 "N[S](=O)(=O)c1cccc(F)c1"                                         
+FBW SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "c1cc(cc(c1)S(=O)(=O)N)F"                                         
+FBW SMILES           "OpenEye OEToolkits" 1.6.1 "c1cc(cc(c1)S(=O)(=O)N)F"                                         
+FBW InChI            InChI                1.03  "InChI=1S/C6H6FNO2S/c7-5-2-1-3-6(4-5)11(8,9)10/h1-4H,(H2,8,9,10)" 
+FBW InChIKey         InChI                1.03  CRINBBOGNYCAOV-UHFFFAOYSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FBW "SYSTEMATIC NAME" ACDLabs              10.04 3-fluorobenzenesulfonamide 
+FBW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 3-fluorobenzenesulfonamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FBW "Create component"     2009-04-01 EBI  
+FBW "Modify aromatic_flag" 2011-06-04 RCSB 
+FBW "Modify descriptor"    2011-06-04 RCSB 
+# 

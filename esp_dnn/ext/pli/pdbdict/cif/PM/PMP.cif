@@ -1,0 +1,145 @@
+data_PMP
+# 
+_chem_comp.id                                    PMP 
+_chem_comp.name                                  "4'-DEOXY-4'-AMINOPYRIDOXAL-5'-PHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H13 N2 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "PYRIDOXAMINE-5'-PHOSPHATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        248.173 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PMP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A0G 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PMP N1   N1   N 0 1 Y N N 22.307 10.699 29.043 1.991  -0.222 2.112  N1   PMP 1  
+PMP C2   C2   C 0 1 Y N N 23.535 11.299 29.218 1.197  -0.071 3.154  C2   PMP 2  
+PMP C2A  C2A  C 0 1 N N N 24.217 11.936 28.014 1.768  -0.159 4.546  C2A  PMP 3  
+PMP C3   C3   C 0 1 Y N N 24.138 11.311 30.475 -0.158 0.160  2.982  C3   PMP 4  
+PMP O3   O3   O 0 1 N N N 25.365 11.933 30.682 -0.973 0.315  4.058  O3   PMP 5  
+PMP C4   C4   C 0 1 Y N N 23.499 10.724 31.544 -0.671 0.244  1.691  C4   PMP 6  
+PMP C4A  C4A  C 0 1 N N N 24.217 10.682 32.929 -2.137 0.501  1.458  C4A  PMP 7  
+PMP N4A  N4A  N 0 1 N N N 23.703 11.484 33.907 -2.856 -0.778 1.396  N4A  PMP 8  
+PMP C5   C5   C 0 1 Y N N 22.246 10.130 31.357 0.198  0.079  0.625  C5   PMP 9  
+PMP C6   C6   C 0 1 Y N N 21.665 10.118 30.107 1.537  -0.155 0.877  C6   PMP 10 
+PMP C5A  C5A  C 0 1 N N N 21.467 9.569  32.537 -0.309 0.155  -0.791 C5A  PMP 11 
+PMP O4P  O4P  O 0 1 N N N 21.766 8.201  32.700 0.776  -0.046 -1.698 O4P  PMP 12 
+PMP P    P    P 0 1 N N N 21.700 7.606  34.133 0.165  0.046  -3.184 P    PMP 13 
+PMP O1P  O1P  O 0 1 N N N 22.345 6.318  34.075 -0.444 1.379  -3.384 O1P  PMP 14 
+PMP O2P  O2P  O 0 1 N N N 20.174 7.353  34.291 1.340  -0.173 -4.262 O2P  PMP 15 
+PMP O3P  O3P  O 0 1 N N N 22.143 8.621  35.112 -0.957 -1.091 -3.375 O3P  PMP 16 
+PMP H2A1 1H2A H 0 0 N N N 25.210 12.421 28.155 2.085  0.831  4.871  H2A1 PMP 17 
+PMP H2A2 2H2A H 0 0 N N N 24.299 11.176 27.202 1.007  -0.539 5.227  H2A2 PMP 18 
+PMP H2A3 3H2A H 0 0 N N N 23.518 12.671 27.551 2.625  -0.832 4.545  H2A3 PMP 19 
+PMP HO3  HO3  H 0 1 N N N 25.775 11.941 31.538 -1.305 -0.564 4.286  HO3  PMP 20 
+PMP H4A1 1H4A H 0 0 N N N 24.265 9.629  33.294 -2.535 1.102  2.276  H4A1 PMP 21 
+PMP H4A2 2H4A H 0 0 N N N 25.302 10.901 32.795 -2.267 1.037  0.517  H4A2 PMP 22 
+PMP HNA1 1HNA H 0 0 N N N 24.172 11.456 34.812 -3.828 -0.558 1.239  HNA1 PMP 23 
+PMP HNA2 2HNA H 0 0 N N N 22.710 11.283 34.029 -2.529 -1.253 0.568  HNA2 PMP 24 
+PMP H6   H6   H 0 1 N N N 20.681 9.641  29.957 2.220  -0.284 0.050  H6   PMP 25 
+PMP H5A1 1H5A H 0 0 N N N 21.644 10.151 33.471 -1.062 -0.617 -0.949 H5A1 PMP 26 
+PMP H5A2 2H5A H 0 0 N N N 20.371 9.749  32.439 -0.752 1.135  -0.967 H5A2 PMP 27 
+PMP HOP2 2HOP H 0 0 N N N 20.133 6.989  35.167 0.933  -0.109 -5.137 HOP2 PMP 28 
+PMP HOP3 3HOP H 0 0 N N N 22.102 8.257  35.988 -0.519 -1.942 -3.237 HOP3 PMP 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PMP N1  C2   DOUB Y N 1  
+PMP N1  C6   SING Y N 2  
+PMP C2  C2A  SING N N 3  
+PMP C2  C3   SING Y N 4  
+PMP C2A H2A1 SING N N 5  
+PMP C2A H2A2 SING N N 6  
+PMP C2A H2A3 SING N N 7  
+PMP C3  O3   SING N N 8  
+PMP C3  C4   DOUB Y N 9  
+PMP O3  HO3  SING N N 10 
+PMP C4  C4A  SING N N 11 
+PMP C4  C5   SING Y N 12 
+PMP C4A N4A  SING N N 13 
+PMP C4A H4A1 SING N N 14 
+PMP C4A H4A2 SING N N 15 
+PMP N4A HNA1 SING N N 16 
+PMP N4A HNA2 SING N N 17 
+PMP C5  C6   DOUB Y N 18 
+PMP C5  C5A  SING N N 19 
+PMP C6  H6   SING N N 20 
+PMP C5A O4P  SING N N 21 
+PMP C5A H5A1 SING N N 22 
+PMP C5A H5A2 SING N N 23 
+PMP O4P P    SING N N 24 
+PMP P   O1P  DOUB N N 25 
+PMP P   O2P  SING N N 26 
+PMP P   O3P  SING N N 27 
+PMP O2P HOP2 SING N N 28 
+PMP O3P HOP3 SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PMP SMILES           ACDLabs              10.04 "O=P(O)(O)OCc1cnc(c(O)c1CN)C"                                                                    
+PMP SMILES_CANONICAL CACTVS               3.341 "Cc1ncc(CO[P](O)(O)=O)c(CN)c1O"                                                                  
+PMP SMILES           CACTVS               3.341 "Cc1ncc(CO[P](O)(O)=O)c(CN)c1O"                                                                  
+PMP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(c(c(cn1)COP(=O)(O)O)CN)O"                                                                  
+PMP SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(c(c(cn1)COP(=O)(O)O)CN)O"                                                                  
+PMP InChI            InChI                1.03  "InChI=1S/C8H13N2O5P/c1-5-8(11)7(2-9)6(3-10-5)4-15-16(12,13)14/h3,11H,2,4,9H2,1H3,(H2,12,13,14)" 
+PMP InChIKey         InChI                1.03  ZMJGSOSNSPKHNH-UHFFFAOYSA-N                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PMP "SYSTEMATIC NAME" ACDLabs              10.04 "[4-(aminomethyl)-5-hydroxy-6-methylpyridin-3-yl]methyl dihydrogen phosphate"  
+PMP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[4-(aminomethyl)-5-hydroxy-6-methyl-pyridin-3-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PMP "Create component"  1999-07-08 RCSB 
+PMP "Modify descriptor" 2011-06-04 RCSB 
+# 

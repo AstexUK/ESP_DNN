@@ -1,0 +1,121 @@
+data_IGA
+# 
+_chem_comp.id                                    IGA 
+_chem_comp.name                                  6-amino-3,7-dihydro-2H-purin-2-one 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H5 N5 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Isoguanine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-28 
+_chem_comp.pdbx_modified_date                    2011-08-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        151.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IGA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RN6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IGA N1   N1   N 0 1 N N N -69.115 20.223 -16.565 -1.566 0.800  -0.000 N1   IGA 1  
+IGA C2   C2   C 0 1 N N N -69.736 19.962 -15.366 -1.785 -0.512 0.000  C2   IGA 2  
+IGA O2   O2   O 0 1 N N N -70.351 20.878 -14.754 -2.934 -0.922 0.000  O2   IGA 3  
+IGA N3   N3   N 0 1 N N N -69.727 18.736 -14.788 -0.773 -1.401 -0.000 N3   IGA 4  
+IGA C4   C4   C 0 1 Y N N -69.099 17.696 -15.370 0.531  -0.953 -0.000 C4   IGA 5  
+IGA C5   C5   C 0 1 Y N N -68.406 17.901 -16.666 0.764  0.420  0.000  C5   IGA 6  
+IGA C6   C6   C 0 1 N N N -68.453 19.263 -17.260 -0.334 1.298  -0.000 C6   IGA 7  
+IGA N6   N6   N 0 1 N N N -67.877 19.478 -18.360 -0.135 2.659  0.000  N6   IGA 8  
+IGA N7   N7   N 0 1 Y N N -67.868 16.722 -17.016 2.135  0.577  0.000  N7   IGA 9  
+IGA C8   C8   C 0 1 Y N N -68.179 15.824 -16.041 2.675  -0.659 -0.000 C8   IGA 10 
+IGA N9   N9   N 0 1 Y N N -68.918 16.405 -15.055 1.724  -1.557 -0.000 N9   IGA 11 
+IGA HN3  HN3  H 0 1 N N N -70.195 18.601 -13.914 -0.961 -2.352 0.000  HN3  IGA 12 
+IGA HN6  HN6  H 0 1 N N N -67.894 20.393 -18.763 -0.896 3.261  0.000  HN6  IGA 13 
+IGA HN6A HN6A H 0 0 N N N -67.403 18.733 -18.830 0.766  3.017  0.000  HN6A IGA 14 
+IGA H8   H8   H 0 1 N N N -67.879 14.787 -16.048 3.733  -0.875 -0.000 H8   IGA 15 
+IGA HN7  HN7  H 0 1 N N N -67.336 16.537 -17.842 2.620  1.418  -0.000 HN7  IGA 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IGA C6 N1   DOUB N N 1  
+IGA N1 C2   SING N N 2  
+IGA C2 N3   SING N N 3  
+IGA C2 O2   DOUB N N 4  
+IGA C4 N3   SING N N 5  
+IGA N3 HN3  SING N N 6  
+IGA C5 C4   DOUB Y N 7  
+IGA C4 N9   SING Y N 8  
+IGA C6 C5   SING N N 9  
+IGA N7 C5   SING Y N 10 
+IGA N6 C6   SING N N 11 
+IGA N6 HN6  SING N N 12 
+IGA N6 HN6A SING N N 13 
+IGA N7 C8   SING Y N 14 
+IGA C8 N9   DOUB Y N 15 
+IGA C8 H8   SING N N 16 
+IGA N7 HN7  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IGA SMILES           ACDLabs              12.01 "O=C2N=C(c1c(ncn1)N2)N"                                                
+IGA SMILES_CANONICAL CACTVS               3.370 "NC1=NC(=O)Nc2nc[nH]c12"                                               
+IGA SMILES           CACTVS               3.370 "NC1=NC(=O)Nc2nc[nH]c12"                                               
+IGA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "c1[nH]c2c(n1)NC(=O)N=C2N"                                             
+IGA SMILES           "OpenEye OEToolkits" 1.7.2 "c1[nH]c2c(n1)NC(=O)N=C2N"                                             
+IGA InChI            InChI                1.03  "InChI=1S/C5H5N5O/c6-3-2-4(8-1-7-2)10-5(11)9-3/h1H,(H4,6,7,8,9,10,11)" 
+IGA InChIKey         InChI                1.03  DRAVOWXCEBXPTN-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IGA "SYSTEMATIC NAME" ACDLabs              12.01 6-amino-3,7-dihydro-2H-purin-2-one 
+IGA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 6-azanyl-3,7-dihydropurin-2-one    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IGA "Create component"     2011-04-28 RCSB 
+IGA "Modify aromatic_flag" 2011-06-04 RCSB 
+IGA "Modify descriptor"    2011-06-04 RCSB 
+# 

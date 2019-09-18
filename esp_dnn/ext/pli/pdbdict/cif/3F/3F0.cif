@@ -1,0 +1,122 @@
+data_3F0
+# 
+_chem_comp.id                                    3F0 
+_chem_comp.name                                  "2-azanyl-3-fluoranyl-benzoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 F N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         3-fluoroanthranilate 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-02-05 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        155.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3F0 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4OWM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3F0 OAB O1 O 0 1 N N N -20.283 -34.049 18.742 2.229  -1.338 0.103  OAB 3F0 1  
+3F0 CAH C1 C 0 1 N N N -19.304 -34.802 18.530 1.991  -0.150 0.010  CAH 3F0 2  
+3F0 OAC O2 O 0 1 N N N -19.077 -35.758 19.306 3.002  0.734  -0.098 OAC 3F0 3  
+3F0 CAK C2 C 0 1 Y N N -18.473 -34.544 17.444 0.596  0.323  0.011  CAK 3F0 4  
+3F0 CAG C3 C 0 1 Y N N -17.609 -35.533 16.947 0.318  1.694  0.029  CAG 3F0 5  
+3F0 CAE C4 C 0 1 Y N N -16.784 -35.231 15.846 -0.988 2.131  0.029  CAE 3F0 6  
+3F0 CAF C5 C 0 1 Y N N -16.829 -33.962 15.257 -2.032 1.219  0.012  CAF 3F0 7  
+3F0 CAJ C6 C 0 1 Y N N -17.698 -32.976 15.737 -1.776 -0.138 -0.006 CAJ 3F0 8  
+3F0 FAD F1 F 0 1 N N N -17.786 -31.611 15.180 -2.800 -1.019 -0.023 FAD 3F0 9  
+3F0 CAI C7 C 0 1 Y N N -18.488 -33.280 16.824 -0.462 -0.598 -0.012 CAI 3F0 10 
+3F0 NAA N1 N 0 1 N N N -19.287 -32.295 17.256 -0.200 -1.963 -0.031 NAA 3F0 11 
+3F0 H1  H1 H 0 1 N N N -19.732 -35.771 19.994 3.900  0.376  -0.098 H1  3F0 12 
+3F0 H2  H2 H 0 1 N N N -17.577 -36.512 17.403 1.127  2.409  0.043  H2  3F0 13 
+3F0 H3  H3 H 0 1 N N N -16.114 -35.982 15.455 -1.200 3.190  0.043  H3  3F0 14 
+3F0 H4  H4 H 0 1 N N N -16.184 -33.741 14.420 -3.053 1.572  0.016  H4  3F0 15 
+3F0 H5  H5 H 0 1 N N N -19.815 -32.614 18.043 -0.930 -2.596 -0.119 H5  3F0 16 
+3F0 H6  H6 H 0 1 N N N -18.731 -31.509 17.525 0.713  -2.282 0.045  H6  3F0 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3F0 FAD CAJ SING N N 1  
+3F0 CAF CAJ DOUB Y N 2  
+3F0 CAF CAE SING Y N 3  
+3F0 CAJ CAI SING Y N 4  
+3F0 CAE CAG DOUB Y N 5  
+3F0 CAI NAA SING N N 6  
+3F0 CAI CAK DOUB Y N 7  
+3F0 CAG CAK SING Y N 8  
+3F0 CAK CAH SING N N 9  
+3F0 CAH OAB DOUB N N 10 
+3F0 CAH OAC SING N N 11 
+3F0 OAC H1  SING N N 12 
+3F0 CAG H2  SING N N 13 
+3F0 CAE H3  SING N N 14 
+3F0 CAF H4  SING N N 15 
+3F0 NAA H5  SING N N 16 
+3F0 NAA H6  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3F0 SMILES           ACDLabs              12.01 "Fc1cccc(C(=O)O)c1N"                                               
+3F0 InChI            InChI                1.03  "InChI=1S/C7H6FNO2/c8-5-3-1-2-4(6(5)9)7(10)11/h1-3H,9H2,(H,10,11)" 
+3F0 InChIKey         InChI                1.03  KUHAYJJXXGBYBW-UHFFFAOYSA-N                                        
+3F0 SMILES_CANONICAL CACTVS               3.385 "Nc1c(F)cccc1C(O)=O"                                               
+3F0 SMILES           CACTVS               3.385 "Nc1c(F)cccc1C(O)=O"                                               
+3F0 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1cc(c(c(c1)F)N)C(=O)O"                                           
+3F0 SMILES           "OpenEye OEToolkits" 1.9.2 "c1cc(c(c(c1)F)N)C(=O)O"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3F0 "SYSTEMATIC NAME" ACDLabs              12.01 "2-amino-3-fluorobenzoic acid"      
+3F0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "2-azanyl-3-fluoranyl-benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3F0 "Create component"  2014-02-05 RCSB 
+3F0 "Initial release"   2014-04-23 RCSB 
+3F0 "Modify descriptor" 2014-09-05 RCSB 
+# 

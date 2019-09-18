@@ -1,0 +1,140 @@
+data_ISM
+# 
+_chem_comp.id                                    ISM 
+_chem_comp.name                                  "5-AMINO-2-(2-METHOXY-2-OXOETHYL)BENZOIC ACID" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H11 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-08-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        209.199 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ISM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XOW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ISM O1   O1   O 0 1 N N N 13.286 -9.934  47.623 -1.067 -1.838 -0.496 O1   ISM 1  
+ISM C1   C1   C 0 1 N N N 13.824 -9.026  48.235 0.108  -1.844 -0.189 C1   ISM 2  
+ISM C2   C2   C 0 1 Y N N 14.696 -9.222  49.310 0.880  -0.585 -0.197 C2   ISM 3  
+ISM C3   C3   C 0 1 Y N N 15.212 -10.493 49.581 2.196  -0.568 0.269  C3   ISM 4  
+ISM C4   C4   C 0 1 Y N N 16.094 -10.694 50.644 2.914  0.618  0.259  C4   ISM 5  
+ISM N1   N1   N 0 1 N N N 16.565 -11.900 50.915 4.231  0.641  0.724  N1   ISM 6  
+ISM C5   C5   C 0 1 Y N N 16.505 -9.626  51.419 2.324  1.784  -0.214 C5   ISM 7  
+ISM C6   C6   C 0 1 Y N N 16.008 -8.360  51.139 1.021  1.767  -0.675 C6   ISM 8  
+ISM C7   C7   C 0 1 Y N N 15.137 -8.133  50.076 0.299  0.591  -0.675 C7   ISM 9  
+ISM C8   C8   C 0 1 N N N 14.706 -6.788  49.911 -1.119 0.577  -1.184 C8   ISM 10 
+ISM C9   C9   C 0 1 N N N 13.375 -6.515  49.170 -2.073 0.620  -0.018 C9   ISM 11 
+ISM O2   O2   O 0 1 N N N 12.396 -7.247  49.300 -1.645 0.658  1.111  O2   ISM 12 
+ISM O3   O3   O 0 1 N N N 13.351 -5.383  48.395 -3.398 0.616  -0.234 O3   ISM 13 
+ISM C10  C10  C 0 1 N N N 12.088 -5.260  47.734 -4.256 0.660  0.937  C10  ISM 14 
+ISM OX0  OX0  O 0 1 N Y N 14.568 -8.342  47.255 0.706  -2.999 0.163  OX0  ISM 15 
+ISM HX0  HX0  H 0 1 N N N 14.448 -8.765  46.413 0.158  -3.796 0.157  HX0  ISM 16 
+ISM H3   H3   H 0 1 N N N 14.925 -11.329 48.961 2.652  -1.475 0.637  H3   ISM 17 
+ISM H11N H11N H 0 0 N N N 16.684 -12.411 50.064 4.643  -0.173 1.054  H11N ISM 18 
+ISM H12N H12N H 0 0 N N N 17.447 -11.817 51.379 4.734  1.470  0.716  H12N ISM 19 
+ISM H5   H5   H 0 1 N N N 17.202 -9.774  52.230 2.885  2.707  -0.222 H5   ISM 20 
+ISM H6   H6   H 0 1 N N N 16.305 -7.529  51.762 0.567  2.676  -1.041 H6   ISM 21 
+ISM H81C H81C H 0 0 N N N 14.590 -6.372  50.923 -1.285 1.446  -1.821 H81C ISM 22 
+ISM H82C H82C H 0 0 N N N 15.473 -6.335  49.266 -1.290 -0.333 -1.759 H82C ISM 23 
+ISM H101 H101 H 0 0 N N N 11.283 -5.228  48.483 -5.300 0.651  0.622  H101 ISM 24 
+ISM H102 H102 H 0 0 N N N 12.073 -4.334  47.141 -4.059 -0.210 1.564  H102 ISM 25 
+ISM H103 H103 H 0 0 N N N 11.937 -6.124  47.070 -4.054 1.569  1.502  H103 ISM 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ISM O1  C1   DOUB N N 1  
+ISM C1  C2   SING N N 2  
+ISM C1  OX0  SING N N 3  
+ISM C2  C3   SING Y N 4  
+ISM C2  C7   DOUB Y N 5  
+ISM C3  C4   DOUB Y N 6  
+ISM C4  N1   SING N N 7  
+ISM C4  C5   SING Y N 8  
+ISM C5  C6   DOUB Y N 9  
+ISM C6  C7   SING Y N 10 
+ISM C7  C8   SING N N 11 
+ISM C8  C9   SING N N 12 
+ISM C9  O2   DOUB N N 13 
+ISM C9  O3   SING N N 14 
+ISM O3  C10  SING N N 15 
+ISM OX0 HX0  SING N N 16 
+ISM C3  H3   SING N N 17 
+ISM N1  H11N SING N N 18 
+ISM N1  H12N SING N N 19 
+ISM C5  H5   SING N N 20 
+ISM C6  H6   SING N N 21 
+ISM C8  H81C SING N N 22 
+ISM C8  H82C SING N N 23 
+ISM C10 H101 SING N N 24 
+ISM C10 H102 SING N N 25 
+ISM C10 H103 SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ISM SMILES           ACDLabs              10.04 "O=C(O)c1cc(N)ccc1CC(=O)OC"                                                              
+ISM SMILES_CANONICAL CACTVS               3.352 "COC(=O)Cc1ccc(N)cc1C(O)=O"                                                              
+ISM SMILES           CACTVS               3.352 "COC(=O)Cc1ccc(N)cc1C(O)=O"                                                              
+ISM SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "COC(=O)Cc1ccc(cc1C(=O)O)N"                                                              
+ISM SMILES           "OpenEye OEToolkits" 1.6.1 "COC(=O)Cc1ccc(cc1C(=O)O)N"                                                              
+ISM InChI            InChI                1.03  "InChI=1S/C10H11NO4/c1-15-9(12)4-6-2-3-7(11)5-8(6)10(13)14/h2-3,5H,4,11H2,1H3,(H,13,14)" 
+ISM InChIKey         InChI                1.03  NRWKEWXVSUGTJF-UHFFFAOYSA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ISM "SYSTEMATIC NAME" ACDLabs              10.04 "5-amino-2-(2-methoxy-2-oxoethyl)benzoic acid"  
+ISM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "5-amino-2-(2-methoxy-2-oxo-ethyl)benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ISM "Create component"     2010-08-24 EBI  
+ISM "Modify aromatic_flag" 2011-06-04 RCSB 
+ISM "Modify descriptor"    2011-06-04 RCSB 
+# 

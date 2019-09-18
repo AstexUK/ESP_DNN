@@ -1,0 +1,108 @@
+data_CNR
+# 
+_chem_comp.id                                    CNR 
+_chem_comp.name                                  "(2S)-2-CHLOROPROPANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H5 Cl O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-MONOCHLOROPRAPANATE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        108.524 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CNR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CNR C1   C1   C  0 1 N N N -17.499 54.230 21.931 0.157  1.953 -2.040 C1   CNR 1  
+CNR C2   C2   C  0 1 N N S -18.007 55.345 22.817 -0.706 1.923 -0.799 C2   CNR 2  
+CNR C3   C3   C  0 1 N N N -19.525 55.321 22.824 -0.141 1.045 0.308  C3   CNR 3  
+CNR CL   CL   CL 0 0 N N N -17.439 56.980 22.291 -2.329 1.321 -1.245 CL   CNR 4  
+CNR O1A  O1A  O  0 1 N N N -17.135 53.169 22.494 -0.161 1.540 -3.147 O1A  CNR 5  
+CNR O1B  O1B  O  0 1 N N N -17.467 54.400 20.686 1.378  2.496 -1.786 O1B  CNR 6  
+CNR H2   H2   H  0 1 N N N -17.603 55.171 23.825 -0.853 2.950 -0.449 H2   CNR 7  
+CNR H31  1H3  H  0 1 N N N -19.887 55.315 23.863 0.839  1.399 0.657  H31  CNR 8  
+CNR H32  2H3  H  0 1 N N N -19.908 56.213 22.307 0.000  0.000 -0.000 H32  CNR 9  
+CNR H33  3H3  H  0 1 N N N -19.880 54.417 22.307 -0.785 1.029 1.199  H33  CNR 10 
+CNR HO1B HO1B H  0 0 N N N -17.133 53.616 20.267 1.987  2.532 -2.555 HO1B CNR 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CNR C1  C2   SING N N 1  
+CNR C1  O1A  DOUB N N 2  
+CNR C1  O1B  SING N N 3  
+CNR C2  C3   SING N N 4  
+CNR C2  CL   SING N N 5  
+CNR C2  H2   SING N N 6  
+CNR C3  H31  SING N N 7  
+CNR C3  H32  SING N N 8  
+CNR C3  H33  SING N N 9  
+CNR O1B HO1B SING N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CNR SMILES           ACDLabs              10.04 "ClC(C(=O)O)C"                                             
+CNR SMILES_CANONICAL CACTVS               3.341 "C[C@H](Cl)C(O)=O"                                         
+CNR SMILES           CACTVS               3.341 "C[CH](Cl)C(O)=O"                                          
+CNR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](C(=O)O)Cl"                                        
+CNR SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(=O)O)Cl"                                             
+CNR InChI            InChI                1.03  "InChI=1S/C3H5ClO2/c1-2(4)3(5)6/h2H,1H3,(H,5,6)/t2-/m0/s1" 
+CNR InChIKey         InChI                1.03  GAWAYYRQGQZKCR-REOHCLBHSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CNR "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-chloropropanoic acid" 
+CNR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-chloropropanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CNR "Create component"  2006-10-27 RCSB 
+CNR "Modify descriptor" 2011-06-04 RCSB 
+# 

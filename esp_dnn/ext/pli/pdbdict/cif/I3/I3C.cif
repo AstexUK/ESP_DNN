@@ -1,0 +1,128 @@
+data_I3C
+# 
+_chem_comp.id                                    I3C 
+_chem_comp.name                                  "5-amino-2,4,6-triiodobenzene-1,3-dicarboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H4 I3 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "5-Amino-2,4,6-triiodoisophthalic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-08-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        558.835 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     I3C 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3E3D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+I3C I3   I3   I 0 1 N N N -1.851 22.831 27.850 3.015  1.937  0.023  I3   I3C 1  
+I3C I2   I2   I 0 1 N N N -2.552 27.570 24.145 -3.014 1.938  -0.022 I2   I3C 2  
+I3C I1   I1   I 0 1 N N N -6.862 23.352 24.529 -0.000 -3.306 0.001  I1   I3C 3  
+I3C O8   O8   O 0 1 N N N -4.648 21.240 26.007 3.010  -1.549 1.067  O8   I3C 4  
+I3C O9   O9   O 0 1 N N N -5.378 22.307 27.847 3.075  -1.583 -1.151 O9   I3C 5  
+I3C C10  C10  C 0 1 N N N -5.411 26.056 23.589 -2.487 -1.247 -0.018 C10  I3C 6  
+I3C N13  N13  N 0 1 N N N -1.192 25.620 26.181 0.000  2.977  -0.001 N13  I3C 7  
+I3C C1   C1   C 0 1 Y N N -4.235 23.466 26.087 1.207  -0.512 0.009  C1   I3C 8  
+I3C C6   C6   C 0 1 Y N N -2.965 23.938 26.452 1.203  0.886  0.009  C6   I3C 9  
+I3C C5   C5   C 0 1 Y N N -2.462 25.109 25.898 0.000  1.578  -0.001 C5   I3C 10 
+I3C C4   C4   C 0 1 Y N N -3.291 25.785 24.965 -1.203 0.886  -0.009 C4   I3C 11 
+I3C C3   C3   C 0 1 Y N N -4.544 25.325 24.580 -1.207 -0.512 -0.009 C3   I3C 12 
+I3C C2   C2   C 0 1 Y N N -5.013 24.134 25.143 -0.000 -1.211 0.000  C2   I3C 13 
+I3C C7   C7   C 0 1 N N N -4.814 22.233 26.736 2.487  -1.247 0.014  C7   I3C 14 
+I3C O11  O11  O 0 1 N N N -6.129 26.958 24.084 -3.079 -1.582 1.145  O11  I3C 15 
+I3C O12  O12  O 0 1 N N N -5.424 25.779 22.370 -3.006 -1.549 -1.074 O12  I3C 16 
+I3C HO9  HO9  H 0 1 N N N -5.695 21.448 28.099 3.912  -2.064 -1.098 HO9  I3C 17 
+I3C HN13 HN13 H 0 0 N N N -0.684 25.742 25.329 0.840  3.461  0.006  HN13 I3C 18 
+I3C HN1A HN1A H 0 0 N N N -1.283 26.502 26.644 -0.840 3.461  -0.007 HN1A I3C 19 
+I3C HO11 HO11 H 0 0 N N N -6.649 27.362 23.399 -3.916 -2.063 1.088  HO11 I3C 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+I3C I3  C6   SING N N 1  
+I3C I2  C4   SING N N 2  
+I3C I1  C2   SING N N 3  
+I3C O8  C7   DOUB N N 4  
+I3C O9  C7   SING N N 5  
+I3C C10 C3   SING N N 6  
+I3C C10 O11  SING N N 7  
+I3C C10 O12  DOUB N N 8  
+I3C N13 C5   SING N N 9  
+I3C C1  C6   DOUB Y N 10 
+I3C C1  C2   SING Y N 11 
+I3C C1  C7   SING N N 12 
+I3C C6  C5   SING Y N 13 
+I3C C5  C4   DOUB Y N 14 
+I3C C4  C3   SING Y N 15 
+I3C C3  C2   DOUB Y N 16 
+I3C O9  HO9  SING N N 17 
+I3C N13 HN13 SING N N 18 
+I3C N13 HN1A SING N N 19 
+I3C O11 HO11 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+I3C SMILES           ACDLabs              10.04 "Ic1c(C(=O)O)c(I)c(c(I)c1N)C(=O)O"                                                      
+I3C SMILES_CANONICAL CACTVS               3.341 "Nc1c(I)c(C(O)=O)c(I)c(C(O)=O)c1I"                                                      
+I3C SMILES           CACTVS               3.341 "Nc1c(I)c(C(O)=O)c(I)c(C(O)=O)c1I"                                                      
+I3C SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1(c(c(c(c(c1I)N)I)C(=O)O)I)C(=O)O"                                                    
+I3C SMILES           "OpenEye OEToolkits" 1.5.0 "c1(c(c(c(c(c1I)N)I)C(=O)O)I)C(=O)O"                                                    
+I3C InChI            InChI                1.03  "InChI=1S/C8H4I3NO4/c9-3-1(7(13)14)4(10)6(12)5(11)2(3)8(15)16/h12H2,(H,13,14)(H,15,16)" 
+I3C InChIKey         InChI                1.03  JEZJSNULLBSYHV-UHFFFAOYSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+I3C "SYSTEMATIC NAME" ACDLabs              10.04 "5-amino-2,4,6-triiodobenzene-1,3-dicarboxylic acid"  
+I3C "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "5-amino-2,4,6-triiodo-benzene-1,3-dicarboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+I3C "Create component"     2008-08-11 PDBJ 
+I3C "Modify aromatic_flag" 2011-06-04 RCSB 
+I3C "Modify descriptor"    2011-06-04 RCSB 
+# 

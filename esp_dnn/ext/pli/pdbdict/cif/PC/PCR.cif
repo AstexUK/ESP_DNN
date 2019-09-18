@@ -1,0 +1,119 @@
+data_PCR
+# 
+_chem_comp.id                                    PCR 
+_chem_comp.name                                  P-CRESOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-11-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        108.138 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PCR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DIQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PCR CB   CB   C 0 1 N N N 66.869 42.010 -7.181  0.000  -0.014 2.910  CB   PCR 1  
+PCR CG   CG   C 0 1 Y N N 66.948 40.660 -7.835  0.000  -0.002 1.404  CG   PCR 2  
+PCR CD1  CD1  C 0 1 Y N N 67.828 40.439 -8.917  1.198  0.001  0.713  CD1  PCR 3  
+PCR CE1  CE1  C 0 1 Y N N 67.965 39.143 -9.508  1.200  0.013  -0.667 CE1  PCR 4  
+PCR CD2  CD2  C 0 1 Y N N 66.191 39.563 -7.342  -1.198 -0.000 0.713  CD2  PCR 5  
+PCR CE2  CE2  C 0 1 Y N N 66.321 38.257 -7.919  -1.200 0.016  -0.667 CE2  PCR 6  
+PCR CZ   CZ   C 0 1 Y N N 67.201 38.060 -9.003  0.000  0.020  -1.362 CZ   PCR 7  
+PCR OH   OH   O 0 1 N N N 67.281 36.832 -9.615  0.000  0.031  -2.721 OH   PCR 8  
+PCR HB1  1HB  H 0 1 N N N 66.174 42.184 -6.326  0.889  -0.532 3.270  HB1  PCR 9  
+PCR HB2  2HB  H 0 1 N N N 67.896 42.304 -6.862  0.001  1.010  3.282  HB2  PCR 10 
+PCR HB3  3HB  H 0 1 N N N 66.651 42.768 -7.969  -0.890 -0.530 3.270  HB3  PCR 11 
+PCR HD11 1HD1 H 0 0 N N N 68.415 41.288 -9.305  2.132  -0.003 1.255  HD11 PCR 12 
+PCR HE11 1HE1 H 0 0 N N N 68.657 38.979 -10.350 2.136  0.017  -1.206 HE11 PCR 13 
+PCR HD21 1HD2 H 0 0 N N N 65.494 39.727 -6.502  -2.132 -0.004 1.255  HD21 PCR 14 
+PCR HE21 1HE2 H 0 0 N N N 65.743 37.402 -7.528  -2.136 0.021  -1.206 HE21 PCR 15 
+PCR HO1  1HO  H 0 1 N N N 66.769 36.106 -9.276  -0.001 -0.891 -3.008 HO1  PCR 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PCR CB  CG   SING N N 1  
+PCR CB  HB1  SING N N 2  
+PCR CB  HB2  SING N N 3  
+PCR CB  HB3  SING N N 4  
+PCR CG  CD1  DOUB Y N 5  
+PCR CG  CD2  SING Y N 6  
+PCR CD1 CE1  SING Y N 7  
+PCR CD1 HD11 SING N N 8  
+PCR CE1 CZ   DOUB Y N 9  
+PCR CE1 HE11 SING N N 10 
+PCR CD2 CE2  DOUB Y N 11 
+PCR CD2 HD21 SING N N 12 
+PCR CE2 CZ   SING Y N 13 
+PCR CE2 HE21 SING N N 14 
+PCR CZ  OH   SING N N 15 
+PCR OH  HO1  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PCR SMILES           ACDLabs              10.04 "Oc1ccc(cc1)C"                                  
+PCR SMILES_CANONICAL CACTVS               3.341 "Cc1ccc(O)cc1"                                  
+PCR SMILES           CACTVS               3.341 "Cc1ccc(O)cc1"                                  
+PCR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1ccc(cc1)O"                                  
+PCR SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1ccc(cc1)O"                                  
+PCR InChI            InChI                1.03  "InChI=1S/C7H8O/c1-6-2-4-7(8)5-3-6/h2-5,8H,1H3" 
+PCR InChIKey         InChI                1.03  IWDCLRJOBJJRNH-UHFFFAOYSA-N                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PCR "SYSTEMATIC NAME" ACDLabs              10.04 4-methylphenol 
+PCR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-methylphenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PCR "Create component"  1999-11-30 RCSB 
+PCR "Modify descriptor" 2011-06-04 RCSB 
+# 

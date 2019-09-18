@@ -1,0 +1,178 @@
+data_DRV
+# 
+_chem_comp.id                                    DRV 
+_chem_comp.name                                  "[(2S,3R,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (aminoacetyl)sulfamate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H17 N7 O7 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-09-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        403.371 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DRV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZT8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DRV C4     C4     C 0 1 Y N N 27.930 -13.980 70.825 4.021  -0.055 0.231  C4   DRV 1  
+DRV C5     C5     C 0 1 Y N N 29.269 -14.160 70.505 4.513  -1.311 -0.163 C5   DRV 2  
+DRV C6     C6     C 0 1 Y N N 29.622 -14.274 69.168 5.902  -1.521 -0.125 C6   DRV 3  
+DRV C8     C8     C 0 1 Y N N 29.085 -14.020 72.643 2.353  -1.376 -0.348 C8   DRV 4  
+DRV N1     N1     N 0 1 Y N N 28.659 -14.207 68.237 6.682  -0.525 0.282  N1   DRV 5  
+DRV N3     N3     N 0 1 Y N N 27.023 -13.922 69.841 4.880  0.881  0.622  N3   DRV 6  
+DRV N      N      N 0 1 N N N 27.727 -8.524  79.189 -6.231 -1.719 -2.588 N    DRV 7  
+DRV CA     CA     C 0 1 N N N 27.993 -9.875  79.705 -6.166 -0.540 -1.714 CA   DRV 8  
+DRV C      C      C 0 1 N N N 28.539 -10.756 78.581 -5.146 -0.774 -0.630 C    DRV 9  
+DRV O      O      O 0 1 N N N 29.502 -10.397 77.903 -4.534 -1.820 -0.589 O    DRV 10 
+DRV NAO    NAO    N 0 1 N N N 27.904 -11.912 78.415 -4.915 0.180  0.295  NAO  DRV 11 
+DRV SBA    SBA    S 0 1 N N N 28.387 -12.945 77.251 -3.794 -0.077 1.486  SBA  DRV 12 
+DRV OAD    OAD    O 0 1 N N N 29.813 -13.337 77.496 -3.760 1.109  2.267  OAD  DRV 13 
+DRV OAE    OAE    O 0 1 N N N 28.280 -12.271 75.915 -4.074 -1.359 2.031  OAE  DRV 14 
+DRV "O5'"  "O5'"  O 0 1 N N N 27.560 -14.111 77.282 -2.434 -0.186 0.810  O5*  DRV 15 
+DRV "C5'"  "C5'"  C 0 1 N N N 26.313 -14.173 76.582 -1.903 1.066  0.370  C5*  DRV 16 
+DRV "C4'"  "C4'"  C 0 1 N N S 26.512 -14.517 75.104 -0.541 0.837  -0.291 C4*  DRV 17 
+DRV "O4'"  "O4'"  O 0 1 N N N 26.949 -13.395 74.320 0.414  0.383  0.681  O4*  DRV 18 
+DRV "C3'"  "C3'"  C 0 1 N N R 25.227 -14.917 74.382 0.029  2.175  -0.824 C3*  DRV 19 
+DRV "O3'"  "O3'"  O 0 1 N N N 24.797 -16.199 74.848 -0.446 2.448  -2.144 O3*  DRV 20 
+DRV "C2'"  "C2'"  C 0 1 N N R 25.813 -14.999 72.975 1.551  1.866  -0.829 C2*  DRV 21 
+DRV "O2'"  "O2'"  O 0 1 N N N 24.758 -14.930 72.012 2.313  3.063  -0.664 O2*  DRV 22 
+DRV "C1'"  "C1'"  C 0 1 N N R 26.625 -13.702 72.951 1.702  0.944  0.400  C1*  DRV 23 
+DRV N9     N9     N 0 1 Y N N 27.854 -13.897 72.150 2.657  -0.126 0.104  N9   DRV 24 
+DRV N7     N7     N 0 1 Y N N 29.952 -14.180 71.646 3.444  -2.067 -0.509 N7   DRV 25 
+DRV C2     C2     C 0 1 Y N N 27.394 -14.035 68.577 6.173  0.639  0.643  C2   DRV 26 
+DRV N6     N6     N 0 1 N N N 30.893 -14.443 68.814 6.445  -2.737 -0.501 N6   DRV 27 
+DRV H8     H8     H 0 1 N N N 29.341 -13.994 73.692 1.355  -1.737 -0.547 H8   DRV 28 
+DRV HN     HN     H 0 1 N N N 27.667 -7.881  79.952 -6.433 -2.553 -2.056 HN   DRV 29 
+DRV HNA    HNA    H 0 1 N N N 28.470 -8.248  78.579 -6.909 -1.587 -3.323 HNA  DRV 30 
+DRV HA     HA     H 0 1 N N N 28.733 -9.817  80.517 -5.879 0.332  -2.301 HA   DRV 31 
+DRV HAA    HAA    H 0 1 N N N 27.058 -10.310 80.088 -7.143 -0.368 -1.263 HAA  DRV 32 
+DRV HNAO   HNAO   H 0 0 N N N 27.131 -12.147 79.004 -5.405 1.016  0.262  HNAO DRV 33 
+DRV "H5'"  "H5'"  H 0 1 N N N 25.686 -14.949 77.045 -2.585 1.517  -0.350 H5*  DRV 34 
+DRV "H5'A" "H5'A" H 0 0 N N N 25.833 -13.185 76.645 -1.784 1.731  1.225  H5*A DRV 35 
+DRV "H4'"  "H4'"  H 0 1 N N N 27.246 -15.335 75.162 -0.632 0.113  -1.100 H4*  DRV 36 
+DRV "H3'"  "H3'"  H 0 1 N N N 24.350 -14.264 74.499 -0.204 2.999  -0.148 H3*  DRV 37 
+DRV "HO3'" "HO3'" H 0 0 N N N 24.702 -16.789 74.110 -0.115 3.276  -2.518 HO3* DRV 38 
+DRV "H2'"  "H2'"  H 0 1 N N N 26.382 -15.913 72.751 1.838  1.348  -1.744 H2*  DRV 39 
+DRV "HO2'" "HO2'" H 0 0 N N N 23.920 -14.915 72.460 2.183  3.713  -1.368 HO2* DRV 40 
+DRV "H1'"  "H1'"  H 0 1 N N N 26.060 -12.877 72.493 2.047  1.523  1.256  H1*  DRV 41 
+DRV H2     H2     H 0 1 N N N 26.643 -13.985 67.802 6.844  1.421  0.967  H2   DRV 42 
+DRV HN6    HN6    H 0 1 N N N 30.959 -14.485 67.817 5.865  -3.457 -0.795 HN6  DRV 43 
+DRV HN6A   HN6A   H 0 0 N N N 31.438 -13.675 69.152 7.405  -2.870 -0.470 HN6A DRV 44 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DRV C4    C5     DOUB Y N 1  
+DRV C4    N3     SING Y N 2  
+DRV C4    N9     SING Y N 3  
+DRV C5    C6     SING Y N 4  
+DRV C5    N7     SING Y N 5  
+DRV C6    N1     DOUB Y N 6  
+DRV C6    N6     SING N N 7  
+DRV C8    N9     SING Y N 8  
+DRV C8    N7     DOUB Y N 9  
+DRV N1    C2     SING Y N 10 
+DRV N3    C2     DOUB Y N 11 
+DRV N     CA     SING N N 12 
+DRV CA    C      SING N N 13 
+DRV C     O      DOUB N N 14 
+DRV C     NAO    SING N N 15 
+DRV NAO   SBA    SING N N 16 
+DRV SBA   OAD    DOUB N N 17 
+DRV SBA   OAE    DOUB N N 18 
+DRV SBA   "O5'"  SING N N 19 
+DRV "O5'" "C5'"  SING N N 20 
+DRV "C5'" "C4'"  SING N N 21 
+DRV "C4'" "O4'"  SING N N 22 
+DRV "C4'" "C3'"  SING N N 23 
+DRV "O4'" "C1'"  SING N N 24 
+DRV "C3'" "O3'"  SING N N 25 
+DRV "C3'" "C2'"  SING N N 26 
+DRV "C2'" "O2'"  SING N N 27 
+DRV "C2'" "C1'"  SING N N 28 
+DRV "C1'" N9     SING N N 29 
+DRV C8    H8     SING N N 30 
+DRV N     HN     SING N N 31 
+DRV N     HNA    SING N N 32 
+DRV CA    HA     SING N N 33 
+DRV CA    HAA    SING N N 34 
+DRV NAO   HNAO   SING N N 35 
+DRV "C5'" "H5'"  SING N N 36 
+DRV "C5'" "H5'A" SING N N 37 
+DRV "C4'" "H4'"  SING N N 38 
+DRV "C3'" "H3'"  SING N N 39 
+DRV "O3'" "HO3'" SING N N 40 
+DRV "C2'" "H2'"  SING N N 41 
+DRV "O2'" "HO2'" SING N N 42 
+DRV "C1'" "H1'"  SING N N 43 
+DRV C2    H2     SING N N 44 
+DRV N6    HN6    SING N N 45 
+DRV N6    HN6A   SING N N 46 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DRV SMILES           ACDLabs              10.04 "O=C(NS(=O)(=O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O)CN"                                                                                                                            
+DRV SMILES_CANONICAL CACTVS               3.341 "NCC(=O)N[S](=O)(=O)OC[C@@H]1O[C@H]([C@H](O)[C@H]1O)n2cnc3c(N)ncnc23"                                                                                                         
+DRV SMILES           CACTVS               3.341 "NCC(=O)N[S](=O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O)n2cnc3c(N)ncnc23"                                                                                                              
+DRV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]([C@@H](O3)COS(=O)(=O)NC(=O)CN)O)O)N"                                                                                                    
+DRV SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COS(=O)(=O)NC(=O)CN)O)O)N"                                                                                                                      
+DRV InChI            InChI                1.03  "InChI=1S/C12H17N7O7S/c13-1-6(20)18-27(23,24)25-2-5-8(21)9(22)12(26-5)19-4-17-7-10(14)15-3-16-11(7)19/h3-5,8-9,12,21-22H,1-2,13H2,(H,18,20)(H2,14,15,16)/t5-,8-,9+,12+/m0/s1" 
+DRV InChIKey         InChI                1.03  AMWPZASLDLLQFT-REFFQAGNSA-N                                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DRV "SYSTEMATIC NAME" ACDLabs              10.04 "[(2S,3R,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (aminoacetyl)sulfamate" 
+DRV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S,3R,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl N-(2-aminoethanoyl)sulfamate"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DRV "Create component"     2008-09-25 PDBJ 
+DRV "Modify aromatic_flag" 2011-06-04 RCSB 
+DRV "Modify descriptor"    2011-06-04 RCSB 
+# 

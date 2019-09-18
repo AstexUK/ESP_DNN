@@ -1,0 +1,116 @@
+data_MDN
+# 
+_chem_comp.id                                    MDN 
+_chem_comp.name                                  "METHYLENEDIPHOSPHONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H6 O6 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-01-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        176.002 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MDN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HUZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MDN O3  O3  O 0 1 N N N -19.987 34.247 63.600 0.409  -0.906 2.803  O3  MDN 1  
+MDN P1  P1  P 0 1 N N N -20.312 34.638 65.103 0.063  -0.043 1.488  P1  MDN 2  
+MDN O1  O1  O 0 1 N N N -21.334 33.742 65.640 0.867  1.199  1.488  O1  MDN 3  
+MDN O2  O2  O 0 1 N N N -20.586 36.230 64.922 -1.502 0.330  1.488  O2  MDN 4  
+MDN C4  C4  C 0 1 N N N -18.918 34.355 65.505 0.455  -1.020 0.000  C4  MDN 5  
+MDN P5  P5  P 0 1 N N N -17.882 35.305 66.296 0.063  -0.043 -1.488 P5  MDN 6  
+MDN O6  O6  O 0 1 N N N -18.309 36.820 66.198 0.867  1.199  -1.488 O6  MDN 7  
+MDN O7  O7  O 0 1 N N N -17.855 34.749 67.632 0.409  -0.906 -2.803 O7  MDN 8  
+MDN O8  O8  O 0 1 N N N -16.660 35.025 65.497 -1.502 0.330  -1.488 O8  MDN 9  
+MDN HO3 3HO H 0 1 N N N -19.322 34.829 63.250 0.188  -0.354 3.565  HO3 MDN 10 
+MDN HO2 2HO H 0 1 N N N -20.780 36.464 65.821 -1.988 -0.505 1.488  HO2 MDN 11 
+MDN H41 1H4 H 0 1 N N N -18.964 33.409 66.094 1.515  -1.273 0.000  H41 MDN 12 
+MDN H42 2H4 H 0 1 N N N -18.392 34.057 64.567 -0.136 -1.935 0.000  H42 MDN 13 
+MDN HO7 7HO H 0 1 N N N -17.244 35.308 68.097 0.188  -0.354 -3.565 HO7 MDN 14 
+MDN HO8 8HO H 0 1 N N N -16.049 35.584 65.962 -1.988 -0.505 -1.488 HO8 MDN 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MDN O3 P1  SING N N 1  
+MDN O3 HO3 SING N N 2  
+MDN P1 O1  DOUB N N 3  
+MDN P1 O2  SING N N 4  
+MDN P1 C4  SING N N 5  
+MDN O2 HO2 SING N N 6  
+MDN C4 P5  SING N N 7  
+MDN C4 H41 SING N N 8  
+MDN C4 H42 SING N N 9  
+MDN P5 O6  DOUB N N 10 
+MDN P5 O7  SING N N 11 
+MDN P5 O8  SING N N 12 
+MDN O7 HO7 SING N N 13 
+MDN O8 HO8 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MDN SMILES           ACDLabs              10.04 "O=P(O)(O)CP(=O)(O)O"                                           
+MDN SMILES_CANONICAL CACTVS               3.341 "O[P](O)(=O)C[P](O)(O)=O"                                       
+MDN SMILES           CACTVS               3.341 "O[P](O)(=O)C[P](O)(O)=O"                                       
+MDN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(P(=O)(O)O)P(=O)(O)O"                                         
+MDN SMILES           "OpenEye OEToolkits" 1.5.0 "C(P(=O)(O)O)P(=O)(O)O"                                         
+MDN InChI            InChI                1.03  "InChI=1S/CH6O6P2/c2-8(3,4)1-9(5,6)7/h1H2,(H2,2,3,4)(H2,5,6,7)" 
+MDN InChIKey         InChI                1.03  MBKDYNNUVRNNRF-UHFFFAOYSA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MDN "SYSTEMATIC NAME" ACDLabs              10.04 "methanediylbis(phosphonic acid)" 
+MDN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phosphonomethylphosphonic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MDN "Create component"  2001-01-16 RCSB 
+MDN "Modify descriptor" 2011-06-04 RCSB 
+# 

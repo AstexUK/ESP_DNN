@@ -1,0 +1,125 @@
+data_QX
+# 
+_chem_comp.id                                    QX 
+_chem_comp.name                                  "QUINOXALINE-2-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAD 
+_chem_comp.formula                               "C9 H6 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      QUI 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        174.156 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     QX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+QX N1  N1  N 0 1 Y N N 5.271 -10.299 13.956 2.211 0.337  3.935  N1  QX 1  
+QX C2  C2  C 0 1 Y N N 5.015 -9.985  15.206 3.328 0.041  4.623  C2  QX 2  
+QX C3  C3  C 0 1 Y N N 4.614 -10.927 16.158 4.357 -0.662 4.054  C3  QX 3  
+QX N4  N4  N 0 1 Y N N 4.507 -12.215 15.864 4.297 -1.090 2.780  N4  QX 4  
+QX C5  C5  C 0 1 Y N N 4.577 -13.892 14.107 3.072 -1.222 0.751  C5  QX 5  
+QX C6  C6  C 0 1 Y N N 4.752 -14.247 12.805 1.934 -0.939 -0.001 C6  QX 6  
+QX C7  C7  C 0 1 Y N N 5.148 -13.264 11.842 0.892 -0.227 0.575  C7  QX 7  
+QX C8  C8  C 0 1 Y N N 5.346 -11.994 12.254 0.999 0.196  1.899  C8  QX 8  
+QX C9  C9  C 0 1 Y N N 4.737 -12.575 14.555 3.189 -0.804 2.075  C9  QX 9  
+QX C10 C10 C 0 1 Y N N 5.117 -11.585 13.585 2.132 -0.082 2.659  C10 QX 10 
+QX C11 C11 C 0 1 N N N 5.108 -8.545  15.593 3.390 0.503  5.996  C11 QX 11 
+QX O12 O12 O 0 1 N N N 4.788 -8.114  16.705 4.335 0.324  6.775  O12 QX 12 
+QX O13 O13 O 0 1 N N N ?     ?       ?      2.270 1.183  6.371  O13 QX 13 
+QX H3  H3  H 0 1 N N N 4.385 -10.596 17.160 5.264 -0.910 4.592  H3  QX 14 
+QX H5  H5  H 0 1 N N N 4.305 -14.655 14.822 3.882 -1.781 0.286  H5  QX 15 
+QX H6  H6  H 0 1 N N N 4.592 -15.270 12.498 1.864 -1.274 -1.032 H6  QX 16 
+QX H7  H7  H 0 1 N N N 5.286 -13.534 10.805 0.000 0.000  -0.000 H7  QX 17 
+QX H8  H8  H 0 1 N N N 5.693 -11.263 11.538 0.175 0.754  2.339  H8  QX 18 
+QX H13 H13 H 0 1 N N N 0.059 0.916   0.246  2.302 1.501  7.299  H13 QX 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+QX N1  C2  DOUB Y N 1  
+QX N1  C10 SING Y N 2  
+QX C2  C3  SING Y N 3  
+QX C2  C11 SING N N 4  
+QX C3  N4  DOUB Y N 5  
+QX C3  H3  SING N N 6  
+QX N4  C9  SING Y N 7  
+QX C5  C6  DOUB Y N 8  
+QX C5  C9  SING Y N 9  
+QX C5  H5  SING N N 10 
+QX C6  C7  SING Y N 11 
+QX C6  H6  SING N N 12 
+QX C7  C8  DOUB Y N 13 
+QX C7  H7  SING N N 14 
+QX C8  C10 SING Y N 15 
+QX C8  H8  SING N N 16 
+QX C9  C10 DOUB Y N 17 
+QX C11 O12 DOUB N N 18 
+QX C11 O13 SING N N 19 
+QX O13 H13 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+QX SMILES           ACDLabs              10.04 "O=C(O)c1nc2ccccc2nc1"                                                       
+QX InChI            InChI                1.02b "InChI=1/C9H6N2O2/c12-9(13)8-5-10-6-3-1-2-4-7(6)11-8/h1-5H,(H,12,13)/f/h12H" 
+QX InChIKey         InChI                1.02b UPUZGXILYFKSGE-XWKXFZRBCK                                                    
+QX SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1cnc2ccccc2n1"                                                       
+QX SMILES           CACTVS               3.341 "OC(=O)c1cnc2ccccc2n1"                                                       
+QX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)ncc(n2)C(=O)O"                                                   
+QX SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)ncc(n2)C(=O)O"                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+QX "SYSTEMATIC NAME" ACDLabs              10.04 "quinoxaline-2-carboxylic acid" 
+QX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "quinoxaline-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+QX "Create component" 1999-07-08 RCSB 
+# 

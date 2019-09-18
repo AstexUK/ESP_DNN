@@ -1,0 +1,101 @@
+data_OMO
+# 
+_chem_comp.id                                    OMO 
+_chem_comp.name                                  "MO(VI)(=O)(OH)2 CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H2 Mo O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    6 
+_chem_comp.pdbx_initial_date                     2002-11-14 
+_chem_comp.pdbx_modified_date                    2011-06-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.954 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OMO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1N60 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OMO OM1 OM1 O  0 1 N N N 96.975 145.139 146.158 ? ? ? OM1 OMO 1 
+OMO MO  MO  MO 6 0 N N N 96.336 143.565 146.070 ? ? ? MO  OMO 2 
+OMO OR1 OR1 O  0 1 N N N 96.962 142.786 144.565 ? ? ? OR1 OMO 3 
+OMO OM2 OM2 O  0 1 N N N 97.169 142.526 147.265 ? ? ? OM2 OMO 4 
+OMO HO1 HO1 H  0 1 N N N 96.605 141.907 144.515 ? ? ? HO1 OMO 5 
+OMO HO2 HO2 H  0 1 N N N 96.812 141.647 147.215 ? ? ? HO2 OMO 6 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OMO OM1 MO  DOUB N N 1 
+OMO MO  OR1 SING N N 2 
+OMO MO  OM2 SING N N 3 
+OMO OR1 HO1 SING N N 4 
+OMO OM2 HO2 SING N N 5 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OMO SMILES           ACDLabs              12.01 "O=[Mo+6](O)O"                         
+OMO InChI            InChI                1.03  InChI=1S/Mo.2H2O.O/h;2*1H2;/q+8;;;/p-2 
+OMO InChIKey         InChI                1.03  GKDPEXRCAVYDOG-UHFFFAOYSA-L            
+OMO SMILES_CANONICAL CACTVS               3.370 "O[Mo+6](O)=O"                         
+OMO SMILES           CACTVS               3.370 "O[Mo+6](O)=O"                         
+OMO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "O[Mo+6](=O)O"                         
+OMO SMILES           "OpenEye OEToolkits" 1.7.2 "O[Mo+6](=O)O"                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OMO "SYSTEMATIC NAME" ACDLabs              12.01 "dihydroxy(oxo)molybdenum(6+)"               
+OMO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "bis(oxidanyl)-oxidanylidene-molybdenum(6+)" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OMO "Create component"  2002-11-14 RCSB 
+OMO "Modify descriptor" 2011-06-04 RCSB 
+OMO "Modify name"       2011-06-07 RCSB 
+OMO "Modify descriptor" 2011-06-07 RCSB 
+OMO "Modify identifier" 2011-06-07 RCSB 
+# 

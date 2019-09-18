@@ -1,0 +1,123 @@
+data_XX3
+# 
+_chem_comp.id                                    XX3 
+_chem_comp.name                                  "(1S)-1-HYDROPEROXY-1-HYDROXY-2-KETO-5-NITROCYCLOHEXA-3,5-DIENE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 N O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        187.107 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     XX3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+XX3 O8   O8   O 0  1 N N N 17.467 -55.142 -3.104 0.191  -2.620 -3.570 O8   XX3 1  
+XX3 C2   C2   C 0  1 N N S 18.362 -54.087 -3.466 0.519  -1.261 -3.322 C2   XX3 2  
+XX3 O12  O12  O 0  1 N N N 18.283 -53.875 -4.881 0.132  -0.446 -4.417 O12  XX3 3  
+XX3 O13  O13  O 0  1 N N N 17.030 -53.180 -5.415 0.583  0.893  -4.074 O13  XX3 4  
+XX3 C1   C1   C 0  1 N N N 18.054 -52.724 -2.812 -0.226 -0.791 -2.060 C1   XX3 5  
+XX3 O7   O7   O 0  1 N N N 16.870 -52.433 -2.411 -1.456 -0.795 -2.006 O7   XX3 6  
+XX3 C6   C6   C 0  1 N N N 19.129 -51.881 -2.492 0.547  -0.322 -0.878 C6   XX3 7  
+XX3 C5   C5   C 0  1 N N N 20.319 -52.510 -2.084 1.884  -0.304 -0.920 C5   XX3 8  
+XX3 C3   C3   C 0  1 N N N 19.625 -54.632 -3.053 2.013  -1.174 -3.203 C3   XX3 9  
+XX3 C4   C4   C 0  1 N N N 20.499 -53.908 -2.233 2.596  -0.730 -2.086 C4   XX3 10 
+XX3 N9   N9   N 1  1 N N N 21.553 -54.571 -1.661 4.017  -0.695 -2.099 N9   XX3 11 
+XX3 O10  O10  O -1 1 N N N 21.510 -56.010 -1.311 4.599  -0.854 -1.017 O10  XX3 12 
+XX3 O11  O11  O 0  1 N N N 22.493 -53.841 -1.277 4.570  -0.507 -3.192 O11  XX3 13 
+XX3 HO8  HO8  H 0  1 N N N 17.269 -55.667 -3.871 0.697  -2.894 -4.353 HO8  XX3 14 
+XX3 HO13 HO13 H 0  0 N N N 16.419 -53.036 -4.702 -0.282 1.214  -3.766 HO13 XX3 15 
+XX3 H6   H6   H 0  1 N N N 19.047 -50.806 -2.556 -0.000 -0.000 0.000  H6   XX3 16 
+XX3 H5   H5   H 0  1 N N N 21.110 -51.917 -1.649 2.444  0.039  -0.056 H5   XX3 17 
+XX3 H31  1H3  H 0  1 N N N 19.907 -55.621 -3.382 2.601  -1.487 -4.064 H31  XX3 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+XX3 O8  C2   SING N N 1  
+XX3 O8  HO8  SING N N 2  
+XX3 C2  O12  SING N N 3  
+XX3 C2  C3   SING N N 4  
+XX3 C2  C1   SING N N 5  
+XX3 O12 O13  SING N N 6  
+XX3 O13 HO13 SING N N 7  
+XX3 C1  C6   SING N N 8  
+XX3 C1  O7   DOUB N N 9  
+XX3 C6  C5   DOUB N N 10 
+XX3 C6  H6   SING N N 11 
+XX3 C5  C4   SING N N 12 
+XX3 C5  H5   SING N N 13 
+XX3 C3  C4   DOUB N N 14 
+XX3 C3  H31  SING N N 15 
+XX3 C4  N9   SING N N 16 
+XX3 N9  O10  SING N N 17 
+XX3 N9  O11  DOUB N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+XX3 SMILES           ACDLabs              10.04 "O=[N+]([O-])C1=CC(OO)(O)C(=O)C=C1"                                      
+XX3 SMILES_CANONICAL CACTVS               3.341 "OO[C@@]1(O)C=C(C=CC1=O)[N+]([O-])=O"                                    
+XX3 SMILES           CACTVS               3.341 "OO[C]1(O)C=C(C=CC1=O)[N+]([O-])=O"                                      
+XX3 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=CC(=O)[C@@](C=C1[N+](=O)[O-])(O)OO"                                  
+XX3 SMILES           "OpenEye OEToolkits" 1.5.0 "C1=CC(=O)C(C=C1[N+](=O)[O-])(O)OO"                                      
+XX3 InChI            InChI                1.03  "InChI=1S/C6H5NO6/c8-5-2-1-4(7(10)11)3-6(5,9)13-12/h1-3,9,12H/t6-/m0/s1" 
+XX3 InChIKey         InChI                1.03  FWUJUIQFDWUIAR-LURJTMIESA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+XX3 "SYSTEMATIC NAME" ACDLabs              10.04 "(6S)-6-hydroperoxy-6-hydroxy-4-nitrocyclohexa-2,4-dien-1-one"  
+XX3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(6S)-6-hydroperoxy-6-hydroxy-4-nitro-cyclohexa-2,4-dien-1-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+XX3 "Create component"  2006-10-05 RCSB 
+XX3 "Modify descriptor" 2011-06-04 RCSB 
+# 

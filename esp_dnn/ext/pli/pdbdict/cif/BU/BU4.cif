@@ -1,0 +1,116 @@
+data_BU4
+# 
+_chem_comp.id                                    BU4 
+_chem_comp.name                                  "(3R)-butane-1,3-diol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-02-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        90.121 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BU4 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KTM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BU4 C1  C1  C 0 1 N N N 13.264 32.374 -113.679 -1.428 -0.305 -0.311 C1  BU4 1  
+BU4 O1  O1  O 0 1 N N N 12.951 32.410 -115.083 -2.666 0.218  0.177  O1  BU4 2  
+BU4 C2  C2  C 0 1 N N N 12.479 33.465 -112.942 -0.275 0.572  0.181  C2  BU4 3  
+BU4 C3  C3  C 0 1 N N R 13.259 34.565 -112.211 1.050  0.013  -0.342 C3  BU4 4  
+BU4 O3  O3  O 0 1 N N N 12.500 35.774 -112.241 1.283  -1.275 0.232  O3  BU4 5  
+BU4 C4  C4  C 0 1 N N N 14.608 34.850 -112.849 2.190  0.957  0.045  C4  BU4 6  
+BU4 H1  H1  H 0 1 N N N 12.991 31.390 -113.270 -1.293 -1.322 0.056  H1  BU4 7  
+BU4 H1A H1A H 0 1 N N N 14.342 32.545 -113.542 -1.441 -0.310 -1.401 H1A BU4 8  
+BU4 HO1 HO1 H 0 1 N N N 13.440 31.732 -115.534 -3.442 -0.290 -0.096 HO1 BU4 9  
+BU4 H2  H2  H 0 1 N N N 11.860 33.970 -113.698 -0.410 1.590  -0.186 H2  BU4 10 
+BU4 H2A H2A H 0 1 N N N 11.872 32.953 -112.181 -0.262 0.578  1.271  H2A BU4 11 
+BU4 H3  H3  H 0 1 N N N 13.429 34.210 -111.184 1.004  -0.076 -1.427 H3  BU4 12 
+BU4 HO3 HO3 H 0 1 N N N 12.978 36.460 -111.790 2.107  -1.690 -0.055 HO3 BU4 13 
+BU4 H4  H4  H 0 1 N N N 15.120 35.644 -112.285 2.236  1.046  1.130  H4  BU4 14 
+BU4 H4A H4A H 0 1 N N N 15.220 33.936 -112.835 3.134  0.559  -0.327 H4A BU4 15 
+BU4 H4B H4B H 0 1 N N N 14.460 35.176 -113.889 2.012  1.940  -0.393 H4B BU4 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BU4 C1 O1  SING N N 1  
+BU4 C1 C2  SING N N 2  
+BU4 C2 C3  SING N N 3  
+BU4 C3 O3  SING N N 4  
+BU4 C3 C4  SING N N 5  
+BU4 C1 H1  SING N N 6  
+BU4 C1 H1A SING N N 7  
+BU4 O1 HO1 SING N N 8  
+BU4 C2 H2  SING N N 9  
+BU4 C2 H2A SING N N 10 
+BU4 C3 H3  SING N N 11 
+BU4 O3 HO3 SING N N 12 
+BU4 C4 H4  SING N N 13 
+BU4 C4 H4A SING N N 14 
+BU4 C4 H4B SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BU4 SMILES_CANONICAL CACTVS               3.352 "C[C@@H](O)CCO"                                           
+BU4 SMILES           CACTVS               3.352 "C[CH](O)CCO"                                             
+BU4 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C[C@H](CCO)O"                                            
+BU4 SMILES           "OpenEye OEToolkits" 1.7.0 "CC(CCO)O"                                                
+BU4 InChI            InChI                1.03  "InChI=1S/C4H10O2/c1-4(6)2-3-5/h4-6H,2-3H2,1H3/t4-/m1/s1" 
+BU4 InChIKey         InChI                1.03  PUPZLCDOIYMWBV-SCSAIBSYSA-N                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BU4 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(3R)-butane-1,3-diol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BU4 "Create component"  2010-02-18 RCSB 
+BU4 "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,101 @@
+data_0KA
+# 
+_chem_comp.id                                    0KA 
+_chem_comp.name                                  "SILVER/IRON/SULFUR CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Ag Fe3 S4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-01-31 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        403.663 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0KA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4DHV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0KA AG1 AG1 AG 0 0 N N N -7.224 -8.739 13.628 -7.224 -8.739 13.628 AG1 0KA 1 
+0KA FE1 FE1 FE 0 0 N N N -7.751 -5.975 14.986 -7.751 -5.975 14.986 FE1 0KA 2 
+0KA FE2 FE2 FE 0 0 N N N -5.332 -6.095 13.955 -5.332 -6.095 13.955 FE2 0KA 3 
+0KA FE3 FE3 FE 0 0 N N N -7.524 -5.986 12.408 -7.524 -5.986 12.408 FE3 0KA 4 
+0KA S1  S1  S  0 1 N N N -9.120 -7.026 13.781 -9.120 -7.026 13.781 S1  0KA 5 
+0KA S2  S2  S  0 1 N N N -6.675 -4.314 13.764 -6.675 -4.314 13.764 S2  0KA 6 
+0KA S3  S3  S  0 1 N N N -5.639 -7.082 12.045 -5.639 -7.082 12.045 S3  0KA 7 
+0KA S4  S4  S  0 1 N N N -6.031 -7.348 15.700 -6.031 -7.348 15.700 S4  0KA 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0KA S3  FE3 SING N N 1  
+0KA S3  AG1 SING N N 2  
+0KA S3  FE2 SING N N 3  
+0KA FE3 S2  SING N N 4  
+0KA FE3 S1  SING N N 5  
+0KA AG1 S1  SING N N 6  
+0KA AG1 S4  SING N N 7  
+0KA S2  FE2 SING N N 8  
+0KA S2  FE1 SING N N 9  
+0KA FE2 S4  SING N N 10 
+0KA FE1 S4  SING N N 11 
+0KA S1  FE1 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0KA InChI            InChI                1.03  InChI=1S/Ag.3Fe.4S                       
+0KA InChIKey         InChI                1.03  FVQUTMRPEYETPT-UHFFFAOYSA-N              
+0KA SMILES_CANONICAL CACTVS               3.385 "S1[Fe]S[Fe]1.S2[Fe]S[Ag]2"              
+0KA SMILES           CACTVS               3.385 "S1[Fe]S[Fe]1.S2[Fe]S[Ag]2"              
+0KA SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "[S]12[Fe]3[S]4[Fe]1[S]5[Fe]2[S]3[Ag]45" 
+0KA SMILES           "OpenEye OEToolkits" 1.9.2 "[S]12[Fe]3[S]4[Fe]1[S]5[Fe]2[S]3[Ag]45" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0KA "Create component"   2012-01-31 RCSB 
+0KA "Other modification" 2012-03-22 RCSB 
+0KA "Other modification" 2012-03-29 RCSB 
+0KA "Other modification" 2012-04-16 RCSB 
+0KA "Initial release"    2013-01-11 RCSB 
+0KA "Modify descriptor"  2014-09-05 RCSB 
+# 

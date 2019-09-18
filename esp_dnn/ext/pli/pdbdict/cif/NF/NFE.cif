@@ -1,0 +1,104 @@
+data_NFE
+# 
+_chem_comp.id                                    NFE 
+_chem_comp.name                                  "NI-FE ACTIVE CENTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H Fe Ni O3 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        251.696 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NFE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H2A 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NFE NI  NI  NI 0 0 N N N 58.309 47.116 84.389 0.407  -0.309 -2.859 NI  NFE 1  
+NFE FE  FE  FE 0 0 N N N 57.695 49.181 85.760 -0.260 -0.184 0.661  FE  NFE 2  
+NFE C1  C1  C  0 1 N N N 58.304 50.867 86.057 -1.663 0.074  1.555  C1  NFE 3  
+NFE C2  C2  C  0 1 N N N 55.956 49.890 86.224 0.704  1.120  0.213  C2  NFE 4  
+NFE S3  S3  S  0 1 N N N 57.977 49.006 87.846 0.883  -0.393 2.516  S3  NFE 5  
+NFE S4  S4  S  0 1 N N N 57.197 47.068 86.246 -1.405 0.025  -1.194 S4  NFE 6  
+NFE O1  O1  O  0 1 N N N 58.610 51.791 86.789 -2.669 0.260  2.197  O1  NFE 7  
+NFE O2  O2  O  0 1 N N N 55.032 50.125 87.003 1.397  2.056  -0.108 O2  NFE 8  
+NFE O3  O3  O  0 1 N N N 58.281 48.546 89.353 2.270  -0.649 1.944  O3  NFE 9  
+NFE HO3 HO3 H  0 1 N N N 58.407 48.467 90.291 2.867  -0.759 2.696  HO3 NFE 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NFE NI S4  SING N N 1 
+NFE FE C1  DOUB N N 2 
+NFE FE C2  DOUB N N 3 
+NFE FE S3  SING N N 4 
+NFE FE S4  SING N N 5 
+NFE C1 O1  DOUB N N 6 
+NFE C2 O2  DOUB N N 7 
+NFE S3 O3  SING N N 8 
+NFE O3 HO3 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NFE SMILES_CANONICAL CACTVS               3.341 "OS[Fe@](S[Ni])(=C=O)=C=O"                                      
+NFE SMILES           CACTVS               3.341 "OS[Fe](S[Ni])(=C=O)=C=O"                                       
+NFE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)=[Fe](=C=O)(SO)S[Ni]"                                     
+NFE SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)=[Fe](=C=O)(SO)S[Ni]"                                     
+NFE InChI            InChI                1.03  InChI=1S/2CO.Fe.Ni.H2OS.S/c2*1-2;;;1-2;/h;;;;1-2H;/q;;+1;;;/p-1 
+NFE InChIKey         InChI                1.03  BWHVFYQLNHWUMU-UHFFFAOYSA-M                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NFE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(hydroxysulfanyl-bis(oxomethylidene)ferrio)sulfanylnickel" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NFE "Create component"  1999-07-08 RCSB 
+NFE "Modify descriptor" 2011-06-04 RCSB 
+# 

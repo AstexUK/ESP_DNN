@@ -1,0 +1,122 @@
+data_495
+# 
+_chem_comp.id                                    495 
+_chem_comp.name                                  "4-chlorophthalazin-1(2H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H5 Cl N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-02-06 
+_chem_comp.pdbx_modified_date                    2013-07-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.591 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     495 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4J1Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+495 CL CL CL 0 0 N N N -11.521 -42.515 18.491 2.892  0.290  -0.001 CL 495 1  
+495 C8 C8 C  0 1 N N N -11.048 -41.603 17.038 1.289  -0.379 -0.001 C8 495 2  
+495 N2 N2 N  0 1 N N N -10.119 -40.668 17.214 1.123  -1.669 -0.000 N2 495 3  
+495 N1 N1 N  0 1 N N N -9.669  -39.940 16.110 -0.138 -2.265 0.000  N1 495 4  
+495 C7 C7 C  0 1 N N N -10.125 -40.063 14.857 -1.271 -1.532 -0.000 C7 495 5  
+495 O  O  O  0 1 N N N -9.566  -39.256 13.960 -2.362 -2.074 0.000  O  495 6  
+495 C6 C6 C  0 1 Y N N -11.141 -41.080 14.547 -1.164 -0.067 -0.001 C6 495 7  
+495 C5 C5 C  0 1 Y N N -11.639 -41.890 15.704 0.126  0.510  0.005  C5 495 8  
+495 C1 C1 C  0 1 Y N N -11.675 -41.312 13.316 -2.290 0.756  -0.001 C1 495 9  
+495 C2 C2 C  0 1 Y N N -12.680 -42.311 13.172 -2.127 2.124  -0.001 C2 495 10 
+495 C3 C3 C  0 1 Y N N -13.174 -43.090 14.265 -0.858 2.687  -0.002 C3 495 11 
+495 C4 C4 C  0 1 Y N N -12.648 -42.863 15.537 0.260  1.899  0.004  C4 495 12 
+495 H1 H1 H  0 1 N N N -8.944  -39.270 16.269 -0.203 -3.233 0.001  H1 495 13 
+495 H2 H2 H  0 1 N N N -11.341 -40.746 12.459 -3.280 0.324  -0.001 H2 495 14 
+495 H3 H3 H  0 1 N N N -13.089 -42.489 12.189 -2.996 2.765  -0.001 H3 495 15 
+495 H4 H4 H  0 1 N N N -13.938 -43.838 14.109 -0.752 3.761  -0.002 H4 495 16 
+495 H5 H5 H  0 1 N N N -13.009 -43.426 16.385 1.241  2.350  0.004  H5 495 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+495 C2 C1 DOUB Y N 1  
+495 C2 C3 SING Y N 2  
+495 C1 C6 SING Y N 3  
+495 O  C7 DOUB N N 4  
+495 C3 C4 DOUB Y N 5  
+495 C6 C7 SING N N 6  
+495 C6 C5 DOUB Y N 7  
+495 C7 N1 SING N N 8  
+495 C4 C5 SING Y N 9  
+495 C5 C8 SING N N 10 
+495 N1 N2 SING N N 11 
+495 C8 N2 DOUB N N 12 
+495 C8 CL SING N N 13 
+495 N1 H1 SING N N 14 
+495 C1 H2 SING N N 15 
+495 C2 H3 SING N N 16 
+495 C3 H4 SING N N 17 
+495 C4 H5 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+495 SMILES           ACDLabs              12.01 "O=C2c1c(cccc1)C(Cl)=NN2"                                            
+495 InChI            InChI                1.03  "InChI=1S/C8H5ClN2O/c9-7-5-3-1-2-4-6(5)8(12)11-10-7/h1-4H,(H,11,12)" 
+495 InChIKey         InChI                1.03  QCKGMJDOJRNSMS-UHFFFAOYSA-N                                          
+495 SMILES_CANONICAL CACTVS               3.370 "ClC1=NNC(=O)c2ccccc12"                                              
+495 SMILES           CACTVS               3.370 "ClC1=NNC(=O)c2ccccc12"                                              
+495 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)C(=O)NN=C2Cl"                                            
+495 SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)C(=O)NN=C2Cl"                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+495 "SYSTEMATIC NAME" ACDLabs              12.01 "4-chlorophthalazin-1(2H)-one"  
+495 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 4-chloranyl-2H-phthalazin-1-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+495 "Create component" 2013-02-06 PDBJ 
+495 "Initial release"  2013-07-10 RCSB 
+# 

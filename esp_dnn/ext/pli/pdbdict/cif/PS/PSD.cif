@@ -1,0 +1,194 @@
+data_PSD
+# 
+_chem_comp.id                                    PSD 
+_chem_comp.name                                  "5'-O-[N-(PROLYL)-SULFAMOYL]ADENOSINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H22 N7 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        443.352 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PSD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H4S 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PSD CB     CB     C 0 1 N N N 23.463 103.745 100.673 2.873  0.551  -4.921 CB     PSD 1  
+PSD CG     CG     C 0 1 N N N 22.781 104.041 99.347  4.354  0.803  -4.573 CG     PSD 2  
+PSD C      C      C 0 1 N N N 22.178 105.317 102.154 0.947  -0.087 -3.450 C      PSD 3  
+PSD O      O      O 0 1 N N N 21.069 105.835 102.328 1.118  -1.137 -2.869 O      PSD 4  
+PSD N      N      N 0 1 N N N 21.082 103.494 100.892 3.091  0.695  -2.537 N      PSD 5  
+PSD CD     CD     C 0 1 N N N 21.384 103.381 99.453  4.348  1.255  -3.097 CD     PSD 6  
+PSD CA     CA     C 0 1 N N S 22.299 103.882 101.639 2.096  0.872  -3.626 CA     PSD 7  
+PSD N10    N10    N 0 1 N N N 23.319 105.956 102.392 -0.269 0.222  -3.939 N10    PSD 8  
+PSD P      P      P 0 1 N N R 23.372 107.506 102.957 -1.519 -0.821 -3.748 P      PSD 9  
+PSD O1P    O1P    O 0 1 N N N 22.370 107.556 104.048 -2.736 -0.253 -4.369 O1P    PSD 10 
+PSD O2P    O2P    O 0 1 N N N 24.808 107.709 103.274 -1.161 -2.223 -4.456 O2P    PSD 11 
+PSD "O5'"  "O5'"  O 0 1 N N N 22.946 108.623 101.900 -1.780 -1.064 -2.178 "O5'"  PSD 12 
+PSD "C5'"  "C5'"  C 0 1 N N N 23.221 108.466 100.504 -2.092 0.208  -1.610 "C5'"  PSD 13 
+PSD "C4'"  "C4'"  C 0 1 N N R 23.704 109.772 99.904  -2.353 0.048  -0.111 "C4'"  PSD 14 
+PSD "O4'"  "O4'"  O 0 1 N N N 22.621 110.739 99.933  -1.174 -0.456 0.553  "O4'"  PSD 15 
+PSD "C1'"  "C1'"  C 0 1 N N R 22.919 111.784 100.843 -1.343 -0.108 1.944  "C1'"  PSD 16 
+PSD N9     N9     N 0 1 Y N N 21.726 112.178 101.595 -0.049 -0.113 2.632  N9     PSD 17 
+PSD C4     C4     C 0 1 Y N N 20.959 113.285 101.311 0.158  -0.347 3.967  C4     PSD 18 
+PSD N3     N3     N 0 1 Y N N 21.117 114.147 100.289 -0.624 -0.621 5.006  N3     PSD 19 
+PSD C2     C2     C 0 1 Y N N 20.208 115.111 100.346 -0.111 -0.800 6.205  C2     PSD 20 
+PSD N1     N1     N 0 1 Y N N 19.234 115.308 101.244 1.185  -0.719 6.440  N1     PSD 21 
+PSD C6     C6     C 0 1 Y N N 19.103 114.433 102.258 2.046  -0.449 5.464  C6     PSD 22 
+PSD N6     N6     N 0 1 N N N 18.148 114.650 103.159 3.404  -0.366 5.720  N6     PSD 23 
+PSD C5     C5     C 0 1 Y N N 19.998 113.344 102.302 1.546  -0.244 4.167  C5     PSD 24 
+PSD N7     N7     N 0 1 Y N N 20.125 112.269 103.169 2.102  0.032  2.963  N7     PSD 25 
+PSD C8     C8     C 0 1 Y N N 21.160 111.608 102.703 1.167  0.113  2.062  C8     PSD 26 
+PSD "C2'"  "C2'"  C 0 1 N N R 24.167 111.437 101.644 -1.937 1.317  1.928  "C2'"  PSD 27 
+PSD "O2'"  "O2'"  O 0 1 N N N 24.956 112.601 101.696 -2.901 1.476  2.970  "O2'"  PSD 28 
+PSD "C3'"  "C3'"  C 0 1 N N S 24.812 110.375 100.760 -2.616 1.423  0.542  "C3'"  PSD 29 
+PSD "O3'"  "O3'"  O 0 1 N N N 26.041 110.673 100.106 -4.019 1.648  0.686  "O3'"  PSD 30 
+PSD HCB1   1HCB   H 0 0 N N N 24.353 104.376 100.904 2.722  -0.490 -5.204 HCB1   PSD 31 
+PSD HCB2   2HCB   H 0 0 N N N 24.013 102.777 100.722 2.555  1.213  -5.727 HCB2   PSD 32 
+PSD HCG1   1HCG   H 0 0 N N N 23.367 103.714 98.456  4.931  -0.114 -4.686 HCG1   PSD 33 
+PSD HCG2   2HCG   H 0 0 N N N 22.748 105.125 99.090  4.764  1.589  -5.208 HCG2   PSD 34 
+PSD HN     HN     H 0 1 N N N 20.306 104.131 101.070 2.811  1.305  -1.783 HN     PSD 35 
+PSD HCD1   1HCD   H 0 0 N N N 21.323 102.346 99.042  5.213  0.850  -2.572 HCD1   PSD 36 
+PSD HCD2   2HCD   H 0 0 N N N 20.610 103.813 98.777  4.339  2.343  -3.033 HCD2   PSD 37 
+PSD HCA    AHC    H 0 1 N N N 22.445 103.188 102.500 1.733  1.899  -3.645 HCA    PSD 38 
+PSD HN01   1HN0   H 0 0 N N N 24.198 105.468 102.218 -0.406 1.062  -4.404 HN01   PSD 39 
+PSD HOP2   2HOP   H 0 0 N N N 24.839 108.601 103.599 -0.364 -2.558 -4.023 HOP2   PSD 40 
+PSD "H5'1" "1H5'" H 0 0 N N N 22.342 108.058 99.953  -2.981 0.614  -2.092 "H5'1" PSD 41 
+PSD "H5'2" "2H5'" H 0 0 N N N 23.938 107.634 100.315 -1.254 0.889  -1.762 "H5'2" PSD 42 
+PSD "HC'4" "4HC'" H 0 0 N N N 24.059 109.614 98.859  -3.198 -0.619 0.056  "HC'4" PSD 43 
+PSD "HC'1" "1HC'" H 0 0 N N N 23.192 112.666 100.218 -2.031 -0.801 2.428  "HC'1" PSD 44 
+PSD HC2    2HC    H 0 1 N N N 20.262 115.859 99.537  -0.775 -1.021 7.027  HC2    PSD 45 
+PSD HN61   1HN6   H 0 0 N N N 17.448 115.502 103.125 3.737  -0.506 6.620  HN61   PSD 46 
+PSD HN62   2HN6   H 0 0 N N N 18.041 113.933 103.990 4.023  -0.173 4.998  HN62   PSD 47 
+PSD HC8    8HC    H 0 1 N N N 21.538 110.679 103.162 1.332  0.328  1.016  HC8    PSD 48 
+PSD "HC'2" "2HC'" H 0 0 N N N 23.922 111.048 102.660 -1.146 2.060  2.023  "HC'2" PSD 49 
+PSD "HO'2" "2HO'" H 0 0 N N N 24.554 113.263 102.247 -3.278 2.361  2.869  "HO'2" PSD 50 
+PSD "HC'3" "3HC'" H 0 0 N N N 25.077 109.558 101.471 -2.161 2.219  -0.047 "HC'3" PSD 51 
+PSD "HO'3" "3HO'" H 0 0 N N N 26.732 111.049 100.639 -4.122 2.517  1.097  "HO'3" PSD 52 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PSD CB    CG     SING N N 1  
+PSD CB    CA     SING N N 2  
+PSD CB    HCB1   SING N N 3  
+PSD CB    HCB2   SING N N 4  
+PSD CG    CD     SING N N 5  
+PSD CG    HCG1   SING N N 6  
+PSD CG    HCG2   SING N N 7  
+PSD C     O      DOUB N N 8  
+PSD C     CA     SING N N 9  
+PSD C     N10    SING N N 10 
+PSD N     CD     SING N N 11 
+PSD N     CA     SING N N 12 
+PSD N     HN     SING N N 13 
+PSD CD    HCD1   SING N N 14 
+PSD CD    HCD2   SING N N 15 
+PSD CA    HCA    SING N N 16 
+PSD N10   P      SING N N 17 
+PSD N10   HN01   SING N N 18 
+PSD P     O1P    DOUB N N 19 
+PSD P     O2P    SING N N 20 
+PSD P     "O5'"  SING N N 21 
+PSD O2P   HOP2   SING N N 22 
+PSD "O5'" "C5'"  SING N N 23 
+PSD "C5'" "C4'"  SING N N 24 
+PSD "C5'" "H5'1" SING N N 25 
+PSD "C5'" "H5'2" SING N N 26 
+PSD "C4'" "O4'"  SING N N 27 
+PSD "C4'" "C3'"  SING N N 28 
+PSD "C4'" "HC'4" SING N N 29 
+PSD "O4'" "C1'"  SING N N 30 
+PSD "C1'" N9     SING N N 31 
+PSD "C1'" "C2'"  SING N N 32 
+PSD "C1'" "HC'1" SING N N 33 
+PSD N9    C4     SING Y N 34 
+PSD N9    C8     SING Y N 35 
+PSD C4    N3     DOUB Y N 36 
+PSD C4    C5     SING Y N 37 
+PSD N3    C2     SING Y N 38 
+PSD C2    N1     DOUB Y N 39 
+PSD C2    HC2    SING N N 40 
+PSD N1    C6     SING Y N 41 
+PSD C6    N6     SING N N 42 
+PSD C6    C5     DOUB Y N 43 
+PSD N6    HN61   SING N N 44 
+PSD N6    HN62   SING N N 45 
+PSD C5    N7     SING Y N 46 
+PSD N7    C8     DOUB Y N 47 
+PSD C8    HC8    SING N N 48 
+PSD "C2'" "O2'"  SING N N 49 
+PSD "C2'" "C3'"  SING N N 50 
+PSD "C2'" "HC'2" SING N N 51 
+PSD "O2'" "HO'2" SING N N 52 
+PSD "C3'" "O3'"  SING N N 53 
+PSD "C3'" "HC'3" SING N N 54 
+PSD "O3'" "HO'3" SING N N 55 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PSD SMILES           ACDLabs              10.04 "O=C(NP(=O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O)C4NCCC4"                                                                                                                                                  
+PSD SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P@@](O)(=O)NC(=O)[C@@H]4CCCN4)[C@@H](O)[C@H]3O"                                                                                                                       
+PSD SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(=O)NC(=O)[CH]4CCCN4)[CH](O)[CH]3O"                                                                                                                                 
+PSD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(NC(=O)[C@@H]4CCCN4)O)O)O)N"                                                                                                                 
+PSD SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(NC(=O)C4CCCN4)O)O)O)N"                                                                                                                                            
+PSD InChI            InChI                1.03  "InChI=1S/C15H22N7O7P/c16-12-9-13(19-5-18-12)22(6-20-9)15-11(24)10(23)8(29-15)4-28-30(26,27)21-14(25)7-2-1-3-17-7/h5-8,10-11,15,17,23-24H,1-4H2,(H2,16,18,19)(H2,21,25,26,27)/t7-,8+,10+,11+,15+/m0/s1" 
+PSD InChIKey         InChI                1.03  BIVNOVXAWQKFMF-JVEUSOJLSA-N                                                                                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PSD "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-[(R)-hydroxy(L-prolylamino)phosphoryl]adenosine"                                                                        
+PSD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-N-[(2S)-pyrrolidin-2-yl]carbonyl-phosphonamidic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PSD "Create component"  2001-05-16 EBI  
+PSD "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,118 @@
+data_AKG
+# 
+_chem_comp.id                                    AKG 
+_chem_comp.name                                  "2-OXOGLUTARIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         2OG 
+_chem_comp.formula_weight                        146.098 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AKG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DS1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AKG C1  C1  C 0 1 N N N -3.530 5.433 5.918 2.420  -0.309 0.002  C1  AKG 1  
+AKG O1  O1  O 0 1 N N N -2.616 4.675 5.904 2.428  -1.522 0.001  O1  AKG 2  
+AKG O2  O2  O 0 1 N N N -3.962 6.179 6.915 3.581  0.372  -0.003 O2  AKG 3  
+AKG C2  C2  C 0 1 N N N -4.250 5.665 4.644 1.124  0.428  0.001  C2  AKG 4  
+AKG O5  O5  O 0 1 N N N -3.697 5.187 3.615 1.116  1.636  0.002  O5  AKG 5  
+AKG C3  C3  C 0 1 N N N -5.510 6.463 4.591 -0.176 -0.334 0.001  C3  AKG 6  
+AKG C4  C4  C 0 1 N N N -6.742 5.561 4.375 -1.346 0.652  0.000  C4  AKG 7  
+AKG C5  C5  C 0 1 N N N -8.026 6.368 4.484 -2.646 -0.109 -0.000 C5  AKG 8  
+AKG O3  O3  O 0 1 N N N -8.076 7.569 4.660 -2.638 -1.318 -0.001 O3  AKG 9  
+AKG O4  O4  O 0 1 N N N -9.109 5.636 4.358 -3.813 0.554  -0.001 O4  AKG 10 
+AKG HO2 HO2 H 0 1 N N N -3.419 6.031 7.680 4.395  -0.150 -0.007 HO2 AKG 11 
+AKG H31 H31 H 0 1 N N N -5.628 7.002 5.542 -0.229 -0.961 -0.890 H31 AKG 12 
+AKG H32 H32 H 0 1 N N N -5.443 7.177 3.757 -0.230 -0.961 0.890  H32 AKG 13 
+AKG H41 H41 H 0 1 N N N -6.685 5.110 3.373 -1.292 1.279  0.891  H41 AKG 14 
+AKG H42 H42 H 0 1 N N N -6.748 4.772 5.141 -1.292 1.280  -0.890 H42 AKG 15 
+AKG HO4 HO4 H 0 1 N N N -9.877 6.191 4.427 -4.620 0.022  -0.001 HO4 AKG 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AKG C1 O1  DOUB N N 1  
+AKG C1 O2  SING N N 2  
+AKG C1 C2  SING N N 3  
+AKG O2 HO2 SING N N 4  
+AKG C2 O5  DOUB N N 5  
+AKG C2 C3  SING N N 6  
+AKG C3 C4  SING N N 7  
+AKG C3 H31 SING N N 8  
+AKG C3 H32 SING N N 9  
+AKG C4 C5  SING N N 10 
+AKG C4 H41 SING N N 11 
+AKG C4 H42 SING N N 12 
+AKG C5 O3  DOUB N N 13 
+AKG C5 O4  SING N N 14 
+AKG O4 HO4 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AKG SMILES           ACDLabs              10.04 "O=C(O)C(=O)CCC(=O)O"                                          
+AKG SMILES_CANONICAL CACTVS               3.352 "OC(=O)CCC(=O)C(O)=O"                                          
+AKG SMILES           CACTVS               3.352 "OC(=O)CCC(=O)C(O)=O"                                          
+AKG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C(=O)C(=O)O"                                        
+AKG SMILES           "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C(=O)C(=O)O"                                        
+AKG InChI            InChI                1.03  "InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)" 
+AKG InChIKey         InChI                1.03  KPGXRSRHYNQIFN-UHFFFAOYSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AKG "SYSTEMATIC NAME" ACDLabs              10.04 "2-oxopentanedioic acid" 
+AKG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "2-oxopentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AKG "Create component"  1999-07-08 RCSB 
+AKG "Modify descriptor" 2011-06-04 RCSB 
+# 

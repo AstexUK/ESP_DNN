@@ -1,0 +1,158 @@
+data_NCF
+# 
+_chem_comp.id                                    NCF 
+_chem_comp.name                                  "(2R)-2-{(1R)-2-OXO-1-[(2-THIENYLACETYL)AMINO]ETHYL}-5,6-DIHYDRO-2H-1,3-THIAZINE-4-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H14 N2 O4 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         NITROCEFIN 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-10-01 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        326.391 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NCF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1W8Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NCF S1    S1    S 0 1 N N N -1.475 -0.305 38.986 -3.382 -1.728 0.791  S1    NCF 1  
+NCF C2    C2    C 0 1 N N N -3.264 -0.395 39.030 -4.843 -0.782 0.261  C2    NCF 2  
+NCF C3    C3    C 0 1 N N N -3.929 -1.688 39.390 -4.566 0.702  0.524  C3    NCF 3  
+NCF C4    C4    C 0 1 N N N -3.121 -2.984 39.234 -3.252 1.119  -0.046 C4    NCF 4  
+NCF "C4'" "C4'" C 0 1 N N N -3.703 -4.355 39.567 -3.069 2.581  -0.215 "C4'" NCF 5  
+NCF O4A   O4A   O 0 1 N N N -4.857 -4.514 39.980 -1.916 3.061  -0.716 O4A   NCF 6  
+NCF O4B   O4B   O 0 1 N N N -2.905 -5.256 39.379 -3.959 3.344  0.099  O4B   NCF 7  
+NCF N5    N5    N 0 1 N N N -1.808 -3.024 38.780 -2.283 0.416  -0.395 N5    NCF 8  
+NCF C6    C6    C 0 1 N N R -0.923 -1.943 38.364 -2.171 -1.035 -0.371 C6    NCF 9  
+NCF C7    C7    C 0 1 N N R -0.767 -1.993 36.738 -0.760 -1.428 0.072  C7    NCF 10 
+NCF C8    C8    C 0 1 N N N -0.872 -3.505 36.335 -0.604 -2.924 -0.020 C8    NCF 11 
+NCF O9    O9    O 0 1 N N N -1.799 -3.913 35.594 0.243  -3.399 -0.738 O9    NCF 12 
+NCF N10   N10   N 0 1 N N N -1.915 -1.316 36.049 0.224  -0.779 -0.798 N10   NCF 13 
+NCF C11   C11   C 0 1 N N N -1.859 0.086  35.669 1.472  -0.547 -0.347 C11   NCF 14 
+NCF O12   O12   O 0 1 N N N -0.878 0.840  35.873 1.781  -0.874 0.779  O12   NCF 15 
+NCF C13   C13   C 0 1 N N N -3.130 0.605  34.996 2.485  0.121  -1.242 C13   NCF 16 
+NCF C14   C14   C 0 1 Y N N -2.795 1.213  33.666 3.791  0.263  -0.504 C14   NCF 17 
+NCF C15   C15   C 0 1 Y N N -2.755 0.550  32.339 4.833  -0.601 -0.439 C15   NCF 18 
+NCF C16   C16   C 0 1 Y N N -2.391 1.557  31.418 5.946  -0.255 0.305  C16   NCF 19 
+NCF C17   C17   C 0 1 Y N N -2.171 2.816  31.899 5.957  0.934  0.957  C17   NCF 20 
+NCF S19   S19   S 0 1 Y N N -2.416 2.836  33.605 4.364  1.610  0.518  S19   NCF 21 
+NCF H2C1  1H2C  H 0 0 N N N -3.662 -0.052 38.046 -5.020 -0.944 -0.802 H2C1  NCF 22 
+NCF H2C2  2H2C  H 0 0 N N N -3.644 0.402  39.711 -5.715 -1.099 0.833  H2C2  NCF 23 
+NCF H3C1  1H3C  H 0 0 N N N -4.881 -1.781 38.817 -4.568 0.879  1.599  H3C1  NCF 24 
+NCF H3C2  2H3C  H 0 0 N N N -4.315 -1.622 40.434 -5.355 1.298  0.064  H3C2  NCF 25 
+NCF H4A   H4A   H 0 1 N N N -5.219 -5.367 40.187 -1.796 4.015  -0.827 H4A   NCF 26 
+NCF H6    H6    H 0 1 N N N 0.082  -2.146 38.803 -2.360 -1.429 -1.370 H6    NCF 27 
+NCF H7    H7    H 0 1 N N N 0.208  -1.558 36.415 -0.601 -1.109 1.102  H7    NCF 28 
+NCF H8    H8    H 0 1 N N N -0.232 -4.364 36.598 -1.248 -3.571 0.556  H8    NCF 29 
+NCF H10   H10   H 0 1 N N N -2.757 -1.854 35.842 -0.023 -0.517 -1.699 H10   NCF 30 
+NCF H131  1H13  H 0 0 N N N -3.690 1.314  35.650 2.636  -0.486 -2.135 H131  NCF 31 
+NCF H132  2H13  H 0 0 N N N -3.910 -0.187 34.909 2.121  1.107  -1.530 H132  NCF 32 
+NCF H15   H15   H 0 1 N N N -2.966 -0.510 32.118 4.799  -1.542 -0.968 H15   NCF 33 
+NCF H16   H16   H 0 1 N N N -2.288 1.333  30.343 6.792  -0.923 0.369  H16   NCF 34 
+NCF H17   H17   H 0 1 N N N -1.881 3.688  31.289 6.729  1.361  1.579  H17   NCF 35 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NCF S1    C2    SING N N 1  
+NCF S1    C6    SING N N 2  
+NCF C2    C3    SING N N 3  
+NCF C2    H2C1  SING N N 4  
+NCF C2    H2C2  SING N N 5  
+NCF C3    C4    SING N N 6  
+NCF C3    H3C1  SING N N 7  
+NCF C3    H3C2  SING N N 8  
+NCF C4    "C4'" SING N N 9  
+NCF C4    N5    DOUB N N 10 
+NCF "C4'" O4A   SING N N 11 
+NCF "C4'" O4B   DOUB N N 12 
+NCF O4A   H4A   SING N N 13 
+NCF N5    C6    SING N N 14 
+NCF C6    C7    SING N N 15 
+NCF C6    H6    SING N N 16 
+NCF C7    C8    SING N N 17 
+NCF C7    N10   SING N N 18 
+NCF C7    H7    SING N N 19 
+NCF C8    O9    DOUB N N 20 
+NCF C8    H8    SING N N 21 
+NCF N10   C11   SING N N 22 
+NCF N10   H10   SING N N 23 
+NCF C11   O12   DOUB N N 24 
+NCF C11   C13   SING N N 25 
+NCF C13   C14   SING N N 26 
+NCF C13   H131  SING N N 27 
+NCF C13   H132  SING N N 28 
+NCF C14   C15   DOUB Y N 29 
+NCF C14   S19   SING Y N 30 
+NCF C15   C16   SING Y N 31 
+NCF C15   H15   SING N N 32 
+NCF C16   C17   DOUB Y N 33 
+NCF C16   H16   SING N N 34 
+NCF C17   S19   SING Y N 35 
+NCF C17   H17   SING N N 36 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NCF SMILES           ACDLabs              10.04 "O=C(O)C1=NC(SCC1)C(C=O)NC(=O)Cc2sccc2"                                                                                                       
+NCF SMILES_CANONICAL CACTVS               3.341 "OC(=O)C1=N[C@H](SCC1)[C@H](NC(=O)Cc2sccc2)C=O"                                                                                               
+NCF SMILES           CACTVS               3.341 "OC(=O)C1=N[CH](SCC1)[CH](NC(=O)Cc2sccc2)C=O"                                                                                                 
+NCF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(sc1)CC(=O)N[C@H](C=O)[C@@H]2N=C(CCS2)C(=O)O"                                                                                            
+NCF SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(sc1)CC(=O)NC(C=O)C2N=C(CCS2)C(=O)O"                                                                                                     
+NCF InChI            InChI                1.03  "InChI=1S/C13H14N2O4S2/c16-7-10(12-15-9(13(18)19)3-5-21-12)14-11(17)6-8-2-1-4-20-8/h1-2,4,7,10,12H,3,5-6H2,(H,14,17)(H,18,19)/t10-,12-/m1/s1" 
+NCF InChIKey         InChI                1.03  QIZKCGBBVPUBJL-ZYHUDNBSSA-N                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NCF "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2-{(1R)-2-oxo-1-[(thiophen-2-ylacetyl)amino]ethyl}-5,6-dihydro-2H-1,3-thiazine-4-carboxylic acid"   
+NCF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-[(1R)-2-oxo-1-(2-thiophen-2-ylethanoylamino)ethyl]-5,6-dihydro-2H-1,3-thiazine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NCF "Create component"  2004-10-01 EBI  
+NCF "Modify descriptor" 2011-06-04 RCSB 
+# 

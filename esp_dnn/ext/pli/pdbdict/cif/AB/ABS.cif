@@ -1,0 +1,198 @@
+data_ABS
+# 
+_chem_comp.id                                    ABS 
+_chem_comp.name                                  "(S)-(N-PHENYL-2-HYDROXY-ETHYL)-2'-DEOXY-ADENOSINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C18 H22 N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-10-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        451.370 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     ABS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1K5F 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ABS P      P    P 0 1 N N N 0.161  8.534  14.530 -1.714 0.153  -7.037 P      ABS 1  
+ABS OP1    O1P  O 0 1 N N N 1.186  7.679  15.169 -2.397 -1.073 -6.570 OP1    ABS 2  
+ABS OP2    O2P  O 0 1 N N N -0.266 9.790  15.187 -2.812 1.273  -7.402 OP2    ABS 3  
+ABS "O5'"  O5*  O 0 1 N N N -1.150 7.639  14.259 -0.749 0.706  -5.873 "O5'"  ABS 4  
+ABS "C5'"  C5*  C 0 1 N N N -2.245 8.170  13.504 0.197  -0.327 -5.596 "C5'"  ABS 5  
+ABS "C4'"  C4*  C 0 1 N N R -3.429 7.209  13.479 1.149  0.136  -4.491 "C4'"  ABS 6  
+ABS "O4'"  O4*  O 0 1 N N N -3.051 5.941  12.882 0.416  0.403  -3.274 "O4'"  ABS 7  
+ABS "C1'"  C1*  C 0 1 N N R -3.190 4.894  13.868 1.397  0.342  -2.215 "C1'"  ABS 8  
+ABS N9     N9   N 0 1 Y N N -2.039 3.972  13.792 0.744  0.107  -0.925 N9     ABS 9  
+ABS C4     C4   C 0 1 Y N N -2.066 2.650  13.411 1.234  0.456  0.307  C4     ABS 10 
+ABS N3     N3   N 0 1 Y N N -3.162 1.950  13.060 2.330  1.067  0.743  N3     ABS 11 
+ABS C2     C2   C 0 1 Y N N -2.862 0.698  12.745 2.520  1.270  2.030  C2     ABS 12 
+ABS N1     N1   N 0 1 Y N N -1.657 0.136  12.751 1.645  0.889  2.943  N1     ABS 13 
+ABS C6     C6   C 0 1 Y N N -0.547 0.857  13.109 0.517  0.275  2.602  C6     ABS 14 
+ABS N6     N6   N 0 1 N N N 0.680  0.257  13.115 -0.392 -0.120 3.567  N6     ABS 15 
+ABS CA     CA   C 0 1 N N S 2.663  0.185  14.579 -1.273 -0.396 5.832  CA     ABS 16 
+ABS OA     OA   O 0 1 N N N 2.774  -1.158 14.133 -1.410 -1.802 5.621  OA     ABS 17 
+ABS CB     CB   C 0 1 N N N 1.921  0.995  13.518 -0.117 0.136  4.983  CB     ABS 18 
+ABS CS6    CS6  C 0 1 Y N N 4.051  0.740  14.795 -0.990 -0.131 7.288  CS6    ABS 19 
+ABS CS1    CS1  C 0 1 Y N N 4.299  2.119  14.704 -1.412 1.049  7.871  CS1    ABS 20 
+ABS CS5    CS5  C 0 1 Y N N 5.097  -0.140 15.089 -0.314 -1.071 8.043  CS5    ABS 21 
+ABS CS2    CS2  C 0 1 Y N N 5.595  2.610  14.908 -1.153 1.292  9.206  CS2    ABS 22 
+ABS CS4    CS4  C 0 1 Y N N 6.390  0.349  15.291 -0.051 -0.826 9.378  CS4    ABS 23 
+ABS CS3    CS3  C 0 1 Y N N 6.641  1.725  15.202 -0.472 0.354  9.960  CS3    ABS 24 
+ABS C5     C5   C 0 1 Y N N -0.762 2.200  13.462 0.270  0.036  1.240  C5     ABS 25 
+ABS N7     N7   N 0 1 Y N N 0.095  3.226  13.872 -0.735 -0.542 0.541  N7     ABS 26 
+ABS C8     C8   C 0 1 Y N N -0.729 4.205  14.038 -0.459 -0.502 -0.729 C8     ABS 27 
+ABS "C2'"  C2*  C 0 1 N N N -3.267 5.596  15.206 2.302  -0.853 -2.585 "C2'"  ABS 28 
+ABS "C3'"  C3*  C 0 1 N N S -3.908 6.916  14.889 2.137  -0.990 -4.115 "C3'"  ABS 29 
+ABS "O3'"  O3*  O 0 1 N N N -5.340 6.837  14.921 3.390  -0.798 -4.774 "O3'"  ABS 30 
+ABS OP3    O3P  O 0 1 N Y N 0.641  8.887  13.031 -0.838 -0.184 -8.345 OP3    ABS 31 
+ABS HOP2   2HOP H 0 0 N N N -0.924 10.338 14.776 -3.367 0.903  -8.101 HOP2   ABS 32 
+ABS "H5'"  1H5* H 0 1 N N N -1.917 8.354  12.481 0.767  -0.549 -6.498 "H5'"  ABS 33 
+ABS "H5''" 2H5* H 0 0 N N N -2.563 9.112  13.950 -0.329 -1.224 -5.269 "H5''" ABS 34 
+ABS "H4'"  H4*  H 0 1 N N N -4.241 7.649  12.909 1.694  1.025  -4.810 "H4'"  ABS 35 
+ABS "H1'"  H1*  H 0 1 N N N -4.114 4.342  13.696 1.979  1.263  -2.183 "H1'"  ABS 36 
+ABS H2     H2   H 0 1 N N N -3.695 0.060  12.445 3.424  1.766  2.351  H2     ABS 37 
+ABS H6     H6   H 0 1 N N N 0.752  -0.715 12.846 -1.212 -0.568 3.306  H6     ABS 38 
+ABS HA     HA   H 0 1 N N N 2.114  0.216  15.508 -2.197 0.105  5.544  HA     ABS 39 
+ABS HOA    HOA  H 0 1 N N N 2.645  -1.731 14.892 -0.573 -2.207 5.888  HOA    ABS 40 
+ABS HB1    HB1  H 0 1 N N N 1.671  1.966  13.911 0.806  -0.364 5.271  HB1    ABS 41 
+ABS HB2    HB2  H 0 1 N N N 2.562  1.109  12.666 -0.013 1.210  5.143  HB2    ABS 42 
+ABS HS1    HS1  H 0 1 N N N 3.492  2.801  14.476 -1.944 1.782  7.282  HS1    ABS 43 
+ABS HS5    HS5  H 0 1 N N N 4.904  -1.202 15.157 0.014  -1.994 7.588  HS5    ABS 44 
+ABS HS2    HS2  H 0 1 N N N 5.787  3.671  14.837 -1.481 2.215  9.661  HS2    ABS 45 
+ABS HS4    HS4  H 0 1 N N N 7.193  -0.335 15.517 0.480  -1.559 9.967  HS4    ABS 46 
+ABS HS3    HS3  H 0 1 N N N 7.640  2.103  15.359 -0.269 0.544  11.004 HS3    ABS 47 
+ABS H8     H8   H 0 1 N N N -0.385 5.186  14.358 -1.090 -0.893 -1.513 H8     ABS 48 
+ABS "H2'"  1H2* H 0 1 N N N -2.267 5.752  15.613 1.964  -1.758 -2.081 "H2'"  ABS 49 
+ABS "H2''" 2H2* H 0 0 N N N -3.878 5.029  15.903 3.340  -0.638 -2.331 "H2''" ABS 50 
+ABS "H3'"  H3*  H 0 1 N N N -3.551 7.688  15.570 1.719  -1.964 -4.368 "H3'"  ABS 51 
+ABS "HO3'" H3T  H 0 0 N Y N -5.639 6.653  15.803 3.973  -1.511 -4.478 "HO3'" ABS 52 
+ABS HOP3   3HOP H 0 0 N N N -0.017 9.435  12.620 -0.410 0.639  -8.616 HOP3   ABS 53 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ABS P     OP1    DOUB N N 1  
+ABS P     OP2    SING N N 2  
+ABS P     "O5'"  SING N N 3  
+ABS P     OP3    SING N N 4  
+ABS OP2   HOP2   SING N N 5  
+ABS "O5'" "C5'"  SING N N 6  
+ABS "C5'" "C4'"  SING N N 7  
+ABS "C5'" "H5'"  SING N N 8  
+ABS "C5'" "H5''" SING N N 9  
+ABS "C4'" "O4'"  SING N N 10 
+ABS "C4'" "C3'"  SING N N 11 
+ABS "C4'" "H4'"  SING N N 12 
+ABS "O4'" "C1'"  SING N N 13 
+ABS "C1'" N9     SING N N 14 
+ABS "C1'" "C2'"  SING N N 15 
+ABS "C1'" "H1'"  SING N N 16 
+ABS N9    C4     SING Y N 17 
+ABS N9    C8     SING Y N 18 
+ABS C4    N3     DOUB Y N 19 
+ABS C4    C5     SING Y N 20 
+ABS N3    C2     SING Y N 21 
+ABS C2    N1     DOUB Y N 22 
+ABS C2    H2     SING N N 23 
+ABS N1    C6     SING Y N 24 
+ABS C6    N6     SING N N 25 
+ABS C6    C5     DOUB Y N 26 
+ABS N6    CB     SING N N 27 
+ABS N6    H6     SING N N 28 
+ABS CA    OA     SING N N 29 
+ABS CA    CB     SING N N 30 
+ABS CA    CS6    SING N N 31 
+ABS CA    HA     SING N N 32 
+ABS OA    HOA    SING N N 33 
+ABS CB    HB1    SING N N 34 
+ABS CB    HB2    SING N N 35 
+ABS CS6   CS1    DOUB Y N 36 
+ABS CS6   CS5    SING Y N 37 
+ABS CS1   CS2    SING Y N 38 
+ABS CS1   HS1    SING N N 39 
+ABS CS5   CS4    DOUB Y N 40 
+ABS CS5   HS5    SING N N 41 
+ABS CS2   CS3    DOUB Y N 42 
+ABS CS2   HS2    SING N N 43 
+ABS CS4   CS3    SING Y N 44 
+ABS CS4   HS4    SING N N 45 
+ABS CS3   HS3    SING N N 46 
+ABS C5    N7     SING Y N 47 
+ABS N7    C8     DOUB Y N 48 
+ABS C8    H8     SING N N 49 
+ABS "C2'" "C3'"  SING N N 50 
+ABS "C2'" "H2'"  SING N N 51 
+ABS "C2'" "H2''" SING N N 52 
+ABS "C3'" "O3'"  SING N N 53 
+ABS "C3'" "H3'"  SING N N 54 
+ABS "O3'" "HO3'" SING N N 55 
+ABS OP3   HOP3   SING N N 56 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ABS SMILES           ACDLabs              10.04 "O=P(O)(O)OCC4OC(n2cnc1c(ncnc12)NCC(O)c3ccccc3)CC4O"                                                                                                                                                  
+ABS SMILES_CANONICAL CACTVS               3.341 "O[C@H]1C[C@@H](O[C@@H]1CO[P](O)(O)=O)n2cnc3c(NC[C@@H](O)c4ccccc4)ncnc23"                                                                                                                             
+ABS SMILES           CACTVS               3.341 "O[CH]1C[CH](O[CH]1CO[P](O)(O)=O)n2cnc3c(NC[CH](O)c4ccccc4)ncnc23"                                                                                                                                    
+ABS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)[C@@H](CNc2c3c(ncn2)n(cn3)[C@H]4C[C@@H]([C@H](O4)COP(=O)(O)O)O)O"                                                                                                                          
+ABS SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C(CNc2c3c(ncn2)n(cn3)C4CC(C(O4)COP(=O)(O)O)O)O"                                                                                                                                            
+ABS InChI            InChI                1.03  "InChI=1S/C18H22N5O7P/c24-12-6-15(30-14(12)8-29-31(26,27)28)23-10-22-16-17(20-9-21-18(16)23)19-7-13(25)11-4-2-1-3-5-11/h1-5,9-10,12-15,24-25H,6-8H2,(H,19,20,21)(H2,26,27,28)/t12-,13+,14+,15+/m0/s1" 
+ABS InChIKey         InChI                1.03  XQQQZMWASYSYAT-GBJTYRQASA-N                                                                                                                                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ABS "SYSTEMATIC NAME" ACDLabs              10.04 
+;2'-deoxy-N-[(2S)-2-hydroxy-2-phenylethyl]adenosine 5'-(dihydrogen phosphate)
+;
+ABS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-3-hydroxy-5-[6-[[(2S)-2-hydroxy-2-phenyl-ethyl]amino]purin-9-yl]oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ABS "Create component"  2001-10-12 RCSB 
+ABS "Modify descriptor" 2011-06-04 RCSB 
+# 

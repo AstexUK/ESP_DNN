@@ -1,0 +1,139 @@
+data_RER
+# 
+_chem_comp.id                                    RER 
+_chem_comp.name                                  "(1R,3S,4S,5S)-3-amino-2,3,6-trideoxy-3-methyl-alpha-L-arabino-hexopyranose" 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C7 H15 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         VANCOSAMINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-09-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        161.199 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RER 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C0Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RER C1   C1   C 0 1 N N R 2.594 14.501 6.233 0.046  -1.527 -0.832 C1   RER 1  
+RER C2   C2   C 0 1 N N N 2.501 13.967 7.633 -1.069 -0.504 -1.061 C2   RER 2  
+RER C3   C3   C 0 1 N N S 3.042 12.546 7.655 -1.142 0.439  0.144  C3   RER 3  
+RER N3   N3   N 0 1 N N N 3.461 12.299 9.115 -2.159 1.470  -0.100 N3   RER 4  
+RER C3A  C3A  C 0 1 N N N 2.074 11.505 7.356 -1.512 -0.359 1.397  C3A  RER 5  
+RER C4   C4   C 0 1 N N S 4.271 12.456 6.823 0.224  1.103  0.342  C4   RER 6  
+RER O4   O4   O 0 1 N N N 5.133 13.449 7.548 0.537  1.900  -0.802 O4   RER 7  
+RER C5   C5   C 0 1 N N S 3.976 12.831 5.381 1.290  0.018  0.516  C5   RER 8  
+RER O5   O5   O 0 1 N N N 3.608 14.232 5.409 1.283  -0.842 -0.624 O5   RER 9  
+RER C5A  C5A  C 0 1 N N N 5.146 12.716 4.425 2.666  0.672  0.654  C5A  RER 10 
+RER O1   O1   O 0 1 N Y N 1.264 13.926 5.606 -0.260 -2.317 0.319  O1   RER 11 
+RER H1   H1   H 0 1 N N N 2.763 15.584 6.330 0.131  -2.174 -1.705 H1   RER 12 
+RER H21C H21C H 0 0 N N N 3.094 14.599 8.310 -0.857 0.071  -1.962 H21C RER 13 
+RER H22C H22C H 0 0 N N N 1.452 13.971 7.964 -2.021 -1.023 -1.175 H22C RER 14 
+RER HO1  HO1  H 0 1 N N N 0.615 13.811 6.290 0.406  -2.988 0.524  HO1  RER 15 
+RER H31N H31N H 0 0 N N N 4.458 12.245 9.172 -3.068 1.055  -0.240 H31N RER 16 
+RER H32N H32N H 0 0 N N N 3.135 13.051 9.687 -2.181 2.141  0.653  H32N RER 17 
+RER H3A1 H3A1 H 0 0 N N N 1.829 11.528 6.284 -0.677 -1.001 1.678  H3A1 RER 18 
+RER H3A2 H3A2 H 0 0 N N N 2.499 10.524 7.614 -1.732 0.329  2.213  H3A2 RER 19 
+RER H3A3 H3A3 H 0 0 N N N 1.160 11.675 7.944 -2.388 -0.973 1.191  H3A3 RER 20 
+RER H4   H4   H 0 1 N N N 4.730 11.461 6.727 0.197  1.735  1.230  H4   RER 21 
+RER HO4  HO4  H 0 1 N N N 5.315 13.131 8.424 1.390  2.352  -0.745 HO4  RER 22 
+RER H5   H5   H 0 1 N N N 3.206 12.135 5.016 1.072  -0.564 1.412  H5   RER 23 
+RER H5A1 H5A1 H 0 0 N N N 4.773 12.688 3.390 2.670  1.329  1.524  H5A1 RER 24 
+RER H5A2 H5A2 H 0 0 N N N 5.810 13.584 4.552 3.425  -0.100 0.779  H5A2 RER 25 
+RER H5A3 H5A3 H 0 0 N N N 5.704 11.792 4.638 2.883  1.254  -0.241 H5A3 RER 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RER C1  C2   SING N N 1  
+RER C1  O5   SING N N 2  
+RER C1  O1   SING N N 3  
+RER C2  C3   SING N N 4  
+RER C3  N3   SING N N 5  
+RER C3  C3A  SING N N 6  
+RER C3  C4   SING N N 7  
+RER C4  O4   SING N N 8  
+RER C4  C5   SING N N 9  
+RER C5  O5   SING N N 10 
+RER C5  C5A  SING N N 11 
+RER C1  H1   SING N N 12 
+RER C2  H21C SING N N 13 
+RER C2  H22C SING N N 14 
+RER O1  HO1  SING N N 15 
+RER N3  H31N SING N N 16 
+RER N3  H32N SING N N 17 
+RER C3A H3A1 SING N N 18 
+RER C3A H3A2 SING N N 19 
+RER C3A H3A3 SING N N 20 
+RER C4  H4   SING N N 21 
+RER O4  HO4  SING N N 22 
+RER C5  H5   SING N N 23 
+RER C5A H5A1 SING N N 24 
+RER C5A H5A2 SING N N 25 
+RER C5A H5A3 SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RER SMILES           ACDLabs              10.04 "OC1OC(C(O)C(N)(C)C1)C"                                                                  
+RER SMILES_CANONICAL CACTVS               3.352 "C[C@@H]1O[C@@H](O)C[C@](C)(N)[C@@H]1O"                                                  
+RER SMILES           CACTVS               3.352 "C[CH]1O[CH](O)C[C](C)(N)[CH]1O"                                                         
+RER SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C[C@H]1[C@H]([C@@](C[C@@H](O1)O)(C)N)O"                                                 
+RER SMILES           "OpenEye OEToolkits" 1.6.1 "CC1C(C(CC(O1)O)(C)N)O"                                                                  
+RER InChI            InChI                1.03  "InChI=1S/C7H15NO3/c1-4-6(10)7(2,8)3-5(9)11-4/h4-6,9-10H,3,8H2,1-2H3/t4-,5+,6+,7-/m0/s1" 
+RER InChIKey         InChI                1.03  OIJZDPGKNVKVBL-WNJXEPBRSA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RER "SYSTEMATIC NAME" ACDLabs              10.04 3-amino-2,3,6-trideoxy-3-methyl-alpha-L-lyxo-hexopyranose 
+RER "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2R,4S,5S,6S)-4-amino-4,6-dimethyl-oxane-2,5-diol"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RER "Create component"  2010-09-06 EBI  
+RER "Modify descriptor" 2011-06-04 RCSB 
+# 

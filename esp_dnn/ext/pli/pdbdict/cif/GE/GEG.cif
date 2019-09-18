@@ -1,0 +1,126 @@
+data_GEG
+# 
+_chem_comp.id                                    GEG 
+_chem_comp.name                                  "(4E)-4-AMINOHEX-4-ENOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H11 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-06-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        129.157 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GEG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1OHY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GEG "C1'" "C1'" C 0 1 N N N 11.829 -3.034 17.336 -0.015 -0.023 -2.054 "C1'" GEG 1  
+GEG "O1'" "O1'" O 0 1 N N N 11.843 -3.988 16.528 0.072  1.167  -2.238 "O1'" GEG 2  
+GEG "O2'" "O2'" O 0 1 N N N 12.425 -3.136 18.448 0.059  -0.870 -3.092 "O2'" GEG 3  
+GEG C1    C1    C 0 1 N N N 11.060 -1.801 16.908 -0.207 -0.558 -0.658 C1    GEG 4  
+GEG C2    C2    C 0 1 N N N 11.578 -0.548 17.598 -0.258 0.606  0.331  C2    GEG 5  
+GEG C3    C3    C 0 1 N N N 10.516 0.121  18.483 -0.451 0.072  1.727  C3    GEG 6  
+GEG C4    C4    C 0 1 N N N 10.410 1.426  18.622 0.597  -0.225 2.471  C4    GEG 7  
+GEG C5    C5    C 0 1 N N N 11.332 2.406  17.920 1.988  -0.029 1.924  C5    GEG 8  
+GEG N3    N3    N 0 1 N N N 9.552  -0.654 19.254 -1.733 -0.107 2.231  N3    GEG 9  
+GEG "H2'" "H2'" H 0 1 N N N 12.414 -2.411 19.061 0.183  -0.527 -3.988 "H2'" GEG 10 
+GEG H1C1  1H1C  H 0 0 N N N 11.162 -1.677 15.820 0.623  -1.216 -0.403 H1C1  GEG 11 
+GEG H1C2  2H1C  H 0 0 N N N 10.006 -1.938 17.192 -1.142 -1.117 -0.609 H1C2  GEG 12 
+GEG H2C1  1H2C  H 0 0 N N N 12.438 -0.822 18.226 -1.089 1.264  0.076  H2C1  GEG 13 
+GEG H2C2  2H2C  H 0 0 N N N 11.860 0.171  16.815 0.675  1.166  0.282  H2C2  GEG 14 
+GEG H4    H4    H 0 1 N N N 9.647  1.809  19.252 0.459  -0.608 3.471  H4    GEG 15 
+GEG H5C1  1H5C  H 0 0 N N N 10.731 3.155  17.383 2.719  -0.326 2.676  H5C1  GEG 16 
+GEG H5C2  2H5C  H 0 0 N N N 11.967 2.910  18.664 2.116  -0.641 1.031  H5C2  GEG 17 
+GEG H5C3  3H5C  H 0 0 N N N 11.966 1.863  17.204 2.134  1.020  1.670  H5C3  GEG 18 
+GEG H3N1  1H3N  H 0 0 N N N 9.569  -1.648 19.217 -2.504 0.110  1.684  H3N1  GEG 19 
+GEG H3N2  2H3N  H 0 0 N N N 8.877  -0.189 19.818 -1.857 -0.452 3.129  H3N2  GEG 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GEG "C1'" "O1'" DOUB N N 1  
+GEG "C1'" "O2'" SING N N 2  
+GEG "C1'" C1    SING N N 3  
+GEG "O2'" "H2'" SING N N 4  
+GEG C1    C2    SING N N 5  
+GEG C1    H1C1  SING N N 6  
+GEG C1    H1C2  SING N N 7  
+GEG C2    C3    SING N N 8  
+GEG C2    H2C1  SING N N 9  
+GEG C2    H2C2  SING N N 10 
+GEG C3    C4    DOUB N E 11 
+GEG C3    N3    SING N N 12 
+GEG C4    C5    SING N N 13 
+GEG C4    H4    SING N N 14 
+GEG C5    H5C1  SING N N 15 
+GEG C5    H5C2  SING N N 16 
+GEG C5    H5C3  SING N N 17 
+GEG N3    H3N1  SING N N 18 
+GEG N3    H3N2  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GEG SMILES           ACDLabs              10.04 "O=C(O)CCC(=C/C)\N"                                                  
+GEG SMILES_CANONICAL CACTVS               3.341 "C\C=C(N)/CCC(O)=O"                                                  
+GEG SMILES           CACTVS               3.341 "CC=C(N)CCC(O)=O"                                                    
+GEG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C\C=C(/CCC(=O)O)\N"                                                 
+GEG SMILES           "OpenEye OEToolkits" 1.5.0 "CC=C(CCC(=O)O)N"                                                    
+GEG InChI            InChI                1.03  "InChI=1S/C6H11NO2/c1-2-5(7)3-4-6(8)9/h2H,3-4,7H2,1H3,(H,8,9)/b5-2+" 
+GEG InChIKey         InChI                1.03  KQFBUAIXCIGKAP-GORDUTHDSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GEG "SYSTEMATIC NAME" ACDLabs              10.04 "(4E)-4-aminohex-4-enoic acid" 
+GEG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(E)-4-aminohex-4-enoic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GEG "Create component"  2003-06-03 EBI  
+GEG "Modify descriptor" 2011-06-04 RCSB 
+# 

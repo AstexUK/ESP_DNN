@@ -1,0 +1,127 @@
+data_YHO
+# 
+_chem_comp.id                                    YHO 
+_chem_comp.name                                  "(1S,2S,3R,4R)-4-aminocyclopentane-1,2,3-triol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H11 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-07-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     YHO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DX1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+YHO O3   O3   O 0 1 N N N 33.699 65.828 7.068  1.216  -1.521 -0.413 O3   YHO 1  
+YHO C3   C3   C 0 1 N N S 32.933 66.821 7.799  0.741  -0.699 0.655  C3   YHO 2  
+YHO C2   C2   C 0 1 N N R 32.552 66.289 9.193  -0.798 -0.682 0.663  C2   YHO 3  
+YHO O2   O2   O 0 1 N N N 33.406 65.201 9.594  -1.302 -1.493 -0.400 O2   YHO 4  
+YHO C1   C1   C 0 1 N N R 31.071 65.839 9.086  -1.223 0.786  0.454  C1   YHO 5  
+YHO N1   N1   N 0 1 N N N 30.953 64.481 9.638  -2.417 0.859  -0.398 N1   YHO 6  
+YHO C5   C5   C 0 1 N N N 30.742 65.899 7.595  -0.010 1.437  -0.255 C5   YHO 7  
+YHO C4   C4   C 0 1 N N S 31.557 67.127 7.185  1.197  0.760  0.442  C4   YHO 8  
+YHO O4   O4   O 0 1 N N N 31.623 67.310 5.773  2.351  0.805  -0.400 O4   YHO 9  
+YHO HO3  HO3  H 0 1 N N N 33.866 66.142 6.187  2.180  -1.572 -0.471 HO3  YHO 10 
+YHO H3   H3   H 0 1 N N N 33.587 67.705 7.797  1.115  -1.072 1.608  H3   YHO 11 
+YHO H2   H2   H 0 1 N N N 32.678 67.064 9.963  -1.170 -1.047 1.620  H2   YHO 12 
+YHO HO2  HO2  H 0 1 N N N 33.594 64.652 8.842  -1.050 -2.425 -0.337 HO2  YHO 13 
+YHO H1   H1   H 0 1 N N N 30.370 66.471 9.651  -1.411 1.269  1.413  H1   YHO 14 
+YHO HN1  HN1  H 0 1 N N N 30.926 63.818 8.890  -2.702 1.817  -0.540 HN1  YHO 15 
+YHO HN1A HN1A H 0 0 N N N 31.740 64.290 10.224 -2.261 0.394  -1.280 HN1A YHO 16 
+YHO H5   H5   H 0 1 N N N 31.047 64.989 7.057  -0.018 1.209  -1.321 H5   YHO 17 
+YHO H5A  H5A  H 0 1 N N N 29.668 65.966 7.366  0.001  2.514  -0.092 H5A  YHO 18 
+YHO H4   H4   H 0 1 N N N 31.115 68.072 7.535  1.402  1.239  1.399  H4   YHO 19 
+YHO HO4  HO4  H 0 1 N N N 31.638 68.239 5.574  2.680  1.699  -0.567 HO4  YHO 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+YHO O3 C3   SING N N 1  
+YHO O3 HO3  SING N N 2  
+YHO C4 C3   SING N N 3  
+YHO C3 C2   SING N N 4  
+YHO C3 H3   SING N N 5  
+YHO C1 C2   SING N N 6  
+YHO C2 O2   SING N N 7  
+YHO C2 H2   SING N N 8  
+YHO O2 HO2  SING N N 9  
+YHO C5 C1   SING N N 10 
+YHO C1 N1   SING N N 11 
+YHO C1 H1   SING N N 12 
+YHO N1 HN1  SING N N 13 
+YHO N1 HN1A SING N N 14 
+YHO C4 C5   SING N N 15 
+YHO C5 H5   SING N N 16 
+YHO C5 H5A  SING N N 17 
+YHO O4 C4   SING N N 18 
+YHO C4 H4   SING N N 19 
+YHO O4 HO4  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+YHO SMILES           ACDLabs              10.04 "OC1CC(N)C(O)C1O"                                                           
+YHO SMILES_CANONICAL CACTVS               3.341 "N[C@@H]1C[C@H](O)[C@H](O)[C@@H]1O"                                         
+YHO SMILES           CACTVS               3.341 "N[CH]1C[CH](O)[CH](O)[CH]1O"                                               
+YHO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@H]([C@H]([C@H]([C@H]1O)O)O)N"                                         
+YHO SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C(C1O)O)O)N"                                                         
+YHO InChI            InChI                1.03  "InChI=1S/C5H11NO3/c6-2-1-3(7)5(9)4(2)8/h2-5,7-9H,1,6H2/t2-,3+,4-,5+/m1/s1" 
+YHO InChIKey         InChI                1.03  UUKWSEIZIMUXPU-LECHCGJUSA-N                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+YHO "SYSTEMATIC NAME" ACDLabs              10.04 "(1S,2S,3R,4R)-4-aminocyclopentane-1,2,3-triol" 
+YHO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1S,2S,3R,4R)-4-aminocyclopentane-1,2,3-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+YHO "Create component"  2008-07-25 RCSB 
+YHO "Modify descriptor" 2011-06-04 RCSB 
+# 

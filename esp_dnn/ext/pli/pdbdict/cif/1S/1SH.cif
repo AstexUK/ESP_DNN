@@ -1,0 +1,124 @@
+data_1SH
+# 
+_chem_comp.id                                    1SH 
+_chem_comp.name                                  "2-(methylamino)ethyl dihydrogen phosphate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H10 N O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-05-17 
+_chem_comp.pdbx_modified_date                    2013-09-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        155.090 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1SH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4KRI 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1SH O4  O4  O 0 1 N N N -11.947 -33.294 26.454 1.791  -0.355 1.531  O4  MME 1  
+1SH P1  P1  P 0 1 N N N -10.990 -32.343 25.744 1.554  -0.067 -0.035 P1  MME 2  
+1SH O1  O1  O 0 1 N N N -11.555 -31.883 24.461 2.192  1.217  -0.403 O1  MME 3  
+1SH O3  O3  O 0 1 N N N -10.681 -31.105 26.670 2.201  -1.257 -0.904 O3  MME 4  
+1SH O2  O2  O 0 1 N N N -9.638  -33.108 25.431 -0.027 0.015  -0.332 O2  MME 5  
+1SH C1  C1  C 0 1 N N N -9.041  -33.840 26.373 -0.868 1.037  0.208  C1  MME 6  
+1SH C2  C2  C 0 1 N N N -7.920  -34.762 25.899 -2.305 0.820  -0.270 C2  MME 7  
+1SH N1  N1  N 0 1 N N N -8.291  -35.973 25.212 -2.820 -0.440 0.283  N1  MME 8  
+1SH C3  C3  C 0 1 N N N -8.901  -35.681 23.963 -4.201 -0.683 -0.156 C3  MME 9  
+1SH H1  H1  H 0 1 N N N -12.730 -33.408 25.928 1.399  -1.182 1.843  H1  MME 10 
+1SH H2  H2  H 0 1 N N N -10.920 -30.304 26.219 3.154  -1.365 -0.775 H2  MME 11 
+1SH H3  H3  H 0 1 N N N -8.616  -33.149 27.116 -0.837 0.995  1.297  H3  MME 12 
+1SH H4  H4  H 0 1 N N N -9.810  -34.465 26.851 -0.517 2.012  -0.128 H4  MME 13 
+1SH H5  H5  H 0 1 N N N -7.338  -35.053 26.786 -2.929 1.647  0.068  H5  MME 14 
+1SH H6  H6  H 0 1 N N N -7.283  -34.180 25.217 -2.322 0.772  -1.359 H6  MME 15 
+1SH H7  H7  H 0 1 N N N -8.935  -36.487 25.779 -2.754 -0.447 1.290  H7  MME 16 
+1SH H9  H9  H 0 1 N N N -9.174  -36.620 23.459 -4.838 0.134  0.183  H9  MME 17 
+1SH H10 H10 H 0 1 N N N -9.805  -35.077 24.129 -4.231 -0.740 -1.244 H10 MME 18 
+1SH H11 H11 H 0 1 N N N -8.196  -35.119 23.333 -4.557 -1.622 0.268  H11 MME 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1SH C3 N1  SING N N 1  
+1SH O1 P1  DOUB N N 2  
+1SH N1 C2  SING N N 3  
+1SH O2 P1  SING N N 4  
+1SH O2 C1  SING N N 5  
+1SH P1 O4  SING N N 6  
+1SH P1 O3  SING N N 7  
+1SH C2 C1  SING N N 8  
+1SH O4 H1  SING N N 9  
+1SH O3 H2  SING N N 10 
+1SH C1 H3  SING N N 11 
+1SH C1 H4  SING N N 12 
+1SH C2 H5  SING N N 13 
+1SH C2 H6  SING N N 14 
+1SH N1 H7  SING N N 15 
+1SH C3 H9  SING N N 16 
+1SH C3 H10 SING N N 17 
+1SH C3 H11 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1SH SMILES           ACDLabs              12.01 "O=P(OCCNC)(O)O"                                                 
+1SH InChI            InChI                1.03  "InChI=1S/C3H10NO4P/c1-4-2-3-8-9(5,6)7/h4H,2-3H2,1H3,(H2,5,6,7)" 
+1SH InChIKey         InChI                1.03  HZDCAHRLLXEQFY-UHFFFAOYSA-N                                      
+1SH SMILES_CANONICAL CACTVS               3.370 "CNCCO[P](O)(O)=O"                                               
+1SH SMILES           CACTVS               3.370 "CNCCO[P](O)(O)=O"                                               
+1SH SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CNCCOP(=O)(O)O"                                                 
+1SH SMILES           "OpenEye OEToolkits" 1.7.6 "CNCCOP(=O)(O)O"                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1SH "SYSTEMATIC NAME" ACDLabs              12.01 "2-(methylamino)ethyl dihydrogen phosphate" 
+1SH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-(methylamino)ethyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1SH "Create component" 2013-05-17 RCSB 
+1SH "Initial release"  2013-09-25 RCSB 
+# 

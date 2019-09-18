@@ -1,0 +1,123 @@
+data_ES0
+# 
+_chem_comp.id                                    ES0 
+_chem_comp.name                                  2-amino-1H-benzimidazol-7-ol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N3 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-12-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.150 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ES0 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KQY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ES0 NAA  NAA  N 0 1 N N N 28.083 57.687 -27.438 3.441  -0.273 -0.002 NAA  ES0 1  
+ES0 OAB  OAB  O 0 1 N N N 25.139 58.691 -23.051 -1.689 -2.172 0.033  OAB  ES0 2  
+ES0 CAC  CAC  C 0 1 Y N N 24.200 61.419 -25.279 -2.198 1.437  -0.002 CAC  ES0 3  
+ES0 CAD  CAD  C 0 1 Y N N 24.258 60.597 -24.159 -2.463 0.076  0.013  CAD  ES0 4  
+ES0 CAE  CAE  C 0 1 Y N N 24.975 61.130 -26.390 -0.901 1.898  -0.010 CAE  ES0 5  
+ES0 NAF  NAF  N 0 1 Y N N 26.635 59.524 -27.284 1.512  1.131  -0.010 NAF  ES0 6  
+ES0 NAG  NAG  N 0 1 Y N N 26.738 58.226 -25.542 1.125  -1.023 0.013  NAG  ES0 7  
+ES0 CAH  CAH  C 0 1 Y N N 27.202 58.434 -26.780 2.080  -0.049 0.000  CAH  ES0 8  
+ES0 CAI  CAI  C 0 1 Y N N 25.091 59.486 -24.152 -1.424 -0.839 0.019  CAI  ES0 9  
+ES0 CAJ  CAJ  C 0 1 Y N N 25.805 60.018 -26.377 0.161  0.988  -0.004 CAJ  ES0 10 
+ES0 CAK  CAK  C 0 1 Y N N 25.868 59.196 -25.266 -0.108 -0.389 0.010  CAK  ES0 11 
+ES0 HNAA HNAA H 0 0 N N N 28.238 58.076 -28.346 4.057  0.477  -0.011 HNAA ES0 12 
+ES0 HNAB HNAB H 0 0 N N N 28.946 57.666 -26.933 3.783  -1.181 0.010  HNAB ES0 13 
+ES0 HOAB HOAB H 0 0 N N N 25.750 57.979 -23.200 -1.769 -2.567 -0.846 HOAB ES0 14 
+ES0 HAC  HAC  H 0 1 N N N 23.551 62.282 -25.283 -3.017 2.142  -0.011 HAC  ES0 15 
+ES0 HAD  HAD  H 0 1 N N N 23.654 60.823 -23.293 -3.485 -0.272 0.019  HAD  ES0 16 
+ES0 HAE  HAE  H 0 1 N N N 24.934 61.767 -27.261 -0.703 2.959  -0.022 HAE  ES0 17 
+ES0 HNAG HNAG H 0 0 N N N 26.998 57.476 -24.933 1.280  -1.981 0.022  HNAG ES0 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ES0 NAA CAH  SING N N 1  
+ES0 OAB CAI  SING N N 2  
+ES0 CAC CAD  DOUB Y N 3  
+ES0 CAC CAE  SING Y N 4  
+ES0 CAD CAI  SING Y N 5  
+ES0 CAE CAJ  DOUB Y N 6  
+ES0 NAF CAH  DOUB Y N 7  
+ES0 NAF CAJ  SING Y N 8  
+ES0 NAG CAH  SING Y N 9  
+ES0 NAG CAK  SING Y N 10 
+ES0 CAI CAK  DOUB Y N 11 
+ES0 CAJ CAK  SING Y N 12 
+ES0 NAA HNAA SING N N 13 
+ES0 NAA HNAB SING N N 14 
+ES0 OAB HOAB SING N N 15 
+ES0 CAC HAC  SING N N 16 
+ES0 CAD HAD  SING N N 17 
+ES0 CAE HAE  SING N N 18 
+ES0 NAG HNAG SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ES0 SMILES_CANONICAL CACTVS               3.352 "Nc1[nH]c2c(O)cccc2n1"                                               
+ES0 SMILES           CACTVS               3.352 "Nc1[nH]c2c(O)cccc2n1"                                               
+ES0 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc2c(c(c1)O)[nH]c(n2)N"                                           
+ES0 SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc2c(c(c1)O)[nH]c(n2)N"                                           
+ES0 InChI            InChI                1.03  "InChI=1S/C7H7N3O/c8-7-9-4-2-1-3-5(11)6(4)10-7/h1-3,11H,(H3,8,9,10)" 
+ES0 InChIKey         InChI                1.03  BBSYMXYQDPASMX-UHFFFAOYSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ES0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 2-azanyl-3H-benzimidazol-4-ol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ES0 "Create component"     2009-12-04 RCSB 
+ES0 "Modify aromatic_flag" 2011-06-04 RCSB 
+ES0 "Modify descriptor"    2011-06-04 RCSB 
+# 

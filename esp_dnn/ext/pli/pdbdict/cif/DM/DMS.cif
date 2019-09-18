@@ -1,0 +1,106 @@
+data_DMS
+# 
+_chem_comp.id                                    DMS 
+_chem_comp.name                                  "DIMETHYL SULFOXIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6 O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        78.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DMS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        8TLN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DMS S   S   S 0 1 N N N 63.493 46.221 -11.718 0.154  -0.371 0.000  S   DMS 1  
+DMS O   O   O 0 1 N N N 64.265 45.747 -12.880 1.390  0.331  0.001  O   DMS 2  
+DMS C1  C1  C 0 1 N N N 64.594 47.010 -10.655 -0.864 0.196  1.389  C1  DMS 3  
+DMS C2  C2  C 0 1 N N N 62.936 44.782 -10.848 -0.862 0.196  -1.390 C2  DMS 4  
+DMS H11 1H1 H 0 1 N N N 64.009 47.368 -9.775  -0.381 -0.073 2.328  H11 DMS 5  
+DMS H12 2H1 H 0 1 N N N 65.459 46.367 -10.369 -0.978 1.279  1.337  H12 DMS 6  
+DMS H13 3H1 H 0 1 N N N 65.173 47.821 -11.153 -1.845 -0.275 1.336  H13 DMS 7  
+DMS H21 1H2 H 0 1 N N N 62.351 45.140 -9.968  -0.378 -0.072 -2.328 H21 DMS 8  
+DMS H22 2H2 H 0 1 N N N 62.367 44.072 -11.492 -1.843 -0.275 -1.339 H22 DMS 9  
+DMS H23 3H2 H 0 1 N N N 63.764 44.088 -10.571 -0.977 1.279  -1.338 H23 DMS 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DMS S  O   DOUB N N 1 
+DMS S  C1  SING N N 2 
+DMS S  C2  SING N N 3 
+DMS C1 H11 SING N N 4 
+DMS C1 H12 SING N N 5 
+DMS C1 H13 SING N N 6 
+DMS C2 H21 SING N N 7 
+DMS C2 H22 SING N N 8 
+DMS C2 H23 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DMS SMILES           ACDLabs              10.04 sulfinyldimethane                 
+DMS SMILES_CANONICAL CACTVS               3.341 "C[S](C)=O"                       
+DMS SMILES           CACTVS               3.341 "C[S](C)=O"                       
+DMS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CS(=O)C"                         
+DMS SMILES           "OpenEye OEToolkits" 1.5.0 "CS(=O)C"                         
+DMS InChI            InChI                1.03  "InChI=1S/C2H6OS/c1-4(2)3/h1-2H3" 
+DMS InChIKey         InChI                1.03  IAZDPXIOMUYVGZ-UHFFFAOYSA-N       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DMS "SYSTEMATIC NAME" ACDLabs              10.04 "dimethyl sulfoxide"  
+DMS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 methylsulfinylmethane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DMS "Create component"  1999-07-08 RCSB 
+DMS "Modify descriptor" 2011-06-04 RCSB 
+# 

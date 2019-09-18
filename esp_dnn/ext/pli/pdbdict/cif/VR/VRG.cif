@@ -1,0 +1,239 @@
+data_VRG
+# 
+_chem_comp.id                                    VRG 
+_chem_comp.name                                  "N~2~-acetyl-N~5~-[N-(methylcarbamoyl)carbamimidoyl]-L-ornithyl-N-methyl-L-phenylalanyl-L-aspartic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C24 H35 N7 O8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-11 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        549.577 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VRG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3CHE 
+_chem_comp.pdbx_subcomponent_list                "ACE VR0 MEA ASP" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VRG CBB  CBB  C 0 1 N N N 95.624 71.288 -10.194 1.107  -2.874 -2.205 C    ACE 1  
+VRG OAE  OAE  O 0 1 N N N 95.746 72.007 -11.185 0.760  -1.821 -2.698 O    ACE 2  
+VRG CAB  CAB  C 0 1 N N N 96.075 69.826 -10.214 1.507  -4.025 -3.091 CH3  ACE 3  
+VRG CAA  CAA  C 0 1 N N N 89.384 66.860 -2.394  11.003 1.972  0.577  C1   VR0 4  
+VRG NAD  NAD  N 0 1 N N N 92.499 70.621 -3.826  6.132  1.894  -0.362 NH2  VR0 5  
+VRG OAH  OAH  O 0 1 N N N 91.235 68.819 -2.510  8.427  2.400  -0.097 O1   VR0 6  
+VRG OAJ  OAJ  O 0 1 N N N 96.904 73.787 -8.475  -1.190 -1.824 -1.352 O    VR0 7  
+VRG CAR  CAR  C 0 1 N N N 92.967 72.225 -7.188  3.095  -1.056 0.147  CG   VR0 8  
+VRG CAS  CAS  C 0 1 N N N 92.292 72.481 -5.838  4.016  0.137  -0.119 CD   VR0 9  
+VRG CAT  CAT  C 0 1 N N N 94.074 73.246 -7.452  1.667  -0.701 -0.271 CB   VR0 10 
+VRG NAW  NAW  N 0 1 N N N 89.448 67.855 -3.474  9.929  0.989  0.734  NH3  VR0 11 
+VRG NAX  NAX  N 0 1 N N N 91.291 71.431 -5.605  5.384  -0.204 0.281  NE   VR0 12 
+VRG NAY  NAY  N 0 1 N N N 90.478 69.639 -4.442  7.681  0.398  0.510  NH1  VR0 13 
+VRG NAZ  NAZ  N 0 1 N N N 95.115 71.701 -9.037  1.135  -3.013 -0.865 N    VR0 14 
+VRG CBD  CBD  C 0 1 N N N 91.414 70.575 -4.594  6.392  0.719  0.133  CZ   VR0 15 
+VRG CBF  CBF  C 0 1 N N N 90.443 68.738 -3.449  8.670  1.302  0.366  C6   VR0 16 
+VRG CBH  CBH  C 0 1 N N N 95.836 74.033 -9.033  -0.679 -1.503 -0.299 C    VR0 17 
+VRG CBK  CBK  C 0 1 N N S 94.650 73.083 -8.860  0.746  -1.893 -0.004 CA   VR0 18 
+VRG CAC  CAC  C 0 1 N N N 96.803 75.975 -9.976  -0.770 -0.409 1.876  C1   MEA 19 
+VRG NBM  NBM  N 0 1 N N N 95.654 75.067 -9.852  -1.386 -0.798 0.605  N    MEA 20 
+VRG CBL  CBL  C 0 1 N N S 94.391 75.286 -10.572 -2.772 -0.418 0.317  CA   MEA 21 
+VRG CBG  CBG  C 0 1 N N N 94.714 75.440 -12.060 -2.897 1.083  0.339  C    MEA 22 
+VRG OAI  OAI  O 0 1 N N N 94.289 76.401 -12.699 -1.924 1.769  0.572  O    MEA 23 
+VRG CAV  CAV  C 0 1 N N N 93.740 76.587 -10.100 -3.696 -1.022 1.377  CB   MEA 24 
+VRG CBI  CBI  C 0 1 Y N N 93.244 76.500 -8.656  -3.664 -2.526 1.273  CG   MEA 25 
+VRG CAQ  CAQ  C 0 1 Y N N 91.956 76.041 -8.401  -4.565 -3.181 0.454  CD1  MEA 26 
+VRG CAO  CAO  C 0 1 Y N N 91.478 76.002 -7.096  -4.533 -4.560 0.356  CE1  MEA 27 
+VRG CAM  CAM  C 0 1 Y N N 92.290 76.420 -6.047  -3.606 -5.283 1.083  CZ   MEA 28 
+VRG CAN  CAN  C 0 1 Y N N 93.578 76.877 -6.302  -2.709 -4.628 1.906  CE2  MEA 29 
+VRG CAP  CAP  C 0 1 Y N N 94.057 76.917 -7.607  -2.739 -3.249 2.001  CD2  MEA 30 
+VRG N    N    N 0 1 N N N 95.463 74.472 -12.582 -4.089 1.664  0.100  N    ASP 31 
+VRG CA   CA   C 0 1 N N S 95.876 74.495 -13.992 -4.211 3.124  0.121  CA   ASP 32 
+VRG C    C    C 0 1 N N N 94.908 73.699 -14.870 -4.431 3.589  1.537  C    ASP 33 
+VRG O    O    O 0 1 N N N 95.038 73.825 -16.106 -4.482 2.784  2.437  O    ASP 34 
+VRG CB   CB   C 0 1 N N N 97.301 73.949 -14.114 -5.397 3.549  -0.746 CB   ASP 35 
+VRG CG   CG   C 0 1 N N N 98.292 74.846 -13.368 -5.122 3.193  -2.184 CG   ASP 36 
+VRG OD1  OD1  O 0 1 N N N 99.186 74.278 -12.704 -4.083 2.654  -2.485 OD1  ASP 37 
+VRG OD2  OD2  O 0 1 N N N 98.135 76.082 -13.474 -6.030 3.474  -3.131 OD2  ASP 38 
+VRG OXT  OXT  O 0 1 N N N 94.047 73.000 -14.293 -4.571 4.898  1.800  OXT  ASP 39 
+VRG HAB  HAB  H 0 1 N N N 96.183 69.489 -11.256 0.629  -4.631 -3.318 H1   ACE 40 
+VRG HABA HABA H 0 0 N N N 97.041 69.733 -9.697  1.933  -3.640 -4.017 H2   ACE 41 
+VRG HABB HABB H 0 0 N N N 95.325 69.204 -9.704  2.248  -4.638 -2.577 H3   ACE 42 
+VRG HAA  HAA  H 0 1 N N N 89.368 65.849 -2.827  10.771 2.862  1.162  H5   VR0 43 
+VRG HAAA HAAA H 0 0 N N N 90.265 66.967 -1.745  11.943 1.543  0.925  H4   VR0 44 
+VRG HAAB HAAB H 0 0 N N N 88.471 67.020 -1.802  11.097 2.244  -0.475 H3   VR0 45 
+VRG HNAD HNAD H 0 0 N N N 93.088 71.387 -4.083  5.227  2.119  -0.627 HH22 VR0 46 
+VRG HAR  HAR  H 0 1 N N N 93.406 71.216 -7.182  3.439  -1.916 -0.427 HG2  VR0 47 
+VRG HARA HARA H 0 0 N N N 92.210 72.316 -7.981  3.113  -1.298 1.210  HG3  VR0 48 
+VRG HAS  HAS  H 0 1 N N N 91.802 73.466 -5.849  3.673  0.997  0.455  HD2  VR0 49 
+VRG HASA HASA H 0 0 N N N 93.044 72.467 -5.035  3.998  0.379  -1.182 HD3  VR0 50 
+VRG HAT  HAT  H 0 1 N N N 93.656 74.259 -7.352  1.323  0.159  0.304  HB2  VR0 51 
+VRG HATA HATA H 0 0 N N N 94.881 73.084 -6.723  1.649  -0.458 -1.333 HB3  VR0 52 
+VRG HNAW HNAW H 0 0 N N N 88.765 67.868 -4.205  10.122 0.114  1.103  HH33 VR0 53 
+VRG HNAX HNAX H 0 0 N N N 90.503 71.359 -6.217  5.577  -1.079 0.650  HE   VR0 54 
+VRG HNAY HNAY H 0 0 N N N 89.745 69.606 -5.121  7.875  -0.478 0.879  HH11 VR0 55 
+VRG HNAZ HNAZ H 0 0 N N N 95.048 71.059 -8.273  1.412  -3.854 -0.470 H2   VR0 56 
+VRG HBK  HBK  H 0 1 N N N 93.874 73.314 -9.605  0.832  -2.191 1.041  HA   VR0 57 
+VRG HAC  HAC  H 0 1 N N N 96.979 76.202 -11.038 -0.289 0.562  1.765  HC1  MEA 58 
+VRG HACA HACA H 0 0 N N N 96.593 76.908 -9.432  -1.536 -0.349 2.648  HC2  MEA 59 
+VRG HACB HACB H 0 0 N N N 97.697 75.495 -9.551  -0.025 -1.153 2.161  HC3  MEA 60 
+VRG HBL  HBL  H 0 1 N N N 93.712 74.440 -10.389 -3.054 -0.792 -0.667 HA   MEA 61 
+VRG HAV  HAV  H 0 1 N N N 94.485 77.394 -10.165 -3.360 -0.719 2.368  HB1  MEA 62 
+VRG HAVA HAVA H 0 0 N N N 92.870 76.782 -10.744 -4.714 -0.669 1.215  HB2  MEA 63 
+VRG HAQ  HAQ  H 0 1 N N N 91.327 75.715 -9.216  -5.291 -2.616 -0.112 HD1  MEA 64 
+VRG HAO  HAO  H 0 1 N N N 90.477 75.648 -6.897  -5.233 -5.071 -0.288 HE1  MEA 65 
+VRG HAM  HAM  H 0 1 N N N 91.919 76.390 -5.033  -3.583 -6.360 1.008  HZ   MEA 66 
+VRG HAN  HAN  H 0 1 N N N 94.207 77.201 -5.486  -1.986 -5.193 2.474  HE2  MEA 67 
+VRG HAP  HAP  H 0 1 N N N 95.058 77.271 -7.806  -2.038 -2.737 2.644  HD2  MEA 68 
+VRG HN   HN   H 0 1 N N N 95.752 73.711 -12.001 -4.867 1.115  -0.086 H    ASP 69 
+VRG HA   HA   H 0 1 N N N 95.856 75.535 -14.349 -3.296 3.570  -0.270 HA   ASP 70 
+VRG HB   HB   H 0 1 N N N 97.336 72.938 -13.682 -6.297 3.034  -0.410 HB2  ASP 71 
+VRG HBA  HBA  H 0 1 N N N 97.580 73.923 -15.178 -5.542 4.626  -0.660 HB3  ASP 72 
+VRG HOD2 HOD2 H 0 0 N N N 98.803 76.531 -12.970 -5.809 3.227  -4.039 HD2  ASP 73 
+VRG HOXT HOXT H 0 0 N N N 93.499 72.573 -14.941 -4.711 5.148  2.723  HXT  ASP 74 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VRG CAA NAW  SING N N 1  
+VRG NAW CBF  SING N N 2  
+VRG CBF OAH  DOUB N N 3  
+VRG CBF NAY  SING N N 4  
+VRG NAY CBD  SING N N 5  
+VRG CBD NAD  DOUB N N 6  
+VRG CBD NAX  SING N N 7  
+VRG NAX CAS  SING N N 8  
+VRG CAS CAR  SING N N 9  
+VRG CAR CAT  SING N N 10 
+VRG CAT CBK  SING N N 11 
+VRG CBK NAZ  SING N N 12 
+VRG CBK CBH  SING N N 13 
+VRG NAZ CBB  SING N N 14 
+VRG CBB CAB  SING N N 15 
+VRG CBB OAE  DOUB N N 16 
+VRG CBH OAJ  DOUB N N 17 
+VRG CBH NBM  SING N N 18 
+VRG NBM CAC  SING N N 19 
+VRG NBM CBL  SING N N 20 
+VRG CBL CBG  SING N N 21 
+VRG CBL CAV  SING N N 22 
+VRG CBG OAI  DOUB N N 23 
+VRG CBG N    SING N N 24 
+VRG N   CA   SING N N 25 
+VRG CA  C    SING N N 26 
+VRG CA  CB   SING N N 27 
+VRG C   OXT  SING N N 28 
+VRG C   O    DOUB N N 29 
+VRG CB  CG   SING N N 30 
+VRG CG  OD2  SING N N 31 
+VRG CG  OD1  DOUB N N 32 
+VRG CAV CBI  SING N N 33 
+VRG CBI CAP  DOUB Y N 34 
+VRG CBI CAQ  SING Y N 35 
+VRG CAP CAN  SING Y N 36 
+VRG CAN CAM  DOUB Y N 37 
+VRG CAM CAO  SING Y N 38 
+VRG CAO CAQ  DOUB Y N 39 
+VRG CAA HAA  SING N N 40 
+VRG CAA HAAA SING N N 41 
+VRG CAA HAAB SING N N 42 
+VRG NAW HNAW SING N N 43 
+VRG NAY HNAY SING N N 44 
+VRG NAD HNAD SING N N 45 
+VRG NAX HNAX SING N N 46 
+VRG CAS HAS  SING N N 47 
+VRG CAS HASA SING N N 48 
+VRG CAR HAR  SING N N 49 
+VRG CAR HARA SING N N 50 
+VRG CAT HAT  SING N N 51 
+VRG CAT HATA SING N N 52 
+VRG CBK HBK  SING N N 53 
+VRG NAZ HNAZ SING N N 54 
+VRG CAB HAB  SING N N 55 
+VRG CAB HABA SING N N 56 
+VRG CAB HABB SING N N 57 
+VRG CAC HAC  SING N N 58 
+VRG CAC HACA SING N N 59 
+VRG CAC HACB SING N N 60 
+VRG CBL HBL  SING N N 61 
+VRG N   HN   SING N N 62 
+VRG CA  HA   SING N N 63 
+VRG CB  HB   SING N N 64 
+VRG CB  HBA  SING N N 65 
+VRG CAV HAV  SING N N 66 
+VRG CAV HAVA SING N N 67 
+VRG CAP HAP  SING N N 68 
+VRG CAN HAN  SING N N 69 
+VRG CAM HAM  SING N N 70 
+VRG CAO HAO  SING N N 71 
+VRG CAQ HAQ  SING N N 72 
+VRG OXT HOXT SING N N 73 
+VRG OD2 HOD2 SING N N 74 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VRG SMILES           ACDLabs              10.04 "O=C(NC)NC(=[N@H])NCCCC(NC(=O)C)C(=O)N(C(C(=O)NC(C(=O)O)CC(=O)O)Cc1ccccc1)C" 
+VRG InChI            InChI                1.03  
+"InChI=1S/C24H35N7O8/c1-14(32)28-16(10-7-11-27-23(25)30-24(39)26-2)21(36)31(3)18(12-15-8-5-4-6-9-15)20(35)29-17(22(37)38)13-19(33)34/h4-6,8-9,16-18H,7,10-13H2,1-3H3,(H,28,32)(H,29,35)(H,33,34)(H,37,38)(H4,25,26,27,30,39)/t16-,17-,18-/m0/s1" 
+VRG InChIKey         InChI                1.03  UFMHANUUWPWJKF-BZSNNMDCSA-N 
+VRG SMILES_CANONICAL CACTVS               3.385 "CNC(=O)NC(=N)NCCC[C@H](NC(C)=O)C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(O)=O)C(O)=O" 
+VRG SMILES           CACTVS               3.385 "CNC(=O)NC(=N)NCCC[CH](NC(C)=O)C(=O)N(C)[CH](Cc1ccccc1)C(=O)N[CH](CC(O)=O)C(O)=O" 
+VRG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "[H]/N=C(\NCCC[C@@H](C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(=O)O)C(=O)O)NC(=O)C)/NC(=O)NC" 
+VRG SMILES           "OpenEye OEToolkits" 1.7.5 "CC(=O)NC(CCCNC(=N)NC(=O)NC)C(=O)N(C)C(Cc1ccccc1)C(=O)NC(CC(=O)O)C(=O)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VRG "SYSTEMATIC NAME" ACDLabs              10.04 "N~2~-acetyl-N~5~-[N-(methylcarbamoyl)carbamimidoyl]-L-ornithyl-N-methyl-L-phenylalanyl-L-aspartic acid"                                           
+VRG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[[(2S)-2-[[(2S)-2-acetamido-5-[(N-(methylcarbamoyl)carbamimidoyl)amino]pentanoyl]-methyl-amino]-3-phenyl-propanoyl]amino]butanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VRG "Create component"     2008-03-11 RCSB 
+VRG "Other modification"   2010-11-11 RCSB 
+VRG "Modify aromatic_flag" 2011-06-04 RCSB 
+VRG "Modify descriptor"    2011-06-04 RCSB 
+VRG "Modify descriptor"    2012-01-05 RCSB 
+# 

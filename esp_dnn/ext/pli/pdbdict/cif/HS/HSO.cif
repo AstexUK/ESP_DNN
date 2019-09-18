@@ -1,0 +1,132 @@
+data_HSO
+# 
+_chem_comp.id                                    HSO 
+_chem_comp.name                                  L-histidinol 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H12 N3 O" 
+_chem_comp.mon_nstd_parent_comp_id               HIS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2015-06-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.179 
+_chem_comp.one_letter_code                       H 
+_chem_comp.three_letter_code                     HSO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KMN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HSO N   N   N 0 1 N N N -13.563 20.699 15.681 -1.272 1.322  -0.483 N   HSO 1  
+HSO CA  CA  C 0 1 N N S -12.998 21.960 16.146 -1.362 -0.092 -0.096 CA  HSO 2  
+HSO CB  CB  C 0 1 N N N -13.877 22.525 17.262 -0.318 -0.394 0.981  CB  HSO 3  
+HSO CG  CG  C 0 1 Y N N -15.229 22.904 16.778 1.063  -0.227 0.402  CG  HSO 4  
+HSO ND1 ND1 N 1 1 Y N N -15.505 24.168 16.309 1.821  0.878  0.477  ND1 HSO 5  
+HSO CD2 CD2 C 0 1 Y N N -16.290 22.137 16.442 1.755  -1.162 -0.276 CD2 HSO 6  
+HSO CE1 CE1 C 0 1 Y N N -16.674 24.166 15.686 2.954  0.664  -0.134 CE1 HSO 7  
+HSO NE2 NE2 N 0 1 Y N N -17.165 22.940 15.751 2.954  -0.597 -0.618 NE2 HSO 8  
+HSO C   C   C 0 1 N N N -11.549 21.861 16.582 -2.760 -0.381 0.454  C   HSO 9  
+HSO O   O   O 0 1 N N N -10.970 20.773 16.577 -3.726 -0.212 -0.585 O   HSO 10 
+HSO HN1 HN1 H 0 1 N N N -14.516 20.839 15.411 -1.907 1.532  -1.238 HN1 HSO 11 
+HSO HN2 H1  H 0 1 N Y N -13.040 20.369 14.895 -1.439 1.926  0.308  H1  HSO 12 
+HSO HA  H3  H 0 1 N N N -13.038 22.676 15.312 -1.178 -0.720 -0.967 H3  HSO 13 
+HSO HB2 H4  H 0 1 N N N -13.984 21.763 18.048 -0.448 0.295  1.816  H4  HSO 14 
+HSO HB3 H5  H 0 1 N N N -13.388 23.417 17.680 -0.444 -1.418 1.332  H5  HSO 15 
+HSO HD1 HD1 H 0 1 N N N -14.913 24.966 16.421 1.566  1.705  0.915  HD1 HSO 16 
+HSO HD2 H6  H 0 1 N N N -16.425 21.091 16.673 1.428  -2.165 -0.505 H6  HSO 17 
+HSO HE1 H7  H 0 1 N N N -17.143 25.015 15.210 3.759  1.377  -0.235 H7  HSO 18 
+HSO HE2 HE2 H 0 1 N N N -18.036 22.644 15.359 3.670  -1.023 -1.115 HE2 HSO 19 
+HSO H1  H8  H 0 1 N N N -10.974 22.528 15.922 -2.801 -1.406 0.824  H8  HSO 20 
+HSO H2  H2  H 0 1 N N N -11.503 22.238 17.614 -2.980 0.308  1.270  H2  HSO 21 
+HSO HO  H9  H 0 1 N N N -10.076 20.888 16.876 -4.637 -0.379 -0.307 H9  HSO 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HSO N   CA  SING N N 1  
+HSO CE1 NE2 SING Y N 2  
+HSO CE1 ND1 DOUB Y N 3  
+HSO NE2 CD2 SING Y N 4  
+HSO CA  C   SING N N 5  
+HSO CA  CB  SING N N 6  
+HSO ND1 CG  SING Y N 7  
+HSO CD2 CG  DOUB Y N 8  
+HSO O   C   SING N N 9  
+HSO CG  CB  SING N N 10 
+HSO N   HN1 SING N N 11 
+HSO N   HN2 SING N N 12 
+HSO CA  HA  SING N N 13 
+HSO CB  HB2 SING N N 14 
+HSO CB  HB3 SING N N 15 
+HSO ND1 HD1 SING N N 16 
+HSO CD2 HD2 SING N N 17 
+HSO CE1 HE1 SING N N 18 
+HSO NE2 HE2 SING N N 19 
+HSO C   H1  SING N N 20 
+HSO C   H2  SING N N 21 
+HSO O   HO  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HSO SMILES           ACDLabs              12.01 "NC(CO)Cc1[nH+]cnc1"                                                                 
+HSO InChI            InChI                1.03  "InChI=1S/C6H11N3O/c7-5(3-10)1-6-2-8-4-9-6/h2,4-5,10H,1,3,7H2,(H,8,9)/p+1/t5-/m0/s1" 
+HSO InChIKey         InChI                1.03  ZQISRDCJNBUVMM-YFKPBYRVSA-O                                                          
+HSO SMILES_CANONICAL CACTVS               3.385 "N[C@H](CO)Cc1c[nH]c[nH+]1"                                                          
+HSO SMILES           CACTVS               3.385 "N[CH](CO)Cc1c[nH]c[nH+]1"                                                           
+HSO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c([nH+]c[nH]1)C[C@@H](CO)N"                                                       
+HSO SMILES           "OpenEye OEToolkits" 1.7.6 "c1c([nH+]c[nH]1)CC(CO)N"                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HSO "SYSTEMATIC NAME" ACDLabs              12.01 "4-[(2S)-2-amino-3-hydroxypropyl]-1H-imidazol-3-ium"  
+HSO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-azanyl-3-(1H-imidazol-3-ium-4-yl)propan-1-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HSO "Create component"   1999-07-08 RCSB 
+HSO "Modify descriptor"  2011-06-04 RCSB 
+HSO "Other modification" 2015-06-17 RCSB 
+# 

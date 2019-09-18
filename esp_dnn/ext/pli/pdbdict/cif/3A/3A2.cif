@@ -1,0 +1,265 @@
+data_3A2
+# 
+_chem_comp.id                                    3A2 
+_chem_comp.name                                  "1-{3-[(R)-{(1R)-1-[(glycyl-L-prolyl)amino]-2-phenylethyl}(hydroxy)phosphoryl]propanoyl}-L-prolyl-D-norleucine" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C29 H44 N5 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-02-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        621.662 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3A2 
+_chem_comp.pdbx_model_coordinates_details        "not provided" 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3AHO 
+_chem_comp.pdbx_subcomponent_list                "GLY PRO 00H PRO DNE" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3A2 N1   N    N 0 1 N N N 14.599 42.206 30.550 -7.709 0.573  -4.368 N    GLY 1  
+3A2 C2   CA   C 0 1 N N N 14.303 40.878 30.425 -7.545 -0.680 -3.618 CA   GLY 2  
+3A2 C3   C    C 0 1 N N N 14.771 40.098 29.338 -6.964 -0.380 -2.261 C    GLY 3  
+3A2 O4   O    O 0 1 N N N 14.483 38.921 29.389 -6.711 0.764  -1.948 O    GLY 4  
+3A2 N5   N1   N 0 1 N N N 15.471 40.611 28.317 -6.725 -1.384 -1.394 N    PRO 5  
+3A2 C6   CA1  C 0 1 N N S 15.789 42.035 28.166 -6.163 -1.235 -0.043 CA   PRO 6  
+3A2 C10  C1   C 0 1 N N N 14.683 42.902 27.616 -4.800 -0.597 -0.123 C    PRO 7  
+3A2 O11  O1   O 0 1 N N N 13.700 42.452 27.085 -4.335 -0.293 -1.202 O    PRO 8  
+3A2 C7   CB   C 0 1 N N N 16.882 42.048 27.109 -6.046 -2.649 0.563  CB   PRO 9  
+3A2 C8   CG   C 0 1 N N N 16.632 40.829 26.254 -6.019 -3.563 -0.689 CG   PRO 10 
+3A2 C9   CD   C 0 1 N N N 15.994 39.822 27.202 -6.990 -2.813 -1.640 CD   PRO 11 
+3A2 N12  N12  N 0 1 N N N 14.895 44.193 27.733 -4.098 -0.364 1.003  N12  00H 12 
+3A2 C13  C13  C 0 1 N N R 13.957 45.160 27.237 -2.773 0.257  0.926  C13  00H 13 
+3A2 C14  C14  C 0 1 N N N 13.680 46.258 28.263 -2.658 1.350  1.990  C14  00H 14 
+3A2 C15  C15  C 0 1 Y N N 13.206 45.804 29.626 -3.636 2.454  1.683  C15  00H 15 
+3A2 C16  C16  C 0 1 Y N N 12.079 45.044 29.778 -4.877 2.468  2.292  C16  00H 16 
+3A2 C17  C17  C 0 1 Y N N 11.680 44.656 31.055 -5.774 3.481  2.010  C17  00H 17 
+3A2 C18  C18  C 0 1 Y N N 12.394 45.044 32.173 -5.430 4.481  1.120  C18  00H 18 
+3A2 C19  C19  C 0 1 Y N N 13.518 45.824 32.025 -4.189 4.468  0.511  C19  00H 19 
+3A2 C20  C20  C 0 1 Y N N 13.900 46.201 30.759 -3.290 3.457  0.796  C20  00H 20 
+3A2 P21  P21  P 0 1 N N N 14.499 45.934 25.666 -1.492 -1.008 1.213  P21  00H 21 
+3A2 O22  O22  O 0 1 N N N 15.766 46.529 25.676 -1.758 -1.729 2.628  O22  00H 22 
+3A2 O23  O23  O 0 1 N N N 14.211 44.931 24.575 -1.541 -2.015 0.130  O23  00H 23 
+3A2 C24  C24  C 0 1 N N N 13.396 47.302 25.205 0.150  -0.217 1.234  C24  00H 24 
+3A2 C25  C25  C 0 1 N N N 14.088 48.371 24.373 1.233  -1.292 1.350  C25  00H 25 
+3A2 C26  C26  C 0 1 N N N 14.235 49.610 25.216 2.590  -0.637 1.367  C26  00H 26 
+3A2 O27  O27  O 0 1 N N N 13.602 49.702 26.308 2.682  0.570  1.293  O27  00H 27 
+3A2 N28  N2   N 0 1 N N N 15.013 50.573 24.843 3.702  -1.393 1.464  N    PRO 28 
+3A2 C29  CA2  C 0 1 N N S 15.144 51.667 25.687 5.082  -0.888 1.491  CA   PRO 29 
+3A2 C33  C2   C 0 1 N N N 14.190 52.623 26.105 5.371  -0.118 0.229  C    PRO 30 
+3A2 O34  O2   O 0 1 N N N 14.511 53.513 26.832 4.511  0.003  -0.618 O    PRO 31 
+3A2 C30  CB1  C 0 1 N N N 16.590 51.831 25.859 6.016  -2.113 1.584  CB   PRO 32 
+3A2 C31  CG1  C 0 1 N N N 16.878 51.724 24.349 5.135  -3.265 1.034  CG   PRO 33 
+3A2 C32  CD1  C 0 1 N N N 15.922 50.684 23.731 3.734  -2.864 1.566  CD   PRO 34 
+3A2 N35  N3   N 0 1 N N N 12.950 52.456 25.721 6.585  0.437  0.041  N    DNE 35 
+3A2 C36  CA3  C 0 1 N N R 11.988 53.383 26.061 6.866  1.186  -1.186 CA   DNE 36 
+3A2 C41  C3   C 0 1 N N N 11.594 53.644 27.385 6.399  2.610  -1.024 C    DNE 37 
+3A2 O43  O3   O 0 1 N N N 10.837 54.557 27.638 5.885  2.963  0.011  O    DNE 38 
+3A2 C37  CB2  C 0 1 N N N 11.460 54.194 24.899 8.371  1.171  -1.460 CB   DNE 39 
+3A2 C38  CG2  C 0 1 N N N 9.942  54.288 24.925 8.822  -0.262 -1.748 CG   DNE 40 
+3A2 C39  CD2  C 0 1 N N N 9.260  53.961 23.600 10.327 -0.278 -2.022 CD   DNE 41 
+3A2 C40  CE   C 0 1 N N N 7.761  54.019 23.747 10.778 -1.711 -2.310 CE   DNE 42 
+3A2 O42  OXT  O 0 1 N Y N 12.010 52.946 28.290 6.555  3.486  -2.029 OXT  DNE 43 
+3A2 HN1  H    H 0 1 N N N 14.175 42.566 31.381 -8.098 0.399  -5.283 H    GLY 44 
+3A2 H43  H2   H 0 1 N Y N 15.591 42.323 30.605 -8.276 1.230  -3.854 H2   GLY 45 
+3A2 H2   HA2  H 0 1 N N N 14.715 40.400 31.326 -8.516 -1.162 -3.500 HA2  GLY 46 
+3A2 H44  HA3  H 0 1 N N N 13.206 40.827 30.371 -6.874 -1.344 -4.163 HA3  GLY 47 
+3A2 H6   HA   H 0 1 N N N 16.029 42.438 29.161 -6.824 -0.620 0.567  HA   PRO 48 
+3A2 H7   HB2  H 0 1 N N N 16.831 42.966 26.505 -5.122 -2.748 1.133  HB2  PRO 49 
+3A2 H7A  HB3  H 0 1 N N N 17.877 42.001 27.575 -6.911 -2.873 1.187  HB3  PRO 50 
+3A2 H8   HG2  H 0 1 N N N 15.961 41.064 25.414 -5.016 -3.618 -1.113 HG2  PRO 51 
+3A2 H8A  HG3  H 0 1 N N N 17.571 40.439 25.834 -6.397 -4.559 -0.455 HG3  PRO 52 
+3A2 H9   HD2  H 0 1 N N N 16.737 39.092 27.555 -8.024 -3.055 -1.397 HD2  PRO 53 
+3A2 H9A  HD3  H 0 1 N N N 15.185 39.271 26.700 -6.773 -3.066 -2.678 HD3  PRO 54 
+3A2 HN12 HN1A H 0 0 N N N 15.732 44.511 28.179 -4.470 -0.607 1.865  HN1A 00H 55 
+3A2 H13  H13  H 0 1 N N N 13.032 44.597 27.044 -2.635 0.696  -0.062 H13  00H 56 
+3A2 H14  H14  H 0 1 N N N 14.621 46.808 28.412 -2.883 0.928  2.970  H14  00H 57 
+3A2 H14A H14A H 0 0 N N N 12.894 46.904 27.844 -1.645 1.751  1.991  H14A 00H 58 
+3A2 H16  H16  H 0 1 N N N 11.503 44.747 28.914 -5.146 1.687  2.988  H16  00H 59 
+3A2 H17  H17  H 0 1 N N N 10.799 44.042 31.173 -6.744 3.492  2.486  H17  00H 60 
+3A2 H18  H18  H 0 1 N N N 12.072 44.737 33.157 -6.131 5.273  0.899  H18  00H 61 
+3A2 H19  H19  H 0 1 N N N 14.090 46.134 32.887 -3.921 5.248  -0.186 H19  00H 62 
+3A2 H20  H20  H 0 1 N N N 14.771 46.828 30.643 -2.319 3.448  0.323  H20  00H 63 
+3A2 HO22 HO22 H 0 0 N N N 16.281 46.191 24.953 -1.740 -1.128 3.385  HO22 00H 64 
+3A2 H24  H24  H 0 1 N N N 12.564 46.891 24.615 0.294  0.345  0.311  H24  00H 65 
+3A2 H24A H24A H 0 0 N N N 13.023 47.770 26.128 0.217  0.460  2.086  H24A 00H 66 
+3A2 H25  H25  H 0 1 N N N 15.080 48.014 24.058 1.089  -1.854 2.273  H25  00H 67 
+3A2 H25A H25A H 0 0 N N N 13.486 48.597 23.480 1.166  -1.968 0.498  H25A 00H 68 
+3A2 H29  HA1  H 0 1 N N N 14.325 51.667 26.421 5.224  -0.244 2.359  HA   PRO 69 
+3A2 H30  HB21 H 0 1 N N N 16.901 52.776 26.329 6.900  -1.972 0.961  HB2  PRO 70 
+3A2 H30A HB31 H 0 0 N N N 17.077 51.067 26.483 6.299  -2.305 2.619  HB3  PRO 71 
+3A2 H31  HG21 H 0 1 N N N 16.719 52.702 23.872 5.152  -3.284 -0.056 HG2  PRO 72 
+3A2 H31A HG31 H 0 0 N N N 17.920 51.408 24.192 5.446  -4.226 1.444  HG3  PRO 73 
+3A2 H32  HD21 H 0 1 N N N 16.413 49.736 23.467 3.617  -3.174 2.604  HD2  PRO 74 
+3A2 H32A HD31 H 0 0 N N N 15.442 51.025 22.802 2.953  -3.305 0.947  HD3  PRO 75 
+3A2 HN35 H1   H 0 0 N N N 12.700 51.654 25.179 7.272  0.341  0.718  H    DNE 76 
+3A2 H36  HA4  H 0 1 N N N 11.315 52.896 26.782 6.340  0.725  -2.022 HA   DNE 77 
+3A2 H37  HB22 H 0 1 N N N 11.878 55.210 24.957 8.590  1.801  -2.322 HB2  DNE 78 
+3A2 H37A HB32 H 0 0 N N N 11.768 53.710 23.961 8.903  1.551  -0.588 HB3  DNE 79 
+3A2 H38  HG22 H 0 1 N N N 9.574  53.574 25.677 8.603  -0.892 -0.886 HG2  DNE 80 
+3A2 H38A HG32 H 0 0 N N N 9.674  55.320 25.194 8.290  -0.642 -2.621 HG3  DNE 81 
+3A2 H39  HD22 H 0 1 N N N 9.576  54.693 22.842 10.546 0.352  -2.884 HD2  DNE 82 
+3A2 H39A HD32 H 0 0 N N N 9.552  52.948 23.285 10.859 0.102  -1.150 HD3  DNE 83 
+3A2 H40  HE1  H 0 1 N N N 7.288  53.781 22.783 11.851 -1.722 -2.505 HE1  DNE 84 
+3A2 H40A HE2  H 0 0 N N N 7.438  53.289 24.504 10.559 -2.341 -1.448 HE2  DNE 85 
+3A2 H40B HE3  H 0 0 N N N 7.462  55.030 24.062 10.247 -2.091 -3.182 HE3  DNE 86 
+3A2 HO42 HO1  H 0 0 N N N 11.649 53.248 29.115 6.240  4.388  -1.878 HO1  DNE 87 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3A2 N1  C2   SING N N 1  
+3A2 N1  HN1  SING N N 2  
+3A2 N1  H43  SING N N 3  
+3A2 C2  C3   SING N N 4  
+3A2 C2  H2   SING N N 5  
+3A2 C2  H44  SING N N 6  
+3A2 C3  O4   DOUB N N 7  
+3A2 N5  C6   SING N N 8  
+3A2 N5  C9   SING N N 9  
+3A2 C6  C10  SING N N 10 
+3A2 C6  C7   SING N N 11 
+3A2 C6  H6   SING N N 12 
+3A2 C10 O11  DOUB N N 13 
+3A2 C7  C8   SING N N 14 
+3A2 C7  H7   SING N N 15 
+3A2 C7  H7A  SING N N 16 
+3A2 C8  C9   SING N N 17 
+3A2 C8  H8   SING N N 18 
+3A2 C8  H8A  SING N N 19 
+3A2 C9  H9   SING N N 20 
+3A2 C9  H9A  SING N N 21 
+3A2 N12 HN12 SING N N 22 
+3A2 C13 N12  SING N N 23 
+3A2 C13 C14  SING N N 24 
+3A2 C13 H13  SING N N 25 
+3A2 C14 C15  SING N N 26 
+3A2 C14 H14  SING N N 27 
+3A2 C14 H14A SING N N 28 
+3A2 C15 C16  DOUB Y N 29 
+3A2 C15 C20  SING Y N 30 
+3A2 C16 C17  SING Y N 31 
+3A2 C16 H16  SING N N 32 
+3A2 C17 C18  DOUB Y N 33 
+3A2 C17 H17  SING N N 34 
+3A2 C18 H18  SING N N 35 
+3A2 C19 C18  SING Y N 36 
+3A2 C19 H19  SING N N 37 
+3A2 C20 C19  DOUB Y N 38 
+3A2 C20 H20  SING N N 39 
+3A2 P21 C13  SING N N 40 
+3A2 P21 O22  SING N N 41 
+3A2 O22 HO22 SING N N 42 
+3A2 O23 P21  DOUB N N 43 
+3A2 C24 P21  SING N N 44 
+3A2 C24 H24  SING N N 45 
+3A2 C24 H24A SING N N 46 
+3A2 C25 C24  SING N N 47 
+3A2 C25 C26  SING N N 48 
+3A2 C25 H25  SING N N 49 
+3A2 C25 H25A SING N N 50 
+3A2 C26 O27  DOUB N N 51 
+3A2 N28 C29  SING N N 52 
+3A2 N28 C32  SING N N 53 
+3A2 C29 C33  SING N N 54 
+3A2 C29 C30  SING N N 55 
+3A2 C29 H29  SING N N 56 
+3A2 C33 O34  DOUB N N 57 
+3A2 C30 C31  SING N N 58 
+3A2 C30 H30  SING N N 59 
+3A2 C30 H30A SING N N 60 
+3A2 C31 C32  SING N N 61 
+3A2 C31 H31  SING N N 62 
+3A2 C31 H31A SING N N 63 
+3A2 C32 H32  SING N N 64 
+3A2 C32 H32A SING N N 65 
+3A2 N35 C36  SING N N 66 
+3A2 N35 HN35 SING N N 67 
+3A2 C36 C41  SING N N 68 
+3A2 C36 C37  SING N N 69 
+3A2 C36 H36  SING N N 70 
+3A2 C41 O43  DOUB N N 71 
+3A2 C41 O42  SING N N 72 
+3A2 C37 C38  SING N N 73 
+3A2 C37 H37  SING N N 74 
+3A2 C37 H37A SING N N 75 
+3A2 C38 C39  SING N N 76 
+3A2 C38 H38  SING N N 77 
+3A2 C38 H38A SING N N 78 
+3A2 C39 C40  SING N N 79 
+3A2 C39 H39  SING N N 80 
+3A2 C39 H39A SING N N 81 
+3A2 C40 H40  SING N N 82 
+3A2 C40 H40A SING N N 83 
+3A2 C40 H40B SING N N 84 
+3A2 O42 HO42 SING N N 85 
+3A2 C3  N5   SING N N 86 
+3A2 C10 N12  SING N N 87 
+3A2 C26 N28  SING N N 88 
+3A2 C33 N35  SING N N 89 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3A2 SMILES           ACDLabs              12.01 "O=C(NC(Cc1ccccc1)P(=O)(O)CCC(=O)N2C(C(=O)NC(C(=O)O)CCCC)CCC2)C3N(C(=O)CN)CCC3" 
+3A2 SMILES_CANONICAL CACTVS               3.370 "CCCC[C@@H](NC(=O)[C@@H]1CCCN1C(=O)CC[P](O)(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]3CCCN3C(=O)CN)C(O)=O" 
+3A2 SMILES           CACTVS               3.370 "CCCC[CH](NC(=O)[CH]1CCCN1C(=O)CC[P](O)(=O)[CH](Cc2ccccc2)NC(=O)[CH]3CCCN3C(=O)CN)C(O)=O" 
+3A2 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CCCCC(C(=O)O)NC(=O)C1CCCN1C(=O)CC[P@](=O)([C@H](Cc2ccccc2)NC(=O)[C@@H]3CCCN3C(=O)CN)O" 
+3A2 SMILES           "OpenEye OEToolkits" 1.7.0 "CCCCC(C(=O)O)NC(=O)C1CCCN1C(=O)CCP(=O)(C(Cc2ccccc2)NC(=O)C3CCCN3C(=O)CN)O" 
+3A2 InChI            InChI                1.03  
+"InChI=1S/C29H44N5O8P/c1-2-3-11-21(29(39)40)31-27(37)22-12-7-15-33(22)25(35)14-17-43(41,42)24(18-20-9-5-4-6-10-20)32-28(38)23-13-8-16-34(23)26(36)19-30/h4-6,9-10,21-24H,2-3,7-8,11-19,30H2,1H3,(H,31,37)(H,32,38)(H,39,40)(H,41,42)/t21-,22+,23+,24-/m1/s1" 
+3A2 InChIKey         InChI                1.03  RGKHYNIRACSICF-NAVOZUGXSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3A2 "SYSTEMATIC NAME" ACDLabs              12.01 "1-{3-[(R)-{(1R)-1-[(glycyl-L-prolyl)amino]-2-phenylethyl}(hydroxy)phosphoryl]propanoyl}-L-prolyl-D-norleucine"                                                        
+3A2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "2-[[1-[3-[[(1R)-1-[[(2S)-1-(2-azanylethanoyl)pyrrolidin-2-yl]carbonylamino]-2-phenyl-ethyl]-hydroxy-phosphoryl]propanoyl]pyrrolidin-2-yl]carbonylamino]hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3A2 "Create component"     2010-02-05 RCSB 
+3A2 "Modify aromatic_flag" 2011-06-04 RCSB 
+3A2 "Modify descriptor"    2011-06-04 RCSB 
+# 

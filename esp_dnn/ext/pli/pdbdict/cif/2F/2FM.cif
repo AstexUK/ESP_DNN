@@ -1,0 +1,126 @@
+data_2FM
+# 
+_chem_comp.id                                    2FM 
+_chem_comp.name                                  "S-(DIFLUOROMETHYL)HOMOCYSTEINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 F2 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               MET 
+_chem_comp.pdbx_synonyms                         DIFLUOROMETHIONINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-05-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.192 
+_chem_comp.one_letter_code                       M 
+_chem_comp.three_letter_code                     2FM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PFV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2FM O   O   O 0 1 N N N 15.734 10.301 21.480 -1.189 0.621  3.895  O   2FM 1  
+2FM C   C   C 0 1 N N N 15.145 11.118 20.766 -0.120 0.068  3.302  C   2FM 2  
+2FM OXT OXT O 0 1 N Y N 15.291 12.326 20.866 0.502  -0.799 3.867  OXT 2FM 3  
+2FM CA  CA  C 0 1 N N S 14.173 10.580 19.719 0.303  0.529  1.931  CA  2FM 4  
+2FM N   N   N 0 1 N N N 14.576 9.198  19.581 1.757  0.376  1.791  N   2FM 5  
+2FM CB  CB  C 0 1 N N N 12.717 10.716 20.179 -0.403 -0.315 0.868  CB  2FM 6  
+2FM CG  CG  C 0 1 N N N 11.711 10.197 19.155 0.027  0.152  -0.523 CG  2FM 7  
+2FM SD  SD  S 0 1 N N N 10.051 10.419 19.813 -0.810 -0.848 -1.783 SD  2FM 8  
+2FM CE  CE  C 0 1 N N N 9.003  9.971  18.392 -0.131 -0.093 -3.286 CE  2FM 9  
+2FM FZ1 FZ1 F 0 1 N N N 9.422  8.806  17.896 -0.470 1.263  -3.321 FZ1 2FM 10 
+2FM FZ2 FZ2 F 0 1 N N N 9.134  10.911 17.452 1.260  -0.227 -3.287 FZ2 2FM 11 
+2FM HO  HO  H 0 1 N N N 15.620 9.361  21.402 -1.461 0.325  4.775  HO  2FM 12 
+2FM HA  HA  H 0 1 N N N 14.210 11.138 18.754 0.033  1.577  1.801  HA  2FM 13 
+2FM HN1 1HN H 0 1 N N N 14.596 8.671  20.454 1.959  -0.603 1.918  HN1 2FM 14 
+2FM HN2 2HN H 0 1 N N N 13.927 8.839  18.881 1.981  0.596  0.832  HN2 2FM 15 
+2FM HB1 1HB H 0 1 N N N 12.487 11.770 20.462 -1.482 -0.201 0.972  HB1 2FM 16 
+2FM HB2 2HB H 0 1 N N N 12.566 10.224 21.168 -0.133 -1.363 0.999  HB2 2FM 17 
+2FM HG1 1HG H 0 1 N N N 11.913 9.142  18.855 1.106  0.039  -0.627 HG1 2FM 18 
+2FM HG2 2HG H 0 1 N N N 11.840 10.670 18.153 -0.242 1.200  -0.653 HG2 2FM 19 
+2FM HE  HE  H 0 1 N N N 7.938  9.889  18.711 -0.545 -0.593 -4.162 HE  2FM 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2FM O  C   SING N N 1  
+2FM O  HO  SING N N 2  
+2FM C  OXT DOUB N N 3  
+2FM C  CA  SING N N 4  
+2FM CA N   SING N N 5  
+2FM CA CB  SING N N 6  
+2FM CA HA  SING N N 7  
+2FM N  HN1 SING N N 8  
+2FM N  HN2 SING N N 9  
+2FM CB CG  SING N N 10 
+2FM CB HB1 SING N N 11 
+2FM CB HB2 SING N N 12 
+2FM CG SD  SING N N 13 
+2FM CG HG1 SING N N 14 
+2FM CG HG2 SING N N 15 
+2FM SD CE  SING N N 16 
+2FM CE FZ1 SING N N 17 
+2FM CE FZ2 SING N N 18 
+2FM CE HE  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2FM SMILES           ACDLabs              10.04 "FC(F)SCCC(C(=O)O)N"                                                            
+2FM SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCSC(F)F)C(O)=O"                                                       
+2FM SMILES           CACTVS               3.341 "N[CH](CCSC(F)F)C(O)=O"                                                         
+2FM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CSC(F)F)[C@@H](C(=O)O)N"                                                     
+2FM SMILES           "OpenEye OEToolkits" 1.5.0 "C(CSC(F)F)C(C(=O)O)N"                                                          
+2FM InChI            InChI                1.03  "InChI=1S/C5H9F2NO2S/c6-5(7)11-2-1-3(8)4(9)10/h3,5H,1-2,8H2,(H,9,10)/t3-/m0/s1" 
+2FM InChIKey         InChI                1.03  YHBNXKYHZMAFED-VKHMYHEASA-N                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2FM "SYSTEMATIC NAME" ACDLabs              10.04 difluoro-L-methionine                                  
+2FM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-(difluoromethylsulfanyl)butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2FM "Create component"  2003-05-28 RCSB 
+2FM "Modify descriptor" 2011-06-04 RCSB 
+# 

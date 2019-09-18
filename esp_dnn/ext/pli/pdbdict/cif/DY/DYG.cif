@@ -1,0 +1,166 @@
+data_DYG
+# 
+_chem_comp.id                                    DYG 
+_chem_comp.name                                  "(3S)-3-amino-3-[(4Z)-1-(carboxymethyl)-4-[(4-hydroxyphenyl)methylidene]-5-oxo-imidazol-2-yl]propanoic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C15 H15 N3 O6" 
+_chem_comp.mon_nstd_parent_comp_id               "ASP, TYR, GLY" 
+_chem_comp.pdbx_synonyms                         "CHROMOPHORE (ASP-TYR-GLY)" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-10-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        333.296 
+_chem_comp.one_letter_code                       DYG 
+_chem_comp.three_letter_code                     DYG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XSS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DYG N    N    N 0 1 N N N 21.168 -1.588 9.731  0.966  2.069  -1.657 N    DYG 1  
+DYG OD2  OD2  O 0 1 N N N 22.564 -5.392 8.295  3.446  3.588  1.350  OD2  DYG 2  
+DYG OD1  OD1  O 0 1 N N N 20.526 -4.677 8.811  3.353  3.198  -0.823 OD1  DYG 3  
+DYG CG1  CG1  C 0 1 N N N 21.773 -4.636 8.920  3.006  2.889  0.292  CG1  DYG 4  
+DYG CB1  CB1  C 0 1 N N N 22.488 -3.652 9.826  2.080  1.718  0.495  CB1  DYG 5  
+DYG CA1  CA1  C 0 1 N N S 21.533 -2.731 10.569 1.732  1.101  -0.861 CA1  DYG 6  
+DYG C1   C1   C 0 1 N N N 22.165 -2.207 11.836 0.907  -0.142 -0.651 C1   DYG 7  
+DYG N2   N2   N 0 1 N N N 23.410 -2.321 12.196 -0.380 -0.147 -0.495 N2   DYG 8  
+DYG N3   N3   N 0 1 N N N 21.474 -1.502 12.810 1.418  -1.409 -0.606 N3   DYG 9  
+DYG C2   C2   C 0 1 N N N 22.322 -1.155 13.852 0.398  -2.273 -0.404 C2   DYG 10 
+DYG O2   O2   O 0 1 N N N 21.932 -0.509 14.855 0.465  -3.485 -0.308 O2   DYG 11 
+DYG CA2  CA2  C 0 1 N N N 23.579 -1.693 13.415 -0.811 -1.434 -0.329 CA2  DYG 12 
+DYG CA3  CA3  C 0 1 N N N 20.069 -1.085 12.834 2.830  -1.769 -0.752 CA3  DYG 13 
+DYG CB2  CB2  C 0 1 N N N 24.735 -1.522 14.172 -2.107 -1.859 -0.135 CB2  DYG 14 
+DYG CG2  CG2  C 0 1 Y N N 26.058 -1.900 13.961 -3.183 -0.879 0.023  CG2  DYG 15 
+DYG CD1  CD1  C 0 1 Y N N 26.459 -2.644 12.816 -4.479 -1.302 0.352  CD1  DYG 16 
+DYG CD2  CD2  C 0 1 Y N N 27.064 -1.522 14.911 -2.921 0.488  -0.147 CD2  DYG 17 
+DYG CE1  CE1  C 0 1 Y N N 27.813 -2.998 12.613 -5.482 -0.380 0.498  CE1  DYG 18 
+DYG CE2  CE2  C 0 1 Y N N 28.415 -1.873 14.703 -3.932 1.401  0.002  CE2  DYG 19 
+DYG CZ   CZ   C 0 1 Y N N 28.797 -2.608 13.555 -5.217 0.974  0.322  CZ   DYG 20 
+DYG OH   OH   O 0 1 N N N 30.090 -2.922 13.387 -6.214 1.883  0.468  OH   DYG 21 
+DYG C    C    C 0 1 N N N 19.111 -1.630 13.865 3.491  -1.771 0.602  C    DYG 22 
+DYG O    O    O 0 1 N N N 18.125 -0.977 14.191 2.848  -1.500 1.589  O    DYG 23 
+DYG OXT  OXT  O 0 1 N Y N 19.317 -2.871 14.277 4.794  -2.075 0.713  OXT  DYG 24 
+DYG HXT  HXT  H 0 1 N Y N 18.600 -3.142 14.838 5.173  -2.063 1.603  HXT  DYG 25 
+DYG HD2  HD2  H 0 1 N N N 22.067 -5.983 7.742  4.039  4.331  1.170  HD2  DYG 26 
+DYG HB11 1HB1 H 0 0 N N N 23.067 -4.222 10.568 2.570  0.970  1.120  HB11 DYG 27 
+DYG HB12 2HB1 H 0 0 N N N 23.130 -3.023 9.192  1.167  2.057  0.985  HB12 DYG 28 
+DYG HA1  HA1  H 0 1 N N N 20.637 -3.318 10.819 2.651  0.842  -1.388 HA1  DYG 29 
+DYG HN1  1HN  H 0 1 N N N 21.085 -0.770 10.300 0.780  1.710  -2.582 HN1  DYG 30 
+DYG HN2  2HN  H 0 1 N Y N 21.876 -1.442 9.040  0.110  2.325  -1.189 HN2  DYG 31 
+DYG HB2  HB2  H 0 1 N N N 24.574 -0.995 15.101 -2.329 -2.916 -0.099 HB2  DYG 32 
+DYG H1   H1   H 0 1 N N N 26.785 -0.964 15.793 -1.924 0.821  -0.395 H1   DYG 33 
+DYG HE2  HE2  H 0 1 N N N 29.163 -1.579 15.425 -3.732 2.454  -0.129 HE2  DYG 34 
+DYG HOH  HOH  H 0 1 N N N 30.280 -2.996 12.459 -6.310 2.220  1.369  HOH  DYG 35 
+DYG HE1  HE1  H 0 1 N N N 28.097 -3.566 11.739 -6.481 -0.705 0.751  HE1  DYG 36 
+DYG HD1  HD1  H 0 1 N N N 25.717 -2.943 12.090 -4.686 -2.353 0.488  HD1  DYG 37 
+DYG HA31 1HA3 H 0 0 N N N 20.083 0.004  12.986 2.908  -2.761 -1.196 HA31 DYG 38 
+DYG HA32 2HA3 H 0 0 N N N 19.674 -1.489 11.890 3.326  -1.042 -1.396 HA32 DYG 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DYG N   CA1  SING N N 1  
+DYG N   HN1  SING N N 2  
+DYG N   HN2  SING N N 3  
+DYG OD2 HD2  SING N N 4  
+DYG OD2 CG1  SING N N 5  
+DYG OD1 CG1  DOUB N N 6  
+DYG CG1 CB1  SING N N 7  
+DYG CB1 HB11 SING N N 8  
+DYG CB1 HB12 SING N N 9  
+DYG CB1 CA1  SING N N 10 
+DYG CA1 HA1  SING N N 11 
+DYG CA1 C1   SING N N 12 
+DYG C1  N2   DOUB N N 13 
+DYG C1  N3   SING N N 14 
+DYG N2  CA2  SING N N 15 
+DYG N3  C2   SING N N 16 
+DYG N3  CA3  SING N N 17 
+DYG C2  CA2  SING N N 18 
+DYG C2  O2   DOUB N N 19 
+DYG CA2 CB2  DOUB N Z 20 
+DYG CA3 HA31 SING N N 21 
+DYG CA3 HA32 SING N N 22 
+DYG CA3 C    SING N N 23 
+DYG CB2 HB2  SING N N 24 
+DYG CB2 CG2  SING N N 25 
+DYG CG2 CD2  DOUB Y N 26 
+DYG CG2 CD1  SING Y N 27 
+DYG CD1 CE1  DOUB Y N 28 
+DYG CD1 HD1  SING N N 29 
+DYG CD2 H1   SING N N 30 
+DYG CD2 CE2  SING Y N 31 
+DYG CE1 CZ   SING Y N 32 
+DYG CE1 HE1  SING N N 33 
+DYG CE2 HE2  SING N N 34 
+DYG CE2 CZ   DOUB Y N 35 
+DYG CZ  OH   SING N N 36 
+DYG OH  HOH  SING N N 37 
+DYG C   O    DOUB N N 38 
+DYG C   OXT  SING N N 39 
+DYG OXT HXT  SING N N 40 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DYG SMILES           ACDLabs              10.04 "O=C(O)CC(N)C1=N/C(C(=O)N1CC(=O)O)=C\c2ccc(O)cc2"                                                                                                    
+DYG SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC(O)=O)C1=N\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"                                                                                               
+DYG SMILES           CACTVS               3.341 "N[CH](CC(O)=O)C1=NC(=Cc2ccc(O)cc2)C(=O)N1CC(O)=O"                                                                                                   
+DYG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1\C=C/2\C(=O)N(C(=N2)[C@H](CC(=O)O)N)CC(=O)O)O"                                                                                             
+DYG SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1C=C2C(=O)N(C(=N2)C(CC(=O)O)N)CC(=O)O)O"                                                                                                    
+DYG InChI            InChI                1.03  "InChI=1S/C15H15N3O6/c16-10(6-12(20)21)14-17-11(15(24)18(14)7-13(22)23)5-8-1-3-9(19)4-2-8/h1-5,10,19H,6-7,16H2,(H,20,21)(H,22,23)/b11-5-/t10-/m0/s1" 
+DYG InChIKey         InChI                1.03  PGTRRWBPGBMHIF-QIMWGGGBSA-N                                                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DYG "SYSTEMATIC NAME" ACDLabs              10.04 "(3S)-3-amino-3-{(4Z)-1-(carboxymethyl)-4-[(4-hydroxyphenyl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-2-yl}propanoic acid" 
+DYG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3S)-3-amino-3-[(4Z)-1-(carboxymethyl)-4-[(4-hydroxyphenyl)methylidene]-5-oxo-imidazol-2-yl]propanoic acid"                
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DYG "Create component"  2004-10-25 RCSB 
+DYG "Modify descriptor" 2011-06-04 RCSB 
+# 

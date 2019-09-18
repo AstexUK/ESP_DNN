@@ -1,0 +1,115 @@
+data_ANL
+# 
+_chem_comp.id                                    ANL 
+_chem_comp.name                                  ANILINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        93.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ANL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PPA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ANL C1  C1  C 0 1 Y N N 49.599 18.240 23.151 0.000  -0.001 0.923  C1  ANL 1  
+ANL C2  C2  C 0 1 Y N N 48.519 17.217 23.497 -1.202 0.000  0.226  C2  ANL 2  
+ANL C3  C3  C 0 1 Y N N 47.174 17.918 23.232 -1.198 0.000  -1.154 C3  ANL 3  
+ANL C4  C4  C 0 1 Y N N 47.381 19.356 22.783 0.000  -0.000 -1.844 C4  ANL 4  
+ANL C5  C5  C 0 1 Y N N 48.290 19.578 21.590 1.198  -0.001 -1.154 C5  ANL 5  
+ANL C6  C6  C 0 1 Y N N 49.477 18.612 21.688 1.202  0.003  0.226  C6  ANL 6  
+ANL N   N   N 0 1 N N N 50.343 17.224 23.618 0.000  -0.001 2.319  N   ANL 7  
+ANL H2  H2  H 0 1 N N N 48.677 16.188 23.861 -2.138 0.000  0.765  H2  ANL 8  
+ANL H3  H3  H 0 1 N N N 46.183 17.447 23.349 -2.132 0.001  -1.695 H3  ANL 9  
+ANL H4  H4  H 0 1 N N N 46.893 20.200 23.299 0.000  -0.000 -2.924 H4  ANL 10 
+ANL H5  H5  H 0 1 N N N 48.117 20.315 20.788 2.132  -0.002 -1.695 H5  ANL 11 
+ANL H6  H6  H 0 1 N N N 50.118 18.254 20.865 2.138  0.002  0.765  H6  ANL 12 
+ANL HN1 1HN H 0 1 N N N 51.064 17.907 23.386 0.840  -0.002 2.804  HN1 ANL 13 
+ANL HN2 2HN H 0 1 N N N 50.310 16.265 23.270 -0.840 0.004  2.804  HN2 ANL 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ANL C1 C2  DOUB Y N 1  
+ANL C1 C6  SING Y N 2  
+ANL C1 N   SING N N 3  
+ANL C2 C3  SING Y N 4  
+ANL C2 H2  SING N N 5  
+ANL C3 C4  DOUB Y N 6  
+ANL C3 H3  SING N N 7  
+ANL C4 C5  SING Y N 8  
+ANL C4 H4  SING N N 9  
+ANL C5 C6  DOUB Y N 10 
+ANL C5 H5  SING N N 11 
+ANL C6 H6  SING N N 12 
+ANL N  HN1 SING N N 13 
+ANL N  HN2 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ANL SMILES           ACDLabs              10.04 Nc1ccccc1                                 
+ANL SMILES_CANONICAL CACTVS               3.341 Nc1ccccc1                                 
+ANL SMILES           CACTVS               3.341 Nc1ccccc1                                 
+ANL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)N"                             
+ANL SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)N"                             
+ANL InChI            InChI                1.03  InChI=1S/C6H7N/c7-6-4-2-1-3-5-6/h1-5H,7H2 
+ANL InChIKey         InChI                1.03  PAYRUJLWNCNPSJ-UHFFFAOYSA-N               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ANL "SYSTEMATIC NAME" ACDLabs              10.04 aniline 
+ANL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 aniline 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ANL "Create component"  1999-07-08 RCSB 
+ANL "Modify descriptor" 2011-06-04 RCSB 
+# 

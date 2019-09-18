@@ -1,0 +1,126 @@
+data_MND
+# 
+_chem_comp.id                                    MND 
+_chem_comp.name                                  N-methyl-D-asparagine 
+_chem_comp.type                                  "D-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.144 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     MND 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RPL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MND N    N    N 0 1 N N N 8.200 1.610  -0.920 -0.787 1.699  -0.097 N    MND 1  
+MND CA   CA   C 0 1 N N R 8.323 1.545  -2.363 -0.893 0.301  0.341  CA   MND 2  
+MND CB   CB   C 0 1 N N N 7.978 2.897  -3.040 0.155  -0.542 -0.388 CB   MND 3  
+MND CG   CG   C 0 1 N N N 7.111 3.926  -2.291 1.534  -0.098 0.026  CG   MND 4  
+MND OD1  OD1  O 0 1 N N N 6.570 3.701  -1.210 1.666  0.804  0.826  OD1  MND 5  
+MND ND2  ND2  N 0 1 N N N 7.233 5.204  -2.674 2.621  -0.704 -0.492 ND2  MND 6  
+MND CE2  CE2  C 0 1 N N N 6.323 6.272  -2.283 3.962  -0.272 -0.090 CE2  MND 7  
+MND C    C    C 0 1 N N N 7.463 0.403  -2.892 -2.270 -0.223 0.022  C    MND 8  
+MND O    O    O 0 1 N N N 6.246 0.431  -2.716 -2.948 0.331  -0.811 O    MND 9  
+MND OXT  OXT  O 0 1 N Y N 8.076 -0.651 -3.447 -2.742 -1.303 0.663  OXT  MND 10 
+MND H    H    H 0 1 N N N 8.431 0.721  -0.525 -0.942 1.780  -1.090 H    MND 11 
+MND H2   H2   H 0 1 N Y N 8.824 2.305  -0.563 -1.425 2.288  0.417  H2   MND 12 
+MND HA   HA   H 0 1 N N N 9.374 1.343  -2.618 -0.722 0.243  1.416  HA   MND 13 
+MND HB2  HB2  H 0 1 N N N 8.939 3.394  -3.241 0.019  -1.593 -0.131 HB2  MND 14 
+MND HB3  HB3  H 0 1 N N N 7.431 2.648  -3.962 0.040  -0.414 -1.464 HB3  MND 15 
+MND HD2  HD2  H 0 1 N N N 8.001 5.441  -3.269 2.516  -1.425 -1.132 HD2  MND 16 
+MND HE21 HE21 H 0 0 N N N 6.653 7.219  -2.735 4.098  0.779  -0.347 HE21 MND 17 
+MND HE22 HE22 H 0 0 N N N 5.307 6.034  -2.631 4.077  -0.400 0.987  HE22 MND 18 
+MND HE23 HE23 H 0 0 N N N 6.322 6.370  -1.187 4.708  -0.873 -0.609 HE23 MND 19 
+MND HXT  HXT  H 0 1 N Y N 7.432 -1.317 -3.659 -3.630 -1.602 0.425  HXT  MND 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MND N   CA   SING N N 1  
+MND CA  CB   SING N N 2  
+MND CA  C    SING N N 3  
+MND CB  CG   SING N N 4  
+MND CG  OD1  DOUB N N 5  
+MND CG  ND2  SING N N 6  
+MND ND2 CE2  SING N N 7  
+MND C   O    DOUB N N 8  
+MND C   OXT  SING N N 9  
+MND N   H    SING N N 10 
+MND N   H2   SING N N 11 
+MND CA  HA   SING N N 12 
+MND CB  HB2  SING N N 13 
+MND CB  HB3  SING N N 14 
+MND ND2 HD2  SING N N 15 
+MND CE2 HE21 SING N N 16 
+MND CE2 HE22 SING N N 17 
+MND CE2 HE23 SING N N 18 
+MND OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MND SMILES           ACDLabs              11.02 "O=C(NC)CC(N)C(=O)O"                                                               
+MND SMILES_CANONICAL CACTVS               3.352 "CNC(=O)C[C@@H](N)C(O)=O"                                                          
+MND SMILES           CACTVS               3.352 "CNC(=O)C[CH](N)C(O)=O"                                                            
+MND SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CNC(=O)C[C@H](C(=O)O)N"                                                           
+MND SMILES           "OpenEye OEToolkits" 1.7.0 "CNC(=O)CC(C(=O)O)N"                                                               
+MND InChI            InChI                1.03  "InChI=1S/C5H10N2O3/c1-7-4(8)2-3(6)5(9)10/h3H,2,6H2,1H3,(H,7,8)(H,9,10)/t3-/m1/s1" 
+MND InChIKey         InChI                1.03  CFRMVEKWKKDNAH-GSVOUGTGSA-N                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MND "SYSTEMATIC NAME" ACDLabs              11.02 N-methyl-D-asparagine                               
+MND "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2R)-2-azanyl-4-(methylamino)-4-oxo-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MND "Create component"  2008-06-02 PDBJ 
+MND "Modify descriptor" 2011-06-04 RCSB 
+# 

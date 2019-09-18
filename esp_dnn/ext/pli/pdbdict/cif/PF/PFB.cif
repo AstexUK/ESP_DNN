@@ -1,0 +1,119 @@
+data_PFB
+# 
+_chem_comp.id                                    PFB 
+_chem_comp.name                                  "2,3,4,5,6-PENTAFLUOROBENZYL ALCOHOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H3 F5 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        198.090 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PFB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HLD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PFB C1  C1  C 0 1 Y N N 6.171 24.634 16.664 0.000  0.231  1.126  C1  PFB 1  
+PFB C2  C2  C 0 1 Y N N 5.774 25.916 16.327 -1.198 0.157  0.438  C2  PFB 2  
+PFB C3  C3  C 0 1 Y N N 4.431 26.233 16.233 -1.200 0.009  -0.939 C3  PFB 3  
+PFB C4  C4  C 0 1 Y N N 3.475 25.277 16.475 -0.000 -0.066 -1.628 C4  PFB 4  
+PFB C5  C5  C 0 1 Y N N 3.874 23.964 16.831 1.199  0.007  -0.939 C5  PFB 5  
+PFB C6  C6  C 0 1 Y N N 5.236 23.624 16.932 1.199  0.162  0.437  C6  PFB 6  
+PFB C7  C7  C 0 1 N N N 7.564 24.371 16.591 0.000  0.393  2.624  C7  PFB 7  
+PFB F2  F2  F 0 1 N N N 6.686 26.814 16.089 -2.368 0.231  1.111  F2  PFB 8  
+PFB F3  F3  F 0 1 N N N 4.030 27.437 15.929 -2.370 -0.062 -1.610 F3  PFB 9  
+PFB F4  F4  F 0 1 N N N 2.223 25.641 16.347 -0.000 -0.210 -2.971 F4  PFB 10 
+PFB F5  F5  F 0 1 N N N 2.979 23.046 17.072 2.369  -0.065 -1.610 F5  PFB 11 
+PFB F6  F6  F 0 1 N N N 5.592 22.394 17.253 2.368  0.233  1.109  F6  PFB 12 
+PFB O1  O1  O 0 1 N N N 7.980 23.828 17.816 0.000  -0.894 3.243  O1  PFB 13 
+PFB H71 1H7 H 0 1 N N N 7.832 23.724 15.723 -0.889 0.944  2.930  H71 PFB 14 
+PFB H72 2H7 H 0 1 N N N 8.154 25.270 16.299 0.891  0.943  2.930  H72 PFB 15 
+PFB HO1 HO1 H 0 1 N N N 8.912 23.652 17.767 0.000  -0.745 4.198  HO1 PFB 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PFB C1 C2  DOUB Y N 1  
+PFB C1 C6  SING Y N 2  
+PFB C1 C7  SING N N 3  
+PFB C2 C3  SING Y N 4  
+PFB C2 F2  SING N N 5  
+PFB C3 C4  DOUB Y N 6  
+PFB C3 F3  SING N N 7  
+PFB C4 C5  SING Y N 8  
+PFB C4 F4  SING N N 9  
+PFB C5 C6  DOUB Y N 10 
+PFB C5 F5  SING N N 11 
+PFB C6 F6  SING N N 12 
+PFB C7 O1  SING N N 13 
+PFB C7 H71 SING N N 14 
+PFB C7 H72 SING N N 15 
+PFB O1 HO1 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PFB SMILES           ACDLabs              10.04 "Fc1c(c(F)c(F)c(F)c1F)CO"                                    
+PFB SMILES_CANONICAL CACTVS               3.341 "OCc1c(F)c(F)c(F)c(F)c1F"                                    
+PFB SMILES           CACTVS               3.341 "OCc1c(F)c(F)c(F)c(F)c1F"                                    
+PFB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(c1c(c(c(c(c1F)F)F)F)F)O"                                  
+PFB SMILES           "OpenEye OEToolkits" 1.5.0 "C(c1c(c(c(c(c1F)F)F)F)F)O"                                  
+PFB InChI            InChI                1.03  "InChI=1S/C7H3F5O/c8-3-2(1-13)4(9)6(11)7(12)5(3)10/h13H,1H2" 
+PFB InChIKey         InChI                1.03  PGJYYCIOYBZTPU-UHFFFAOYSA-N                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PFB "SYSTEMATIC NAME" ACDLabs              10.04 "(pentafluorophenyl)methanol"           
+PFB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2,3,4,5,6-pentafluorophenyl)methanol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PFB "Create component"  1999-07-08 RCSB 
+PFB "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,137 @@
+data_APP
+# 
+_chem_comp.id                                    APP 
+_chem_comp.name                                  1-ACETYL-2-CARBOXYPIPERIDINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C8 H13 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        171.194 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     APP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EFR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+APP N1   N1   N 0 1 N N N 99.231  78.807 68.111 0.520  0.345  -0.462 N1   APP 1  
+APP C    C    C 0 1 N N N 99.595  79.933 69.040 1.545  0.011  0.346  C    APP 2  
+APP O    O    O 0 1 N N N 100.619 79.687 70.136 1.364  -0.096 1.541  O    APP 3  
+APP CM   CM   C 0 1 N N N 98.832  81.242 68.984 2.915  -0.229 -0.232 CM   APP 4  
+APP C2   C2   C 0 1 N N S 100.049 77.624 68.139 -0.846 0.452  0.065  C2   APP 5  
+APP "C'" "C'" C 0 1 N N N 100.749 77.504 66.813 -0.876 -0.009 1.499  "C'" APP 6  
+APP O1   O1   O 0 1 N N N 100.817 78.512 66.117 -0.672 -1.170 1.764  O1   APP 7  
+APP O2   O2   O 0 1 N Y N 101.237 76.300 66.507 -1.130 0.868  2.482  O2   APP 8  
+APP C3   C3   C 0 1 N N N 99.307  76.361 68.583 -1.773 -0.424 -0.774 C3   APP 9  
+APP C4   C4   C 0 1 N N N 97.832  76.324 68.194 -1.637 -0.040 -2.249 C4   APP 10 
+APP C5   C5   C 0 1 N N N 97.140  77.662 68.372 -0.197 -0.278 -2.709 C5   APP 11 
+APP C6   C6   C 0 1 N N N 97.873  78.715 67.581 0.748  0.605  -1.890 C6   APP 12 
+APP HM1  1HM  H 0 1 N N N 99.101  82.076 69.672 3.608  -0.487 0.568  HM1  APP 13 
+APP HM2  2HM  H 0 1 N N N 98.865  81.624 67.937 2.867  -1.048 -0.949 HM2  APP 14 
+APP HM3  3HM  H 0 1 N N N 97.745  81.021 69.106 3.260  0.674  -0.735 HM3  APP 15 
+APP H2   H2   H 0 1 N Y N 100.818 77.732 68.938 -1.174 1.490  0.008  H2   APP 16 
+APP HO2  HO2  H 0 1 N N N 101.679 76.224 65.669 -1.149 0.572  3.402  HO2  APP 17 
+APP H31  1H3  H 0 1 N N N 99.830  75.451 68.207 -2.805 -0.277 -0.453 H31  APP 18 
+APP H32  2H3  H 0 1 N N N 99.422  76.208 69.681 -1.497 -1.471 -0.644 H32  APP 19 
+APP H41  1H4  H 0 1 N N N 97.703  75.944 67.153 -1.889 1.012  -2.375 H41  APP 20 
+APP H42  2H4  H 0 1 N N N 97.293  75.520 68.748 -2.315 -0.650 -2.847 H42  APP 21 
+APP H51  1H5  H 0 1 N N N 96.057  77.615 68.109 -0.106 -0.026 -3.766 H51  APP 22 
+APP H52  2H5  H 0 1 N N N 97.031  77.940 69.446 0.063  -1.326 -2.560 H52  APP 23 
+APP H61  1H6  H 0 1 N N N 97.344  79.696 67.573 0.548  1.654  -2.107 H61  APP 24 
+APP H62  2H6  H 0 1 N N N 97.849  78.525 66.482 1.781  0.368  -2.144 H62  APP 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+APP N1   C    SING N N 1  
+APP N1   C2   SING N N 2  
+APP N1   C6   SING N N 3  
+APP C    O    DOUB N N 4  
+APP C    CM   SING N N 5  
+APP CM   HM1  SING N N 6  
+APP CM   HM2  SING N N 7  
+APP CM   HM3  SING N N 8  
+APP C2   "C'" SING N N 9  
+APP C2   C3   SING N N 10 
+APP C2   H2   SING N N 11 
+APP "C'" O1   DOUB N N 12 
+APP "C'" O2   SING N N 13 
+APP O2   HO2  SING N N 14 
+APP C3   C4   SING N N 15 
+APP C3   H31  SING N N 16 
+APP C3   H32  SING N N 17 
+APP C4   C5   SING N N 18 
+APP C4   H41  SING N N 19 
+APP C4   H42  SING N N 20 
+APP C5   C6   SING N N 21 
+APP C5   H51  SING N N 22 
+APP C5   H52  SING N N 23 
+APP C6   H61  SING N N 24 
+APP C6   H62  SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+APP SMILES           ACDLabs              10.04 "O=C(N1C(C(=O)O)CCCC1)C"                                                            
+APP SMILES_CANONICAL CACTVS               3.341 "CC(=O)N1CCCC[C@H]1C(O)=O"                                                          
+APP SMILES           CACTVS               3.341 "CC(=O)N1CCCC[CH]1C(O)=O"                                                           
+APP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)N1CCCC[C@H]1C(=O)O"                                                          
+APP SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)N1CCCCC1C(=O)O"                                                              
+APP InChI            InChI                1.03  "InChI=1S/C8H13NO3/c1-6(10)9-5-3-2-4-7(9)8(11)12/h7H,2-5H2,1H3,(H,11,12)/t7-/m0/s1" 
+APP InChIKey         InChI                1.03  JACZWLDAHFCGCC-ZETCQYMHSA-N                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+APP "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-1-acetylpiperidine-2-carboxylic acid"   
+APP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-1-ethanoylpiperidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+APP "Create component"  1999-07-08 RCSB 
+APP "Modify descriptor" 2011-06-04 RCSB 
+# 

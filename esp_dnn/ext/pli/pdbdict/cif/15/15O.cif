@@ -1,0 +1,124 @@
+data_15O
+# 
+_chem_comp.id                                    15O 
+_chem_comp.name                                  1-chloronaphthalene 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H7 Cl" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-15 
+_chem_comp.pdbx_modified_date                    2013-10-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.616 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     15O 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4HJL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+15O C01 C01 C  0 1 Y N N 13.111 53.393 81.951 2.866  0.841  0.001  C01 15O 1  
+15O C02 C02 C  0 1 Y N N 13.359 53.534 80.583 1.906  1.851  0.000  C02 15O 2  
+15O C03 C03 C  0 1 Y N N 13.813 52.443 79.842 0.577  1.555  0.000  C03 15O 3  
+15O C04 C04 C  0 1 Y N N 14.027 51.179 80.479 0.164  0.213  -0.000 C04 15O 4  
+15O C05 C05 C  0 1 Y N N 13.780 51.052 81.822 1.141  -0.815 -0.001 C05 15O 5  
+15O C06 C06 C  0 1 Y N N 13.313 52.168 82.580 2.503  -0.471 0.000  C06 15O 6  
+15O C07 C07 C  0 1 Y N N 13.984 49.800 82.475 0.727  -2.158 -0.000 C07 15O 7  
+15O C08 C08 C  0 1 Y N N 14.442 48.701 81.753 -0.601 -2.455 0.001  C08 15O 8  
+15O C09 C09 C  0 1 Y N N 14.699 48.826 80.385 -1.562 -1.445 0.000  C09 15O 9  
+15O C10 C10 C  0 1 Y N N 14.496 50.044 79.741 -1.199 -0.132 -0.000 C10 15O 10 
+15O CL1 CL1 CL 0 0 N N N 14.829 50.127 78.044 -2.414 1.108  -0.000 CL1 15O 11 
+15O H1  H1  H  0 1 N N N 12.761 54.239 82.523 3.914  1.103  -0.004 H1  15O 12 
+15O H2  H2  H  0 1 N N N 13.199 54.487 80.100 2.221  2.884  0.001  H2  15O 13 
+15O H3  H3  H  0 1 N N N 14.004 52.552 78.785 -0.156 2.349  0.001  H3  15O 14 
+15O H4  H4  H  0 1 N N N 13.117 52.062 83.637 3.258  -1.243 -0.004 H4  15O 15 
+15O H5  H5  H  0 1 N N N 13.783 49.704 83.532 1.460  -2.951 -0.001 H5  15O 16 
+15O H6  H6  H  0 1 N N N 14.598 47.754 82.249 -0.915 -3.488 0.001  H6  15O 17 
+15O H7  H7  H  0 1 N N N 15.056 47.975 79.825 -2.609 -1.708 0.000  H7  15O 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+15O CL1 C10 SING N N 1  
+15O C10 C09 DOUB Y N 2  
+15O C10 C04 SING Y N 3  
+15O C03 C04 DOUB Y N 4  
+15O C03 C02 SING Y N 5  
+15O C09 C08 SING Y N 6  
+15O C04 C05 SING Y N 7  
+15O C02 C01 DOUB Y N 8  
+15O C08 C07 DOUB Y N 9  
+15O C05 C07 SING Y N 10 
+15O C05 C06 DOUB Y N 11 
+15O C01 C06 SING Y N 12 
+15O C01 H1  SING N N 13 
+15O C02 H2  SING N N 14 
+15O C03 H3  SING N N 15 
+15O C06 H4  SING N N 16 
+15O C07 H5  SING N N 17 
+15O C08 H6  SING N N 18 
+15O C09 H7  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+15O SMILES           ACDLabs              12.01 Clc2cccc1ccccc12                                       
+15O InChI            InChI                1.03  "InChI=1S/C10H7Cl/c11-10-7-3-5-8-4-1-2-6-9(8)10/h1-7H" 
+15O InChIKey         InChI                1.03  JTPNRXUCIXHOKM-UHFFFAOYSA-N                            
+15O SMILES_CANONICAL CACTVS               3.370 Clc1cccc2ccccc12                                       
+15O SMILES           CACTVS               3.370 Clc1cccc2ccccc12                                       
+15O SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)cccc2Cl"                                   
+15O SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)cccc2Cl"                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+15O "SYSTEMATIC NAME" ACDLabs              12.01 1-chloronaphthalene    
+15O "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 1-chloranylnaphthalene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+15O "Create component" 2012-10-15 RCSB 
+15O "Initial release"  2013-10-16 RCSB 
+# 

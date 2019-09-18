@@ -1,0 +1,123 @@
+data_BHA
+# 
+_chem_comp.id                                    BHA 
+_chem_comp.name                                  "2-HYDROXY-4-AMINOBENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        153.135 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BHA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PBF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BHA "C1'"  "C1'"  C 0 1 N N N 17.107 97.008 45.813 0.286  0.005  -2.020 "C1'"  BHA 1  
+BHA "O1'"  "O1'"  O 0 1 N N N 18.017 97.725 46.274 -0.749 0.016  -2.656 "O1'"  BHA 2  
+BHA "O2'"  "O2'"  O 0 1 N N N 16.092 97.513 45.303 1.471  -0.007 -2.662 "O2'"  BHA 3  
+BHA C1     C1     C 0 1 Y N N 17.161 95.601 45.859 0.246  0.004  -0.550 C1     BHA 4  
+BHA C2     C2     C 0 1 Y N N 18.373 95.004 46.249 -0.987 0.017  0.121  C2     BHA 5  
+BHA C3     C3     C 0 1 Y N N 18.565 93.642 46.164 -1.014 0.010  1.504  C3     BHA 6  
+BHA C4     C4     C 0 1 Y N N 17.543 92.813 45.690 0.177  0.002  2.220  C4     BHA 7  
+BHA C5     C5     C 0 1 Y N N 16.302 93.384 45.300 1.399  -0.009 1.549  C5     BHA 8  
+BHA C6     C6     C 0 1 Y N N 16.127 94.763 45.383 1.436  -0.008 0.185  C6     BHA 9  
+BHA O2     O2     O 0 1 N N N 19.383 95.613 46.791 -2.146 0.030  -0.583 O2     BHA 10 
+BHA N4     N4     N 0 1 N N N 17.808 91.497 45.599 0.149  0.001  3.610  N4     BHA 11 
+BHA "HO2'" "'HO2" H 0 0 N N N 15.398 96.966 44.951 1.498  -0.006 -3.628 "HO2'" BHA 12 
+BHA H3     H3     H 0 1 N N N 19.534 93.216 46.474 -1.959 0.019  2.027  H3     BHA 13 
+BHA H5     H5     H 0 1 N N N 15.473 92.755 44.932 2.320  -0.019 2.112  H5     BHA 14 
+BHA H6     H6     H 0 1 N N N 15.161 95.194 45.069 2.387  -0.017 -0.327 H6     BHA 15 
+BHA HO2    HO2    H 0 1 N N N 20.201 95.209 47.054 -2.395 -0.892 -0.729 HO2    BHA 16 
+BHA HN41   1HN4   H 0 0 N N N 17.062 90.892 45.253 0.980  -0.007 4.111  HN41   BHA 17 
+BHA HN42   2HN4   H 0 0 N N N 18.130 91.153 46.503 -0.699 0.014  4.078  HN42   BHA 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BHA "C1'" "O1'"  DOUB N N 1  
+BHA "C1'" "O2'"  SING N N 2  
+BHA "C1'" C1     SING N N 3  
+BHA "O2'" "HO2'" SING N N 4  
+BHA C1    C2     SING Y N 5  
+BHA C1    C6     DOUB Y N 6  
+BHA C2    C3     DOUB Y N 7  
+BHA C2    O2     SING N N 8  
+BHA C3    C4     SING Y N 9  
+BHA C3    H3     SING N N 10 
+BHA C4    C5     DOUB Y N 11 
+BHA C4    N4     SING N N 12 
+BHA C5    C6     SING Y N 13 
+BHA C5    H5     SING N N 14 
+BHA C6    H6     SING N N 15 
+BHA O2    HO2    SING N N 16 
+BHA N4    HN41   SING N N 17 
+BHA N4    HN42   SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BHA SMILES           ACDLabs              10.04 "O=C(O)c1ccc(cc1O)N"                                                
+BHA SMILES_CANONICAL CACTVS               3.341 "Nc1ccc(C(O)=O)c(O)c1"                                              
+BHA SMILES           CACTVS               3.341 "Nc1ccc(C(O)=O)c(O)c1"                                              
+BHA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1N)O)C(=O)O"                                              
+BHA SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1N)O)C(=O)O"                                              
+BHA InChI            InChI                1.03  "InChI=1S/C7H7NO3/c8-4-1-2-5(7(10)11)6(9)3-4/h1-3,9H,8H2,(H,10,11)" 
+BHA InChIKey         InChI                1.03  WUBBRNOQWQTFEX-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BHA "SYSTEMATIC NAME" ACDLabs              10.04 "4-amino-2-hydroxybenzoic acid"  
+BHA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4-amino-2-hydroxy-benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BHA "Create component"  1999-07-08 RCSB 
+BHA "Modify descriptor" 2011-06-04 RCSB 
+# 

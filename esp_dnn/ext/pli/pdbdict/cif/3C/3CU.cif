@@ -1,0 +1,146 @@
+data_3CU
+# 
+_chem_comp.id                                    3CU 
+_chem_comp.name                                  CASUARINE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             ? 
+_chem_comp.formula                               "C8 H15 N O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(1R,2R,3R,6S,7S,7aR)-3-(hydroxymethyl)hexahydro-1H-pyrrolizine-1,2,6,7-tetrol" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        205.208 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3CU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2JJB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3CU O7   O7   O 0 1 N N N -6.225 -33.836 45.086 2.580  0.752  -1.618 O7   3CU 1  
+3CU C7   C7   C 0 1 N N S -5.756 -34.458 43.876 1.886  0.510  -0.393 C7   3CU 2  
+3CU C7A  C7A  C 0 1 N N R -6.814 -34.224 42.799 0.377  0.376  -0.652 C7A  3CU 3  
+3CU C1   C1   C 0 1 N N R -6.955 -35.360 41.776 -0.388 1.350  0.275  C1   3CU 4  
+3CU O1   O1   O 0 1 N N N -8.063 -36.220 42.048 -0.565 2.622  -0.353 O1   3CU 5  
+3CU C2   C2   C 0 1 N N R -7.109 -34.649 40.424 -1.746 0.621  0.446  C2   3CU 6  
+3CU O2   O2   O 0 1 N N N -6.816 -35.504 39.295 -2.368 0.994  1.677  O2   3CU 7  
+3CU C3   C3   C 0 1 N N R -6.006 -33.583 40.487 -1.342 -0.868 0.468  C3   3CU 8  
+3CU C8   C8   C 0 1 N N N -6.140 -32.413 39.490 -2.381 -1.700 -0.286 C8   3CU 9  
+3CU O8   O8   O 0 1 N N N -7.397 -31.803 39.592 -2.568 -1.157 -1.594 O8   3CU 10 
+3CU N4   N4   N 0 1 N N N -6.053 -33.309 41.938 -0.032 -0.978 -0.199 N4   3CU 11 
+3CU C5   C5   C 0 1 N N N -5.081 -32.508 42.664 0.992  -1.403 0.789  C5   3CU 12 
+3CU C6   C6   C 0 1 N N S -4.479 -33.709 43.430 2.315  -0.848 0.208  C6   3CU 13 
+3CU OXT  OXT  O 0 1 N Y N -3.818 -34.783 42.687 3.283  -0.660 1.242  OXT  3CU 14 
+3CU H7   H7   H 0 1 N N N -6.328 -34.495 45.762 3.537  0.845  -1.516 H7   3CU 15 
+3CU HA   HA   H 0 1 N N N -5.563 -35.530 44.029 2.078  1.316  0.316  HA   3CU 16 
+3CU H7A  H7A  H 0 1 N N N -7.780 -33.991 43.272 0.135  0.549  -1.701 H7A  3CU 17 
+3CU H6   H6   H 0 1 N N N -3.739 -33.281 44.122 2.702  -1.508 -0.569 H6   3CU 18 
+3CU H1   H1   H 0 1 N N N -6.082 -36.029 41.803 0.122  1.458  1.233  H1   3CU 19 
+3CU HB   HB   H 0 1 N N N -8.095 -36.411 42.978 -1.039 3.266  0.190  HB   3CU 20 
+3CU H2   H2   H 0 1 N N N -8.138 -34.286 40.282 -2.405 0.832  -0.396 H2   3CU 21 
+3CU HC   HC   H 0 1 N N N -6.752 -34.978 38.507 -2.573 1.937  1.745  HC   3CU 22 
+3CU H3   H3   H 0 1 N N N -5.007 -33.881 40.135 -1.266 -1.215 1.498  H3   3CU 23 
+3CU H8C1 1H8C H 0 0 N N N -5.363 -31.666 39.710 -2.034 -2.730 -0.365 H8C1 3CU 24 
+3CU H8C2 2H8C H 0 0 N N N -6.025 -32.808 38.470 -3.327 -1.676 0.255  H8C2 3CU 25 
+3CU H8   H8   H 0 1 N N N -7.609 -31.665 40.508 -3.214 -1.636 -2.130 H8   3CU 26 
+3CU H5C1 1H5C H 0 0 N N N -4.368 -31.962 42.029 0.788  -0.963 1.765  H5C1 3CU 27 
+3CU H5C2 2H5C H 0 0 N N N -5.457 -31.661 43.256 1.030  -2.490 0.858  H5C2 3CU 28 
+3CU HOT  HOT  H 0 1 N N N -3.675 -34.506 41.790 3.585  -1.483 1.652  HOT  3CU 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3CU O7  C7   SING N N 1  
+3CU C7  C7A  SING N N 2  
+3CU C7  C6   SING N N 3  
+3CU C7A C1   SING N N 4  
+3CU C7A N4   SING N N 5  
+3CU C1  O1   SING N N 6  
+3CU C1  C2   SING N N 7  
+3CU C2  O2   SING N N 8  
+3CU C2  C3   SING N N 9  
+3CU C3  C8   SING N N 10 
+3CU C3  N4   SING N N 11 
+3CU C8  O8   SING N N 12 
+3CU N4  C5   SING N N 13 
+3CU C5  C6   SING N N 14 
+3CU C6  OXT  SING N N 15 
+3CU O7  H7   SING N N 16 
+3CU C7  HA   SING N N 17 
+3CU C7A H7A  SING N N 18 
+3CU C6  H6   SING N N 19 
+3CU C1  H1   SING N N 20 
+3CU O1  HB   SING N N 21 
+3CU C2  H2   SING N N 22 
+3CU O2  HC   SING N N 23 
+3CU C3  H3   SING N N 24 
+3CU C8  H8C1 SING N N 25 
+3CU C8  H8C2 SING N N 26 
+3CU O8  H8   SING N N 27 
+3CU C5  H5C1 SING N N 28 
+3CU C5  H5C2 SING N N 29 
+3CU OXT HOT  SING N N 30 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3CU SMILES           ACDLabs              10.04 "OC2C(O)C1N(C(C(O)C1O)CO)C2"                                                                         
+3CU SMILES_CANONICAL CACTVS               3.341 "OC[C@@H]1[C@@H](O)[C@H](O)[C@H]2[C@H](O)[C@@H](O)CN12"                                              
+3CU SMILES           CACTVS               3.341 "OC[CH]1[CH](O)[CH](O)[CH]2[CH](O)[CH](O)CN12"                                                       
+3CU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H]([C@H]2[N@@]1[C@@H]([C@H]([C@@H]2O)O)CO)O)O"                                          
+3CU SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C2N1C(C(C2O)O)CO)O)O"                                                                         
+3CU InChI            InChI                1.03  "InChI=1S/C8H15NO5/c10-2-3-6(12)8(14)5-7(13)4(11)1-9(3)5/h3-8,10-14H,1-2H2/t3-,4+,5-,6-,7-,8-/m1/s1" 
+3CU InChIKey         InChI                1.03  AXTGOJVKRHFYBT-XAZAIFFQSA-N                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3CU "SYSTEMATIC NAME" ACDLabs              10.04 "(1R,2R,3R,6S,7S,7aR)-3-(hydroxymethyl)hexahydro-1H-pyrrolizine-1,2,6,7-tetrol"                
+3CU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1R,2R,3R,4S,6S,7S,8R)-3-(hydroxymethyl)-2,3,5,6,7,8-hexahydro-1H-pyrrolizine-1,2,6,7-tetrol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3CU "Create component"  2008-03-28 EBI  
+3CU "Modify descriptor" 2011-06-04 RCSB 
+# 

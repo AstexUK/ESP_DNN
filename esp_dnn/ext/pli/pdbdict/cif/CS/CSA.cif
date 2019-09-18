@@ -1,0 +1,130 @@
+data_CSA
+# 
+_chem_comp.id                                    CSA 
+_chem_comp.name                                  S-ACETONYLCYSTEINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H11 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-09-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        177.221 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     CSA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DWQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CSA N   N   N 0 1 N N N 47.652 44.122 123.973 1.715  0.344  -1.875 N   CSA 1  
+CSA CA  CA  C 0 1 N N R 46.432 44.884 123.907 0.418  -0.345 -1.899 CA  CSA 2  
+CSA CB  CB  C 0 1 N N N 46.248 45.561 122.561 -0.416 0.096  -0.696 CB  CSA 3  
+CSA C   C   C 0 1 N N N 45.204 44.017 124.115 -0.311 0.000  -3.171 C   CSA 4  
+CSA SG  SG  S 0 1 N N N 47.769 46.341 121.940 0.461  -0.320 0.835  SG  CSA 5  
+CSA C3  C3  C 0 1 N N N 48.306 47.250 123.368 -0.725 0.299  2.058  C3  CSA 6  
+CSA C2  C2  C 0 1 N N N 49.358 48.186 122.879 -0.191 0.054  3.446  C2  CSA 7  
+CSA O4  O4  O 0 1 N N N 50.116 47.800 121.947 0.879  -0.483 3.594  O4  CSA 8  
+CSA C1  C1  C 0 1 N N N 49.496 49.580 123.495 -0.994 0.479  4.648  C1  CSA 9  
+CSA O   O   O 0 1 N N N 44.127 44.629 124.226 -0.132 1.073  -3.697 O   CSA 10 
+CSA OXT OXT O 0 1 N Y N 45.226 42.674 124.224 -1.160 -0.882 -3.720 OXT CSA 11 
+CSA H   1HN H 0 1 N N N 47.775 43.667 124.877 1.518  1.332  -1.918 H   CSA 12 
+CSA H2  2HN H 0 1 N Y N 48.459 44.698 123.737 2.120  0.168  -0.968 H2  CSA 13 
+CSA HA  HA  H 0 1 N N N 46.528 45.640 124.720 0.578  -1.422 -1.854 HA  CSA 14 
+CSA HB2 1HB H 0 1 N N N 45.832 44.847 121.811 -1.379 -0.415 -0.713 HB2 CSA 15 
+CSA HB3 2HB H 0 1 N N N 45.410 46.296 122.597 -0.577 1.173  -0.741 HB3 CSA 16 
+CSA H31 1H3 H 0 1 N N N 47.475 47.756 123.913 -1.676 -0.219 1.937  H31 CSA 17 
+CSA H32 2H3 H 0 1 N N N 48.641 46.601 124.210 -0.874 1.369  1.910  H32 CSA 18 
+CSA H11 1H1 H 0 1 N N N 50.282 50.280 123.129 -0.451 0.221  5.557  H11 CSA 19 
+CSA H12 2H1 H 0 1 N N N 48.508 50.093 123.425 -1.155 1.557  4.615  H12 CSA 20 
+CSA H13 3H1 H 0 1 N N N 49.612 49.466 124.598 -1.956 -0.031 4.642  H13 CSA 21 
+CSA HXT HXT H 0 1 N Y N 44.457 42.131 124.354 -1.628 -0.660 -4.536 HXT CSA 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CSA N   CA  SING N N 1  
+CSA N   H   SING N N 2  
+CSA N   H2  SING N N 3  
+CSA CA  CB  SING N N 4  
+CSA CA  C   SING N N 5  
+CSA CA  HA  SING N N 6  
+CSA CB  SG  SING N N 7  
+CSA CB  HB2 SING N N 8  
+CSA CB  HB3 SING N N 9  
+CSA C   O   DOUB N N 10 
+CSA C   OXT SING N N 11 
+CSA SG  C3  SING N N 12 
+CSA C3  C2  SING N N 13 
+CSA C3  H31 SING N N 14 
+CSA C3  H32 SING N N 15 
+CSA C2  O4  DOUB N N 16 
+CSA C2  C1  SING N N 17 
+CSA C1  H11 SING N N 18 
+CSA C1  H12 SING N N 19 
+CSA C1  H13 SING N N 20 
+CSA OXT HXT SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CSA SMILES           ACDLabs              10.04 "O=C(O)C(N)CSCC(=O)C"                                                            
+CSA SMILES_CANONICAL CACTVS               3.341 "CC(=O)CSC[C@H](N)C(O)=O"                                                        
+CSA SMILES           CACTVS               3.341 "CC(=O)CSC[CH](N)C(O)=O"                                                         
+CSA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)CSC[C@@H](C(=O)O)N"                                                       
+CSA SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)CSCC(C(=O)O)N"                                                            
+CSA InChI            InChI                1.03  "InChI=1S/C6H11NO3S/c1-4(8)2-11-3-5(7)6(9)10/h5H,2-3,7H2,1H3,(H,9,10)/t5-/m0/s1" 
+CSA InChIKey         InChI                1.03  BYMSHHJFWDLNBG-YFKPBYRVSA-N                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CSA "SYSTEMATIC NAME" ACDLabs              10.04 "S-(2-oxopropyl)-L-cysteine"                         
+CSA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-(2-oxopropylsulfanyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CSA "Create component"  2000-09-18 EBI  
+CSA "Modify descriptor" 2011-06-04 RCSB 
+# 

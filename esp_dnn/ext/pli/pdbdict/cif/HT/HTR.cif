@@ -1,0 +1,144 @@
+data_HTR
+# 
+_chem_comp.id                                    HTR 
+_chem_comp.name                                  BETA-HYDROXYTRYPTOPHANE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C11 H12 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               TRP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        220.225 
+_chem_comp.one_letter_code                       W 
+_chem_comp.three_letter_code                     HTR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1B80 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HTR N   N   N 0 1 N N N 29.558 22.621 81.005 1.307  1.125  1.160  N   HTR 1  
+HTR CA  CA  C 0 1 N N S 29.847 23.677 80.074 0.130  0.595  1.860  CA  HTR 2  
+HTR CB  CB  C 0 1 N N S 30.863 23.270 78.952 -0.406 -0.622 1.105  CB  HTR 3  
+HTR OH  OH  O 0 1 N N N 31.063 24.406 78.089 -1.551 -1.138 1.786  OH  HTR 4  
+HTR CG  CG  C 0 1 Y N N 32.100 22.616 79.497 -0.793 -0.216 -0.292 CG  HTR 5  
+HTR CD1 CD1 C 0 1 Y N N 32.563 22.545 80.790 -1.996 0.226  -0.691 CD1 HTR 6  
+HTR NE1 NE1 N 0 1 Y N N 33.749 21.824 80.797 -1.973 0.497  -2.032 NE1 HTR 7  
+HTR CE2 CE2 C 0 1 Y N N 34.057 21.442 79.518 -0.722 0.229  -2.542 CE2 HTR 8  
+HTR CZ2 CZ2 C 0 1 Y N N 35.160 20.708 79.056 -0.165 0.327  -3.812 CZ2 HTR 9  
+HTR CH2 CH2 C 0 1 Y N N 35.202 20.465 77.707 1.151  -0.024 -4.011 CH2 HTR 10 
+HTR CZ3 CZ3 C 0 1 Y N N 34.229 20.930 76.823 1.930  -0.477 -2.955 CZ3 HTR 11 
+HTR CE3 CE3 C 0 1 Y N N 33.146 21.679 77.295 1.403  -0.581 -1.699 CE3 HTR 12 
+HTR CD2 CD2 C 0 1 Y N N 33.071 21.932 78.670 0.072  -0.224 -1.474 CD2 HTR 13 
+HTR C   C   C 0 1 N N N 28.578 24.171 79.346 0.517  0.189  3.258  C   HTR 14 
+HTR O   O   O 0 1 N N N 28.421 25.392 79.197 1.640  -0.193 3.487  O   HTR 15 
+HTR OXT OXT O 0 1 N Y N 27.722 23.246 78.863 -0.384 0.253  4.250  OXT HTR 16 
+HTR H   1HN H 0 1 N N N 28.896 22.885 81.735 1.028  1.286  0.204  H   HTR 17 
+HTR H2  2HN H 0 1 N Y N 30.418 22.257 81.414 1.992  0.384  1.142  H2  HTR 18 
+HTR HA  HA  H 0 1 N N N 30.290 24.475 80.712 -0.641 1.363  1.905  HA  HTR 19 
+HTR HB  HB  H 0 1 N N N 30.445 22.456 78.314 0.365  -1.390 1.060  HB  HTR 20 
+HTR HH  HO  H 0 1 N N N 31.678 24.159 77.409 -2.209 -0.428 1.805  HH  HTR 21 
+HTR HD1 HD1 H 0 1 N N N 32.068 22.989 81.669 -2.856 0.349  -0.048 HD1 HTR 22 
+HTR HE1 HE1 H 0 1 N N N 34.311 21.607 81.620 -2.725 0.829  -2.546 HE1 HTR 23 
+HTR HZ2 HZ2 H 0 1 N N N 35.957 20.339 79.722 -0.763 0.678  -4.641 HZ2 HTR 24 
+HTR HH2 HH2 H 0 1 N N N 36.048 19.874 77.319 1.582  0.051  -4.999 HH2 HTR 25 
+HTR HZ3 HZ3 H 0 1 N N N 34.316 20.704 75.746 2.961  -0.749 -3.128 HZ3 HTR 26 
+HTR HE3 HE3 H 0 1 N N N 32.374 22.058 76.604 2.015  -0.934 -0.882 HE3 HTR 27 
+HTR HXT HXT H 0 1 N Y N 26.941 23.549 78.415 -0.135 -0.006 5.148  HXT HTR 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HTR N   CA  SING N N 1  
+HTR N   H   SING N N 2  
+HTR N   H2  SING N N 3  
+HTR CA  CB  SING N N 4  
+HTR CA  C   SING N N 5  
+HTR CA  HA  SING N N 6  
+HTR CB  OH  SING N N 7  
+HTR CB  CG  SING N N 8  
+HTR CB  HB  SING N N 9  
+HTR OH  HH  SING N N 10 
+HTR CG  CD1 DOUB Y N 11 
+HTR CG  CD2 SING Y N 12 
+HTR CD1 NE1 SING Y N 13 
+HTR CD1 HD1 SING N N 14 
+HTR NE1 CE2 SING Y N 15 
+HTR NE1 HE1 SING N N 16 
+HTR CE2 CZ2 DOUB Y N 17 
+HTR CE2 CD2 SING Y N 18 
+HTR CZ2 CH2 SING Y N 19 
+HTR CZ2 HZ2 SING N N 20 
+HTR CH2 CZ3 DOUB Y N 21 
+HTR CH2 HH2 SING N N 22 
+HTR CZ3 CE3 SING Y N 23 
+HTR CZ3 HZ3 SING N N 24 
+HTR CE3 CD2 DOUB Y N 25 
+HTR CE3 HE3 SING N N 26 
+HTR C   O   DOUB N N 27 
+HTR C   OXT SING N N 28 
+HTR OXT HXT SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HTR SMILES           ACDLabs              10.04 "O=C(O)C(N)C(O)c2c1ccccc1nc2"                                                                                   
+HTR SMILES_CANONICAL CACTVS               3.341 "N[C@@H]([C@@H](O)c1c[nH]c2ccccc12)C(O)=O"                                                                      
+HTR SMILES           CACTVS               3.341 "N[CH]([CH](O)c1c[nH]c2ccccc12)C(O)=O"                                                                          
+HTR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)c(c[nH]2)[C@@H]([C@@H](C(=O)O)N)O"                                                                  
+HTR SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)c(c[nH]2)C(C(C(=O)O)N)O"                                                                            
+HTR InChI            InChI                1.03  "InChI=1S/C11H12N2O3/c12-9(11(15)16)10(14)7-5-13-8-4-2-1-3-6(7)8/h1-5,9-10,13-14H,12H2,(H,15,16)/t9-,10-/m0/s1" 
+HTR InChIKey         InChI                1.03  ITFHGBKXKUVKBW-UWVGGRQHSA-N                                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HTR "SYSTEMATIC NAME" ACDLabs              10.04 "(betaS)-beta-hydroxy-L-tryptophan"                         
+HTR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S)-2-amino-3-hydroxy-3-(1H-indol-3-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HTR "Create component"  1999-07-08 RCSB 
+HTR "Modify descriptor" 2011-06-04 RCSB 
+# 

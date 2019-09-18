@@ -1,0 +1,119 @@
+data_LG4
+# 
+_chem_comp.id                                    LG4 
+_chem_comp.name                                  5-METHYLPYRIDIN-2-AMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H8 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-AMINO-5-PICOLINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-11-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        108.141 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LG4 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2EUP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LG4 N1   N1   N 0 1 Y N N -8.277 71.715 15.297 -0.669 -1.149 0.002  N1   LG4 1  
+LG4 C2   C2   C 0 1 Y N N -8.651 71.435 16.563 0.651  -1.170 -0.004 C2   LG4 2  
+LG4 C3   C3   C 0 1 Y N N -8.730 70.120 17.000 1.377  0.004  0.001  C3   LG4 3  
+LG4 C4   C4   C 0 1 Y N N -8.418 69.079 16.113 0.706  1.219  -0.001 C4   LG4 4  
+LG4 C5   C5   C 0 1 Y N N -8.011 69.391 14.820 -0.677 1.210  -0.001 C5   LG4 5  
+LG4 C6   C6   C 0 1 Y N N -7.902 70.735 14.447 -1.345 -0.011 0.001  C6   LG4 6  
+LG4 N7   N7   N 0 1 N N N -7.478 71.068 13.205 -2.735 -0.036 0.000  N7   LG4 7  
+LG4 C8   C8   C 0 1 N N N -9.147 69.837 18.422 2.884  -0.034 0.001  C8   LG4 8  
+LG4 H2   H2   H 0 1 N N N -8.891 72.240 17.241 1.169  -2.117 -0.003 H2   LG4 9  
+LG4 H4   H4   H 0 1 N N N -8.493 68.049 16.430 1.251  2.151  -0.001 H4   LG4 10 
+LG4 H5   H5   H 0 1 N N N -7.782 68.607 14.114 -1.231 2.137  -0.002 H5   LG4 11 
+LG4 HN71 1HN7 H 0 0 N N N -7.200 70.419 12.497 -3.235 0.796  -0.001 HN71 LG4 12 
+LG4 HN72 2HN7 H 0 0 N N N -7.485 72.063 13.104 -3.205 -0.884 0.001  HN72 LG4 13 
+LG4 H81  1H8  H 0 1 N N N -9.698 68.886 18.460 3.247  -0.042 1.029  H81  LG4 14 
+LG4 H82  2H8  H 0 1 N N N -9.793 70.651 18.783 3.225  -0.933 -0.511 H82  LG4 15 
+LG4 H83  3H8  H 0 1 N N N -8.253 69.768 19.060 3.269  0.846  -0.514 H83  LG4 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LG4 N1 C2   SING Y N 1  
+LG4 N1 C6   DOUB Y N 2  
+LG4 C2 C3   DOUB Y N 3  
+LG4 C2 H2   SING N N 4  
+LG4 C3 C4   SING Y N 5  
+LG4 C3 C8   SING N N 6  
+LG4 C4 C5   DOUB Y N 7  
+LG4 C4 H4   SING N N 8  
+LG4 C5 C6   SING Y N 9  
+LG4 C5 H5   SING N N 10 
+LG4 C6 N7   SING N N 11 
+LG4 N7 HN71 SING N N 12 
+LG4 N7 HN72 SING N N 13 
+LG4 C8 H81  SING N N 14 
+LG4 C8 H82  SING N N 15 
+LG4 C8 H83  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LG4 SMILES           ACDLabs              10.04 "n1cc(ccc1N)C"                                          
+LG4 SMILES_CANONICAL CACTVS               3.341 "Cc1ccc(N)nc1"                                          
+LG4 SMILES           CACTVS               3.341 "Cc1ccc(N)nc1"                                          
+LG4 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1ccc(nc1)N"                                          
+LG4 SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1ccc(nc1)N"                                          
+LG4 InChI            InChI                1.03  "InChI=1S/C6H8N2/c1-5-2-3-6(7)8-4-5/h2-4H,1H3,(H2,7,8)" 
+LG4 InChIKey         InChI                1.03  CMBSSVKZOPZBKW-UHFFFAOYSA-N                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LG4 "SYSTEMATIC NAME" ACDLabs              10.04 5-methylpyridin-2-amine 
+LG4 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 5-methylpyridin-2-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LG4 "Create component"  2005-11-08 RCSB 
+LG4 "Modify descriptor" 2011-06-04 RCSB 
+# 

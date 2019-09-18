@@ -1,0 +1,119 @@
+data_DDP
+# 
+_chem_comp.id                                    DDP 
+_chem_comp.name                                  2,4-DIAMINO-4,6-DIHYDROXYPYRIMIDINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DDP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IL5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DDP C5  C5  C 0 1 Y N N -15.305 36.134 39.568 0.000  -0.019 -1.064 C5  DDP 1  
+DDP N7  N7  N 0 1 N N N -14.854 36.411 38.267 0.000  -0.027 -2.471 N7  DDP 2  
+DDP C4  C4  C 0 1 Y N N -14.438 35.854 40.641 -1.197 -0.015 -0.349 C4  DDP 3  
+DDP N3  N3  N 0 1 Y N N -14.955 35.594 41.867 -1.157 -0.008 0.978  N3  DDP 4  
+DDP C2  C2  C 0 1 Y N N -16.285 35.597 42.088 0.000  -0.004 1.622  C2  DDP 5  
+DDP N2  N2  N 0 1 N N N -16.783 35.322 43.370 0.000  0.003  3.009  N2  DDP 6  
+DDP N1  N1  N 0 1 Y N N -17.134 35.866 41.064 1.157  -0.003 0.978  N1  DDP 7  
+DDP C6  C6  C 0 1 Y N N -16.684 36.135 39.815 1.197  -0.016 -0.349 C6  DDP 8  
+DDP O6  O6  O 0 1 N N N -17.511 36.360 38.972 2.387  -0.020 -1.001 O6  DDP 9  
+DDP O9  O9  O 0 1 N N N -13.058 35.841 40.457 -2.387 -0.018 -1.001 O9  DDP 10 
+DDP H71 1H7 H 0 1 N N N -15.482 36.613 37.489 0.840  -0.030 -2.956 H71 DDP 11 
+DDP H72 2H7 H 0 1 N N N -14.256 35.635 37.980 -0.840 -0.029 -2.955 H72 DDP 12 
+DDP H21 1H2 H 0 1 N N N -17.789 35.324 43.537 0.840  0.005  3.494  H21 DDP 13 
+DDP H22 2H2 H 0 1 N N N -16.344 35.963 44.030 -0.840 0.010  3.494  H22 DDP 14 
+DDP H61 1H6 H 0 1 N N N -18.446 36.360 39.139 2.632  0.904  -1.141 H61 DDP 15 
+DDP H91 1H9 H 0 1 N N N -12.472 35.652 41.181 -2.631 0.906  -1.141 H91 DDP 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DDP C5 N7  SING N N 1  
+DDP C5 C4  DOUB Y N 2  
+DDP C5 C6  SING Y N 3  
+DDP N7 H71 SING N N 4  
+DDP N7 H72 SING N N 5  
+DDP C4 N3  SING Y N 6  
+DDP C4 O9  SING N N 7  
+DDP N3 C2  DOUB Y N 8  
+DDP C2 N2  SING N N 9  
+DDP C2 N1  SING Y N 10 
+DDP N2 H21 SING N N 11 
+DDP N2 H22 SING N N 12 
+DDP N1 C6  DOUB Y N 13 
+DDP C6 O6  SING N N 14 
+DDP O6 H61 SING N N 15 
+DDP O9 H91 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DDP SMILES           ACDLabs              10.04 "Oc1nc(nc(O)c1N)N"                                               
+DDP SMILES_CANONICAL CACTVS               3.341 "Nc1nc(O)c(N)c(O)n1"                                             
+DDP SMILES           CACTVS               3.341 "Nc1nc(O)c(N)c(O)n1"                                             
+DDP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1(c(nc(nc1O)N)O)N"                                             
+DDP SMILES           "OpenEye OEToolkits" 1.5.0 "c1(c(nc(nc1O)N)O)N"                                             
+DDP InChI            InChI                1.03  "InChI=1S/C4H6N4O2/c5-1-2(9)7-4(6)8-3(1)10/h5H2,(H4,6,7,8,9,10)" 
+DDP InChIKey         InChI                1.03  HWSJQFCTYLBBOF-UHFFFAOYSA-N                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DDP "SYSTEMATIC NAME" ACDLabs              10.04 2,5-diaminopyrimidine-4,6-diol 
+DDP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,5-diaminopyrimidine-4,6-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DDP "Create component"  2001-05-08 RCSB 
+DDP "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,123 @@
+data_DFX
+# 
+_chem_comp.id                                    DFX 
+_chem_comp.name                                  1,2-DEOXY-2-FLUORO-XYLOPYRANOSE 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H9 F O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        136.122 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DFX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BVV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DFX C1  C1  C 0 1 N N N 32.825 21.620 35.045 -1.065 1.481  0.173  C1  DFX 1  
+DFX C2  C2  C 0 1 N N S 32.938 20.726 36.299 -1.215 0.030  -0.290 C2  DFX 2  
+DFX C3  C3  C 0 1 N N S 33.532 21.505 37.480 -0.026 -0.788 0.223  C3  DFX 3  
+DFX C4  C4  C 0 1 N N R 34.808 22.290 37.100 1.273  -0.149 -0.278 C4  DFX 4  
+DFX C5  C5  C 0 1 N N N 35.244 22.046 35.629 1.327  1.310  0.184  C5  DFX 5  
+DFX O3  O3  O 0 1 N N N 33.816 20.605 38.544 -0.120 -2.127 -0.265 O3  DFX 6  
+DFX O4  O4  O 0 1 N N N 34.572 23.680 37.296 2.392  -0.860 0.254  O4  DFX 7  
+DFX O5  O5  O 0 1 N N N 34.125 22.149 34.693 0.177  2.005  -0.302 O5  DFX 8  
+DFX F2  F2  F 0 1 N N N 31.674 20.193 36.668 -2.404 -0.503 0.221  F2  DFX 9  
+DFX H11 H11 H 0 1 N N N 32.437 21.022 34.207 -1.887 2.077  -0.225 H11 DFX 10 
+DFX H12 H12 H 0 1 N N N 32.142 22.455 35.258 -1.083 1.519  1.262  H12 DFX 11 
+DFX H2  H2  H 0 1 N N N 33.611 19.894 36.045 -1.238 -0.005 -1.379 H2  DFX 12 
+DFX H3  H3  H 0 1 N N N 32.783 22.247 37.794 -0.031 -0.794 1.314  H3  DFX 13 
+DFX H4  H4  H 0 1 N N N 35.623 21.933 37.746 1.300  -0.187 -1.367 H4  DFX 14 
+DFX H51 H51 H 0 1 N N N 35.997 22.801 35.358 1.340  1.345  1.273  H51 DFX 15 
+DFX H52 H52 H 0 1 N N N 35.648 21.025 35.561 2.229  1.781  -0.207 H52 DFX 16 
+DFX HO3 HO3 H 0 1 N N N 33.879 19.721 38.203 -0.923 -2.590 0.009  HO3 DFX 17 
+DFX HO4 HO4 H 0 1 N N N 34.519 23.865 38.226 3.249  -0.510 -0.023 HO4 DFX 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DFX C1 C2  SING N N 1  
+DFX C1 O5  SING N N 2  
+DFX C1 H11 SING N N 3  
+DFX C1 H12 SING N N 4  
+DFX C2 C3  SING N N 5  
+DFX C2 F2  SING N N 6  
+DFX C2 H2  SING N N 7  
+DFX C3 C4  SING N N 8  
+DFX C3 O3  SING N N 9  
+DFX C3 H3  SING N N 10 
+DFX C4 C5  SING N N 11 
+DFX C4 O4  SING N N 12 
+DFX C4 H4  SING N N 13 
+DFX C5 O5  SING N N 14 
+DFX C5 H51 SING N N 15 
+DFX C5 H52 SING N N 16 
+DFX O3 HO3 SING N N 17 
+DFX O4 HO4 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DFX SMILES           ACDLabs              10.04 "FC1COCC(O)C1O"                                                         
+DFX SMILES_CANONICAL CACTVS               3.341 "O[C@@H]1COC[C@H](F)[C@H]1O"                                            
+DFX SMILES           CACTVS               3.341 "O[CH]1COC[CH](F)[CH]1O"                                                
+DFX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@H]([C@@H]([C@H](CO1)F)O)O"                                        
+DFX SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C(CO1)F)O)O"                                                     
+DFX InChI            InChI                1.03  "InChI=1S/C5H9FO3/c6-3-1-9-2-4(7)5(3)8/h3-5,7-8H,1-2H2/t3-,4+,5+/m0/s1" 
+DFX InChIKey         InChI                1.03  YIJTWYXBSRZXRS-VPENINKCSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DFX "SYSTEMATIC NAME" ACDLabs              10.04 1,5-anhydro-2-deoxy-2-fluoro-D-xylitol 
+DFX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3R,4S,5S)-5-fluorooxane-3,4-diol"    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DFX "Create component"  1999-07-08 EBI  
+DFX "Modify descriptor" 2011-06-04 RCSB 
+# 

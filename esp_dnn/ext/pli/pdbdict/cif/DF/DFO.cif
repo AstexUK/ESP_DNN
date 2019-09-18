@@ -1,0 +1,146 @@
+data_DFO
+# 
+_chem_comp.id                                    DFO 
+_chem_comp.name                                  2,2-DIFLUORO-3-HYDROSTATINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C8 H15 F2 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        227.206 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     DFO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1APV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DFO N    N    N 0 1 N N N 22.006 10.066 21.212 1.626  0.439  1.053  N    DFO 1  
+DFO CA   CA   C 0 1 N N S 23.439 10.380 21.309 0.270  -0.123 1.010  CA   DFO 2  
+DFO CB   CB   C 0 1 N N N 24.062 9.919  19.965 -0.551 0.437  2.172  CB   DFO 3  
+DFO CG   CG   C 0 1 N N N 23.796 8.495  19.525 0.114  0.059  3.497  CG   DFO 4  
+DFO CD1  CD1  C 0 1 N N N 24.387 8.228  18.150 -0.707 0.620  4.659  CD1  DFO 5  
+DFO CD2  CD2  C 0 1 N N N 24.446 7.454  20.483 0.189  -1.464 3.613  CD2  DFO 6  
+DFO CH   CH   C 0 1 N N N 23.638 11.888 21.511 -0.396 0.254  -0.314 CH   DFO 7  
+DFO OH1  OH1  O 0 1 N N N 22.891 12.611 20.476 -1.715 -0.292 -0.356 OH1  DFO 8  
+DFO OH2  OH2  O 0 1 N N N 25.019 12.123 21.417 -0.466 1.677  -0.423 OH2  DFO 9  
+DFO CM   CM   C 0 1 N N N 23.228 12.482 22.893 0.426  -0.306 -1.476 CM   DFO 10 
+DFO F1   F1   F 0 1 N N N 22.075 11.982 23.242 1.717  0.229  -1.435 F1   DFO 11 
+DFO F2   F2   F 0 1 N N N 23.105 13.810 22.838 0.495  -1.699 -1.370 F2   DFO 12 
+DFO C    C    C 0 1 N N N 24.317 12.108 23.970 -0.230 0.065  -2.781 C    DFO 13 
+DFO O    O    O 0 1 N N N 24.307 11.000 24.535 0.067  1.098  -3.334 O    DFO 14 
+DFO OXT  OXT  O 0 1 N Y N 25.193 13.057 24.175 -1.144 -0.749 -3.329 OXT  DFO 15 
+DFO H    1HN  H 0 1 N N N 21.596 10.369 22.095 1.986  0.255  1.978  H    DFO 16 
+DFO H2   2HN  H 0 1 N Y N 21.815 9.089  20.987 1.528  1.440  0.974  H2   DFO 17 
+DFO HA   HA   H 0 1 N N N 23.919 9.868  22.175 0.324  -1.208 1.093  HA   DFO 18 
+DFO HB2  1HB  H 0 1 N N N 23.752 10.619 19.154 -1.558 0.019  2.140  HB2  DFO 19 
+DFO HB3  2HB  H 0 1 N N N 25.162 10.099 19.987 -0.605 1.522  2.089  HB3  DFO 20 
+DFO HG   HG   H 0 1 N N N 22.686 8.386  19.523 1.120  0.476  3.529  HG   DFO 21 
+DFO HD11 1HD1 H 0 0 N N N 24.191 7.179  17.826 -0.233 0.351  5.603  HD11 DFO 22 
+DFO HD12 2HD1 H 0 0 N N N 24.023 8.965  17.396 -0.761 1.705  4.576  HD12 DFO 23 
+DFO HD13 3HD1 H 0 0 N N N 25.474 8.472  18.115 -1.714 0.202  4.627  HD13 DFO 24 
+DFO HD21 1HD2 H 0 0 N N N 24.250 6.405  20.159 -0.816 -1.881 3.581  HD21 DFO 25 
+DFO HD22 2HD2 H 0 0 N N N 25.538 7.642  20.602 0.775  -1.863 2.785  HD22 DFO 26 
+DFO HD23 3HD2 H 0 0 N N N 24.122 7.618  21.537 0.664  -1.733 4.557  HD23 DFO 27 
+DFO HH1  HH1  H 0 1 N N N 23.014 13.544 20.601 -1.622 -1.252 -0.280 HH1  DFO 28 
+DFO HH2  HH2  H 0 1 N N N 25.142 13.056 21.542 0.442  2.005  -0.390 HH2  DFO 29 
+DFO HXT  HXT  H 0 1 N Y N 25.849 12.831 24.824 -1.565 -0.511 -4.166 HXT  DFO 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DFO N   CA   SING N N 1  
+DFO N   H    SING N N 2  
+DFO N   H2   SING N N 3  
+DFO CA  CB   SING N N 4  
+DFO CA  CH   SING N N 5  
+DFO CA  HA   SING N N 6  
+DFO CB  CG   SING N N 7  
+DFO CB  HB2  SING N N 8  
+DFO CB  HB3  SING N N 9  
+DFO CG  CD1  SING N N 10 
+DFO CG  CD2  SING N N 11 
+DFO CG  HG   SING N N 12 
+DFO CD1 HD11 SING N N 13 
+DFO CD1 HD12 SING N N 14 
+DFO CD1 HD13 SING N N 15 
+DFO CD2 HD21 SING N N 16 
+DFO CD2 HD22 SING N N 17 
+DFO CD2 HD23 SING N N 18 
+DFO CH  OH1  SING N N 19 
+DFO CH  OH2  SING N N 20 
+DFO CH  CM   SING N N 21 
+DFO OH1 HH1  SING N N 22 
+DFO OH2 HH2  SING N N 23 
+DFO CM  F1   SING N N 24 
+DFO CM  F2   SING N N 25 
+DFO CM  C    SING N N 26 
+DFO C   O    DOUB N N 27 
+DFO C   OXT  SING N N 28 
+DFO OXT HXT  SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DFO SMILES           ACDLabs              10.04 "FC(F)(C(=O)O)C(O)(O)C(N)CC(C)C"                                                                        
+DFO SMILES_CANONICAL CACTVS               3.341 "CC(C)C[C@H](N)C(O)(O)C(F)(F)C(O)=O"                                                                    
+DFO SMILES           CACTVS               3.341 "CC(C)C[CH](N)C(O)(O)C(F)(F)C(O)=O"                                                                     
+DFO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)C[C@@H](C(C(C(=O)O)(F)F)(O)O)N"                                                                   
+DFO SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C(C(C(=O)O)(F)F)(O)O)N"                                                                        
+DFO InChI            InChI                1.03  "InChI=1S/C8H15F2NO4/c1-4(2)3-5(11)8(14,15)7(9,10)6(12)13/h4-5,14-15H,3,11H2,1-2H3,(H,12,13)/t5-/m0/s1" 
+DFO InChIKey         InChI                1.03  LSQJZHZWLIILRU-YFKPBYRVSA-N                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DFO "SYSTEMATIC NAME" ACDLabs              10.04 "(4S)-4-amino-2,2-difluoro-3,3-dihydroxy-6-methylheptanoic acid"  
+DFO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4S)-4-amino-2,2-difluoro-3,3-dihydroxy-6-methyl-heptanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DFO "Create component"  1999-07-08 RCSB 
+DFO "Modify descriptor" 2011-06-04 RCSB 
+# 

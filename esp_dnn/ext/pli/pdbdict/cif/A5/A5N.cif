@@ -1,0 +1,126 @@
+data_A5N
+# 
+_chem_comp.id                                    A5N 
+_chem_comp.name                                  O-carboxy-4-imino-L-homoserine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H8 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ASN 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        176.127 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     A5N 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XJF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+A5N N    N    N 0 1 N N N 11.477 22.753 44.866 -1.576 -1.619 -0.465 N    A5N 1  
+A5N CA   CA   C 0 1 N N S 10.579 21.815 44.207 -1.656 -0.341 0.255  CA   A5N 2  
+A5N C    C    C 0 1 N N N 10.438 22.313 42.755 -3.021 0.264  0.056  C    A5N 3  
+A5N O    O    O 0 1 N N N 10.891 23.379 42.337 -3.708 -0.090 -0.873 O    A5N 4  
+A5N CB   CB   C 0 1 N N N 9.228  21.799 44.949 -0.590 0.615  -0.283 CB   A5N 5  
+A5N CG   CG   C 0 1 N N N 8.343  20.700 44.383 0.779  0.068  0.026  CG   A5N 6  
+A5N OD1  OD1  O 0 1 N N N 8.808  19.405 44.154 1.882  0.749  -0.356 OD1  A5N 7  
+A5N ND2  ND2  N 0 1 N N N 7.082  21.087 44.121 0.899  -1.051 0.657  ND2  A5N 8  
+A5N C1   C1   C 0 1 N N N 8.022  18.579 43.372 3.075  0.204  -0.049 C1   A5N 9  
+A5N O2   O2   O 0 1 N N N 7.313  17.761 44.001 3.124  -0.853 0.547  O2   A5N 10 
+A5N O3   O3   O 0 1 N N N 8.083  18.655 42.096 4.211  0.828  -0.406 O3   A5N 11 
+A5N OXT  OXT  O 0 1 N Y N 10.021 21.354 41.734 -3.474 1.195  0.909  OXT  A5N 12 
+A5N H3   H3   H 0 1 N N N 7.512  18.000 41.712 5.043  0.397  -0.167 H3   A5N 13 
+A5N HD2  HD2  H 0 1 N N N 6.960  22.051 44.358 0.108  -1.540 0.932  HD2  A5N 14 
+A5N HB1C HB1C H 0 0 N N N 8.730  22.771 44.820 -0.706 1.591  0.188  HB1C A5N 15 
+A5N HB2C HB2C H 0 0 N N N 9.403  21.610 46.018 -0.705 0.717  -1.362 HB2C A5N 16 
+A5N HA   HA   H 0 1 N N N 10.958 20.782 44.216 -1.486 -0.513 1.319  HA   A5N 17 
+A5N HN1  HN1  H 0 1 N N N 11.683 22.426 45.788 -2.226 -2.290 -0.085 HN1  A5N 18 
+A5N HN2  HN2  H 0 1 N N N 12.325 22.827 44.342 -1.730 -1.487 -1.454 HN2  A5N 19 
+A5N HXT  HXT  H 0 1 N N N 10.173 21.723 40.872 -4.356 1.554  0.740  HXT  A5N 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+A5N O2  C1   DOUB N N 1  
+A5N C1  O3   SING N N 2  
+A5N C1  OD1  SING N N 3  
+A5N OD1 CG   SING N N 4  
+A5N CG  ND2  DOUB N N 5  
+A5N CG  CB   SING N N 6  
+A5N CB  CA   SING N N 7  
+A5N CA  C    SING N N 8  
+A5N CA  N    SING N N 9  
+A5N C   O    DOUB N N 10 
+A5N C   OXT  SING N N 11 
+A5N O3  H3   SING N N 12 
+A5N ND2 HD2  SING N N 13 
+A5N CB  HB1C SING N N 14 
+A5N CB  HB2C SING N N 15 
+A5N CA  HA   SING N N 16 
+A5N N   HN1  SING N N 17 
+A5N N   HN2  SING N N 18 
+A5N OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+A5N SMILES           ACDLabs              10.04 "O=C(O)C(N)CC(=[N@H])OC(=O)O"                                                                
+A5N SMILES_CANONICAL CACTVS               3.352 "N[C@@H](CC(=N)OC(O)=O)C(O)=O"                                                               
+A5N SMILES           CACTVS               3.352 "N[CH](CC(=N)OC(O)=O)C(O)=O"                                                                 
+A5N SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "[H]/N=C(\C[C@@H](C(=O)O)N)/OC(=O)O"                                                         
+A5N SMILES           "OpenEye OEToolkits" 1.6.1 "[H]N=C(CC(C(=O)O)N)OC(=O)O"                                                                 
+A5N InChI            InChI                1.03  "InChI=1S/C5H8N2O5/c6-2(4(8)9)1-3(7)12-5(10)11/h2,7H,1,6H2,(H,8,9)(H,10,11)/b7-3+/t2-/m0/s1" 
+A5N InChIKey         InChI                1.03  CBFIQFJPESIKON-PYTJRISJSA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+A5N "SYSTEMATIC NAME" ACDLabs              10.04 O-carboxy-4-imino-L-homoserine                    
+A5N "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-2-amino-4-carboxyoxy-4-imino-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+A5N "Create component"  2010-07-04 EBI  
+A5N "Modify descriptor" 2011-06-04 RCSB 
+# 

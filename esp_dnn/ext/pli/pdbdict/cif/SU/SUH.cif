@@ -1,0 +1,120 @@
+data_SUH
+# 
+_chem_comp.id                                    SUH 
+_chem_comp.name                                  "(2S)-2-methylbutanedioic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-07-28 
+_chem_comp.pdbx_modified_date                    2014-08-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.115 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SUH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4UU7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SUH OAG  OAG  O 0 1 N Y N -31.979 -24.682 -3.770 -3.039 -0.855 -0.124 OAG  SUH 1  
+SUH CAJ  CAJ  C 0 1 N N N -30.901 -24.326 -4.526 -1.946 -0.109 0.099  CAJ  SUH 2  
+SUH CAK  CAK  C 0 1 N N N -31.064 -24.601 -6.027 -0.575 -0.698 -0.117 CAK  SUH 3  
+SUH CAL  CAL  C 0 1 N N S -31.178 -26.133 -6.112 0.488  0.354  0.205  CAL  SUH 4  
+SUH CAM  CAM  C 0 1 N N N -31.494 -26.578 -7.565 1.857  -0.270 0.108  CAM  SUH 5  
+SUH OAN  OAN  O 0 1 N Y N -31.286 -25.736 -8.460 1.970  -1.436 -0.189 OAN  SUH 6  
+SUH OAO  OAO  O 0 1 N Y N -31.936 -27.736 -7.739 2.950  0.470  0.351  OAO  SUH 7  
+SUH OAP  OAP  O 0 1 N Y N -29.857 -23.820 -4.111 -2.060 1.034  0.473  OAP  SUH 8  
+SUH CAQ  CAQ  C 0 1 N N N -29.865 -26.792 -5.628 0.382  1.509  -0.792 CAQ  SUH 9  
+SUH HOAG HOAG H 0 0 N N N -31.807 -24.480 -2.858 -3.896 -0.433 0.029  HOAG SUH 10 
+SUH HAK  HAK  H 0 1 N N N -31.972 -24.119 -6.417 -0.443 -1.560 0.535  HAK  SUH 11 
+SUH HAKA HAKA H 0 0 N N N -30.189 -24.242 -6.588 -0.474 -1.010 -1.157 HAKA SUH 12 
+SUH HAL  HAL  H 0 1 N N N -31.999 -26.463 -5.458 0.332  0.730  1.216  HAL  SUH 13 
+SUH HOAO HOAO H 0 0 N N N -32.091 -27.880 -8.665 3.806  0.026  0.276  HOAO SUH 14 
+SUH HAQ  HAQ  H 0 1 N N N -29.958 -27.886 -5.693 0.539  1.133  -1.803 HAQ  SUH 15 
+SUH HAQA HAQA H 0 0 N N N -29.031 -26.456 -6.262 -0.608 1.960  -0.721 HAQA SUH 16 
+SUH HAQB HAQB H 0 0 N N N -29.672 -26.502 -4.585 1.140  2.258  -0.562 HAQB SUH 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SUH CAJ OAG  SING N N 1  
+SUH OAG HOAG SING N N 2  
+SUH CAK CAJ  SING N N 3  
+SUH CAJ OAP  DOUB N N 4  
+SUH CAL CAK  SING N N 5  
+SUH CAK HAK  SING N N 6  
+SUH CAK HAKA SING N N 7  
+SUH CAM CAL  SING N N 8  
+SUH CAL CAQ  SING N N 9  
+SUH CAL HAL  SING N N 10 
+SUH OAN CAM  DOUB N N 11 
+SUH OAO CAM  SING N N 12 
+SUH OAO HOAO SING N N 13 
+SUH CAQ HAQ  SING N N 14 
+SUH CAQ HAQA SING N N 15 
+SUH CAQ HAQB SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SUH SMILES           ACDLabs              12.01 "O=C(O)CC(C(=O)O)C"                                                       
+SUH InChI            InChI                1.03  "InChI=1S/C5H8O4/c1-3(5(8)9)2-4(6)7/h3H,2H2,1H3,(H,6,7)(H,8,9)/t3-/m0/s1" 
+SUH InChIKey         InChI                1.03  WXUAQHNMJWJLTG-VKHMYHEASA-N                                               
+SUH SMILES_CANONICAL CACTVS               3.385 "C[C@@H](CC(O)=O)C(O)=O"                                                  
+SUH SMILES           CACTVS               3.385 "C[CH](CC(O)=O)C(O)=O"                                                    
+SUH SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@@H](CC(=O)O)C(=O)O"                                                  
+SUH SMILES           "OpenEye OEToolkits" 1.7.6 "CC(CC(=O)O)C(=O)O"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SUH "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-2-methylbutanedioic acid" 
+SUH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-methylbutanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SUH "Create component" 2014-07-28 EBI  
+SUH "Initial release"  2014-08-20 RCSB 
+# 

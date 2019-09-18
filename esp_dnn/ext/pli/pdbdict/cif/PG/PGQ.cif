@@ -1,0 +1,111 @@
+data_PGQ
+# 
+_chem_comp.id                                    PGQ 
+_chem_comp.name                                  S-1,2-PROPANEDIOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-12-22 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      PGO 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        76.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PGQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HQS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PGQ C1  C1  C 0 1 N N N 70.120 7.680 19.144 -0.683 0.252  -0.731 C1  PGQ 1  
+PGQ C2  C2  C 0 1 N N S 71.454 7.875 18.049 -0.006 -0.370 0.491  C2  PGQ 2  
+PGQ C3  C3  C 0 1 N N N 70.962 8.432 16.745 -0.766 0.032  1.756  C3  PGQ 3  
+PGQ O1  O1  O 0 1 N N N 69.501 6.472 19.286 0.026  -0.124 -1.912 O1  PGQ 4  
+PGQ O2  O2  O 0 1 N N N 72.196 6.615 17.909 1.342  0.093  0.576  O2  PGQ 5  
+PGQ H11 1H1 H 0 1 N N N 70.446 8.023 20.153 -1.712 -0.102 -0.796 H11 PGQ 6  
+PGQ H12 2H1 H 0 1 N N N 69.345 8.438 18.885 -0.678 1.338  -0.635 H12 PGQ 7  
+PGQ H2  H2  H 0 1 N N N 72.181 8.612 18.460 -0.011 -1.456 0.395  H2  PGQ 8  
+PGQ H31 1H3 H 0 1 N N N 71.818 8.557 16.042 -0.283 -0.411 2.627  H31 PGQ 9  
+PGQ H32 2H3 H 0 1 N N N 70.145 7.812 16.305 -0.761 1.118  1.852  H32 PGQ 10 
+PGQ H33 3H3 H 0 1 N N N 70.389 9.379 16.882 -1.794 -0.321 1.691  H33 PGQ 11 
+PGQ HO1 HO1 H 0 1 N N N 68.771 6.365 19.884 -0.432 0.287  -2.657 HO1 PGQ 12 
+PGQ HO2 HO2 H 0 1 N N N 72.925 6.721 17.310 1.301  1.056  0.660  HO2 PGQ 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PGQ C1 C2  SING N N 1  
+PGQ C1 O1  SING N N 2  
+PGQ C1 H11 SING N N 3  
+PGQ C1 H12 SING N N 4  
+PGQ C2 C3  SING N N 5  
+PGQ C2 O2  SING N N 6  
+PGQ C2 H2  SING N N 7  
+PGQ C3 H31 SING N N 8  
+PGQ C3 H32 SING N N 9  
+PGQ C3 H33 SING N N 10 
+PGQ O1 HO1 SING N N 11 
+PGQ O2 HO2 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PGQ SMILES           ACDLabs              10.04 "OCC(O)C"                                           
+PGQ InChI            InChI                1.02b "InChI=1/C3H8O2/c1-3(5)2-4/h3-5H,2H2,1H3/t3-/m0/s1" 
+PGQ InChIKey         InChI                1.02b DNIAPMSPPWPWGF-VKHMYHEABO                           
+PGQ SMILES_CANONICAL CACTVS               3.341 "C[C@H](O)CO"                                       
+PGQ SMILES           CACTVS               3.341 "C[CH](O)CO"                                        
+PGQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](CO)O"                                      
+PGQ SMILES           "OpenEye OEToolkits" 1.5.0 "CC(CO)O"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PGQ "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-propane-1,2-diol" 
+PGQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-propane-1,2-diol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PGQ "Create component" 2000-12-22 RCSB 
+# 

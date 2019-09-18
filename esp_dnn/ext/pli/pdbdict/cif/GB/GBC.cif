@@ -1,0 +1,129 @@
+data_GBC
+# 
+_chem_comp.id                                    GBC 
+_chem_comp.name                                  GABACULINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H11 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        141.168 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GBC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GBN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GBC C1   C1   C 0 1 N N N 18.383 6.883 -3.001 -0.095 -0.039 0.532  C1   GBC 1  
+GBC C2   C2   C 0 1 N N N 17.998 7.212 -1.698 0.824  -0.248 -0.383 C2   GBC 2  
+GBC C3   C3   C 0 1 N N R 18.868 6.970 -0.637 0.537  -0.335 -1.854 C3   GBC 3  
+GBC C4   C4   C 0 1 N N N 20.092 6.390 -0.872 -0.835 0.266  -2.156 C4   GBC 4  
+GBC C5   C5   C 0 1 N N N 20.482 6.072 -2.168 -1.858 -0.345 -1.191 C5   GBC 5  
+GBC C6   C6   C 0 1 N N N 19.630 6.323 -3.232 -1.551 0.153  0.221  C6   GBC 6  
+GBC C7   C7   C 0 1 N N N 17.513 7.271 -4.179 0.325  0.011  1.939  C7   GBC 7  
+GBC N3   N3   N 0 1 N N N 18.498 7.333 0.755  1.567  0.404  -2.595 N3   GBC 8  
+GBC O1   O1   O 0 1 N N N 17.197 8.476 -4.326 1.495  -0.140 2.229  O1   GBC 9  
+GBC O2   O2   O 0 1 N N N 17.326 6.443 -5.098 -0.587 0.225  2.908  O2   GBC 10 
+GBC H2   H2   H 0 1 N N N 17.009 7.661 -1.507 1.847  -0.368 -0.058 H2   GBC 11 
+GBC H3   H3   H 0 1 N N N 17.818 7.208 -0.928 0.550  -1.380 -2.163 H3   GBC 12 
+GBC H41  1H4  H 0 1 N N N 20.878 7.036 -0.418 -0.801 1.347  -2.017 H41  GBC 13 
+GBC H42  2H4  H 0 1 N N N 20.169 5.469 -0.247 -1.118 0.036  -3.184 H42  GBC 14 
+GBC H51  1H5  H 0 1 N N N 21.458 6.569 -2.373 -2.863 -0.035 -1.478 H51  GBC 15 
+GBC H52  2H5  H 0 1 N N N 20.770 4.995 -2.194 -1.785 -1.432 -1.221 H52  GBC 16 
+GBC H61  1H6  H 0 1 N N N 19.491 5.376 -3.804 -1.799 1.212  0.293  H61  GBC 17 
+GBC H62  2H6  H 0 1 N N N 20.169 6.955 -3.975 -2.151 -0.406 0.940  H62  GBC 18 
+GBC HN31 1HN3 H 0 0 N N N 19.134 7.155 1.531  2.452  -0.026 -2.371 HN31 GBC 19 
+GBC HN32 2HN3 H 0 0 N N N 17.604 6.890 0.970  1.400  0.230  -3.575 HN32 GBC 20 
+GBC HO2  HO2  H 0 1 N N N 16.780 6.686 -5.836 -0.310 0.258  3.834  HO2  GBC 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GBC C1 C2   DOUB N N 1  
+GBC C1 C6   SING N N 2  
+GBC C1 C7   SING N N 3  
+GBC C2 C3   SING N N 4  
+GBC C2 H2   SING N N 5  
+GBC C3 C4   SING N N 6  
+GBC C3 N3   SING N N 7  
+GBC C3 H3   SING N N 8  
+GBC C4 C5   SING N N 9  
+GBC C4 H41  SING N N 10 
+GBC C4 H42  SING N N 11 
+GBC C5 C6   SING N N 12 
+GBC C5 H51  SING N N 13 
+GBC C5 H52  SING N N 14 
+GBC C6 H61  SING N N 15 
+GBC C6 H62  SING N N 16 
+GBC C7 O1   DOUB N N 17 
+GBC C7 O2   SING N N 18 
+GBC N3 HN31 SING N N 19 
+GBC N3 HN32 SING N N 20 
+GBC O2 HO2  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GBC SMILES           ACDLabs              10.04 "O=C(O)C1=CC(N)CCC1"                                                         
+GBC SMILES_CANONICAL CACTVS               3.341 "N[C@@H]1CCCC(=C1)C(O)=O"                                                    
+GBC SMILES           CACTVS               3.341 "N[CH]1CCCC(=C1)C(O)=O"                                                      
+GBC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CC(C=C(C1)C(=O)O)N"                                                       
+GBC SMILES           "OpenEye OEToolkits" 1.5.0 "C1CC(C=C(C1)C(=O)O)N"                                                       
+GBC InChI            InChI                1.03  "InChI=1S/C7H11NO2/c8-6-3-1-2-5(4-6)7(9)10/h4,6H,1-3,8H2,(H,9,10)/t6-/m1/s1" 
+GBC InChIKey         InChI                1.03  ZCGFCFMGAXXBTD-ZCFIWIBFSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GBC "SYSTEMATIC NAME" ACDLabs              10.04 "(3R)-3-aminocyclohex-1-ene-1-carboxylic acid" 
+GBC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3-aminocyclohexene-1-carboxylic acid"         
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GBC "Create component"  1999-07-08 RCSB 
+GBC "Modify descriptor" 2011-06-04 RCSB 
+# 

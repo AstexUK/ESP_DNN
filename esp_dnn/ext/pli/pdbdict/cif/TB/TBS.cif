@@ -1,0 +1,116 @@
+data_TBS
+# 
+_chem_comp.id                                    TBS 
+_chem_comp.name                                  4,5,6,7-TETRABROMOBENZOTRIAZOLE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H Br4 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         TETRABROMO-2-BENZOTRIAZOLE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        434.708 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TBS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1J91 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TBS C1   C1   C  0 1 Y N N 30.431 24.092 25.791 -0.421 0.004  -0.690 C1   TBS 1  
+TBS C2   C2   C  0 1 Y N N 30.880 25.449 25.485 -0.407 0.002  0.700  C2   TBS 2  
+TBS C3   C3   C  0 1 Y N N 30.977 26.427 26.541 0.773  0.001  1.386  C3   TBS 3  
+TBS C4   C4   C  0 1 Y N N 30.114 23.718 27.151 0.760  0.001  -1.399 C4   TBS 4  
+TBS N5   N5   N  0 1 Y N N 29.996 24.698 29.478 3.290  0.008  -1.112 N5   TBS 5  
+TBS C6   C6   C  0 1 Y N N 30.225 24.725 28.131 1.973  0.006  -0.717 C6   TBS 6  
+TBS C7   C7   C  0 1 Y N N 30.644 26.015 27.849 1.988  0.003  0.687  C7   TBS 7  
+TBS N8   N8   N  0 1 Y N N 30.645 26.744 29.042 3.277  0.003  1.083  N8   TBS 8  
+TBS N9   N9   N  0 1 Y N N 30.279 25.999 29.959 4.058  0.006  0.061  N9   TBS 9  
+TBS BR10 BR10 BR 0 0 N N N 29.536 21.946 27.658 0.734  -0.006 -3.290 BR10 TBS 10 
+TBS BR11 BR11 BR 0 0 N N N 30.283 22.784 24.402 -2.071 0.004  -1.613 BR11 TBS 11 
+TBS BR12 BR12 BR 0 0 N N N 31.325 25.959 23.676 -2.042 -0.000 1.651  BR12 TBS 12 
+TBS BR13 BR13 BR 0 0 N N N 31.554 28.236 26.241 0.768  -0.003 3.277  BR13 TBS 13 
+TBS H51  1H5  H  0 1 N N N 29.689 23.914 30.017 3.623  0.009  -2.023 H51  TBS 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TBS C1 C2   DOUB Y N 1  
+TBS C1 C4   SING Y N 2  
+TBS C1 BR11 SING N N 3  
+TBS C2 C3   SING Y N 4  
+TBS C2 BR12 SING N N 5  
+TBS C3 C7   DOUB Y N 6  
+TBS C3 BR13 SING N N 7  
+TBS C4 C6   DOUB Y N 8  
+TBS C4 BR10 SING N N 9  
+TBS N5 C6   SING Y N 10 
+TBS N5 N9   SING Y N 11 
+TBS N5 H51  SING N N 12 
+TBS C6 C7   SING Y N 13 
+TBS C7 N8   SING Y N 14 
+TBS N8 N9   DOUB Y N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TBS SMILES           ACDLabs              10.04 "Brc2c1c(nnn1)c(Br)c(Br)c2Br"                                        
+TBS SMILES_CANONICAL CACTVS               3.341 "Brc1c(Br)c(Br)c2nn[nH]c2c1Br"                                       
+TBS SMILES           CACTVS               3.341 "Brc1c(Br)c(Br)c2nn[nH]c2c1Br"                                       
+TBS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c12c(c(c(c(c1Br)Br)Br)Br)nn[nH]2"                                   
+TBS SMILES           "OpenEye OEToolkits" 1.5.0 "c12c(c(c(c(c1Br)Br)Br)Br)nn[nH]2"                                   
+TBS InChI            InChI                1.03  "InChI=1S/C6HBr4N3/c7-1-2(8)4(10)6-5(3(1)9)11-13-12-6/h(H,11,12,13)" 
+TBS InChIKey         InChI                1.03  OMZYUVOATZSGJY-UHFFFAOYSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TBS "SYSTEMATIC NAME" ACDLabs              10.04 4,5,6,7-tetrabromo-1H-benzotriazole 
+TBS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4,5,6,7-tetrabromo-1H-benzotriazole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TBS "Create component"  2001-05-31 PDBJ 
+TBS "Modify descriptor" 2011-06-04 RCSB 
+# 

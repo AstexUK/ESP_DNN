@@ -1,0 +1,123 @@
+data_QY9
+# 
+_chem_comp.id                                    QY9 
+_chem_comp.name                                  "phenyl acetate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-07-31 
+_chem_comp.pdbx_modified_date                    2013-10-25 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        136.148 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     QY9 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4c01 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+QY9 CAA  CAA  C 0 1 N N N 33.363 -65.646 -14.318 3.473  0.195  0.131  CAA  QY9 1  
+QY9 OAB  OAB  O 0 1 N N N 31.953 -63.850 -13.668 1.662  -0.629 -1.131 OAB  QY9 2  
+QY9 CAC  CAC  C 0 1 Y N N 31.838 -65.019 -8.638  -2.872 -0.139 -0.268 CAC  QY9 3  
+QY9 CAD  CAD  C 0 1 Y N N 30.652 -64.711 -9.286  -2.131 -1.222 0.169  CAD  QY9 4  
+QY9 CAE  CAE  C 0 1 Y N N 32.886 -65.603 -9.327  -2.287 1.110  -0.361 CAE  QY9 5  
+QY9 CAF  CAF  C 0 1 Y N N 30.513 -64.991 -10.637 -0.803 -1.057 0.514  CAF  QY9 6  
+QY9 CAG  CAG  C 0 1 Y N N 32.738 -65.882 -10.676 -0.960 1.280  -0.017 CAG  QY9 7  
+QY9 OAH  OAH  O 0 1 N N N 31.415 -65.857 -12.706 1.092  0.360  0.762  OAH  QY9 8  
+QY9 CAI  CAI  C 0 1 N N N 32.194 -65.043 -13.561 2.010  -0.055 -0.126 CAI  QY9 9  
+QY9 CAJ  CAJ  C 0 1 Y N N 31.557 -65.576 -11.334 -0.214 0.196  0.422  CAJ  QY9 10 
+QY9 HAA  HAA  H 0 1 N N N 33.867 -64.861 -14.901 4.061  -0.211 -0.693 HAA  QY9 11 
+QY9 HAAA HAAA H 0 0 N N N 34.075 -66.086 -13.604 3.650  1.267  0.210  HAAA QY9 12 
+QY9 HAAB HAAB H 0 0 N N N 32.995 -66.429 -14.998 3.767  -0.292 1.061  HAAB QY9 13 
+QY9 HAC  HAC  H 0 1 N N N 31.945 -64.801 -7.586  -3.909 -0.271 -0.541 HAC  QY9 14 
+QY9 HAD  HAD  H 0 1 N N N 29.839 -64.255 -8.741  -2.590 -2.196 0.241  HAD  QY9 15 
+QY9 HAE  HAE  H 0 1 N N N 33.809 -65.839 -8.819  -2.868 1.954  -0.703 HAE  QY9 16 
+QY9 HAF  HAF  H 0 1 N N N 29.591 -64.753 -11.146 -0.225 -1.902 0.856  HAF  QY9 17 
+QY9 HAG  HAG  H 0 1 N N N 33.550 -66.342 -11.220 -0.503 2.256  -0.090 HAG  QY9 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+QY9 CAA CAI  SING N N 1  
+QY9 OAB CAI  DOUB N N 2  
+QY9 CAC CAD  DOUB Y N 3  
+QY9 CAC CAE  SING Y N 4  
+QY9 CAD CAF  SING Y N 5  
+QY9 CAE CAG  DOUB Y N 6  
+QY9 CAF CAJ  DOUB Y N 7  
+QY9 CAG CAJ  SING Y N 8  
+QY9 OAH CAI  SING N N 9  
+QY9 OAH CAJ  SING N N 10 
+QY9 CAA HAA  SING N N 11 
+QY9 CAA HAAA SING N N 12 
+QY9 CAA HAAB SING N N 13 
+QY9 CAC HAC  SING N N 14 
+QY9 CAD HAD  SING N N 15 
+QY9 CAE HAE  SING N N 16 
+QY9 CAF HAF  SING N N 17 
+QY9 CAG HAG  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+QY9 SMILES           ACDLabs              12.01 "O=C(Oc1ccccc1)C"                                   
+QY9 InChI            InChI                1.03  "InChI=1S/C8H8O2/c1-7(9)10-8-5-3-2-4-6-8/h2-6H,1H3" 
+QY9 InChIKey         InChI                1.03  IPBVNPXQWQGGJP-UHFFFAOYSA-N                         
+QY9 SMILES_CANONICAL CACTVS               3.385 "CC(=O)Oc1ccccc1"                                   
+QY9 SMILES           CACTVS               3.385 "CC(=O)Oc1ccccc1"                                   
+QY9 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(=O)Oc1ccccc1"                                   
+QY9 SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=O)Oc1ccccc1"                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+QY9 "SYSTEMATIC NAME" ACDLabs              12.01 "phenyl acetate"   
+QY9 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "phenyl ethanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+QY9 "Create component" 2013-07-31 EBI  
+QY9 "Initial release"  2013-10-30 RCSB 
+# 

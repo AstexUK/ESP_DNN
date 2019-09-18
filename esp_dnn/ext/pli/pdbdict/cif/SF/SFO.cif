@@ -1,0 +1,97 @@
+data_SFO
+# 
+_chem_comp.id                                    SFO 
+_chem_comp.name                                  "SULFONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H3 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        83.087 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SFO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SFO S   S   S 0 1 N N N 11.224 6.316 -1.037 0.399  1.284  0.031  S   SFO 1 
+SFO O1  O1  O 0 1 N N N 12.049 6.759 0.054  0.241  1.776  -1.323 O1  SFO 2 
+SFO O2  O2  O 0 1 N N N 10.348 5.242 -0.650 1.674  1.300  0.719  O2  SFO 3 
+SFO O3  O3  O 0 1 N N N 10.392 7.429 -1.409 -0.668 2.052  0.993  O3  SFO 4 
+SFO HO3 HO3 H 0 1 N N N 9.846  7.136 -2.129 -0.273 2.563  1.738  HO3 SFO 5 
+SFO HS1 HS1 H 0 1 N Y N 11.991 5.896 -1.999 0.000  -0.000 0.000  HS1 SFO 6 
+SFO HO2 HO2 H 0 1 N N N ?      ?     ?      ?      ?      ?      HO2 SFO 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SFO S   O1  DOUB N N 1 
+SFO S   O2  SING N N 2 
+SFO S   O3  SING N N 3 
+SFO O3  HO3 SING N N 4 
+SFO HS1 S   SING N N 5 
+SFO O2  HO2 SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SFO InChI            InChI                1.02b "InChI=1/H4O3S/c1-4(2)3/h4H2,(H2,1,2,3)/f/h1-2H" 
+SFO InChIKey         InChI                1.02b BESWYMJGRRXSAL-KRMADWITCS                        
+SFO SMILES_CANONICAL CACTVS               3.341 "O[SH](O)=O"                                     
+SFO SMILES           CACTVS               3.341 "O[SH](O)=O"                                     
+SFO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "O[SH](=O)O"                                     
+SFO SMILES           "OpenEye OEToolkits" 1.5.0 "O[SH](=O)O"                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SFO "SYSTEMATIC NAME" ACD-LABS 4.04 "sulfurous acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SFO "Create component" 1999-07-08 RCSB 
+# 

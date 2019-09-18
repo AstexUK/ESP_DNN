@@ -1,0 +1,104 @@
+data_MTF
+# 
+_chem_comp.id                                    MTF 
+_chem_comp.name                                  N-METHYLTHIOFORMAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 N S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        75.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MTF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EPP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MTF C   C   C 0 1 N N N -3.486 30.561 17.614 -0.890 0.000  -0.160 C   MTF 1 
+MTF S   S   S 0 1 N N N -4.724 31.560 18.115 0.286  0.000  -1.243 S   MTF 2 
+MTF N   N   N 0 1 N N N -3.498 29.206 18.031 -0.595 0.000  1.154  N   MTF 3 
+MTF CM  CM  C 0 1 N N N -4.647 28.861 18.883 0.802  0.000  1.592  CM  MTF 4 
+MTF H   H   H 0 1 N N N -2.619 30.807 16.977 -1.920 0.000  -0.483 H   MTF 5 
+MTF HN  HN  H 0 1 N N N -2.764 28.554 17.750 -1.309 0.000  1.811  HN  MTF 6 
+MTF HM1 1HM H 0 1 N N N -4.656 27.795 19.210 0.842  0.000  2.681  HM1 MTF 7 
+MTF HM2 2HM H 0 1 N N N -4.704 29.544 19.762 1.302  -0.890 1.210  HM2 MTF 8 
+MTF HM3 3HM H 0 1 N N N -5.605 29.126 18.378 1.302  0.890  1.210  HM3 MTF 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MTF C  S   DOUB N N 1 
+MTF C  N   SING N N 2 
+MTF C  H   SING N N 3 
+MTF N  CM  SING N N 4 
+MTF N  HN  SING N N 5 
+MTF CM HM1 SING N N 6 
+MTF CM HM2 SING N N 7 
+MTF CM HM3 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MTF SMILES           ACDLabs              10.04 S=CNC                                      
+MTF SMILES_CANONICAL CACTVS               3.341 CNC=S                                      
+MTF SMILES           CACTVS               3.341 CNC=S                                      
+MTF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CNC=S                                      
+MTF SMILES           "OpenEye OEToolkits" 1.5.0 CNC=S                                      
+MTF InChI            InChI                1.03  "InChI=1S/C2H5NS/c1-3-2-4/h2H,1H3,(H,3,4)" 
+MTF InChIKey         InChI                1.03  YGQNFDNQDVKVAW-UHFFFAOYSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MTF "SYSTEMATIC NAME" ACDLabs              10.04 N-methylthioformamide    
+MTF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 N-methylmethanethioamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MTF "Create component"  1999-07-08 RCSB 
+MTF "Modify descriptor" 2011-06-04 RCSB 
+# 

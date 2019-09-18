@@ -1,0 +1,120 @@
+data_4FT
+# 
+_chem_comp.id                                    4FT 
+_chem_comp.name                                  phthalazine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-03-17 
+_chem_comp.pdbx_modified_date                    2015-05-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.147 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4FT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4YO4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4FT C4  C1 C 0 1 Y N N 26.678 4.356 11.977 -1.226 -1.364 0.002  C4  4FT 1  
+4FT C5  C2 C 0 1 Y N N 25.568 4.098 11.200 0.018  -0.711 0.001  C5  4FT 2  
+4FT C6  C3 C 0 1 Y N N 25.381 4.904 9.990  0.018  0.711  0.001  C6  4FT 3  
+4FT C7  C4 C 0 1 Y N N 24.277 4.688 9.188  1.237  1.401  0.000  C7  4FT 4  
+4FT C8  C5 C 0 1 Y N N 23.395 3.679 9.559  2.404  0.697  -0.001 C8  4FT 5  
+4FT C9  C6 C 0 1 Y N N 23.562 2.922 10.702 2.404  -0.697 -0.001 C9  4FT 6  
+4FT C10 C7 C 0 1 Y N N 24.650 3.113 11.544 1.237  -1.401 0.000  C10 4FT 7  
+4FT N3  N1 N 0 1 Y N N 27.549 5.310 11.626 -2.324 -0.640 -0.002 N3  4FT 8  
+4FT N2  N2 N 0 1 Y N N 27.365 6.089 10.480 -2.324 0.640  -0.002 N2  4FT 9  
+4FT C1  C8 C 0 1 Y N N 26.300 5.884 9.688  -1.226 1.364  0.002  C1  4FT 10 
+4FT H1  H1 H 0 1 N N N 26.846 3.783 12.877 -1.280 -2.443 0.002  H1  4FT 11 
+4FT H2  H2 H 0 1 N N N 24.105 5.283 8.303  1.252  2.481  -0.000 H2  4FT 12 
+4FT H3  H3 H 0 1 N N N 22.543 3.479 8.926  3.345  1.228  -0.002 H3  4FT 13 
+4FT H4  H4 H 0 1 N N N 22.831 2.165 10.946 3.345  -1.228 -0.003 H4  4FT 14 
+4FT H5  H5 H 0 1 N N N 24.778 2.517 12.435 1.252  -2.481 0.001  H5  4FT 15 
+4FT H6  H6 H 0 1 N N N 26.163 6.493 8.807  -1.280 2.443  0.002  H6  4FT 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4FT C7  C8  DOUB Y N 1  
+4FT C7  C6  SING Y N 2  
+4FT C8  C9  SING Y N 3  
+4FT C1  C6  DOUB Y N 4  
+4FT C1  N2  SING Y N 5  
+4FT C6  C5  SING Y N 6  
+4FT N2  N3  DOUB Y N 7  
+4FT C9  C10 DOUB Y N 8  
+4FT C5  C10 SING Y N 9  
+4FT C5  C4  DOUB Y N 10 
+4FT N3  C4  SING Y N 11 
+4FT C4  H1  SING N N 12 
+4FT C7  H2  SING N N 13 
+4FT C8  H3  SING N N 14 
+4FT C9  H4  SING N N 15 
+4FT C10 H5  SING N N 16 
+4FT C1  H6  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4FT SMILES           ACDLabs              12.01 c2c1ccccc1cnn2                                    
+4FT InChI            InChI                1.03  "InChI=1S/C8H6N2/c1-2-4-8-6-10-9-5-7(8)3-1/h1-6H" 
+4FT InChIKey         InChI                1.03  LFSXCDWNBUNEEM-UHFFFAOYSA-N                       
+4FT SMILES_CANONICAL CACTVS               3.385 c1ccc2cnncc2c1                                    
+4FT SMILES           CACTVS               3.385 c1ccc2cnncc2c1                                    
+4FT SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 c1ccc2cnncc2c1                                    
+4FT SMILES           "OpenEye OEToolkits" 1.9.2 c1ccc2cnncc2c1                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4FT "SYSTEMATIC NAME" ACDLabs              12.01 phthalazine 
+4FT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 phthalazine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4FT "Create component" 2015-03-17 RCSB 
+4FT "Initial release"  2015-05-06 RCSB 
+# 

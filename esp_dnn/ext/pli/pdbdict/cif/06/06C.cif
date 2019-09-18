@@ -1,0 +1,96 @@
+data_06C
+# 
+_chem_comp.id                                    06C 
+_chem_comp.name                                  Iodomethane 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H3 I" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Methyl iodine" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-03-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        141.939 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     06C 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3POT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+06C C1 C1 C 0 1 N N N 28.594 31.543 -7.934 -1.925 0.000  -0.000 C1 06C 1 
+06C H  H  H 0 1 N N N 28.168 31.365 -8.933 -2.289 -1.027 0.021  H  06C 2 
+06C HA HA H 0 1 N N N 29.506 32.151 -8.027 -2.289 0.495  -0.900 HA 06C 3 
+06C HB HB H 0 1 N N N 28.842 30.580 -7.464 -2.289 0.532  0.879  HB 06C 4 
+06C I1 I1 I 0 1 N Y N 27.193 32.561 -6.746 0.237  -0.000 0.000  I1 06C 5 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+06C C1 H  SING N N 1 
+06C C1 HA SING N N 2 
+06C C1 HB SING N N 3 
+06C C1 I1 SING N N 4 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+06C SMILES           ACDLabs              12.01 IC                          
+06C SMILES_CANONICAL CACTVS               3.370 CI                          
+06C SMILES           CACTVS               3.370 CI                          
+06C SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CI                          
+06C SMILES           "OpenEye OEToolkits" 1.7.0 CI                          
+06C InChI            InChI                1.03  InChI=1S/CH3I/c1-2/h1H3     
+06C InChIKey         InChI                1.03  INQOMBQAUSQDDS-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+06C "SYSTEMATIC NAME" ACDLabs              12.01 iodomethane 
+06C "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 iodomethane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+06C "Create component"  2011-03-03 RCSB 
+06C "Modify descriptor" 2011-06-04 RCSB 
+# 

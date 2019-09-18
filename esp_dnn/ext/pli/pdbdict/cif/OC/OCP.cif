@@ -1,0 +1,282 @@
+data_OCP
+# 
+_chem_comp.id                                    OCP 
+_chem_comp.name                                  "OCTYL-PHOSPHINIC ACID 1,2-BIS-OCTYLCARBAMOYLOXY-ETHYL ESTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C29 H59 N2 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        578.762 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OCP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EX9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OCP P1   P1   P 0 1 N N S 0.597  -1.087 45.076 2.671   0.221  -3.314  P1   OCP 1  
+OCP O1   O1   O 0 1 N N N 1.151  -2.025 46.228 1.828   -0.234 -2.020  O1   OCP 2  
+OCP O2   O2   O 0 1 N Y N 1.198  -1.462 43.691 4.145   -0.423 -3.248  O2   OCP 3  
+OCP O4   O4   O 0 1 N N N 0.970  0.319  45.117 2.779   1.697  -3.338  O4   OCP 4  
+OCP O5   O5   O 0 1 N N N 3.670  -2.610 49.039 0.457   0.421  0.374   O5   OCP 5  
+OCP O6   O6   O 0 1 N N N 3.060  -1.202 50.977 -0.377  -1.358 -0.655  O6   OCP 6  
+OCP O3   O3   O 0 1 N N N 0.451  -2.753 50.195 1.834   -0.032 2.826   O3   OCP 7  
+OCP O7   O7   O 0 1 N N N -1.978 -3.409 49.936 3.358   0.939  4.114   O7   OCP 8  
+OCP C1   C1   C 0 1 N N N 2.357  -1.769 47.081 2.539   0.241  -0.875  C1   OCP 9  
+OCP C2   C2   C 0 1 N N R 2.254  -2.064 48.585 1.787   -0.160 0.394   C2   OCP 10 
+OCP C3   C3   C 0 1 N N N 1.169  -3.169 48.995 2.548   0.348  1.620   C3   OCP 11 
+OCP C4   C4   C 0 1 N N N -1.032 -0.863 44.627 1.825   -0.351 -4.823  C4   OCP 12 
+OCP C5   C5   C 0 1 N N N -1.431 -2.375 44.492 2.626   0.081  -6.053  C5   OCP 13 
+OCP C6   C6   C 0 1 N N N -3.067 -2.466 44.387 1.916   -0.398 -7.320  C6   OCP 14 
+OCP C7   C7   C 0 1 N N N -3.774 -1.957 45.656 2.717   0.034  -8.549  C7   OCP 15 
+OCP C8   C8   C 0 1 N N N -4.785 -2.601 46.556 2.007   -0.446 -9.816  C8   OCP 16 
+OCP C9   C9   C 0 1 N N N -5.693 -1.531 47.317 2.808   -0.013 -11.045 C9   OCP 17 
+OCP C10  C10  C 0 1 N N N -5.725 -2.313 48.685 2.097   -0.493 -12.312 C10  OCP 18 
+OCP C11  C11  C 0 1 N N N -5.819 -1.333 50.084 2.899   -0.060 -13.542 C11  OCP 19 
+OCP C12  C12  C 0 1 N N N -0.759 -3.358 50.465 2.321   0.310  4.033   C12  OCP 20 
+OCP N1   N1   N 0 1 N N N -0.548 -4.200 51.819 1.659   -0.043 5.152   N1   OCP 21 
+OCP C13  C13  C 0 1 N N N -1.452 -3.657 53.119 2.188   0.329  6.466   C13  OCP 22 
+OCP C14  C14  C 0 1 N N N -1.111 -4.761 54.177 1.253   -0.189 7.560   C14  OCP 23 
+OCP C15  C15  C 0 1 N N N -1.744 -4.106 55.315 1.806   0.200  8.932   C15  OCP 24 
+OCP C16  C16  C 0 1 N N N -2.593 -4.176 56.412 0.871   -0.319 10.025  C16  OCP 25 
+OCP C17  C17  C 0 1 N N N -2.734 -4.901 57.734 1.424   0.070  11.398  C17  OCP 26 
+OCP C18  C18  C 0 1 N N N -1.738 -4.447 58.803 0.488   -0.449 12.491  C18  OCP 27 
+OCP C19  C19  C 0 1 N N N -2.838 -3.742 59.597 1.042   -0.059 13.863  C19  OCP 28 
+OCP C20  C20  C 0 1 N N N -2.312 -3.038 60.894 0.106   -0.578 14.957  C20  OCP 29 
+OCP C22  C22  C 0 1 N N N 3.839  -2.013 50.368 -0.566  -0.258 -0.176  C22  OCP 30 
+OCP N2   N2   N 0 1 N N N 4.959  -2.221 51.234 -1.801  0.282  -0.194  N2   OCP 31 
+OCP C23  C23  C 0 1 N N N 5.776  -3.442 52.256 -2.915  -0.456 -0.794  C23  OCP 32 
+OCP C24  C24  C 0 1 N N N 6.157  -3.463 53.672 -4.195  0.373  -0.685  C24  OCP 33 
+OCP C25  C25  C 0 1 N N N 7.435  -4.010 53.438 -5.358  -0.398 -1.311  C25  OCP 34 
+OCP C26  C26  C 0 1 N N N 8.203  -4.091 54.809 -6.639  0.432  -1.202  C26  OCP 35 
+OCP C27  C27  C 0 1 N N N 8.230  -5.630 55.028 -7.802  -0.339 -1.828  C27  OCP 36 
+OCP C28  C28  C 0 1 N N N 8.814  -6.040 56.365 -9.082  0.491  -1.719  C28  OCP 37 
+OCP C29  C29  C 0 1 N N N 7.528  -6.197 57.260 -10.246 -0.280 -2.345  C29  OCP 38 
+OCP C30  C30  C 0 1 N N N 8.131  -6.660 58.781 -11.526 0.549  -2.236  C30  OCP 39 
+OCP HO2  HO2  H 0 1 N N N 0.866  -0.900 43.000 4.031   -1.383 -3.234  HO2  OCP 40 
+OCP H11  1H1  H 0 1 N N N 3.227  -2.323 46.658 2.618   1.327  -0.922  H11  OCP 41 
+OCP H12  2H1  H 0 1 N N N 2.688  -0.714 46.937 3.537   -0.196 -0.860  H12  OCP 42 
+OCP H2   H2   H 0 1 N N N 1.934  -1.115 49.076 1.708   -1.246 0.442   H2   OCP 43 
+OCP H31  1H3  H 0 1 N N N 1.627  -4.178 49.113 2.627   1.434  1.573   H31  OCP 44 
+OCP H32  2H3  H 0 1 N N N 0.474  -3.401 48.154 3.546   -0.088 1.635   H32  OCP 45 
+OCP H41  1H4  H 0 1 N N N -1.657 -0.239 45.307 1.746   -1.438 -4.805  H41  OCP 46 
+OCP H42  2H4  H 0 1 N N N -1.221 -0.214 43.740 0.827   0.084  -4.868  H42  OCP 47 
+OCP H51  1H5  H 0 1 N N N -0.916 -2.881 43.642 2.705   1.168  -6.070  H51  OCP 48 
+OCP H52  2H5  H 0 1 N N N -1.017 -3.004 45.314 3.624   -0.354 -6.008  H52  OCP 49 
+OCP H61  1H6  H 0 1 N N N -3.439 -1.933 43.481 1.837   -1.485 -7.302  H61  OCP 50 
+OCP H62  2H6  H 0 1 N N N -3.394 -3.501 44.135 0.918   0.037  -7.364  H62  OCP 51 
+OCP H71  1H7  H 0 1 N N N -2.944 -1.654 46.337 2.796   1.121  -8.567  H71  OCP 52 
+OCP H72  2H7  H 0 1 N N N -4.245 -0.994 45.347 3.715   -0.401 -8.504  H72  OCP 53 
+OCP H81  1H8  H 0 1 N N N -5.411 -3.334 45.996 1.928   -1.533 -9.798  H81  OCP 54 
+OCP H82  2H8  H 0 1 N N N -4.295 -3.297 47.276 1.009   -0.010 -9.860  H82  OCP 55 
+OCP H91  1H9  H 0 1 N N N -5.344 -0.471 47.332 2.887   1.073  -11.063 H91  OCP 56 
+OCP H92  2H9  H 0 1 N N N -6.669 -1.255 46.853 3.806   -0.449 -11.001 H92  OCP 57 
+OCP H101 1H10 H 0 0 N N N -6.555 -3.057 48.681 2.018   -1.580 -12.295 H101 OCP 58 
+OCP H102 2H10 H 0 0 N N N -4.848 -2.998 48.755 1.099   -0.057 -12.357 H102 OCP 59 
+OCP H111 1H11 H 0 0 N N N -5.841 -1.886 51.051 2.392   -0.402 -14.444 H111 OCP 60 
+OCP H112 2H11 H 0 0 N N N -4.988 -0.589 50.087 2.977   1.026  -13.559 H112 OCP 61 
+OCP H113 3H11 H 0 0 N N N -6.695 -0.647 50.013 3.897   -0.496 -13.497 H113 OCP 62 
+OCP HN1  HN1  H 0 1 N N N 0.091  -4.994 51.850 0.831   -0.545 5.088   HN1  OCP 63 
+OCP H131 1H13 H 0 0 N N N -1.259 -2.605 53.437 2.259   1.415  6.534   H131 OCP 64 
+OCP H132 2H13 H 0 0 N N N -2.537 -3.495 52.920 3.178   -0.107 6.597   H132 OCP 65 
+OCP H141 1H14 H 0 0 N N N -1.431 -5.803 53.946 1.182   -1.275 7.492   H141 OCP 66 
+OCP H142 2H14 H 0 0 N N N -0.039 -5.048 54.286 0.263   0.247  7.429   H142 OCP 67 
+OCP H151 1H15 H 0 0 N N N -0.830 -3.720 55.825 1.877   1.285  9.000   H151 OCP 68 
+OCP H152 2H15 H 0 0 N N N -2.217 -3.248 54.782 2.796   -0.237 9.062   H152 OCP 69 
+OCP H161 1H16 H 0 0 N N N -2.638 -3.109 56.732 0.800   -1.405 9.957   H161 OCP 70 
+OCP H162 2H16 H 0 0 N N N -3.572 -4.395 55.927 -0.118  0.118  9.895   H162 OCP 71 
+OCP H171 1H17 H 0 0 N N N -3.779 -4.821 58.114 1.495   1.156  11.466  H171 OCP 72 
+OCP H172 2H17 H 0 0 N N N -2.671 -6.004 57.583 2.414   -0.367 11.528  H172 OCP 73 
+OCP H181 1H18 H 0 0 N N N -1.101 -5.207 59.312 0.418   -1.534 12.423  H181 OCP 74 
+OCP H182 2H18 H 0 0 N N N -0.834 -3.871 58.495 -0.500  -0.011 12.361  H182 OCP 75 
+OCP H191 1H19 H 0 0 N N N -3.391 -3.020 58.951 1.112   1.026  13.931  H191 OCP 76 
+OCP H192 2H19 H 0 0 N N N -3.666 -4.447 59.837 2.031   -0.496 13.994  H192 OCP 77 
+OCP H201 1H20 H 0 0 N N N -3.114 -2.523 61.473 0.500   -0.301 15.934  H201 OCP 78 
+OCP H202 2H20 H 0 0 N N N -1.758 -3.759 61.539 -0.883  -0.141 14.826  H202 OCP 79 
+OCP H203 3H20 H 0 0 N N N -1.483 -2.332 60.653 0.036   -1.664 14.889  H203 OCP 80 
+OCP HN2  HN2  H 0 1 N N N 5.248  -1.254 51.085 -1.952  1.160  0.188   HN2  OCP 81 
+OCP H231 1H23 H 0 0 N N N 5.160  -4.362 52.125 -2.697  -0.653 -1.843  H231 OCP 82 
+OCP H232 2H23 H 0 0 N N N 6.726  -3.658 51.714 -3.049  -1.401 -0.267  H232 OCP 83 
+OCP H241 1H24 H 0 0 N N N 6.092  -2.509 54.246 -4.412  0.570  0.364   H241 OCP 84 
+OCP H242 2H24 H 0 0 N N N 5.484  -3.990 54.387 -4.061  1.318  -1.211  H242 OCP 85 
+OCP H251 1H25 H 0 0 N N N 7.390  -4.993 52.914 -5.141  -0.594 -2.360  H251 OCP 86 
+OCP H252 2H25 H 0 0 N N N 8.004  -3.448 52.661 -5.492  -1.343 -0.784  H252 OCP 87 
+OCP H261 1H26 H 0 0 N N N 9.194  -3.581 54.837 -6.856  0.629  -0.152  H261 OCP 88 
+OCP H262 2H26 H 0 0 N N N 7.767  -3.492 55.642 -6.504  1.377  -1.728  H262 OCP 89 
+OCP H271 1H27 H 0 0 N N N 7.213  -6.066 54.891 -7.585  -0.536 -2.877  H271 OCP 90 
+OCP H272 2H27 H 0 0 N N N 8.763  -6.138 54.191 -7.936  -1.284 -1.301  H272 OCP 91 
+OCP H281 1H28 H 0 0 N N N 9.476  -6.936 56.333 -9.300  0.688  -0.669  H281 OCP 92 
+OCP H282 2H28 H 0 0 N N N 9.588  -5.348 56.771 -8.948  1.436  -2.246  H282 OCP 93 
+OCP H291 1H29 H 0 0 N N N 6.874  -5.293 57.283 -10.028 -0.477 -3.394  H291 OCP 94 
+OCP H292 2H29 H 0 0 N N N 6.762  -6.891 56.841 -10.380 -1.225 -1.818  H292 OCP 95 
+OCP H301 1H30 H 0 0 N N N 7.220  -6.771 59.414 -12.355 -0.000 -2.682  H301 OCP 96 
+OCP H302 2H30 H 0 0 N N N 8.784  -7.563 58.757 -11.743 0.746  -1.186  H302 OCP 97 
+OCP H303 3H30 H 0 0 N N N 8.896  -5.966 59.199 -11.392 1.494  -2.763  H303 OCP 98 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OCP P1  O1   SING N N 1  
+OCP P1  O2   SING N N 2  
+OCP P1  O4   DOUB N N 3  
+OCP P1  C4   SING N N 4  
+OCP O1  C1   SING N N 5  
+OCP O2  HO2  SING N N 6  
+OCP O5  C2   SING N N 7  
+OCP O5  C22  SING N N 8  
+OCP O6  C22  DOUB N N 9  
+OCP O3  C3   SING N N 10 
+OCP O3  C12  SING N N 11 
+OCP O7  C12  DOUB N N 12 
+OCP C1  C2   SING N N 13 
+OCP C1  H11  SING N N 14 
+OCP C1  H12  SING N N 15 
+OCP C2  C3   SING N N 16 
+OCP C2  H2   SING N N 17 
+OCP C3  H31  SING N N 18 
+OCP C3  H32  SING N N 19 
+OCP C4  C5   SING N N 20 
+OCP C4  H41  SING N N 21 
+OCP C4  H42  SING N N 22 
+OCP C5  C6   SING N N 23 
+OCP C5  H51  SING N N 24 
+OCP C5  H52  SING N N 25 
+OCP C6  C7   SING N N 26 
+OCP C6  H61  SING N N 27 
+OCP C6  H62  SING N N 28 
+OCP C7  C8   SING N N 29 
+OCP C7  H71  SING N N 30 
+OCP C7  H72  SING N N 31 
+OCP C8  C9   SING N N 32 
+OCP C8  H81  SING N N 33 
+OCP C8  H82  SING N N 34 
+OCP C9  C10  SING N N 35 
+OCP C9  H91  SING N N 36 
+OCP C9  H92  SING N N 37 
+OCP C10 C11  SING N N 38 
+OCP C10 H101 SING N N 39 
+OCP C10 H102 SING N N 40 
+OCP C11 H111 SING N N 41 
+OCP C11 H112 SING N N 42 
+OCP C11 H113 SING N N 43 
+OCP C12 N1   SING N N 44 
+OCP N1  C13  SING N N 45 
+OCP N1  HN1  SING N N 46 
+OCP C13 C14  SING N N 47 
+OCP C13 H131 SING N N 48 
+OCP C13 H132 SING N N 49 
+OCP C14 C15  SING N N 50 
+OCP C14 H141 SING N N 51 
+OCP C14 H142 SING N N 52 
+OCP C15 C16  SING N N 53 
+OCP C15 H151 SING N N 54 
+OCP C15 H152 SING N N 55 
+OCP C16 C17  SING N N 56 
+OCP C16 H161 SING N N 57 
+OCP C16 H162 SING N N 58 
+OCP C17 C18  SING N N 59 
+OCP C17 H171 SING N N 60 
+OCP C17 H172 SING N N 61 
+OCP C18 C19  SING N N 62 
+OCP C18 H181 SING N N 63 
+OCP C18 H182 SING N N 64 
+OCP C19 C20  SING N N 65 
+OCP C19 H191 SING N N 66 
+OCP C19 H192 SING N N 67 
+OCP C20 H201 SING N N 68 
+OCP C20 H202 SING N N 69 
+OCP C20 H203 SING N N 70 
+OCP C22 N2   SING N N 71 
+OCP N2  C23  SING N N 72 
+OCP N2  HN2  SING N N 73 
+OCP C23 C24  SING N N 74 
+OCP C23 H231 SING N N 75 
+OCP C23 H232 SING N N 76 
+OCP C24 C25  SING N N 77 
+OCP C24 H241 SING N N 78 
+OCP C24 H242 SING N N 79 
+OCP C25 C26  SING N N 80 
+OCP C25 H251 SING N N 81 
+OCP C25 H252 SING N N 82 
+OCP C26 C27  SING N N 83 
+OCP C26 H261 SING N N 84 
+OCP C26 H262 SING N N 85 
+OCP C27 C28  SING N N 86 
+OCP C27 H271 SING N N 87 
+OCP C27 H272 SING N N 88 
+OCP C28 C29  SING N N 89 
+OCP C28 H281 SING N N 90 
+OCP C28 H282 SING N N 91 
+OCP C29 C30  SING N N 92 
+OCP C29 H291 SING N N 93 
+OCP C29 H292 SING N N 94 
+OCP C30 H301 SING N N 95 
+OCP C30 H302 SING N N 96 
+OCP C30 H303 SING N N 97 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OCP SMILES           ACDLabs              10.04 "O=P(O)(OCC(OC(=O)NCCCCCCCC)COC(=O)NCCCCCCCC)CCCCCCCC"                                                                                                                                       
+OCP SMILES_CANONICAL CACTVS               3.341 "CCCCCCCCNC(=O)OC[C@H](CO[P@](O)(=O)CCCCCCCC)OC(=O)NCCCCCCCC"                                                                                                                                
+OCP SMILES           CACTVS               3.341 "CCCCCCCCNC(=O)OC[CH](CO[P](O)(=O)CCCCCCCC)OC(=O)NCCCCCCCC"                                                                                                                                  
+OCP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCCCCCNC(=O)OC[C@H](CO[P@](=O)(CCCCCCCC)O)OC(=O)NCCCCCCCC"                                                                                                                                
+OCP SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCCCCNC(=O)OCC(COP(=O)(CCCCCCCC)O)OC(=O)NCCCCCCCC"                                                                                                                                       
+OCP InChI            InChI                1.03  "InChI=1S/C29H59N2O7P/c1-4-7-10-13-16-19-22-30-28(32)36-25-27(38-29(33)31-23-20-17-14-11-8-5-2)26-37-39(34,35)24-21-18-15-12-9-6-3/h27H,4-26H2,1-3H3,(H,30,32)(H,31,33)(H,34,35)/t27-/m1/s1" 
+OCP InChIKey         InChI                1.03  QRWKUAOYWKHOGP-HHHXNRCGSA-N                                                                                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OCP "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2,3-bis[(octylcarbamoyl)oxy]propyl hydrogen (S)-octylphosphonate" 
+OCP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R)-2,3-bis(octylcarbamoyloxy)propoxy]-octyl-phosphinic acid"        
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OCP "Create component"  1999-07-08 RCSB 
+OCP "Modify descriptor" 2011-06-04 RCSB 
+# 

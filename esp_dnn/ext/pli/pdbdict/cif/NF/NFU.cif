@@ -1,0 +1,103 @@
+data_NFU
+# 
+_chem_comp.id                                    NFU 
+_chem_comp.name                                  "formyl[bis(hydrocyanato-1kappaC)]ironnickel(Fe-Ni)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H Fe N2 Ni O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "NI-FE REDUCED ACTIVE CENTER" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-13 
+_chem_comp.pdbx_modified_date                    2011-10-21 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        195.591 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NFU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RGW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NFU FE FE FE 0 0 N N N 4.274 1.892 7.297 0.486  0.047  -0.088 FE NFU 1 
+NFU NI NI NI 0 0 N N N 4.660 1.814 9.860 -2.134 0.143  0.222  NI NFU 2 
+NFU C1 C1 C  0 1 N N N 4.879 1.409 5.566 1.169  1.839  -0.374 C1 NFU 3 
+NFU N1 N1 N  0 1 N N N 5.236 1.135 4.505 1.570  2.889  -0.541 N1 NFU 4 
+NFU C2 C2 C  0 1 N N N 3.849 3.603 6.788 1.298  -0.709 1.503  C2 NFU 5 
+NFU N2 N2 N  0 1 N N N 3.590 4.685 6.443 1.774  -1.152 2.435  N2 NFU 6 
+NFU C3 C3 C  0 1 N N N 2.543 1.301 6.782 0.915  -1.061 -1.622 C3 NFU 7 
+NFU O3 O3 O  0 1 N N N 1.428 0.937 6.468 0.576  -2.220 -1.643 O3 NFU 8 
+NFU H3 H3 H  0 1 N N N 2.977 0.637 6.049 1.457  -0.642 -2.456 H3 NFU 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NFU FE NI SING N N 1 
+NFU C1 FE SING N N 2 
+NFU N1 C1 TRIP N N 3 
+NFU C2 FE SING N N 4 
+NFU N2 C2 TRIP N N 5 
+NFU C3 FE SING N N 6 
+NFU O3 C3 DOUB N N 7 
+NFU C3 H3 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NFU SMILES           ACDLabs              12.01 "N#C[Fe]([Ni])(C#N)C=O"                 
+NFU SMILES_CANONICAL CACTVS               3.370 "[Ni]|[Fe](C=O)(C#N)C#N"                
+NFU SMILES           CACTVS               3.370 "[Ni]|[Fe](C=O)(C#N)C#N"                
+NFU SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(=O)[Fe](C#N)(C#N)[Ni]"               
+NFU SMILES           "OpenEye OEToolkits" 1.7.0 "C(=O)[Fe](C#N)(C#N)[Ni]"               
+NFU InChI            InChI                1.03  InChI=1S/2CN.CHO.Fe.Ni/c3*1-2;;/h;;1H;; 
+NFU InChIKey         InChI                1.03  QCZROEOIPZWDEO-UHFFFAOYSA-N             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NFU "SYSTEMATIC NAME" ACDLabs 12.01 "formyl[bis(hydrocyanato-1kappaC)]ironnickel(Fe-Ni)" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NFU "Create component"  2011-04-13 RCSB 
+NFU "Modify descriptor" 2011-06-04 RCSB 
+# 

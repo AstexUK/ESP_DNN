@@ -1,0 +1,114 @@
+data_SIN
+# 
+_chem_comp.id                                    SIN 
+_chem_comp.name                                  "SUCCINIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        118.088 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SIN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BIF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SIN C1  C1  C 0 1 N N N -28.983 -83.437 58.414 1.903  -0.044 0.002  C1  SIN 1  
+SIN O1  O1  O 0 1 N N N -30.100 -83.363 58.885 2.038  -1.245 0.001  O1  SIN 2  
+SIN O2  O2  O 0 1 N Y N -28.833 -83.518 57.206 2.984  0.753  -0.002 O2  SIN 3  
+SIN C2  C2  C 0 1 N N N -27.760 -83.413 59.351 0.522  0.559  0.002  C2  SIN 4  
+SIN C3  C3  C 0 1 N N N -26.685 -84.391 58.850 -0.522 -0.559 0.000  C3  SIN 5  
+SIN C4  C4  C 0 1 N N N -25.455 -84.308 59.773 -1.903 0.044  -0.000 C4  SIN 6  
+SIN O3  O3  O 0 1 N N N -24.380 -84.789 59.414 -2.038 1.245  0.001  O3  SIN 7  
+SIN O4  O4  O 0 1 N Y N -25.550 -83.764 60.861 -2.984 -0.753 -0.002 O4  SIN 8  
+SIN HO2 HO2 H 0 1 N Y N -29.682 -83.510 56.780 3.848  0.320  -0.006 HO2 SIN 9  
+SIN H21 H21 H 0 1 N N N -27.341 -82.396 59.373 0.394  1.174  0.892  H21 SIN 10 
+SIN H22 H22 H 0 1 N N N -28.074 -83.708 60.363 0.396  1.176  -0.888 H22 SIN 11 
+SIN H31 H31 H 0 1 N N N -27.085 -85.416 58.861 -0.394 -1.174 -0.890 H31 SIN 12 
+SIN H32 H32 H 0 1 N N N -26.394 -84.124 57.823 -0.396 -1.176 0.890  H32 SIN 13 
+SIN HO4 HO4 H 0 1 N Y N -24.711 -83.795 61.306 -3.848 -0.320 -0.002 HO4 SIN 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SIN C1 O1  DOUB N N 1  
+SIN C1 O2  SING N N 2  
+SIN C1 C2  SING N N 3  
+SIN O2 HO2 SING N N 4  
+SIN C2 C3  SING N N 5  
+SIN C2 H21 SING N N 6  
+SIN C2 H22 SING N N 7  
+SIN C3 C4  SING N N 8  
+SIN C3 H31 SING N N 9  
+SIN C3 H32 SING N N 10 
+SIN C4 O3  DOUB N N 11 
+SIN C4 O4  SING N N 12 
+SIN O4 HO4 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SIN SMILES           ACDLabs              12.01 "O=C(O)CCC(=O)O"                                         
+SIN SMILES_CANONICAL CACTVS               3.370 "OC(=O)CCC(O)=O"                                         
+SIN SMILES           CACTVS               3.370 "OC(=O)CCC(O)=O"                                         
+SIN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C(=O)O"                                       
+SIN SMILES           "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C(=O)O"                                       
+SIN InChI            InChI                1.03  "InChI=1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)" 
+SIN InChIKey         InChI                1.03  KDYFGRWQOYBRFD-UHFFFAOYSA-N                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SIN "SYSTEMATIC NAME" ACDLabs              12.01 "butanedioic acid" 
+SIN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "butanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SIN "Create component"  1999-07-08 RCSB 
+SIN "Modify descriptor" 2011-06-04 RCSB 
+# 

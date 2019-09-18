@@ -1,0 +1,117 @@
+data_PYG
+# 
+_chem_comp.id                                    PYG 
+_chem_comp.name                                  BENZENE-1,2,3-TRIOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         PYROGALLOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-07-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        126.110 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PYG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TI4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PYG C1  C1  C 0 1 Y N N 22.696 -80.814 -37.402 0.012  -0.013 1.202  C1  PYG 1  
+PYG C2  C2  C 0 1 Y N N 22.887 -80.925 -38.871 -0.683 0.011  -0.000 C2  PYG 2  
+PYG C3  C3  C 0 1 Y N N 22.102 -81.876 -39.654 0.014  0.030  -1.202 C3  PYG 3  
+PYG C4  C4  C 0 1 Y N N 21.125 -82.720 -39.028 1.401  0.014  -1.196 C4  PYG 4  
+PYG C5  C5  C 0 1 Y N N 20.908 -82.635 -37.613 2.089  -0.015 0.001  C5  PYG 5  
+PYG C6  C6  C 0 1 Y N N 21.675 -81.701 -36.809 1.398  -0.029 1.199  C6  PYG 6  
+PYG O1  O1  O 0 1 N N N 22.613 -79.399 -37.298 -0.666 -0.026 2.381  O1  PYG 7  
+PYG O2  O2  O 0 1 N N N 23.840 -80.120 -39.568 -2.044 0.026  -0.001 O2  PYG 8  
+PYG O3  O3  O 0 1 N N N 22.126 -82.162 -41.098 -0.661 0.059  -2.381 O3  PYG 9  
+PYG H4  H4  H 0 1 N N N 20.541 -83.433 -39.634 1.944  0.025  -2.130 H4  PYG 10 
+PYG H5  H5  H 0 1 N N N 20.152 -83.287 -37.144 3.168  -0.028 0.002  H5  PYG 11 
+PYG H6  H6  H 0 1 N N N 21.478 -81.664 -35.724 1.939  -0.052 2.133  H6  PYG 12 
+PYG HO1 HO1 H 0 1 N N N 22.491 -79.328 -36.359 -0.795 0.896  2.640  HO1 PYG 13 
+PYG HO2 HO2 H 0 1 N N N 23.962 -80.191 -40.507 -2.334 -0.895 -0.022 HO2 PYG 14 
+PYG HO3 HO3 H 0 1 N N N 21.616 -82.780 -41.607 -0.811 -0.860 -2.640 HO3 PYG 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PYG C1 C2  DOUB Y N 1  
+PYG C1 C6  SING Y N 2  
+PYG C1 O1  SING N N 3  
+PYG C2 C3  SING Y N 4  
+PYG C2 O2  SING N N 5  
+PYG C3 C4  DOUB Y N 6  
+PYG C3 O3  SING N N 7  
+PYG C4 C5  SING Y N 8  
+PYG C4 H4  SING N N 9  
+PYG C5 C6  DOUB Y N 10 
+PYG C5 H5  SING N N 11 
+PYG C6 H6  SING N N 12 
+PYG O1 HO1 SING N N 13 
+PYG O2 HO2 SING N N 14 
+PYG O3 HO3 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PYG SMILES           ACDLabs              10.04 "Oc1cccc(O)c1O"                                  
+PYG SMILES_CANONICAL CACTVS               3.341 "Oc1cccc(O)c1O"                                  
+PYG SMILES           CACTVS               3.341 "Oc1cccc(O)c1O"                                  
+PYG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)O)O)O"                              
+PYG SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)O)O)O"                              
+PYG InChI            InChI                1.03  "InChI=1S/C6H6O3/c7-4-2-1-3-5(8)6(4)9/h1-3,7-9H" 
+PYG InChIKey         InChI                1.03  WQGWDDDVZFFDIG-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PYG "SYSTEMATIC NAME" ACDLabs              10.04 benzene-1,2,3-triol 
+PYG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 benzene-1,2,3-triol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PYG "Create component"  2004-07-27 RCSB 
+PYG "Modify descriptor" 2011-06-04 RCSB 
+# 

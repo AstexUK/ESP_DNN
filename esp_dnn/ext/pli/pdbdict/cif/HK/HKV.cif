@@ -1,0 +1,116 @@
+data_HKV
+# 
+_chem_comp.id                                    HKV 
+_chem_comp.name                                  "4,5-DIOXOPENTANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-12-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.099 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HKV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HKV O4   O4   O 0 1 N N N 7.158 18.162 59.524 -2.824 -0.526 2.742  O4   HKV 1  
+HKV C5   C5   C 0 1 N N N 6.625 17.076 59.328 -1.847 -0.780 1.836  C5   HKV 2  
+HKV O3   O3   O 0 1 N N N 5.712 16.739 60.068 -1.957 -1.606 0.940  O3   HKV 3  
+HKV C4   C4   C 0 1 N N N 7.043 16.270 58.321 -0.614 0.054  2.067  C4   HKV 4  
+HKV C3   C3   C 0 1 N N N 6.057 15.741 57.299 0.427  -0.206 0.988  C3   HKV 5  
+HKV C2   C2   C 0 1 N N N 6.677 14.784 56.289 1.651  0.659  1.164  C2   HKV 6  
+HKV O5   O5   O 0 1 N N N 7.779 14.242 56.499 1.820  1.494  2.039  O5   HKV 7  
+HKV C1   C1   C 0 1 N N N 5.938 14.543 55.158 2.751  0.450  0.161  C1   HKV 8  
+HKV O2   O2   O 0 1 N N N 6.274 13.742 54.279 3.776  1.105  0.234  O2   HKV 9  
+HKV H4   H4   H 0 1 N N N 7.867 18.424 58.949 -3.641 -1.058 2.633  H4   HKV 10 
+HKV HA   HA   H 0 1 N N N 8.125 16.056 58.333 -0.220 -0.149 3.069  HA   HKV 11 
+HKV H3C1 1H3C H 0 0 N N N 5.540 16.581 56.779 0.000  0.000  0.000  H3C1 HKV 12 
+HKV H3C2 2H3C H 0 0 N N N 5.183 15.268 57.804 0.742  -1.255 1.012  H3C2 HKV 13 
+HKV H1   H1   H 0 1 N N N 4.980 15.042 54.933 2.552  -0.315 -0.607 H1   HKV 14 
+HKV H41  1H4  H 0 1 N N N 6.793 15.687 57.422 -0.916 1.109  2.070  H41  HKV 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HKV O4 C5   SING N N 1  
+HKV O4 H4   SING N N 2  
+HKV C5 O3   DOUB N N 3  
+HKV C5 C4   SING N N 4  
+HKV C4 H41  SING N N 5  
+HKV C4 C3   SING N N 6  
+HKV C4 HA   SING N N 7  
+HKV C3 C2   SING N N 8  
+HKV C3 H3C1 SING N N 9  
+HKV C3 H3C2 SING N N 10 
+HKV C2 O5   DOUB N N 11 
+HKV C2 C1   SING N N 12 
+HKV C1 O2   DOUB N N 13 
+HKV C1 H1   SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HKV SMILES           ACDLabs              10.04 "O=CC(=O)CCC(=O)O"                                     
+HKV SMILES_CANONICAL CACTVS               3.341 "OC(=O)CCC(=O)C=O"                                     
+HKV SMILES           CACTVS               3.341 "OC(=O)CCC(=O)C=O"                                     
+HKV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CC(=O)O)C(=O)C=O"                                   
+HKV SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC(=O)O)C(=O)C=O"                                   
+HKV InChI            InChI                1.03  "InChI=1S/C5H6O4/c6-3-4(7)1-2-5(8)9/h3H,1-2H2,(H,8,9)" 
+HKV InChIKey         InChI                1.03  YHUFRVYVNKGICT-UHFFFAOYSA-N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HKV "SYSTEMATIC NAME" ACDLabs              10.04 "4,5-dioxopentanoic acid" 
+HKV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4,5-dioxopentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HKV "Create component"  2006-12-05 RCSB 
+HKV "Modify descriptor" 2011-06-04 RCSB 
+# 

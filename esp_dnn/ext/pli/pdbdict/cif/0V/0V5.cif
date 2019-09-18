@@ -1,0 +1,119 @@
+data_0V5
+# 
+_chem_comp.id                                    0V5 
+_chem_comp.name                                  "(2R)-2-(phosphonooxy)propanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-06-29 
+_chem_comp.pdbx_modified_date                    2012-08-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        170.058 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0V5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3UJS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0V5 C1    C1    C 0 1 N N N 31.260 54.926 -0.875 2.134  0.394  0.030  C1    PEQ 1  
+0V5 O1    O1    O 0 1 N N N 30.871 54.295 -1.862 1.980  1.316  0.795  O1    PEQ 2  
+0V5 "O2'" "O2'" O 0 1 N N N 31.645 56.129 -1.058 3.278  0.280  -0.662 "O2'" PEQ 3  
+0V5 C2    C2    C 0 1 N N R 31.198 54.331 0.555  1.044  -0.632 -0.142 C2    PEQ 4  
+0V5 C3    C3    C 0 1 N N N 31.736 52.867 0.673  1.538  -1.991 0.359  C3    PEQ 5  
+0V5 O2    O2    O 0 1 N N N 31.869 55.141 1.649  -0.105 -0.237 0.610  O2    PEQ 6  
+0V5 P     P     P 0 1 N N N 30.868 56.156 2.450  -1.542 0.038  -0.064 P     PEQ 7  
+0V5 O1P   O1P   O 0 1 N N N 30.243 57.078 1.424  -1.958 -1.150 -0.840 O1P   PEQ 8  
+0V5 O2P   O2P   O 0 1 N N N 29.793 55.290 3.059  -2.627 0.334  1.088  O2P   PEQ 9  
+0V5 O3P   O3P   O 0 1 N N N 31.851 56.788 3.410  -1.440 1.311  -1.044 O3P   PEQ 10 
+0V5 H1    H1    H 0 1 N N N 31.563 56.352 -1.978 3.948  0.962  -0.518 H1    PEQ 11 
+0V5 H2    H2    H 0 1 N N N 30.131 54.281 0.817  0.780  -0.708 -1.197 H2    PEQ 12 
+0V5 H3    H3    H 0 1 N N N 31.654 52.529 1.716  2.415  -2.292 -0.215 H3    PEQ 13 
+0V5 H4    H4    H 0 1 N N N 31.142 52.205 0.025  1.802  -1.915 1.413  H4    PEQ 14 
+0V5 H5    H5    H 0 1 N N N 32.790 52.838 0.360  0.749  -2.733 0.234  H5    PEQ 15 
+0V5 H6    H6    H 0 1 N N N 28.954 55.506 2.670  -3.517 0.509  0.754  H6    PEQ 16 
+0V5 H7    H7    H 0 1 N N N 31.933 57.714 3.216  -1.171 2.128  -0.602 H7    PEQ 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0V5 O1    C1  DOUB N N 1  
+0V5 "O2'" C1  SING N N 2  
+0V5 C1    C2  SING N N 3  
+0V5 C2    C3  SING N N 4  
+0V5 C2    O2  SING N N 5  
+0V5 O1P   P   DOUB N N 6  
+0V5 O2    P   SING N N 7  
+0V5 P     O2P SING N N 8  
+0V5 P     O3P SING N N 9  
+0V5 "O2'" H1  SING N N 10 
+0V5 C2    H2  SING N N 11 
+0V5 C3    H3  SING N N 12 
+0V5 C3    H4  SING N N 13 
+0V5 C3    H5  SING N N 14 
+0V5 O2P   H6  SING N N 15 
+0V5 O3P   H7  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0V5 SMILES           ACDLabs              12.01 "O=P(OC(C(=O)O)C)(O)O"                                                       
+0V5 InChI            InChI                1.03  "InChI=1S/C3H7O6P/c1-2(3(4)5)9-10(6,7)8/h2H,1H3,(H,4,5)(H2,6,7,8)/t2-/m1/s1" 
+0V5 InChIKey         InChI                1.03  CSZRNWHGZPKNKY-UWTATZPHSA-N                                                  
+0V5 SMILES_CANONICAL CACTVS               3.370 "C[C@@H](O[P](O)(O)=O)C(O)=O"                                                
+0V5 SMILES           CACTVS               3.370 "C[CH](O[P](O)(O)=O)C(O)=O"                                                  
+0V5 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@H](C(=O)O)OP(=O)(O)O"                                                   
+0V5 SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C(=O)O)OP(=O)(O)O"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0V5 "SYSTEMATIC NAME" ACDLabs              12.01 "(2R)-2-(phosphonooxy)propanoic acid" 
+0V5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R)-2-phosphonooxypropanoic acid"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0V5 "Create component" 2012-06-29 RCSB 
+# 

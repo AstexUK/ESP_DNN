@@ -1,0 +1,244 @@
+data_MTK
+# 
+_chem_comp.id                                    MTK 
+_chem_comp.name                                  MONTELUKAST 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C35 H36 Cl N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "2-[1-[[(1R)-1-[3-[(E)-2-(7-chloroquinolin-2-yl)ethenyl]phenyl]-3-[2-(2-hydroxypropan-2-yl)phenyl]propyl]sulfanylmethyl]cyclopropyl]ethanoic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        586.183 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MTK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MTK CAQ  CAQ  C  0 1 Y N N 52.834 8.683  -29.280 -6.203  0.844  -2.651 CAQ  MTK 1  
+MTK CAS  CAS  C  0 1 Y N N 52.852 7.849  -30.432 -7.500  0.834  -2.234 CAS  MTK 2  
+MTK CBK  CBK  C  0 1 Y N N 51.627 7.422  -31.023 -7.759  0.668  -0.858 CBK  MTK 3  
+MTK CAR  CAR  C  0 1 Y N N 51.604 6.589  -32.175 -9.072  0.649  -0.363 CAR  MTK 4  
+MTK CAO  CAO  C  0 1 Y N N 50.348 6.183  -32.731 -9.288  0.487  0.972  CAO  MTK 5  
+MTK CBE  CBE  C  0 1 Y N N 49.125 6.604  -32.140 -8.219  0.339  1.856  CBE  MTK 6  
+MTK CLAF CLAF CL 0 0 N N N 47.620 6.120  -32.812 -8.535  0.134  3.551  CLAF MTK 7  
+MTK CAU  CAU  C  0 1 Y N N 49.143 7.437  -30.990 -6.932  0.351  1.410  CAU  MTK 8  
+MTK CBL  CBL  C  0 1 Y N N 50.388 7.852  -30.426 -6.671  0.517  0.038  CBL  MTK 9  
+MTK NBB  NBB  N  0 1 Y N N 50.413 8.655  -29.322 -5.418  0.534  -0.424 NBB  MTK 10 
+MTK CBG  CBG  C  0 1 Y N N 51.572 9.082  -28.735 -5.165  0.689  -1.713 CBG  MTK 11 
+MTK CAH  CAH  C  0 1 N N N 51.450 9.904  -27.612 -3.768  0.701  -2.177 CAH  MTK 12 
+MTK CAG  CAG  C  0 1 N N N 52.547 10.399 -26.891 -2.766  0.555  -1.294 CAG  MTK 13 
+MTK CBF  CBF  C  0 1 Y N N 52.463 11.249 -25.782 -1.368  0.566  -1.758 CBF  MTK 14 
+MTK CAT  CAT  C  0 1 Y N N 51.233 11.735 -25.273 -0.323  0.414  -0.842 CAT  MTK 15 
+MTK CAL  CAL  C  0 1 Y N N 53.672 11.637 -25.153 -1.080  0.723  -3.116 CAL  MTK 16 
+MTK CAK  CAK  C  0 1 Y N N 53.656 12.492 -24.026 0.231   0.732  -3.543 CAK  MTK 17 
+MTK CAN  CAN  C  0 1 Y N N 52.430 12.980 -23.519 1.261   0.586  -2.630 CAN  MTK 18 
+MTK CBI  CBI  C  0 1 Y N N 51.223 12.608 -24.149 0.984   0.426  -1.284 CBI  MTK 19 
+MTK CBM  CBM  C  0 1 N N R 49.940 13.276 -23.673 2.112   0.263  -0.299 CBM  MTK 20 
+MTK SBC  SBC  S  0 1 N N N 48.689 12.052 -23.236 3.181   1.727  -0.356 SBC  MTK 21 
+MTK CAZ  CAZ  C  0 1 N N N 49.092 12.094 -21.462 4.257   1.503  1.087  CAZ  MTK 22 
+MTK CBO  CBO  C  0 1 N N N 48.254 11.175 -20.580 5.147   2.736  1.256  CBO  MTK 23 
+MTK CAX  CAX  C  0 1 N N N 46.743 11.350 -20.836 4.803   3.706  2.389  CAX  MTK 24 
+MTK CAY  CAY  C  0 1 N N N 47.451 9.973  -20.960 6.033   2.803  2.502  CAY  MTK 25 
+MTK CBA  CBA  C  0 1 N N N 48.688 11.268 -19.115 5.703   3.331  -0.039 CBA  MTK 26 
+MTK CBD  CBD  C  0 1 N N N 50.110 10.725 -18.938 6.500   4.570  0.279  CBD  MTK 27 
+MTK OAC  OAC  O  0 1 N N N 50.959 11.395 -18.326 6.962   5.345  -0.715 OAC  MTK 28 
+MTK OAD  OAD  O  0 1 N N N 50.413 9.624  -19.418 6.723   4.867  1.429  OAD  MTK 29 
+MTK CAW  CAW  C  0 1 N N N 49.454 14.162 -24.796 2.929   -0.979 -0.660 CAW  MTK 30 
+MTK CAV  CAV  C  0 1 N N N 48.776 15.428 -24.321 2.071   -2.230 -0.461 CAV  MTK 31 
+MTK CBH  CBH  C  0 1 Y N N 49.036 16.504 -25.386 2.914   -3.459 -0.684 CBH  MTK 32 
+MTK CAM  CAM  C  0 1 Y N N 50.215 17.252 -25.138 3.266   -3.832 -1.968 CAM  MTK 33 
+MTK CAI  CAI  C  0 1 Y N N 50.630 18.280 -25.990 4.039   -4.959 -2.172 CAI  MTK 34 
+MTK CAJ  CAJ  C  0 1 Y N N 49.863 18.593 -27.127 4.462   -5.713 -1.093 CAJ  MTK 35 
+MTK CAP  CAP  C  0 1 Y N N 48.680 17.867 -27.409 4.111   -5.339 0.191  CAP  MTK 36 
+MTK CBJ  CBJ  C  0 1 Y N N 48.224 16.810 -26.568 3.341   -4.209 0.396  CBJ  MTK 37 
+MTK CBN  CBN  C  0 1 N N N 46.868 16.068 -27.002 2.963   -3.799 1.795  CBN  MTK 38 
+MTK CAA  CAA  C  0 1 N N N 47.042 14.564 -27.297 3.392   -2.350 2.035  CAA  MTK 39 
+MTK CAB  CAB  C  0 1 N N N 45.810 16.249 -25.912 1.447   -3.918 1.970  CAB  MTK 40 
+MTK OAE  OAE  O  0 1 N N N 46.354 16.648 -28.209 3.619   -4.652 2.736  OAE  MTK 41 
+MTK HAQ  HAQ  H  0 1 N N N 53.757 9.010  -28.824 -5.973  0.965  -3.699 HAQ  MTK 42 
+MTK HAS  HAS  H  0 1 N N N 53.794 7.539  -30.859 -8.309  0.951  -2.939 HAS  MTK 43 
+MTK HAR  HAR  H  0 1 N N N 52.529 6.264  -32.628 -9.908  0.764  -1.037 HAR  MTK 44 
+MTK HAO  HAO  H  0 1 N N N 50.330 5.551  -33.607 -10.299 0.474  1.351  HAO  MTK 45 
+MTK HAU  HAU  H  0 1 N N N 48.214 7.757  -30.541 -6.116  0.235  2.108  HAU  MTK 46 
+MTK HAH  HAH  H  0 1 N N N 50.458 10.173 -27.281 -3.549  0.827  -3.227 HAH  MTK 47 
+MTK HAG  HAG  H  0 1 N N N 53.533 10.101 -27.217 -2.986  0.429  -0.244 HAG  MTK 48 
+MTK HAT  HAT  H  0 1 N N N 50.303 11.443 -25.738 -0.538  0.289  0.209  HAT  MTK 49 
+MTK HAL  HAL  H  0 1 N N N 54.615 11.277 -25.538 -1.883  0.836  -3.830 HAL  MTK 50 
+MTK HAK  HAK  H  0 1 N N N 54.584 12.773 -23.551 0.455   0.854  -4.593 HAK  MTK 51 
+MTK HAN  HAN  H  0 1 N N N 52.417 13.631 -22.658 2.286   0.594  -2.970 HAN  MTK 52 
+MTK HBM  HBM  H  0 1 N N N 50.132 13.868 -22.766 1.704   0.150  0.706  HBM  MTK 53 
+MTK HAZ1 HAZ1 H  0 0 N N N 50.144 11.790 -21.353 3.646   1.371  1.980  HAZ1 MTK 54 
+MTK HAZ2 HAZ2 H  0 0 N N N 48.935 13.125 -21.111 4.882   0.622  0.941  HAZ2 MTK 55 
+MTK HAX1 HAX1 H  0 0 N N N 45.921 11.703 -20.196 4.973   4.768  2.211  HAX1 MTK 56 
+MTK HAX2 HAX2 H  0 0 N N N 46.182 11.960 -21.559 3.943   3.465  3.014  HAX2 MTK 57 
+MTK HAY1 HAY1 H  0 0 N N N 47.546 9.294  -21.820 5.982   1.968  3.201  HAY1 MTK 58 
+MTK HAY2 HAY2 H  0 0 N N N 47.278 9.030  -20.420 7.012   3.271  2.399  HAY2 MTK 59 
+MTK HBA1 HBA1 H  0 0 N N N 48.663 12.321 -18.799 6.348   2.600  -0.527 HBA1 MTK 60 
+MTK HBA2 HBA2 H  0 0 N N N 47.997 10.676 -18.497 4.879   3.590  -0.703 HBA2 MTK 61 
+MTK HOAC HOAC H  0 0 N N N 51.785 10.926 -18.315 7.468   6.129  -0.462 HOAC MTK 62 
+MTK HAW1 HAW1 H  0 0 N N N 50.323 14.448 -25.406 3.244   -0.917 -1.701 HAW1 MTK 63 
+MTK HAW2 HAW2 H  0 0 N N N 48.729 13.590 -25.393 3.808   -1.036 -0.017 HAW2 MTK 64 
+MTK HAV1 HAV1 H  0 0 N N N 47.695 15.261 -24.203 1.674   -2.241 0.555  HAV1 MTK 65 
+MTK HAV2 HAV2 H  0 0 N N N 49.191 15.742 -23.352 1.245   -2.221 -1.173 HAV2 MTK 66 
+MTK HAM  HAM  H  0 1 N N N 50.809 17.021 -24.266 2.935   -3.244 -2.811 HAM  MTK 67 
+MTK HAI  HAI  H  0 1 N N N 51.534 18.831 -25.776 4.313   -5.251 -3.175 HAI  MTK 68 
+MTK HAJ  HAJ  H  0 1 N N N 50.177 19.389 -27.786 5.065   -6.594 -1.253 HAJ  MTK 69 
+MTK HAP  HAP  H  0 1 N N N 48.106 18.122 -28.288 4.441   -5.928 1.034  HAP  MTK 70 
+MTK HAA1 HAA1 H  0 0 N N N 46.073 14.132 -27.586 2.826   -1.690 1.378  HAA1 MTK 71 
+MTK HAA2 HAA2 H  0 0 N N N 47.761 14.433 -28.119 3.198   -2.081 3.074  HAA2 MTK 72 
+MTK HAA3 HAA3 H  0 0 N N N 47.417 14.055 -26.397 4.456   -2.247 1.825  HAA3 MTK 73 
+MTK HAB1 HAB1 H  0 0 N N N 44.882 15.740 -26.212 1.176   -4.968 2.082  HAB1 MTK 74 
+MTK HAB2 HAB2 H  0 0 N N N 46.177 15.816 -24.970 1.140   -3.367 2.859  HAB2 MTK 75 
+MTK HAB3 HAB3 H  0 0 N N N 45.610 17.321 -25.770 0.947   -3.504 1.094  HAB3 MTK 76 
+MTK HOAE HOAE H  0 0 N N N 45.552 16.203 -28.458 4.584   -4.628 2.682  HOAE MTK 77 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MTK CAQ CAS  SING Y N 1  
+MTK CAQ CBG  DOUB Y N 2  
+MTK CAQ HAQ  SING N N 3  
+MTK CAS CBK  DOUB Y N 4  
+MTK CAS HAS  SING N N 5  
+MTK CBK CAR  SING Y N 6  
+MTK CBK CBL  SING Y N 7  
+MTK CAR CAO  DOUB Y N 8  
+MTK CAR HAR  SING N N 9  
+MTK CAO CBE  SING Y N 10 
+MTK CAO HAO  SING N N 11 
+MTK CBE CLAF SING N N 12 
+MTK CBE CAU  DOUB Y N 13 
+MTK CAU CBL  SING Y N 14 
+MTK CAU HAU  SING N N 15 
+MTK CBL NBB  DOUB Y N 16 
+MTK NBB CBG  SING Y N 17 
+MTK CBG CAH  SING N N 18 
+MTK CAH CAG  DOUB N E 19 
+MTK CAH HAH  SING N N 20 
+MTK CAG CBF  SING N N 21 
+MTK CAG HAG  SING N N 22 
+MTK CBF CAT  DOUB Y N 23 
+MTK CBF CAL  SING Y N 24 
+MTK CAT CBI  SING Y N 25 
+MTK CAT HAT  SING N N 26 
+MTK CAL CAK  DOUB Y N 27 
+MTK CAL HAL  SING N N 28 
+MTK CAK CAN  SING Y N 29 
+MTK CAK HAK  SING N N 30 
+MTK CAN CBI  DOUB Y N 31 
+MTK CAN HAN  SING N N 32 
+MTK CBI CBM  SING N N 33 
+MTK CBM CAW  SING N N 34 
+MTK CBM SBC  SING N N 35 
+MTK CBM HBM  SING N N 36 
+MTK SBC CAZ  SING N N 37 
+MTK CAZ CBO  SING N N 38 
+MTK CAZ HAZ1 SING N N 39 
+MTK CAZ HAZ2 SING N N 40 
+MTK CBO CAY  SING N N 41 
+MTK CBO CAX  SING N N 42 
+MTK CBO CBA  SING N N 43 
+MTK CAX CAY  SING N N 44 
+MTK CAX HAX1 SING N N 45 
+MTK CAX HAX2 SING N N 46 
+MTK CAY HAY1 SING N N 47 
+MTK CAY HAY2 SING N N 48 
+MTK CBA CBD  SING N N 49 
+MTK CBA HBA1 SING N N 50 
+MTK CBA HBA2 SING N N 51 
+MTK CBD OAD  DOUB N N 52 
+MTK CBD OAC  SING N N 53 
+MTK OAC HOAC SING N N 54 
+MTK CAW CAV  SING N N 55 
+MTK CAW HAW1 SING N N 56 
+MTK CAW HAW2 SING N N 57 
+MTK CAV CBH  SING N N 58 
+MTK CAV HAV1 SING N N 59 
+MTK CAV HAV2 SING N N 60 
+MTK CBH CBJ  DOUB Y N 61 
+MTK CBH CAM  SING Y N 62 
+MTK CAM CAI  DOUB Y N 63 
+MTK CAM HAM  SING N N 64 
+MTK CAI CAJ  SING Y N 65 
+MTK CAI HAI  SING N N 66 
+MTK CAJ CAP  DOUB Y N 67 
+MTK CAJ HAJ  SING N N 68 
+MTK CAP CBJ  SING Y N 69 
+MTK CAP HAP  SING N N 70 
+MTK CBJ CBN  SING N N 71 
+MTK CBN OAE  SING N N 72 
+MTK CBN CAA  SING N N 73 
+MTK CBN CAB  SING N N 74 
+MTK CAA HAA1 SING N N 75 
+MTK CAA HAA2 SING N N 76 
+MTK CAA HAA3 SING N N 77 
+MTK CAB HAB1 SING N N 78 
+MTK CAB HAB2 SING N N 79 
+MTK CAB HAB3 SING N N 80 
+MTK OAE HOAE SING N N 81 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MTK SMILES_CANONICAL CACTVS               3.352 "CC(C)(O)c1ccccc1CC[C@@H](SCC2(CC2)CC(O)=O)c3cccc(/C=C/c4ccc5ccc(Cl)cc5n4)c3" 
+MTK SMILES           CACTVS               3.352 "CC(C)(O)c1ccccc1CC[CH](SCC2(CC2)CC(O)=O)c3cccc(C=Cc4ccc5ccc(Cl)cc5n4)c3" 
+MTK SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)(c1ccccc1CC[C@H](c2cccc(c2)/C=C/c3ccc4ccc(cc4n3)Cl)SCC5(CC5)CC(=O)O)O" 
+MTK SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)(c1ccccc1CCC(c2cccc(c2)C=Cc3ccc4ccc(cc4n3)Cl)SCC5(CC5)CC(=O)O)O" 
+MTK InChI            InChI                1.03  
+"InChI=1S/C35H36ClNO3S/c1-34(2,40)30-9-4-3-7-25(30)13-17-32(41-23-35(18-19-35)22-33(38)39)27-8-5-6-24(20-27)10-15-29-16-12-26-11-14-28(36)21-31(26)37-29/h3-12,14-16,20-21,32,40H,13,17-19,22-23H2,1-2H3,(H,38,39)/b15-10+/t32-/m1/s1" 
+MTK InChIKey         InChI                1.03  UCHDWCPVSPXUMX-TZIWLTJVSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MTK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "2-[1-[[(1R)-1-[3-[(E)-2-(7-chloroquinolin-2-yl)ethenyl]phenyl]-3-[2-(2-hydroxypropan-2-yl)phenyl]propyl]sulfanylmethyl]cyclopropyl]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MTK "Create component"  2006-10-26 RCSB 
+MTK "Modify descriptor" 2011-06-04 RCSB 
+# 

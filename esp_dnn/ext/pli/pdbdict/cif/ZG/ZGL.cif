@@ -1,0 +1,125 @@
+data_ZGL
+# 
+_chem_comp.id                                    ZGL 
+_chem_comp.name                                  D-alpha-glutamine 
+_chem_comp.type                                  "D-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Iso-D-glutamine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-10-27 
+_chem_comp.pdbx_modified_date                    2011-11-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.144 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ZGL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1LOC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ZGL C    C    C 0 1 N N N 34.018 58.042 46.366 -2.372 0.290  -0.039 C    ZGL 1  
+ZGL N    N    N 0 1 N N N 32.413 56.259 46.627 -1.229 -1.850 0.102  N    ZGL 2  
+ZGL O    O    O 0 1 N N N 34.541 59.075 46.715 -3.024 -0.069 0.919  O    ZGL 3  
+ZGL N1   N1   N 0 1 N N N 34.328 57.564 45.166 -2.733 1.391  -0.726 N1   ZGL 4  
+ZGL CA   CA   C 0 1 N N R 32.647 57.666 46.914 -1.154 -0.494 -0.457 CA   ZGL 5  
+ZGL CB   CB   C 0 1 N N N 31.578 58.506 46.263 0.104  0.204  0.064  CB   ZGL 6  
+ZGL CD   CD   C 0 1 N N N 32.054 60.406 48.056 2.583  0.167  0.049  CD   ZGL 7  
+ZGL CG   CG   C 0 1 N N N 31.017 59.619 47.215 1.344  -0.520 -0.464 CG   ZGL 8  
+ZGL OE1  OE1  O 0 1 N N N 32.506 59.871 49.088 3.797  -0.298 -0.287 OE1  ZGL 9  
+ZGL OE2  OE2  O 0 1 N N N 32.423 61.557 47.729 2.485  1.136  0.764  OE2  ZGL 10 
+ZGL HN   HN   H 0 1 N N N 31.516 55.991 46.979 -1.267 -1.824 1.110  HN   ZGL 11 
+ZGL HNA  HNA  H 0 1 N Y N 32.440 56.112 45.638 -2.017 -2.354 -0.277 HNA  ZGL 12 
+ZGL HN1  HN1  H 0 1 N N N 34.975 58.056 44.584 -3.514 1.898  -0.455 HN1  ZGL 13 
+ZGL HN1A HN1A H 0 0 N N N 33.914 56.712 44.845 -2.211 1.678  -1.492 HN1A ZGL 14 
+ZGL HA   HA   H 0 1 N N N 32.614 57.845 47.999 -1.114 -0.550 -1.544 HA   ZGL 15 
+ZGL HB   HB   H 0 1 N N N 32.011 58.993 45.377 0.114  1.238  -0.278 HB   ZGL 16 
+ZGL HBA  HBA  H 0 1 N N N 30.747 57.846 45.973 0.107  0.182  1.154  HBA  ZGL 17 
+ZGL HG   HG   H 0 1 N N N 30.491 60.350 46.583 1.334  -1.555 -0.121 HG   ZGL 18 
+ZGL HGA  HGA  H 0 1 N N N 30.334 59.126 47.922 1.341  -0.498 -1.554 HGA  ZGL 19 
+ZGL HOE1 HOE1 H 0 0 N N N 33.116 60.464 49.512 4.562  0.175  0.066  HOE1 ZGL 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ZGL N1  C    SING N N 1  
+ZGL C   O    DOUB N N 2  
+ZGL C   CA   SING N N 3  
+ZGL N   CA   SING N N 4  
+ZGL N   HN   SING N N 5  
+ZGL N   HNA  SING N N 6  
+ZGL N1  HN1  SING N N 7  
+ZGL N1  HN1A SING N N 8  
+ZGL CB  CA   SING N N 9  
+ZGL CA  HA   SING N N 10 
+ZGL CB  CG   SING N N 11 
+ZGL CB  HB   SING N N 12 
+ZGL CB  HBA  SING N N 13 
+ZGL CG  CD   SING N N 14 
+ZGL OE2 CD   DOUB N N 15 
+ZGL CD  OE1  SING N N 16 
+ZGL CG  HG   SING N N 17 
+ZGL CG  HGA  SING N N 18 
+ZGL OE1 HOE1 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ZGL SMILES           ACDLabs              12.01 "O=C(N)C(N)CCC(=O)O"                                                              
+ZGL InChI            InChI                1.03  "InChI=1S/C5H10N2O3/c6-3(5(7)10)1-2-4(8)9/h3H,1-2,6H2,(H2,7,10)(H,8,9)/t3-/m1/s1" 
+ZGL InChIKey         InChI                1.03  AEFLONBTGZFSGQ-GSVOUGTGSA-N                                                       
+ZGL SMILES_CANONICAL CACTVS               3.370 "N[C@H](CCC(O)=O)C(N)=O"                                                          
+ZGL SMILES           CACTVS               3.370 "N[CH](CCC(O)=O)C(N)=O"                                                           
+ZGL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C(CC(=O)O)[C@H](C(=O)N)N"                                                        
+ZGL SMILES           "OpenEye OEToolkits" 1.7.2 "C(CC(=O)O)C(C(=O)N)N"                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ZGL "SYSTEMATIC NAME" ACDLabs              12.01 D-alpha-glutamine                                     
+ZGL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(4R)-4,5-bis(azanyl)-5-oxidanylidene-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ZGL "Create component" 2011-10-27 RCSB 
+# 

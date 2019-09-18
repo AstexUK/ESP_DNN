@@ -1,0 +1,121 @@
+data_GAB
+# 
+_chem_comp.id                                    GAB 
+_chem_comp.name                                  "3-AMINOBENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         GABACULINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        137.136 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GAB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye OEToolkits" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GSB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GAB "C1'"  "C1'"  C 0 1 N N N 9.980  26.035 -31.264 -0.320 0.000  -1.930 "C1'"  GAB 1  
+GAB "O1'"  "O1'"  O 0 1 N N N 9.549  27.206 -31.304 -1.502 0.000  -2.210 "O1'"  GAB 2  
+GAB "O2'"  "O2'"  O 0 1 N N N 10.791 25.980 -30.211 0.603  0.000  -2.911 "O2'"  GAB 3  
+GAB C1     C1     C 0 1 Y N N 9.673  24.885 -32.107 0.104  0.000  -0.515 C1     GAB 4  
+GAB C2     C2     C 0 1 Y N N 8.649  25.021 -33.226 -0.850 -0.004 0.501  C2     GAB 5  
+GAB C3     C3     C 0 1 Y N N 8.605  23.883 -34.170 -0.444 0.000  1.827  C3     GAB 6  
+GAB C4     C4     C 0 1 Y N N 9.330  22.677 -33.914 0.910  0.000  2.138  C4     GAB 7  
+GAB C5     C5     C 0 1 Y N N 10.081 22.564 -32.777 1.856  -0.000 1.131  C5     GAB 8  
+GAB C6     C6     C 0 1 Y N N 10.271 23.686 -31.867 1.462  0.000  -0.191 C6     GAB 9  
+GAB N3     N3     N 0 1 N N N 7.811  23.980 -35.231 -1.396 0.001  2.849  N3     GAB 10 
+GAB "HO2'" "'HO2" H 0 0 N N N 10.819 26.830 -29.787 0.325  0.000  -3.837 "HO2'" GAB 11 
+GAB H2     H2     H 0 1 N N N 8.004  25.882 -33.323 -1.902 -0.004 0.257  H2     GAB 12 
+GAB H4     H4     H 0 1 N N N 9.284  21.858 -34.617 1.225  0.000  3.172  H4     GAB 13 
+GAB H5     H5     H 0 1 N N N 10.546 21.617 -32.547 2.907  0.000  1.379  H5     GAB 14 
+GAB H6     H6     H 0 1 N N N 10.893 23.565 -30.993 2.204  0.000  -0.976 H6     GAB 15 
+GAB HN31   1HN3   H 0 0 N N N 6.857  24.004 -34.933 -1.112 0.000  3.777  HN31   GAB 16 
+GAB HN32   2HN3   H 0 0 N N N 8.025  24.819 -35.732 -2.341 0.005  2.632  HN32   GAB 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GAB "C1'" "O1'"  DOUB N N 1  
+GAB "C1'" "O2'"  SING N N 2  
+GAB "C1'" C1     SING N N 3  
+GAB "O2'" "HO2'" SING N N 4  
+GAB C1    C2     SING Y N 5  
+GAB C1    C6     DOUB Y N 6  
+GAB C2    C3     DOUB Y N 7  
+GAB C2    H2     SING N N 8  
+GAB C3    C4     SING Y N 9  
+GAB C3    N3     SING N N 10 
+GAB C4    C5     DOUB Y N 11 
+GAB C4    H4     SING N N 12 
+GAB C5    C6     SING Y N 13 
+GAB C5    H5     SING N N 14 
+GAB C6    H6     SING N N 15 
+GAB N3    HN31   SING N N 16 
+GAB N3    HN32   SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GAB SMILES           ACDLabs              10.04 "O=C(O)c1cc(N)ccc1"                                           
+GAB SMILES_CANONICAL CACTVS               3.341 "Nc1cccc(c1)C(O)=O"                                           
+GAB SMILES           CACTVS               3.341 "Nc1cccc(c1)C(O)=O"                                           
+GAB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(cc(c1)N)C(=O)O"                                         
+GAB SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(cc(c1)N)C(=O)O"                                         
+GAB InChI            InChI                1.03  "InChI=1S/C7H7NO2/c8-6-3-1-2-5(4-6)7(9)10/h1-4H,8H2,(H,9,10)" 
+GAB InChIKey         InChI                1.03  XFDUHJPVQKIXHO-UHFFFAOYSA-N                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GAB "SYSTEMATIC NAME" ACDLabs              10.04 "3-aminobenzoic acid" 
+GAB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3-aminobenzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GAB "Create component"  1999-07-08 RCSB 
+GAB "Modify descriptor" 2011-06-04 RCSB 
+# 

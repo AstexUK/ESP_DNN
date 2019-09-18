@@ -1,0 +1,83 @@
+data_S2H
+# 
+_chem_comp.id                                    S2H 
+_chem_comp.name                                  "Hydrogen disulfide" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H2 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-08-05 
+_chem_comp.pdbx_modified_date                    2012-05-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        66.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     S2H 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3T14 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+S2H S1  S1  S 0 1 N N N 49.829 -15.117 4.429 -1.024 0.053  -0.000 S1  S2H 1 
+S2H S2  S2  S 0 1 N N N 51.078 -15.655 2.896 1.024  -0.053 0.000  S2  S2H 2 
+S2H HS1 HS1 H 0 1 N Y N 50.650 -15.046 5.434 -1.394 -1.240 -0.000 HS1 S2H 3 
+S2H HS2 HS2 H 0 1 N Y N 50.257 -15.726 1.891 1.394  1.240  0.000  HS2 S2H 4 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+S2H S2 S1  SING N N 1 
+S2H S1 HS1 SING N N 2 
+S2H S2 HS2 SING N N 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+S2H InChI            InChI                1.03  InChI=1S/H2S2/c1-2/h1-2H    
+S2H InChIKey         InChI                1.03  BWGNESOTFCXPMA-UHFFFAOYSA-N 
+S2H SMILES_CANONICAL CACTVS               3.370 SS                          
+S2H SMILES           CACTVS               3.370 SS                          
+S2H SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 SS                          
+S2H SMILES           "OpenEye OEToolkits" 1.7.2 SS                          
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+S2H "Create component" 2011-08-05 RCSB 
+# 

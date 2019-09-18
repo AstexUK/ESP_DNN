@@ -1,0 +1,259 @@
+data_DMM
+# 
+_chem_comp.id                                    DMM 
+_chem_comp.name                                  "3'-DESAMINO-3'-(2-METHOXY-4-MORPHOLINYL)-DOXORUBICIN" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAD 
+_chem_comp.formula                               "C32 H37 N O13" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        643.635 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DMM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2DES 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DMM C1     C1   C 0 1 Y N N 5.618  2.594  -7.236  2.436  -0.904 6.158  C1     DMM 1  
+DMM C2     C2   C 0 1 Y N N 6.913  2.150  -6.937  3.790  -0.642 6.290  C2     DMM 2  
+DMM C3     C3   C 0 1 Y N N 7.171  0.795  -6.942  4.469  0.057  5.314  C3     DMM 3  
+DMM C4     C4   C 0 1 Y N N 6.145  -0.086 -7.269  3.802  0.510  4.180  C4     DMM 4  
+DMM O4     O4   O 0 1 N N N 6.533  -1.408 -7.261  4.474  1.197  3.223  O4     DMM 5  
+DMM C5     C5   C 0 1 Y N N 4.852  0.357  -7.554  2.437  0.253  4.032  C5     DMM 6  
+DMM C6     C6   C 0 1 N N N 3.784  -0.484 -7.807  1.708  0.721  2.837  C6     DMM 7  
+DMM O6     O6   O 0 1 N N N 4.068  -1.836 -7.875  2.211  1.541  2.092  O6     DMM 8  
+DMM C7     C7   C 0 1 Y N N 2.466  -0.048 -8.063  0.363  0.185  2.558  C7     DMM 9  
+DMM C8     C8   C 0 1 Y N N 1.412  -0.918 -8.327  -0.237 0.375  1.317  C8     DMM 10 
+DMM O8     O8   O 0 1 N N N 1.512  -2.319 -8.378  0.418  1.063  0.349  O8     DMM 11 
+DMM C9     C9   C 0 1 Y N N 0.111  -0.422 -8.585  -1.515 -0.141 1.059  C9     DMM 12 
+DMM C10    C10  C 0 1 N N S -0.940 -1.400 -8.908  -2.100 0.111  -0.305 C10    DMM 13 
+DMM O10    O10  O 0 1 N N N -1.092 -2.224 -7.771  -1.087 -0.076 -1.295 O10    DMM 14 
+DMM C11    C11  C 0 1 N N N -2.257 -0.841 -9.481  -3.257 -0.846 -0.581 C11    DMM 15 
+DMM C12    C12  C 0 1 N N S -2.629 0.461  -8.654  -4.229 -0.781 0.603  C12    DMM 16 
+DMM O12    O12  O 0 1 N N N -2.713 0.354  -7.202  -5.426 -1.493 0.283  O12    DMM 17 
+DMM C13    C13  C 0 1 N N N -3.936 1.060  -9.142  -4.559 0.656  0.910  C13    DMM 18 
+DMM O13    O13  O 0 1 N N N -3.901 2.045  -10.102 -3.947 1.246  1.767  O13    DMM 19 
+DMM C14    C14  C 0 1 N N N -5.276 0.687  -8.489  -5.655 1.356  0.149  C14    DMM 20 
+DMM O14    O14  O 0 1 N N N -6.378 1.061  -9.312  -5.777 2.700  0.618  O14    DMM 21 
+DMM C15    C15  C 0 1 N N N -1.475 1.510  -8.846  -3.555 -1.425 1.812  C15    DMM 22 
+DMM C16    C16  C 0 1 Y N N -0.093 0.946  -8.586  -2.183 -0.840 2.032  C16    DMM 23 
+DMM C17    C17  C 0 1 Y N N 0.955  1.837  -8.305  -1.593 -1.036 3.288  C17    DMM 24 
+DMM O17    O17  O 0 1 N N N 0.606  3.156  -8.285  -2.262 -1.725 4.246  O17    DMM 25 
+DMM C18    C18  C 0 1 Y N N 2.259  1.363  -8.040  -0.325 -0.529 3.559  C18    DMM 26 
+DMM C19    C19  C 0 1 N N N 3.310  2.242  -7.759  0.304  -0.732 4.877  C19    DMM 27 
+DMM O19    O19  O 0 1 N N N 3.167  3.543  -7.670  -0.355 -1.117 5.822  O19    DMM 28 
+DMM C20    C20  C 0 1 Y N N 4.589  1.738  -7.476  1.750  -0.460 5.033  C20    DMM 29 
+DMM C21    C21  C 0 1 N N N 7.860  -1.652 -6.719  5.831  1.294  3.660  C21    DMM 30 
+DMM "C1'"  C1*  C 0 1 N N R -1.382 -3.585 -7.703  -1.122 1.070  -2.146 "C1'"  DMM 31 
+DMM "C2'"  C2*  C 0 1 N N N -0.850 -4.236 -6.392  0.141  1.102  -3.009 "C2'"  DMM 32 
+DMM "C3'"  C3*  C 0 1 N N S -1.808 -3.815 -5.210  0.212  -0.185 -3.837 "C3'"  DMM 33 
+DMM "C4'"  C4*  C 0 1 N N S -3.252 -3.919 -5.613  -1.101 -0.349 -4.610 "C4'"  DMM 34 
+DMM "O4'"  O4*  O 0 1 N N N -3.775 -5.206 -5.724  -1.217 0.695  -5.578 "O4'"  DMM 35 
+DMM "C5'"  C5*  C 0 1 N N S -3.671 -3.352 -6.964  -2.271 -0.267 -3.626 "C5'"  DMM 36 
+DMM "O5'"  O5*  O 0 1 N N N -2.720 -3.863 -7.996  -2.276 1.005  -2.981 "O5'"  DMM 37 
+DMM "C6'"  C6*  C 0 1 N N N -5.098 -3.702 -7.340  -3.586 -0.459 -4.384 "C6'"  DMM 38 
+DMM "N3'"  N3*  N 0 1 N N N -1.399 -4.449 -3.897  1.333  -0.101 -4.784 "N3'"  DMM 39 
+DMM C33    C33  C 0 1 N N N -2.407 -4.275 -2.803  2.552  0.062  -3.981 C33    DMM 40 
+DMM C23    C23  C 0 1 N N S -2.055 -5.208 -1.632  3.778  -0.016 -4.891 C23    DMM 41 
+DMM O16    O16  O 0 1 N N N -0.688 -5.033 -1.288  3.847  -1.308 -5.494 O16    DMM 42 
+DMM C63    C63  C 0 1 N N N 0.420  -4.671 -2.242  2.686  -1.454 -6.312 C63    DMM 43 
+DMM C53    C53  C 0 1 N N N -0.054 -4.236 -3.498  1.432  -1.412 -5.438 C53    DMM 44 
+DMM O23    O23  O 0 1 N N N -2.293 -6.596 -1.857  4.959  0.211  -4.119 O23    DMM 45 
+DMM C73    C73  C 0 1 N N N -1.861 -7.582 -0.895  6.064  0.128  -5.020 C73    DMM 46 
+DMM H1     H1   H 0 1 N N N 5.397  3.673  -7.285  1.913  -1.453 6.927  H1     DMM 47 
+DMM H2     H2   H 0 1 N N N 7.722  2.860  -6.699  4.319  -0.989 7.166  H2     DMM 48 
+DMM H3     H3   H 0 1 N N N 8.178  0.423  -6.689  5.524  0.254  5.431  H3     DMM 49 
+DMM HO8    HO8  H 0 1 N N N 0.792  -2.912 -8.558  0.997  0.432  -0.098 HO8    DMM 50 
+DMM H10    H10  H 0 1 N N N -0.605 -1.998 -9.787  -2.465 1.137  -0.355 H10    DMM 51 
+DMM H111   1H11 H 0 0 N N N -2.208 -0.657 -10.579 -3.771 -0.549 -1.494 H111   DMM 52 
+DMM H112   2H11 H 0 0 N N N -3.078 -1.595 -9.494  -2.875 -1.862 -0.687 H112   DMM 53 
+DMM HO12   2HO1 H 0 0 N N N -2.935 1.133  -6.706  -6.006 -1.425 1.054  HO12   DMM 54 
+DMM H141   1H14 H 0 0 N N N -5.313 -0.395 -8.223  -5.411 1.364  -0.913 H141   DMM 55 
+DMM H142   2H14 H 0 0 N N N -5.365 1.119  -7.465  -6.597 0.831  0.302  H142   DMM 56 
+DMM HO14   4HO1 H 0 0 N N N -7.206 0.830  -8.908  -6.486 3.112  0.106  HO14   DMM 57 
+DMM H151   1H15 H 0 0 N N N -1.527 1.972  -9.859  -4.165 -1.251 2.698  H151   DMM 58 
+DMM H152   2H15 H 0 0 N N N -1.656 2.414  -8.219  -3.464 -2.498 1.644  H152   DMM 59 
+DMM HO17   7HO1 H 0 0 N N N 1.315  3.758  -8.094  -2.019 -2.656 4.141  HO17   DMM 60 
+DMM H211   1H21 H 0 0 N N N 8.174  -2.721 -6.712  6.413  1.842  2.918  H211   DMM 61 
+DMM H212   2H21 H 0 0 N N N 8.615  -1.031 -7.254  5.868  1.822  4.613  H212   DMM 62 
+DMM H213   3H21 H 0 0 N N N 7.944  -1.218 -5.695  6.246  0.294  3.781  H213   DMM 63 
+DMM "H1'"  H1*  H 0 1 N N N -0.812 -4.088 -8.518  -1.167 1.972  -1.536 "H1'"  DMM 64 
+DMM "H2'1" 1H2* H 0 0 N N N -0.732 -5.341 -6.477  1.019  1.172  -2.367 "H2'1" DMM 65 
+DMM "H2'2" 2H2* H 0 0 N N N 0.217  -3.986 -6.190  0.105  1.963  -3.676 "H2'2" DMM 66 
+DMM "H3'"  H3*  H 0 1 N N N -1.687 -2.727 -4.994  0.356  -1.038 -3.175 "H3'"  DMM 67 
+DMM "H4'"  H4*  H 0 1 N N N -3.635 -3.323 -4.751  -1.115 -1.316 -5.113 "H4'"  DMM 68 
+DMM "HO4'" *HO4 H 0 0 N N N -4.687 -5.271 -5.978  -2.059 0.560  -6.034 "HO4'" DMM 69 
+DMM "H5'"  H5*  H 0 1 N N N -3.636 -2.239 -6.902  -2.167 -1.052 -2.877 "H5'"  DMM 70 
+DMM "H6'1" 1H6* H 0 0 N N N -5.404 -3.287 -8.328  -4.419 -0.409 -3.684 "H6'1" DMM 71 
+DMM "H6'2" 2H6* H 0 0 N N N -5.259 -4.804 -7.304  -3.692 0.327  -5.132 "H6'2" DMM 72 
+DMM "H6'3" 3H6* H 0 0 N N N -5.808 -3.387 -6.539  -3.582 -1.431 -4.877 "H6'3" DMM 73 
+DMM H331   1H33 H 0 0 N N N -2.501 -3.211 -2.481  2.603  -0.729 -3.233 H331   DMM 74 
+DMM H332   2H33 H 0 0 N N N -3.451 -4.425 -3.163  2.531  1.031  -3.482 H332   DMM 75 
+DMM H23    H23  H 0 1 N N N -2.744 -4.911 -0.807  3.701  0.743  -5.669 H23    DMM 76 
+DMM H631   1H63 H 0 0 N N N 1.102  -3.914 -1.790  2.730  -2.408 -6.837 H631   DMM 77 
+DMM H632   2H63 H 0 0 N N N 1.137  -5.516 -2.358  2.649  -0.642 -7.038 H632   DMM 78 
+DMM H531   1H53 H 0 0 N N N 0.609  -4.667 -4.283  1.491  -2.193 -4.680 H531   DMM 79 
+DMM H532   2H53 H 0 0 N N N 0.161  -3.145 -3.587  0.551  -1.576 -6.059 H532   DMM 80 
+DMM H731   1H73 H 0 0 N N N -2.047 -8.667 -1.070  6.992  0.295  -4.474 H731   DMM 81 
+DMM H732   2H73 H 0 0 N N N -0.769 -7.440 -0.716  6.086  -0.861 -5.478 H732   DMM 82 
+DMM H733   3H73 H 0 0 N N N -2.289 -7.311 0.098   5.958  0.885  -5.797 H733   DMM 83 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DMM C1    C2     DOUB Y N 1  
+DMM C1    C20    SING Y N 2  
+DMM C1    H1     SING N N 3  
+DMM C2    C3     SING Y N 4  
+DMM C2    H2     SING N N 5  
+DMM C3    C4     DOUB Y N 6  
+DMM C3    H3     SING N N 7  
+DMM C4    O4     SING N N 8  
+DMM C4    C5     SING Y N 9  
+DMM O4    C21    SING N N 10 
+DMM C5    C6     SING N N 11 
+DMM C5    C20    DOUB Y N 12 
+DMM C6    O6     DOUB N N 13 
+DMM C6    C7     SING N N 14 
+DMM C7    C8     DOUB Y N 15 
+DMM C7    C18    SING Y N 16 
+DMM C8    O8     SING N N 17 
+DMM C8    C9     SING Y N 18 
+DMM O8    HO8    SING N N 19 
+DMM C9    C10    SING N N 20 
+DMM C9    C16    DOUB Y N 21 
+DMM C10   O10    SING N N 22 
+DMM C10   C11    SING N N 23 
+DMM C10   H10    SING N N 24 
+DMM O10   "C1'"  SING N N 25 
+DMM C11   C12    SING N N 26 
+DMM C11   H111   SING N N 27 
+DMM C11   H112   SING N N 28 
+DMM C12   O12    SING N N 29 
+DMM C12   C13    SING N N 30 
+DMM C12   C15    SING N N 31 
+DMM O12   HO12   SING N N 32 
+DMM C13   O13    DOUB N N 33 
+DMM C13   C14    SING N N 34 
+DMM C14   O14    SING N N 35 
+DMM C14   H141   SING N N 36 
+DMM C14   H142   SING N N 37 
+DMM O14   HO14   SING N N 38 
+DMM C15   C16    SING N N 39 
+DMM C15   H151   SING N N 40 
+DMM C15   H152   SING N N 41 
+DMM C16   C17    SING Y N 42 
+DMM C17   O17    SING N N 43 
+DMM C17   C18    DOUB Y N 44 
+DMM O17   HO17   SING N N 45 
+DMM C18   C19    SING N N 46 
+DMM C19   O19    DOUB N N 47 
+DMM C19   C20    SING N N 48 
+DMM C21   H211   SING N N 49 
+DMM C21   H212   SING N N 50 
+DMM C21   H213   SING N N 51 
+DMM "C1'" "C2'"  SING N N 52 
+DMM "C1'" "O5'"  SING N N 53 
+DMM "C1'" "H1'"  SING N N 54 
+DMM "C2'" "C3'"  SING N N 55 
+DMM "C2'" "H2'1" SING N N 56 
+DMM "C2'" "H2'2" SING N N 57 
+DMM "C3'" "C4'"  SING N N 58 
+DMM "C3'" "N3'"  SING N N 59 
+DMM "C3'" "H3'"  SING N N 60 
+DMM "C4'" "O4'"  SING N N 61 
+DMM "C4'" "C5'"  SING N N 62 
+DMM "C4'" "H4'"  SING N N 63 
+DMM "O4'" "HO4'" SING N N 64 
+DMM "C5'" "O5'"  SING N N 65 
+DMM "C5'" "C6'"  SING N N 66 
+DMM "C5'" "H5'"  SING N N 67 
+DMM "C6'" "H6'1" SING N N 68 
+DMM "C6'" "H6'2" SING N N 69 
+DMM "C6'" "H6'3" SING N N 70 
+DMM "N3'" C33    SING N N 71 
+DMM "N3'" C53    SING N N 72 
+DMM C33   C23    SING N N 73 
+DMM C33   H331   SING N N 74 
+DMM C33   H332   SING N N 75 
+DMM C23   O16    SING N N 76 
+DMM C23   O23    SING N N 77 
+DMM C23   H23    SING N N 78 
+DMM O16   C63    SING N N 79 
+DMM C63   C53    SING N N 80 
+DMM C63   H631   SING N N 81 
+DMM C63   H632   SING N N 82 
+DMM C53   H531   SING N N 83 
+DMM C53   H532   SING N N 84 
+DMM O23   C73    SING N N 85 
+DMM C73   H731   SING N N 86 
+DMM C73   H732   SING N N 87 
+DMM C73   H733   SING N N 88 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DMM SMILES           ACDLabs              10.04 "O=C2c1c(O)c6c(c(O)c1C(=O)c3cccc(OC)c23)CC(O)(C(=O)CO)CC6OC5OC(C)C(O)C(N4CCOC(OC)C4)C5" 
+DMM SMILES_CANONICAL CACTVS               3.341 "CO[C@@H]1CN(CCO1)[C@H]2C[C@@H](O[C@@H](C)[C@H]2O)O[C@H]3C[C@@](O)(Cc4c(O)c5C(=O)c6cccc(OC)c6C(=O)c5c(O)c34)C(=O)CO" 
+DMM SMILES           CACTVS               3.341 "CO[CH]1CN(CCO1)[CH]2C[CH](O[CH](C)[CH]2O)O[CH]3C[C](O)(Cc4c(O)c5C(=O)c6cccc(OC)c6C(=O)c5c(O)c34)C(=O)CO" 
+DMM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)CO)O)[N@]6CCO[C@@H](C6)OC)O" 
+DMM SMILES           "OpenEye OEToolkits" 1.5.0 "CC1C(C(CC(O1)OC2CC(Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)CO)O)N6CCOC(C6)OC)O" 
+DMM InChI            InChI                1.03  
+"InChI=1S/C32H37NO13/c1-14-27(36)17(33-7-8-44-22(12-33)43-3)9-21(45-14)46-19-11-32(41,20(35)13-34)10-16-24(19)31(40)26-25(29(16)38)28(37)15-5-4-6-18(42-2)23(15)30(26)39/h4-6,14,17,19,21-22,27,34,36,38,40-41H,7-13H2,1-3H3/t14-,17-,19-,21-,22-,27+,32-/m0/s1" 
+DMM InChIKey         InChI                1.03  CTMCWCONSULRHO-UHQPFXKFSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DMM "SYSTEMATIC NAME" ACDLabs              10.04 "(1S,3S)-3,5,12-trihydroxy-3-(hydroxyacetyl)-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 2,3,6-trideoxy-3-[(2S)-2-methoxymorpholin-4-yl]-alpha-L-lyxo-hexopyranoside"    
+DMM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(7S,9S)-6,9,11-trihydroxy-9-(2-hydroxyethanoyl)-7-[(2R,4S,5S,6S)-5-hydroxy-4-[(2S,4S)-2-methoxymorpholin-4-yl]-6-methyl-oxan-2-yl]oxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DMM "Create component"  1999-07-08 RCSB 
+DMM "Modify descriptor" 2011-06-04 RCSB 
+# 

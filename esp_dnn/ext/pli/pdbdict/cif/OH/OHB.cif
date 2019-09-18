@@ -1,0 +1,121 @@
+data_OHB
+# 
+_chem_comp.id                                    OHB 
+_chem_comp.name                                  salicylamide 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-hydroxybenzamide 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-04-10 
+_chem_comp.pdbx_modified_date                    2013-10-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        137.136 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OHB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4K17 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OHB O  O  O 0 1 N N N 67.104 -60.143 -56.039 -2.253 -0.806 0.015  O  OHB 1  
+OHB C  C  C 0 1 N N N 68.278 -59.809 -56.299 -1.653 0.252  0.004  C  OHB 2  
+OHB N  N  N 0 1 N N N 69.161 -60.721 -56.953 -2.335 1.414  -0.002 N  OHB 3  
+OHB C1 C1 C 0 1 Y N N 68.865 -58.472 -55.922 -0.177 0.262  0.004  C1 OHB 4  
+OHB C6 C6 C 0 1 Y N N 70.260 -58.232 -55.798 0.536  -0.944 0.016  C6 OHB 5  
+OHB O1 O1 O 0 1 N N N 71.214 -59.205 -56.019 -0.127 -2.127 0.028  O1 OHB 6  
+OHB C5 C5 C 0 1 Y N N 70.716 -56.973 -55.439 1.923  -0.922 0.016  C5 OHB 7  
+OHB C4 C4 C 0 1 Y N N 69.785 -55.979 -55.211 2.596  0.283  0.003  C4 OHB 8  
+OHB C3 C3 C 0 1 Y N N 68.421 -56.224 -55.323 1.894  1.478  -0.009 C3 OHB 9  
+OHB C2 C2 C 0 1 Y N N 67.958 -57.456 -55.709 0.516  1.475  -0.014 C2 OHB 10 
+OHB H1 H1 H 0 1 N N N 68.840 -61.634 -57.206 -3.305 1.407  0.002  H1 OHB 11 
+OHB H2 H2 H 0 1 N N N 70.101 -60.447 -57.158 -1.856 2.257  -0.011 H2 OHB 12 
+OHB H3 H3 H 0 1 N N N 72.079 -58.837 -55.883 -0.319 -2.480 -0.852 H3 OHB 13 
+OHB H4 H4 H 0 1 N N N 71.773 -56.775 -55.340 2.477  -1.849 0.026  H4 OHB 14 
+OHB H5 H5 H 0 1 N N N 70.124 -54.990 -54.940 3.676  0.295  0.003  H5 OHB 15 
+OHB H6 H6 H 0 1 N N N 67.717 -55.435 -55.103 2.430  2.416  -0.019 H6 OHB 16 
+OHB H7 H7 H 0 1 N N N 66.900 -57.627 -55.844 -0.026 2.408  -0.028 H7 OHB 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OHB N  C  SING N N 1  
+OHB C  O  DOUB N N 2  
+OHB C  C1 SING N N 3  
+OHB O1 C6 SING N N 4  
+OHB C1 C6 DOUB Y N 5  
+OHB C1 C2 SING Y N 6  
+OHB C6 C5 SING Y N 7  
+OHB C2 C3 DOUB Y N 8  
+OHB C5 C4 DOUB Y N 9  
+OHB C3 C4 SING Y N 10 
+OHB N  H1 SING N N 11 
+OHB N  H2 SING N N 12 
+OHB O1 H3 SING N N 13 
+OHB C5 H4 SING N N 14 
+OHB C4 H5 SING N N 15 
+OHB C3 H6 SING N N 16 
+OHB C2 H7 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OHB SMILES           ACDLabs              12.01 "O=C(c1ccccc1O)N"                                            
+OHB InChI            InChI                1.03  "InChI=1S/C7H7NO2/c8-7(10)5-3-1-2-4-6(5)9/h1-4,9H,(H2,8,10)" 
+OHB InChIKey         InChI                1.03  SKZKKFZAGNVIMN-UHFFFAOYSA-N                                  
+OHB SMILES_CANONICAL CACTVS               3.370 "NC(=O)c1ccccc1O"                                            
+OHB SMILES           CACTVS               3.370 "NC(=O)c1ccccc1O"                                            
+OHB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(c(c1)C(=O)N)O"                                        
+OHB SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(c(c1)C(=O)N)O"                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OHB "SYSTEMATIC NAME" ACDLabs              12.01 2-hydroxybenzamide  
+OHB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 2-oxidanylbenzamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OHB "Create component" 2013-04-10 RCSB 
+OHB "Initial release"  2013-10-09 RCSB 
+# 

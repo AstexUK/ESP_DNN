@@ -1,0 +1,101 @@
+data_RMO
+# 
+_chem_comp.id                                    RMO 
+_chem_comp.name                                  "[arsenothionito(2-)-kappa~2~O,S](oxo)molybdenum" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "As H Mo O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-22 
+_chem_comp.pdbx_modified_date                    2011-07-22 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        251.933 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RMO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RCA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RMO S1  S1  S  0 1 N N N 36.073 14.593 18.331 -0.240 1.577  -0.073 S1  RMO 1 
+RMO AS1 AS1 AS 0 0 N N R 36.655 16.066 17.932 -1.552 -0.243 -0.349 AS1 RMO 2 
+RMO MO1 MO1 MO 0 0 N N N 37.607 12.871 17.762 1.516  -0.047 0.277  MO1 RMO 3 
+RMO O1  O1  O  0 1 N N N 37.949 14.614 17.039 -0.199 -1.067 0.664  O1  RMO 4 
+RMO O2  O2  O  0 1 N N N 38.687 13.075 19.064 2.156  -0.552 -1.264 O2  RMO 5 
+RMO O3  O3  O  0 1 N N N 37.141 17.694 17.291 -3.068 -0.068 0.680  O3  RMO 6 
+RMO HO2 HO2 H  0 1 N N N 36.642 17.888 16.506 -3.678 -0.815 0.611  HO2 RMO 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RMO S1  AS1 SING N N 1 
+RMO AS1 O1  SING N N 2 
+RMO AS1 O3  SING N N 3 
+RMO S1  MO1 SING N N 4 
+RMO O1  MO1 SING N N 5 
+RMO MO1 O2  DOUB N N 6 
+RMO O3  HO2 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RMO SMILES           ACDLabs              12.01 "O=[Mo]1O[As](O)S1"                             
+RMO SMILES_CANONICAL CACTVS               3.370 "O[As@]1O[Mo](=O)S1"                            
+RMO SMILES           CACTVS               3.370 "O[As]1O[Mo](=O)S1"                             
+RMO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "O[As]1O[Mo](=O)S1"                             
+RMO SMILES           "OpenEye OEToolkits" 1.7.2 "O[As]1O[Mo](=O)S1"                             
+RMO InChI            InChI                1.03  "InChI=1S/AsHO2S.Mo.O/c2-1(3)4;;/h2H;;/q-2;+2;" 
+RMO InChIKey         InChI                1.03  OQRBJXHQYFZCTC-UHFFFAOYSA-N                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RMO "SYSTEMATIC NAME" ACDLabs              12.01 "[arsenothionito(2-)-kappa~2~O,S](oxo)molybdenum"                   
+RMO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "2-oxidanyl-1-oxa-3-thia-2-arsa-4$l^{4}-molybdacyclobutane 4-oxide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RMO "Create component"  2011-04-22 RCSB 
+RMO "Modify descriptor" 2011-06-04 RCSB 
+# 

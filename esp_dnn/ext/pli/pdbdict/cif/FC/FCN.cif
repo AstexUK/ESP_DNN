@@ -1,0 +1,117 @@
+data_FCN
+# 
+_chem_comp.id                                    FCN 
+_chem_comp.name                                  FOSFOMYCIN 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "1,2-EPOXYPROPYLPHOSPHONIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        138.059 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FCN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1UAE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FCN C1   C1   C 0 1 N N R 37.708 24.607 44.233 -0.798 0.665  0.643  C1   FCN 1  
+FCN C2   C2   C 0 1 N N S 38.728 25.086 45.320 -0.102 0.479  1.993  C2   FCN 2  
+FCN C3   C3   C 0 1 N N N 40.144 24.426 45.258 1.231  -0.269 2.010  C3   FCN 3  
+FCN O    O    O 0 1 N N N 37.409 23.188 44.329 -1.273 -0.254 1.630  O    FCN 4  
+FCN P    P    P 0 1 N N N 38.192 24.927 42.452 0.016  -0.022 -0.835 P    FCN 5  
+FCN O1P  O1P  O 0 1 N N N 37.038 24.662 41.608 0.227  -1.475 -0.651 O1P  FCN 6  
+FCN O2P  O2P  O 0 1 N N N 39.346 23.990 42.104 -0.914 0.225  -2.125 O2P  FCN 7  
+FCN O3P  O3P  O 0 1 N N N 38.692 26.358 42.219 1.437  0.703  -1.052 O3P  FCN 8  
+FCN H1   H1   H 0 1 N N N 36.820 25.237 44.473 -1.367 1.581  0.486  H1   FCN 9  
+FCN H2   H2   H 0 1 N N N 38.888 25.964 45.988 -0.208 1.273  2.732  H2   FCN 10 
+FCN H31  1H3  H 0 1 N N N 40.870 24.767 46.032 1.592  -0.344 3.036  H31  FCN 11 
+FCN H32  2H3  H 0 1 N N N 40.047 23.315 45.289 1.091  -1.270 1.600  H32  FCN 12 
+FCN H33  3H3  H 0 1 N N N 40.581 24.558 44.241 1.960  0.271  1.407  H33  FCN 13 
+FCN HOP2 2HOP H 0 0 N N N 39.591 24.152 41.200 -0.448 -0.152 -2.883 HOP2 FCN 14 
+FCN HOP3 3HOP H 0 0 N N N 38.937 26.520 41.315 1.254  1.645  -1.167 HOP3 FCN 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FCN C1  C2   SING N N 1  
+FCN C1  O    SING N N 2  
+FCN C1  P    SING N N 3  
+FCN C1  H1   SING N N 4  
+FCN C2  C3   SING N N 5  
+FCN C2  O    SING N N 6  
+FCN C2  H2   SING N N 7  
+FCN C3  H31  SING N N 8  
+FCN C3  H32  SING N N 9  
+FCN C3  H33  SING N N 10 
+FCN P   O1P  DOUB N N 11 
+FCN P   O2P  SING N N 12 
+FCN P   O3P  SING N N 13 
+FCN O2P HOP2 SING N N 14 
+FCN O3P HOP3 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FCN SMILES           ACDLabs              10.04 "O=P(O)(O)C1OC1C"                                                       
+FCN SMILES_CANONICAL CACTVS               3.341 "C[C@@H]1O[C@@H]1[P](O)(O)=O"                                           
+FCN SMILES           CACTVS               3.341 "C[CH]1O[CH]1[P](O)(O)=O"                                               
+FCN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H]1[C@H](O1)P(=O)(O)O"                                             
+FCN SMILES           "OpenEye OEToolkits" 1.5.0 "CC1C(O1)P(=O)(O)O"                                                     
+FCN InChI            InChI                1.03  "InChI=1S/C3H7O4P/c1-2-3(7-2)8(4,5)6/h2-3H,1H3,(H2,4,5,6)/t2-,3+/m0/s1" 
+FCN InChIKey         InChI                1.03  YMDXZJFXQJVXBF-STHAYSLISA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FCN "SYSTEMATIC NAME" ACDLabs              10.04 "[(2R,3S)-3-methyloxiran-2-yl]phosphonic acid" 
+FCN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S)-3-methyloxiran-2-yl]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FCN "Create component"  1999-07-08 EBI  
+FCN "Modify descriptor" 2011-06-04 RCSB 
+# 

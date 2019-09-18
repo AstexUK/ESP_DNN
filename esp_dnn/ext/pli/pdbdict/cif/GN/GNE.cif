@@ -1,0 +1,168 @@
+data_GNE
+# 
+_chem_comp.id                                    GNE 
+_chem_comp.name                                  1,N2-ETHENOGUANINE 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C12 H14 N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-04-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        371.243 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     GNE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2BQ3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GNE P      P    P 0 1 N N N 40.450 36.810 15.271 1.592  -1.245 -4.964 P      GNE 1  
+GNE OP1    O1P  O 0 1 N N N 41.420 36.154 16.169 0.339  -0.227 -4.868 OP1    GNE 2  
+GNE OP2    O2P  O 0 1 N N N 40.604 38.244 14.984 2.575  -0.951 -6.059 OP2    GNE 3  
+GNE OP3    O3P  O 0 1 N Y N ?      ?      ?      0.886  -2.697 -5.051 OP3    GNE 4  
+GNE "O5'"  O5*  O 0 1 N N N 38.972 36.522 15.833 2.211  -1.232 -3.468 "O5'"  GNE 5  
+GNE "C5'"  C5*  C 0 1 N N N 37.929 37.492 15.756 1.348  -1.500 -2.377 "C5'"  GNE 6  
+GNE "C4'"  C4*  C 0 1 N N R 36.527 36.877 15.743 2.156  -1.432 -1.088 "C4'"  GNE 7  
+GNE "O4'"  O4*  O 0 1 N N N 36.225 36.161 14.532 2.678  -0.093 -0.958 "O4'"  GNE 8  
+GNE "C3'"  C3*  C 0 1 N N S 36.242 35.886 16.874 1.309  -1.697 0.152  "C3'"  GNE 9  
+GNE "O3'"  O3*  O 0 1 N N N 34.907 36.085 17.344 2.127  -2.250 1.180  "O3'"  GNE 10 
+GNE "C2'"  C2*  C 0 1 N N N 36.248 34.547 16.145 0.878  -0.312 0.578  "C2'"  GNE 11 
+GNE "C1'"  C1*  C 0 1 N N R 35.416 35.061 14.974 2.101  0.516  0.211  "C1'"  GNE 12 
+GNE N9     N9   N 0 1 Y N N 35.117 34.046 13.941 1.818  1.923  -0.049 N9     GNE 13 
+GNE C8     C8   C 0 1 Y N N 35.947 33.095 13.519 1.432  2.457  -1.253 C8     GNE 14 
+GNE N7     N7   N 0 1 Y N N 35.339 32.365 12.586 1.246  3.761  -1.188 N7     GNE 15 
+GNE C5     C5   C 0 1 Y N N 34.119 32.858 12.418 1.525  4.070  0.112  C5     GNE 16 
+GNE C6     C6   C 0 1 N N N 33.058 32.508 11.587 1.482  5.367  0.747  C6     GNE 17 
+GNE O6     O6   O 0 1 N N N 33.193 31.578 10.788 1.173  6.396  0.162  O6     GNE 18 
+GNE N1     N1   N 0 1 N N N 31.873 33.237 11.650 1.840  5.236  2.092  N1     GNE 19 
+GNE C2     C2   C 0 1 N N N 31.768 34.311 12.549 2.194  4.009  2.743  C2     GNE 20 
+GNE N2     N2   N 0 1 N N N 30.552 34.861 12.480 2.467  4.360  4.050  N2     GNE 21 
+GNE CM2    CM2  C 0 1 N N N 29.764 34.170 11.455 2.294  5.714  4.205  CM2    GNE 22 
+GNE N3     N3   N 0 1 N N N 32.813 34.619 13.329 2.226  2.851  2.150  N3     GNE 23 
+GNE C11    C11  C 0 1 N N N 30.723 33.087 10.979 1.916  6.250  3.032  C11    GNE 24 
+GNE C4     C4   C 0 1 Y N N 33.965 33.929 13.285 1.882  2.954  0.842  C4     GNE 25 
+GNE HO1    HO1  H 0 1 N N N 41.320 35.227 16.354 -0.163 -0.014 -5.684 HO1    GNE 26 
+GNE HO3    HO3  H 0 1 N Y N -0.624 0.422  -0.578 0.508  -2.990 -5.907 HO3    GNE 27 
+GNE "H5'"  1H5* H 0 1 N N N 38.076 38.161 14.876 0.551  -0.756 -2.359 "H5'"  GNE 28 
+GNE "H5''" 2H5* H 0 0 N N N 38.025 38.241 16.576 0.917  -2.495 -2.497 "H5''" GNE 29 
+GNE "H4'"  H4*  H 0 1 N N N 35.793 37.711 15.833 3.008  -2.117 -1.157 "H4'"  GNE 30 
+GNE "H3'"  H3*  H 0 1 N N N 36.999 35.935 17.691 0.475  -2.383 -0.018 "H3'"  GNE 31 
+GNE HA     HA   H 0 1 N N N 34.730 35.470 18.046 2.952  -1.741 1.180  HA     GNE 32 
+GNE "H2'"  1H2* H 0 1 N N N 35.889 33.645 16.693 0.008  0.008  -0.009 "H2'"  GNE 33 
+GNE "H2''" 2H2* H 0 0 N N N 37.231 34.069 15.926 0.635  -0.225 1.641  "H2''" GNE 34 
+GNE "H1'"  H1*  H 0 1 N N N 34.454 35.462 15.369 2.853  0.503  1.007  "H1'"  GNE 35 
+GNE H8     H8   H 0 1 N N N 36.976 32.937 13.884 1.305  1.848  -2.138 H8     GNE 36 
+GNE H2     H2   H 0 1 N N N 30.224 35.640 13.051 2.746  3.752  4.807  H2     GNE 37 
+GNE HM2    HM2  H 0 1 N N N 28.736 34.381 11.115 2.459  6.185  5.159  HM2    GNE 38 
+GNE H11    H11  H 0 1 N N N 30.509 32.317 10.218 1.695  7.276  2.789  H11    GNE 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GNE P     OP1    SING N N 1  
+GNE P     OP2    DOUB N N 2  
+GNE P     OP3    SING N N 3  
+GNE P     "O5'"  SING N N 4  
+GNE OP1   HO1    SING N N 5  
+GNE OP3   HO3    SING N N 6  
+GNE "O5'" "C5'"  SING N N 7  
+GNE "C5'" "C4'"  SING N N 8  
+GNE "C5'" "H5'"  SING N N 9  
+GNE "C5'" "H5''" SING N N 10 
+GNE "C4'" "O4'"  SING N N 11 
+GNE "C4'" "C3'"  SING N N 12 
+GNE "C4'" "H4'"  SING N N 13 
+GNE "O4'" "C1'"  SING N N 14 
+GNE "C3'" "O3'"  SING N N 15 
+GNE "C3'" "C2'"  SING N N 16 
+GNE "C3'" "H3'"  SING N N 17 
+GNE "O3'" HA     SING N N 18 
+GNE "C2'" "C1'"  SING N N 19 
+GNE "C2'" "H2'"  SING N N 20 
+GNE "C2'" "H2''" SING N N 21 
+GNE "C1'" N9     SING N N 22 
+GNE "C1'" "H1'"  SING N N 23 
+GNE N9    C8     SING Y N 24 
+GNE N9    C4     SING Y N 25 
+GNE C8    N7     DOUB Y N 26 
+GNE C8    H8     SING N N 27 
+GNE N7    C5     SING Y N 28 
+GNE C5    C6     SING N N 29 
+GNE C5    C4     DOUB Y N 30 
+GNE C6    O6     DOUB N N 31 
+GNE C6    N1     SING N N 32 
+GNE N1    C2     SING N N 33 
+GNE N1    C11    SING N N 34 
+GNE C2    N2     SING N N 35 
+GNE C2    N3     DOUB N N 36 
+GNE N2    CM2    SING N N 37 
+GNE N2    H2     SING N N 38 
+GNE CM2   C11    DOUB N N 39 
+GNE CM2   HM2    SING N N 40 
+GNE N3    C4     SING N N 41 
+GNE C11   H11    SING N N 42 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GNE SMILES           ACDLabs              10.04 "O=C2c3ncn(c3N=C1NC=CN12)C4OC(C(O)C4)COP(=O)(O)O"                                                                                                             
+GNE SMILES_CANONICAL CACTVS               3.341 "O[C@H]1C[C@@H](O[C@@H]1CO[P](O)(O)=O)n2cnc3C(=O)N4C=CNC4=Nc23"                                                                                               
+GNE SMILES           CACTVS               3.341 "O[CH]1C[CH](O[CH]1CO[P](O)(O)=O)n2cnc3C(=O)N4C=CNC4=Nc23"                                                                                                    
+GNE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)N=C4NC=CN4C2=O"                                                                                                
+GNE SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1C3CC(C(O3)COP(=O)(O)O)O)N=C4NC=CN4C2=O"                                                                                                             
+GNE InChI            InChI                1.03  "InChI=1S/C12H14N5O7P/c18-6-3-8(24-7(6)4-23-25(20,21)22)17-5-14-9-10(17)15-12-13-1-2-16(12)11(9)19/h1-2,5-8,18H,3-4H2,(H,13,15)(H2,20,21,22)/t6-,7+,8+/m0/s1" 
+GNE InChIKey         InChI                1.03  NCYIUPASQWXGPJ-XLPZGREQSA-N                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GNE "SYSTEMATIC NAME" ACDLabs              10.04 "3-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-3,5-dihydro-9H-imidazo[1,2-a]purin-9-one"   
+GNE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-3-hydroxy-5-(9-oxo-5H-imidazo[1,2-a]purin-3-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GNE "Create component"  2005-04-27 EBI  
+GNE "Modify descriptor" 2011-06-04 RCSB 
+# 

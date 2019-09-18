@@ -1,0 +1,115 @@
+data_TP5
+# 
+_chem_comp.id                                    TP5 
+_chem_comp.name                                  THIOPHENE-3-CARBOXIMIDAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 N2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-09-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        126.180 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TP5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2AS1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TP5 C4   C4   C 0 1 Y N N -17.311 -2.838 -4.477 0.451  1.103  0.000  C4   TP5 1  
+TP5 S1   S1   S 0 1 Y N N -16.268 -2.239 -3.246 2.087  0.532  0.000  S1   TP5 2  
+TP5 C5   C5   C 0 1 Y N N -14.916 -2.331 -4.302 1.765  -1.222 -0.002 C5   TP5 3  
+TP5 C3   C3   C 0 1 Y N N -15.248 -2.891 -5.540 0.415  -1.268 0.003  C3   TP5 4  
+TP5 C1   C1   C 0 1 Y N N -16.625 -3.187 -5.659 -0.276 -0.056 -0.001 C1   TP5 5  
+TP5 C2   C2   C 0 1 N N N -17.274 -3.755 -6.854 -1.752 -0.025 0.000  C2   TP5 6  
+TP5 N2   N2   N 0 1 N N N -18.534 -3.417 -7.059 -2.416 1.183  0.001  N2   TP5 7  
+TP5 N1   N1   N 0 1 N N N -16.549 -4.538 -7.637 -2.428 -1.141 -0.001 N1   TP5 8  
+TP5 HC4  HC4  H 0 1 N N N -18.380 -2.936 -4.357 0.093  2.122  0.001  HC4  TP5 9  
+TP5 HC5  HC5  H 0 1 N N N -13.924 -1.995 -4.040 2.470  -2.040 -0.002 HC5  TP5 10 
+TP5 HC3  HC3  H 0 1 N N N -14.528 -3.078 -6.323 -0.111 -2.211 0.004  HC3  TP5 11 
+TP5 HN21 1HN2 H 0 0 N N N -19.080 -2.814 -6.478 -1.914 2.013  0.001  HN21 TP5 12 
+TP5 HN22 2HN2 H 0 0 N N N -18.849 -3.867 -7.895 -3.386 1.204  -0.003 HN22 TP5 13 
+TP5 HN1  HN1  H 0 1 N N N -15.632 -4.613 -7.245 -3.398 -1.120 -0.001 HN1  TP5 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TP5 C4 S1   SING Y N 1  
+TP5 C4 C1   DOUB Y N 2  
+TP5 C4 HC4  SING N N 3  
+TP5 S1 C5   SING Y N 4  
+TP5 C5 C3   DOUB Y N 5  
+TP5 C5 HC5  SING N N 6  
+TP5 C3 C1   SING Y N 7  
+TP5 C3 HC3  SING N N 8  
+TP5 C1 C2   SING N N 9  
+TP5 C2 N2   SING N N 10 
+TP5 C2 N1   DOUB N E 11 
+TP5 N2 HN21 SING N N 12 
+TP5 N2 HN22 SING N N 13 
+TP5 N1 HN1  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TP5 SMILES           ACDLabs              10.04 "[N@H]=C(N)c1ccsc1"                                  
+TP5 SMILES_CANONICAL CACTVS               3.341 "NC(=N)c1cscc1"                                      
+TP5 SMILES           CACTVS               3.341 "NC(=N)c1cscc1"                                      
+TP5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[H]/N=C(\c1ccsc1)/N"                                
+TP5 SMILES           "OpenEye OEToolkits" 1.5.0 "[H]N=C(c1ccsc1)N"                                   
+TP5 InChI            InChI                1.03  "InChI=1S/C5H6N2S/c6-5(7)4-1-2-8-3-4/h1-3H,(H3,6,7)" 
+TP5 InChIKey         InChI                1.03  JKCKRNYECSTMLV-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TP5 "SYSTEMATIC NAME" ACDLabs              10.04 thiophene-3-carboximidamide 
+TP5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 thiophene-3-carboximidamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TP5 "Create component"  2005-09-13 EBI  
+TP5 "Modify descriptor" 2011-06-04 RCSB 
+# 

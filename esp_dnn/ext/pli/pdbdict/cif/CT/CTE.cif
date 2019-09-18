@@ -1,0 +1,142 @@
+data_CTE
+# 
+_chem_comp.id                                    CTE 
+_chem_comp.name                                  7-CHLOROTRYPTOPHAN 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C11 H11 Cl N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               TRP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-08-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        238.670 
+_chem_comp.one_letter_code                       W 
+_chem_comp.three_letter_code                     CTE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2AR8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CTE O   O   O  0 1 N N N 2.787 5.682 14.012 4.648  -1.084 -0.060 O   CTE 1  
+CTE C   C   C  0 1 N N N 3.966 5.521 14.392 4.156  0.011  -0.193 C   CTE 2  
+CTE OXT OXT O  0 1 N Y N 4.266 4.612 15.175 4.923  1.108  -0.096 OXT CTE 3  
+CTE CA  CA  C  0 1 N N S 5.092 6.437 13.874 2.681  0.145  -0.476 CA  CTE 4  
+CTE N   N   N  0 1 N N N 5.158 6.370 12.386 2.167  -1.124 -1.007 N   CTE 5  
+CTE CB  CB  C  0 1 N N N 4.899 7.867 14.404 1.944  0.493  0.819  CB  CTE 6  
+CTE CG  CG  C  0 1 Y N N 5.038 7.959 15.957 0.490  0.747  0.516  CG  CTE 7  
+CTE CD1 CD1 C  0 1 Y N N 6.173 7.897 16.698 -0.082 1.941  0.289  CD1 CTE 8  
+CTE NE1 NE1 N  0 1 Y N N 5.882 8.023 18.023 -1.419 1.779  0.049  NE1 CTE 9  
+CTE CE2 CE2 C  0 1 Y N N 4.555 8.179 18.149 -1.749 0.444  0.117  CE2 CTE 10 
+CTE CD2 CD2 C  0 1 Y N N 3.982 8.125 16.858 -0.567 -0.261 0.406  CD2 CTE 11 
+CTE CE3 CE3 C  0 1 Y N N 2.595 8.258 16.697 -0.598 -1.652 0.530  CE3 CTE 12 
+CTE CZ3 CZ3 C  0 1 Y N N 1.779 8.441 17.824 -1.777 -2.322 0.365  CZ3 CTE 13 
+CTE CH2 CH2 C  0 1 Y N N 2.329 8.477 19.114 -2.946 -1.632 0.076  CH2 CTE 14 
+CTE CZ2 CZ2 C  0 1 Y N N 3.720 8.348 19.269 -2.941 -0.258 -0.042 CZ2 CTE 15 
+CTE CL  CL  CL 0 0 N N N 4.434 8.360 20.847 -4.410 0.591  -0.406 CL  CTE 16 
+CTE HXT HO  H  0 1 N Y N 3.487 4.117 15.400 5.864  0.972  0.082  HXT CTE 17 
+CTE HA  HA  H  0 1 N N N 6.064 6.089 14.254 2.522  0.937  -1.208 HA  CTE 18 
+CTE HN1 HN1 H  0 1 N Y N 5.890 6.966 12.057 2.303  -1.874 -0.346 HN1 CTE 19 
+CTE HN  HN  H  0 1 N N N 5.342 5.429 12.103 1.195  -1.041 -1.265 HN  CTE 20 
+CTE HB1 HB1 H  0 1 N N N 5.664 8.512 13.948 2.029  -0.338 1.520  HB1 CTE 21 
+CTE HB2 HB2 H  0 1 N N N 3.891 8.208 14.125 2.385  1.386  1.260  HB2 CTE 22 
+CTE HD1 HD1 H  0 1 N N N 7.166 7.766 16.295 0.437  2.888  0.296  HD1 CTE 23 
+CTE HE1 HE1 H  0 1 N N N 6.543 8.003 18.773 -2.042 2.498  -0.140 HE1 CTE 24 
+CTE HE3 HE3 H  0 1 N N N 2.157 8.220 15.710 0.308  -2.196 0.754  HE3 CTE 25 
+CTE HZ3 HZ3 H  0 1 N N N 0.713 8.556 17.696 -1.800 -3.398 0.461  HZ3 CTE 26 
+CTE HH2 HH2 H  0 1 N N N 1.692 8.602 19.977 -3.871 -2.175 -0.052 HH2 CTE 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CTE O   C   DOUB N N 1  
+CTE OXT HXT SING N N 2  
+CTE C   OXT SING N N 3  
+CTE C   CA  SING N N 4  
+CTE CA  N   SING N N 5  
+CTE CA  CB  SING N N 6  
+CTE CA  HA  SING N N 7  
+CTE N   HN1 SING N N 8  
+CTE N   HN  SING N N 9  
+CTE CB  CG  SING N N 10 
+CTE CB  HB1 SING N N 11 
+CTE CB  HB2 SING N N 12 
+CTE CG  CD1 DOUB Y N 13 
+CTE CG  CD2 SING Y N 14 
+CTE CD1 NE1 SING Y N 15 
+CTE CD1 HD1 SING N N 16 
+CTE NE1 CE2 SING Y N 17 
+CTE NE1 HE1 SING N N 18 
+CTE CE2 CD2 DOUB Y N 19 
+CTE CE2 CZ2 SING Y N 20 
+CTE CD2 CE3 SING Y N 21 
+CTE CE3 CZ3 DOUB Y N 22 
+CTE CE3 HE3 SING N N 23 
+CTE CZ3 CH2 SING Y N 24 
+CTE CZ3 HZ3 SING N N 25 
+CTE CH2 CZ2 DOUB Y N 26 
+CTE CH2 HH2 SING N N 27 
+CTE CZ2 CL  SING N N 28 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CTE SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc2c1cccc(Cl)c1nc2"                                                                              
+CTE SMILES_CANONICAL CACTVS               3.352 "N[C@@H](Cc1c[nH]c2c(Cl)cccc12)C(O)=O"                                                                      
+CTE SMILES           CACTVS               3.352 "N[CH](Cc1c[nH]c2c(Cl)cccc12)C(O)=O"                                                                        
+CTE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc2c(c[nH]c2c(c1)Cl)C[C@@H](C(=O)O)N"                                                                    
+CTE SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc2c(c[nH]c2c(c1)Cl)CC(C(=O)O)N"                                                                         
+CTE InChI            InChI                1.03  "InChI=1S/C11H11ClN2O2/c12-8-3-1-2-7-6(5-14-10(7)8)4-9(13)11(15)16/h1-3,5,9,14H,4,13H2,(H,15,16)/t9-/m0/s1" 
+CTE InChIKey         InChI                1.03  DMQFGLHRDFQKNR-VIFPVBQESA-N                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CTE "SYSTEMATIC NAME" ACDLabs              10.04 7-chloro-L-tryptophan                                    
+CTE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-2-azanyl-3-(7-chloro-1H-indol-3-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CTE "Create component"  2005-08-31 RCSB 
+CTE "Modify descriptor" 2011-06-04 RCSB 
+# 

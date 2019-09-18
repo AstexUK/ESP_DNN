@@ -1,0 +1,121 @@
+data_BHD
+# 
+_chem_comp.id                                    BHD 
+_chem_comp.name                                  "(3S)-3-hydroxy-L-aspartic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N O5" 
+_chem_comp.mon_nstd_parent_comp_id               ASP 
+_chem_comp.pdbx_synonyms                         "BETA-HYDROXYASPARTIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2012-06-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         DOH 
+_chem_comp.formula_weight                        149.102 
+_chem_comp.one_letter_code                       D 
+_chem_comp.three_letter_code                     BHD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1ERM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BHD N   N   N 0 1 N N N 42.035 33.571 18.071 -0.191 -0.405 1.653  N   BHD 1  
+BHD CA  CA  C 0 1 N N S 42.411 33.644 19.468 -0.477 0.436  0.482  CA  BHD 2  
+BHD CB  CB  C 0 1 N N S 41.386 32.650 20.140 0.479  0.068  -0.655 CB  BHD 3  
+BHD OB  OB  O 0 1 N N N 40.268 32.992 20.028 0.221  -1.272 -1.079 OB  BHD 4  
+BHD CG  CG  C 0 1 N N N 41.605 32.563 21.613 1.902  0.176  -0.170 CG  BHD 5  
+BHD OD1 OD1 O 0 1 N N N 41.166 31.573 22.101 2.593  -0.812 -0.101 OD1 BHD 6  
+BHD OD2 OD2 O 0 1 N N N 42.484 33.376 22.186 2.401  1.370  0.185  OD2 BHD 7  
+BHD C   C   C 0 1 N N N 43.945 33.495 19.701 -1.898 0.210  0.036  C   BHD 8  
+BHD O   O   O 0 1 N N N 44.560 32.581 19.181 -2.484 -0.793 0.370  O   BHD 9  
+BHD OXT OXT O 0 1 N Y N 44.558 34.395 20.484 -2.514 1.123  -0.732 OXT BHD 10 
+BHD H   HN1 H 0 1 N N N 42.627 34.172 17.534 -0.765 -0.137 2.438  H   BHD 11 
+BHD H2  HN2 H 0 1 N Y N 42.134 32.630 17.748 -0.310 -1.382 1.434  H2  BHD 12 
+BHD HA  HA  H 0 1 N N N 42.142 34.647 19.830 -0.340 1.485  0.746  HA  BHD 13 
+BHD HB  HB  H 0 1 N N N 41.576 31.655 19.710 0.327  0.750  -1.492 HB  BHD 14 
+BHD HOB HOB H 0 1 N N N 39.766 32.686 20.774 0.336  -1.934 -0.384 HOB BHD 15 
+BHD HD2 HOD H 0 1 N N N 42.708 33.044 23.047 3.319  1.390  0.489  HD2 BHD 16 
+BHD HXT HXT H 0 1 N Y N 45.483 34.188 20.541 -3.426 0.934  -0.992 HXT BHD 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BHD N   CA  SING N N 1  
+BHD N   H   SING N N 2  
+BHD N   H2  SING N N 3  
+BHD CA  CB  SING N N 4  
+BHD CA  C   SING N N 5  
+BHD CA  HA  SING N N 6  
+BHD CB  OB  SING N N 7  
+BHD CB  CG  SING N N 8  
+BHD CB  HB  SING N N 9  
+BHD OB  HOB SING N N 10 
+BHD CG  OD1 DOUB N N 11 
+BHD CG  OD2 SING N N 12 
+BHD OD2 HD2 SING N N 13 
+BHD C   O   DOUB N N 14 
+BHD C   OXT SING N N 15 
+BHD OXT HXT SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BHD SMILES           ACDLabs              12.01 "O=C(O)C(O)C(C(=O)O)N"                                                            
+BHD InChI            InChI                1.03  "InChI=1S/C4H7NO5/c5-1(3(7)8)2(6)4(9)10/h1-2,6H,5H2,(H,7,8)(H,9,10)/t1-,2-/m0/s1" 
+BHD InChIKey         InChI                1.03  YYLQUHNPNCGKJQ-LWMBPPNESA-N                                                       
+BHD SMILES_CANONICAL CACTVS               3.370 "N[C@@H]([C@H](O)C(O)=O)C(O)=O"                                                   
+BHD SMILES           CACTVS               3.370 "N[CH]([CH](O)C(O)=O)C(O)=O"                                                      
+BHD SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[C@H]([C@@H](C(=O)O)O)(C(=O)O)N"                                                 
+BHD SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(C(=O)O)O)(C(=O)O)N"                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BHD "SYSTEMATIC NAME" ACDLabs              12.01 "(3S)-3-hydroxy-L-aspartic acid"               
+BHD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S,3S)-2-azanyl-3-oxidanyl-butanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BHD "Create component"  1999-07-08 RCSB 
+BHD "Modify descriptor" 2011-06-04 RCSB 
+BHD "Modify name"       2012-06-11 RCSB 
+# 

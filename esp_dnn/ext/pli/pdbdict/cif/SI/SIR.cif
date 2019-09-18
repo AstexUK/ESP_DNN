@@ -1,0 +1,310 @@
+data_SIR
+# 
+_chem_comp.id                                    SIR 
+_chem_comp.name                                  "COBALT SIROHYDROCHLORIN" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C42 H44 Co N4 O16" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     2010-11-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        919.749 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SIR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XWP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SIR CHA  CHA  C  0 1 N N N 4.662  -40.605 -9.115  0.123  -2.842 -2.124 CHA  SIR 1   
+SIR CHB  CHB  C  0 1 N N N 5.347  -41.940 -5.010  -3.066 -0.677 0.143  CHB  SIR 2   
+SIR CHC  CHC  C  0 1 N N N 3.372  -38.548 -3.136  -0.115 2.546  1.260  CHC  SIR 3   
+SIR CHD  CHD  C  0 1 N N N 0.548  -39.001 -7.033  3.147  0.321  -0.884 CHD  SIR 4   
+SIR NA   NA   N  0 1 N N R 4.829  -41.283 -6.830  -1.224 -0.981 -1.381 NA   SIR 5   
+SIR C1A  C1A  C  0 1 N N N 5.254  -41.282 -8.088  -0.971 -2.054 -2.216 C1A  SIR 6   
+SIR C2A  C2A  C  0 1 N N S 6.534  -42.150 -8.161  -2.190 -2.178 -3.096 C2A  SIR 7   
+SIR CMA  CMA  C  0 1 N N N 6.611  -42.822 -9.527  -1.936 -1.532 -4.460 CMA  SIR 8   
+SIR CDA  CDA  C  0 1 N N N 7.797  -41.329 -7.852  -2.584 -3.647 -3.265 CDA  SIR 9   
+SIR CEA  CEA  C  0 1 N N N 7.906  -40.060 -8.693  -2.764 -4.278 -1.908 CEA  SIR 10  
+SIR O4A  O4A  O  0 1 N N N 8.611  -40.111 -9.736  -3.013 -5.593 -1.807 O4A  SIR 11  
+SIR O3A  O3A  O  0 1 N N N 7.311  -38.991 -8.353  -2.685 -3.599 -0.911 O3A  SIR 12  
+SIR CAA  CAA  C  0 1 N N N 5.571  -44.383 -7.418  -3.780 -0.203 -3.136 CAA  SIR 13  
+SIR CBA  CBA  C  0 1 N N N 5.180  -45.240 -6.192  -4.944 0.469  -2.406 CBA  SIR 14  
+SIR CCA  CCA  C  0 1 N N N 4.250  -46.420 -6.508  -5.427 1.648  -3.209 CCA  SIR 15  
+SIR O1A  O1A  O  0 1 N N N 3.947  -47.176 -5.566  -4.895 1.924  -4.258 O1A  SIR 16  
+SIR O2A  O2A  O  0 1 N N N 3.839  -46.617 -7.678  -6.449 2.394  -2.759 O2A  SIR 17  
+SIR C4A  C4A  C  0 1 N N N 5.511  -42.261 -6.168  -2.579 -0.939 -1.073 C4A  SIR 18  
+SIR NB   NB   N  0 1 N N S 4.302  -40.381 -4.291  -0.938 0.239  1.015  NB   SIR 19  
+SIR C2B  C2B  C  0 1 N N S 5.478  -41.438 -2.457  -2.515 0.068  2.721  C2B  SIR 20  
+SIR CMB  CMB  C  0 1 N N N 4.450  -42.257 -1.651  -3.973 0.482  2.933  CMB  SIR 21  
+SIR CDB  CDB  C  0 1 N N N 6.945  -41.861 -2.210  -2.128 -1.075 3.661  CDB  SIR 22  
+SIR CEB  CEB  C  0 1 N N N 7.935  -40.735 -2.532  -2.916 -2.309 3.303  CEB  SIR 23  
+SIR O3B  O3B  O  0 1 N N N 7.948  -39.703 -1.814  -2.671 -3.468 3.933  O3B  SIR 24  
+SIR O4B  O4B  O  0 1 N N N 8.727  -40.835 -3.502  -3.768 -2.254 2.448  O4B  SIR 25  
+SIR CAB  CAB  C  0 1 N N N 4.854  -39.591 -0.784  -1.466 2.138  4.118  CAB  SIR 26  
+SIR CBB  CBB  C  0 1 N N N 5.506  -38.335 -0.210  -2.516 3.249  4.045  CBB  SIR 27  
+SIR CCB  CCB  C  0 1 N N N 4.959  -38.237 1.217   -2.416 4.116  5.273  CCB  SIR 28  
+SIR O1B  O1B  O  0 1 N N N 3.724  -37.989 1.391   -3.244 5.161  5.427  O1B  SIR 29  
+SIR O2B  O2B  O  0 1 N N N 5.760  -38.418 2.172   -1.590 3.871  6.120  O2B  SIR 30  
+SIR C4B  C4B  C  0 1 N N N 4.234  -39.554 -3.245  -0.842 1.424  1.768  C4B  SIR 31  
+SIR NC   NC   N  0 1 N N R 2.180  -38.978 -5.241  0.957  1.338  -0.553 NC   SIR 32  
+SIR C1C  C1C  C  0 1 N N N 2.222  -38.363 -4.052  0.680  2.507  0.133  C1C  SIR 33  
+SIR C2C  C2C  C  0 1 N N N 1.084  -37.591 -3.782  1.474  3.463  -0.527 C2C  SIR 34  
+SIR CDC  CDC  C  0 1 N N N 0.802  -36.751 -2.547  1.264  4.955  -0.524 CDC  SIR 35  
+SIR CEC  CEC  C  0 1 N N N 1.870  -35.663 -2.517  0.275  5.326  -1.599 CEC  SIR 36  
+SIR O3C  O3C  O  0 1 N N N 2.255  -35.034 -3.555  -0.068 6.610  -1.782 O3C  SIR 37  
+SIR O4C  O4C  O  0 1 N N N 2.361  -35.454 -1.379  -0.209 4.466  -2.296 O4C  SIR 38  
+SIR C3C  C3C  C  0 1 N N N 0.261  -37.712 -4.881  2.481  2.781  -1.179 C3C  SIR 39  
+SIR CAC  CAC  C  0 1 N N N -1.107 -37.088 -5.113  3.576  3.391  -2.016 CAC  SIR 40  
+SIR CBC  CBC  C  0 1 N N N -2.077 -38.237 -4.836  4.824  3.594  -1.153 CBC  SIR 41  
+SIR CCC  CCC  C  0 1 N N N -3.506 -37.764 -5.016  5.919  4.204  -1.990 CCC  SIR 42  
+SIR O1C  O1C  O  0 1 N N N -4.269 -37.935 -4.067  5.722  4.451  -3.156 O1C  SIR 43  
+SIR O2C  O2C  O  0 1 N N N -3.949 -37.361 -6.107  7.113  4.473  -1.439 O2C  SIR 44  
+SIR C4C  C4C  C  0 1 N N N 0.980  -38.574 -5.726  2.298  1.416  -0.920 C4C  SIR 45  
+SIR ND   ND   N  0 1 Y N N 2.718  -39.877 -7.739  1.380  -1.331 -0.641 ND   SIR 46  
+SIR C1D  C1D  C  0 1 Y N N 1.467  -39.383 -8.073  2.723  -0.999 -0.639 C1D  SIR 47  
+SIR C2D  C2D  C  0 1 Y N N 1.206  -39.271 -9.442  3.303  -2.224 -0.400 C2D  SIR 48  
+SIR CAD  CAD  C  0 1 N N N -0.077 -38.788 -10.146 4.680  -2.465 0.164  CAD  SIR 49  
+SIR CBD  CBD  C  0 1 N N N -1.077 -39.975 -10.022 4.599  -2.546 1.690  CBD  SIR 50  
+SIR CCD  CCD  C  0 1 N N N -2.396 -39.570 -10.642 5.975  -2.787 2.254  CCD  SIR 51  
+SIR O1D  O1D  O  0 1 N N N -2.545 -39.867 -11.841 6.924  -2.885 1.512  O1D  SIR 52  
+SIR O2D  O2D  O  0 1 N N N -3.237 -38.955 -9.953  6.148  -2.894 3.581  O2D  SIR 53  
+SIR C3D  C3D  C  0 1 Y N N 2.403  -39.728 -10.030 2.370  -3.212 -0.780 C3D  SIR 54  
+SIR CDD  CDD  C  0 1 N N N 2.778  -39.758 -11.494 2.568  -4.704 -0.698 CDD  SIR 55  
+SIR CED  CED  C  0 1 N N N 2.306  -40.837 -12.392 2.098  -5.200 0.645  CED  SIR 56  
+SIR CO   CO   CO 2 0 N N S 3.514  -40.122 -6.034  0.041  -0.175 -0.414 CO   SIR 57  
+SIR C3B  C3B  C  0 1 N N N 5.266  -39.926 -2.212  -1.566 1.271  2.889  C3B  SIR 58  
+SIR O4D  O4D  O  0 1 N N N 1.293  -41.476 -12.101 2.179  -6.506 0.944  O4D  SIR 59  
+SIR C1B  C1B  C  0 1 N N S 5.080  -41.440 -3.912  -2.260 -0.295 1.296  C1B  SIR 60  
+SIR O3D  O3D  O  0 1 N N N 2.940  -41.005 -13.474 1.648  -4.422 1.453  O3D  SIR 61  
+SIR C3A  C3A  C  0 1 N N S 6.382  -43.144 -7.004  -3.289 -1.401 -2.320 C3A  SIR 62  
+SIR C4D  C4D  C  0 1 Y N N 3.261  -40.075 -8.974  1.250  -2.568 -1.237 C4D  SIR 63  
+SIR HHA  HHA  H  0 1 N N N 5.204  -40.449 -10.036 0.163  -3.729 -2.738 HHA  SIR 64  
+SIR HHB  HHB  H  0 1 N N N 5.847  -42.805 -4.601  -4.134 -0.753 0.282  HHB  SIR 65  
+SIR H1B  H1B  H  0 1 N N N 5.307  -42.386 -3.399  -2.653 0.714  1.421  H1B  SIR 66  
+SIR HHC  HHC  H  0 1 N N N 3.517  -37.831 -2.342  -0.192 3.483  1.792  HHC  SIR 67  
+SIR HHD  HHD  H  0 1 N N N -0.511 -39.036 -7.241  4.200  0.491  -1.054 HHD  SIR 68  
+SIR HMA1 HMA1 H  0 0 N N N 6.630  -42.053 -10.314 -1.113 -2.045 -4.957 HMA1 SIR 69  
+SIR HMA2 HMA2 H  0 0 N N N 7.527  -43.429 -9.586  -2.835 -1.609 -5.071 HMA2 SIR 70  
+SIR HMA3 HMA3 H  0 0 N N N 5.732  -43.469 -9.667  -1.679 -0.481 -4.322 HMA3 SIR 71  
+SIR HDA1 HDA1 H  0 0 N N N 7.769  -41.039 -6.791  -3.518 -3.711 -3.823 HDA1 SIR 72  
+SIR HDA2 HDA2 H  0 0 N N N 8.667  -41.959 -8.090  -1.799 -4.173 -3.809 HDA2 SIR 73  
+SIR H3A  H3A  H  0 1 N N N 7.313  -43.543 -6.575  -4.121 -2.060 -2.070 H3A  SIR 74  
+SIR H4A  H4A  H  0 1 N N N 8.601  -39.264 -10.167 -3.122 -5.952 -0.916 H4A  SIR 75  
+SIR HAA1 HAA1 H  0 0 N N N 6.181  -44.995 -8.098  -4.113 -0.544 -4.116 HAA1 SIR 76  
+SIR HAA2 HAA2 H  0 0 N N N 4.648  -44.044 -7.912  -2.966 0.512  -3.257 HAA2 SIR 77  
+SIR HBA1 HBA1 H  0 0 N N N 6.105  -45.648 -5.758  -5.758 -0.246 -2.284 HBA1 SIR 78  
+SIR HBA2 HBA2 H  0 0 N N N 4.628  -44.578 -5.508  -4.610 0.809  -1.425 HBA2 SIR 79  
+SIR H2A  H2A  H  0 1 N N N 3.295  -47.396 -7.696  -6.724 3.140  -3.309 H2A  SIR 80  
+SIR HMB1 HMB1 H  0 0 N N N 4.845  -42.452 -0.643  -4.113 0.802  3.965  HMB1 SIR 81  
+SIR HMB2 HMB2 H  0 0 N N N 3.510  -41.691 -1.573  -4.218 1.305  2.261  HMB2 SIR 82  
+SIR HMB3 HMB3 H  0 0 N N N 4.261  -43.213 -2.162  -4.625 -0.366 2.723  HMB3 SIR 83  
+SIR HDB1 HDB1 H  0 0 N N N 7.057  -42.134 -1.150  -1.062 -1.283 3.561  HDB1 SIR 84  
+SIR HDB2 HDB2 H  0 0 N N N 7.169  -42.710 -2.873  -2.347 -0.790 4.690  HDB2 SIR 85  
+SIR HA   HA   H  0 1 N N N 8.608  -39.101 -2.136  -3.202 -4.232 3.669  HA   SIR 86  
+SIR HAB1 HAB1 H  0 0 N N N 5.139  -40.439 -0.145  -0.472 2.581  4.170  HAB1 SIR 87  
+SIR HAB2 HAB2 H  0 0 N N N 3.771  -39.400 -0.807  -1.640 1.531  5.006  HAB2 SIR 88  
+SIR HBB1 HBB1 H  0 0 N N N 6.603  -38.421 -0.210  -2.342 3.856  3.157  HBB1 SIR 89  
+SIR HBB2 HBB2 H  0 0 N N N 5.278  -37.439 -0.805  -3.510 2.806  3.993  HBB2 SIR 90  
+SIR HB   HB   H  0 1 N N N 3.533  -37.968 2.321   -3.142 5.688  6.231  HB   SIR 91  
+SIR HDC1 HDC1 H  0 0 N N N -0.202 -36.305 -2.604  0.878  5.265  0.447  HDC1 SIR 92  
+SIR HDC2 HDC2 H  0 0 N N N 0.831  -37.363 -1.634  2.213  5.456  -0.715 HDC2 SIR 93  
+SIR H3C  H3C  H  0 1 N N N 2.939  -34.419 -3.317  -0.706 6.799  -2.484 H3C  SIR 94  
+SIR HAC1 HAC1 H  0 0 N N N -1.283 -36.240 -4.435  3.813  2.726  -2.846 HAC1 SIR 95  
+SIR HAC2 HAC2 H  0 0 N N N -1.219 -36.672 -6.125  3.243  4.353  -2.404 HAC2 SIR 96  
+SIR HBC1 HBC1 H  0 0 N N N -1.875 -39.060 -5.537  4.587  4.259  -0.323 HBC1 SIR 97  
+SIR HBC2 HBC2 H  0 0 N N N -1.939 -38.585 -3.802  5.157  2.632  -0.764 HBC2 SIR 98  
+SIR H2C  H2C  H  0 1 N N N -4.888 -37.234 -6.041  7.784  4.864  -2.015 H2C  SIR 99  
+SIR HAD1 HAD1 H  0 0 N N N -0.476 -37.885 -9.661  5.074  -3.402 -0.229 HAD1 SIR 100 
+SIR HAD2 HAD2 H  0 0 N N N 0.108  -38.515 -11.195 5.339  -1.645 -0.122 HAD2 SIR 101 
+SIR HBD1 HBD1 H  0 0 N N N -0.675 -40.854 -10.547 4.204  -1.609 2.083  HBD1 SIR 102 
+SIR HBD2 HBD2 H  0 0 N N N -1.226 -40.228 -8.962  3.940  -3.366 1.976  HBD2 SIR 103 
+SIR H2D  H2D  H  0 1 N N N -3.997 -38.754 -10.486 7.049  -3.048 3.895  H2D  SIR 104 
+SIR HDD1 HDD1 H  0 0 N N N 2.384  -38.824 -11.920 1.994  -5.191 -1.487 HDD1 SIR 105 
+SIR HDD2 HDD2 H  0 0 N N N 3.865  -39.923 -11.464 3.625  -4.937 -0.822 HDD2 SIR 106 
+SIR H4D  H4D  H  0 1 N N N 1.089  -42.084 -12.802 1.865  -6.777 1.818  H4D  SIR 107 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SIR CHA C1A  DOUB N N 1   
+SIR CHA C4D  SING N N 2   
+SIR CHB C4A  DOUB N N 3   
+SIR CHB C1B  SING N N 4   
+SIR CHC C4B  SING N N 5   
+SIR CHC C1C  DOUB N N 6   
+SIR CHD C4C  DOUB N N 7   
+SIR CHD C1D  SING N N 8   
+SIR NA  C1A  SING N N 9   
+SIR NA  C4A  SING N N 10  
+SIR NA  CO   SING N N 11  
+SIR C1A C2A  SING N N 12  
+SIR C2A CMA  SING N N 13  
+SIR C2A CDA  SING N N 14  
+SIR C2A C3A  SING N N 15  
+SIR CDA CEA  SING N N 16  
+SIR CEA O3A  DOUB N N 17  
+SIR CEA O4A  SING N N 18  
+SIR CAA CBA  SING N N 19  
+SIR CAA C3A  SING N N 20  
+SIR CBA CCA  SING N N 21  
+SIR CCA O1A  DOUB N N 22  
+SIR CCA O2A  SING N N 23  
+SIR C4A C3A  SING N N 24  
+SIR NB  C4B  SING N N 25  
+SIR NB  CO   SING N N 26  
+SIR NB  C1B  SING N N 27  
+SIR C2B CMB  SING N N 28  
+SIR C2B CDB  SING N N 29  
+SIR C2B C3B  SING N N 30  
+SIR C2B C1B  SING N N 31  
+SIR CDB CEB  SING N N 32  
+SIR CEB O3B  SING N N 33  
+SIR CEB O4B  DOUB N N 34  
+SIR CAB CBB  SING N N 35  
+SIR CAB C3B  SING N N 36  
+SIR CBB CCB  SING N N 37  
+SIR CCB O1B  SING N N 38  
+SIR CCB O2B  DOUB N N 39  
+SIR C4B C3B  DOUB N N 40  
+SIR NC  C1C  SING N N 41  
+SIR NC  C4C  SING N N 42  
+SIR NC  CO   SING N N 43  
+SIR C1C C2C  SING N N 44  
+SIR C2C CDC  SING N N 45  
+SIR C2C C3C  DOUB N N 46  
+SIR CDC CEC  SING N N 47  
+SIR CEC O3C  SING N N 48  
+SIR CEC O4C  DOUB N N 49  
+SIR C3C CAC  SING N N 50  
+SIR C3C C4C  SING N N 51  
+SIR CAC CBC  SING N N 52  
+SIR CBC CCC  SING N N 53  
+SIR CCC O1C  DOUB N N 54  
+SIR CCC O2C  SING N N 55  
+SIR ND  C1D  SING Y N 56  
+SIR ND  C4D  SING Y N 57  
+SIR ND  CO   SING N N 58  
+SIR C1D C2D  DOUB Y N 59  
+SIR C2D CAD  SING N N 60  
+SIR C2D C3D  SING Y N 61  
+SIR CAD CBD  SING N N 62  
+SIR CBD CCD  SING N N 63  
+SIR CCD O1D  DOUB N N 64  
+SIR CCD O2D  SING N N 65  
+SIR C3D CDD  SING N N 66  
+SIR C3D C4D  DOUB Y N 67  
+SIR CDD CED  SING N N 68  
+SIR CED O3D  DOUB N N 69  
+SIR CED O4D  SING N N 70  
+SIR CHA HHA  SING N N 71  
+SIR CHB HHB  SING N N 72  
+SIR CHC HHC  SING N N 73  
+SIR CHD HHD  SING N N 74  
+SIR CMA HMA1 SING N N 75  
+SIR CMA HMA2 SING N N 76  
+SIR CMA HMA3 SING N N 77  
+SIR CDA HDA1 SING N N 78  
+SIR CDA HDA2 SING N N 79  
+SIR C3A H3A  SING N N 80  
+SIR O4A H4A  SING N N 81  
+SIR CAA HAA1 SING N N 82  
+SIR CAA HAA2 SING N N 83  
+SIR CBA HBA1 SING N N 84  
+SIR CBA HBA2 SING N N 85  
+SIR O2A H2A  SING N N 86  
+SIR C1B H1B  SING N N 87  
+SIR CMB HMB1 SING N N 88  
+SIR CMB HMB2 SING N N 89  
+SIR CMB HMB3 SING N N 90  
+SIR CDB HDB1 SING N N 91  
+SIR CDB HDB2 SING N N 92  
+SIR O3B HA   SING N N 93  
+SIR CAB HAB1 SING N N 94  
+SIR CAB HAB2 SING N N 95  
+SIR CBB HBB1 SING N N 96  
+SIR CBB HBB2 SING N N 97  
+SIR O1B HB   SING N N 98  
+SIR CDC HDC1 SING N N 99  
+SIR CDC HDC2 SING N N 100 
+SIR O3C H3C  SING N N 101 
+SIR CAC HAC1 SING N N 102 
+SIR CAC HAC2 SING N N 103 
+SIR CBC HBC1 SING N N 104 
+SIR CBC HBC2 SING N N 105 
+SIR O2C H2C  SING N N 106 
+SIR CAD HAD1 SING N N 107 
+SIR CAD HAD2 SING N N 108 
+SIR CBD HBD1 SING N N 109 
+SIR CBD HBD2 SING N N 110 
+SIR O2D H2D  SING N N 111 
+SIR CDD HDD1 SING N N 112 
+SIR CDD HDD2 SING N N 113 
+SIR O4D H4D  SING N N 114 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SIR SMILES           ACDLabs              10.04 "O=C(O)CC5(C(=C3C=C1C(=C(c8n1[Co+2]47n2c(c(c(c2cc6n7C(=CC5N34)C(CCC(=O)O)C6(CC(=O)O)C)CC(=O)O)CCC(=O)O)c8)CCC(=O)O)CC(=O)O)CCC(=O)O)C" 
+SIR SMILES_CANONICAL CACTVS               3.352 "C[C@@]1(CC(O)=O)[C@@H]2C=C3[C@@H](CCC(O)=O)[C@](C)(CC(O)=O)C4=Cc5n6c(C=C7[N@]8C(=CC(=C1CCC(O)=O)[N@@]2[Co@++]68[N@]34)C(=C7CCC(O)=O)CC(O)=O)c(CCC(O)=O)c5CC(O)=O" 
+SIR SMILES           CACTVS               3.352 "C[C]1(CC(O)=O)[CH]2C=C3[CH](CCC(O)=O)[C](C)(CC(O)=O)C4=Cc5n6c(C=C7[N]8C(=CC(=C1CCC(O)=O)[N]2[Co++]68[N]34)C(=C7CCC(O)=O)CC(O)=O)c(CCC(O)=O)c5CC(O)=O" 
+SIR SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C[C@]1(C2C=C3[C@H]([C@](C4=Cc5c(c(c6n5[Co+2]7(N43)N2C(=C1CCC(=O)O)C=C8N7C(=C6)C(=C8CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O" 
+SIR SMILES           "OpenEye OEToolkits" 1.6.1 "CC1(C2C=C3C(C(C4=Cc5c(c(c6n5[Co+2]7(N43)N2C(=C1CCC(=O)O)C=C8N7C(=C6)C(=C8CC(=O)O)CCC(=O)O)CCC(=O)O)CC(=O)O)(C)CC(=O)O)CCC(=O)O)CC(=O)O" 
+SIR InChI            InChI                1.03  
+;InChI=1S/C42H44N4O16.Co/c1-41(17-39(59)60)23(5-9-35(51)52)29-14-27-21(11-37(55)56)19(3-7-33(47)48)25(43-27)13-26-20(4-8-34(49)50)22(12-38(57)58)28(44-26)15-31-42(2,18-40(61)62)24(6-10-36(53)54)30(46-31)16-32(41)45-29;/h13-16,24,32H,3-12,17-18H2,1-2H3,(H,47,48)(H,49,50)(H,51,52)(H,53,54)(H,55,56)(H,57,58)(H,59,60)(H,61,62);/q-4;+6/b25-13-,27-14-,30-16-,31-15-;/t24-,32+,41+,42+;/m1./s1
+;
+SIR InChIKey         InChI                1.03  CSFBERUGHBPUDZ-RQIVIIFKSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SIR "SYSTEMATIC NAME" ACDLabs 10.04 "{3,3',3'',3'''-[(8S,9S,12S,13S)-3,8,13,17-tetrakis(carboxymethyl)-8,13-dimethyl-8,9,12,13,22,24-hexahydroporphyrin-2,7,12,18-tetrayl-kappa~4~N~21~,N~22~,N~23~,N~24~]tetrapropanoato(4-)}cobalt(2+)" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SIR "Create component"     2010-11-04 EBI  
+SIR "Modify aromatic_flag" 2011-06-04 RCSB 
+SIR "Modify descriptor"    2011-06-04 RCSB 
+# 

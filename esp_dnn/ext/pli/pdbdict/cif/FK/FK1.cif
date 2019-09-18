@@ -1,0 +1,120 @@
+data_FK1
+# 
+_chem_comp.id                                    FK1 
+_chem_comp.name                                  6-bromo-1H-indole 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 Br N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-07-02 
+_chem_comp.pdbx_modified_date                    2015-02-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        196.044 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FK1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4urx 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FK1 C  C  C  0 1 Y N N 45.231 40.224 74.486 -0.596 0.179  -0.000 C  FK1 1  
+FK1 N  N  N  0 1 Y N N 43.697 37.032 75.579 2.785  -1.411 -0.001 N  FK1 2  
+FK1 BR BR BR 0 0 N N N 44.893 42.086 74.270 -2.453 -0.178 -0.000 BR FK1 3  
+FK1 C1 C1 C  0 1 Y N N 46.490 39.723 74.166 -0.149 1.494  0.000  C1 FK1 4  
+FK1 C2 C2 C  0 1 Y N N 46.743 38.370 74.322 1.189  1.772  0.001  C2 FK1 5  
+FK1 C3 C3 C  0 1 Y N N 45.751 37.511 74.802 2.114  0.726  -0.000 C3 FK1 6  
+FK1 C4 C4 C  0 1 Y N N 45.673 36.106 75.091 3.578  0.662  0.000  C4 FK1 7  
+FK1 C5 C5 C  0 1 Y N N 44.421 35.865 75.552 3.914  -0.637 -0.001 C5 FK1 8  
+FK1 C6 C6 C  0 1 Y N N 44.489 38.056 75.110 1.667  -0.608 -0.001 C6 FK1 9  
+FK1 C7 C7 C  0 1 Y N N 44.209 39.408 74.951 0.301  -0.868 0.005  C7 FK1 10 
+FK1 HN HN H  0 1 N N N 42.750 37.123 75.888 2.774  -2.381 -0.002 HN FK1 11 
+FK1 H1 H1 H  0 1 N N N 47.262 40.383 73.800 -0.864 2.303  0.001  H1 FK1 12 
+FK1 H2 H2 H  0 1 N N N 47.716 37.975 74.070 1.530  2.797  0.001  H2 FK1 13 
+FK1 H4 H4 H  0 1 N N N 46.462 35.379 74.965 4.258  1.501  0.000  H4 FK1 14 
+FK1 H5 H5 H  0 1 N N N 44.048 34.898 75.854 4.925  -1.016 -0.000 H5 FK1 15 
+FK1 H7 H7 H  0 1 N N N 43.233 39.809 75.181 -0.057 -1.887 0.009  H7 FK1 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FK1 C  BR SING N N 1  
+FK1 C  C1 DOUB Y N 2  
+FK1 C  C7 SING Y N 3  
+FK1 N  C5 SING Y N 4  
+FK1 N  C6 SING Y N 5  
+FK1 C1 C2 SING Y N 6  
+FK1 C2 C3 DOUB Y N 7  
+FK1 C3 C4 SING Y N 8  
+FK1 C3 C6 SING Y N 9  
+FK1 C4 C5 DOUB Y N 10 
+FK1 C6 C7 DOUB Y N 11 
+FK1 N  HN SING N N 12 
+FK1 C1 H1 SING N N 13 
+FK1 C2 H2 SING N N 14 
+FK1 C4 H4 SING N N 15 
+FK1 C5 H5 SING N N 16 
+FK1 C7 H7 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FK1 SMILES           ACDLabs              12.01 "Brc1ccc2c(c1)ncc2"                                   
+FK1 InChI            InChI                1.03  "InChI=1S/C8H6BrN/c9-7-2-1-6-3-4-10-8(6)5-7/h1-5,10H" 
+FK1 InChIKey         InChI                1.03  MAWGHOPSCKCTPA-UHFFFAOYSA-N                           
+FK1 SMILES_CANONICAL CACTVS               3.385 "Brc1ccc2cc[nH]c2c1"                                  
+FK1 SMILES           CACTVS               3.385 "Brc1ccc2cc[nH]c2c1"                                  
+FK1 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(cc2c1cc[nH]2)Br"                                
+FK1 SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(cc2c1cc[nH]2)Br"                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FK1 "SYSTEMATIC NAME" ACDLabs              12.01 6-bromo-1H-indole    
+FK1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 6-bromanyl-1H-indole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FK1 "Create component" 2014-07-02 EBI  
+FK1 "Initial release"  2015-03-04 RCSB 
+# 

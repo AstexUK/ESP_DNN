@@ -1,0 +1,118 @@
+data_TH7
+# 
+_chem_comp.id                                    TH7 
+_chem_comp.name                                  "2,4-dihydroxybenzenesulfenic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         4-HYDROXYSULFANYLBENZENE-1,3-DIOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-12-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        158.175 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TH7 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TH7 C1  C1  C 0 1 Y N N -6.589 3.550  16.146 1.526  -1.019 0.062  C1  TH7 1  
+TH7 O1  O1  O 0 1 N N N -7.010 1.753  17.483 -0.570 -2.126 -0.128 O1  TH7 2  
+TH7 S1  S1  S 0 1 N N N -4.929 -0.077 16.531 -2.241 0.319  -0.437 S1  TH7 3  
+TH7 C2  C2  C 0 1 Y N N -6.303 2.251  16.549 0.151  -0.973 -0.099 C2  TH7 4  
+TH7 C3  C3  C 0 1 Y N N -5.283 1.515  15.970 -0.492 0.256  -0.231 C3  TH7 5  
+TH7 O3  O3  O 0 1 N N N -6.120 5.363  14.703 3.609  0.113  0.251  O3  TH7 6  
+TH7 C4  C4  C 0 1 Y N N -4.518 2.092  14.939 0.246  1.430  -0.200 C4  TH7 7  
+TH7 O4  O4  O 0 1 N N N -6.154 -0.276 17.322 -2.752 0.399  0.995  O4  TH7 8  
+TH7 C5  C5  C 0 1 Y N N -4.836 3.388  14.534 1.618  1.381  -0.040 C5  TH7 9  
+TH7 C6  C6  C 0 1 Y N N -5.841 4.096  15.130 2.259  0.158  0.092  C6  TH7 10 
+TH7 H1  H1  H 0 1 N N N -7.378 4.116  16.619 2.026  -1.970 0.169  H1  TH7 11 
+TH7 HO3 HO3 H 0 1 N N N -5.524 5.600  14.002 4.101  0.059  -0.580 HO3 TH7 12 
+TH7 H4  H4  H 0 1 N N N -3.709 1.547  14.475 -0.251 2.383  -0.302 H4  TH7 13 
+TH7 H5  H5  H 0 1 N N N -4.275 3.842  13.731 2.191  2.296  -0.017 H5  TH7 14 
+TH7 H51 H51 H 0 1 N N N -6.717 0.868  17.665 -0.880 -2.418 0.740  H51 TH7 15 
+TH7 H6  H6  H 0 1 N N N -6.136 -1.137 17.724 -3.715 0.442  1.067  H6  TH7 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TH7 C1 C2  SING Y N 1  
+TH7 C1 C6  DOUB Y N 2  
+TH7 C1 H1  SING N N 3  
+TH7 O1 C2  SING N N 4  
+TH7 S1 C3  SING N N 5  
+TH7 S1 O4  SING N N 6  
+TH7 C2 C3  DOUB Y N 7  
+TH7 C3 C4  SING Y N 8  
+TH7 O3 C6  SING N N 9  
+TH7 O3 HO3 SING N N 10 
+TH7 C4 C5  DOUB Y N 11 
+TH7 C4 H4  SING N N 12 
+TH7 C5 C6  SING Y N 13 
+TH7 C5 H5  SING N N 14 
+TH7 O1 H51 SING N N 15 
+TH7 O4 H6  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TH7 SMILES_CANONICAL CACTVS               3.352 "OSc1ccc(O)cc1O"                                     
+TH7 SMILES           CACTVS               3.352 "OSc1ccc(O)cc1O"                                     
+TH7 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc(c(cc1O)O)SO"                                   
+TH7 SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc(c(cc1O)O)SO"                                   
+TH7 InChI            InChI                1.03  "InChI=1S/C6H6O3S/c7-4-1-2-6(10-9)5(8)3-4/h1-3,7-9H" 
+TH7 InChIKey         InChI                1.03  LJXFZIAMAZBGDO-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TH7 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 4-hydroxysulfanylbenzene-1,3-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TH7 "Create component"     2009-12-22 RCSB 
+TH7 "Modify aromatic_flag" 2011-06-04 RCSB 
+TH7 "Modify descriptor"    2011-06-04 RCSB 
+# 

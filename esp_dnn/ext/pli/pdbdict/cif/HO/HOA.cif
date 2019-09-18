@@ -1,0 +1,96 @@
+data_HOA
+# 
+_chem_comp.id                                    HOA 
+_chem_comp.name                                  HYDROXYAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H3 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        33.030 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HOA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QJJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HOA N   N   N 0 1 N N N 19.649 24.779 24.163 0.740  0.031  -0.076 N   HOA 1 
+HOA O   O   O 0 1 N N N 18.787 25.734 23.615 -0.716 -0.067 0.030  O   HOA 2 
+HOA HN1 1HN H 0 1 N N N 19.290 24.473 25.045 1.037  0.701  0.617  HN1 HOA 3 
+HOA HN2 2HN H 0 1 N N N 20.555 25.183 24.294 1.112  -0.863 0.206  HN2 HOA 4 
+HOA HO  HO  H 0 1 N N N 17.927 25.351 23.491 -1.074 0.790  -0.240 HO  HOA 5 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HOA N O   SING N N 1 
+HOA N HN1 SING N N 2 
+HOA N HN2 SING N N 3 
+HOA O HO  SING N N 4 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HOA SMILES           ACDLabs              10.04 ON                          
+HOA SMILES_CANONICAL CACTVS               3.341 NO                          
+HOA SMILES           CACTVS               3.341 NO                          
+HOA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 NO                          
+HOA SMILES           "OpenEye OEToolkits" 1.5.0 NO                          
+HOA InChI            InChI                1.03  InChI=1S/H3NO/c1-2/h2H,1H2  
+HOA InChIKey         InChI                1.03  AVXURJPOCDRRFD-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HOA "SYSTEMATIC NAME" ACDLabs              10.04 hydroxylamine  
+HOA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "azinous acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HOA "Create component"  1999-07-08 EBI  
+HOA "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,104 @@
+data_TCN
+# 
+_chem_comp.id                                    TCN 
+_chem_comp.name                                  "TETRACYANONICKELATE ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "C4 N4 Ni" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -2 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.763 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TCN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PLF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TCN NI NI NI -2 0 N N N 27.796 35.634 18.291 0.000  0.000  0.000  NI TCN 1 
+TCN C1 C1 C  0  1 N N N 28.803 34.974 16.860 0.000  -1.783 -1.261 C1 TCN 2 
+TCN N1 N1 N  0  1 N N N 29.407 34.547 15.979 0.000  -2.711 -1.917 N1 TCN 3 
+TCN C2 C2 C  0  1 N N N 26.711 36.575 17.094 0.000  1.783  -1.261 C2 TCN 4 
+TCN N2 N2 N  0  1 N N N 26.057 37.171 16.360 0.000  2.711  -1.917 N2 TCN 5 
+TCN C3 C3 C  0  1 N N N 26.740 36.229 19.715 -1.783 0.000  1.261  C3 TCN 6 
+TCN N3 N3 N  0  1 N N N 26.101 36.614 20.591 -2.711 0.000  1.917  N3 TCN 7 
+TCN C4 C4 C  0  1 N N N 28.846 34.647 19.484 1.783  0.000  1.261  C4 TCN 8 
+TCN N4 N4 N  0  1 N N N 29.481 34.024 20.215 2.711  0.000  1.917  N4 TCN 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TCN NI C1 SING N N 1 
+TCN NI C2 SING N N 2 
+TCN NI C3 SING N N 3 
+TCN NI C4 SING N N 4 
+TCN C1 N1 TRIP N N 5 
+TCN C2 N2 TRIP N N 6 
+TCN C3 N3 TRIP N N 7 
+TCN C4 N4 TRIP N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TCN SMILES           ACDLabs              10.04 "N#C[Ni-2](C#N)(C#N)C#N"        
+TCN SMILES_CANONICAL CACTVS               3.341 "N#C[Ni--](C#N)(C#N)C#N"        
+TCN SMILES           CACTVS               3.341 "N#C[Ni--](C#N)(C#N)C#N"        
+TCN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(#N)[Ni-2](C#N)(C#N)C#N"      
+TCN SMILES           "OpenEye OEToolkits" 1.5.0 "C(#N)[Ni-2](C#N)(C#N)C#N"      
+TCN InChI            InChI                1.03  InChI=1S/4CN.Ni/c4*1-2;/q;;;;-2 
+TCN InChIKey         InChI                1.03  FUWOSUXMFKRUSS-UHFFFAOYSA-N     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TCN "SYSTEMATIC NAME" ACDLabs              10.04 "tetrakis(cyano-kappaC)nickelate(2-)" 
+TCN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 tetracyanonickel                      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TCN "Create component"  1999-07-08 RCSB 
+TCN "Modify descriptor" 2011-06-04 RCSB 
+# 

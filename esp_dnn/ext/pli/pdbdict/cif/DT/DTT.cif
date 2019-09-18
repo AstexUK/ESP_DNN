@@ -1,0 +1,122 @@
+data_DTT
+# 
+_chem_comp.id                                    DTT 
+_chem_comp.name                                  2,3-DIHYDROXY-1,4-DITHIOBUTANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 O2 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         1,4-DITHIOTHREITOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.251 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DTT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DK8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DTT S1  S1  S 0 1 N N N 3.613  21.875 25.371 -0.052 -0.255 -3.408 S1  DTT 1  
+DTT C1  C1  C 0 1 N N N 2.114  21.652 24.350 0.740  -0.255 -1.777 C1  DTT 2  
+DTT C2  C2  C 0 1 N N R 1.317  22.899 24.012 -0.334 -0.255 -0.688 C2  DTT 3  
+DTT O2  O2  O 0 1 N N N 0.570  23.184 25.182 -1.148 0.910  -0.822 O2  DTT 4  
+DTT C3  C3  C 0 1 N N R 0.313  22.713 22.814 0.334  -0.255 0.688  C3  DTT 5  
+DTT O3  O3  O 0 1 N N N -0.922 23.332 23.201 1.147  0.911  0.822  O3  DTT 6  
+DTT C4  C4  C 0 1 N N N 0.740  23.463 21.538 -0.740 -0.256 1.777  C4  DTT 7  
+DTT S4  S4  S 0 1 N N N 2.395  23.126 20.757 0.052  -0.255 3.408  S4  DTT 8  
+DTT HS1 HS1 H 0 1 N N N 4.111  21.094 25.582 1.036  -0.255 -4.197 HS1 DTT 9  
+DTT H11 1H1 H 0 1 N N N 2.381  21.115 23.409 1.360  0.635  -1.675 H11 DTT 10 
+DTT H12 2H1 H 0 1 N N N 1.444  20.902 24.832 1.361  -1.144 -1.675 H12 DTT 11 
+DTT H2  H2  H 0 1 N N N 2.017  23.707 23.697 -0.954 -1.146 -0.790 H2  DTT 12 
+DTT HO2 HO2 H 0 1 N N N 0.071  23.964 24.970 -0.562 1.673  -0.725 HO2 DTT 13 
+DTT H3  H3  H 0 1 N N N 0.255  21.620 22.600 0.955  -1.145 0.790  H3  DTT 14 
+DTT HO3 HO3 H 0 1 N N N -1.527 23.219 22.478 0.560  1.674  0.725  HO3 DTT 15 
+DTT H41 1H4 H 0 1 N N N -0.048 23.314 20.764 -1.361 0.633  1.675  H41 DTT 16 
+DTT H42 2H4 H 0 1 N N N 0.661  24.558 21.732 -1.360 -1.146 1.675  H42 DTT 17 
+DTT HS2 HS2 H 0 1 N N N 2.658  23.588 19.970 -1.036 -0.256 4.197  HS2 DTT 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DTT S1 C1  SING N N 1  
+DTT S1 HS1 SING N N 2  
+DTT C1 C2  SING N N 3  
+DTT C1 H11 SING N N 4  
+DTT C1 H12 SING N N 5  
+DTT C2 O2  SING N N 6  
+DTT C2 C3  SING N N 7  
+DTT C2 H2  SING N N 8  
+DTT O2 HO2 SING N N 9  
+DTT C3 O3  SING N N 10 
+DTT C3 C4  SING N N 11 
+DTT C3 H3  SING N N 12 
+DTT O3 HO3 SING N N 13 
+DTT C4 S4  SING N N 14 
+DTT C4 H41 SING N N 15 
+DTT C4 H42 SING N N 16 
+DTT S4 HS2 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DTT SMILES           ACDLabs              10.04 "SCC(O)C(O)CS"                                                 
+DTT SMILES_CANONICAL CACTVS               3.341 "O[C@@H](CS)[C@@H](O)CS"                                       
+DTT SMILES           CACTVS               3.341 "O[CH](CS)[CH](O)CS"                                           
+DTT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]([C@H](CS)O)O)S"                                      
+DTT SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(CS)O)O)S"                                               
+DTT InChI            InChI                1.03  "InChI=1S/C4H10O2S2/c5-3(1-7)4(6)2-8/h3-8H,1-2H2/t3-,4-/m0/s1" 
+DTT InChIKey         InChI                1.03  VHJLVAABSRFDPM-IMJSIDKUSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DTT "SYSTEMATIC NAME" ACDLabs              10.04 "(2R,3R)-1,4-disulfanylbutane-2,3-diol"   
+DTT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3R)-1,4-bis-sulfanylbutane-2,3-diol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DTT "Create component"  1999-07-08 EBI  
+DTT "Modify descriptor" 2011-06-04 RCSB 
+# 

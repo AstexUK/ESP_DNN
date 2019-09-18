@@ -1,0 +1,183 @@
+data_PMG
+# 
+_chem_comp.id                                    PMG 
+_chem_comp.name                                  "N-({3-HYDROXY-2-METHYL-5-[(PHOSPHONOOXY)METHYL]PYRIDIN-4-YL}METHYL)-2-METHYL-L-GLUTAMIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C14 H21 N2 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+;N-PYRIDOXYL-2-METHYL-L-GLUTAMIC ACID-5'-MONOPHOSPHATE
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-04-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        392.298 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PMG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1X29 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PMG N1   N1   N 0 1 Y N N 31.822 77.003 1.028  3.373  2.753  0.923  N1   PMG 1  
+PMG C2   C2   C 0 1 Y N N 32.059 75.569 0.953  2.343  3.532  0.657  C2   PMG 2  
+PMG C2A  C2A  C 0 1 N N N 31.592 74.897 2.242  2.422  5.004  0.968  C2A  PMG 3  
+PMG C3   C3   C 0 1 Y N N 32.685 75.071 -0.320 1.186  3.009  0.098  C3   PMG 4  
+PMG O3   O3   O 0 1 N N N 32.862 73.746 -0.290 0.127  3.816  -0.174 O3   PMG 5  
+PMG C4   C4   C 0 1 Y N N 33.045 75.967 -1.443 1.129  1.649  -0.189 C4   PMG 6  
+PMG C4A  C4A  C 0 1 N N N 33.687 75.452 -2.769 -0.106 1.040  -0.801 C4A  PMG 7  
+PMG C5   C5   C 0 1 Y N N 32.723 77.416 -1.174 2.234  0.867  0.107  C5   PMG 8  
+PMG C6   C6   C 0 1 Y N N 32.128 77.930 0.026  3.350  1.459  0.669  C6   PMG 9  
+PMG C5A  C5A  C 0 1 N N N 32.994 78.532 -2.167 2.219  -0.613 -0.179 C5A  PMG 10 
+PMG OP4  OP4  O 0 1 N N N 32.637 78.293 -3.467 3.467  -1.187 0.215  OP4  PMG 11 
+PMG P    P    P 0 1 N N N 32.812 79.290 -4.700 3.381  -2.760 -0.118 P    PMG 12 
+PMG OP1  OP1  O 0 1 N N N 31.534 79.597 -5.309 4.805  -3.449 0.180  OP1  PMG 13 
+PMG OP2  OP2  O 0 1 N N N 33.802 78.545 -5.537 2.251  -3.442 0.804  OP2  PMG 14 
+PMG OP3  OP3  O 0 1 N N N 33.439 80.597 -4.177 3.032  -2.944 -1.544 OP3  PMG 15 
+PMG N    N    N 0 1 N N N 34.493 74.099 -2.538 -1.016 0.602  0.266  N    PMG 16 
+PMG CA   CA   C 0 1 N N S 35.226 73.271 -3.511 -2.193 0.022  -0.396 CA   PMG 17 
+PMG CB2  CB2  C 0 1 N N N 34.197 72.346 -4.207 -1.759 -1.163 -1.261 CB2  PMG 18 
+PMG CB1  CB1  C 0 1 N N N 35.923 74.216 -4.560 -3.188 -0.457 0.663  CB1  PMG 19 
+PMG CG   CG   C 0 1 N N N 37.395 74.564 -4.446 -4.413 -1.062 -0.026 CG   PMG 20 
+PMG CD   CD   C 0 1 N N N 37.650 75.460 -3.277 -5.394 -1.534 1.017  CD   PMG 21 
+PMG OE1  OE1  O 0 1 N N N 37.260 76.648 -3.360 -6.550 -2.102 0.642  OE1  PMG 22 
+PMG OE2  OE2  O 0 1 N N N 38.238 74.955 -2.281 -5.138 -1.401 2.191  OE2  PMG 23 
+PMG C    C    C 0 1 N N N 36.214 72.350 -2.703 -2.847 1.066  -1.264 C    PMG 24 
+PMG O    O    O 0 1 N N N 37.074 71.695 -3.319 -2.857 2.351  -0.876 O    PMG 25 
+PMG OXT  OXT  O 0 1 N N N 36.074 72.319 -1.450 -3.362 0.746  -2.309 OXT  PMG 26 
+PMG H2A1 1H2A H 0 0 N N N 31.773 73.798 2.184  2.819  5.537  0.104  H2A1 PMG 27 
+PMG H2A2 2H2A H 0 0 N N N 32.061 75.352 3.145  1.426  5.380  1.201  H2A2 PMG 28 
+PMG H2A3 3H2A H 0 0 N N N 30.527 75.133 2.475  3.079  5.160  1.824  H2A3 PMG 29 
+PMG HO3  HO3  H 0 1 N N N 33.257 73.431 -1.094 -0.433 3.818  0.615  HO3  PMG 30 
+PMG H4A1 1H4A H 0 0 N N N 32.925 75.340 -3.575 -0.606 1.782  -1.424 H4A1 PMG 31 
+PMG H4A2 2H4A H 0 0 N N N 34.326 76.232 -3.243 0.176  0.183  -1.412 H4A2 PMG 32 
+PMG H6   H6   H 0 1 N N N 31.913 79.001 0.173  4.214  0.855  0.902  H6   PMG 33 
+PMG H5A1 1H5A H 0 0 N N N 32.513 79.473 -1.813 1.410  -1.083 0.381  H5A1 PMG 34 
+PMG H5A2 2H5A H 0 0 N N N 34.069 78.822 -2.120 2.065  -0.775 -1.246 H5A2 PMG 35 
+PMG HP2  HP2  H 0 1 N N N 33.906 79.138 -6.271 2.516  -3.299 1.723  HP2  PMG 36 
+PMG HP3  HP3  H 0 1 N N N 33.543 81.190 -4.911 ?      ?      ?      HP3  PMG 37 
+PMG HN   HN   H 0 1 N N N 33.831 73.465 -2.089 -0.554 -0.153 0.750  HN   PMG 38 
+PMG HB21 1HB2 H 0 0 N N N 34.751 71.719 -4.943 -1.286 -1.917 -0.633 HB21 PMG 39 
+PMG HB22 2HB2 H 0 0 N N N 33.599 71.741 -3.485 -2.632 -1.593 -1.752 HB22 PMG 40 
+PMG HB23 3HB2 H 0 0 N N N 33.349 72.906 -4.665 -1.050 -0.821 -2.015 HB23 PMG 41 
+PMG HB11 1HB1 H 0 0 N N N 35.745 73.793 -5.576 -2.715 -1.212 1.291  HB11 PMG 42 
+PMG HB12 2HB1 H 0 0 N N N 35.345 75.168 -4.603 -3.497 0.387  1.280  HB12 PMG 43 
+PMG HG1  1HG  H 0 1 N N N 38.030 73.648 -4.407 -4.887 -0.307 -0.653 HG1  PMG 44 
+PMG HG2  2HG  H 0 1 N N N 37.786 75.004 -5.392 -4.104 -1.906 -0.642 HG2  PMG 45 
+PMG HE1  HE1  H 0 1 N N N 37.422 77.217 -2.617 -7.179 -2.406 1.311  HE1  PMG 46 
+PMG HXT  HXT  H 0 1 N N N 36.670 71.763 -0.962 ?      ?      ?      HXT  PMG 47 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PMG N1  C2   SING Y N 1  
+PMG N1  C6   DOUB Y N 2  
+PMG C2  C2A  SING N N 3  
+PMG C2  C3   DOUB Y N 4  
+PMG C2A H2A1 SING N N 5  
+PMG C2A H2A2 SING N N 6  
+PMG C2A H2A3 SING N N 7  
+PMG C3  O3   SING N N 8  
+PMG C3  C4   SING Y N 9  
+PMG O3  HO3  SING N N 10 
+PMG C4  C4A  SING N N 11 
+PMG C4  C5   DOUB Y N 12 
+PMG C4A N    SING N N 13 
+PMG C4A H4A1 SING N N 14 
+PMG C4A H4A2 SING N N 15 
+PMG C5  C6   SING Y N 16 
+PMG C5  C5A  SING N N 17 
+PMG C6  H6   SING N N 18 
+PMG C5A OP4  SING N N 19 
+PMG C5A H5A1 SING N N 20 
+PMG C5A H5A2 SING N N 21 
+PMG OP4 P    SING N N 22 
+PMG P   OP1  DOUB N N 23 
+PMG P   OP2  SING N N 24 
+PMG P   OP3  SING N N 25 
+PMG OP2 HP2  SING N N 26 
+PMG OP3 HP3  SING N N 27 
+PMG N   CA   SING N N 28 
+PMG N   HN   SING N N 29 
+PMG CA  CB2  SING N N 30 
+PMG CA  CB1  SING N N 31 
+PMG CA  C    SING N N 32 
+PMG CB2 HB21 SING N N 33 
+PMG CB2 HB22 SING N N 34 
+PMG CB2 HB23 SING N N 35 
+PMG CB1 CG   SING N N 36 
+PMG CB1 HB11 SING N N 37 
+PMG CB1 HB12 SING N N 38 
+PMG CG  CD   SING N N 39 
+PMG CG  HG1  SING N N 40 
+PMG CG  HG2  SING N N 41 
+PMG CD  OE1  SING N N 42 
+PMG CD  OE2  DOUB N N 43 
+PMG OE1 HE1  SING N N 44 
+PMG C   O    DOUB N N 45 
+PMG C   OXT  SING N N 46 
+PMG OXT HXT  SING N N 47 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PMG SMILES           ACDLabs              10.04 "O=C(O)C(NCc1c(cnc(c1O)C)COP(=O)(O)O)(C)CCC(=O)O"                                                                                                                   
+PMG SMILES_CANONICAL CACTVS               3.341 "Cc1ncc(CO[P](O)(O)=O)c(CN[C@@](C)(CCC(O)=O)C(O)=O)c1O"                                                                                                             
+PMG SMILES           CACTVS               3.341 "Cc1ncc(CO[P](O)(O)=O)c(CN[C](C)(CCC(O)=O)C(O)=O)c1O"                                                                                                               
+PMG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(c(c(cn1)COP(=O)(O)O)CN[C@@](C)(CCC(=O)O)C(=O)O)O"                                                                                                             
+PMG SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(c(c(cn1)COP(=O)(O)O)CNC(C)(CCC(=O)O)C(=O)O)O"                                                                                                                 
+PMG InChI            InChI                1.03  "InChI=1S/C14H21N2O9P/c1-8-12(19)10(9(5-15-8)7-25-26(22,23)24)6-16-14(2,13(20)21)4-3-11(17)18/h5,16,19H,3-4,6-7H2,1-2H3,(H,17,18)(H,20,21)(H2,22,23,24)/t14-/m0/s1" 
+PMG InChIKey         InChI                1.03  CNIVMJHNGQZEAY-AWEZNQCLSA-N                                                                                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PMG "SYSTEMATIC NAME" ACDLabs              10.04 "N-({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)-2-methyl-L-glutamic acid"           
+PMG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[[3-hydroxy-2-methyl-5-(phosphonooxymethyl)pyridin-4-yl]methylamino]-2-methyl-pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PMG "Create component"  2005-04-25 RCSB 
+PMG "Modify descriptor" 2011-06-04 RCSB 
+# 

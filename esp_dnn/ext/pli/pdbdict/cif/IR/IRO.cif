@@ -1,0 +1,117 @@
+data_IRO
+# 
+_chem_comp.id                                    IRO 
+_chem_comp.name                                  "5-iodo-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H3 I N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "5-iodoorotic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-11-19 
+_chem_comp.pdbx_modified_date                    2013-11-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        281.993 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IRO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3W1N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IRO OAA OAA O 0 1 N N N 4.677 52.321 75.330 -0.909 -3.206 -0.002 OAA IRO 1  
+IRO CAH CAH C 0 1 N N N 5.879 52.035 75.540 -0.299 -2.156 0.002  CAH IRO 2  
+IRO OAD OAD O 0 1 N N N 6.684 52.973 75.493 1.048  -2.160 0.002  OAD IRO 3  
+IRO CAI CAI C 0 1 N N N 6.207 50.679 75.538 -1.036 -0.871 0.002  CAI IRO 4  
+IRO CAJ CAJ C 0 1 N N N 7.050 50.147 74.542 -0.360 0.308  0.001  CAJ IRO 5  
+IRO I   I   I 0 1 N N N 7.989 51.449 73.122 1.735  0.344  -0.000 I   IRO 6  
+IRO CAL CAL C 0 1 N N N 7.291 48.783 74.450 -1.133 1.557  0.000  CAL IRO 7  
+IRO OAC OAC O 0 1 N N N 8.029 48.324 73.581 -0.569 2.635  -0.001 OAC IRO 8  
+IRO NAG NAG N 0 1 N N N 6.680 47.948 75.375 -2.481 1.487  0.001  NAG IRO 9  
+IRO CAK CAK C 0 1 N N N 5.838 48.483 76.349 -3.101 0.295  0.001  CAK IRO 10 
+IRO OAB OAB O 0 1 N N N 5.303 47.720 77.127 -4.317 0.261  0.001  OAB IRO 11 
+IRO NAF NAF N 0 1 N N N 5.592 49.849 76.432 -2.415 -0.860 -0.004 NAF IRO 12 
+IRO H1  H1  H 0 1 N N N 6.221 53.779 75.297 1.485  -3.022 -0.002 H1  IRO 13 
+IRO H3  H3  H 0 1 N N N 6.844 46.962 75.343 -3.005 2.303  0.001  H3  IRO 14 
+IRO H2  H2  H 0 1 N N N 4.978 50.216 77.131 -2.898 -1.701 -0.008 H2  IRO 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IRO I   CAJ SING N N 1  
+IRO OAC CAL DOUB N N 2  
+IRO CAL CAJ SING N N 3  
+IRO CAL NAG SING N N 4  
+IRO CAJ CAI DOUB N N 5  
+IRO OAA CAH DOUB N N 6  
+IRO NAG CAK SING N N 7  
+IRO OAD CAH SING N N 8  
+IRO CAI CAH SING N N 9  
+IRO CAI NAF SING N N 10 
+IRO CAK NAF SING N N 11 
+IRO CAK OAB DOUB N N 12 
+IRO OAD H1  SING N N 13 
+IRO NAG H3  SING N N 14 
+IRO NAF H2  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IRO SMILES           ACDLabs              12.01 "O=C1NC(C(=O)O)=C(I)C(=O)N1"                                               
+IRO InChI            InChI                1.03  "InChI=1S/C5H3IN2O4/c6-1-2(4(10)11)7-5(12)8-3(1)9/h(H,10,11)(H2,7,8,9,12)" 
+IRO InChIKey         InChI                1.03  NWVVOUXUHGRCGE-UHFFFAOYSA-N                                                
+IRO SMILES_CANONICAL CACTVS               3.370 "OC(=O)C1=C(I)C(=O)NC(=O)N1"                                               
+IRO SMILES           CACTVS               3.370 "OC(=O)C1=C(I)C(=O)NC(=O)N1"                                               
+IRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1(=C(NC(=O)NC1=O)C(=O)O)I"                                               
+IRO SMILES           "OpenEye OEToolkits" 1.7.6 "C1(=C(NC(=O)NC1=O)C(=O)O)I"                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IRO "SYSTEMATIC NAME" ACDLabs              12.01 "5-iodo-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"  
+IRO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "5-iodanyl-2,4-bis(oxidanylidene)-1H-pyrimidine-6-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IRO "Create component" 2012-11-19 PDBJ 
+IRO "Initial release"  2013-11-20 RCSB 
+# 

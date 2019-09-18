@@ -1,0 +1,104 @@
+data_RRA
+# 
+_chem_comp.id                                    RRA 
+_chem_comp.name                                  prop-2-yn-1-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H5 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-25 
+_chem_comp.pdbx_modified_date                    2012-07-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        55.078 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RRA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3R0Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RRA N03  N03  N 0 1 N N N 12.200 6.917 -1.940 -1.546 0.495  0.067  N03  RRA 1 
+RRA C37  C37  C 0 1 N N N 12.339 6.775 -3.413 -0.618 -0.640 -0.026 C37  RRA 2 
+RRA C38  C38  C 0 1 N N N 10.990 6.069 -4.277 0.767  -0.144 -0.004 C38  RRA 3 
+RRA C39  C39  C 0 1 N N N 9.803  5.448 -5.037 1.873  0.251  0.013  C39  RRA 4 
+RRA HN03 HN03 H 0 0 N N N 13.030 7.330 -1.565 -1.375 1.164  -0.669 HN03 RRA 5 
+RRA HN0A HN0A H 0 0 N N N 11.415 7.501 -1.734 -2.505 0.181  0.054  HN0A RRA 6 
+RRA H37  H37  H 0 1 N N N 12.489 7.786 -3.821 -0.778 -1.310 0.819  H37  RRA 7 
+RRA H37A H37A H 0 0 N N N 13.210 6.128 -3.593 -0.797 -1.179 -0.956 H37A RRA 8 
+RRA H39  H39  H 0 1 N N N 8.986  5.021 -5.560 2.861  0.605  0.029  H39  RRA 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RRA N03 C37  SING N N 1 
+RRA C37 C38  SING N N 2 
+RRA C38 C39  TRIP N N 3 
+RRA N03 HN03 SING N N 4 
+RRA N03 HN0A SING N N 5 
+RRA C37 H37  SING N N 6 
+RRA C37 H37A SING N N 7 
+RRA C39 H39  SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RRA SMILES           ACDLabs              12.01 C#CCN                             
+RRA SMILES_CANONICAL CACTVS               3.370 NCC#C                             
+RRA SMILES           CACTVS               3.370 NCC#C                             
+RRA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 C#CCN                             
+RRA SMILES           "OpenEye OEToolkits" 1.7.2 C#CCN                             
+RRA InChI            InChI                1.03  InChI=1S/C3H5N/c1-2-3-4/h1H,3-4H2 
+RRA InChIKey         InChI                1.03  JKANAVGODYYCQF-UHFFFAOYSA-N       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RRA "SYSTEMATIC NAME" ACDLabs              12.01 prop-2-yn-1-amine 
+RRA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 prop-2-yn-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RRA "Create component"  2011-04-25 RCSB 
+RRA "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,126 @@
+data_4MV
+# 
+_chem_comp.id                                    4MV 
+_chem_comp.name                                  "4-METHYL VALERIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H12 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-02-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        116.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4MV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1I1M 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4MV CA   CA   C 0 1 N N N 31.200 -27.722 8.131  0.542  0.313  -0.520 CA   4MV 1  
+4MV CB   CB   C 0 1 N N N 32.118 -27.183 7.046  -0.496 0.049  0.570  CB   4MV 2  
+4MV CG   CG   C 0 1 N N N 33.080 -28.209 6.443  0.108  0.368  1.939  CG   4MV 3  
+4MV CD1  CD1  C 0 1 N N N 32.330 -29.202 5.564  -0.931 0.103  3.030  CD1  4MV 4  
+4MV CD2  CD2  C 0 1 N N N 34.123 -27.474 5.623  1.332  -0.518 2.175  CD2  4MV 5  
+4MV C    C    C 0 1 N N N 31.952 -28.367 9.278  -0.053 -0.001 -1.868 C    4MV 6  
+4MV O    O    O 0 1 N N N 31.603 -29.509 9.628  -1.192 -0.395 -1.948 O    4MV 7  
+4MV OXT  OXT  O 0 1 N N N 32.880 -27.747 9.835  0.681  0.157  -2.980 OXT  4MV 8  
+4MV HA1  1HA  H 0 1 N N N 30.513 -26.925 8.503  0.842  1.361  -0.491 HA1  4MV 9  
+4MV HA2  2HA  H 0 1 N N N 30.448 -28.425 7.702  1.414  -0.318 -0.352 HA2  4MV 10 
+4MV HB1  1HB  H 0 1 N N N 31.518 -26.698 6.240  -0.796 -0.998 0.541  HB1  4MV 11 
+4MV HB2  2HB  H 0 1 N N N 32.684 -26.300 7.424  -1.368 0.681  0.402  HB2  4MV 12 
+4MV HG   HG   H 0 1 N N N 33.571 -28.780 7.264  0.407  1.415  1.968  HG   4MV 13 
+4MV HD11 1HD1 H 0 0 N N N 33.030 -29.949 5.124  -0.500 0.331  4.005  HD11 4MV 14 
+4MV HD12 2HD1 H 0 0 N N N 31.495 -29.693 6.116  -1.803 0.735  2.862  HD12 4MV 15 
+4MV HD13 3HD1 H 0 0 N N N 31.730 -28.686 4.777  -1.231 -0.943 3.000  HD13 4MV 16 
+4MV HD21 1HD2 H 0 0 N N N 34.823 -28.221 5.183  1.032  -1.566 2.145  HD21 4MV 17 
+4MV HD22 2HD2 H 0 0 N N N 33.668 -26.810 4.851  2.072  -0.330 1.397  HD22 4MV 18 
+4MV HD23 3HD2 H 0 0 N N N 34.651 -26.687 6.210  1.762  -0.291 3.150  HD23 4MV 19 
+4MV HXT  HXT  H 0 1 N N N 33.351 -28.151 10.553 0.299  -0.044 -3.845 HXT  4MV 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4MV CA  CB   SING N N 1  
+4MV CA  C    SING N N 2  
+4MV CA  HA1  SING N N 3  
+4MV CA  HA2  SING N N 4  
+4MV CB  CG   SING N N 5  
+4MV CB  HB1  SING N N 6  
+4MV CB  HB2  SING N N 7  
+4MV CG  CD1  SING N N 8  
+4MV CG  CD2  SING N N 9  
+4MV CG  HG   SING N N 10 
+4MV CD1 HD11 SING N N 11 
+4MV CD1 HD12 SING N N 12 
+4MV CD1 HD13 SING N N 13 
+4MV CD2 HD21 SING N N 14 
+4MV CD2 HD22 SING N N 15 
+4MV CD2 HD23 SING N N 16 
+4MV C   O    DOUB N N 17 
+4MV C   OXT  SING N N 18 
+4MV OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4MV SMILES           ACDLabs              10.04 "O=C(O)CCC(C)C"                                             
+4MV SMILES_CANONICAL CACTVS               3.341 "CC(C)CCC(O)=O"                                             
+4MV SMILES           CACTVS               3.341 "CC(C)CCC(O)=O"                                             
+4MV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)CCC(=O)O"                                             
+4MV SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CCC(=O)O"                                             
+4MV InChI            InChI                1.03  "InChI=1S/C6H12O2/c1-5(2)3-4-6(7)8/h5H,3-4H2,1-2H3,(H,7,8)" 
+4MV InChIKey         InChI                1.03  FGKJLKRYENPLQH-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4MV "SYSTEMATIC NAME" ACDLabs              10.04 "4-methylpentanoic acid" 
+4MV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4-methylpentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4MV "Create component"  2001-02-09 RCSB 
+4MV "Modify descriptor" 2011-06-04 RCSB 
+# 

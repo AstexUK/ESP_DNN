@@ -1,0 +1,218 @@
+data_GKD
+# 
+_chem_comp.id                                    GKD 
+_chem_comp.name                                  
+;GUANOSINE 5'-DIPHOSPHATE-4-KETO-BETA-L-GULOSE
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H23 N5 O16 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-10-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        603.325 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GKD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2C54 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GKD N2     N2   N 0 1 N N N 11.512 42.341 9.272  -9.848  0.891  -1.773 N2     GKD 1  
+GKD C2     C2   C 0 1 Y N N 11.218 43.576 8.853  -8.994  -0.022 -1.208 C2     GKD 2  
+GKD N1     N1   N 0 1 Y N N 9.930  43.964 8.931  -9.449  -1.280 -0.947 N1     GKD 3  
+GKD N3     N3   N 0 1 Y N N 12.211 44.338 8.420  -7.762  0.343  -0.931 N3     GKD 4  
+GKD C4     C4   C 0 1 Y N N 11.889 45.591 8.055  -6.895  -0.514 -0.380 C4     GKD 5  
+GKD C5     C5   C 0 1 Y N N 10.547 46.097 8.082  -7.300  -1.822 -0.092 C5     GKD 6  
+GKD C6     C6   C 0 1 Y N N 9.512  45.220 8.581  -8.628  -2.202 -0.396 C6     GKD 7  
+GKD O6     O6   O 0 1 N N N 8.268  45.520 8.689  -9.024  -3.331 -0.163 O6     GKD 8  
+GKD N7     N7   N 0 1 Y N N 10.601 47.413 7.681  -6.237  -2.462 0.452  N7     GKD 9  
+GKD C8     C8   C 0 1 Y N N 11.864 47.649 7.386  -5.227  -1.644 0.515  C8     GKD 10 
+GKD N9     N9   N 0 1 Y N N 12.641 46.552 7.601  -5.586  -0.427 0.012  N9     GKD 11 
+GKD "C1'"  C1*  C 0 1 N N R 14.099 46.560 7.434  -4.728  0.756  -0.091 "C1'"  GKD 12 
+GKD "C2'"  C2*  C 0 1 N N R 14.837 46.138 8.721  -4.900  1.655  1.153  "C2'"  GKD 13 
+GKD "O2'"  O2*  O 0 1 N N N 14.816 47.191 9.670  -5.798  2.732  0.879  "O2'"  GKD 14 
+GKD "C3'"  C3*  C 0 1 N N S 16.237 45.905 8.132  -3.476  2.193  1.425  "C3'"  GKD 15 
+GKD "O3'"  O3*  O 0 1 N N N 16.958 47.082 7.913  -3.451  3.619  1.325  "O3'"  GKD 16 
+GKD "C4'"  C4*  C 0 1 N N R 15.917 45.323 6.769  -2.614  1.557  0.311  "C4'"  GKD 17 
+GKD "O4'"  O4*  O 0 1 N N N 14.543 45.641 6.459  -3.336  0.369  -0.080 "O4'"  GKD 18 
+GKD "C5'"  C5*  C 0 1 N N N 16.005 43.809 6.696  -1.231  1.187  0.850  "C5'"  GKD 19 
+GKD "O5'"  O5*  O 0 1 N N N 15.400 43.221 7.828  -0.439  0.642  -0.206 "O5'"  GKD 20 
+GKD PA     PA   P 0 1 N N R 15.212 41.642 8.028  0.995   0.277  0.429  PA     GKD 21 
+GKD O1A    O1A  O 0 1 N N N 14.901 40.995 6.696  0.817   -0.894 1.519  O1A    GKD 22 
+GKD O2A    O2A  O 0 1 N N N 14.283 41.418 9.170  1.566   1.476  1.081  O2A    GKD 23 
+GKD O3A    O3A  O 0 1 N N N 16.638 41.139 8.542  1.987   -0.223 -0.737 O3A    GKD 24 
+GKD PB     PB   P 0 1 N N S 18.193 41.355 8.164  3.477   -0.186 -0.128 PB     GKD 25 
+GKD O2B    O2B  O 0 1 N N N 18.371 41.214 6.684  3.639   1.025  0.707  O2B    GKD 26 
+GKD O3B    O3B  O 0 1 N N N 18.692 42.656 8.728  3.720   -1.497 0.774  O3B    GKD 27 
+GKD O1B    O1B  O 0 1 N N N 18.978 40.258 8.990  4.547   -0.156 -1.330 O1B    GKD 28 
+GKD C1G    C1G  C 0 1 N N R 18.618 38.937 8.834  5.836   -0.006 -0.732 C1G    GKD 29 
+GKD O5G    O5G  O 0 1 N N N 19.672 38.372 8.010  6.381   -1.293 -0.453 O5G    GKD 30 
+GKD C5G    C5G  C 0 1 N N S 19.655 36.951 7.773  7.528   -1.109 0.379  C5G    GKD 31 
+GKD C6G    C6G  C 0 1 N N N 20.955 36.550 7.053  8.125   -2.472 0.737  C6G    GKD 32 
+GKD O6A    O6A  O 0 1 N N N 21.214 37.440 5.960  7.194   -3.205 1.536  O6A    GKD 33 
+GKD C2G    C2G  C 0 1 N N S 18.493 38.220 10.192 6.755   0.756  -1.690 C2G    GKD 34 
+GKD O2G    O2G  O 0 1 N N N 17.371 38.734 10.900 6.147   1.998  -2.051 O2G    GKD 35 
+GKD C3G    C3G  C 0 1 N N R 18.407 36.684 10.071 8.091   1.024  -0.981 C3G    GKD 36 
+GKD O3G    O3G  O 0 1 N N N 17.152 36.312 9.537  7.913   2.000  0.047  O3G    GKD 37 
+GKD C4G    C4G  C 0 1 N N N 19.486 36.180 9.099  8.551   -0.287 -0.373 C4G    GKD 38 
+GKD O4G    O4G  O 0 1 N N N 20.079 35.129 9.330  9.694   -0.661 -0.486 O4G    GKD 39 
+GKD H2N1   1H2N H 0 0 N N N 12.487 42.047 9.213  -9.540  1.792  -1.962 H2N1   GKD 40 
+GKD H2N2   2H2N H 0 0 N N N 10.747 41.754 9.606  -10.759 0.635  -1.988 H2N2   GKD 41 
+GKD H1     H1   H 0 1 N N N 9.237  43.294 9.265  -10.364 -1.517 -1.164 H1     GKD 42 
+GKD H8     H8   H 0 1 N N N 12.244 48.615 7.012  -4.251  -1.890 0.906  H8     GKD 43 
+GKD "H1'"  H1*  H 0 1 N N N 14.427 47.586 7.145  -4.959  1.314  -0.998 "H1'"  GKD 44 
+GKD "H2'"  H2*  H 0 1 N N N 14.412 45.199 9.145  -5.255  1.069  2.000  "H2'"  GKD 45 
+GKD HA     HA   H 0 1 N N N 15.271 46.931 10.463 -5.816  3.289  1.670  HA     GKD 46 
+GKD "H3'"  H3*  H 0 1 N N N 16.820 45.184 8.751  -3.127  1.874  2.407  "H3'"  GKD 47 
+GKD HB     HB   H 0 1 N N N 17.823 46.938 7.549  -4.003  3.959  2.043  HB     GKD 48 
+GKD "H4'"  H4*  H 0 1 N N N 16.588 45.775 6.002  -2.521  2.241  -0.533 "H4'"  GKD 49 
+GKD "H5'1" 1H5* H 0 0 N N N 17.056 43.461 6.561  -0.745  2.079  1.247  "H5'1" GKD 50 
+GKD "H5'2" 2H5* H 0 0 N N N 15.575 43.415 5.746  -1.337  0.448  1.644  "H5'2" GKD 51 
+GKD H1A    H1A  H 0 1 N N N 14.790 40.059 6.815  0.443   -1.655 1.054  H1A    GKD 52 
+GKD H3B    H3B  H 0 1 N N N 19.607 42.783 8.506  3.605   -2.262 0.193  H3B    GKD 53 
+GKD H1G    H1G  H 0 1 N N N 17.647 38.877 8.290  5.740   0.554  0.198  H1G    GKD 54 
+GKD H5G    H5G  H 0 1 N N N 18.792 36.711 7.109  7.238   -0.587 1.290  H5G    GKD 55 
+GKD H6G1   1H6G H 0 0 N N N 20.937 35.484 6.726  8.337   -3.027 -0.176 H6G1   GKD 56 
+GKD H6G2   2H6G H 0 0 N N N 21.819 36.493 7.756  9.049   -2.327 1.297  H6G2   GKD 57 
+GKD H6A    H6A  H 0 1 N N N 22.016 37.193 5.516  7.608   -4.054 1.739  H6A    GKD 58 
+GKD H2G    H2G  H 0 1 N N N 19.406 38.461 10.786 6.929   0.160  -2.586 H2G    GKD 59 
+GKD HC     HC   H 0 1 N N N 17.294 38.292 11.737 6.763   2.450  -2.643 HC     GKD 60 
+GKD H3G    H3G  H 0 1 N N N 18.548 36.215 11.073 8.829   1.376  -1.703 H3G    GKD 61 
+GKD HD     HD   H 0 1 N N N 17.099 35.366 9.462  8.771   2.108  0.481  HD     GKD 62 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GKD N2    C2     SING N N 1  
+GKD N2    H2N1   SING N N 2  
+GKD N2    H2N2   SING N N 3  
+GKD C2    N1     SING Y N 4  
+GKD C2    N3     DOUB Y N 5  
+GKD N1    C6     SING Y N 6  
+GKD N1    H1     SING N N 7  
+GKD N3    C4     SING Y N 8  
+GKD C4    C5     DOUB Y N 9  
+GKD C4    N9     SING Y N 10 
+GKD C5    C6     SING Y N 11 
+GKD C5    N7     SING Y N 12 
+GKD C6    O6     DOUB N N 13 
+GKD N7    C8     DOUB Y N 14 
+GKD C8    N9     SING Y N 15 
+GKD C8    H8     SING N N 16 
+GKD N9    "C1'"  SING N N 17 
+GKD "C1'" "C2'"  SING N N 18 
+GKD "C1'" "O4'"  SING N N 19 
+GKD "C1'" "H1'"  SING N N 20 
+GKD "C2'" "O2'"  SING N N 21 
+GKD "C2'" "C3'"  SING N N 22 
+GKD "C2'" "H2'"  SING N N 23 
+GKD "O2'" HA     SING N N 24 
+GKD "C3'" "O3'"  SING N N 25 
+GKD "C3'" "C4'"  SING N N 26 
+GKD "C3'" "H3'"  SING N N 27 
+GKD "O3'" HB     SING N N 28 
+GKD "C4'" "O4'"  SING N N 29 
+GKD "C4'" "C5'"  SING N N 30 
+GKD "C4'" "H4'"  SING N N 31 
+GKD "C5'" "O5'"  SING N N 32 
+GKD "C5'" "H5'1" SING N N 33 
+GKD "C5'" "H5'2" SING N N 34 
+GKD "O5'" PA     SING N N 35 
+GKD PA    O1A    SING N N 36 
+GKD PA    O2A    DOUB N N 37 
+GKD PA    O3A    SING N N 38 
+GKD O1A   H1A    SING N N 39 
+GKD O3A   PB     SING N N 40 
+GKD PB    O2B    DOUB N N 41 
+GKD PB    O3B    SING N N 42 
+GKD PB    O1B    SING N N 43 
+GKD O3B   H3B    SING N N 44 
+GKD O1B   C1G    SING N N 45 
+GKD C1G   O5G    SING N N 46 
+GKD C1G   C2G    SING N N 47 
+GKD C1G   H1G    SING N N 48 
+GKD O5G   C5G    SING N N 49 
+GKD C5G   C6G    SING N N 50 
+GKD C5G   C4G    SING N N 51 
+GKD C5G   H5G    SING N N 52 
+GKD C6G   O6A    SING N N 53 
+GKD C6G   H6G1   SING N N 54 
+GKD C6G   H6G2   SING N N 55 
+GKD O6A   H6A    SING N N 56 
+GKD C2G   O2G    SING N N 57 
+GKD C2G   C3G    SING N N 58 
+GKD C2G   H2G    SING N N 59 
+GKD O2G   HC     SING N N 60 
+GKD C3G   O3G    SING N N 61 
+GKD C3G   C4G    SING N N 62 
+GKD C3G   H3G    SING N N 63 
+GKD O3G   HD     SING N N 64 
+GKD C4G   O4G    DOUB N N 65 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GKD SMILES           ACDLabs              10.04 "O=C1C(O)C(O)C(OC1CO)OP(=O)(O)OP(=O)(O)OCC4OC(n3cnc2c3N=C(N)NC2=O)C(O)C4O" 
+GKD SMILES_CANONICAL CACTVS               3.341 "NC1=Nc2n(cnc2C(=O)N1)[C@@H]3O[C@H](CO[P@](O)(=O)O[P@](O)(=O)O[C@H]4O[C@@H](CO)C(=O)[C@H](O)[C@@H]4O)[C@@H](O)[C@H]3O" 
+GKD SMILES           CACTVS               3.341 "NC1=Nc2n(cnc2C(=O)N1)[CH]3O[CH](CO[P](O)(=O)O[P](O)(=O)O[CH]4O[CH](CO)C(=O)[CH](O)[CH]4O)[CH](O)[CH]3O" 
+GKD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@@](=O)(O)O[C@@H]4[C@H]([C@H](C(=O)[C@@H](O4)CO)O)O)O)O)N=C(NC2=O)N" 
+GKD SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OC4C(C(C(=O)C(O4)CO)O)O)O)O)N=C(NC2=O)N" 
+GKD InChI            InChI                1.03  
+"InChI=1S/C16H23N5O16P2/c17-16-19-12-6(13(28)20-16)18-3-21(12)14-10(26)8(24)5(34-14)2-33-38(29,30)37-39(31,32)36-15-11(27)9(25)7(23)4(1-22)35-15/h3-5,8-11,14-15,22,24-27H,1-2H2,(H,29,30)(H,31,32)(H3,17,19,20,28)/t4-,5+,8+,9-,10+,11-,14+,15+/m0/s1" 
+GKD InChIKey         InChI                1.03  QZZKIVADHWVJFF-UFFCYROPSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GKD "SYSTEMATIC NAME" ACDLabs              10.04 
+"[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (2R,3S,4R,6S)-3,4-dihydroxy-6-(hydroxymethyl)-5-oxotetrahydro-2H-pyran-2-yl dihydrogen diphosphate (non-preferred name)" 
+GKD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl [[(2R,3S,4R,6S)-3,4-dihydroxy-6-(hydroxymethyl)-5-oxo-oxan-2-yl]oxy-hydroxy-phosphoryl] hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GKD "Create component"  2005-10-25 EBI  
+GKD "Modify descriptor" 2011-06-04 RCSB 
+# 

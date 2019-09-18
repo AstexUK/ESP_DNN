@@ -1,0 +1,100 @@
+data_HDN
+# 
+_chem_comp.id                                    HDN 
+_chem_comp.name                                  METHYLHYDRAZINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H4 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        44.056 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HDN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CRU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HDN N1  N1  N 0 1 N N N 13.589 55.219 69.608 -0.263 0.000  -1.123 N1  HDN 1 
+HDN N2  N2  N 0 1 N N N 14.322 56.644 69.470 0.454  0.000  -0.112 N2  HDN 2 
+HDN C1  C1  C 0 1 N N N 13.953 57.943 68.936 -0.157 0.000  1.219  C1  HDN 3 
+HDN HN1 HN1 H 0 1 N N N 12.574 55.169 69.520 0.141  0.000  -2.005 HN1 HDN 4 
+HDN H11 H11 H 0 1 N N N 14.461 58.930 68.840 0.625  0.000  1.978  H11 HDN 5 
+HDN H12 H12 H 0 1 N N N 13.635 57.713 67.892 -0.775 0.890  1.335  H12 HDN 6 
+HDN H13 H13 H 0 1 N N N 13.010 58.188 69.479 -0.775 -0.890 1.335  H13 HDN 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HDN N1 N2  DOUB N N 1 
+HDN N1 HN1 SING N N 2 
+HDN N2 C1  SING N N 3 
+HDN C1 H11 SING N N 4 
+HDN C1 H12 SING N N 5 
+HDN C1 H13 SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HDN SMILES           ACDLabs              10.04 "[N@H]=NC"                          
+HDN SMILES_CANONICAL CACTVS               3.341 CN=N                                
+HDN SMILES           CACTVS               3.341 CN=N                                
+HDN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CN=N                                
+HDN SMILES           "OpenEye OEToolkits" 1.5.0 CN=N                                
+HDN InChI            InChI                1.03  InChI=1S/CH4N2/c1-3-2/h2H,1H3/b3-2- 
+HDN InChIKey         InChI                1.03  JYXPWUYLZPYOAH-IHWYPQMZSA-N         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HDN "SYSTEMATIC NAME" ACDLabs              10.04 "(Z)-methyldiazene" 
+HDN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 methyldiazene       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HDN "Create component"  1999-08-23 RCSB 
+HDN "Modify descriptor" 2011-06-04 RCSB 
+# 

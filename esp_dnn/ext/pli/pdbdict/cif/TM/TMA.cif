@@ -1,0 +1,120 @@
+data_TMA
+# 
+_chem_comp.id                                    TMA 
+_chem_comp.name                                  "TETRAMETHYLAMMONIUM ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H12 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2000-03-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        74.145 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TMA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EK6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TMA N1  N1  N 1 1 N N N -6.895 34.227 18.382 0.000  0.000  0.000  N1  TMA 1  
+TMA C1  C1  C 0 1 N N N -5.546 34.954 18.294 0.051  1.190  0.860  C1  TMA 2  
+TMA C2  C2  C 0 1 N N N -7.496 34.361 19.802 -0.046 -1.207 0.836  C2  TMA 3  
+TMA C3  C3  C 0 1 N N N -6.677 32.737 18.046 -1.201 0.056  -0.844 C3  TMA 4  
+TMA C4  C4  C 0 1 N N N -7.858 34.874 17.355 1.196  -0.040 -0.852 C4  TMA 5  
+TMA H11 1H1 H 0 1 N N N -5.113 34.857 17.271 0.942  1.148  1.486  H11 TMA 6  
+TMA H12 2H1 H 0 1 N N N -5.629 36.020 18.608 0.085  2.085  0.239  H12 TMA 7  
+TMA H13 3H1 H 0 1 N N N -4.835 34.603 19.078 -0.837 1.220  1.492  H13 TMA 8  
+TMA H21 1H2 H 0 1 N N N -8.475 33.832 19.865 -0.933 -1.177 1.469  H21 TMA 9  
+TMA H22 2H2 H 0 1 N N N -6.785 34.010 20.586 -0.083 -2.090 0.199  H22 TMA 10 
+TMA H23 3H2 H 0 1 N N N -7.579 35.427 20.116 0.845  -1.249 1.463  H23 TMA 11 
+TMA H31 1H3 H 0 1 N N N -7.656 32.208 18.109 -1.167 0.952  -1.465 H31 TMA 12 
+TMA H32 2H3 H 0 1 N N N -6.177 32.590 17.060 -1.238 -0.827 -1.482 H32 TMA 13 
+TMA H33 3H3 H 0 1 N N N -5.895 32.265 18.686 -2.088 0.086  -0.212 H33 TMA 14 
+TMA H41 1H4 H 0 1 N N N -8.837 34.345 17.418 2.087  -0.082 -0.225 H41 TMA 15 
+TMA H42 2H4 H 0 1 N N N -7.953 35.976 17.489 1.159  -0.923 -1.490 H42 TMA 16 
+TMA H43 3H4 H 0 1 N N N -7.441 34.884 16.320 1.230  0.856  -1.473 H43 TMA 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TMA N1 C1  SING N N 1  
+TMA N1 C2  SING N N 2  
+TMA N1 C3  SING N N 3  
+TMA N1 C4  SING N N 4  
+TMA C1 H11 SING N N 5  
+TMA C1 H12 SING N N 6  
+TMA C1 H13 SING N N 7  
+TMA C2 H21 SING N N 8  
+TMA C2 H22 SING N N 9  
+TMA C2 H23 SING N N 10 
+TMA C3 H31 SING N N 11 
+TMA C3 H32 SING N N 12 
+TMA C3 H33 SING N N 13 
+TMA C4 H41 SING N N 14 
+TMA C4 H42 SING N N 15 
+TMA C4 H43 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TMA SMILES           ACDLabs              10.04 "C[N+](C)(C)C"                          
+TMA SMILES_CANONICAL CACTVS               3.341 "C[N+](C)(C)C"                          
+TMA SMILES           CACTVS               3.341 "C[N+](C)(C)C"                          
+TMA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)C"                          
+TMA SMILES           "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)C"                          
+TMA InChI            InChI                1.03  "InChI=1S/C4H12N/c1-5(2,3)4/h1-4H3/q+1" 
+TMA InChIKey         InChI                1.03  QEMXHQIAXOOASZ-UHFFFAOYSA-N             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TMA "SYSTEMATIC NAME" ACDLabs              10.04 N,N,N-trimethylmethanaminium 
+TMA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 tetramethylazanium           
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TMA "Create component"  2000-03-14 EBI  
+TMA "Modify descriptor" 2011-06-04 RCSB 
+# 

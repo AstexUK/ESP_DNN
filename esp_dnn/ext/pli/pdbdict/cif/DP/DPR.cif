@@ -1,0 +1,122 @@
+data_DPR
+# 
+_chem_comp.id                                    DPR 
+_chem_comp.name                                  D-PROLINE 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        115.130 
+_chem_comp.one_letter_code                       P 
+_chem_comp.three_letter_code                     DPR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DPR N   N   N 0 1 N N N -4.206 7.451  -17.843 0.814  0.974  0.670  N   DPR 1  
+DPR CA  CA  C 0 1 N N R -3.893 8.671  -18.566 -0.014 -0.244 0.598  CA  DPR 2  
+DPR CB  CB  C 0 1 N N N -5.242 9.255  -18.952 0.728  -1.247 -0.310 CB  DPR 3  
+DPR CG  CG  C 0 1 N N N -6.239 8.113  -18.840 2.199  -0.759 -0.242 CG  DPR 4  
+DPR CD  CD  C 0 1 N N N -5.571 6.986  -18.070 2.016  0.777  -0.168 CD  DPR 5  
+DPR C   C   C 0 1 N N N -2.999 8.379  -19.774 -1.360 0.086  0.006  C   DPR 6  
+DPR O   O   O 0 1 N N N -3.431 7.734  -20.727 -1.509 1.105  -0.626 O   DPR 7  
+DPR OXT OXT O 0 1 N Y N ?      ?      ?       -2.393 -0.753 0.180  OXT DPR 8  
+DPR H   HT1 H 0 1 N Y N -3.576 6.736  -18.147 0.293  1.784  0.370  H   DPR 9  
+DPR HA  HA  H 0 1 N N N -3.318 9.388  -17.962 -0.138 -0.667 1.595  HA  DPR 10 
+DPR HB2 HB1 H 0 1 N N N -5.517 10.078 -18.276 0.639  -2.260 0.083  HB2 DPR 11 
+DPR HB3 HB2 H 0 1 N N N -5.215 9.648  -19.979 0.351  -1.194 -1.331 HB3 DPR 12 
+DPR HG2 HG1 H 0 1 N N N -7.140 8.451  -18.307 2.695  -1.137 0.653  HG2 DPR 13 
+DPR HG3 HG2 H 0 1 N N N -6.527 7.765  -19.843 2.747  -1.045 -1.140 HG3 DPR 14 
+DPR HD2 HD1 H 0 1 N N N -5.580 6.051  -18.650 1.855  1.188  -1.165 HD2 DPR 15 
+DPR HD3 HD2 H 0 1 N N N -6.088 6.796  -17.118 2.885  1.241  0.299  HD3 DPR 16 
+DPR HXT HXT H 0 1 N Y N ?      ?      ?       -3.237 -0.500 -0.219 HXT DPR 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DPR N   CA  SING N N 1  
+DPR N   CD  SING N N 2  
+DPR N   H   SING N N 3  
+DPR CA  CB  SING N N 4  
+DPR CA  C   SING N N 5  
+DPR CA  HA  SING N N 6  
+DPR CB  CG  SING N N 7  
+DPR CB  HB2 SING N N 8  
+DPR CB  HB3 SING N N 9  
+DPR CG  CD  SING N N 10 
+DPR CG  HG2 SING N N 11 
+DPR CG  HG3 SING N N 12 
+DPR CD  HD2 SING N N 13 
+DPR CD  HD3 SING N N 14 
+DPR C   O   DOUB N N 15 
+DPR C   OXT SING N N 16 
+DPR OXT HXT SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DPR SMILES           ACDLabs              12.01 "O=C(O)C1NCCC1"                                                     
+DPR SMILES_CANONICAL CACTVS               3.370 "OC(=O)[C@H]1CCCN1"                                                 
+DPR SMILES           CACTVS               3.370 "OC(=O)[CH]1CCCN1"                                                  
+DPR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1C[C@@H](NC1)C(=O)O"                                              
+DPR SMILES           "OpenEye OEToolkits" 1.7.0 "C1CC(NC1)C(=O)O"                                                   
+DPR InChI            InChI                1.03  "InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m1/s1" 
+DPR InChIKey         InChI                1.03  ONIBWKKTOPOVIA-SCSAIBSYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DPR "SYSTEMATIC NAME" ACDLabs              12.01 D-proline                            
+DPR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2R)-pyrrolidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DPR "Create component"         1999-07-08 EBI  
+DPR "Modify leaving atom flag" 2010-11-22 RCSB 
+DPR "Modify descriptor"        2011-06-04 RCSB 
+# 

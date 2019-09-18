@@ -1,0 +1,112 @@
+data_UVW
+# 
+_chem_comp.id                                    UVW 
+_chem_comp.name                                  ACETYLPHOSPHATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-08-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        140.032 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UVW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1E7Q,1E7R,1E6U 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UVW C1   C1   C 0 1 N N N 61.073 21.623 18.253 -0.056 0.001  1.642  C1   UVW 1  
+UVW O1   O1   O 0 1 N N N 61.584 20.761 19.027 1.141  -0.142 1.584  O1   UVW 2  
+UVW C1M  C1M  C 0 1 N N N 61.679 22.400 17.459 -0.738 0.101  2.983  C1M  UVW 3  
+UVW O2   O2   O 0 1 N N N 59.607 21.229 17.750 -0.779 0.073  0.514  O2   UVW 4  
+UVW P    P    P 0 1 N N N 58.902 22.431 18.252 -0.051 -0.033 -0.917 P    UVW 5  
+UVW O1P  O1P  O 0 1 N N N 57.547 22.539 17.775 0.644  -1.335 -1.020 O1P  UVW 6  
+UVW O2P  O2P  O 0 1 N N N 58.762 22.147 19.669 -1.149 0.082  -2.088 O2P  UVW 7  
+UVW O3P  O3P  O 0 1 N N N 59.703 23.791 18.228 1.018  1.160  -1.064 O3P  UVW 8  
+UVW H1M1 1H1M H 0 0 N N N 61.229 23.159 16.777 0.005  0.022  3.776  H1M1 UVW 9  
+UVW H1M2 2H1M H 0 0 N N N 62.424 22.950 18.079 -1.251 1.060  3.059  H1M2 UVW 10 
+UVW H1M3 3H1M H 0 0 N N N 62.310 21.745 16.813 -1.463 -0.707 3.083  H1M3 UVW 11 
+UVW HOP2 2HOP H 0 0 N N N 58.309 22.917 19.991 -0.672 0.014  -2.926 HOP2 UVW 12 
+UVW HOP3 3HOP H 0 0 N N N 59.250 24.562 18.550 0.525  1.988  -0.991 HOP3 UVW 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UVW C1  O1   DOUB N N 1  
+UVW C1  C1M  SING N N 2  
+UVW C1  O2   SING N N 3  
+UVW C1M H1M1 SING N N 4  
+UVW C1M H1M2 SING N N 5  
+UVW C1M H1M3 SING N N 6  
+UVW O2  P    SING N N 7  
+UVW P   O1P  DOUB N N 8  
+UVW P   O2P  SING N N 9  
+UVW P   O3P  SING N N 10 
+UVW O2P HOP2 SING N N 11 
+UVW O3P HOP3 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UVW SMILES           ACDLabs              10.04 "O=C(OP(=O)(O)O)C"                                  
+UVW SMILES_CANONICAL CACTVS               3.341 "CC(=O)O[P](O)(O)=O"                                
+UVW SMILES           CACTVS               3.341 "CC(=O)O[P](O)(O)=O"                                
+UVW SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)OP(=O)(O)O"                                  
+UVW SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)OP(=O)(O)O"                                  
+UVW InChI            InChI                1.03  "InChI=1S/C2H5O5P/c1-2(3)7-8(4,5)6/h1H3,(H2,4,5,6)" 
+UVW InChIKey         InChI                1.03  LIPOUNRJVLNBCD-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UVW "SYSTEMATIC NAME" ACDLabs              10.04 "acetyl dihydrogen phosphate" 
+UVW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phosphono ethanoate"         
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UVW "Create component"  2000-08-25 RCSB 
+UVW "Modify descriptor" 2011-06-04 RCSB 
+# 

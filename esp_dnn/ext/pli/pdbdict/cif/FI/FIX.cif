@@ -1,0 +1,128 @@
+data_FIX
+# 
+_chem_comp.id                                    FIX 
+_chem_comp.name                                  "D-fructuronic acid" 
+_chem_comp.type                                  D-SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H8 O7" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         D-Fructuronate 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-05-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        192.124 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FIX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3HKA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FIX O1A  O1A  O 0 1 N N N 17.439 38.930 11.739 -2.890 -1.110 -1.099 O1A  FIX 1  
+FIX C1   C1   C 0 1 N N N 17.952 37.984 11.093 -2.714 -0.391 0.021  C1   FIX 2  
+FIX O1B  O1B  O 0 1 N N N 18.360 38.044 9.919  -3.463 -0.538 0.957  O1B  FIX 3  
+FIX C2   C2   C 0 1 N N S 18.094 36.627 11.811 -1.582 0.600  0.109  C2   FIX 4  
+FIX O2   O2   O 0 1 N N N 18.055 36.837 13.227 -1.673 1.318  1.341  O2   FIX 5  
+FIX C3   C3   C 0 1 N N S 16.970 35.661 11.358 -0.247 -0.144 0.049  C3   FIX 6  
+FIX O3   O3   O 0 1 N N N 17.040 35.512 9.924  -0.156 -0.862 -1.183 O3   FIX 7  
+FIX C4   C4   C 0 1 N N S 17.013 34.221 11.952 0.902  0.862  0.139  C4   FIX 8  
+FIX O4   O4   O 0 1 N N N 16.128 33.351 11.222 0.753  1.848  -0.884 O4   FIX 9  
+FIX C5   C5   C 0 1 N N N 16.617 34.169 13.455 2.215  0.143  -0.043 C5   FIX 10 
+FIX O5   O5   O 0 1 N N N 15.749 34.921 13.912 2.818  0.242  -1.084 O5   FIX 11 
+FIX C6   C6   C 0 1 N N N 17.302 33.177 14.386 2.767  -0.686 1.060  C6   FIX 12 
+FIX O6   O6   O 0 1 N N N 18.727 33.292 14.386 3.818  -1.262 0.915  O6   FIX 13 
+FIX HO1A HO1A H 0 0 N N N 17.408 39.707 11.193 -3.630 -1.733 -1.109 HO1A FIX 14 
+FIX H2   H2   H 0 1 N N N 19.058 36.167 11.548 -1.646 1.299  -0.724 H2   FIX 15 
+FIX HO2  HO2  H 0 1 N N N 18.046 35.998 13.672 -1.623 0.757  2.128  HO2  FIX 16 
+FIX H3   H3   H 0 1 N N N 16.045 36.127 11.727 -0.183 -0.844 0.883  H3   FIX 17 
+FIX HO3  HO3  H 0 1 N N N 17.055 36.370 9.516  -0.206 -0.302 -1.969 HO3  FIX 18 
+FIX H4   H4   H 0 1 N N N 18.057 33.888 11.861 0.886  1.346  1.115  H4   FIX 19 
+FIX HO4  HO4  H 0 1 N N N 15.363 33.159 11.752 0.759  1.487  -1.782 HO4  FIX 20 
+FIX H6   H6   H 0 1 N N N 16.765 32.458 14.987 2.227  -0.774 1.992  H6   FIX 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FIX O1A HO1A SING N N 1  
+FIX C1  O1A  SING N N 2  
+FIX C1  C2   SING N N 3  
+FIX O1B C1   DOUB N N 4  
+FIX C2  O2   SING N N 5  
+FIX C2  H2   SING N N 6  
+FIX O2  HO2  SING N N 7  
+FIX C3  C2   SING N N 8  
+FIX C3  C4   SING N N 9  
+FIX C3  H3   SING N N 10 
+FIX O3  C3   SING N N 11 
+FIX O3  HO3  SING N N 12 
+FIX C4  C5   SING N N 13 
+FIX C4  H4   SING N N 14 
+FIX O4  C4   SING N N 15 
+FIX O4  HO4  SING N N 16 
+FIX C5  O5   DOUB N N 17 
+FIX C5  C6   SING N N 18 
+FIX C6  O6   DOUB N N 19 
+FIX C6  H6   SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FIX SMILES           ACDLabs              10.04 "O=C(O)C(O)C(O)C(O)C(=O)C=O"                                                            
+FIX SMILES_CANONICAL CACTVS               3.341 "O[C@H]([C@H](O)C(O)=O)[C@H](O)C(=O)C=O"                                                
+FIX SMILES           CACTVS               3.341 "O[CH]([CH](O)C(O)=O)[CH](O)C(=O)C=O"                                                   
+FIX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)C(=O)[C@H]([C@@H]([C@@H](C(=O)O)O)O)O"                                            
+FIX SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)C(=O)C(C(C(C(=O)O)O)O)O"                                                          
+FIX InChI            InChI                1.03  "InChI=1S/C6H8O7/c7-1-2(8)3(9)4(10)5(11)6(12)13/h1,3-5,9-11H,(H,12,13)/t3-,4+,5+/m1/s1" 
+FIX InChIKey         InChI                1.03  VLFFNIKCNGLGIG-WISUUJSJSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FIX "SYSTEMATIC NAME" ACDLabs              10.04 "D-fructosuronic acid"                                
+FIX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S,4S)-2,3,4-trihydroxy-5,6-dioxo-hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FIX "Create component"  2009-05-26 RCSB 
+FIX "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,120 @@
+data_CG3
+# 
+_chem_comp.id                                    CG3 
+_chem_comp.name                                  "HYDROXY(2-HYDROXYPHENYL)OXOAMMONIUM" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2009-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        140.117 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CG3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2WNB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CG3 NBG NBG N 1 1 N N N 36.236 26.409 42.848 -1.523 0.297  0.007  NBG CG3 1  
+CG3 OBH OBH O 0 1 N N N 36.130 26.908 41.519 -2.114 1.362  -0.011 OBH CG3 2  
+CG3 OBI OBI O 0 1 N N N 35.707 27.221 43.812 -2.151 -0.747 0.022  OBI CG3 3  
+CG3 CBB CBB C 0 1 Y N N 37.057 25.381 43.134 -0.184 0.273  0.005  CBB CG3 4  
+CG3 CAW CAW C 0 1 Y N N 37.031 24.187 42.390 0.508  -0.959 0.015  CAW CG3 5  
+CG3 CAX CAX C 0 1 Y N N 37.871 23.103 42.669 1.894  -0.962 0.013  CAX CG3 6  
+CG3 CAY CAY C 0 1 Y N N 38.822 23.271 43.702 2.589  0.231  0.002  CAY CG3 7  
+CG3 CAZ CAZ C 0 1 Y N N 38.806 24.463 44.393 1.911  1.443  -0.007 CAZ CG3 8  
+CG3 CBA CBA C 0 1 Y N N 38.021 25.570 44.150 0.547  1.476  -0.012 CBA CG3 9  
+CG3 OAO OAO O 0 1 N N N 36.047 24.042 41.397 -0.178 -2.127 0.026  OAO CG3 10 
+CG3 HBA HBA H 0 1 N N N 38.133 26.499 44.688 0.029  2.423  -0.024 HBA CG3 11 
+CG3 HAZ HAZ H 0 1 N N N 39.491 24.539 45.225 2.469  2.368  -0.014 HAZ CG3 12 
+CG3 HAY HAY H 0 1 N N N 39.534 22.495 43.940 3.668  0.222  0.001  HAY CG3 13 
+CG3 HAX HAX H 0 1 N N N 37.796 22.177 42.118 2.431  -1.899 0.020  HAX CG3 14 
+CG3 HAO HAO H 0 1 N N N 35.189 24.009 41.803 -0.379 -2.474 -0.854 HAO CG3 15 
+CG3 HBO HBO H 0 1 N N N 36.106 27.858 41.538 -3.080 1.328  -0.013 HBO CG3 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CG3 OBH NBG SING N N 1  
+CG3 NBG OBI DOUB N N 2  
+CG3 NBG CBB SING N N 3  
+CG3 CBB CBA DOUB Y N 4  
+CG3 CBB CAW SING Y N 5  
+CG3 CBA CAZ SING Y N 6  
+CG3 CAZ CAY DOUB Y N 7  
+CG3 CAY CAX SING Y N 8  
+CG3 CAX CAW DOUB Y N 9  
+CG3 CAW OAO SING N N 10 
+CG3 CBA HBA SING N N 11 
+CG3 CAZ HAZ SING N N 12 
+CG3 CAY HAY SING N N 13 
+CG3 CAX HAX SING N N 14 
+CG3 OAO HAO SING N N 15 
+CG3 OBH HBO SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CG3 SMILES           ACDLabs              10.04 "O=[N+](O)c1ccccc1O"                                             
+CG3 SMILES_CANONICAL CACTVS               3.352 "Oc1ccccc1[N+](O)=O"                                             
+CG3 SMILES           CACTVS               3.352 "Oc1ccccc1[N+](O)=O"                                             
+CG3 SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "c1ccc(c(c1)[N+](=O)O)O"                                         
+CG3 SMILES           "OpenEye OEToolkits" 1.6.1 "c1ccc(c(c1)[N+](=O)O)O"                                         
+CG3 InChI            InChI                1.03  "InChI=1S/C6H5NO3/c8-6-4-2-1-3-5(6)7(9)10/h1-4H,(H-,8,9,10)/p+1" 
+CG3 InChIKey         InChI                1.03  CQQWRROYUSGJIU-UHFFFAOYSA-O                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CG3 "SYSTEMATIC NAME" ACDLabs              10.04 "hydroxy(2-hydroxyphenyl)oxoammonium"   
+CG3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "hydroxy-(2-hydroxyphenyl)-oxo-azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CG3 "Create component"     2009-07-08 EBI  
+CG3 "Modify aromatic_flag" 2011-06-04 RCSB 
+CG3 "Modify descriptor"    2011-06-04 RCSB 
+# 

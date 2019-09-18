@@ -1,0 +1,129 @@
+data_HV5
+# 
+_chem_comp.id                                    HV5 
+_chem_comp.name                                  TERT-BUTYLALANINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H13 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2009-01-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      TBG 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        131.173 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     HV5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HV5 N    N    N 0 1 N N N -6.760  17.067 23.253 1.848  -0.625 0.134  N    HV5 1  
+HV5 CA   CA   C 0 1 N N S -8.140  17.078 23.695 0.392  -0.696 -0.046 CA   HV5 2  
+HV5 CB   CB   C 0 1 N N N -8.920  16.179 22.691 -0.299 0.079  1.076  CB   HV5 3  
+HV5 CG1  CG1  C 0 1 N N N -10.320 15.871 23.171 0.076  -0.533 2.426  CG1  HV5 4  
+HV5 CG2  CG2  C 0 1 N N N -9.078  16.939 21.401 -1.816 0.005  0.887  CG2  HV5 5  
+HV5 CG3  CG3  C 0 1 N N N -8.252  14.829 22.382 0.148  1.541  1.036  CG3  HV5 6  
+HV5 C    C    C 0 1 N N N -8.258  16.620 25.172 0.021  -0.093 -1.376 C    HV5 7  
+HV5 O    O    O 0 1 N N N -7.960  15.460 25.545 0.695  0.791  -1.847 O    HV5 8  
+HV5 OXT  OXT  O 0 1 N Y N -8.671  17.529 26.081 -1.057 -0.540 -2.038 OXT  HV5 9  
+HV5 HN1  1HN  H 0 1 N N N -6.249  17.655 23.910 2.039  -0.942 1.073  HN1  HV5 10 
+HV5 HN2  2HN  H 0 1 N N N -6.642  17.347 22.279 2.097  0.351  0.101  HN2  HV5 11 
+HV5 HA   HA   H 0 1 N N N -8.577  18.103 23.692 0.073  -1.738 -0.018 HA   HV5 12 
+HV5 HG11 1HG1 H 0 0 N N N -10.878 15.227 22.452 -0.416 0.019  3.226  HG11 HV5 13 
+HV5 HG12 2HG1 H 0 0 N N N -10.307 15.420 24.190 -0.242 -1.574 2.455  HG12 HV5 14 
+HV5 HG13 3HG1 H 0 0 N N N -10.883 16.805 23.398 1.157  -0.480 2.561  HG13 HV5 15 
+HV5 HG21 1HG2 H 0 0 N N N -9.636  16.295 20.682 -2.135 -1.036 0.915  HG21 HV5 16 
+HV5 HG22 2HG2 H 0 0 N N N -9.555  17.935 21.545 -2.309 0.558  1.687  HG22 HV5 17 
+HV5 HG23 3HG2 H 0 0 N N N -8.104  17.296 20.991 -2.084 0.441  -0.074 HG23 HV5 18 
+HV5 HG31 1HG3 H 0 0 N N N -8.810  14.185 21.663 1.228  1.594  1.170  HG31 HV5 19 
+HV5 HG32 2HG3 H 0 0 N N N -7.206  14.987 22.027 -0.119 1.977  0.074  HG32 HV5 20 
+HV5 HG33 3HG3 H 0 0 N N N -8.053  14.271 23.326 -0.344 2.094  1.835  HG33 HV5 21 
+HV5 HXT  HXT  H 0 1 N Y N -8.743  17.248 26.985 -1.295 -0.153 -2.892 HXT  HV5 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HV5 N   CA   SING N N 1  
+HV5 N   HN1  SING N N 2  
+HV5 N   HN2  SING N N 3  
+HV5 CA  CB   SING N N 4  
+HV5 CA  C    SING N N 5  
+HV5 CA  HA   SING N N 6  
+HV5 CB  CG1  SING N N 7  
+HV5 CB  CG2  SING N N 8  
+HV5 CB  CG3  SING N N 9  
+HV5 CG1 HG11 SING N N 10 
+HV5 CG1 HG12 SING N N 11 
+HV5 CG1 HG13 SING N N 12 
+HV5 CG2 HG21 SING N N 13 
+HV5 CG2 HG22 SING N N 14 
+HV5 CG2 HG23 SING N N 15 
+HV5 CG3 HG31 SING N N 16 
+HV5 CG3 HG32 SING N N 17 
+HV5 CG3 HG33 SING N N 18 
+HV5 C   O    DOUB N N 19 
+HV5 C   OXT  SING N N 20 
+HV5 OXT HXT  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HV5 SMILES           ACDLabs              10.04 "O=C(O)C(N)C(C)(C)C"                                                        
+HV5 InChI            InChI                1.02b "InChI=1/C6H13NO2/c1-6(2,3)4(7)5(8)9/h4H,7H2,1-3H3,(H,8,9)/t4-/m1/s1/f/h8H" 
+HV5 InChIKey         InChI                1.02b NPDBDJFLKKQMCM-SGLXVXOJDZ                                                   
+HV5 SMILES_CANONICAL CACTVS               3.341 "CC(C)(C)[C@H](N)C(O)=O"                                                    
+HV5 SMILES           CACTVS               3.341 "CC(C)(C)[CH](N)C(O)=O"                                                     
+HV5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C)[C@@H](C(=O)O)N"                                                   
+HV5 SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C)C(C(=O)O)N"                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HV5 "SYSTEMATIC NAME" ACDLabs              10.04 3-methyl-L-valine                         
+HV5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3,3-dimethyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HV5 "Create component" 1999-07-08 EBI 
+# 

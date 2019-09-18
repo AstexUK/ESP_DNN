@@ -1,0 +1,131 @@
+data_CGU
+# 
+_chem_comp.id                                    CGU 
+_chem_comp.name                                  "GAMMA-CARBOXY-GLUTAMIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H9 N O6" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2014-01-09 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        191.139 
+_chem_comp.one_letter_code                       E 
+_chem_comp.three_letter_code                     CGU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CGU N    N   N 0 1 N N N 84.153 39.598 35.110 -0.340 1.828  1.451  N    CGU 1  
+CGU CA   CA  C 0 1 N N S 84.103 40.544 36.215 -0.320 0.360  1.436  CA   CGU 2  
+CGU C    C   C 0 1 N N N 85.312 41.493 36.033 0.145  -0.150 2.775  C    CGU 3  
+CGU O    O   O 0 1 N N N 85.129 42.700 35.847 0.913  0.506  3.437  O    CGU 4  
+CGU OXT  OXT O 0 1 N Y N 86.524 40.944 35.948 -0.292 -1.334 3.231  OXT  CGU 5  
+CGU CB   CB  C 0 1 N N N 84.084 39.812 37.571 0.634  -0.125 0.344  CB   CGU 6  
+CGU CG   CG  C 0 1 N N N 82.904 39.995 38.557 0.161  0.392  -1.015 CG   CGU 7  
+CGU CD1  CD1 C 0 1 N N N 82.437 38.657 39.146 1.102  -0.085 -2.090 CD1  CGU 8  
+CGU CD2  CD2 C 0 1 N N N 81.785 40.785 37.909 -1.226 -0.125 -1.294 CD2  CGU 9  
+CGU OE11 OE1 O 0 0 N N N 81.395 38.662 39.841 2.053  -0.771 -1.799 OE11 CGU 10 
+CGU OE12 OE2 O 0 0 N N N 83.104 37.615 38.942 0.883  0.249  -3.371 OE12 CGU 11 
+CGU OE21 OE3 O 0 0 N N N 80.951 40.183 37.202 -1.779 -0.836 -0.489 OE21 CGU 12 
+CGU OE22 OE4 O 0 0 N N N 81.749 42.011 38.135 -1.847 0.202  -2.438 OE22 CGU 13 
+CGU H    1HN H 0 1 N N N 83.356 38.972 35.229 0.603  2.129  1.641  H    CGU 14 
+CGU HN2  2HN H 0 1 N Y N 85.044 39.107 35.037 -0.556 2.125  0.511  HN2  CGU 15 
+CGU HA   HA  H 0 1 N N N 83.162 41.143 36.211 -1.324 -0.014 1.233  HA   CGU 16 
+CGU HXT  HXT H 0 1 N Y N 87.266 41.526 35.836 0.006  -1.661 4.091  HXT  CGU 17 
+CGU HB2  1HB H 0 1 N N N 84.208 38.720 37.378 1.637  0.249  0.546  HB2  CGU 18 
+CGU HB3  2HB H 0 1 N N N 85.028 40.057 38.110 0.649  -1.215 0.332  HB3  CGU 19 
+CGU HG   HG  H 0 1 N N N 83.262 40.593 39.426 0.146  1.482  -1.003 HG   CGU 20 
+CGU HE12 HE2 H 0 0 N N N 82.814 36.786 39.306 1.486  -0.057 -4.061 HE12 CGU 21 
+CGU HE22 HE4 H 0 0 N N N 81.047 42.506 37.728 -2.737 -0.129 -2.618 HE22 CGU 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CGU N    CA   SING N N 1  
+CGU N    H    SING N N 2  
+CGU N    HN2  SING N N 3  
+CGU CA   C    SING N N 4  
+CGU CA   CB   SING N N 5  
+CGU CA   HA   SING N N 6  
+CGU C    O    DOUB N N 7  
+CGU C    OXT  SING N N 8  
+CGU OXT  HXT  SING N N 9  
+CGU CB   CG   SING N N 10 
+CGU CB   HB2  SING N N 11 
+CGU CB   HB3  SING N N 12 
+CGU CG   CD1  SING N N 13 
+CGU CG   CD2  SING N N 14 
+CGU CG   HG   SING N N 15 
+CGU CD1  OE11 DOUB N N 16 
+CGU CD1  OE12 SING N N 17 
+CGU CD2  OE21 DOUB N N 18 
+CGU CD2  OE22 SING N N 19 
+CGU OE12 HE12 SING N N 20 
+CGU OE22 HE22 SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CGU SMILES           ACDLabs              10.04 "O=C(O)C(C(=O)O)CC(N)C(=O)O"                                                                      
+CGU SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC(C(O)=O)C(O)=O)C(O)=O"                                                                 
+CGU SMILES           CACTVS               3.341 "N[CH](CC(C(O)=O)C(O)=O)C(O)=O"                                                                   
+CGU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)C(=O)O)[C@@H](C(=O)O)N"                                                               
+CGU SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)C(=O)O)C(C(=O)O)N"                                                                    
+CGU InChI            InChI                1.03  "InChI=1S/C6H9NO6/c7-3(6(12)13)1-2(4(8)9)5(10)11/h2-3H,1,7H2,(H,8,9)(H,10,11)(H,12,13)/t3-/m0/s1" 
+CGU InChIKey         InChI                1.03  UHBYWPGGCSDKFX-VKHMYHEASA-N                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CGU "SYSTEMATIC NAME" ACDLabs              10.04 "(3S)-3-aminopropane-1,1,3-tricarboxylic acid" 
+CGU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3S)-3-aminopropane-1,1,3-tricarboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CGU "Create component"         1999-07-08 EBI  
+CGU "Modify descriptor"        2011-06-04 RCSB 
+CGU "Modify leaving atom flag" 2014-01-09 RCSB 
+# 

@@ -1,0 +1,134 @@
+data_ILX
+# 
+_chem_comp.id                                    ILX 
+_chem_comp.name                                  4,5-DIHYDROXYISOLEUCINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H13 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ILE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-10-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.172 
+_chem_comp.one_letter_code                       I 
+_chem_comp.three_letter_code                     ILX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ILX N    N    N 0 1 N N N 56.169 97.252  39.961 -0.340 3.038  4.724  N    ILX 1  
+ILX CA   CA   C 0 1 N N S 55.044 98.324  40.040 0.705  2.146  4.221  CA   ILX 2  
+ILX C    C    C 0 1 N N N 55.584 99.548  40.821 2.048  2.791  4.529  C    ILX 3  
+ILX O    O    O 0 1 N N N 55.474 100.657 40.365 2.279  3.993  4.508  O    ILX 4  
+ILX CB   CB   C 0 1 N N R 53.793 97.732  40.849 0.571  1.804  2.710  CB   ILX 5  
+ILX CG1  CG1  C 0 1 N N R 52.893 96.859  39.980 1.614  0.772  2.207  CG1  ILX 6  
+ILX OG1  OG1  O 0 1 N N N 53.650 95.733  39.353 1.612  -0.382 3.047  OG1  ILX 7  
+ILX CG2  CG2  C 0 1 N N N 52.895 98.812  41.414 0.579  3.092  1.871  CG2  ILX 8  
+ILX CD1  CD1  C 0 1 N N N 51.725 96.241  40.806 1.349  0.318  0.771  CD1  ILX 9  
+ILX OD1  OD1  O 0 1 N N N 50.780 95.399  40.066 2.373  -0.593 0.382  OD1  ILX 10 
+ILX OXT  OXT  O 0 1 N Y N ?      ?       ?      2.997  1.867  4.836  OXT  ILX 11 
+ILX H    H    H 0 1 N N N 56.115 96.653  40.760 -0.647 3.778  4.132  H    ILX 12 
+ILX H2   HN2  H 0 1 N Y N 57.061 97.704  39.944 -0.557 3.001  5.695  H2   ILX 13 
+ILX HA   HA   H 0 1 N N N 54.735 98.609  39.023 0.648  1.223  4.812  HA   ILX 14 
+ILX HB   HB   H 0 1 N N N 54.256 97.145  41.656 -0.418 1.346  2.573  HB   ILX 15 
+ILX HG11 1HG1 H 0 0 N N N 52.494 97.523  39.199 2.621  1.201  2.260  HG11 ILX 16 
+ILX HG1  HG1  H 0 1 N N N 54.554 95.994  39.220 0.775  -0.841 2.880  HG1  ILX 17 
+ILX HG21 1HG2 H 0 0 N N N 52.862 99.663  40.717 1.560  3.577  1.868  HG21 ILX 18 
+ILX HG22 2HG2 H 0 0 N N N 53.291 99.147  42.384 0.305  2.885  0.832  HG22 ILX 19 
+ILX HG23 3HG2 H 0 0 N N N 51.880 98.411  41.551 -0.152 3.810  2.258  HG23 ILX 20 
+ILX HD12 1HD1 H 0 0 N N N 51.137 97.095  41.174 1.376  1.160  0.072  HD12 ILX 21 
+ILX HD13 2HD1 H 0 0 N N N 52.176 95.614  41.590 0.388  -0.199 0.691  HD13 ILX 22 
+ILX HD1  HD1  H 0 1 N N N 51.171 94.548  39.906 2.035  -1.075 -0.389 HD1  ILX 23 
+ILX HXT  HXT  H 0 1 N Y N 0.331  0.751   0.479  3.885  2.231  5.041  HXT  ILX 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ILX N   CA   SING N N 1  
+ILX N   H    SING N N 2  
+ILX N   H2   SING N N 3  
+ILX CA  C    SING N N 4  
+ILX CA  CB   SING N N 5  
+ILX CA  HA   SING N N 6  
+ILX C   O    DOUB N N 7  
+ILX C   OXT  SING N N 8  
+ILX CB  CG1  SING N N 9  
+ILX CB  CG2  SING N N 10 
+ILX CB  HB   SING N N 11 
+ILX CG1 OG1  SING N N 12 
+ILX CG1 CD1  SING N N 13 
+ILX CG1 HG11 SING N N 14 
+ILX OG1 HG1  SING N N 15 
+ILX CG2 HG21 SING N N 16 
+ILX CG2 HG22 SING N N 17 
+ILX CG2 HG23 SING N N 18 
+ILX CD1 OD1  SING N N 19 
+ILX CD1 HD12 SING N N 20 
+ILX CD1 HD13 SING N N 21 
+ILX OD1 HD1  SING N N 22 
+ILX OXT HXT  SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ILX SMILES           ACDLabs              10.04 "O=C(O)C(N)C(C)C(O)CO"                                                                     
+ILX SMILES_CANONICAL CACTVS               3.341 "C[C@H]([C@H](N)C(O)=O)[C@@H](O)CO"                                                        
+ILX SMILES           CACTVS               3.341 "C[CH]([CH](N)C(O)=O)[CH](O)CO"                                                            
+ILX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H]([C@H](CO)O)[C@@H](C(=O)O)N"                                                       
+ILX SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(CO)O)C(C(=O)O)N"                                                                     
+ILX InChI            InChI                1.03  "InChI=1S/C6H13NO4/c1-3(4(9)2-8)5(7)6(10)11/h3-5,8-9H,2,7H2,1H3,(H,10,11)/t3-,4-,5-/m0/s1" 
+ILX InChIKey         InChI                1.03  SGFRTCOTCWGGHB-YUPRTTJUSA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ILX "SYSTEMATIC NAME" ACDLabs              10.04 "(2S,3R,4R)-2-amino-4,5-dihydroxy-3-methylpentanoic acid (non-preferred name)" 
+ILX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3R,4R)-2-amino-4,5-dihydroxy-3-methyl-pentanoic acid"                     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ILX "Create component"  2001-10-29 RCSB 
+ILX "Modify descriptor" 2011-06-04 RCSB 
+# 

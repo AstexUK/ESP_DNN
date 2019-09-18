@@ -1,0 +1,119 @@
+data_SHF
+# 
+_chem_comp.id                                    SHF 
+_chem_comp.name                                  "LAEVULINIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "LEVULINIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-12-22 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        116.115 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SHF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H7N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SHF C4  C4  C 0 1 N N N 19.412 24.768 16.284 -1.936 -0.075 -0.001 C4  SHF 1  
+SHF C5  C5  C 0 1 N N N 19.191 25.162 17.732 -3.159 0.807  -0.001 C5  SHF 2  
+SHF C3  C3  C 0 1 N N N 19.771 25.848 15.276 -0.562 0.544  -0.000 C3  SHF 3  
+SHF C2  C2  C 0 1 N N N 21.270 25.920 15.035 0.495  -0.563 -0.001 C2  SHF 4  
+SHF C1  C1  C 0 1 N N N 21.644 26.849 13.884 1.869  0.055  -0.000 C1  SHF 5  
+SHF O4  O4  O 0 1 N Y N 19.286 23.530 15.910 -2.058 -1.276 0.002  O4  SHF 6  
+SHF O1  O1  O 0 1 N N N 20.818 27.696 13.474 1.991  1.257  0.002  O1  SHF 7  
+SHF OH1 OH1 O 0 1 N N N 22.786 26.714 13.396 2.958  -0.730 -0.001 OH1 SHF 8  
+SHF H51 H51 H 0 1 N N N 18.932 24.269 18.320 -3.153 1.437  -0.890 H51 SHF 9  
+SHF H52 H52 H 0 1 N N N 20.111 25.611 18.134 -4.054 0.185  -0.002 H52 SHF 10 
+SHF H53 H53 H 0 1 N N N 18.370 25.892 17.792 -3.153 1.435  0.890  H53 SHF 11 
+SHF H31 H31 H 0 1 N N N 19.267 25.627 14.323 -0.441 1.162  -0.889 H31 SHF 12 
+SHF H32 H32 H 0 1 N N N 19.425 26.820 15.657 -0.442 1.160  0.891  H32 SHF 13 
+SHF H21 H21 H 0 1 N N N 21.755 26.285 15.952 0.374  -1.182 0.888  H21 SHF 14 
+SHF H22 H22 H 0 1 N N N 21.637 24.909 14.803 0.375  -1.179 -0.892 H22 SHF 15 
+SHF HO1 HO1 H 0 1 N N N 22.906 27.341 12.692 3.818  -0.287 0.000  HO1 SHF 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SHF C4  C5  SING N N 1  
+SHF C4  C3  SING N N 2  
+SHF C4  O4  DOUB N N 3  
+SHF C5  H51 SING N N 4  
+SHF C5  H52 SING N N 5  
+SHF C5  H53 SING N N 6  
+SHF C3  C2  SING N N 7  
+SHF C3  H31 SING N N 8  
+SHF C3  H32 SING N N 9  
+SHF C2  C1  SING N N 10 
+SHF C2  H21 SING N N 11 
+SHF C2  H22 SING N N 12 
+SHF C1  O1  DOUB N N 13 
+SHF C1  OH1 SING N N 14 
+SHF OH1 HO1 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SHF SMILES           ACDLabs              12.01 "O=C(C)CCC(=O)O"                                      
+SHF InChI            InChI                1.03  "InChI=1S/C5H8O3/c1-4(6)2-3-5(7)8/h2-3H2,1H3,(H,7,8)" 
+SHF InChIKey         InChI                1.03  JOOXCMJARBKPKM-UHFFFAOYSA-N                           
+SHF SMILES_CANONICAL CACTVS               3.370 "CC(=O)CCC(O)=O"                                      
+SHF SMILES           CACTVS               3.370 "CC(=O)CCC(O)=O"                                      
+SHF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(=O)CCC(=O)O"                                      
+SHF SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=O)CCC(=O)O"                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SHF "SYSTEMATIC NAME" ACDLabs              12.01 "4-oxopentanoic acid"           
+SHF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "4-oxidanylidenepentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SHF "Create component"  1999-07-08 RCSB 
+SHF "Modify descriptor" 2011-06-04 RCSB 
+SHF "Modify synonyms"   2011-12-22 RCSB 
+# 

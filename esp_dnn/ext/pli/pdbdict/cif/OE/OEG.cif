@@ -1,0 +1,120 @@
+data_OEG
+# 
+_chem_comp.id                                    OEG 
+_chem_comp.name                                  
+;2,2'-oxydiacetic acid
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.087 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OEG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2R00 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OEG C1 C1 C 0 1 N N N 7.408 15.616 51.032 2.394  -0.062 -0.001 C1 OEG 1  
+OEG O1 O1 O 0 1 N N N 8.061 14.708 50.452 2.235  -1.260 0.002  O1 OEG 2  
+OEG C2 C2 C 0 1 N N N 7.905 16.258 52.342 1.199  0.855  0.000  C2 OEG 3  
+OEG O2 O2 O 0 1 N N N 6.954 16.409 53.438 -0.000 0.077  -0.001 O2 OEG 4  
+OEG C3 C3 C 0 1 N N N 6.062 17.515 53.149 -1.199 0.855  0.001  C3 OEG 5  
+OEG C4 C4 C 0 1 N N N 5.411 18.062 54.417 -2.394 -0.062 -0.000 C4 OEG 6  
+OEG O3 O3 O 0 1 N N N 5.635 19.257 54.714 -2.235 -1.260 -0.002 O3 OEG 7  
+OEG O4 O4 O 0 1 N N N 4.684 17.294 55.084 -3.634 0.451  0.001  O4 OEG 8  
+OEG O5 O5 O 0 1 N N N 6.175 16.062 50.461 3.634  0.451  -0.001 O5 OEG 9  
+OEG H1 H1 H 0 1 N N N 8.720 15.621 52.717 1.224  1.483  0.891  H1 OEG 10 
+OEG H2 H2 H 0 1 N N N 8.174 17.287 52.063 1.223  1.485  -0.889 H2 OEG 11 
+OEG H3 H3 H 0 1 N N N 6.641 18.321 52.673 -1.223 1.483  0.891  H3 OEG 12 
+OEG H4 H4 H 0 1 N N N 5.266 17.150 52.484 -1.224 1.485  -0.888 H4 OEG 13 
+OEG H5 H5 H 0 1 N N N 4.338 17.759 55.837 -4.369 -0.178 0.000  H5 OEG 14 
+OEG H6 H6 H 0 1 N N N 6.002 15.578 49.662 4.369  -0.178 -0.002 H6 OEG 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OEG C1 C2 SING N N 1  
+OEG C1 O5 SING N N 2  
+OEG O1 C1 DOUB N N 3  
+OEG C2 O2 SING N N 4  
+OEG C3 O2 SING N N 5  
+OEG C3 C4 SING N N 6  
+OEG C4 O3 DOUB N N 7  
+OEG C4 O4 SING N N 8  
+OEG C2 H1 SING N N 9  
+OEG C2 H2 SING N N 10 
+OEG C3 H3 SING N N 11 
+OEG C3 H4 SING N N 12 
+OEG O4 H5 SING N N 13 
+OEG O5 H6 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OEG SMILES           ACDLabs              10.04 "O=C(O)COCC(=O)O"                                          
+OEG SMILES_CANONICAL CACTVS               3.341 "OC(=O)COCC(O)=O"                                          
+OEG SMILES           CACTVS               3.341 "OC(=O)COCC(O)=O"                                          
+OEG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)OCC(=O)O"                                        
+OEG SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)OCC(=O)O"                                        
+OEG InChI            InChI                1.03  "InChI=1S/C4H6O5/c5-3(6)1-9-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)" 
+OEG InChIKey         InChI                1.03  QEVGZEDELICMKH-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OEG "SYSTEMATIC NAME" ACDLabs              10.04 
+;2,2'-oxydiacetic acid
+;
+OEG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(carboxymethyloxy)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OEG "Create component"  2008-03-28 RCSB 
+OEG "Modify descriptor" 2011-06-04 RCSB 
+# 

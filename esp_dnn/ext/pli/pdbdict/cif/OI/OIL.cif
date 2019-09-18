@@ -1,0 +1,128 @@
+data_OIL
+# 
+_chem_comp.id                                    OIL 
+_chem_comp.name                                  "(2S,3S)-2-hydroxy-3-methylpentanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H12 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-01-13 
+_chem_comp.pdbx_modified_date                    2011-10-28 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OIL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3NWQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OIL C    C    C 0 1 N N N 3.332  -5.603 8.764  1.651  0.109  0.008  C    OIL 1  
+OIL O    O    O 0 1 N N N 4.429  -5.086 8.579  2.433  -0.569 0.630  O    OIL 2  
+OIL O1   O1   O 0 1 N N N 3.474  -5.343 11.149 0.369  -1.902 -0.241 O1   OIL 3  
+OIL CA   CA   C 0 1 N N S 2.546  -5.341 10.028 0.371  -0.498 -0.507 CA   OIL 4  
+OIL CB   CB   C 0 1 N N S 1.912  -3.955 10.033 -0.822 0.155  0.195  CB   OIL 5  
+OIL CD1  CD1  C 0 1 N N N 0.324  -2.355 11.274 -3.305 0.101  0.461  CD1  OIL 6  
+OIL CG1  CG1  C 0 1 N N N 0.803  -3.790 11.079 -2.121 -0.461 -0.327 CG1  OIL 7  
+OIL CG2  CG2  C 0 1 N N N 1.562  -3.384 8.647  -0.820 1.658  -0.089 CG2  OIL 8  
+OIL OXT  O3   O 0 1 N Y N 2.787  -6.469 7.765  1.918  1.404  -0.221 O3   OIL 9  
+OIL HO1  HO1  H 0 1 N Y N 4.362  -5.248 10.826 0.433  -2.125 0.698  HO1  OIL 10 
+OIL HA   HA   H 0 1 N N N 1.766  -6.114 10.094 0.296  -0.332 -1.581 HA   OIL 11 
+OIL HB   HB   H 0 1 N N N 2.727  -3.298 10.371 -0.747 -0.012 1.270  HB   OIL 12 
+OIL HD1  HD1  H 0 1 N N N -0.467 -2.333 12.038 -3.187 -0.141 1.517  HD1  OIL 13 
+OIL HD1A HD1A H 0 0 N N N 1.167  -1.728 11.601 -3.342 1.184  0.339  HD1A OIL 14 
+OIL HD1B HD1B H 0 0 N N N -0.073 -1.969 10.324 -4.231 -0.338 0.089  HD1B OIL 15 
+OIL HG1  HG1  H 0 1 N N N -0.059 -4.391 10.753 -2.239 -0.219 -1.383 HG1  OIL 16 
+OIL HG1A HG1A H 0 0 N N N 1.194  -4.148 12.043 -2.084 -1.544 -0.205 HG1A OIL 17 
+OIL HG2  HG2  H 0 1 N N N 1.113  -2.387 8.763  -1.669 2.124  0.411  HG2  OIL 18 
+OIL HG2A HG2A H 0 0 N N N 2.477  -3.306 8.041  0.106  2.097  0.283  HG2A OIL 19 
+OIL HG2B HG2B H 0 0 N N N 0.846  -4.052 8.146  -0.895 1.825  -1.164 HG2B OIL 20 
+OIL HXT  H12  H 0 1 N Y N 3.393  -6.533 7.036  2.752  1.748  0.129  H12  OIL 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OIL C   CA   SING N N 1  
+OIL C   OXT  SING N N 2  
+OIL O   C    DOUB N N 3  
+OIL O1  HO1  SING N N 4  
+OIL CA  O1   SING N N 5  
+OIL CA  CB   SING N N 6  
+OIL CA  HA   SING N N 7  
+OIL CB  CG1  SING N N 8  
+OIL CB  HB   SING N N 9  
+OIL CD1 HD1  SING N N 10 
+OIL CD1 HD1A SING N N 11 
+OIL CD1 HD1B SING N N 12 
+OIL CG1 CD1  SING N N 13 
+OIL CG1 HG1  SING N N 14 
+OIL CG1 HG1A SING N N 15 
+OIL CG2 CB   SING N N 16 
+OIL CG2 HG2  SING N N 17 
+OIL CG2 HG2A SING N N 18 
+OIL CG2 HG2B SING N N 19 
+OIL OXT HXT  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OIL SMILES           ACDLabs              12.01 "O=C(O)C(O)C(C)CC"                                                           
+OIL SMILES_CANONICAL CACTVS               3.370 "CC[C@H](C)[C@H](O)C(O)=O"                                                   
+OIL SMILES           CACTVS               3.370 "CC[CH](C)[CH](O)C(O)=O"                                                     
+OIL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC[C@H](C)[C@@H](C(=O)O)O"                                                  
+OIL SMILES           "OpenEye OEToolkits" 1.7.0 "CCC(C)C(C(=O)O)O"                                                           
+OIL InChI            InChI                1.03  "InChI=1S/C6H12O3/c1-3-4(2)5(7)6(8)9/h4-5,7H,3H2,1-2H3,(H,8,9)/t4-,5-/m0/s1" 
+OIL InChIKey         InChI                1.03  RILPIWOPNGRASR-WHFBIAKZSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OIL "SYSTEMATIC NAME" ACDLabs              12.01 "(2S,3S)-2-hydroxy-3-methylpentanoic acid"  
+OIL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S,3S)-2-hydroxy-3-methyl-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OIL "Other modification" 2011-01-13 RCSB 
+OIL "Modify descriptor"  2011-06-04 RCSB 
+# 

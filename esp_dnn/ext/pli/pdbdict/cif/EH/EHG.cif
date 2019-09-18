@@ -1,0 +1,177 @@
+data_EHG
+# 
+_chem_comp.id                                    EHG 
+_chem_comp.name                                  "9-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-6-(2-hydroxyethoxy)-9H-purin-2-amine" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C12 H18 N5 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               DG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-04-27 
+_chem_comp.pdbx_modified_date                    2012-06-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        391.274 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EHG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4ENJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EHG OP2    O2P    O 0 1 N N N 23.514 -27.930 5.703 7.068  0.437  -0.054 OP2    EHG 1  
+EHG P      P      P 0 1 N N N 24.984 -27.776 6.267 5.773  1.289  0.380  P      EHG 2  
+EHG OP1    O1P    O 0 1 N N N 25.395 -26.309 6.642 5.514  2.341  -0.629 OP1    EHG 3  
+EHG "O5'"  "O5'"  O 0 1 N N N 25.973 -28.422 5.261 4.496  0.314  0.477  "O5'"  EHG 4  
+EHG "C5'"  "C5'"  C 0 1 N N N 27.350 -28.156 5.286 3.944  -0.361 -0.656 "C5'"  EHG 5  
+EHG "C4'"  "C4'"  C 0 1 N N R 27.872 -27.561 4.092 2.744  -1.201 -0.214 "C4'"  EHG 6  
+EHG "C3'"  "C3'"  C 0 1 N N S 29.290 -27.230 4.234 2.208  -2.037 -1.397 "C3'"  EHG 7  
+EHG "O3'"  "O3'"  O 0 1 N N N 29.912 -27.470 3.034 2.708  -3.374 -1.334 "O3'"  EHG 8  
+EHG "C2'"  "C2'"  C 0 1 N N N 29.277 -25.801 4.548 0.675  -2.023 -1.202 "C2'"  EHG 9  
+EHG "O4'"  "O4'"  O 0 1 N N N 27.160 -26.310 3.895 1.643  -0.347 0.164  "O4'"  EHG 10 
+EHG "C1'"  "C1'"  C 0 1 N N R 28.118 -25.318 3.755 0.467  -1.180 0.076  "C1'"  EHG 11 
+EHG N9     N9     N 0 1 Y N N 27.522 -24.109 4.197 -0.736 -0.354 -0.049 N9     EHG 12 
+EHG C8     C8     C 0 1 Y N N 26.404 -24.078 4.946 -0.792 0.925  -0.521 C8     EHG 13 
+EHG N7     N7     N 0 1 Y N N 26.066 -22.776 5.197 -2.019 1.357  -0.493 N7     EHG 14 
+EHG C5     C5     C 0 1 Y N N 27.019 -21.972 4.556 -2.827 0.385  -0.002 C5     EHG 15 
+EHG C4     C4     C 0 1 Y N N 27.926 -22.783 3.924 -2.014 -0.725 0.283  C4     EHG 16 
+EHG C6     C6     C 0 1 Y N N 27.191 -20.546 4.454 -4.205 0.284  0.250  C6     EHG 17 
+EHG N1     N1     N 0 1 Y N N 28.217 -20.043 3.761 -4.677 -0.850 0.750  N1     EHG 18 
+EHG C2     C2     C 0 1 Y N N 29.104 -20.846 3.149 -3.873 -1.873 1.010  C2     EHG 19 
+EHG N2     N2     N 0 1 N N N 30.184 -20.238 2.442 -4.419 -3.038 1.524  N2     EHG 20 
+EHG N3     N3     N 0 1 Y N N 28.982 -22.205 3.216 -2.572 -1.826 0.776  N3     EHG 21 
+EHG O6     O6     O 0 1 N N N 26.294 -19.732 5.113 -5.033 1.323  -0.012 O6     EHG 22 
+EHG C1X    C1X    C 0 1 N N N 26.343 -18.351 4.938 -6.421 1.135  0.275  C1X    EHG 23 
+EHG C2X    C2X    C 0 1 N N N 25.009 -17.601 4.936 -7.193 2.406  -0.083 C2X    EHG 24 
+EHG OX     OX     O 0 1 N N N 24.184 -17.727 6.008 -7.124 2.624  -1.494 OX     EHG 25 
+EHG HOP2   HOP2   H 0 0 N N N 23.093 -27.079 5.678 7.297  -0.272 0.562  HOP2   EHG 26 
+EHG "H5'"  "H5'"  H 0 1 N Y N 27.878 -29.106 5.453 3.620  0.374  -1.394 "H5'"  EHG 27 
+EHG "H5''" "H5''" H 0 0 N N N 27.551 -27.472 6.124 4.700  -1.010 -1.096 "H5''" EHG 28 
+EHG "H4'"  "H4'"  H 0 1 N N N 27.722 -28.227 3.229 3.023  -1.852 0.615  "H4'"  EHG 29 
+EHG "H3'"  "H3'"  H 0 1 N N N 29.742 -27.804 5.056 2.476  -1.572 -2.346 "H3'"  EHG 30 
+EHG "HO3'" "HO3'" H 0 0 N N N 30.836 -27.260 3.108 2.402  -3.943 -2.054 "HO3'" EHG 31 
+EHG "H2'"  "H2'"  H 0 1 N N N 30.210 -25.314 4.229 0.186  -1.551 -2.055 "H2'"  EHG 32 
+EHG "H2''" "H2''" H 0 0 N N N 29.124 -25.630 5.624 0.299  -3.036 -1.060 "H2''" EHG 33 
+EHG "H1'"  "H1'"  H 0 1 N N N 28.420 -25.223 2.702 0.393  -1.827 0.950  "H1'"  EHG 34 
+EHG H8     H8     H 0 1 N N N 25.860 -24.944 5.294 0.058  1.495  -0.867 H8     EHG 35 
+EHG H21    H21    H 0 1 N N N 30.768 -20.949 2.049 -3.849 -3.801 1.707  H21    EHG 36 
+EHG H22    H22    H 0 1 N N N 29.821 -19.663 1.709 -5.371 -3.091 1.702  H22    EHG 37 
+EHG H1X1   H1X1   H 0 0 N N N 26.834 -18.156 3.973 -6.803 0.300  -0.313 H1X1   EHG 38 
+EHG H1X2   H1X2   H 0 0 N N N 26.956 -17.935 5.752 -6.547 0.920  1.336  H1X2   EHG 39 
+EHG H2X2   H2X2   H 0 0 N N N 25.240 -16.531 4.831 -8.235 2.295  0.217  H2X2   EHG 40 
+EHG H2X1   H2X1   H 0 0 N N N 24.447 -17.943 4.054 -6.753 3.257  0.438  H2X1   EHG 41 
+EHG HOX    HOX    H 0 1 N N N 23.400 -17.209 5.867 -7.593 3.415  -1.793 HOX    EHG 42 
+EHG OP3    O3P    O 0 1 N Y N ?      ?       ?     6.036  1.973  1.813  OP3    EHG 43 
+EHG HOP3   HOP3   H 0 0 N Y N ?      ?       ?     6.793  2.575  1.829  HOP3   EHG 44 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EHG N2    C2     SING N N 1  
+EHG "O3'" "C3'"  SING N N 2  
+EHG C2    N3     DOUB Y N 3  
+EHG C2    N1     SING Y N 4  
+EHG N3    C4     SING Y N 5  
+EHG "C1'" "O4'"  SING N N 6  
+EHG "C1'" N9     SING N N 7  
+EHG "C1'" "C2'"  SING N N 8  
+EHG N1    C6     DOUB Y N 9  
+EHG "O4'" "C4'"  SING N N 10 
+EHG C4    N9     SING Y N 11 
+EHG C4    C5     DOUB Y N 12 
+EHG "C4'" "C3'"  SING N N 13 
+EHG "C4'" "C5'"  SING N N 14 
+EHG N9    C8     SING Y N 15 
+EHG "C3'" "C2'"  SING N N 16 
+EHG C6    C5     SING Y N 17 
+EHG C6    O6     SING N N 18 
+EHG C5    N7     SING Y N 19 
+EHG C2X   C1X    SING N N 20 
+EHG C2X   OX     SING N N 21 
+EHG C1X   O6     SING N N 22 
+EHG C8    N7     DOUB Y N 23 
+EHG "O5'" "C5'"  SING N N 24 
+EHG "O5'" P      SING N N 25 
+EHG OP2   P      SING N N 26 
+EHG P     OP1    DOUB N N 27 
+EHG OP2   HOP2   SING N N 28 
+EHG "C5'" "H5'"  SING N N 29 
+EHG "C5'" "H5''" SING N N 30 
+EHG "C4'" "H4'"  SING N N 31 
+EHG "C3'" "H3'"  SING N N 32 
+EHG "O3'" "HO3'" SING N N 33 
+EHG "C2'" "H2'"  SING N N 34 
+EHG "C2'" "H2''" SING N N 35 
+EHG "C1'" "H1'"  SING N N 36 
+EHG C8    H8     SING N N 37 
+EHG N2    H21    SING N N 38 
+EHG N2    H22    SING N N 39 
+EHG C1X   H1X1   SING N N 40 
+EHG C1X   H1X2   SING N N 41 
+EHG C2X   H2X2   SING N N 42 
+EHG C2X   H2X1   SING N N 43 
+EHG OX    HOX    SING N N 44 
+EHG P     OP3    SING N N 45 
+EHG OP3   HOP3   SING N N 46 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EHG SMILES           ACDLabs              12.01 "O=P(O)(O)OCC3OC(n2cnc1c2nc(nc1OCCO)N)CC3O"                                                                                                                       
+EHG InChI            InChI                1.03  "InChI=1S/C12H18N5O8P/c13-12-15-10-9(11(16-12)23-2-1-18)14-5-17(10)8-3-6(19)7(25-8)4-24-26(20,21)22/h5-8,18-19H,1-4H2,(H2,13,15,16)(H2,20,21,22)/t6-,7+,8+/m0/s1" 
+EHG InChIKey         InChI                1.03  LGYJNJBQWIFPAM-XLPZGREQSA-N                                                                                                                                       
+EHG SMILES_CANONICAL CACTVS               3.370 "Nc1nc(OCCO)c2ncn([C@H]3C[C@H](O)[C@@H](CO[P](O)(O)=O)O3)c2n1"                                                                                                    
+EHG SMILES           CACTVS               3.370 "Nc1nc(OCCO)c2ncn([CH]3C[CH](O)[CH](CO[P](O)(O)=O)O3)c2n1"                                                                                                        
+EHG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1nc2c(n1[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)nc(nc2OCCO)N"                                                                                                      
+EHG SMILES           "OpenEye OEToolkits" 1.7.6 "c1nc2c(n1C3CC(C(O3)COP(=O)(O)O)O)nc(nc2OCCO)N"                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EHG "SYSTEMATIC NAME" ACDLabs              12.01 "9-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-6-(2-hydroxyethoxy)-9H-purin-2-amine"                
+EHG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(2R,3S,5R)-5-[2-azanyl-6-(2-hydroxyethyloxy)purin-9-yl]-3-oxidanyl-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EHG "Create component" 2012-04-27 RCSB 
+EHG "Modify atom id"   2012-04-28 RCSB 
+# 

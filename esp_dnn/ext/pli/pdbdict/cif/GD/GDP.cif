@@ -1,0 +1,178 @@
+data_GDP
+# 
+_chem_comp.id                                    GDP 
+_chem_comp.name                                  "GUANOSINE-5'-DIPHOSPHATE" 
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H15 N5 O11 P2" 
+_chem_comp.mon_nstd_parent_comp_id               G 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2014-05-12 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        443.201 
+_chem_comp.one_letter_code                       G 
+_chem_comp.three_letter_code                     GDP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EK0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GDP PB     PB     P 0 1 N N N 13.635 17.027 28.402 -5.743 -1.471 0.475  PB     GDP 1  
+GDP O1B    O1B    O 0 1 N N N 14.317 18.299 28.131 -6.829 -0.831 -0.300 O1B    GDP 2  
+GDP O2B    O2B    O 0 1 N N N 14.465 15.868 28.851 -6.293 -1.885 1.930  O2B    GDP 3  
+GDP O3B    O3B    O 0 1 N N N 12.657 17.014 29.609 -5.234 -2.787 -0.301 O3B    GDP 4  
+GDP O3A    O3A    O 0 1 N N N 13.031 16.438 26.904 -4.519 -0.438 0.638  O3A    GDP 5  
+GDP PA     PA     P 0 1 N N N 12.164 17.382 25.843 -3.821 0.633  -0.340 PA     GDP 6  
+GDP O1A    O1A    O 0 1 N N N 11.308 16.310 25.239 -3.718 0.063  -1.702 O1A    GDP 7  
+GDP O2A    O2A    O 0 1 N N N 11.654 18.737 26.082 -4.708 1.976  -0.386 O2A    GDP 8  
+GDP "O5'"  "O5'"  O 0 1 N N N 13.417 17.470 24.852 -2.348 0.981  0.208  "O5'"  GDP 9  
+GDP "C5'"  "C5'"  C 0 1 N N N 14.543 18.324 25.037 -1.434 1.823  -0.497 "C5'"  GDP 10 
+GDP "C4'"  "C4'"  C 0 1 N N R 15.043 18.710 23.648 -0.133 1.943  0.299  "C4'"  GDP 11 
+GDP "O4'"  "O4'"  O 0 1 N N N 15.183 17.536 22.793 0.533  0.670  0.344  "O4'"  GDP 12 
+GDP "C3'"  "C3'"  C 0 1 N N S 13.926 19.400 22.829 0.820  2.933  -0.399 "C3'"  GDP 13 
+GDP "O3'"  "O3'"  O 0 1 N N N 14.002 20.787 23.226 1.125  4.028  0.467  "O3'"  GDP 14 
+GDP "C2'"  "C2'"  C 0 1 N N R 14.511 19.303 21.406 2.091  2.098  -0.686 "C2'"  GDP 15 
+GDP "O2'"  "O2'"  O 0 1 N N N 15.627 20.165 21.220 3.271  2.861  -0.428 "O2'"  GDP 16 
+GDP "C1'"  "C1'"  C 0 1 N N R 15.015 17.874 21.438 1.952  0.935  0.329  "C1'"  GDP 17 
+GDP N9     N9     N 0 1 Y N N 13.968 16.928 20.922 2.691  -0.243 -0.132 N9     GDP 18 
+GDP C8     C8     C 0 1 Y N N 13.129 16.056 21.555 2.200  -1.252 -0.908 C8     GDP 19 
+GDP N7     N7     N 0 1 Y N N 12.358 15.405 20.737 3.131  -2.134 -1.125 N7     GDP 20 
+GDP C5     C5     C 0 1 Y N N 12.701 15.869 19.474 4.272  -1.746 -0.504 C5     GDP 21 
+GDP C6     C6     C 0 1 N N N 12.214 15.545 18.183 5.571  -2.295 -0.396 C6     GDP 22 
+GDP O6     O6     O 0 1 N N N 11.326 14.728 17.882 5.850  -3.350 -0.939 O6     GDP 23 
+GDP N1     N1     N 0 1 N N N 12.870 16.282 17.187 6.495  -1.620 0.324  N1     GDP 24 
+GDP C2     C2     C 0 1 N N N 13.858 17.205 17.402 6.171  -0.441 0.927  C2     GDP 25 
+GDP N2     N2     N 0 1 N N N 14.348 17.795 16.316 7.130  0.222  1.651  N2     GDP 26 
+GDP N3     N3     N 0 1 N N N 14.329 17.524 18.614 4.968  0.079  0.834  N3     GDP 27 
+GDP C4     C4     C 0 1 Y N N 13.701 16.819 19.565 4.003  -0.529 0.133  C4     GDP 28 
+GDP HOB2   HOB2   H 0 0 N N N 15.376 16.131 28.902 -7.033 -2.508 1.908  HOB2   GDP 29 
+GDP HOB3   HOB3   H 0 0 N N N 12.643 17.873 30.015 -4.521 -3.259 0.151  HOB3   GDP 30 
+GDP HOA2   HOA2   H 0 0 N N N 10.749 18.789 25.799 -4.818 2.404  0.474  HOA2   GDP 31 
+GDP "H5'"  "H5'1" H 0 1 N N N 14.247 19.224 25.596 -1.222 1.390  -1.475 "H5'"  GDP 32 
+GDP "H5''" "H5'2" H 0 0 N N N 15.333 17.793 25.589 -1.874 2.811  -0.625 "H5''" GDP 33 
+GDP "H4'"  "H4'"  H 0 1 N N N 15.955 19.324 23.692 -0.349 2.285  1.312  "H4'"  GDP 34 
+GDP "H3'"  "H3'"  H 0 1 N N N 12.939 18.927 22.938 0.380  3.294  -1.329 "H3'"  GDP 35 
+GDP "HO3'" "HO3'" H 0 0 N Y N 13.340 21.286 22.762 1.722  4.683  0.078  "HO3'" GDP 36 
+GDP "H2'"  "H2'"  H 0 1 N N N 13.729 19.439 20.644 2.088  1.724  -1.710 "H2'"  GDP 37 
+GDP "HO2'" "HO2'" H 0 0 N N N 15.954 20.073 20.333 3.357  3.652  -0.979 "HO2'" GDP 38 
+GDP "H1'"  "H1'"  H 0 1 N N N 15.948 17.778 20.863 2.295  1.244  1.316  "H1'"  GDP 39 
+GDP H8     H8     H 0 1 N N N 13.109 15.921 22.626 1.190  -1.310 -1.285 H8     GDP 40 
+GDP HN1    HN1    H 0 1 N N N 12.593 16.120 16.240 7.392  -1.977 0.412  HN1    GDP 41 
+GDP HN21   HN21   H 0 0 N N N 15.071 18.480 16.402 8.023  -0.150 1.728  HN21   GDP 42 
+GDP HN22   HN22   H 0 0 N N N 13.993 17.554 15.413 6.915  1.062  2.086  HN22   GDP 43 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GDP PB    O1B    DOUB N N 1  
+GDP PB    O2B    SING N N 2  
+GDP PB    O3B    SING N N 3  
+GDP PB    O3A    SING N N 4  
+GDP O2B   HOB2   SING N N 5  
+GDP O3B   HOB3   SING N N 6  
+GDP O3A   PA     SING N N 7  
+GDP PA    O1A    DOUB N N 8  
+GDP PA    O2A    SING N N 9  
+GDP PA    "O5'"  SING N N 10 
+GDP O2A   HOA2   SING N N 11 
+GDP "O5'" "C5'"  SING N N 12 
+GDP "C5'" "C4'"  SING N N 13 
+GDP "C5'" "H5'"  SING N N 14 
+GDP "C5'" "H5''" SING N N 15 
+GDP "C4'" "O4'"  SING N N 16 
+GDP "C4'" "C3'"  SING N N 17 
+GDP "C4'" "H4'"  SING N N 18 
+GDP "O4'" "C1'"  SING N N 19 
+GDP "C3'" "O3'"  SING N N 20 
+GDP "C3'" "C2'"  SING N N 21 
+GDP "C3'" "H3'"  SING N N 22 
+GDP "O3'" "HO3'" SING N N 23 
+GDP "C2'" "O2'"  SING N N 24 
+GDP "C2'" "C1'"  SING N N 25 
+GDP "C2'" "H2'"  SING N N 26 
+GDP "O2'" "HO2'" SING N N 27 
+GDP "C1'" N9     SING N N 28 
+GDP "C1'" "H1'"  SING N N 29 
+GDP N9    C8     SING Y N 30 
+GDP N9    C4     SING Y N 31 
+GDP C8    N7     DOUB Y N 32 
+GDP C8    H8     SING N N 33 
+GDP N7    C5     SING Y N 34 
+GDP C5    C6     SING N N 35 
+GDP C5    C4     DOUB Y N 36 
+GDP C6    O6     DOUB N N 37 
+GDP C6    N1     SING N N 38 
+GDP N1    C2     SING N N 39 
+GDP N1    HN1    SING N N 40 
+GDP C2    N2     SING N N 41 
+GDP C2    N3     DOUB N N 42 
+GDP N2    HN21   SING N N 43 
+GDP N2    HN22   SING N N 44 
+GDP N3    C4     SING N N 45 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GDP SMILES           ACDLabs              12.01 "O=P(O)(O)OP(=O)(O)OCC3OC(n2cnc1c2N=C(N)NC1=O)C(O)C3O"                                                                                                                                      
+GDP InChI            InChI                1.03  "InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1" 
+GDP InChIKey         InChI                1.03  QGWNDRXFNXRZMB-UUOKFMHZSA-N                                                                                                                                                                 
+GDP SMILES_CANONICAL CACTVS               3.385 "NC1=Nc2n(cnc2C(=O)N1)[C@@H]3O[C@H](CO[P](O)(=O)O[P](O)(O)=O)[C@@H](O)[C@H]3O"                                                                                                              
+GDP SMILES           CACTVS               3.385 "NC1=Nc2n(cnc2C(=O)N1)[CH]3O[CH](CO[P](O)(=O)O[P](O)(O)=O)[CH](O)[CH]3O"                                                                                                                    
+GDP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@](=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N"                                                                                                             
+GDP SMILES           "OpenEye OEToolkits" 1.7.6 "c1nc2c(n1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N"                                                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GDP "SYSTEMATIC NAME" ACDLabs              12.01 
+;guanosine 5'-(trihydrogen diphosphate)
+;
+GDP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(2R,3S,4R,5R)-5-(2-azanyl-6-oxidanylidene-1H-purin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methyl phosphono hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GDP "Create component"   1999-07-08 EBI  
+GDP "Modify descriptor"  2011-06-04 RCSB 
+GDP "Other modification" 2014-05-12 RCSB 
+# 

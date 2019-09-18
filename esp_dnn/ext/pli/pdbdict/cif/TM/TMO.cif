@@ -1,0 +1,114 @@
+data_TMO
+# 
+_chem_comp.id                                    TMO 
+_chem_comp.name                                  "trimethylamine oxide" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H9 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-10-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        75.110 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TMO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3EV5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TMO CAA  CAA  C 0  1 N N N -81.412 -3.086 6.268 0.029  1.385  0.493  CAA  TMO 1  
+TMO NAC  NAC  N 1  1 N N N -80.485 -3.290 5.147 -0.000 -0.000 0.003  NAC  TMO 2  
+TMO CAD  CAD  C 0  1 N N N -79.272 -3.964 5.631 1.185  -0.717 0.493  CAD  TMO 3  
+TMO CAB  CAB  C 0  1 N N N -81.132 -4.124 4.122 -1.214 -0.668 0.493  CAB  TMO 4  
+TMO OAE  OAE  O -1 1 N N N -80.130 -1.997 4.569 0.000  0.000  -1.460 OAE  TMO 5  
+TMO HAA  HAA  H 0  1 N N N -82.320 -2.582 5.906 0.929  1.880  0.129  HAA  TMO 6  
+TMO HAAA HAAA H 0  0 N N N -81.682 -4.060 6.702 -0.851 1.917  0.129  HAAA TMO 7  
+TMO HAAB HAAB H 0  0 N N N -80.928 -2.464 7.035 0.029  1.385  1.583  HAAB TMO 8  
+TMO HAD  HAD  H 0  1 N N N -78.577 -4.117 4.792 1.185  -0.717 1.583  HAD  TMO 9  
+TMO HADA HADA H 0  0 N N N -78.788 -3.342 6.398 1.164  -1.745 0.129  HADA TMO 10 
+TMO HADB HADB H 0  0 N N N -79.542 -4.938 6.065 2.085  -0.222 0.129  HADB TMO 11 
+TMO HAB  HAB  H 0  1 N N N -80.439 -4.277 3.282 -2.093 -0.136 0.129  HAB  TMO 12 
+TMO HABA HABA H 0  0 N N N -81.401 -5.098 4.558 -1.235 -1.695 0.129  HABA TMO 13 
+TMO HABB HABB H 0  0 N N N -82.041 -3.621 3.760 -1.214 -0.668 1.583  HABB TMO 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TMO CAA NAC  SING N N 1  
+TMO CAA HAA  SING N N 2  
+TMO CAA HAAA SING N N 3  
+TMO CAA HAAB SING N N 4  
+TMO NAC CAD  SING N N 5  
+TMO NAC CAB  SING N N 6  
+TMO NAC OAE  SING N N 7  
+TMO CAD HAD  SING N N 8  
+TMO CAD HADA SING N N 9  
+TMO CAD HADB SING N N 10 
+TMO CAB HAB  SING N N 11 
+TMO CAB HABA SING N N 12 
+TMO CAB HABB SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TMO SMILES           ACDLabs              12.01 "[O-][N+](C)(C)C"                   
+TMO SMILES_CANONICAL CACTVS               3.370 "C[N+](C)(C)[O-]"                   
+TMO SMILES           CACTVS               3.370 "C[N+](C)(C)[O-]"                   
+TMO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C[N+](C)(C)[O-]"                   
+TMO SMILES           "OpenEye OEToolkits" 1.7.0 "C[N+](C)(C)[O-]"                   
+TMO InChI            InChI                1.03  "InChI=1S/C3H9NO/c1-4(2,3)5/h1-3H3" 
+TMO InChIKey         InChI                1.03  UYPYRKYUKCHHIB-UHFFFAOYSA-N         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TMO "SYSTEMATIC NAME" ACDLabs              12.01 "trimethylamine oxide"          
+TMO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "N,N-dimethylmethanamine oxide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TMO "Create component"  2008-10-16 RCSB 
+TMO "Modify descriptor" 2011-06-04 RCSB 
+# 

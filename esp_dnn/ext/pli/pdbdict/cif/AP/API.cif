@@ -1,0 +1,141 @@
+data_API
+# 
+_chem_comp.id                                    API 
+_chem_comp.name                                  "2,6-DIAMINOPIMELIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H14 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               LYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        190.197 
+_chem_comp.one_letter_code                       K 
+_chem_comp.three_letter_code                     API 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2DAP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+API C1   C1   C 0 1 N N N -18.775 53.345 11.610 3.726  -0.379 -0.101 C1   API 1  
+API C2   C2   C 0 1 N N S -18.550 51.842 11.972 2.498  0.269  0.486  C2   API 2  
+API C3   C3   C 0 1 N N N -17.378 51.807 12.955 1.249  -0.295 -0.194 C3   API 3  
+API C4   C4   C 0 1 N N N -16.911 50.796 13.800 -0.000 0.269  0.486  C4   API 4  
+API C5   C5   C 0 1 N N N -15.893 50.989 14.763 -1.250 -0.295 -0.193 C5   API 5  
+API C6   C6   C 0 1 N N R -14.434 50.921 14.610 -2.499 0.269  0.486  C6   API 6  
+API C7   C7   C 0 1 N N N -13.979 52.098 13.839 -3.726 -0.379 -0.100 C7   API 7  
+API O1   O1   O 0 1 N N N -18.650 54.295 12.271 4.374  0.203  -0.938 O1   API 8  
+API O2   O2   O 0 1 N Y N -19.098 53.467 10.459 4.101  -1.600 0.309  O2   API 9  
+API O3   O3   O 0 1 N N N -13.556 52.079 12.777 -4.375 0.203  -0.937 O3   API 10 
+API O4   O4   O 0 1 N Y N -14.096 53.163 14.385 -4.098 -1.602 0.307  O4   API 11 
+API N2   N2   N 0 1 N N N -18.248 51.116 10.708 2.560  1.721  0.269  N2   API 12 
+API N6   N6   N 0 1 N N N -14.192 49.753 13.787 -2.560 1.721  0.270  N6   API 13 
+API H2   H2   H 0 1 N Y N -19.425 51.363 12.437 2.455  0.063  1.555  H2   API 14 
+API H31  H31  H 0 1 N N N -16.511 52.000 12.306 1.249  -0.012 -1.246 H31  API 15 
+API H32  H32  H 0 1 N N N -17.627 52.615 13.658 1.249  -1.382 -0.109 H32  API 16 
+API H41  H41  H 0 1 N N N -17.792 50.477 14.377 -0.000 -0.013 1.539  H41  API 17 
+API H42  H42  H 0 1 N N N -16.522 50.018 13.126 -0.000 1.356  0.402  H42  API 18 
+API H51  H51  H 0 1 N N N -16.062 52.021 15.105 -1.250 -0.012 -1.246 H51  API 19 
+API H52  H52  H 0 1 N N N -16.104 50.211 15.512 -1.250 -1.382 -0.109 H52  API 20 
+API H6   H6   H 0 1 N N N -13.922 50.885 15.583 -2.455 0.063  1.556  H6   API 21 
+API HO2  HO2  H 0 1 N N N -19.208 54.389 10.257 4.895  -1.975 -0.096 HO2  API 22 
+API HO4  HO4  H 0 1 N N N -13.798 53.852 13.803 -4.893 -1.977 -0.098 HO4  API 23 
+API HN21 HN21 H 0 0 N N N -18.098 50.147 10.907 2.601  1.938  -0.715 HN21 API 24 
+API HN22 HN22 H 0 0 N N N -19.018 51.211 10.077 1.781  2.186  0.710  HN22 API 25 
+API HN61 HN61 H 0 0 N N N -13.209 49.645 13.641 -1.781 2.186  0.711  HN61 API 26 
+API HN62 HN62 H 0 0 N N N -14.552 48.941 14.247 -2.602 1.939  -0.714 HN62 API 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+API C1 C2   SING N N 1  
+API C1 O1   DOUB N N 2  
+API C1 O2   SING N N 3  
+API C2 C3   SING N N 4  
+API C2 N2   SING N N 5  
+API C2 H2   SING N N 6  
+API C3 C4   SING N N 7  
+API C3 H31  SING N N 8  
+API C3 H32  SING N N 9  
+API C4 C5   SING N N 10 
+API C4 H41  SING N N 11 
+API C4 H42  SING N N 12 
+API C5 C6   SING N N 13 
+API C5 H51  SING N N 14 
+API C5 H52  SING N N 15 
+API C6 C7   SING N N 16 
+API C6 N6   SING N N 17 
+API C6 H6   SING N N 18 
+API C7 O3   DOUB N N 19 
+API C7 O4   SING N N 20 
+API O2 HO2  SING N N 21 
+API O4 HO4  SING N N 22 
+API N2 HN21 SING N N 23 
+API N2 HN22 SING N N 24 
+API N6 HN61 SING N N 25 
+API N6 HN62 SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+API SMILES           ACDLabs              12.01 "O=C(O)C(N)CCCC(C(=O)O)N"                                                                     
+API InChI            InChI                1.03  "InChI=1S/C7H14N2O4/c8-4(6(10)11)2-1-3-5(9)7(12)13/h4-5H,1-3,8-9H2,(H,10,11)(H,12,13)/t4-,5+" 
+API InChIKey         InChI                1.03  GMKMEZVLHJARHF-SYDPRGILSA-N                                                                   
+API SMILES_CANONICAL CACTVS               3.370 "N[C@@H](CCC[C@@H](N)C(O)=O)C(O)=O"                                                           
+API SMILES           CACTVS               3.370 "N[CH](CCC[CH](N)C(O)=O)C(O)=O"                                                               
+API SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C(C[C@H](C(=O)O)N)C[C@@H](C(=O)O)N"                                                          
+API SMILES           "OpenEye OEToolkits" 1.7.2 "C(CC(C(=O)O)N)CC(C(=O)O)N"                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+API "SYSTEMATIC NAME" ACDLabs              12.01 "(2R,6S)-2,6-diaminoheptanedioic acid"     
+API "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S,6R)-2,6-bis(azanyl)heptanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+API "Create component"         1999-07-08 EBI  
+API "Modify descriptor"        2011-06-04 RCSB 
+API "Modify leaving atom flag" 2011-09-05 PDBJ 
+# 

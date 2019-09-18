@@ -1,0 +1,197 @@
+data_R99
+# 
+_chem_comp.id                                    R99 
+_chem_comp.name                                  "N-[3-CARBOXY-2-HYDROXY-PROPIONYL]-D-HOMOPHENYLALANYL-AMINO-2-METHYLBUTANE" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H28 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         WRR-99 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-05-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        364.436 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     R99 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EWL 
+_chem_comp.pdbx_subcomponent_list                "LMR HMF LEN" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+R99 C4   C4   C 0 1 N N N 4.304  11.783 7.160  -1.866 -1.150 1.102  C1   LMR 1  
+R99 O9   O9   O 0 1 N N N 4.437  11.018 6.204  -1.867 -0.442 2.086  O1A  LMR 2  
+R99 C3   C3   C 0 1 N N S 5.478  12.023 8.066  -3.115 -1.896 0.710  C2   LMR 3  
+R99 O8   O8   O 0 1 N N N 5.484  13.355 8.580  -4.119 -1.701 1.708  O2   LMR 4  
+R99 C2   C2   C 0 1 N N N 5.596  10.948 9.170  -3.622 -1.370 -0.634 C3   LMR 5  
+R99 C1   C1   C 0 1 N N N 6.709  11.270 10.118 -4.799 -2.197 -1.085 C4   LMR 6  
+R99 O6   O6   O 0 1 N N N 7.905  11.568 9.624  -5.411 -1.916 -2.246 O4A  LMR 7  
+R99 O7   O7   O 0 1 N N N 6.586  11.141 11.333 -5.191 -3.113 -0.402 O4B  LMR 8  
+R99 N5   N5   N 0 1 N N N 3.096  12.355 7.463  -0.749 -1.267 0.356  N    HMF 9  
+R99 C10  C10  C 0 1 N N R 1.881  12.124 6.650  0.463  -0.537 0.734  CA   HMF 10 
+R99 C11  C11  C 0 1 N N N 1.128  10.997 7.274  1.671  -1.251 0.184  C    HMF 11 
+R99 O26  O26  O 0 1 N N N -0.074 11.033 7.582  1.533  -2.269 -0.460 O    HMF 12 
+R99 C12  C12  C 0 1 N N N 0.987  13.380 6.630  0.405  0.881  0.161  CB   HMF 13 
+R99 C13  C13  C 0 1 N N N 1.450  14.419 5.598  -0.748 1.647  0.813  CG   HMF 14 
+R99 C14  C14  C 0 1 Y N N 1.255  13.926 4.175  -0.807 3.043  0.249  C1   HMF 15 
+R99 C15  C15  C 0 1 Y N N 2.085  14.443 3.169  -1.572 3.305  -0.872 C2   HMF 16 
+R99 C19  C19  C 0 1 Y N N 0.266  12.990 3.814  -0.098 4.064  0.856  C6   HMF 17 
+R99 C16  C16  C 0 1 Y N N 1.945  14.027 1.834  -1.625 4.585  -1.389 C3   HMF 18 
+R99 C18  C18  C 0 1 Y N N 0.128  12.565 2.487  -0.152 5.345  0.339  C5   HMF 19 
+R99 C17  C17  C 0 1 Y N N 0.968  13.084 1.493  -0.913 5.605  -0.785 C4   HMF 20 
+R99 C25  C25  C 0 1 N N N -0.289 6.102  5.017  6.536  -1.375 -1.819 CD2  LEN 21 
+R99 C23  C23  C 0 1 N N N -0.174 6.801  6.358  6.573  -1.414 -0.289 CG   LEN 22 
+R99 C24  C24  C 0 1 N N N -1.516 7.477  6.672  7.844  -0.724 0.208  CD1  LEN 23 
+R99 C22  C22  C 0 1 N N N 0.941  7.834  6.272  5.346  -0.689 0.269  CB   LEN 24 
+R99 C21  C21  C 0 1 N N N 1.085  8.614  7.568  4.080  -1.452 -0.126 CA   LEN 25 
+R99 N20  N20  N 0 1 N N N 1.833  9.834  7.262  2.905  -0.757 0.408  N    LEN 26 
+R99 H31  H31  H 0 1 N N N 6.387  11.922 7.455  -2.891 -2.960 0.623  H2   LMR 27 
+R99 HO8  HO8  H 0 1 N N N 5.409  13.972 7.862  -4.369 -0.776 1.839  HO2  LMR 28 
+R99 H21  H21  H 0 1 N N N 5.798  9.974  8.700  -3.930 -0.331 -0.525 H3   LMR 29 
+R99 H22  H22  H 0 1 N N N 4.650  10.906 9.730  -2.826 -1.438 -1.375 H3A  LMR 30 
+R99 HO6  HO6  H 0 1 N N N 8.532  11.642 10.334 -6.161 -2.474 -2.494 H5   LMR 31 
+R99 HN5  HN5  H 0 1 N N N 3.033  12.951 8.264  -0.749 -1.834 -0.431 H    HMF 32 
+R99 H101 H101 H 0 0 N N N 2.167  11.890 5.614  0.534  -0.487 1.821  HA   HMF 33 
+R99 H121 H121 H 0 0 N N N -0.039 13.073 6.378  1.344  1.395  0.366  HB2  HMF 34 
+R99 H122 H122 H 0 0 N N N 1.016  13.843 7.627  0.245  0.831  -0.916 HB3  HMF 35 
+R99 H131 H131 H 0 0 N N N 0.863  15.339 5.736  -1.688 1.133  0.608  HG2  HMF 36 
+R99 H132 H132 H 0 0 N N N 2.519  14.622 5.757  -0.589 1.696  1.890  HG3  HMF 37 
+R99 H151 H151 H 0 0 N N N 2.842  15.170 3.424  -2.128 2.508  -1.344 HC2  HMF 38 
+R99 H191 H191 H 0 0 N N N -0.395 12.595 4.571  0.496  3.860  1.734  H6   HMF 39 
+R99 H161 H161 H 0 0 N N N 2.591  14.435 1.071  -2.223 4.789  -2.265 H3   HMF 40 
+R99 H181 H181 H 0 0 N N N -0.627 11.837 2.229  0.401  6.142  0.813  H5   HMF 41 
+R99 H171 H171 H 0 0 N N N 0.862  12.758 0.469  -0.954 6.605  -1.190 H4   HMF 42 
+R99 H251 H251 H 0 0 N N N -1.092 5.351  5.062  6.542  -0.338 -2.156 HD21 LEN 43 
+R99 H252 H252 H 0 0 N N N -0.522 6.842  4.237  7.410  -1.891 -2.216 HD22 LEN 44 
+R99 H253 H253 H 0 0 N N N 0.664  5.606  4.779  5.631  -1.867 -2.173 HD23 LEN 45 
+R99 H231 H231 H 0 0 N N N 0.063  6.085  7.159  6.566  -2.451 0.048  HG   LEN 46 
+R99 H241 H241 H 0 0 N N N -2.307 6.714  6.730  7.850  0.313  -0.129 HD11 LEN 47 
+R99 H242 H242 H 0 0 N N N -1.444 8.004  7.635  7.870  -0.752 1.298  HD12 LEN 48 
+R99 H243 H243 H 0 0 N N N -1.759 8.197  5.877  8.717  -1.240 -0.189 HD13 LEN 49 
+R99 H221 H221 H 0 0 N N N 0.708  8.538  5.460  5.417  -0.640 1.355  HB1  LEN 50 
+R99 H222 H222 H 0 0 N N N 1.888  7.315  6.065  5.304  0.321  -0.139 HB2  LEN 51 
+R99 H211 H211 H 0 0 N N N 1.626  8.014  8.314  4.009  -1.501 -1.212 HA1  LEN 52 
+R99 H212 H212 H 0 0 N N N 0.093  8.868  7.971  4.122  -2.462 0.282  HA2  LEN 53 
+R99 H20  H20  H 0 1 N N N 2.811  9.814  7.055  3.016  0.057  0.923  HN1  LEN 54 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+R99 C1  O7   DOUB N N 1  
+R99 C1  O6   SING N N 2  
+R99 C1  C2   SING N N 3  
+R99 O6  HO6  SING N N 4  
+R99 C2  C3   SING N N 5  
+R99 C2  H21  SING N N 6  
+R99 C2  H22  SING N N 7  
+R99 C3  O8   SING N N 8  
+R99 C3  C4   SING N N 9  
+R99 C3  H31  SING N N 10 
+R99 O8  HO8  SING N N 11 
+R99 C4  O9   DOUB N N 12 
+R99 C4  N5   SING N N 13 
+R99 N5  C10  SING N N 14 
+R99 N5  HN5  SING N N 15 
+R99 C10 C12  SING N N 16 
+R99 C10 C11  SING N N 17 
+R99 C10 H101 SING N N 18 
+R99 C12 C13  SING N N 19 
+R99 C12 H121 SING N N 20 
+R99 C12 H122 SING N N 21 
+R99 C13 C14  SING N N 22 
+R99 C13 H131 SING N N 23 
+R99 C13 H132 SING N N 24 
+R99 C14 C15  DOUB Y N 25 
+R99 C14 C19  SING Y N 26 
+R99 C15 C16  SING Y N 27 
+R99 C15 H151 SING N N 28 
+R99 C16 C17  DOUB Y N 29 
+R99 C16 H161 SING N N 30 
+R99 C17 C18  SING Y N 31 
+R99 C17 H171 SING N N 32 
+R99 C18 C19  DOUB Y N 33 
+R99 C18 H181 SING N N 34 
+R99 C19 H191 SING N N 35 
+R99 C11 N20  SING N N 36 
+R99 C11 O26  DOUB N N 37 
+R99 N20 C21  SING N N 38 
+R99 N20 H20  SING N N 39 
+R99 C21 C22  SING N N 40 
+R99 C21 H211 SING N N 41 
+R99 C21 H212 SING N N 42 
+R99 C22 C23  SING N N 43 
+R99 C22 H221 SING N N 44 
+R99 C22 H222 SING N N 45 
+R99 C23 C25  SING N N 46 
+R99 C23 C24  SING N N 47 
+R99 C23 H231 SING N N 48 
+R99 C25 H251 SING N N 49 
+R99 C25 H252 SING N N 50 
+R99 C25 H253 SING N N 51 
+R99 C24 H241 SING N N 52 
+R99 C24 H242 SING N N 53 
+R99 C24 H243 SING N N 54 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+R99 SMILES           ACDLabs              12.01 "O=C(O)CC(O)C(=O)NC(C(=O)NCCC(C)C)CCc1ccccc1"                                                                                                                            
+R99 SMILES_CANONICAL CACTVS               3.370 "CC(C)CCNC(=O)[C@@H](CCc1ccccc1)NC(=O)[C@@H](O)CC(O)=O"                                                                                                                  
+R99 SMILES           CACTVS               3.370 "CC(C)CCNC(=O)[CH](CCc1ccccc1)NC(=O)[CH](O)CC(O)=O"                                                                                                                      
+R99 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)CCNC(=O)[C@@H](CCc1ccccc1)NC(=O)[C@H](CC(=O)O)O"                                                                                                                   
+R99 SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)CCNC(=O)C(CCc1ccccc1)NC(=O)C(CC(=O)O)O"                                                                                                                            
+R99 InChI            InChI                1.03  "InChI=1S/C19H28N2O5/c1-13(2)10-11-20-18(25)15(9-8-14-6-4-3-5-7-14)21-19(26)16(22)12-17(23)24/h3-7,13,15-16,22H,8-12H2,1-2H3,(H,20,25)(H,21,26)(H,23,24)/t15-,16+/m1/s1" 
+R99 InChIKey         InChI                1.03  KVZMXOVSHIMGNA-CVEARBPZSA-N                                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+R99 "SYSTEMATIC NAME" ACDLabs              12.01 "(3S)-3-hydroxy-4-({(2R)-1-[(3-methylbutyl)amino]-1-oxo-4-phenylbutan-2-yl}amino)-4-oxobutanoic acid" 
+R99 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(3S)-3-hydroxy-4-[[(2R)-1-(3-methylbutylamino)-1-oxo-4-phenyl-butan-2-yl]amino]-4-oxo-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+R99 "Create component"         2000-05-03 RCSB 
+R99 "Modify subcomponent list" 2011-03-23 RCSB 
+R99 "Modify aromatic_flag"     2011-06-04 RCSB 
+R99 "Modify descriptor"        2011-06-04 RCSB 
+# 

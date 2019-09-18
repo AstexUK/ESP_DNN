@@ -1,0 +1,155 @@
+data_RF7
+# 
+_chem_comp.id                                    RF7 
+_chem_comp.name                                  "{(2R)-4-[hydroxy(methyl)amino]-4-oxo-2-phenylbutyl}phosphonic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H16 N O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-02-13 
+_chem_comp.pdbx_modified_date                    2015-03-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        273.222 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RF7 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4Y6R 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RF7 O6  O1  O 0 1 N N N 0.334  15.396 23.177 -2.745 -1.300 0.064  O6  RF7 1  
+RF7 P4  P1  P 0 1 N N N -0.534 14.622 22.216 -1.322 -2.051 0.116  P4  RF7 2  
+RF7 O5  O2  O 0 1 N N N -1.742 14.097 22.933 -1.420 -3.318 1.105  O5  RF7 3  
+RF7 O7  O3  O 0 1 N N N -0.994 15.525 21.090 -0.957 -2.512 -1.242 O7  RF7 4  
+RF7 C1  C1  C 0 1 N N N 0.358  13.224 21.469 -0.049 -0.899 0.729  C1  RF7 5  
+RF7 C2  C2  C 0 1 N N R 1.244  12.445 22.441 0.132  0.242  -0.274 C2  RF7 6  
+RF7 C3  C3  C 0 1 N N N 2.290  11.670 21.639 1.429  0.992  0.034  C3  RF7 7  
+RF7 C8  C4  C 0 1 N N N 3.386  12.513 21.022 2.604  0.075  -0.188 C8  RF7 8  
+RF7 N9  N1  N 0 1 N N N 3.997  12.091 19.912 3.858  0.524  0.023  N9  RF7 9  
+RF7 O10 O4  O 0 1 N N N 5.003  12.871 19.352 4.070  1.855  0.454  O10 RF7 10 
+RF7 C11 C5  C 0 1 N N N 3.619  10.842 19.262 5.000  -0.368 -0.193 C11 RF7 11 
+RF7 O12 O5  O 0 1 N N N 3.742  13.567 21.534 2.422  -1.065 -0.557 O12 RF7 12 
+RF7 C13 C6  C 0 1 Y N N 0.488  11.412 23.224 -1.034 1.191  -0.171 C13 RF7 13 
+RF7 C15 C7  C 0 1 Y N N -0.793 11.005 22.867 -1.294 1.840  1.021  C15 RF7 14 
+RF7 C16 C8  C 0 1 Y N N -1.448 10.027 23.611 -2.363 2.711  1.116  C16 RF7 15 
+RF7 C18 C9  C 0 1 Y N N -0.827 9.443  24.708 -3.173 2.934  0.018  C18 RF7 16 
+RF7 C17 C10 C 0 1 Y N N 0.452  9.838  25.061 -2.913 2.285  -1.175 C17 RF7 17 
+RF7 C14 C11 C 0 1 Y N N 1.104  10.815 24.322 -1.841 1.418  -1.271 C14 RF7 18 
+RF7 H1  H1  H 0 1 N N N 0.415  16.294 22.878 -3.048 -0.970 0.922  H1  RF7 19 
+RF7 H2  H2  H 0 1 N N N -2.528 14.444 22.527 -2.079 -3.974 0.840  H2  RF7 20 
+RF7 H3  H3  H 0 1 N N N -0.383 12.529 21.048 -0.361 -0.491 1.691  H3  RF7 21 
+RF7 H4  H4  H 0 1 N N N 0.995  13.615 20.662 0.895  -1.430 0.849  H4  RF7 22 
+RF7 H5  H5  H 0 1 N N N 1.746  13.144 23.126 0.179  -0.166 -1.284 H5  RF7 23 
+RF7 H6  H6  H 0 1 N N N 1.771  11.139 20.827 1.514  1.857  -0.623 H6  RF7 24 
+RF7 H7  H7  H 0 1 N N N 2.762  10.939 22.312 1.418  1.324  1.072  H7  RF7 25 
+RF7 H8  H8  H 0 1 N N N 5.132  13.650 19.881 5.002  2.085  0.578  H8  RF7 26 
+RF7 H9  H9  H 0 1 N N N 2.815  10.358 19.836 4.643  -1.344 -0.520 H9  RF7 27 
+RF7 H10 H10 H 0 1 N N N 3.266  11.052 18.242 5.652  0.056  -0.958 H10 RF7 28 
+RF7 H11 H11 H 0 1 N N N 4.491  10.173 19.218 5.556  -0.478 0.738  H11 RF7 29 
+RF7 H12 H12 H 0 1 N N N -1.281 11.448 22.011 -0.661 1.667  1.880  H12 RF7 30 
+RF7 H13 H13 H 0 1 N N N -2.446 9.720  23.333 -2.566 3.217  2.048  H13 RF7 31 
+RF7 H14 H14 H 0 1 N N N -1.339 8.685  25.282 -4.009 3.613  0.092  H14 RF7 32 
+RF7 H15 H15 H 0 1 N N N 0.942  9.386  25.911 -3.545 2.459  -2.033 H15 RF7 33 
+RF7 H16 H16 H 0 1 N N N 2.103  11.117 24.602 -1.635 0.914  -2.204 H16 RF7 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RF7 C11 N9  SING N N 1  
+RF7 O10 N9  SING N N 2  
+RF7 N9  C8  SING N N 3  
+RF7 C8  O12 DOUB N N 4  
+RF7 C8  C3  SING N N 5  
+RF7 O7  P4  DOUB N N 6  
+RF7 C1  P4  SING N N 7  
+RF7 C1  C2  SING N N 8  
+RF7 C3  C2  SING N N 9  
+RF7 P4  O5  SING N N 10 
+RF7 P4  O6  SING N N 11 
+RF7 C2  C13 SING N N 12 
+RF7 C15 C13 DOUB Y N 13 
+RF7 C15 C16 SING Y N 14 
+RF7 C13 C14 SING Y N 15 
+RF7 C16 C18 DOUB Y N 16 
+RF7 C14 C17 DOUB Y N 17 
+RF7 C18 C17 SING Y N 18 
+RF7 O6  H1  SING N N 19 
+RF7 O5  H2  SING N N 20 
+RF7 C1  H3  SING N N 21 
+RF7 C1  H4  SING N N 22 
+RF7 C2  H5  SING N N 23 
+RF7 C3  H6  SING N N 24 
+RF7 C3  H7  SING N N 25 
+RF7 O10 H8  SING N N 26 
+RF7 C11 H9  SING N N 27 
+RF7 C11 H10 SING N N 28 
+RF7 C11 H11 SING N N 29 
+RF7 C15 H12 SING N N 30 
+RF7 C16 H13 SING N N 31 
+RF7 C18 H14 SING N N 32 
+RF7 C17 H15 SING N N 33 
+RF7 C14 H16 SING N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RF7 SMILES           ACDLabs              12.01 "O=P(O)(O)CC(c1ccccc1)CC(=O)N(O)C"                                                                                   
+RF7 InChI            InChI                1.03  "InChI=1S/C11H16NO5P/c1-12(14)11(13)7-10(8-18(15,16)17)9-5-3-2-4-6-9/h2-6,10,14H,7-8H2,1H3,(H2,15,16,17)/t10-/m0/s1" 
+RF7 InChIKey         InChI                1.03  RGWBBKVQKPJVGW-JTQLQIEISA-N                                                                                          
+RF7 SMILES_CANONICAL CACTVS               3.385 "CN(O)C(=O)C[C@@H](C[P](O)(O)=O)c1ccccc1"                                                                            
+RF7 SMILES           CACTVS               3.385 "CN(O)C(=O)C[CH](C[P](O)(O)=O)c1ccccc1"                                                                              
+RF7 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CN(C(=O)C[C@@H](CP(=O)(O)O)c1ccccc1)O"                                                                              
+RF7 SMILES           "OpenEye OEToolkits" 1.9.2 "CN(C(=O)CC(CP(=O)(O)O)c1ccccc1)O"                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RF7 "SYSTEMATIC NAME" ACDLabs              12.01 "{(2R)-4-[hydroxy(methyl)amino]-4-oxo-2-phenylbutyl}phosphonic acid"             
+RF7 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "[(2R)-4-[methyl(oxidanyl)amino]-4-oxidanylidene-2-phenyl-butyl]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RF7 "Create component" 2015-02-13 EBI  
+RF7 "Initial release"  2015-04-01 RCSB 
+# 

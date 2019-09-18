@@ -1,0 +1,119 @@
+data_HMU
+# 
+_chem_comp.id                                    HMU 
+_chem_comp.name                                  "5-HYDROXYMETHYL URACIL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "5-(HYDROXYMETHYL)PYRIMIDINE-2,4(1H,3H)-DIONE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-03-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.113 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HMU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HMU N1   N1   N 0 1 N N N 4.328 20.980 42.926 1.402  -0.001 -1.017 N1   HMU 1  
+HMU C2   C2   C 0 1 N N N 4.245 22.334 42.473 0.339  0.000  -1.842 C2   HMU 2  
+HMU O2   O2   O 0 1 N N N 5.170 23.246 42.899 0.515  0.000  -3.045 O2   HMU 3  
+HMU N3   N3   N 0 1 N N N 3.137 22.528 41.576 -0.914 0.002  -1.354 N3   HMU 4  
+HMU C4   C4   C 0 1 N N N 2.248 21.500 41.163 -1.126 -0.002 -0.023 C4   HMU 5  
+HMU O3   O3   O 0 1 N N N 1.211 18.816 39.902 1.042  -0.000 3.007  O3   HMU 6  
+HMU O4   O4   O 0 1 N N N 1.326 21.668 40.316 -2.261 -0.001 0.419  O4   HMU 7  
+HMU C5   C5   C 0 1 N N N 2.409 20.090 41.665 -0.017 0.001  0.856  C5   HMU 8  
+HMU CM5  CM5  C 0 1 N N N 1.523 18.858 41.271 -0.226 0.001  2.349  CM5  HMU 9  
+HMU C6   C6   C 0 1 N N N 3.480 19.923 42.592 1.230  -0.000 0.340  C6   HMU 10 
+HMU H1   H1   H 0 1 N N N 4.332 21.025 43.945 2.298  -0.002 -1.387 H1   HMU 11 
+HMU H2   H2   H 0 1 N N N 2.969 23.463 41.206 -1.669 0.003  -1.963 H2   HMU 12 
+HMU H3   H3   H 0 1 N N N 1.144 17.873 39.607 0.863  -0.000 3.958  H3   HMU 13 
+HMU HM51 1HM5 H 0 0 N N N 2.066 17.938 41.534 -0.786 -0.887 2.637  HM51 HMU 14 
+HMU HM52 2HM5 H 0 0 N N N 0.574 18.949 41.820 -0.783 0.892  2.637  HM52 HMU 15 
+HMU H6   H6   H 0 1 N N N 3.636 18.973 43.038 2.088  -0.001 0.996  H6   HMU 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HMU N1  C2   SING N N 1  
+HMU N1  C6   SING N N 2  
+HMU N1  H1   SING N N 3  
+HMU C2  O2   DOUB N N 4  
+HMU C2  N3   SING N N 5  
+HMU N3  C4   SING N N 6  
+HMU N3  H2   SING N N 7  
+HMU C4  O4   DOUB N N 8  
+HMU C4  C5   SING N N 9  
+HMU O3  CM5  SING N N 10 
+HMU O3  H3   SING N N 11 
+HMU C5  CM5  SING N N 12 
+HMU C5  C6   DOUB N N 13 
+HMU CM5 HM51 SING N N 14 
+HMU CM5 HM52 SING N N 15 
+HMU C6  H6   SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HMU SMILES           ACDLabs              10.04 "O=C1C(=CNC(=O)N1)CO"                                               
+HMU SMILES_CANONICAL CACTVS               3.341 "OCC1=CNC(=O)NC1=O"                                                 
+HMU SMILES           CACTVS               3.341 "OCC1=CNC(=O)NC1=O"                                                 
+HMU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=C(C(=O)NC(=O)N1)CO"                                             
+HMU SMILES           "OpenEye OEToolkits" 1.5.0 "C1=C(C(=O)NC(=O)N1)CO"                                             
+HMU InChI            InChI                1.03  "InChI=1S/C5H6N2O3/c8-2-3-1-6-5(10)7-4(3)9/h1,8H,2H2,(H2,6,7,9,10)" 
+HMU InChIKey         InChI                1.03  JDBGXEHEIRGOBU-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HMU "SYSTEMATIC NAME" ACDLabs              10.04 "5-(hydroxymethyl)pyrimidine-2,4(1H,3H)-dione" 
+HMU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "5-(hydroxymethyl)-1H-pyrimidine-2,4-dione"    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HMU "Create component"  2003-03-19 EBI  
+HMU "Modify descriptor" 2011-06-04 RCSB 
+# 

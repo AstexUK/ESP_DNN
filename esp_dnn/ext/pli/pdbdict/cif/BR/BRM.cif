@@ -1,0 +1,101 @@
+data_BRM
+# 
+_chem_comp.id                                    BRM 
+_chem_comp.name                                  "2-BROMOACETYL GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H3 Br O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        138.948 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BRM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PTH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BRM C1  C1  C  0 1 N N N 28.636 37.028 206.291 -1.363 -1.499 0.683  C1  BRM 1 
+BRM O1  O1  O  0 1 N N N 29.384 38.046 206.281 -0.545 -2.405 0.784  O1  BRM 2 
+BRM O2  O2  O  0 1 N N N 29.095 35.779 206.563 -2.636 -1.592 1.142  O2  BRM 3 
+BRM C2  C2  C  0 1 N N N 27.081 37.142 205.938 -1.077 -0.183 0.032  C2  BRM 4 
+BRM BR2 BR2 BR 0 0 N N N 26.018 35.719 206.629 0.804  0.179  0.290  BR2 BRM 5 
+BRM H21 1H2 H  0 1 N N N 26.676 38.127 206.268 -1.304 -0.198 -1.036 H21 BRM 6 
+BRM H22 2H2 H  0 1 N N N 26.936 37.237 204.836 -1.650 0.613  0.513  H22 BRM 7 
+BRM HO1 HO1 H  0 1 N N N 30.029 35.815 206.734 -2.862 -2.447 1.566  HO1 BRM 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BRM C1  O1  DOUB N N 1 
+BRM C1  O2  SING N N 2 
+BRM C1  C2  SING N N 3 
+BRM C2  BR2 SING N N 4 
+BRM C2  H21 SING N N 5 
+BRM C2  H22 SING N N 6 
+BRM HO1 O2  SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BRM SMILES           ACDLabs              10.04 "BrCC(=O)O"                                      
+BRM InChI            InChI                1.02b "InChI=1/C2H3BrO2/c3-1-2(4)5/h1H2,(H,4,5)/f/h4H" 
+BRM InChIKey         InChI                1.02b KDPAWGWELVVRCH-JLSKMEETCD                        
+BRM SMILES_CANONICAL CACTVS               3.341 "OC(=O)CBr"                                      
+BRM SMILES           CACTVS               3.341 "OC(=O)CBr"                                      
+BRM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)Br"                                    
+BRM SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)Br"                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BRM "SYSTEMATIC NAME" ACDLabs              10.04 "bromoacetic acid"     
+BRM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-bromoethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BRM "Create component" 1999-07-08 EBI 
+# 

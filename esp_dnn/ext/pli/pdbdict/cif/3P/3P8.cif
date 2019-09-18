@@ -1,0 +1,102 @@
+data_3P8
+# 
+_chem_comp.id                                    3P8 
+_chem_comp.name                                  "methylammonium ion" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H6 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         methanaminium 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2014-10-02 
+_chem_comp.pdbx_modified_date                    2015-06-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        32.065 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3P8 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4R8B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3P8 C1 C1 C 0 1 N N N 0.001  0.001  54.595 0.778  0.000  -0.000 C1 3P8 1 
+3P8 N1 N1 N 1 1 N N N 0.001  0.001  56.071 -0.691 -0.000 -0.000 N1 3P8 2 
+3P8 H1 H1 H 0 1 N N N 0.001  1.038  54.228 1.141  -0.010 1.028  H1 3P8 3 
+3P8 H2 H2 H 0 1 N N N 0.899  -0.518 54.228 1.141  -0.885 -0.522 H2 3P8 4 
+3P8 H3 H3 H 0 1 N N N -0.897 -0.518 54.228 1.141  0.895  -0.505 H3 3P8 5 
+3P8 H4 H4 H 0 1 N N N 0.001  -0.942 56.405 -1.028 0.819  0.483  H4 3P8 6 
+3P8 H5 H5 H 0 1 N N N 0.817  0.472  56.404 -1.028 0.009  -0.951 H5 3P8 7 
+3P8 H6 H6 H 0 1 N N N -0.815 0.472  56.404 -1.028 -0.828 0.468  H6 3P8 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3P8 C1 N1 SING N N 1 
+3P8 C1 H1 SING N N 2 
+3P8 C1 H2 SING N N 3 
+3P8 C1 H3 SING N N 4 
+3P8 N1 H4 SING N N 5 
+3P8 N1 H5 SING N N 6 
+3P8 N1 H6 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3P8 SMILES           ACDLabs              12.01 "[NH3+]C"                       
+3P8 InChI            InChI                1.03  InChI=1S/CH5N/c1-2/h2H2,1H3/p+1 
+3P8 InChIKey         InChI                1.03  BAVYZALUXZFZLV-UHFFFAOYSA-O     
+3P8 SMILES_CANONICAL CACTVS               3.385 "C[NH3+]"                       
+3P8 SMILES           CACTVS               3.385 "C[NH3+]"                       
+3P8 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[NH3+]"                       
+3P8 SMILES           "OpenEye OEToolkits" 1.7.6 "C[NH3+]"                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3P8 "SYSTEMATIC NAME" ACDLabs              12.01 methanaminium 
+3P8 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 methylazanium 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3P8 "Create component" 2014-10-02 RCSB 
+3P8 "Initial release"  2015-07-01 RCSB 
+# 

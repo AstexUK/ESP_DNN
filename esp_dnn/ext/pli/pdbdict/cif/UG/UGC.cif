@@ -1,0 +1,116 @@
+data_UGC
+# 
+_chem_comp.id                                    UGC 
+_chem_comp.name                                  "(2S)-(carbamoylamino)(hydroxy)ethanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H6 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(S)-Ureidoglycolate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-04-09 
+_chem_comp.pdbx_modified_date                    2014-07-18 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.091 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UGC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4PXB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UGC O3 O3 O 0 1 N N N 7.990 68.574 104.809 -2.363 -0.379 -1.000 O3 UGC 1  
+UGC C3 C3 C 0 1 N N N 8.101 68.753 103.574 -1.701 -0.318 0.166  C3 UGC 2  
+UGC O4 O4 O 0 1 N N N 9.203 68.512 102.965 -2.115 -0.922 1.128  O4 UGC 3  
+UGC C2 C2 C 0 1 N N S 6.979 69.361 102.816 -0.442 0.503  0.277  C2 UGC 4  
+UGC O2 O2 O 0 1 N N N 5.699 69.064 103.194 -0.680 1.811  -0.245 O2 UGC 5  
+UGC N2 N2 N 0 1 N N N 7.161 69.252 101.400 0.629  -0.141 -0.488 N2 UGC 6  
+UGC C1 C1 C 0 1 N N N 7.410 70.606 100.991 1.883  -0.171 0.004  C1 UGC 7  
+UGC O1 O1 O 0 1 N N N 7.407 71.457 101.885 2.126  0.336  1.082  O1 UGC 8  
+UGC N1 N1 N 0 1 N N N 7.652 70.961 99.623  2.869  -0.763 -0.699 N1 UGC 9  
+UGC H1 H1 H 0 1 N N N 8.814 68.255 105.158 -3.166 -0.918 -1.022 H1 UGC 10 
+UGC H2 H2 H 0 1 N N N 7.087 70.437 103.016 -0.148 0.577  1.323  H2 UGC 11 
+UGC H3 H3 H 0 1 N N N 5.619 69.148 104.137 -0.947 1.822  -1.175 H3 UGC 12 
+UGC H4 H4 H 0 1 N N N 7.124 68.430 100.832 0.435  -0.546 -1.348 H4 UGC 13 
+UGC H5 H5 H 0 1 N N N 7.823 71.915 99.377  2.675  -1.168 -1.559 H5 UGC 14 
+UGC H6 H6 H 0 1 N N N 7.650 70.255 98.915  3.772  -0.785 -0.345 H6 UGC 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UGC N1 C1 SING N N 1  
+UGC C1 N2 SING N N 2  
+UGC C1 O1 DOUB N N 3  
+UGC N2 C2 SING N N 4  
+UGC C2 O2 SING N N 5  
+UGC C2 C3 SING N N 6  
+UGC O4 C3 DOUB N N 7  
+UGC C3 O3 SING N N 8  
+UGC O3 H1 SING N N 9  
+UGC C2 H2 SING N N 10 
+UGC O2 H3 SING N N 11 
+UGC N2 H4 SING N N 12 
+UGC N1 H5 SING N N 13 
+UGC N1 H6 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UGC SMILES           ACDLabs              12.01 "O=C(O)C(O)NC(=O)N"                                                      
+UGC InChI            InChI                1.03  "InChI=1S/C3H6N2O4/c4-3(9)5-1(6)2(7)8/h1,6H,(H,7,8)(H3,4,5,9)/t1-/m0/s1" 
+UGC InChIKey         InChI                1.03  NWZYYCVIOKVTII-SFOWXEAESA-N                                              
+UGC SMILES_CANONICAL CACTVS               3.385 "NC(=O)N[C@@H](O)C(O)=O"                                                 
+UGC SMILES           CACTVS               3.385 "NC(=O)N[CH](O)C(O)=O"                                                   
+UGC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[C@H](C(=O)O)(NC(=O)N)O"                                                
+UGC SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(=O)O)(NC(=O)N)O"                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UGC "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-(carbamoylamino)(hydroxy)ethanoic acid"          
+UGC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-(aminocarbonylamino)-2-oxidanyl-ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UGC "Create component" 2014-04-09 PDBJ 
+UGC "Initial release"  2014-07-23 RCSB 
+# 

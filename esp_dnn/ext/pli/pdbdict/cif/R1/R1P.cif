@@ -1,0 +1,137 @@
+data_R1P
+# 
+_chem_comp.id                                    R1P 
+_chem_comp.name                                  RIBOSE-1-PHOSPHATE 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H11 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         RDP 
+_chem_comp.formula_weight                        230.110 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     R1P 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A9T 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+R1P "C5'"  "C5'"  C 0 1 N N N 21.670 90.619 77.110 1.695  -0.423 2.674  "C5'"  R1P 1  
+R1P "O5'"  "O5'"  O 0 1 N N N 21.652 91.899 77.885 2.859  0.374  2.453  "O5'"  R1P 2  
+R1P "C4'"  "C4'"  C 0 1 N N R 20.431 89.888 76.752 0.473  0.283  2.084  "C4'"  R1P 3  
+R1P "O4'"  "O4'"  O 0 1 N N N 19.665 90.863 75.884 0.639  0.442  0.670  "O4'"  R1P 4  
+R1P "C1'"  "C1'"  C 0 1 N N R 19.166 90.354 74.642 -0.389 -0.276 -0.028 "C1'"  R1P 5  
+R1P "C2'"  "C2'"  C 0 1 N N R 20.099 89.019 74.517 -1.562 -0.385 0.978  "C2'"  R1P 6  
+R1P "O2'"  "O2'"  O 0 1 N N N 19.488 88.008 73.702 -2.337 0.815  0.997  "O2'"  R1P 7  
+R1P "C3'"  "C3'"  C 0 1 N N S 20.417 88.545 75.975 -0.789 -0.574 2.314  "C3'"  R1P 8  
+R1P "O3'"  "O3'"  O 0 1 N N N 19.366 87.658 76.395 -1.553 -0.081 3.417  "O3'"  R1P 9  
+R1P "O1'"  "O1'"  O 0 1 N N N 17.671 89.663 74.959 -0.796 0.446  -1.191 "O1'"  R1P 10 
+R1P P      P      P 0 1 N N N 16.464 89.647 73.721 0.118  -0.076 -2.408 P      R1P 11 
+R1P O1P    O1P    O 0 1 N N N 15.150 89.010 74.146 -0.089 -1.529 -2.593 O1P    R1P 12 
+R1P O2P    O2P    O 0 1 N N N 16.505 91.144 73.508 -0.289 0.700  -3.758 O2P    R1P 13 
+R1P O3P    O3P    O 0 1 N N N 17.158 89.048 72.525 1.668  0.206  -2.074 O3P    R1P 14 
+R1P "H5'1" "1H5'" H 0 0 N N N 22.236 90.803 76.167 1.822  -1.392 2.192  "H5'1" R1P 15 
+R1P "H5'2" "2H5'" H 0 0 N N N 22.336 89.907 77.650 1.550  -0.566 3.745  "H5'2" R1P 16 
+R1P "HO5'" "'HO5" H 0 0 N N N 22.446 92.367 78.114 3.605  -0.105 2.839  "HO5'" R1P 17 
+R1P "H4'"  "H4'"  H 0 1 N N N 20.047 89.563 77.747 0.348  1.259  2.554  "H4'"  R1P 18 
+R1P "H1'"  "H1'"  H 0 1 N N N 19.142 91.096 73.810 -0.035 -1.269 -0.305 "H1'"  R1P 19 
+R1P "H2'"  "H2'"  H 0 1 N N N 21.053 89.247 73.988 -2.188 -1.250 0.760  "H2'"  R1P 20 
+R1P "HO2'" "'HO2" H 0 0 N N N 20.030 87.231 73.629 -2.698 0.928  0.108  "HO2'" R1P 21 
+R1P "H3'"  "H3'"  H 0 1 N N N 21.366 87.978 76.117 -0.524 -1.620 2.464  "H3'"  R1P 22 
+R1P "HO3'" "'HO3" H 0 0 N N N 19.357 86.835 75.919 -2.366 -0.603 3.448  "HO3'" R1P 23 
+R1P HOP2   2HOP   H 0 0 N N N 15.841 91.135 72.827 0.281  0.359  -4.460 HOP2   R1P 24 
+R1P HOP3   3HOP   H 0 0 N N N 16.494 89.039 71.844 1.760  1.161  -1.961 HOP3   R1P 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+R1P "C5'" "O5'"  SING N N 1  
+R1P "C5'" "C4'"  SING N N 2  
+R1P "C5'" "H5'1" SING N N 3  
+R1P "C5'" "H5'2" SING N N 4  
+R1P "O5'" "HO5'" SING N N 5  
+R1P "C4'" "O4'"  SING N N 6  
+R1P "C4'" "C3'"  SING N N 7  
+R1P "C4'" "H4'"  SING N N 8  
+R1P "O4'" "C1'"  SING N N 9  
+R1P "C1'" "C2'"  SING N N 10 
+R1P "C1'" "O1'"  SING N N 11 
+R1P "C1'" "H1'"  SING N N 12 
+R1P "C2'" "O2'"  SING N N 13 
+R1P "C2'" "C3'"  SING N N 14 
+R1P "C2'" "H2'"  SING N N 15 
+R1P "O2'" "HO2'" SING N N 16 
+R1P "C3'" "O3'"  SING N N 17 
+R1P "C3'" "H3'"  SING N N 18 
+R1P "O3'" "HO3'" SING N N 19 
+R1P "O1'" P      SING N N 20 
+R1P P     O1P    DOUB N N 21 
+R1P P     O2P    SING N N 22 
+R1P P     O3P    SING N N 23 
+R1P O2P   HOP2   SING N N 24 
+R1P O3P   HOP3   SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+R1P SMILES           ACDLabs              10.04 "O=P(OC1OC(C(O)C1O)CO)(O)O"                                                                       
+R1P SMILES_CANONICAL CACTVS               3.341 "OC[C@H]1O[C@H](O[P](O)(O)=O)[C@H](O)[C@@H]1O"                                                    
+R1P SMILES           CACTVS               3.341 "OC[CH]1O[CH](O[P](O)(O)=O)[CH](O)[CH]1O"                                                         
+R1P SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O"                                                  
+R1P SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)OP(=O)(O)O)O)O)O"                                                                   
+R1P InChI            InChI                1.03  "InChI=1S/C5H11O8P/c6-1-2-3(7)4(8)5(12-2)13-14(9,10)11/h2-8H,1H2,(H2,9,10,11)/t2-,3-,4-,5-/m1/s1" 
+R1P InChIKey         InChI                1.03  YXJDFQJKERBOBM-TXICZTDVSA-N                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+R1P "SYSTEMATIC NAME" ACDLabs              10.04 1-O-phosphono-alpha-D-ribofuranose                                                
+R1P "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl] dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+R1P "Create component"  1999-07-08 RCSB 
+R1P "Modify descriptor" 2011-06-04 RCSB 
+# 

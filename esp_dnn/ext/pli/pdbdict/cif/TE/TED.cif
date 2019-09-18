@@ -1,0 +1,259 @@
+data_TED
+# 
+_chem_comp.id                                    TED 
+_chem_comp.name                                  
+;5-[(1E)-14-carboxy-10,13-bis(carboxymethyl)-3,8-dioxo-4,7,10,13-tetraazatetradec-1-en-1-yl]-2'-deoxyuridine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "DNA linking" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C24 H35 N6 O16 P" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        694.539 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TED 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2KY8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TED P      P      P 0 1 N N N -16.425 -9.972  37.354 -11.396 2.869  -0.735 P      TED 1  
+TED N1     N1     N 0 1 N N N -14.567 -11.434 32.735 -6.245  -1.315 0.209  N1     TED 2  
+TED C2     C2     C 0 1 N N N -13.506 -11.560 31.861 -6.172  -0.689 1.394  C2     TED 3  
+TED O2     O2     O 0 1 N N N -13.476 -10.976 30.780 -7.201  -0.341 1.939  O2     TED 4  
+TED N3     N3     N 0 1 N N N -12.477 -12.383 32.274 -4.998  -0.433 1.996  N3     TED 5  
+TED C4     C4     C 0 1 N N N -12.420 -13.081 33.468 -3.836  -0.806 1.419  C4     TED 6  
+TED O4     O4     O 0 1 N N N -11.450 -13.787 33.734 -2.771  -0.577 1.961  O4     TED 7  
+TED C5     C5     C 0 1 N N N -13.573 -12.890 34.321 -3.887  -1.496 0.118  C5     TED 8  
+TED C6     C6     C 0 1 N N N -14.590 -12.090 33.936 -5.128  -1.727 -0.447 C6     TED 9  
+TED C7     C7     C 0 1 N N N -13.640 -13.594 35.652 -2.659  -1.924 -0.557 C7     TED 10 
+TED C8     C8     C 0 1 N N N -14.776 -14.160 36.049 -1.453  -1.618 -0.025 C8     TED 11 
+TED C9     C9     C 0 1 N N N -14.847 -14.827 37.358 -0.267  -1.931 -0.733 C9     TED 12 
+TED O9     O9     O 0 1 N N N -14.995 -16.032 37.420 -0.332  -2.476 -1.821 O9     TED 13 
+TED "C1'"  "C1'"  C 0 1 N N R -15.684 -10.563 32.324 -7.559  -1.567 -0.387 "C1'"  TED 14 
+TED N10    N10    N 0 1 N N N -14.749 -14.101 38.490 0.935   -1.627 -0.204 N10    TED 15 
+TED C11    C11    C 0 1 N N N -14.831 -14.763 39.794 2.161   -1.951 -0.936 C11    TED 16 
+TED C12    C12    C 0 1 N N N -13.892 -15.971 39.813 3.376   -1.503 -0.120 C12    TED 17 
+TED N13    N13    N 0 1 N N N -13.280 -16.094 41.139 4.603   -1.827 -0.853 N13    TED 18 
+TED "C2'"  "C2'"  C 0 1 N N N -17.061 -11.199 32.533 -8.360  -2.540 0.499  "C2'"  TED 19 
+TED "C3'"  "C3'"  C 0 1 N N S -17.850 -10.053 33.121 -9.641  -1.753 0.866  "C3'"  TED 20 
+TED "O3'"  "O3'"  O 0 1 N N N -18.750 -9.530  32.141 -10.792 -2.600 0.815  "O3'"  TED 21 
+TED "C4'"  "C4'"  C 0 1 N N R -16.933 -8.934  33.557 -9.694  -0.680 -0.251 "C4'"  TED 22 
+TED "O4'"  "O4'"  O 0 1 N N N -15.630 -9.282  33.063 -8.307  -0.341 -0.458 "O4'"  TED 23 
+TED "C5'"  "C5'"  C 0 1 N N N -16.869 -8.729  35.067 -10.485 0.544  0.215  "C5'"  TED 24 
+TED "O5'"  "O5'"  O 0 1 N N N -16.565 -9.947  35.751 -10.618 1.466  -0.868 "O5'"  TED 25 
+TED CY1    CY1    C 0 1 N N N -13.410 -16.517 43.576 7.066   -1.856 -1.076 CY1    TED 26 
+TED OY1    OY1    O 0 1 N N N -15.273 -16.533 42.075 5.869   -0.980 0.760  OY1    TED 27 
+TED CY2    CY2    C 0 1 N N N -17.023 -16.416 46.746 8.139   2.811  0.757  CY2    TED 28 
+TED OY2    OY2    O 0 1 N N N -16.594 -15.346 44.656 8.828   4.577  -0.643 OY2    TED 29 
+TED CY3    CY3    C 0 1 N N N -16.896 -18.769 46.723 10.546  2.748  1.010  CY3    TED 30 
+TED OY3    OY3    O 0 1 N N N -18.197 -18.674 44.725 11.745  1.856  -0.812 OY3    TED 31 
+TED CY4    CY4    C 0 1 N N N -14.031 -18.667 44.315 9.473   -1.919 -0.823 CY4    TED 32 
+TED OY4    OY4    O 0 1 N N N -15.543 -18.957 42.492 10.680  -4.048 -0.491 OY4    TED 33 
+TED CY5    CY5    C 0 1 N N N -14.045 -16.390 42.209 5.804   -1.522 -0.323 CY5    TED 34 
+TED CY6    CY6    C 0 1 N N N -16.799 -15.206 45.875 8.017   4.192  0.165  CY6    TED 35 
+TED OY6    OY6    O 0 1 N N N -16.819 -14.098 46.362 7.006   4.994  0.536  OY6    TED 36 
+TED CY7    CY7    C 0 1 N N N -18.124 -19.068 45.903 11.809  2.406  0.262  CY7    TED 37 
+TED OY7    OY7    O 0 1 N N N -19.040 -19.692 46.389 13.005  2.711  0.789  OY7    TED 38 
+TED CY8    CY8    C 0 1 N N N -14.380 -19.093 42.912 9.601   -3.295 -0.221 CY8    TED 39 
+TED OY8    OY8    O 0 1 N N N -13.529 -19.568 42.195 8.734   -3.721 0.504  OY8    TED 40 
+TED CYA    CYA    C 0 1 N N N -13.927 -16.879 45.847 8.277   0.162  -0.507 CYA    TED 41 
+TED NYA    NYA    N 0 1 N N N -14.320 -17.236 44.477 8.223   -1.299 -0.363 NYA    TED 42 
+TED CYB    CYB    C 0 1 N N N -14.924 -17.484 46.838 9.335   0.730  0.441  CYB    TED 43 
+TED NYB    NYB    N 0 1 N N N -16.254 -17.549 46.216 9.389   2.191  0.297  NYB    TED 44 
+TED OP3    O3P    O 0 1 N Y N -16.384 -11.375 37.824 -12.957 2.594  -0.454 O3P    TED 45 
+TED OP1    O1P    O 0 1 N N N -14.975 -9.170  37.815 -10.822 3.647  0.387  O1P    TED 46 
+TED OP2    O2P    O 0 1 N N N -17.773 -9.170  38.060 -11.236 3.704  -2.103 O2P    TED 47 
+TED HN3    HN3    H 0 1 N N N -11.700 -12.484 31.652 -4.985  0.023  2.853  HN3    TED 48 
+TED H6     H6     H 0 1 N N N -15.440 -11.965 34.590 -5.209  -2.230 -1.400 H6     TED 49 
+TED H7     H7     H 0 1 N N N -12.765 -13.639 36.284 -2.716  -2.484 -1.479 H7     TED 50 
+TED H8     H8     H 0 1 N N N -15.646 -14.130 35.410 -1.394  -1.135 0.939  H8     TED 51 
+TED "H1'"  "H1'"  H 0 1 N N N -15.559 -10.397 31.244 -7.439  -1.988 -1.386 "H1'"  TED 52 
+TED HN10   HN10   H 0 0 N N N -14.620 -13.111 38.439 0.987   -1.193 0.662  HN10   TED 53 
+TED H11    H11    H 0 1 N N N -14.535 -14.056 40.583 2.212   -3.027 -1.102 H11    TED 54 
+TED H11A   H11A   H 0 0 N N N -15.864 -15.099 39.971 2.159   -1.435 -1.896 H11A   TED 55 
+TED H12    H12    H 0 1 N N N -14.464 -16.883 39.587 3.325   -0.427 0.045  H12    TED 56 
+TED H12A   H12A   H 0 0 N N N -13.105 -15.835 39.057 3.379   -2.019 0.840  H12A   TED 57 
+TED HN13   HN13   H 0 0 N N N -12.295 -15.958 41.250 4.550   -2.261 -1.719 HN13   TED 58 
+TED "H2'"  "H2'"  H 0 1 N N N -17.497 -11.559 31.589 -8.612  -3.443 -0.057 "H2'"  TED 59 
+TED "H2'A" "H2'A" H 0 0 N N N -17.018 -12.063 33.213 -7.795  -2.790 1.397  "H2'A" TED 60 
+TED "H3'"  "H3'"  H 0 1 N N N -18.403 -10.438 33.991 -9.545  -1.289 1.847  "H3'"  TED 61 
+TED "HO3'" "HO3'" H 0 0 N N N -19.243 -8.810  32.516 -10.762 -3.341 1.435  "HO3'" TED 62 
+TED "H4'"  "H4'"  H 0 1 N N N -17.316 -7.984  33.157 -10.131 -1.094 -1.160 "H4'"  TED 63 
+TED "H5'"  "H5'"  H 0 1 N N N -16.084 -7.992  35.291 -11.474 0.232  0.550  "H5'"  TED 64 
+TED "H5'A" "H5'A" H 0 0 N N N -17.845 -8.361  35.416 -9.958  1.025  1.039  "H5'A" TED 65 
+TED HY1    HY1    H 0 1 N N N -13.211 -15.514 43.981 7.170   -2.938 -1.149 HY1    TED 66 
+TED HY1A   HY1A   H 0 0 N N N -12.465 -17.073 43.490 7.015   -1.428 -2.077 HY1A   TED 67 
+TED HY2    HY2    H 0 1 N N N -16.692 -16.196 47.772 8.147   2.881  1.844  HY2    TED 68 
+TED HY2A   HY2A   H 0 0 N N N -18.093 -16.670 46.753 7.293   2.203  0.438  HY2A   TED 69 
+TED HY3    HY3    H 0 1 N N N -17.184 -18.622 47.774 10.593  2.325  2.014  HY3    TED 70 
+TED HY3A   HY3A   H 0 0 N N N -16.192 -19.611 46.650 10.445  3.831  1.076  HY3A   TED 71 
+TED HY4    HY4    H 0 1 N N N -12.962 -18.848 44.498 10.319  -1.306 -0.511 HY4    TED 72 
+TED HY4A   HY4A   H 0 0 N N N -14.629 -19.246 45.034 9.462   -1.997 -1.910 HY4A   TED 73 
+TED HOY4   HOY4   H 0 0 N Y N -15.596 -19.272 41.597 10.718  -4.923 -0.083 HOY4   TED 74 
+TED HOY6   HOY6   H 0 0 N Y N -16.662 -13.451 45.684 6.969   5.870  0.130  HOY6   TED 75 
+TED HOY7   HOY7   H 0 0 N Y N -19.731 -19.794 45.745 13.787  2.472  0.273  HOY7   TED 76 
+TED HYA    HYA    H 0 1 N N N -13.923 -15.784 45.954 8.536   0.417  -1.535 HYA    TED 77 
+TED HYAA   HYAA   H 0 0 N N N -12.920 -17.272 46.054 7.304   0.588  -0.262 HYAA   TED 78 
+TED HYB    HYB    H 0 1 N N N -14.598 -18.498 47.114 9.076   0.475  1.469  HYB    TED 79 
+TED HYBA   HYBA   H 0 0 N N N -14.971 -16.856 47.740 10.308  0.304  0.196  HYBA   TED 80 
+TED HOP3   HO3P   H 0 0 N Y N -15.566 -11.533 38.280 -13.398 2.088  -1.149 HO3P   TED 81 
+TED HOP2   HO2P   H 0 0 N N N -17.469 -8.432  38.575 -11.680 4.562  -2.094 HO2P   TED 82 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TED N1    C6     SING N N 1  
+TED C2    N1     SING N N 2  
+TED C2    N3     SING N N 3  
+TED O2    C2     DOUB N N 4  
+TED N3    C4     SING N N 5  
+TED C4    O4     DOUB N N 6  
+TED C4    C5     SING N N 7  
+TED C5    C7     SING N N 8  
+TED C6    C5     DOUB N N 9  
+TED C7    C8     DOUB N N 10 
+TED C8    C9     SING N N 11 
+TED C9    O9     DOUB N N 12 
+TED C9    N10    SING N N 13 
+TED "C1'" N1     SING N N 14 
+TED "C1'" "C2'"  SING N E 15 
+TED "C1'" "O4'"  SING N N 16 
+TED N10   C11    SING N N 17 
+TED C11   C12    SING N N 18 
+TED C12   N13    SING N N 19 
+TED N13   CY5    SING N N 20 
+TED "C2'" "C3'"  SING N N 21 
+TED "C3'" "C4'"  SING N N 22 
+TED "O3'" "C3'"  SING N N 23 
+TED "C4'" "C5'"  SING N N 24 
+TED "O4'" "C4'"  SING N N 25 
+TED "C5'" "O5'"  SING N N 26 
+TED "O5'" P      SING N N 27 
+TED CY1   NYA    SING N N 28 
+TED OY1   CY5    DOUB N N 29 
+TED OY2   CY6    DOUB N N 30 
+TED OY3   CY7    DOUB N N 31 
+TED CY4   NYA    SING N N 32 
+TED OY4   CY8    SING N N 33 
+TED CY5   CY1    SING N N 34 
+TED CY6   CY2    SING N N 35 
+TED CY6   OY6    SING N N 36 
+TED CY7   CY3    SING N N 37 
+TED CY7   OY7    SING N N 38 
+TED CY8   CY4    SING N N 39 
+TED OY8   CY8    DOUB N N 40 
+TED CYA   CYB    SING N N 41 
+TED NYA   CYA    SING N N 42 
+TED NYB   CY2    SING N N 43 
+TED NYB   CY3    SING N N 44 
+TED NYB   CYB    SING N N 45 
+TED P     OP3    SING N N 46 
+TED P     OP1    DOUB N N 47 
+TED P     OP2    SING N N 48 
+TED N3    HN3    SING N N 49 
+TED C6    H6     SING N N 50 
+TED C7    H7     SING N N 51 
+TED C8    H8     SING N N 52 
+TED "C1'" "H1'"  SING N N 53 
+TED N10   HN10   SING N N 54 
+TED C11   H11    SING N N 55 
+TED C11   H11A   SING N N 56 
+TED C12   H12    SING N N 57 
+TED C12   H12A   SING N N 58 
+TED N13   HN13   SING N N 59 
+TED "C2'" "H2'"  SING N N 60 
+TED "C2'" "H2'A" SING N N 61 
+TED "C3'" "H3'"  SING N N 62 
+TED "O3'" "HO3'" SING N N 63 
+TED "C4'" "H4'"  SING N N 64 
+TED "C5'" "H5'"  SING N N 65 
+TED "C5'" "H5'A" SING N N 66 
+TED CY1   HY1    SING N N 67 
+TED CY1   HY1A   SING N N 68 
+TED CY2   HY2    SING N N 69 
+TED CY2   HY2A   SING N N 70 
+TED CY3   HY3    SING N N 71 
+TED CY3   HY3A   SING N N 72 
+TED CY4   HY4    SING N N 73 
+TED CY4   HY4A   SING N N 74 
+TED OY4   HOY4   SING N N 75 
+TED OY6   HOY6   SING N N 76 
+TED OY7   HOY7   SING N N 77 
+TED CYA   HYA    SING N N 78 
+TED CYA   HYAA   SING N N 79 
+TED CYB   HYB    SING N N 80 
+TED CYB   HYBA   SING N N 81 
+TED OP3   HOP3   SING N N 82 
+TED OP2   HOP2   SING N N 83 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TED SMILES           ACDLabs              12.01 "O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CC(=O)NCCNC(=O)\C=C\C=1C(=O)NC(=O)N(C=1)C2OC(C(O)C2)COP(=O)(O)O" 
+TED SMILES_CANONICAL CACTVS               3.370 "O[C@H]1C[C@@H](O[C@@H]1CO[P](O)(O)=O)N2C=C(\C=C\C(=O)NCCNC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O)C(=O)NC2=O" 
+TED SMILES           CACTVS               3.370 "O[CH]1C[CH](O[CH]1CO[P](O)(O)=O)N2C=C(C=CC(=O)NCCNC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O)C(=O)NC2=O" 
+TED SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)/C=C/C(=O)NCCNC(=O)C[N@](CCN(CC(=O)O)CC(=O)O)CC(=O)O)COP(=O)(O)O)O" 
+TED SMILES           "OpenEye OEToolkits" 1.7.0 "C1C(C(OC1N2C=C(C(=O)NC2=O)C=CC(=O)NCCNC(=O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O)COP(=O)(O)O)O" 
+TED InChI            InChI                1.03  
+;InChI=1S/C24H35N6O16P/c31-15-7-19(46-16(15)13-45-47(42,43)44)30-8-14(23(40)27-24(30)41)1-2-17(32)25-3-4-26-18(33)9-28(10-20(34)35)5-6-29(11-21(36)37)12-22(38)39/h1-2,8,15-16,19,31H,3-7,9-13H2,(H,25,32)(H,26,33)(H,34,35)(H,36,37)(H,38,39)(H,27,40,41)(H2,42,43,44)/b2-1+/t15-,16+,19+/m0/s1
+;
+TED InChIKey         InChI                1.03  GANOOALIPBDIPI-DARGZDBCSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TED "SYSTEMATIC NAME" ACDLabs              12.01 
+;5-[(13E)-1-carboxy-2,5-bis(carboxymethyl)-7,12-dioxo-2,5,8,11-tetraazatetradec-13-en-14-yl]-2'-deoxyuridine 5'-(dihydrogen phosphate)
+;
+TED "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 
+"2-[carboxymethyl-[2-[carboxymethyl-[2-[2-[[(E)-3-[1-[(2R,4S,5R)-4-hydroxy-5-(phosphonooxymethyl)oxolan-2-yl]-2,4-dioxo-pyrimidin-5-yl]prop-2-enoyl]amino]ethylamino]-2-oxo-ethyl]amino]ethyl]amino]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TED "Create component"  2010-07-22 RCSB 
+TED "Modify descriptor" 2011-06-04 RCSB 
+# 

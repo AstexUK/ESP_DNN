@@ -1,0 +1,136 @@
+data_3CF
+# 
+_chem_comp.id                                    3CF 
+_chem_comp.name                                  3-cyano-L-phenylalanine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C10 H10 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               PHE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-09-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        190.199 
+_chem_comp.one_letter_code                       F 
+_chem_comp.three_letter_code                     3CF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3OQY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3CF C   C   C 0 1 N N N 64.913 11.166 29.810 3.320  -0.246 -0.044 C   3CF 1  
+3CF N   N   N 0 1 N N N 65.202 8.744  30.216 1.349  -1.360 -0.925 N   3CF 2  
+3CF OXT OXT O 0 1 N Y N 64.125 11.998 29.557 4.114  0.832  0.055  OXT 3CF 3  
+3CF C1  C1  C 0 1 N N N 66.020 14.684 32.849 -3.589 -1.167 0.090  C1  3CF 4  
+3CF N1  N1  N 0 1 N N N 66.919 15.392 32.809 -4.365 -1.997 0.112  N1  3CF 5  
+3CF CA  CA  C 0 1 N N S 64.500 9.942  30.614 1.871  -0.083 -0.421 CA  3CF 6  
+3CF CB  CB  C 0 1 N N N 64.606 10.065 32.146 1.069  0.346  0.809  CB  3CF 7  
+3CF CG  CG  C 0 1 Y N N 64.237 11.497 32.545 -0.356 0.628  0.407  CG  3CF 8  
+3CF CZ  CZ  C 0 1 Y N N 63.654 14.147 33.171 -2.974 1.167  -0.336 CZ  3CF 9  
+3CF CD1 CD1 C 0 1 Y N N 65.221 12.454 32.557 -1.292 -0.384 0.436  CD1 3CF 10 
+3CF CD2 CD2 C 0 1 Y N N 62.945 11.875 32.853 -0.723 1.904  0.016  CD2 3CF 11 
+3CF CE1 CE1 C 0 1 Y N N 64.939 13.761 32.868 -2.612 -0.121 0.063  CE1 3CF 12 
+3CF CE2 CE2 C 0 1 Y N N 62.650 13.195 33.172 -2.029 2.171  -0.354 CE2 3CF 13 
+3CF O   O   O 0 1 N N N 66.192 11.251 29.463 3.770  -1.348 0.164  O   3CF 14 
+3CF HN  HN  H 0 1 N N N 64.893 7.975  30.775 1.421  -2.082 -0.223 HN  3CF 15 
+3CF HNA HNA H 0 1 N Y N 65.015 8.553  29.253 0.397  -1.261 -1.244 HNA 3CF 16 
+3CF HXT HXT H 0 1 N Y N 64.550 12.704 29.084 5.036  0.677  0.300  HXT 3CF 17 
+3CF HA  HA  H 0 1 N N N 63.430 9.871  30.367 1.780  0.677  -1.197 HA  3CF 18 
+3CF HB  HB  H 0 1 N N N 63.916 9.355  32.625 1.086  -0.453 1.551  HB  3CF 19 
+3CF HBA HBA H 0 1 N N N 65.634 9.842  32.467 1.511  1.247  1.235  HBA 3CF 20 
+3CF HZ  HZ  H 0 1 N N N 63.432 15.178 33.405 -3.993 1.377  -0.626 HZ  3CF 21 
+3CF HD1 HD1 H 0 1 N N N 66.236 12.173 32.317 -1.005 -1.379 0.745  HD1 3CF 22 
+3CF HD2 HD2 H 0 1 N N N 62.156 11.138 32.846 0.013  2.694  0.001  HD2 3CF 23 
+3CF HE2 HE2 H 0 1 N N N 61.638 13.478 33.421 -2.308 3.168  -0.663 HE2 3CF 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3CF O   C   DOUB N N 1  
+3CF OXT C   SING N N 2  
+3CF C   CA  SING N N 3  
+3CF N   CA  SING N N 4  
+3CF N   HN  SING N N 5  
+3CF N   HNA SING N N 6  
+3CF OXT HXT SING N N 7  
+3CF N1  C1  TRIP N N 8  
+3CF C1  CE1 SING N N 9  
+3CF CA  CB  SING N N 10 
+3CF CA  HA  SING N N 11 
+3CF CB  CG  SING N N 12 
+3CF CB  HB  SING N N 13 
+3CF CB  HBA SING N N 14 
+3CF CG  CD1 DOUB Y N 15 
+3CF CG  CD2 SING Y N 16 
+3CF CE1 CZ  DOUB Y N 17 
+3CF CZ  CE2 SING Y N 18 
+3CF CZ  HZ  SING N N 19 
+3CF CD1 CE1 SING Y N 20 
+3CF CD1 HD1 SING N N 21 
+3CF CD2 CE2 DOUB Y N 22 
+3CF CD2 HD2 SING N N 23 
+3CF CE2 HE2 SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3CF SMILES           ACDLabs              12.01 "O=C(O)C(N)Cc1cccc(C#N)c1"                                                                   
+3CF SMILES_CANONICAL CACTVS               3.370 "N[C@@H](Cc1cccc(c1)C#N)C(O)=O"                                                              
+3CF SMILES           CACTVS               3.370 "N[CH](Cc1cccc(c1)C#N)C(O)=O"                                                                
+3CF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc(cc(c1)C#N)C[C@@H](C(=O)O)N"                                                            
+3CF SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc(cc(c1)C#N)CC(C(=O)O)N"                                                                 
+3CF InChI            InChI                1.03  "InChI=1S/C10H10N2O2/c11-6-8-3-1-2-7(4-8)5-9(12)10(13)14/h1-4,9H,5,12H2,(H,13,14)/t9-/m0/s1" 
+3CF InChIKey         InChI                1.03  ZHUOMTMPTNZOJE-VIFPVBQESA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3CF "SYSTEMATIC NAME" ACDLabs              12.01 3-cyano-L-phenylalanine                         
+3CF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-2-azanyl-3-(3-cyanophenyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3CF "Create component"     2010-09-07 RCSB 
+3CF "Modify aromatic_flag" 2011-06-04 RCSB 
+3CF "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,125 @@
+data_ILG
+# 
+_chem_comp.id                                    ILG 
+_chem_comp.name                                  "GLUTAMYL GROUP" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-12-12 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.138 
+_chem_comp.one_letter_code                       E 
+_chem_comp.three_letter_code                     ILG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AQV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ILG N   N   N 1 1 N N N 17.708 0.883 24.096 0.860  -1.790 -0.289 N   ILG 1  
+ILG CA  CA  C 0 1 N N S 17.432 1.635 25.359 0.736  -0.340 -0.484 CA  ILG 2  
+ILG C   C   C 0 1 N N N 16.465 2.776 25.028 1.985  0.343  0.010  C   ILG 3  
+ILG O   O   O 0 1 N N N 15.697 3.215 25.920 2.717  -0.225 0.786  O   ILG 4  
+ILG CB  CB  C 0 1 N N N 18.730 2.205 25.924 -0.472 0.178  0.299  CB  ILG 5  
+ILG CG  CG  C 0 1 N N N 18.557 2.871 27.273 -1.753 -0.420 -0.284 CG  ILG 6  
+ILG CD  CD  C 0 1 N N N 19.872 3.267 27.877 -2.943 0.090  0.487  CD  ILG 7  
+ILG OE1 OE1 O 0 1 N N N 20.924 3.197 27.215 -3.850 0.637  -0.093 OE1 ILG 8  
+ILG OXT OXT O 0 1 N Y N 16.449 3.155 23.833 2.285  1.581  -0.412 OXT ILG 9  
+ILG H   1HN H 0 1 N N N 18.458 0.188 24.204 0.986  -1.988 0.692  H   ILG 10 
+ILG H2  2HN H 0 1 N Y N 17.973 1.606 23.389 1.657  -2.132 -0.806 H2  ILG 11 
+ILG H3  3HN H 0 1 N N N 16.799 0.488 23.787 0.024  -2.247 -0.620 H3  ILG 12 
+ILG HA  HA  H 0 1 N N N 16.985 0.954 26.121 0.600  -0.126 -1.544 HA  ILG 13 
+ILG HB2 1HB H 0 1 N N N 19.520 1.419 25.969 -0.379 -0.113 1.346  HB2 ILG 14 
+ILG HB3 2HB H 0 1 N N N 19.205 2.903 25.196 -0.513 1.265  0.227  HB3 ILG 15 
+ILG HG2 1HG H 0 1 N N N 17.862 3.741 27.208 -1.847 -0.129 -1.330 HG2 ILG 16 
+ILG HG3 2HG H 0 1 N N N 17.969 2.228 27.969 -1.713 -1.507 -0.212 HG3 ILG 17 
+ILG HD  HD  H 0 1 N N N 20.083 3.641 28.893 -2.985 -0.034 1.559  HD  ILG 18 
+ILG HXT HXT H 0 1 N Y N 15.849 3.862 23.627 3.087  2.019  -0.095 HXT ILG 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ILG N   CA  SING N N 1  
+ILG N   H   SING N N 2  
+ILG N   H2  SING N N 3  
+ILG N   H3  SING N N 4  
+ILG CA  C   SING N N 5  
+ILG CA  CB  SING N N 6  
+ILG CA  HA  SING N N 7  
+ILG C   O   DOUB N N 8  
+ILG C   OXT SING N N 9  
+ILG CB  CG  SING N N 10 
+ILG CB  HB2 SING N N 11 
+ILG CB  HB3 SING N N 12 
+ILG CG  CD  SING N N 13 
+ILG CG  HG2 SING N N 14 
+ILG CG  HG3 SING N N 15 
+ILG CD  OE1 DOUB N N 16 
+ILG CD  HD  SING N N 17 
+ILG OXT HXT SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ILG SMILES           ACDLabs              10.04 "O=CCCC(C(=O)O)[NH3+]"                                                    
+ILG SMILES_CANONICAL CACTVS               3.341 "[NH3+][C@@H](CCC=O)C(O)=O"                                               
+ILG SMILES           CACTVS               3.341 "[NH3+][CH](CCC=O)C(O)=O"                                                 
+ILG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C[C@@H](C(=O)O)[NH3+])C=O"                                             
+ILG SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC(C(=O)O)[NH3+])C=O"                                                  
+ILG InChI            InChI                1.03  "InChI=1S/C5H9NO3/c6-4(5(8)9)2-1-3-7/h3-4H,1-2,6H2,(H,8,9)/p+1/t4-/m0/s1" 
+ILG InChIKey         InChI                1.03  KABXUUFDPUOJMW-BYPYZUCNSA-O                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ILG "SYSTEMATIC NAME" ACDLabs              10.04 "(1S)-1-carboxy-4-oxobutan-1-aminium"           
+ILG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S)-1-hydroxy-1,5-dioxo-pentan-2-yl]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ILG "Create component"   1999-07-08 RCSB 
+ILG "Modify descriptor"  2011-06-04 RCSB 
+ILG "Obsolete component" 2011-12-12 RCSB 
+# 

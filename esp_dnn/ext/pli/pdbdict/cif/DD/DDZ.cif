@@ -1,0 +1,116 @@
+data_DDZ
+# 
+_chem_comp.id                                    DDZ 
+_chem_comp.name                                  "3,3-DIHYDROXY L-ALANINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         3-HYDROXY-L-SERINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-06-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        121.092 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DDZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1E33 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DDZ N   N   N 0 1 N N N 20.097 36.998 -18.653 -0.146 1.897  0.349  N   DDZ 1  
+DDZ CA  CA  C 0 1 N N S 20.841 37.893 -19.550 -0.047 0.437  0.485  CA  DDZ 2  
+DDZ C   C   C 0 1 N N N 20.136 39.077 -20.226 1.315  -0.019 0.031  C   DDZ 3  
+DDZ O   O   O 0 1 N N N 20.555 40.225 -20.014 1.982  0.689  -0.685 O   DDZ 4  
+DDZ OG1 OG1 O 0 1 N N N 22.354 36.038 -20.169 -1.102 -1.640 -0.156 OG1 DDZ 5  
+DDZ OG2 OG2 O 0 1 N N N 22.064 38.048 -21.490 -2.405 0.291  -0.025 OG2 DDZ 6  
+DDZ CB  CB  C 0 1 N N N 21.496 36.989 -20.688 -1.122 -0.229 -0.377 CB  DDZ 7  
+DDZ OXT OXT O 0 1 N Y N 19.066 38.853 -21.003 1.788  -1.212 0.423  OXT DDZ 8  
+DDZ HN1 HN1 H 0 1 N N N 19.928 36.127 -19.115 -0.012 2.180  -0.611 HN1 DDZ 9  
+DDZ HN2 HN2 H 0 1 N N N 20.632 36.837 -17.824 -1.026 2.235  0.706  HN2 DDZ 10 
+DDZ HA  HA  H 0 1 N N N 21.538 38.401 -18.867 -0.195 0.159  1.528  HA  DDZ 11 
+DDZ HB  HB  H 0 1 N N N 20.840 36.324 -21.269 -0.922 -0.023 -1.429 HB  DDZ 12 
+DDZ HXT HXT H 0 1 N N N 18.729 39.681 -21.326 2.668  -1.462 0.107  HXT DDZ 13 
+DDZ HG1 HG1 H 0 1 N N N 22.551 35.391 -20.836 -1.273 -1.897 0.761  HG1 DDZ 14 
+DDZ HG2 HG2 H 0 1 N N N 22.189 38.821 -20.952 -3.136 -0.087 -0.534 HG2 DDZ 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DDZ N   CA  SING N N 1  
+DDZ CA  C   SING N N 2  
+DDZ CA  CB  SING N N 3  
+DDZ C   O   DOUB N N 4  
+DDZ C   OXT SING N N 5  
+DDZ OG1 CB  SING N N 6  
+DDZ OG2 CB  SING N N 7  
+DDZ N   HN1 SING N N 8  
+DDZ N   HN2 SING N N 9  
+DDZ CA  HA  SING N N 10 
+DDZ CB  HB  SING N N 11 
+DDZ OXT HXT SING N N 12 
+DDZ OG1 HG1 SING N N 13 
+DDZ OG2 HG2 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DDZ SMILES           ACDLabs              10.04 "O=C(O)C(N)C(O)O"                                                   
+DDZ SMILES_CANONICAL CACTVS               3.352 "N[C@@H](C(O)O)C(O)=O"                                              
+DDZ SMILES           CACTVS               3.352 "N[CH](C(O)O)C(O)=O"                                                
+DDZ SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "[C@H](C(O)O)(C(=O)O)N"                                             
+DDZ SMILES           "OpenEye OEToolkits" 1.6.1 "C(C(O)O)(C(=O)O)N"                                                 
+DDZ InChI            InChI                1.03  "InChI=1S/C3H7NO4/c4-1(2(5)6)3(7)8/h1-2,5-6H,4H2,(H,7,8)/t1-/m0/s1" 
+DDZ InChIKey         InChI                1.03  WBZJYDPZNNYSJU-SFOWXEAESA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DDZ "SYSTEMATIC NAME" ACDLabs              10.04 3-hydroxy-L-serine                          
+DDZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-2-amino-3,3-dihydroxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DDZ "Create component"  2000-06-06 EBI  
+DDZ "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,125 @@
+data_KNP
+# 
+_chem_comp.id                                    KNP 
+_chem_comp.name                                  "(2,6-difluorophenoxy)acetic acid" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 F2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-11-11 
+_chem_comp.pdbx_modified_date                    2012-01-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        188.128 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     KNP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2KDD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+KNP F1 F1 F 0 1 N N N 20.936 27.784 13.931 -0.717 -2.373 0.215  F1 KNP 1  
+KNP F2 F2 F 0 1 N N N 21.831 26.576 18.436 -0.717 2.373  0.214  F2 KNP 2  
+KNP O1 O1 O 0 1 N Y N 18.312 24.854 17.328 3.976  -0.000 -0.976 O1 KNP 3  
+KNP O2 O2 O 0 1 N N N 20.143 26.512 16.275 0.635  0.000  0.502  O2 KNP 4  
+KNP O3 O3 O 0 1 N N N 18.539 23.419 15.615 3.174  0.000  1.083  O3 KNP 5  
+KNP C1 C1 C 0 1 N N N 18.888 24.427 16.201 2.955  0.000  -0.105 C1 KNP 6  
+KNP C2 C2 C 0 1 N N N 20.030 25.241 15.637 1.535  -0.000 -0.609 C2 KNP 7  
+KNP C3 C3 C 0 1 Y N N 23.807 28.470 16.046 -3.404 -0.000 -0.357 C3 KNP 8  
+KNP C4 C4 C 0 1 Y N N 22.965 28.443 14.937 -2.729 -1.198 -0.213 C4 KNP 9  
+KNP C5 C5 C 0 1 Y N N 21.737 27.792 15.011 -1.376 -1.202 0.074  C5 KNP 10 
+KNP C6 C6 C 0 1 Y N N 21.351 27.165 16.192 -0.695 0.000  0.219  C6 KNP 11 
+KNP C7 C7 C 0 1 Y N N 22.197 27.183 17.293 -1.376 1.202  0.074  C7 KNP 12 
+KNP C8 C8 C 0 1 Y N N 23.424 27.836 17.223 -2.729 1.198  -0.213 C8 KNP 13 
+KNP H1 H1 H 0 1 N Y N 17.616 24.256 17.574 4.869  -0.000 -0.605 H1 KNP 14 
+KNP H2 H2 H 0 1 N N N 19.852 25.400 14.563 1.364  -0.890 -1.214 H2 KNP 15 
+KNP H3 H3 H 0 1 N N N 20.967 24.686 15.790 1.364  0.890  -1.215 H3 KNP 16 
+KNP H4 H4 H 0 1 N N N 24.756 28.983 15.992 -4.459 -0.000 -0.585 H4 KNP 17 
+KNP H5 H5 H 0 1 N N N 23.265 28.927 14.019 -3.259 -2.132 -0.326 H5 KNP 18 
+KNP H6 H6 H 0 1 N N N 24.078 27.850 18.082 -3.259 2.132  -0.326 H6 KNP 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+KNP F1 C5 SING N N 1  
+KNP F2 C7 SING N N 2  
+KNP O1 C1 SING N N 3  
+KNP O1 H1 SING N N 4  
+KNP O2 C2 SING N N 5  
+KNP O2 C6 SING N N 6  
+KNP O3 C1 DOUB N N 7  
+KNP C1 C2 SING N N 8  
+KNP C2 H2 SING N N 9  
+KNP C2 H3 SING N N 10 
+KNP C3 C4 DOUB Y N 11 
+KNP C3 C8 SING Y N 12 
+KNP C3 H4 SING N N 13 
+KNP C4 C5 SING Y N 14 
+KNP C4 H5 SING N N 15 
+KNP C5 C6 DOUB Y N 16 
+KNP C6 C7 SING Y N 17 
+KNP C7 C8 DOUB Y N 18 
+KNP C8 H6 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+KNP SMILES           ACDLabs              12.01 "O=C(O)COc1c(F)cccc1F"                                                   
+KNP SMILES_CANONICAL CACTVS               3.370 "OC(=O)COc1c(F)cccc1F"                                                   
+KNP SMILES           CACTVS               3.370 "OC(=O)COc1c(F)cccc1F"                                                   
+KNP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc(c(c(c1)F)OCC(=O)O)F"                                               
+KNP SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc(c(c(c1)F)OCC(=O)O)F"                                               
+KNP InChI            InChI                1.03  "InChI=1S/C8H6F2O3/c9-5-2-1-3-6(10)8(5)13-4-7(11)12/h1-3H,4H2,(H,11,12)" 
+KNP InChIKey         InChI                1.03  OOTAWLNUYMHJOL-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+KNP "SYSTEMATIC NAME" ACDLabs              12.01 "(2,6-difluorophenoxy)acetic acid"     
+KNP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "2-(2,6-difluorophenoxy)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+KNP "Create component"  2010-11-11 RCSB 
+KNP "Modify descriptor" 2011-06-04 RCSB 
+# 

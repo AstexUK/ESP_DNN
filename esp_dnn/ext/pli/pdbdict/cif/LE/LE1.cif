@@ -1,0 +1,126 @@
+data_LE1
+# 
+_chem_comp.id                                    LE1 
+_chem_comp.name                                  3-sulfanyl-L-valine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               VAL 
+_chem_comp.pdbx_synonyms                         L-LE1ICILLAMINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-05-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.211 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LE1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LE1 O   O   O 0 1 N N N 12.964 -6.029 9.096  2.327  -0.737 0.583  O   LE1 1  
+LE1 C   C   C 0 1 N N N 11.736 -6.156 9.121  1.707  -0.024 -0.170 C   LE1 2  
+LE1 CA  CA  C 0 1 N N R 10.865 -4.964 8.835  0.326  -0.422 -0.620 CA  LE1 3  
+LE1 N   N   N 0 1 N N N 9.630  -5.346 8.129  0.145  -1.867 -0.424 N   LE1 4  
+LE1 CB  CB  C 0 1 N N N 10.581 -4.166 10.121 -0.717 0.338  0.201  CB  LE1 5  
+LE1 C9  C9  C 0 1 N N N 11.873 -3.591 10.657 -0.546 -0.001 1.683  C9  LE1 6  
+LE1 C8  C8  C 0 1 N N N 9.913  -5.026 11.171 -0.529 1.843  -0.003 C8  LE1 7  
+LE1 SG  SG  S 0 1 N N N 9.476  -2.825 9.724  -2.381 -0.142 -0.340 SG  LE1 8  
+LE1 OXT OXT O 0 1 N Y N 11.148 -7.425 9.420  2.248  1.127  -0.602 O2  LE1 9  
+LE1 HA  HA  H 0 1 N N N 11.418 -4.299 8.155  0.204  -0.181 -1.676 HA  LE1 10 
+LE1 HN  HN  H 0 1 N N N 8.882  -5.433 8.787  0.780  -2.393 -1.005 HN  LE1 11 
+LE1 HNA HNA H 0 1 N Y N 9.401  -4.644 7.455  0.253  -2.116 0.548  HNA LE1 12 
+LE1 H9  H9  H 0 1 N N N 12.584 -3.451 9.829  0.454  0.288  2.009  H9  LE1 13 
+LE1 H9A H9A H 0 1 N N N 11.672 -2.621 11.135 -1.289 0.541  2.268  H9A LE1 14 
+LE1 H9B H9B H 0 1 N N N 12.303 -4.283 11.397 -0.680 -1.072 1.829  H9B LE1 15 
+LE1 H8  H8  H 0 1 N N N 9.751  -6.037 10.769 -0.651 2.084  -1.059 H8  LE1 16 
+LE1 H8A H8A H 0 1 N N N 10.557 -5.084 12.061 -1.272 2.385  0.582  H8A LE1 17 
+LE1 H8B H8B H 0 1 N N N 8.945  -4.582 11.447 0.470  2.131  0.322  H8B LE1 18 
+LE1 HSG HSG H 0 1 N N N 9.207  -2.151 10.802 -3.181 0.592  0.454  HSG LE1 19 
+LE1 HXT HXT H 0 1 N Y N 11.834 -8.064 9.575  3.135  1.342  -0.282 H11 LE1 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LE1 O   C   DOUB N N 1  
+LE1 C   OXT SING N N 2  
+LE1 CA  C   SING N N 3  
+LE1 CA  CB  SING N N 4  
+LE1 CA  HA  SING N N 5  
+LE1 N   CA  SING N N 6  
+LE1 N   HN  SING N N 7  
+LE1 N   HNA SING N N 8  
+LE1 CB  C9  SING N N 9  
+LE1 CB  C8  SING N N 10 
+LE1 C9  H9  SING N N 11 
+LE1 C9  H9A SING N N 12 
+LE1 C9  H9B SING N N 13 
+LE1 C8  H8  SING N N 14 
+LE1 C8  H8A SING N N 15 
+LE1 C8  H8B SING N N 16 
+LE1 SG  CB  SING N N 17 
+LE1 SG  HSG SING N N 18 
+LE1 OXT HXT SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LE1 SMILES           ACDLabs              10.04 "O=C(O)C(N)C(S)(C)C"                                                      
+LE1 SMILES_CANONICAL CACTVS               3.341 "CC(C)(S)[C@H](N)C(O)=O"                                                  
+LE1 SMILES           CACTVS               3.341 "CC(C)(S)[CH](N)C(O)=O"                                                   
+LE1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)([C@@H](C(=O)O)N)S"                                                 
+LE1 SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C(C(=O)O)N)S"                                                      
+LE1 InChI            InChI                1.03  "InChI=1S/C5H11NO2S/c1-5(2,9)3(6)4(7)8/h3,9H,6H2,1-2H3,(H,7,8)/t3-/m1/s1" 
+LE1 InChIKey         InChI                1.03  VVNCNSJFMMFHPL-GSVOUGTGSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LE1 "SYSTEMATIC NAME" ACDLabs              10.04 3-sulfanyl-L-valine                              
+LE1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-methyl-3-sulfanyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LE1 "Create component"  2009-05-15 RCSB 
+LE1 "Modify descriptor" 2011-06-04 RCSB 
+# 

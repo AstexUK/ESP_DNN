@@ -1,0 +1,110 @@
+data_CAD
+# 
+_chem_comp.id                                    CAD 
+_chem_comp.name                                  "CACODYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 As O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "HYDROXYDIMETHYLARSINE OXIDE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        137.997 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CAD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1D0C 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CAD AS  AS  AS 0 0 N N N -25.995 14.681 51.906 0.007  0.001  0.040  AS  CAD 1  
+CAD C1  C1  C  0 1 N N N -26.000 13.880 53.551 -1.057 -1.589 -0.507 C1  CAD 2  
+CAD C2  C2  C  0 1 N N N -26.959 13.708 50.712 1.891  -0.224 -0.558 C2  CAD 3  
+CAD O1  O1  O  0 1 N Y N ?       ?      ?      -0.706 1.511  -0.732 O1  CAD 4  
+CAD O2  O2  O  0 1 N Y N ?       ?      ?      -0.033 0.145  1.617  O2  CAD 5  
+CAD H11 H11 H  0 1 N N N -26.001 12.787 53.427 -0.635 -2.484 -0.050 H11 CAD 6  
+CAD H12 H12 H  0 1 N N N -25.103 14.185 54.110 -2.090 -1.466 -0.180 H12 CAD 7  
+CAD H13 H13 H  0 1 N N N -26.899 14.187 54.105 -1.030 -1.689 -1.593 H13 CAD 8  
+CAD H21 H21 H  0 1 N N N -27.154 14.315 49.816 1.918  -0.323 -1.644 H21 CAD 9  
+CAD H22 H22 H  0 1 N N N -26.392 12.809 50.429 2.474  0.647  -0.259 H22 CAD 10 
+CAD H23 H23 H  0 1 N N N -27.915 13.411 51.168 2.313  -1.118 -0.101 H23 CAD 11 
+CAD HO1 HO1 H  0 1 N Y N 0.002   0.415  -0.854 -1.625 1.683  -0.484 HO1 CAD 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CAD AS C1  SING N N 1  
+CAD AS C2  SING N N 2  
+CAD AS O1  SING N N 3  
+CAD AS O2  DOUB N N 4  
+CAD C1 H11 SING N N 5  
+CAD C1 H12 SING N N 6  
+CAD C1 H13 SING N N 7  
+CAD C2 H21 SING N N 8  
+CAD C2 H22 SING N N 9  
+CAD C2 H23 SING N N 10 
+CAD O1 HO1 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CAD SMILES           ACDLabs              10.04 "O=[As](O)(C)C"                               
+CAD SMILES_CANONICAL CACTVS               3.341 "C[As](C)(O)=O"                               
+CAD SMILES           CACTVS               3.341 "C[As](C)(O)=O"                               
+CAD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[As](=O)(C)O"                               
+CAD SMILES           "OpenEye OEToolkits" 1.5.0 "C[As](=O)(C)O"                               
+CAD InChI            InChI                1.03  "InChI=1S/C2H7AsO2/c1-3(2,4)5/h1-2H3,(H,4,5)" 
+CAD InChIKey         InChI                1.03  OGGXGZAMXPVRFZ-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CAD "SYSTEMATIC NAME" ACDLabs              10.04 "dimethylarsinic acid" 
+CAD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "dimethylarsinic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CAD "Create component"  1999-07-26 RCSB 
+CAD "Modify descriptor" 2011-06-04 RCSB 
+# 

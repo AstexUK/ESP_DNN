@@ -1,0 +1,128 @@
+data_268
+# 
+_chem_comp.id                                    268 
+_chem_comp.name                                  2-phenoxyethanol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-10-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        138.164 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     268 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RBR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+268 CAE  CAE  C 0 1 Y N N -40.404 19.434 11.765 -1.347 -1.298 0.148  CAE  268 1  
+268 CAC  CAC  C 0 1 Y N N -41.083 19.254 10.563 -2.705 -1.089 -0.002 CAC  268 2  
+268 CAB  CAB  C 0 1 Y N N -42.465 19.373 10.535 -3.193 0.193  -0.178 CAB  268 3  
+268 CAD  CAD  C 0 1 Y N N -43.181 19.654 11.694 -2.324 1.268  -0.204 CAD  268 4  
+268 CAF  CAF  C 0 1 Y N N -42.504 19.834 12.893 -0.966 1.064  -0.054 CAF  268 5  
+268 CAJ  CAJ  C 0 1 Y N N -41.124 19.721 12.924 -0.474 -0.221 0.122  CAJ  268 6  
+268 OAI  OAI  O 0 1 N N N -40.548 19.884 14.141 0.862  -0.424 0.270  OAI  268 7  
+268 CAH  CAH  C 0 1 N N N -39.185 19.439 14.214 1.702  0.732  0.234  CAH  268 8  
+268 CAG  CAG  C 0 1 N N N -38.854 19.281 15.687 3.160  0.308  0.415  CAG  268 9  
+268 OAA  OAA  O 0 1 N N N -37.455 19.113 15.805 3.567  -0.490 -0.698 OAA  268 10 
+268 HAE  HAE  H 0 1 N N N -39.328 19.352 11.799 -0.967 -2.299 0.289  HAE  268 11 
+268 HAC  HAC  H 0 1 N N N -40.538 19.024 9.659  -3.385 -1.928 0.017  HAC  268 12 
+268 HAB  HAB  H 0 1 N N N -42.992 19.246 9.601  -4.254 0.354  -0.295 HAB  268 13 
+268 HAD  HAD  H 0 1 N N N -44.258 19.732 11.662 -2.708 2.268  -0.341 HAD  268 14 
+268 HAF  HAF  H 0 1 N N N -43.051 20.061 13.796 -0.288 1.905  -0.075 HAF  268 15 
+268 HAH1 HAH1 H 0 0 N N N -39.067 18.479 13.690 1.586  1.235  -0.727 HAH1 268 16 
+268 HAH2 HAH2 H 0 0 N N N -38.509 20.162 13.734 1.418  1.413  1.036  HAH2 268 17 
+268 HAG1 HAG1 H 0 0 N N N -39.173 20.176 16.242 3.791  1.195  0.477  HAG1 268 18 
+268 HAG2 HAG2 H 0 0 N N N -39.379 18.409 16.105 3.259  -0.271 1.333  HAG2 268 19 
+268 HAA  HAA  H 0 1 N N N -37.066 19.075 14.939 4.483  -0.794 -0.650 HAA  268 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+268 CAE CAC  DOUB Y N 1  
+268 CAE CAJ  SING Y N 2  
+268 CAC CAB  SING Y N 3  
+268 CAB CAD  DOUB Y N 4  
+268 CAD CAF  SING Y N 5  
+268 CAF CAJ  DOUB Y N 6  
+268 CAJ OAI  SING N N 7  
+268 OAI CAH  SING N N 8  
+268 CAH CAG  SING N N 9  
+268 CAG OAA  SING N N 10 
+268 CAE HAE  SING N N 11 
+268 CAC HAC  SING N N 12 
+268 CAB HAB  SING N N 13 
+268 CAD HAD  SING N N 14 
+268 CAF HAF  SING N N 15 
+268 CAH HAH1 SING N N 16 
+268 CAH HAH2 SING N N 17 
+268 CAG HAG1 SING N N 18 
+268 CAG HAG2 SING N N 19 
+268 OAA HAA  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+268 SMILES           ACDLabs              10.04 "O(c1ccccc1)CCO"                                       
+268 SMILES_CANONICAL CACTVS               3.341 OCCOc1ccccc1                                           
+268 SMILES           CACTVS               3.341 OCCOc1ccccc1                                           
+268 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)OCCO"                                       
+268 SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)OCCO"                                       
+268 InChI            InChI                1.03  InChI=1S/C8H10O2/c9-6-7-10-8-4-2-1-3-5-8/h1-5,9H,6-7H2 
+268 InChIKey         InChI                1.03  QCDWFXQBSFUVSP-UHFFFAOYSA-N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+268 "SYSTEMATIC NAME" ACDLabs              10.04 2-phenoxyethanol 
+268 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-phenoxyethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+268 "Create component"     2007-10-02 RCSB 
+268 "Modify aromatic_flag" 2011-06-04 RCSB 
+268 "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,133 @@
+data_MAF
+# 
+_chem_comp.id                                    MAF 
+_chem_comp.name                                  2-DEOXY-2-FLUORO-ALPHA-D-MANNOSE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H11 F O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-02-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        182.147 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MAF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MAF C1   C1   C 0 1 N N S 79.364 35.249 -7.066  -1.687 -0.170 -0.303 C1   MAF 1  
+MAF C2   C2   C 0 1 N N S 80.500 36.069 -6.449  -0.867 0.066  -1.573 C2   MAF 2  
+MAF F2   F2   F 0 1 N N N 81.530 35.609 -7.252  -0.798 1.439  -1.836 F2   MAF 3  
+MAF C3   C3   C 0 1 N N S 80.579 37.576 -6.731  0.545  -0.489 -1.366 C3   MAF 4  
+MAF O3   O3   O 0 1 N N N 81.658 37.766 -7.654  1.365  -0.144 -2.485 O3   MAF 5  
+MAF C4   C4   C 0 1 N N S 79.362 38.271 -7.372  1.130  0.122  -0.088 C4   MAF 6  
+MAF O4   O4   O 0 1 N N N 78.960 39.433 -6.690  2.387  -0.491 0.203  O4   MAF 7  
+MAF C5   C5   C 0 1 N N R 78.158 37.347 -7.299  0.160  -0.120 1.069  C5   MAF 8  
+MAF O5   O5   O 0 1 N N N 78.541 36.096 -7.846  -1.087 0.514  0.794  O5   MAF 9  
+MAF C6   C6   C 0 1 N N N 77.003 37.867 -8.152  0.751  0.455  2.357  C6   MAF 10 
+MAF O6   O6   O 0 1 N N N 77.404 37.887 -9.513  -0.152 0.226  3.440  O6   MAF 11 
+MAF O1L  O1L  O 0 1 N Y N 78.524 34.450 -6.194  -1.731 -1.571 -0.022 O1L  MAF 12 
+MAF H1   H1   H 0 1 N N N 78.783 34.688 -6.297  -2.701 0.200  -0.451 H1   MAF 13 
+MAF H2   H2   H 0 1 N N N 80.661 35.829 -5.372  -1.340 -0.442 -2.413 H2   MAF 14 
+MAF H3   H3   H 0 1 N N N 80.828 38.102 -5.780  0.501  -1.573 -1.266 H3   MAF 15 
+MAF HA   HA   H 0 1 N N N 81.707 38.699 -7.828  0.952  -0.538 -3.266 HA   MAF 16 
+MAF H4   H4   H 0 1 N N N 79.585 38.516 -8.436  1.271  1.194  -0.229 H4   MAF 17 
+MAF HB   HB   H 0 1 N N N 78.210 39.861 -7.085  2.964  -0.320 -0.553 HB   MAF 18 
+MAF H5   H5   H 0 1 N N N 77.831 37.222 -6.240  0.002  -1.192 1.191  H5   MAF 19 
+MAF H6C1 1H6C H 0 0 N N N 76.632 38.860 -7.804  0.909  1.527  2.237  H6C1 MAF 20 
+MAF H6C2 2H6C H 0 0 N N N 76.065 37.286 -7.995  1.703  -0.030 2.569  H6C2 MAF 21 
+MAF H6   H6   H 0 1 N N N 76.686 38.210 -10.044 0.256  0.604  4.231  H6   MAF 22 
+MAF H1L  H1L  H 0 1 N N N 77.819 33.941 -6.576  -2.259 -1.679 0.780  H1L  MAF 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MAF C1  C2   SING N N 1  
+MAF C1  O5   SING N N 2  
+MAF C1  O1L  SING N N 3  
+MAF C1  H1   SING N N 4  
+MAF C2  F2   SING N N 5  
+MAF C2  C3   SING N N 6  
+MAF C2  H2   SING N N 7  
+MAF C3  O3   SING N N 8  
+MAF C3  C4   SING N N 9  
+MAF C3  H3   SING N N 10 
+MAF O3  HA   SING N N 11 
+MAF C4  O4   SING N N 12 
+MAF C4  C5   SING N N 13 
+MAF C4  H4   SING N N 14 
+MAF O4  HB   SING N N 15 
+MAF C5  O5   SING N N 16 
+MAF C5  C6   SING N N 17 
+MAF C5  H5   SING N N 18 
+MAF C6  O6   SING N N 19 
+MAF C6  H6C1 SING N N 20 
+MAF C6  H6C2 SING N N 21 
+MAF O6  H6   SING N N 22 
+MAF O1L H1L  SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MAF SMILES           ACDLabs              10.04 "FC1C(O)C(O)C(OC1O)CO"                                                                 
+MAF SMILES_CANONICAL CACTVS               3.341 "OC[C@H]1O[C@H](O)[C@@H](F)[C@@H](O)[C@@H]1O"                                          
+MAF SMILES           CACTVS               3.341 "OC[CH]1O[CH](O)[CH](F)[CH](O)[CH]1O"                                                  
+MAF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@@H]([C@@H]([C@H](O1)O)F)O)O)O"                                      
+MAF SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(C(O1)O)F)O)O)O"                                                             
+MAF InChI            InChI                1.03  "InChI=1S/C6H11FO5/c7-3-5(10)4(9)2(1-8)12-6(3)11/h2-6,8-11H,1H2/t2-,3+,4-,5-,6-/m1/s1" 
+MAF InChIKey         InChI                1.03  ZCXUVYAZINUVJD-AIECOIEWSA-N                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MAF "SYSTEMATIC NAME" ACDLabs              10.04 2-deoxy-2-fluoro-alpha-D-mannopyranose                         
+MAF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S,4S,5S,6R)-3-fluoro-6-(hydroxymethyl)oxane-2,4,5-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MAF "Create component"  2002-02-28 EBI  
+MAF "Modify descriptor" 2011-06-04 RCSB 
+# 

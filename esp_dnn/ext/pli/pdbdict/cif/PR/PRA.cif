@@ -1,0 +1,135 @@
+data_PRA
+# 
+_chem_comp.id                                    PRA 
+_chem_comp.name                                  3-PHENYLPROPYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H14 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        136.214 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PRA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TNK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PRA C1    C1    C 0 1 N N N 29.185 15.953 14.341 -3.188 0.001  -0.346 C1    PRA 1  
+PRA C2    C2    C 0 1 N N N 29.736 15.891 15.722 -1.755 0.000  0.190  C2    PRA 2  
+PRA C3    C3    C 0 1 N N N 29.362 14.520 16.161 -0.771 0.002  -0.982 C3    PRA 3  
+PRA "C1'" "C1'" C 0 1 Y N N 29.374 14.352 17.650 0.640  0.001  -0.454 "C1'" PRA 4  
+PRA "C2'" "C2'" C 0 1 Y N N 29.750 13.100 18.107 1.287  -1.197 -0.214 "C2'" PRA 5  
+PRA "C3'" "C3'" C 0 1 Y N N 29.217 12.610 19.283 2.582  -1.198 0.270  "C3'" PRA 6  
+PRA "C4'" "C4'" C 0 1 Y N N 28.315 13.371 20.002 3.229  -0.001 0.515  "C4'" PRA 7  
+PRA "C5'" "C5'" C 0 1 Y N N 27.948 14.629 19.547 2.582  1.196  0.275  "C5'" PRA 8  
+PRA "C6'" "C6'" C 0 1 Y N N 28.478 15.124 18.370 1.289  1.198  -0.214 "C6'" PRA 9  
+PRA N     N     N 1 1 N N N 29.769 15.069 13.334 -4.132 -0.002 0.779  N     PRA 10 
+PRA H11   1H1   H 0 1 N N N 28.082 15.789 14.378 -3.348 -0.888 -0.957 H11   PRA 11 
+PRA H12   2H1   H 0 1 N N N 29.229 17.005 13.975 -3.348 0.892  -0.953 H12   PRA 12 
+PRA H21   1H2   H 0 1 N N N 30.822 16.127 15.803 -1.595 0.888  0.801  H21   PRA 13 
+PRA H22   2H2   H 0 1 N N N 29.394 16.708 16.399 -1.595 -0.892 0.796  H22   PRA 14 
+PRA H31   1H3   H 0 1 N N N 28.374 14.223 15.736 -0.932 -0.886 -1.593 H31   PRA 15 
+PRA H32   2H3   H 0 1 N N N 30.009 13.756 15.670 -0.932 0.894  -1.589 H32   PRA 16 
+PRA "H2'" "H2'" H 0 1 N N N 30.472 12.494 17.535 0.781  -2.132 -0.405 "H2'" PRA 17 
+PRA "H3'" "H3'" H 0 1 N N N 29.511 11.611 19.647 3.087  -2.134 0.458  "H3'" PRA 18 
+PRA "H4'" "H4'" H 0 1 N N N 27.888 12.974 20.938 4.240  -0.002 0.894  "H4'" PRA 19 
+PRA "H5'" "H5'" H 0 1 N N N 27.231 15.238 20.123 3.088  2.131  0.466  "H5'" PRA 20 
+PRA "H6'" "H6'" H 0 1 N N N 28.188 16.125 18.008 0.784  2.133  -0.402 "H6'" PRA 21 
+PRA HN1   1HN   H 0 1 N N N 30.535 14.480 13.739 -5.077 -0.001 0.425  HN1   PRA 22 
+PRA HN2   2HN   H 0 1 N N N 30.173 15.676 12.590 -3.984 0.821  1.344  HN2   PRA 23 
+PRA HN3   3HN   H 0 1 N N N 29.053 14.450 12.928 -3.984 -0.827 1.340  HN3   PRA 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PRA C1    C2    SING N N 1  
+PRA C1    N     SING N N 2  
+PRA C1    H11   SING N N 3  
+PRA C1    H12   SING N N 4  
+PRA C2    C3    SING N N 5  
+PRA C2    H21   SING N N 6  
+PRA C2    H22   SING N N 7  
+PRA C3    "C1'" SING N N 8  
+PRA C3    H31   SING N N 9  
+PRA C3    H32   SING N N 10 
+PRA "C1'" "C2'" DOUB Y N 11 
+PRA "C1'" "C6'" SING Y N 12 
+PRA "C2'" "C3'" SING Y N 13 
+PRA "C2'" "H2'" SING N N 14 
+PRA "C3'" "C4'" DOUB Y N 15 
+PRA "C3'" "H3'" SING N N 16 
+PRA "C4'" "C5'" SING Y N 17 
+PRA "C4'" "H4'" SING N N 18 
+PRA "C5'" "C6'" DOUB Y N 19 
+PRA "C5'" "H5'" SING N N 20 
+PRA "C6'" "H6'" SING N N 21 
+PRA N     HN1   SING N N 22 
+PRA N     HN2   SING N N 23 
+PRA N     HN3   SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PRA SMILES           ACDLabs              10.04 "c1ccccc1CCC[NH3+]"                                              
+PRA SMILES_CANONICAL CACTVS               3.341 "[NH3+]CCCc1ccccc1"                                              
+PRA SMILES           CACTVS               3.341 "[NH3+]CCCc1ccccc1"                                              
+PRA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CCC[NH3+]"                                            
+PRA SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CCC[NH3+]"                                            
+PRA InChI            InChI                1.03  InChI=1S/C9H13N/c10-8-4-7-9-5-2-1-3-6-9/h1-3,5-6H,4,7-8,10H2/p+1 
+PRA InChIKey         InChI                1.03  LYUQWQRTDLVQGA-UHFFFAOYSA-O                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PRA "SYSTEMATIC NAME" ACDLabs              10.04 3-phenylpropan-1-aminium 
+PRA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-phenylpropylazanium    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PRA "Create component"  1999-07-08 RCSB 
+PRA "Modify descriptor" 2011-06-04 RCSB 
+# 

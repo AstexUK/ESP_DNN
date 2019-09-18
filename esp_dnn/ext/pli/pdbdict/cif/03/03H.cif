@@ -1,0 +1,126 @@
+data_03H
+# 
+_chem_comp.id                                    03H 
+_chem_comp.name                                  "(2S)-2-chloro-4-methylpentanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H11 Cl O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(S)-alpha-chloroisocaproate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-09-28 
+_chem_comp.pdbx_modified_date                    2012-09-28 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.603 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     03H 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3TZ0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+03H CL  CL  CL 0 0 N N N -7.775  -29.390 14.521 0.487  1.786  -0.062 CL  03H 1  
+03H C1  C1  C  0 1 N N N -7.433  -31.781 13.354 1.726  -0.622 -0.039 C1  03H 2  
+03H O1  O1  O  0 1 N N N -6.923  -32.886 13.303 2.597  -0.964 0.924  O1  03H 3  
+03H C2  C2  C  0 1 N N S -7.706  -31.175 14.698 0.416  0.027  0.326  C2  03H 4  
+03H O2  O2  O  0 1 N N N -8.145  -31.374 12.304 1.995  -0.828 -1.199 O2  03H 5  
+03H C3  C3  C  0 1 N N N -9.017  -31.753 15.218 -0.716 -0.626 -0.470 C3  03H 6  
+03H C4  C4  C  0 1 N N N -9.227  -31.485 16.703 -2.059 -0.055 -0.010 C4  03H 7  
+03H C5  C5  C  0 1 N N N -8.334  -32.351 17.583 -3.179 -0.614 -0.889 C5  03H 8  
+03H C6  C6  C  0 1 N N N -10.683 -31.719 17.067 -2.308 -0.451 1.447  C6  03H 9  
+03H HO1 HO1 H  0 1 N N N -7.133  -33.294 12.471 3.424  -1.378 0.641  HO1 03H 10 
+03H H2  H2  H  0 1 N N N -6.912  -31.409 15.423 0.231  -0.103 1.393  H2  03H 11 
+03H H3  H3  H  0 1 N N N -9.846  -31.292 14.661 -0.578 -0.421 -1.532 H3  03H 12 
+03H H3A H3A H  0 1 N N N -9.005  -32.841 15.059 -0.703 -1.703 -0.304 H3A 03H 13 
+03H H4  H4  H  0 1 N N N -8.953  -30.436 16.887 -2.039 1.031  -0.093 H4  03H 14 
+03H H5  H5  H  0 1 N N N -8.525  -32.119 18.641 -3.198 -1.701 -0.806 H5  03H 15 
+03H H5A H5A H  0 1 N N N -8.553  -33.412 17.396 -4.135 -0.208 -0.561 H5A 03H 16 
+03H H5B H5B H  0 1 N N N -7.279  -32.147 17.347 -3.001 -0.333 -1.927 H5B 03H 17 
+03H H6  H6  H  0 1 N N N -10.829 -31.524 18.140 -2.328 -1.538 1.530  H6  03H 18 
+03H H6A H6A H  0 1 N N N -11.321 -31.041 16.481 -1.510 -0.053 2.074  H6A 03H 19 
+03H H6B H6B H  0 1 N N N -10.954 -32.762 16.844 -3.265 -0.044 1.775  H6B 03H 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+03H CL C2  SING N N 1  
+03H O2 C1  DOUB N N 2  
+03H O1 C1  SING N N 3  
+03H C1 C2  SING N N 4  
+03H O1 HO1 SING N N 5  
+03H C2 C3  SING N N 6  
+03H C2 H2  SING N N 7  
+03H C3 C4  SING N N 8  
+03H C3 H3  SING N N 9  
+03H C3 H3A SING N N 10 
+03H C4 C6  SING N N 11 
+03H C4 C5  SING N N 12 
+03H C4 H4  SING N N 13 
+03H C5 H5  SING N N 14 
+03H C5 H5A SING N N 15 
+03H C5 H5B SING N N 16 
+03H C6 H6  SING N N 17 
+03H C6 H6A SING N N 18 
+03H C6 H6B SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+03H SMILES           ACDLabs              12.01 "ClC(C(=O)O)CC(C)C"                                                       
+03H InChI            InChI                1.03  "InChI=1S/C6H11ClO2/c1-4(2)3-5(7)6(8)9/h4-5H,3H2,1-2H3,(H,8,9)/t5-/m0/s1" 
+03H InChIKey         InChI                1.03  CBQBIPRPIHIKPW-YFKPBYRVSA-N                                               
+03H SMILES_CANONICAL CACTVS               3.370 "CC(C)C[C@H](Cl)C(O)=O"                                                   
+03H SMILES           CACTVS               3.370 "CC(C)C[CH](Cl)C(O)=O"                                                    
+03H SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CC(C)C[C@@H](C(=O)O)Cl"                                                  
+03H SMILES           "OpenEye OEToolkits" 1.7.2 "CC(C)CC(C(=O)O)Cl"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+03H "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-2-chloro-4-methylpentanoic acid"     
+03H "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S)-2-chloranyl-4-methyl-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+03H "Create component" 2011-09-28 RCSB 
+03H "Initial release"  2012-09-28 RCSB 
+# 

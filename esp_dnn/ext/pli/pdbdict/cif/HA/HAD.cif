@@ -1,0 +1,113 @@
+data_HAD
+# 
+_chem_comp.id                                    HAD 
+_chem_comp.name                                  "(CARBOXYHYDROXYAMINO)ETHANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H5 N O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2010-10-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      HDA 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        135.075 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HAD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1NHT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HAD C1  C1  C 0 1 N N N -8.592 53.979 46.927 -0.724 0.581  -0.872 C1  HAD 1  
+HAD C2  C2  C 0 1 N N N -8.351 55.466 47.069 -1.695 -0.010 0.118  C2  HAD 2  
+HAD O1  O1  O 0 1 N N N -9.296 56.199 47.456 -1.308 -0.360 1.208  O1  HAD 3  
+HAD O2  O2  O 0 1 N N N -7.241 55.942 46.744 -2.989 -0.149 -0.211 O2  HAD 4  
+HAD N   N   N 0 1 N N N -7.339 53.198 46.800 0.614  0.624  -0.277 N   HAD 5  
+HAD OH  OH  O 0 1 N N N -6.174 53.853 47.239 1.151  1.856  0.170  OH  HAD 6  
+HAD C   C   C 0 1 N N N -7.189 52.288 45.701 1.334  -0.509 -0.156 C   HAD 7  
+HAD O   O   O 0 1 N N N -6.140 51.700 45.511 0.874  -1.566 -0.540 O   HAD 8  
+HAD OXT OXT O 0 1 N N N ?      ?      ?      2.564  -0.469 0.390  OXT HAD 9  
+HAD H11 H11 H 0 1 N N N -9.128 53.629 47.822 -0.703 -0.034 -1.771 H11 HAD 10 
+HAD H12 H12 H 0 1 N N N -9.196 53.812 46.023 -1.040 1.592  -1.130 H12 HAD 11 
+HAD HO2 HO2 H 0 1 N N N -7.260 56.887 46.842 -3.573 -0.533 0.457  HO2 HAD 12 
+HAD HO  HO  H 0 1 N N N -5.412 53.439 46.851 2.038  1.784  0.547  HO  HAD 13 
+HAD HXT HXT H 0 1 N N N 0.099  -0.602 -0.727 3.043  -1.307 0.456  HXT HAD 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HAD C1  C2  SING N N 1  
+HAD C1  N   SING N N 2  
+HAD C1  H11 SING N N 3  
+HAD C1  H12 SING N N 4  
+HAD C2  O1  DOUB N N 5  
+HAD C2  O2  SING N N 6  
+HAD O2  HO2 SING N N 7  
+HAD N   OH  SING N N 8  
+HAD N   C   SING N N 9  
+HAD OH  HO  SING N N 10 
+HAD C   O   DOUB N N 11 
+HAD C   OXT SING N N 12 
+HAD OXT HXT SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HAD SMILES           ACDLabs              12.01 "O=C(O)N(O)CC(=O)O"                                          
+HAD InChI            InChI                1.02  "InChI=1S/C3H5NO5/c5-2(6)1-4(9)3(7)8/h9H,1H2,(H,5,6)(H,7,8)" 
+HAD InChIKey         InChI                1.02  LJSQPIOQKDFEKE-UHFFFAOYSA-N                                  
+HAD SMILES_CANONICAL CACTVS               3.370 "ON(CC(O)=O)C(O)=O"                                          
+HAD SMILES           CACTVS               3.370 "ON(CC(O)=O)C(O)=O"                                          
+HAD SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(C(=O)O)N(C(=O)O)O"                                        
+HAD SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(=O)O)N(C(=O)O)O"                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HAD "SYSTEMATIC NAME" ACDLabs              12.01 N-carboxy-N-hydroxyglycine               
+HAD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "2-[carboxy(hydroxy)amino]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HAD "Create component" 1999-07-08 RCSB 
+# 

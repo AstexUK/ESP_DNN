@@ -1,0 +1,129 @@
+data_ANQ
+# 
+_chem_comp.id                                    ANQ 
+_chem_comp.name                                  ACENAPHTHENEQUINONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H6 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-01-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        182.175 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ANQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1OAX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ANQ O1  O1  O 0 1 N N N 37.511 51.837 75.668 -1.467 -0.001 -2.784 O1  ANQ 1  
+ANQ C1  C1  C 0 1 N N N 37.558 52.665 76.643 -0.743 -0.000 -1.820 C1  ANQ 2  
+ANQ C81 C81 C 0 1 Y N N 38.546 52.646 77.769 -1.155 0.005  -0.405 C81 ANQ 3  
+ANQ C8  C8  C 0 1 Y N N 39.663 51.808 78.103 -2.370 -0.001 0.278  C8  ANQ 4  
+ANQ C82 C82 C 0 1 Y N N 38.245 53.680 78.605 0.000  -0.000 0.345  C82 ANQ 5  
+ANQ C21 C21 C 0 1 Y N N 37.165 54.392 78.171 1.155  -0.000 -0.405 C21 ANQ 6  
+ANQ C2  C2  C 0 1 N N N 36.637 53.828 76.902 0.743  -0.000 -1.820 C2  ANQ 7  
+ANQ O2  O2  O 0 1 N N N 35.632 54.237 76.212 1.467  0.000  -2.784 O2  ANQ 8  
+ANQ C3  C3  C 0 1 Y N N 36.977 55.337 79.049 2.370  -0.000 0.278  C3  ANQ 9  
+ANQ C51 C51 C 0 1 Y N N 38.920 54.013 79.773 0.000  0.000  1.809  C51 ANQ 10 
+ANQ C6  C6  C 0 1 Y N N 40.007 53.201 80.110 -1.235 -0.000 2.451  C6  ANQ 11 
+ANQ C7  C7  C 0 1 Y N N 40.369 52.116 79.281 -2.397 -0.000 1.673  C7  ANQ 12 
+ANQ C5  C5  C 0 1 Y N N 38.423 55.195 80.571 1.235  -0.000 2.451  C5  ANQ 13 
+ANQ C4  C4  C 0 1 Y N N 37.347 55.867 80.101 2.397  -0.000 1.673  C4  ANQ 14 
+ANQ H8  H8  H 0 1 N N N 39.945 50.990 77.487 -3.297 -0.002 -0.275 H8  ANQ 15 
+ANQ H3  H3  H 0 1 N N N 36.118 55.975 78.781 3.297  -0.000 -0.275 H3  ANQ 16 
+ANQ H6  H6  H 0 1 N N N 40.562 53.401 80.992 -1.294 -0.000 3.530  H6  ANQ 17 
+ANQ H7  H7  H 0 1 N N N 41.199 51.514 79.555 -3.354 -0.000 2.172  H7  ANQ 18 
+ANQ H5  H5  H 0 1 N N N 38.853 55.574 81.513 1.294  -0.001 3.530  H5  ANQ 19 
+ANQ H4  H4  H 0 1 N N N 36.831 56.744 80.525 3.354  -0.000 2.172  H4  ANQ 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ANQ O1  C1  DOUB N N 1  
+ANQ C1  C81 SING N N 2  
+ANQ C1  C2  SING N N 3  
+ANQ C81 C8  DOUB Y N 4  
+ANQ C81 C82 SING Y N 5  
+ANQ C8  C7  SING Y N 6  
+ANQ C8  H8  SING N N 7  
+ANQ C82 C21 SING Y N 8  
+ANQ C82 C51 DOUB Y N 9  
+ANQ C21 C2  SING N N 10 
+ANQ C21 C3  DOUB Y N 11 
+ANQ C2  O2  DOUB N N 12 
+ANQ C3  C4  SING Y N 13 
+ANQ C3  H3  SING N N 14 
+ANQ C51 C6  SING Y N 15 
+ANQ C51 C5  SING Y N 16 
+ANQ C6  C7  DOUB Y N 17 
+ANQ C6  H6  SING N N 18 
+ANQ C7  H7  SING N N 19 
+ANQ C5  C4  DOUB Y N 20 
+ANQ C5  H5  SING N N 21 
+ANQ C4  H4  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ANQ SMILES           ACDLabs              10.04 "O=C3c2cccc1cccc(c12)C3=O"                                        
+ANQ SMILES_CANONICAL CACTVS               3.341 "O=C1C(=O)c2cccc3cccc1c23"                                        
+ANQ SMILES           CACTVS               3.341 "O=C1C(=O)c2cccc3cccc1c23"                                        
+ANQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc2cccc3c2c(c1)C(=O)C3=O"                                      
+ANQ SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc2cccc3c2c(c1)C(=O)C3=O"                                      
+ANQ InChI            InChI                1.03  "InChI=1S/C12H6O2/c13-11-8-5-1-3-7-4-2-6-9(10(7)8)12(11)14/h1-6H" 
+ANQ InChIKey         InChI                1.03  AFPRJLBZLPBTPZ-UHFFFAOYSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ANQ "SYSTEMATIC NAME" ACDLabs              10.04 acenaphthylene-1,2-dione 
+ANQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 acenaphthene-1,2-dione   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ANQ "Create component"  2003-01-21 EBI  
+ANQ "Modify descriptor" 2011-06-04 RCSB 
+# 

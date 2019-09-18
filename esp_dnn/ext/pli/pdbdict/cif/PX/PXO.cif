@@ -1,0 +1,110 @@
+data_PXO
+# 
+_chem_comp.id                                    PXO 
+_chem_comp.name                                  "(1Z)-propanal oxime" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(Z)-propionaldoxime" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-03-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        73.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PXO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3A16 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PXO C3  C3  C 0 1 N N N 14.719 26.903 45.231 2.162  -0.273 -0.375 C3  PXO 1  
+PXO C2  C2  C 0 1 N N N 16.194 26.586 45.082 0.936  -0.241 0.541  C2  PXO 2  
+PXO C1  C1  C 0 1 N N N 16.586 25.484 46.055 0.009  0.863  0.102  C1  PXO 3  
+PXO N1  N1  N 0 1 N N N 17.748 24.948 46.118 -1.214 0.602  -0.168 N1  PXO 4  
+PXO O1  O1  O 0 1 N N N 18.770 25.379 45.245 -1.696 -0.724 -0.055 O1  PXO 5  
+PXO H3  H3  H 0 1 N N N 14.466 26.980 46.299 2.682  0.683  -0.318 H3  PXO 6  
+PXO H3A H3A H 0 1 N N N 14.497 27.858 44.732 2.832  -1.071 -0.058 H3A PXO 7  
+PXO H3B H3B H 0 1 N N N 14.124 26.101 44.770 1.843  -0.452 -1.402 H3B PXO 8  
+PXO H2  H2  H 0 1 N N N 16.393 26.252 44.053 0.415  -1.197 0.484  H2  PXO 9  
+PXO H2A H2A H 0 1 N N N 16.783 27.489 45.300 1.255  -0.062 1.568  H2A PXO 10 
+PXO H1  H1  H 0 1 N N N 15.831 25.128 46.741 0.378  1.875  0.016  H1  PXO 11 
+PXO HO1 HO1 H 0 1 N N N 18.418 25.476 44.368 -2.632 -0.823 -0.279 HO1 PXO 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PXO C3 C2  SING N N 1  
+PXO C2 C1  SING N N 2  
+PXO C1 N1  DOUB N N 3  
+PXO N1 O1  SING N N 4  
+PXO C3 H3  SING N N 5  
+PXO C3 H3A SING N N 6  
+PXO C3 H3B SING N N 7  
+PXO C2 H2  SING N Z 8  
+PXO C2 H2A SING N N 9  
+PXO C1 H1  SING N N 10 
+PXO O1 HO1 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PXO SMILES           ACDLabs              10.04 "N(/O)=C/CC"                                   
+PXO SMILES_CANONICAL CACTVS               3.341 CC\C=N/O                                       
+PXO SMILES           CACTVS               3.341 CCC=NO                                         
+PXO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC\C=N/O                                       
+PXO SMILES           "OpenEye OEToolkits" 1.5.0 CCC=NO                                         
+PXO InChI            InChI                1.03  InChI=1S/C3H7NO/c1-2-3-4-5/h3,5H,2H2,1H3/b4-3- 
+PXO InChIKey         InChI                1.03  IFDZZSXEPSSHNC-ARJAWSKDSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PXO "SYSTEMATIC NAME" ACDLabs              10.04 "(1Z)-propanal oxime"             
+PXO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(NZ)-N-propylidenehydroxylamine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PXO "Create component"  2009-03-31 PDBJ 
+PXO "Modify descriptor" 2011-06-04 RCSB 
+# 

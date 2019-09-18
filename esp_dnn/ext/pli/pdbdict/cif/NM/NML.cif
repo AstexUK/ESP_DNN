@@ -1,0 +1,110 @@
+data_NML
+# 
+_chem_comp.id                                    NML 
+_chem_comp.name                                  N-METHYLACETAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        73.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NML 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2NMV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NML C1  C1  C 0 1 N N N -7.126  -5.581 -15.964 0.950  -0.229 0.509  C1  NML 1  
+NML C2  C2  C 0 1 N N N -8.055  -5.176 -17.142 0.745  -0.943 1.804  C2  NML 2  
+NML O2  O2  O 0 1 N N N -7.991  -4.086 -17.734 0.166  -2.023 1.813  O2  NML 3  
+NML N3  N3  N 0 1 N N N -8.986  -6.106 -17.473 1.254  -0.275 2.901  N3  NML 4  
+NML C3  C3  C 0 1 N N N -10.040 -6.090 -18.491 1.163  -0.787 4.250  C3  NML 5  
+NML HN3 HN3 H 0 1 N N N -8.946  -6.945 -16.930 1.714  0.618  2.753  HN3 NML 6  
+NML H11 1H1 H 0 1 N N N -6.092  -5.677 -16.328 1.531  -0.825 -0.213 H11 NML 7  
+NML H12 2H1 H 0 1 N N N -7.169  -4.809 -15.181 -0.000 0.000  0.000  H12 NML 8  
+NML H13 3H1 H 0 1 N N N -7.459  -6.544 -15.549 1.479  0.735  0.581  H13 NML 9  
+NML H31 1H3 H 0 1 N N N -11.024 -6.086 -18.000 0.202  -0.513 4.691  H31 NML 10 
+NML H32 2H3 H 0 1 N N N -9.936  -5.188 -19.112 1.965  -0.371 4.867  H32 NML 11 
+NML H33 3H3 H 0 1 N N N -9.950  -6.984 -19.125 1.252  -1.877 4.247  H33 NML 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NML C1 C2  SING N N 1  
+NML C1 H11 SING N N 2  
+NML C1 H12 SING N N 3  
+NML C1 H13 SING N N 4  
+NML C2 N3  SING N N 5  
+NML C2 O2  DOUB N N 6  
+NML N3 HN3 SING N N 7  
+NML N3 C3  SING N N 8  
+NML C3 H31 SING N N 9  
+NML C3 H32 SING N N 10 
+NML C3 H33 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NML SMILES           ACDLabs              10.04 "O=C(NC)C"                                  
+NML SMILES_CANONICAL CACTVS               3.341 "CNC(C)=O"                                  
+NML SMILES           CACTVS               3.341 "CNC(C)=O"                                  
+NML SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)NC"                                  
+NML SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)NC"                                  
+NML InChI            InChI                1.03  "InChI=1S/C3H7NO/c1-3(5)4-2/h1-2H3,(H,4,5)" 
+NML InChIKey         InChI                1.03  OHLUUHNLEMFGTQ-UHFFFAOYSA-N                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NML "SYSTEMATIC NAME" ACDLabs              10.04 N-methylacetamide  
+NML "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 N-methylethanamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NML "Create component"  2006-10-27 RCSB 
+NML "Modify descriptor" 2011-06-04 RCSB 
+# 

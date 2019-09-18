@@ -1,0 +1,183 @@
+data_SOG
+# 
+_chem_comp.id                                    SOG 
+_chem_comp.name                                  2-HYDROXYMETHYL-6-OCTYLSULFANYL-TETRAHYDRO-PYRAN-3,4,5-TRIOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C14 H28 O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         1-S-OCTYL-BETA-D-THIOGLUCOSIDE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-01-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        308.434 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SOG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1J2Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SOG C1     C1     C 0 1 N N S 38.265 12.229 130.645 -0.632 -0.191 -1.979 C1     SOG 1  
+SOG C2     C2     C 0 1 N N R 38.184 11.411 131.958 -1.430 0.159  -3.237 C2     SOG 2  
+SOG C3     C3     C 0 1 N N S 38.214 12.367 133.159 -0.679 -0.364 -4.466 C3     SOG 3  
+SOG C4     C4     C 0 1 N N S 39.524 13.160 133.101 0.753  0.177  -4.432 C4     SOG 4  
+SOG C5     C5     C 0 1 N N R 39.573 13.960 131.774 1.386  -0.173 -3.083 C5     SOG 5  
+SOG C6     C6     C 0 1 N N N 40.872 14.746 131.664 2.829  0.334  -3.053 C6     SOG 6  
+SOG "C1'"  "C1'"  C 0 1 N N N 37.583 11.893 128.368 -0.391 -0.151 0.789  "C1'"  SOG 7  
+SOG "C2'"  "C2'"  C 0 1 N N N 38.575 11.937 127.222 -0.956 0.240  2.155  "C2'"  SOG 8  
+SOG "C3'"  "C3'"  C 0 1 N N N 37.878 11.752 125.887 0.005  -0.213 3.255  "C3'"  SOG 9  
+SOG "C4'"  "C4'"  C 0 1 N N N 38.868 11.791 124.732 -0.559 0.177  4.621  "C4'"  SOG 10 
+SOG "C5'"  "C5'"  C 0 1 N N N 38.162 11.603 123.396 0.402  -0.276 5.721  "C5'"  SOG 11 
+SOG "C6'"  "C6'"  C 0 1 N N N 39.128 11.780 122.243 -0.162 0.114  7.087  "C6'"  SOG 12 
+SOG "C7'"  "C7'"  C 0 1 N N N 38.441 11.598 120.910 0.799  -0.339 8.186  "C7'"  SOG 13 
+SOG "C8'"  "C8'"  C 0 1 N N N 39.427 11.782 119.781 0.234  0.052  9.553  "C8'"  SOG 14 
+SOG S1     S1     S 0 1 N N N 38.259 11.351 129.509 -1.532 0.387  -0.514 S1     SOG 15 
+SOG O2     O2     O 0 1 N N N 36.988 10.642 131.981 -2.721 -0.449 -3.170 O2     SOG 16 
+SOG O3     O3     O 0 1 N N N 38.152 11.630 134.363 -1.332 0.081  -5.657 O3     SOG 17 
+SOG O4     O4     O 0 1 N N N 39.598 14.048 134.203 1.515  -0.414 -5.486 O4     SOG 18 
+SOG O5     O5     O 0 1 N N N 39.479 13.033 130.655 0.646  0.437  -2.029 O5     SOG 19 
+SOG O6     O6     O 0 1 N N N 40.747 15.983 132.339 3.425  0.002  -1.797 O6     SOG 20 
+SOG H1     H1     H 0 1 N N N 37.377 12.899 130.572 -0.503 -1.272 -1.921 H1     SOG 21 
+SOG H2     H2     H 0 1 N N N 39.056 10.719 132.013 -1.540 1.241  -3.311 H2     SOG 22 
+SOG H3     H3     H 0 1 N N N 37.340 13.058 133.123 -0.659 -1.454 -4.447 H3     SOG 23 
+SOG H4     H4     H 0 1 N N N 40.389 12.458 133.146 0.737  1.259  -4.557 H4     SOG 24 
+SOG H5     H5     H 0 1 N N N 38.719 14.677 131.756 1.381  -1.255 -2.951 H5     SOG 25 
+SOG H61    1H6    H 0 1 N N N 41.747 14.158 132.026 3.396  -0.131 -3.859 H61    SOG 26 
+SOG H62    2H6    H 0 1 N N N 41.192 14.878 130.604 2.836  1.416  -3.183 H62    SOG 27 
+SOG "H1'1" "1H1'" H 0 0 N N N 37.113 12.883 128.572 0.576  0.329  0.645  "H1'1" SOG 28 
+SOG "H1'2" "2H1'" H 0 0 N N N 36.650 11.337 128.112 -0.270 -1.233 0.742  "H1'2" SOG 29 
+SOG "H2'1" "1H2'" H 0 0 N N N 39.182 12.871 127.241 -1.924 -0.240 2.299  "H2'1" SOG 30 
+SOG "H2'2" "2H2'" H 0 0 N N N 39.396 11.196 127.361 -1.077 1.322  2.202  "H2'2" SOG 31 
+SOG "H3'1" "1H3'" H 0 0 N N N 37.268 10.818 125.870 0.973  0.266  3.111  "H3'1" SOG 32 
+SOG "H3'2" "2H3'" H 0 0 N N N 37.058 12.495 125.747 0.126  -1.296 3.208  "H3'2" SOG 33 
+SOG "H4'1" "1H4'" H 0 0 N N N 39.477 12.724 124.745 -1.527 -0.302 4.765  "H4'1" SOG 34 
+SOG "H4'2" "2H4'" H 0 0 N N N 39.688 11.049 124.870 -0.680 1.259  4.668  "H4'2" SOG 35 
+SOG "H5'1" "1H5'" H 0 0 N N N 37.634 10.622 123.343 1.370  0.203  5.577  "H5'1" SOG 36 
+SOG "H5'2" "2H5'" H 0 0 N N N 37.278 12.275 123.299 0.523  -1.358 5.674  "H5'2" SOG 37 
+SOG "H6'1" "1H6'" H 0 0 N N N 39.654 12.761 122.299 -1.130 -0.365 7.231  "H6'1" SOG 38 
+SOG "H6'2" "2H6'" H 0 0 N N N 40.009 11.104 122.342 -0.283 1.197  7.134  "H6'2" SOG 39 
+SOG "H7'1" "1H7'" H 0 0 N N N 37.913 10.618 120.845 1.767  0.140  8.043  "H7'1" SOG 40 
+SOG "H7'2" "2H7'" H 0 0 N N N 37.557 12.269 120.803 0.920  -1.421 8.139  "H7'2" SOG 41 
+SOG "H8'1" "1H8'" H 0 0 N N N 38.919 11.647 118.797 0.920  -0.271 10.336 "H8'1" SOG 42 
+SOG "H8'2" "2H8'" H 0 0 N N N 39.954 12.762 119.846 0.113  1.134  9.600  "H8'2" SOG 43 
+SOG "H8'3" "3H8'" H 0 0 N N N 40.310 11.110 119.887 -0.733 -0.428 9.697  "H8'3" SOG 44 
+SOG HO2    HO2    H 0 1 N N N 36.938 10.140 132.786 -3.158 -0.092 -2.384 HO2    SOG 45 
+SOG HO3    HO3    H 0 1 N N N 38.170 12.221 135.106 -2.228 -0.281 -5.637 HO3    SOG 46 
+SOG HO4    HO4    H 0 1 N N N 40.410 14.539 134.167 1.083  -0.168 -6.315 HO4    SOG 47 
+SOG HO6    HO6    H 0 1 N N N 41.557 16.473 132.270 4.331  0.339  -1.820 HO6    SOG 48 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SOG C1    C2     SING N N 1  
+SOG C1    S1     SING N N 2  
+SOG C1    O5     SING N N 3  
+SOG C1    H1     SING N N 4  
+SOG C2    C3     SING N N 5  
+SOG C2    O2     SING N N 6  
+SOG C2    H2     SING N N 7  
+SOG C3    C4     SING N N 8  
+SOG C3    O3     SING N N 9  
+SOG C3    H3     SING N N 10 
+SOG C4    C5     SING N N 11 
+SOG C4    O4     SING N N 12 
+SOG C4    H4     SING N N 13 
+SOG C5    C6     SING N N 14 
+SOG C5    O5     SING N N 15 
+SOG C5    H5     SING N N 16 
+SOG C6    O6     SING N N 17 
+SOG C6    H61    SING N N 18 
+SOG C6    H62    SING N N 19 
+SOG "C1'" "C2'"  SING N N 20 
+SOG "C1'" S1     SING N N 21 
+SOG "C1'" "H1'1" SING N N 22 
+SOG "C1'" "H1'2" SING N N 23 
+SOG "C2'" "C3'"  SING N N 24 
+SOG "C2'" "H2'1" SING N N 25 
+SOG "C2'" "H2'2" SING N N 26 
+SOG "C3'" "C4'"  SING N N 27 
+SOG "C3'" "H3'1" SING N N 28 
+SOG "C3'" "H3'2" SING N N 29 
+SOG "C4'" "C5'"  SING N N 30 
+SOG "C4'" "H4'1" SING N N 31 
+SOG "C4'" "H4'2" SING N N 32 
+SOG "C5'" "C6'"  SING N N 33 
+SOG "C5'" "H5'1" SING N N 34 
+SOG "C5'" "H5'2" SING N N 35 
+SOG "C6'" "C7'"  SING N N 36 
+SOG "C6'" "H6'1" SING N N 37 
+SOG "C6'" "H6'2" SING N N 38 
+SOG "C7'" "C8'"  SING N N 39 
+SOG "C7'" "H7'1" SING N N 40 
+SOG "C7'" "H7'2" SING N N 41 
+SOG "C8'" "H8'1" SING N N 42 
+SOG "C8'" "H8'2" SING N N 43 
+SOG "C8'" "H8'3" SING N N 44 
+SOG O2    HO2    SING N N 45 
+SOG O3    HO3    SING N N 46 
+SOG O4    HO4    SING N N 47 
+SOG O6    HO6    SING N N 48 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SOG SMILES           ACDLabs              10.04 "S(CCCCCCCC)C1OC(C(O)C(O)C1O)CO"                                                                                         
+SOG SMILES_CANONICAL CACTVS               3.341 "CCCCCCCCS[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O"                                                                     
+SOG SMILES           CACTVS               3.341 "CCCCCCCCS[CH]1O[CH](CO)[CH](O)[CH](O)[CH]1O"                                                                            
+SOG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCCCCCS[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O"                                                                   
+SOG SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCCCCSC1C(C(C(C(O1)CO)O)O)O"                                                                                         
+SOG InChI            InChI                1.03  "InChI=1S/C14H28O5S/c1-2-3-4-5-6-7-8-20-14-13(18)12(17)11(16)10(9-15)19-14/h10-18H,2-9H2,1H3/t10-,11-,12+,13-,14+/m1/s1" 
+SOG InChIKey         InChI                1.03  CGVLVOOFCGWBCS-RGDJUOJXSA-N                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SOG "SYSTEMATIC NAME" ACDLabs              10.04 "octyl 1-thio-beta-D-glucopyranoside"                                  
+SOG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-octylsulfanyl-oxane-3,4,5-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SOG "Create component"  2003-01-21 RCSB 
+SOG "Modify descriptor" 2011-06-04 RCSB 
+# 

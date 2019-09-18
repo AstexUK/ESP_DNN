@@ -1,0 +1,124 @@
+data_2AS
+# 
+_chem_comp.id                                    2AS 
+_chem_comp.name                                  "(2S,3S)-3-methyl-aspartic acid" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.129 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     2AS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1W3M 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2AS C   C   C 0 1 N N N 36.650 12.338 31.304 -1.907 -0.041 -0.212 C   2AS 1  
+2AS O   O   O 0 1 N N N 37.722 12.306 30.708 -2.522 0.151  0.810  O   2AS 2  
+2AS CA  CA  C 0 1 N N S 35.675 11.207 31.114 -0.515 0.514  -0.368 CA  2AS 3  
+2AS N   N   N 0 1 N N N 34.297 11.629 31.252 -0.312 1.608  0.591  N   2AS 4  
+2AS CB  CB  C 0 1 N N S 35.944 10.485 29.757 0.508  -0.593 -0.103 CB  2AS 5  
+2AS CG  CG  C 0 1 N N N 37.329 9.792  29.783 1.901  -0.038 -0.259 CG  2AS 6  
+2AS OD1 OD1 O 0 1 N N N 37.633 9.208  30.866 2.965  -0.834 -0.072 OD1 2AS 7  
+2AS C4  C4  C 0 1 N N N 34.845 9.505  29.406 0.328  -1.123 1.321  C4  2AS 8  
+2AS OD2 OD2 O 0 1 N N N 38.066 9.799  28.788 2.059  1.123  -0.553 OD2 2AS 9  
+2AS OXT OXT O 0 1 N Y N 36.345 13.303 32.163 -2.461 -0.753 -1.205 OXT 2AS 10 
+2AS HA  HA  H 0 1 N N N 35.840 10.482 31.924 -0.386 0.891  -1.383 HA  2AS 11 
+2AS H   H   H 0 1 N N N 33.692 10.844 31.117 -0.933 2.379  0.395  H   2AS 12 
+2AS H2  H2  H 0 1 N Y N 34.154 12.006 32.167 -0.426 1.283  1.539  H2  2AS 13 
+2AS HB2 HB2 H 0 1 N N N 35.949 11.249 28.966 0.358  -1.405 -0.814 HB2 2AS 14 
+2AS H4  H4  H 0 1 N N N 35.077 9.022  28.445 -0.679 -1.524 1.435  H4  2AS 15 
+2AS H4A H4A H 0 1 N N N 34.771 8.740  30.193 1.056  -1.911 1.511  H4A 2AS 16 
+2AS H4B H4B H 0 1 N N N 33.888 10.041 29.325 0.477  -0.311 2.033  H4B 2AS 17 
+2AS HD2 HD2 H 0 1 N N N 38.486 8.799  30.777 3.838  -0.433 -0.184 HD2 2AS 18 
+2AS HXT HXT H 0 1 N Y N 37.068 13.917 32.220 -3.355 -1.092 -1.057 HXT 2AS 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2AS C   O   DOUB N N 1  
+2AS C   CA  SING N N 2  
+2AS C   OXT SING N N 3  
+2AS CA  N   SING N N 4  
+2AS CA  CB  SING N N 5  
+2AS CA  HA  SING N N 6  
+2AS N   H   SING N N 7  
+2AS N   H2  SING N N 8  
+2AS CB  CG  SING N N 9  
+2AS CB  C4  SING N N 10 
+2AS CB  HB2 SING N N 11 
+2AS CG  OD1 SING N N 12 
+2AS CG  OD2 DOUB N N 13 
+2AS C4  H4  SING N N 14 
+2AS C4  H4A SING N N 15 
+2AS C4  H4B SING N N 16 
+2AS OD1 HD2 SING N N 17 
+2AS OXT HXT SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2AS SMILES           ACDLabs              10.04 "O=C(O)C(C)C(N)C(=O)O"                                                              
+2AS SMILES_CANONICAL CACTVS               3.352 "C[C@H]([C]O)[C@H](N)[C](O)(=O)=O"                                                  
+2AS SMILES           CACTVS               3.352 "C[CH]([C]O)[CH](N)[C](O)(=O)=O"                                                    
+2AS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C[C@H]([C]O)[C@@H](C(=O)(=O)O)N"                                                   
+2AS SMILES           "OpenEye OEToolkits" 1.7.0 "CC([C]O)C(C(=O)(=O)O)N"                                                            
+2AS InChI            InChI                1.03  "InChI=1S/C5H9NO4/c1-2(4(7)8)3(6)5(9)10/h2-3H,6H2,1H3,(H,7,8)(H,9,10)/t2-,3-/m0/s1" 
+2AS InChIKey         InChI                1.03  LXRUAYBIUSUULX-HRFVKAFMSA-N                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2AS "SYSTEMATIC NAME" ACDLabs              10.04 "(3S)-3-methyl-L-aspartic acid"                            
+2AS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S,3S)-2-azanyl-1,4-dihydroxy-3-methyl-butane-1,1-dione" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2AS "Create component"  1999-08-05 RCSB 
+2AS "Modify descriptor" 2011-06-04 RCSB 
+# 

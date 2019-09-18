@@ -1,0 +1,130 @@
+data_CUB
+# 
+_chem_comp.id                                    CUB 
+_chem_comp.name                                  "CU(I)-S-MO(IV)(=O)O-NBIC CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 Cu Mo N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    5 
+_chem_comp.pdbx_initial_date                     2002-11-15 
+_chem_comp.pdbx_modified_date                    2011-06-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        306.681 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CUB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1N62 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CUB C3Z C3Z C  0 1 N N N 100.749 141.723 145.670 ? ? ? C3Z CUB 1  
+CUB C2Z C2Z C  0 1 N N N 99.686  141.301 146.410 ? ? ? C2Z CUB 2  
+CUB C1Z C1Z C  0 1 N N N 99.010  140.139 146.033 ? ? ? C1Z CUB 3  
+CUB NZ  NZ  N  0 1 N N N 98.595  140.228 144.647 ? ? ? NZ  CUB 4  
+CUB CU  CU  CU 1 0 N N N 98.816  138.831 143.505 ? ? ? CU  CUB 5  
+CUB MO  MO  MO 4 0 N N N 95.822  142.902 144.015 ? ? ? MO  CUB 6  
+CUB S   S   S  0 1 N N N 97.095  141.349 142.783 ? ? ? S   CUB 7  
+CUB CZ  CZ  C  0 1 N N S 97.615  141.071 144.390 ? ? ? CZ  CUB 8  
+CUB OM2 OM2 O  0 1 N N N 97.006  141.839 145.204 ? ? ? OM2 CUB 9  
+CUB C4Z C4Z C  0 1 N N N 101.736 142.828 146.288 ? ? ? C4Z CUB 10 
+CUB OM1 OM1 O  0 1 N N N 96.455  144.436 143.980 ? ? ? OM1 CUB 11 
+CUB H31 1H3 H  0 1 N N N 101.349 140.834 145.365 ? ? ? H31 CUB 12 
+CUB H32 2H3 H  0 1 N N N 100.378 142.084 144.682 ? ? ? H32 CUB 13 
+CUB H21 1H2 H  0 1 N N N 100.008 141.197 147.472 ? ? ? H21 CUB 14 
+CUB H22 2H2 H  0 1 N N N 98.949  142.134 146.484 ? ? ? H22 CUB 15 
+CUB H11 1H1 H  0 1 N N N 99.615  139.223 146.228 ? ? ? H11 CUB 16 
+CUB H12 2H1 H  0 1 N N N 98.152  139.917 146.710 ? ? ? H12 CUB 17 
+CUB H41 1H4 H  0 1 N N N 102.606 143.173 145.682 ? ? ? H41 CUB 18 
+CUB H42 2H4 H  0 1 N N N 101.135 143.716 146.593 ? ? ? H42 CUB 19 
+CUB H43 3H4 H  0 1 N N N 102.106 142.466 147.275 ? ? ? H43 CUB 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CUB C3Z C2Z SING N N 1  
+CUB C3Z C4Z SING N N 2  
+CUB C3Z H31 SING N N 3  
+CUB C3Z H32 SING N N 4  
+CUB C2Z C1Z SING N N 5  
+CUB C2Z H21 SING N N 6  
+CUB C2Z H22 SING N N 7  
+CUB C1Z NZ  SING N N 8  
+CUB C1Z H11 SING N N 9  
+CUB C1Z H12 SING N N 10 
+CUB NZ  CU  SING N N 11 
+CUB NZ  CZ  SING N N 12 
+CUB MO  S   SING N N 13 
+CUB MO  CZ  SING N N 14 
+CUB MO  OM2 SING N N 15 
+CUB MO  OM1 DOUB N N 16 
+CUB S   CZ  SING N N 17 
+CUB CZ  OM2 SING N N 18 
+CUB C4Z H41 SING N N 19 
+CUB C4Z H42 SING N N 20 
+CUB C4Z H43 SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CUB SMILES           ACDLabs              12.01 "[Cu+]N(CCCC)C12O[Mo+4]2(=O)S1"                                         
+CUB InChI            InChI                1.03  "InChI=1S/C5H9NOS.Cu.Mo.O/c1-2-3-4-6-5(7)8;;;/h2-4H2,1H3;;;/q-3;+2;+6;" 
+CUB InChIKey         InChI                1.03  KNSQHRMNQABPBN-UHFFFAOYSA-N                                             
+CUB SMILES_CANONICAL CACTVS               3.370 "CCCCN([Cu+])[C@@]12O[Mo+4]1(=O)S2"                                     
+CUB SMILES           CACTVS               3.370 "CCCCN([Cu+])[C]12O[Mo+4]1(=O)S2"                                       
+CUB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CCCCN([C@@]12O[Mo+4]1(=O)S2)[Cu+]"                                     
+CUB SMILES           "OpenEye OEToolkits" 1.7.2 "CCCCN(C12O[Mo+4]1(=O)S2)[Cu+]"                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CUB "SYSTEMATIC NAME" ACDLabs 12.01 "mu-[(butylazanidyl-2kappaN)(oxido-1kappaO)(sulfido-1kappaS)methyl-1kappaC](oxo)molybdenumcopper(5+)" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CUB "Create component"  2002-11-15 RCSB 
+CUB "Modify descriptor" 2011-06-04 RCSB 
+CUB "Modify name"       2011-06-07 RCSB 
+CUB "Modify descriptor" 2011-06-07 RCSB 
+CUB "Modify identifier" 2011-06-07 RCSB 
+# 

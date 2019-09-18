@@ -1,0 +1,109 @@
+data_OXQ
+# 
+_chem_comp.id                                    OXQ 
+_chem_comp.name                                  "4-HYDROXY-1,2,5-OXADIAZOLE-3-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H2 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-04-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.059 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OXQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1T24 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OXQ O9  O9  O 0 1 N N N 25.985 21.159 2.318 0.985  -0.013 2.440  O9  OXQ 1  
+OXQ C6  C6  C 0 1 N N N 25.116 20.700 3.030 -0.023 0.003  1.548  C6  OXQ 2  
+OXQ O8  O8  O 0 1 N N N 23.976 21.115 3.108 -1.174 0.019  1.934  O8  OXQ 3  
+OXQ C2  C2  C 0 1 Y N N 25.558 19.526 3.760 0.270  0.004  0.097  C2  OXQ 4  
+OXQ C1  C1  C 0 1 Y N N 25.097 18.991 5.052 -0.676 0.016  -1.039 C1  OXQ 5  
+OXQ O7  O7  O 0 1 N N N 24.183 19.541 5.781 -2.032 0.033  -1.013 O7  OXQ 6  
+OXQ N3  N3  N 0 1 Y N N 26.489 18.725 3.322 1.439  -0.010 -0.505 N3  OXQ 7  
+OXQ O4  O4  O 0 1 Y N N 26.661 17.702 4.253 1.272  -0.003 -1.702 O4  OXQ 8  
+OXQ N5  N5  N 0 1 Y N N 25.794 17.899 5.324 0.123  0.014  -2.078 N5  OXQ 9  
+OXQ HO9 HO9 H 0 1 N N N 26.875 20.834 2.257 0.793  -0.014 3.387  HO9 OXQ 10 
+OXQ HO7 HO7 H 0 1 N N N 23.885 19.195 6.614 -2.324 -0.888 -1.016 HO7 OXQ 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OXQ O9 C6  SING N N 1  
+OXQ O9 HO9 SING N N 2  
+OXQ C6 O8  DOUB N N 3  
+OXQ C6 C2  SING N N 4  
+OXQ C2 C1  SING Y N 5  
+OXQ C2 N3  DOUB Y N 6  
+OXQ C1 O7  SING N N 7  
+OXQ C1 N5  DOUB Y N 8  
+OXQ O7 HO7 SING N N 9  
+OXQ N3 O4  SING Y N 10 
+OXQ O4 N5  SING Y N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OXQ SMILES           ACDLabs              10.04 "O=C(O)c1nonc1O"                                         
+OXQ SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1nonc1O"                                         
+OXQ SMILES           CACTVS               3.341 "OC(=O)c1nonc1O"                                         
+OXQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1(c(non1)O)C(=O)O"                                     
+OXQ SMILES           "OpenEye OEToolkits" 1.5.0 "c1(c(non1)O)C(=O)O"                                     
+OXQ InChI            InChI                1.03  "InChI=1S/C3H2N2O4/c6-2-1(3(7)8)4-9-5-2/h(H,5,6)(H,7,8)" 
+OXQ InChIKey         InChI                1.03  IBRWUZLLHSXPKL-UHFFFAOYSA-N                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OXQ "SYSTEMATIC NAME" ACDLabs              10.04 "4-hydroxy-1,2,5-oxadiazole-3-carboxylic acid" 
+OXQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4-hydroxy-1,2,5-oxadiazole-3-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OXQ "Create component"  2004-04-23 RCSB 
+OXQ "Modify descriptor" 2011-06-04 RCSB 
+# 

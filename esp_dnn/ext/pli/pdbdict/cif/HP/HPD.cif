@@ -1,0 +1,140 @@
+data_HPD
+# 
+_chem_comp.id                                    HPD 
+_chem_comp.name                                  1-HYDROXY-PENTANE-3,4-DIOL-5-PHOSPHATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H13 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+;OPEN FORM OF 2'-DEOXY-RIBOFURANOSE-5'-PHOSPHATE
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-06-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        216.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HPD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1JCL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HPD P      P    P 0 1 N N N 29.504 -3.470 19.268 0.062  -0.056 -2.927 P      HPD 1  
+HPD "O5'"  O5*  O 0 1 N N N 28.565 -2.165 19.123 -0.617 0.499  -1.578 "O5'"  HPD 2  
+HPD O1P    O1P  O 0 1 N N N 30.800 -3.234 18.567 -0.053 -1.531 -2.966 O1P    HPD 3  
+HPD O2P    O2P  O 0 1 N N N 28.694 -4.576 18.586 -0.687 0.574  -4.205 O2P    HPD 4  
+HPD O3P    O3P  O 0 1 N N N 29.727 -3.686 20.755 1.616  0.361  -2.957 O3P    HPD 5  
+HPD "C5'"  C5*  C 0 1 N N N 29.114 -0.880 19.469 0.087  -0.092 -0.486 "C5'"  HPD 6  
+HPD "O4'"  O4*  O 0 1 N N N 27.351 -0.339 20.975 -1.889 0.024  0.898  "O4'"  HPD 7  
+HPD "O3'"  O3*  O 0 1 N N N 28.922 1.940  18.609 1.621  0.135  1.938  "O3'"  HPD 8  
+HPD "C1'"  C1*  C 0 1 N N N 27.228 3.956  20.078 0.399  -0.382 4.492  "C1'"  HPD 9  
+HPD "O1'"  O1*  O 0 1 N N N 28.261 4.280  20.947 -0.160 0.075  5.725  "O1'"  HPD 10 
+HPD "C3'"  C3*  C 0 1 N N S 28.285 1.594  19.820 0.243  -0.237 2.003  "C3'"  HPD 11 
+HPD "C4'"  C4*  C 0 1 N N R 27.945 0.079  19.765 -0.511 0.397  0.833  "C4'"  HPD 12 
+HPD "C2'"  C2*  C 0 1 N N N 27.005 2.450  19.973 -0.356 0.252  3.323  "C2'"  HPD 13 
+HPD HOP2   2HOP H 0 0 N N N 29.246 -5.344 18.671 -0.250 0.216  -4.990 HOP2   HPD 14 
+HPD HOP3   3HOP H 0 0 N N N 30.279 -4.454 20.840 1.647  1.327  -2.930 HOP3   HPD 15 
+HPD "H5'1" 1H5* H 0 0 N N N 29.846 -0.937 20.307 1.138  0.191  -0.535 "H5'1" HPD 16 
+HPD "H5'2" 2H5* H 0 0 N N N 29.807 -0.485 18.690 0.001  -1.177 -0.543 "H5'2" HPD 17 
+HPD "HO'4" 4HO* H 0 0 N N N 26.630 0.252  21.157 -1.921 -0.940 0.844  "HO'4" HPD 18 
+HPD "HO'3" 3HO* H 0 0 N N N 29.129 2.866  18.642 1.653  1.100  1.993  "HO'3" HPD 19 
+HPD "H1'1" 1H1* H 0 0 N N N 26.286 4.482  20.359 1.450  -0.098 4.443  "H1'1" HPD 20 
+HPD "H1'2" 2H1* H 0 0 N N N 27.392 4.408  19.072 0.313  -1.467 4.435  "H1'2" HPD 21 
+HPD "HO'1" 1HO* H 0 0 N N N 28.399 5.217  21.012 0.342  -0.347 6.434  "HO'1" HPD 22 
+HPD "H3'"  H3*  H 0 1 N N N 28.942 1.789  20.698 0.157  -1.322 1.945  "H3'"  HPD 23 
+HPD "H4'"  H4*  H 0 1 N N N 27.252 0.008  18.893 -0.425 1.482  0.891  "H4'"  HPD 24 
+HPD "H2'1" 1H2* H 0 0 N N N 26.408 2.091  20.844 -1.407 -0.031 3.372  "H2'1" HPD 25 
+HPD "H2'2" 2H2* H 0 0 N N N 26.295 2.226  19.142 -0.269 1.337  3.380  "H2'2" HPD 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HPD P     "O5'"  SING N N 1  
+HPD P     O1P    DOUB N N 2  
+HPD P     O2P    SING N N 3  
+HPD P     O3P    SING N N 4  
+HPD "O5'" "C5'"  SING N N 5  
+HPD O2P   HOP2   SING N N 6  
+HPD O3P   HOP3   SING N N 7  
+HPD "C5'" "C4'"  SING N N 8  
+HPD "C5'" "H5'1" SING N N 9  
+HPD "C5'" "H5'2" SING N N 10 
+HPD "O4'" "C4'"  SING N N 11 
+HPD "O4'" "HO'4" SING N N 12 
+HPD "O3'" "C3'"  SING N N 13 
+HPD "O3'" "HO'3" SING N N 14 
+HPD "C1'" "O1'"  SING N N 15 
+HPD "C1'" "C2'"  SING N N 16 
+HPD "C1'" "H1'1" SING N N 17 
+HPD "C1'" "H1'2" SING N N 18 
+HPD "O1'" "HO'1" SING N N 19 
+HPD "C3'" "C4'"  SING N N 20 
+HPD "C3'" "C2'"  SING N N 21 
+HPD "C3'" "H3'"  SING N N 22 
+HPD "C4'" "H4'"  SING N N 23 
+HPD "C2'" "H2'1" SING N N 24 
+HPD "C2'" "H2'2" SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HPD SMILES           ACDLabs              10.04 "O=P(O)(O)OCC(O)C(O)CCO"                                                                 
+HPD SMILES_CANONICAL CACTVS               3.341 "OCC[C@H](O)[C@H](O)CO[P](O)(O)=O"                                                       
+HPD SMILES           CACTVS               3.341 "OCC[CH](O)[CH](O)CO[P](O)(O)=O"                                                         
+HPD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CO)[C@@H]([C@@H](COP(=O)(O)O)O)O"                                                     
+HPD SMILES           "OpenEye OEToolkits" 1.5.0 "C(CO)C(C(COP(=O)(O)O)O)O"                                                               
+HPD InChI            InChI                1.03  "InChI=1S/C5H13O7P/c6-2-1-4(7)5(8)3-12-13(9,10)11/h4-8H,1-3H2,(H2,9,10,11)/t4-,5+/m0/s1" 
+HPD InChIKey         InChI                1.03  YCHBTVQJICBXEI-CRCLSJGQSA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HPD "SYSTEMATIC NAME" ACDLabs              10.04 2-deoxy-5-O-phosphono-D-erythro-pentitol                
+HPD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S)-2,3,5-trihydroxypentyl] dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HPD "Create component"  2001-06-20 RCSB 
+HPD "Modify descriptor" 2011-06-04 RCSB 
+# 

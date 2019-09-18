@@ -1,0 +1,162 @@
+data_FHU
+# 
+_chem_comp.id                                    FHU 
+_chem_comp.name                                  "(5S,6R)-5-FLUORO-6-HYDROXY-PSEUDOURIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C9 H14 F N2 O10 P" 
+_chem_comp.mon_nstd_parent_comp_id               U 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-11-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        360.187 
+_chem_comp.one_letter_code                       U 
+_chem_comp.three_letter_code                     FHU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1K8W 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FHU N1     N1   N 0 1 N N N 14.404 22.998 50.484 1.789  -1.092 2.922  N1     FHU 1  
+FHU C2     C2   C 0 1 N N N 15.440 21.988 50.590 0.963  -1.237 3.971  C2     FHU 2  
+FHU N3     N3   N 0 1 N N N 15.022 20.682 51.054 0.039  -0.310 4.273  N3     FHU 3  
+FHU C4     C4   C 0 1 N N N 13.858 20.539 51.906 -0.258 0.677  3.409  C4     FHU 4  
+FHU C5     C5   C 0 1 N N S 12.703 21.331 51.376 0.375  0.698  2.041  C5     FHU 5  
+FHU C6     C6   C 0 1 N N R 13.199 22.811 51.259 1.798  0.143  2.137  C6     FHU 6  
+FHU O2     O2   O 0 1 N N N 16.581 22.204 50.237 1.053  -2.232 4.664  O2     FHU 7  
+FHU O4     O4   O 0 1 N N N 13.544 19.388 52.190 -1.035 1.551  3.732  O4     FHU 8  
+FHU "C1'"  C1*  C 0 1 N N R 12.263 21.085 49.955 -0.447 -0.166 1.084  "C1'"  FHU 9  
+FHU "C2'"  C2*  C 0 1 N N R 11.983 19.601 49.584 -1.880 0.395  0.948  "C2'"  FHU 10 
+FHU "O2'"  O2*  O 0 1 N N N 13.176 19.055 49.062 -2.786 -0.317 1.792  "O2'"  FHU 11 
+FHU "C3'"  C3*  C 0 1 N N S 10.864 19.699 48.563 -2.231 0.166  -0.540 "C3'"  FHU 12 
+FHU "C4'"  C4*  C 0 1 N N R 10.224 21.065 48.745 -0.970 -0.509 -1.124 "C4'"  FHU 13 
+FHU "O3'"  O3*  O 0 1 N N N 11.175 19.370 47.224 -3.363 -0.696 -0.661 "O3'"  FHU 14 
+FHU "O4'"  O4*  O 0 1 N N N 11.222 21.892 49.391 0.104  -0.104 -0.249 "O4'"  FHU 15 
+FHU "C5'"  C5*  C 0 1 N N N 8.978  21.047 49.596 -0.711 -0.016 -2.549 "C5'"  FHU 16 
+FHU "O5'"  O5*  O 0 1 N N N 8.303  22.302 49.516 0.497  -0.598 -3.042 "O5'"  FHU 17 
+FHU P      P    P 0 1 N N N 6.741  22.397 49.804 0.707  -0.039 -4.537 P      FHU 18 
+FHU OP1    O1P  O 0 1 N N N 6.237  23.697 49.291 0.811  1.436  -4.502 OP1    FHU 19 
+FHU OP2    O2P  O 0 1 N N N 6.492  22.016 51.218 2.058  -0.657 -5.156 OP2    FHU 20 
+FHU OP3    O3P  O 0 1 N Y N 6.090  21.221 48.937 -0.546 -0.467 -5.451 OP3    FHU 21 
+FHU F5     F5   F 0 1 N N N 11.621 21.294 52.291 0.417  2.013  1.566  F5     FHU 22 
+FHU O6     O6   O 0 1 N N N 13.492 23.191 52.584 2.642  1.105  2.773  O6     FHU 23 
+FHU HN1    HN1  H 0 1 N N N 14.155 23.122 49.502 2.388  -1.816 2.681  HN1    FHU 24 
+FHU HN3    HN3  H 0 1 N N N 15.552 19.855 50.778 -0.420 -0.354 5.126  HN3    FHU 25 
+FHU H6     H6   H 0 1 N N N 12.411 23.404 50.739 2.174  -0.064 1.136  H6     FHU 26 
+FHU "H1'"  H1*  H 0 1 N N N 13.208 21.435 49.478 -0.476 -1.197 1.435  "H1'"  FHU 27 
+FHU "H2'"  H2*  H 0 1 N N N 11.681 18.937 50.427 -1.895 1.459  1.185  "H2'"  FHU 28 
+FHU "HO2'" 2HO* H 0 0 N N N 13.004 18.148 48.835 -3.669 0.037  1.616  "HO2'" FHU 29 
+FHU "H3'"  H3*  H 0 1 N N N 10.135 18.881 48.773 -2.421 1.116  -1.040 "H3'"  FHU 30 
+FHU "H4'"  H4*  H 0 1 N N N 9.904  21.446 47.746 -1.081 -1.593 -1.113 "H4'"  FHU 31 
+FHU "HO3'" H3T  H 0 0 N Y N 10.474 19.431 46.585 -3.497 -0.852 -1.606 "HO3'" FHU 32 
+FHU "H5'"  1H5* H 0 1 N N N 8.306  20.196 49.331 -1.542 -0.307 -3.191 "H5'"  FHU 33 
+FHU "H5''" 2H5* H 0 0 N N N 9.199  20.761 50.650 -0.617 1.069  -2.547 "H5''" FHU 34 
+FHU HOP2   2HOP H 0 0 N N N 5.559  22.072 51.389 2.146  -0.298 -6.050 HOP2   FHU 35 
+FHU HOP3   3HOP H 0 0 N N N 5.157  21.277 49.109 -0.578 -1.434 -5.447 HOP3   FHU 36 
+FHU HO6    HO6  H 0 1 N N N 12.699 23.068 53.093 3.527  0.717  2.813  HO6    FHU 37 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FHU N1    C2     SING N N 1  
+FHU N1    C6     SING N N 2  
+FHU N1    HN1    SING N N 3  
+FHU C2    N3     SING N N 4  
+FHU C2    O2     DOUB N N 5  
+FHU N3    C4     SING N N 6  
+FHU N3    HN3    SING N N 7  
+FHU C4    C5     SING N N 8  
+FHU C4    O4     DOUB N N 9  
+FHU C5    C6     SING N N 10 
+FHU C5    "C1'"  SING N N 11 
+FHU C5    F5     SING N N 12 
+FHU C6    O6     SING N N 13 
+FHU C6    H6     SING N N 14 
+FHU "C1'" "C2'"  SING N N 15 
+FHU "C1'" "O4'"  SING N N 16 
+FHU "C1'" "H1'"  SING N N 17 
+FHU "C2'" "O2'"  SING N N 18 
+FHU "C2'" "C3'"  SING N N 19 
+FHU "C2'" "H2'"  SING N N 20 
+FHU "O2'" "HO2'" SING N N 21 
+FHU "C3'" "C4'"  SING N N 22 
+FHU "C3'" "O3'"  SING N N 23 
+FHU "C3'" "H3'"  SING N N 24 
+FHU "C4'" "O4'"  SING N N 25 
+FHU "C4'" "C5'"  SING N N 26 
+FHU "C4'" "H4'"  SING N N 27 
+FHU "O3'" "HO3'" SING N N 28 
+FHU "C5'" "O5'"  SING N N 29 
+FHU "C5'" "H5'"  SING N N 30 
+FHU "C5'" "H5''" SING N N 31 
+FHU "O5'" P      SING N N 32 
+FHU P     OP1    DOUB N N 33 
+FHU P     OP2    SING N N 34 
+FHU P     OP3    SING N N 35 
+FHU OP2   HOP2   SING N N 36 
+FHU OP3   HOP3   SING N N 37 
+FHU O6    HO6    SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FHU SMILES           ACDLabs              10.04 "O=P(OCC1OC(C(O)C1O)C2(F)C(=O)NC(=O)NC2O)(O)O"                                                                                                                  
+FHU SMILES_CANONICAL CACTVS               3.341 "O[C@H]1NC(=O)NC(=O)[C@]1(F)[C@@H]2O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]2O"                                                                                       
+FHU SMILES           CACTVS               3.341 "O[CH]1NC(=O)NC(=O)[C]1(F)[CH]2O[CH](CO[P](O)(O)=O)[CH](O)[CH]2O"                                                                                               
+FHU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@H]([C@@H](O1)[C@@]2([C@H](NC(=O)NC2=O)O)F)O)O)OP(=O)(O)O"                                                                                    
+FHU SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)C2(C(NC(=O)NC2=O)O)F)O)O)OP(=O)(O)O"                                                                                                              
+FHU InChI            InChI                1.03  "InChI=1S/C9H14FN2O10P/c10-9(6(15)11-8(17)12-7(9)16)5-4(14)3(13)2(22-5)1-21-23(18,19)20/h2-6,13-15H,1H2,(H2,18,19,20)(H2,11,12,16,17)/t2-,3-,4-,5-,6-,9+/m1/s1" 
+FHU InChIKey         InChI                1.03  MDODZQNHCLANBT-ZTZBTGHISA-N                                                                                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FHU "SYSTEMATIC NAME" ACDLabs              10.04 "(1R)-1,4-anhydro-1-[(4R,5S)-5-fluoro-4-hydroxy-2,6-dioxohexahydropyrimidin-5-yl]-5-O-phosphono-D-ribitol"                        
+FHU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-[(4R,5S)-5-fluoro-4-hydroxy-2,6-dioxo-1,3-diazinan-5-yl]-3,4-dihydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FHU "Create component"  2001-11-02 RCSB 
+FHU "Modify descriptor" 2011-06-04 RCSB 
+# 

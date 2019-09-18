@@ -1,0 +1,162 @@
+data_SPT
+# 
+_chem_comp.id                                    SPT 
+_chem_comp.name                                  
+;5'-THIO-THYMIDINE PHOSPHONIC ACID
+;
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H15 N2 O7 P S" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-12-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        338.274 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     SPT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1K4S 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SPT "S5'"  S5*  S 0 1 N N N 83.518 3.220  -3.592  -2.684 -1.263 3.575  "S5'"  SPT 1  
+SPT N1     N1   N 0 1 N N N 78.949 0.541  -5.744  1.164  -2.047 0.989  N1     SPT 2  
+SPT C6     C6   C 0 1 N N N 79.745 1.060  -6.744  -0.013 -2.784 0.958  C6     SPT 3  
+SPT C2     C2   C 0 1 N N N 77.718 -0.007 -6.019  2.333  -2.544 0.374  C2     SPT 4  
+SPT O2     O2   O 0 1 N N N 76.989 -0.481 -5.162  3.410  -1.945 0.363  O2     SPT 5  
+SPT N3     N3   N 0 1 N N N 77.372 0.017  -7.346  2.194  -3.793 -0.240 N3     SPT 6  
+SPT C4     C4   C 0 1 N N N 78.119 0.527  -8.394  1.047  -4.570 -0.300 C4     SPT 7  
+SPT O4     O4   O 0 1 N N N 77.679 0.489  -9.533  0.995  -5.663 -0.857 O4     SPT 8  
+SPT C5     C5   C 0 1 N N N 79.396 1.080  -8.031  -0.143 -3.980 0.369  C5     SPT 9  
+SPT C5M    C5M  C 0 1 N N N 80.268 1.651  -9.103  -1.420 -4.757 0.347  C5M    SPT 10 
+SPT "C2'"  C2*  C 0 1 N N N 80.467 -0.498 -4.079  0.710  0.360  0.754  "C2'"  SPT 11 
+SPT "C5'"  C5*  C 0 1 N N N 82.433 2.049  -4.396  -2.005 -0.136 2.327  "C5'"  SPT 12 
+SPT "C4'"  C4*  C 0 1 N N S 81.320 1.642  -3.458  -0.611 0.328  2.728  "C4'"  SPT 13 
+SPT "O4'"  O4*  O 0 1 N N N 80.045 1.823  -4.122  0.247  -0.829 2.764  "O4'"  SPT 14 
+SPT "C1'"  C1*  C 0 1 N N R 79.414 0.564  -4.347  1.157  -0.778 1.657  "C1'"  SPT 15 
+SPT "C3'"  C3*  C 0 1 N N S 81.374 0.169  -3.065  0.008  1.286  1.720  "C3'"  SPT 16 
+SPT "O3'"  O3*  O 0 1 N N N 80.853 -0.035 -1.751  0.965  2.121  2.368  "O3'"  SPT 17 
+SPT OP3    O3P  O 0 1 N Y N ?      ?      ?       -4.440 -2.387 1.358  OP3    SPT 18 
+SPT P      P    P 0 1 N N N ?      ?      ?       -4.581 -1.788 2.860  P      SPT 19 
+SPT OP1    O1P  O 0 1 N N N ?      ?      ?       -5.279 -2.733 3.800  OP1    SPT 20 
+SPT OP2    O2P  O 0 1 N N N ?      ?      ?       -5.432 -0.433 2.589  OP2    SPT 21 
+SPT H6     H6   H 0 1 N N N 80.704 1.473  -6.469  -0.857 -2.318 1.458  H6     SPT 22 
+SPT H3     H3   H 0 1 N N N 76.484 -0.377 -7.582  3.023  -4.171 -0.689 H3     SPT 23 
+SPT H71    1H5M H 0 1 N N N 79.678 1.791  -10.021 -1.735 -4.916 -0.683 H71    SPT 24 
+SPT H72    2H5M H 0 1 N N N 80.668 2.621  -8.772  -2.195 -4.208 0.881  H72    SPT 25 
+SPT H73    3H5M H 0 1 N N N 81.100 0.961  -9.305  -1.272 -5.721 0.833  H73    SPT 26 
+SPT "H2'"  1H2* H 0 1 N N N 80.021 -1.421 -3.680  -0.003 -0.001 0.003  "H2'"  SPT 27 
+SPT "H2''" 2H2* H 0 0 N N N 80.998 -0.817 -4.988  1.556  0.818  0.232  "H2''" SPT 28 
+SPT "H5'"  1H5* H 0 1 N N N 81.999 2.514  -5.294  -1.969 -0.654 1.365  "H5'"  SPT 29 
+SPT "H5''" 2H5* H 0 0 N N N 83.011 1.157  -4.677  -2.674 0.724  2.226  "H5''" SPT 30 
+SPT "H4'"  H4*  H 0 1 N N N 81.438 2.267  -2.560  -0.644 0.753  3.736  "H4'"  SPT 31 
+SPT "H1'"  H1*  H 0 1 N N N 78.546 0.386  -3.696  2.163  -0.604 2.054  "H1'"  SPT 32 
+SPT "H3'"  H3*  H 0 1 N N N 82.401 -0.224 -3.058  -0.722 1.941  1.236  "H3'"  SPT 33 
+SPT "HO3'" H3T  H 0 0 N Y N 81.570 -0.080 -1.129  0.743  3.042  2.146  "HO3'" SPT 34 
+SPT HOP3   3HOP H 0 0 N N N ?      ?      ?       -5.231 -2.783 0.932  HOP3   SPT 35 
+SPT HOP2   2HOP H 0 0 N N N ?      ?      ?       -6.382 -0.511 2.361  HOP2   SPT 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SPT "S5'" "C5'"  SING N N 1  
+SPT "S5'" P      SING N N 2  
+SPT N1    C6     SING N N 3  
+SPT N1    C2     SING N N 4  
+SPT N1    "C1'"  SING N N 5  
+SPT C6    C5     DOUB N N 6  
+SPT C6    H6     SING N N 7  
+SPT C2    O2     DOUB N N 8  
+SPT C2    N3     SING N N 9  
+SPT N3    C4     SING N N 10 
+SPT N3    H3     SING N N 11 
+SPT C4    O4     DOUB N N 12 
+SPT C4    C5     SING N N 13 
+SPT C5    C5M    SING N N 14 
+SPT C5M   H71    SING N N 15 
+SPT C5M   H72    SING N N 16 
+SPT C5M   H73    SING N N 17 
+SPT "C2'" "C1'"  SING N N 18 
+SPT "C2'" "C3'"  SING N N 19 
+SPT "C2'" "H2'"  SING N N 20 
+SPT "C2'" "H2''" SING N N 21 
+SPT "C5'" "C4'"  SING N N 22 
+SPT "C5'" "H5'"  SING N N 23 
+SPT "C5'" "H5''" SING N N 24 
+SPT "C4'" "O4'"  SING N N 25 
+SPT "C4'" "C3'"  SING N N 26 
+SPT "C4'" "H4'"  SING N N 27 
+SPT "O4'" "C1'"  SING N N 28 
+SPT "C1'" "H1'"  SING N N 29 
+SPT "C3'" "O3'"  SING N N 30 
+SPT "C3'" "H3'"  SING N N 31 
+SPT "O3'" "HO3'" SING N N 32 
+SPT OP3   P      SING N N 33 
+SPT OP3   HOP3   SING N N 34 
+SPT P     OP1    DOUB N N 35 
+SPT P     OP2    SING N N 36 
+SPT OP2   HOP2   SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SPT SMILES           ACDLabs              10.04 "O=P(O)(O)SCC2OC(N1C(=O)NC(=O)C(=C1)C)CC2O"                                                                                                       
+SPT SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@H]2C[C@H](O)[C@@H](CS[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                        
+SPT SMILES           CACTVS               3.341 "CC1=CN([CH]2C[CH](O)[CH](CS[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                            
+SPT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CSP(=O)(O)O)O"                                                                                          
+SPT SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2CC(C(O2)CSP(=O)(O)O)O"                                                                                                       
+SPT InChI            InChI                1.03  "InChI=1S/C10H15N2O7PS/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(19-8)4-21-20(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,11,14,15)(H2,16,17,18)/t6-,7+,8+/m0/s1" 
+SPT InChIKey         InChI                1.03  NTABNFYUFIHXQE-XLPZGREQSA-N                                                                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SPT "SYSTEMATIC NAME" ACDLabs              10.04 "5'-S-phosphono-5'-thiothymidine"                                                                      
+SPT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S,3S,5R)-3-hydroxy-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)oxolan-2-yl]methylsulfanylphosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SPT "Create component"  2001-12-05 RCSB 
+SPT "Modify descriptor" 2011-06-04 RCSB 
+# 

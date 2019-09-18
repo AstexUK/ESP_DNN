@@ -1,0 +1,120 @@
+data_3HB
+# 
+_chem_comp.id                                    3HB 
+_chem_comp.name                                  "3-HYDROXYBENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        138.121 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3HB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3PCB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3HB "C1'"  "C1'"  C 0 1 N N N -24.482 -26.213 18.854 1.944  -0.320 0.002  "C1'"  3HB 1  
+3HB "O1'"  "O1'"  O 0 1 N N N -24.184 -25.040 19.215 2.220  -1.502 -0.005 "O1'"  3HB 2  
+3HB "O2'"  "O2'"  O 0 1 N Y N -24.506 -26.486 17.623 2.926  0.602  0.009  "O2'"  3HB 3  
+3HB C1     C1     C 0 1 Y N N -24.745 -27.299 19.920 0.530  0.108  -0.002 C1     3HB 4  
+3HB C2     C2     C 0 1 Y N N -24.699 -26.949 21.272 -0.490 -0.845 -0.015 C2     3HB 5  
+3HB C3     C3     C 0 1 Y N N -24.942 -27.907 22.257 -1.813 -0.437 -0.020 C3     3HB 6  
+3HB C4     C4     C 0 1 Y N N -25.224 -29.221 21.896 -2.123 0.917  -0.011 C4     3HB 7  
+3HB C5     C5     C 0 1 Y N N -25.243 -29.590 20.559 -1.114 1.862  0.001  C5     3HB 8  
+3HB C6     C6     C 0 1 Y N N -24.998 -28.627 19.565 0.208  1.467  0.012  C6     3HB 9  
+3HB O3     O3     O 0 1 N N N -24.936 -27.496 23.572 -2.809 -1.361 -0.032 O3     3HB 10 
+3HB "HO2'" "HO2'" H 0 0 N Y N -24.280 -25.711 17.122 3.836  0.274  0.008  "HO2'" 3HB 11 
+3HB H2     H2     H 0 1 N N N -24.474 -25.932 21.556 -0.248 -1.897 -0.023 H2     3HB 12 
+3HB H4     H4     H 0 1 N N N -25.429 -29.956 22.660 -3.155 1.233  -0.015 H4     3HB 13 
+3HB H5     H5     H 0 1 N N N -25.445 -30.614 20.283 -1.361 2.914  0.007  H5     3HB 14 
+3HB H6     H6     H 0 1 N N N -25.005 -28.914 18.524 0.994  2.207  0.027  H6     3HB 15 
+3HB HO3    HO3    H 0 1 N N N -25.113 -28.239 24.137 -3.103 -1.635 0.847  HO3    3HB 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3HB "C1'" "O1'"  DOUB N N 1  
+3HB "C1'" "O2'"  SING N N 2  
+3HB "C1'" C1     SING N N 3  
+3HB "O2'" "HO2'" SING N N 4  
+3HB C1    C2     SING Y N 5  
+3HB C1    C6     DOUB Y N 6  
+3HB C2    C3     DOUB Y N 7  
+3HB C2    H2     SING N N 8  
+3HB C3    C4     SING Y N 9  
+3HB C3    O3     SING N N 10 
+3HB C4    C5     DOUB Y N 11 
+3HB C4    H4     SING N N 12 
+3HB C5    C6     SING Y N 13 
+3HB C5    H5     SING N N 14 
+3HB C6    H6     SING N N 15 
+3HB O3    HO3    SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3HB SMILES           ACDLabs              12.01 "O=C(O)c1cc(O)ccc1"                                        
+3HB InChI            InChI                1.03  "InChI=1S/C7H6O3/c8-6-3-1-2-5(4-6)7(9)10/h1-4,8H,(H,9,10)" 
+3HB InChIKey         InChI                1.03  IJFXRHURBJZNAO-UHFFFAOYSA-N                                
+3HB SMILES_CANONICAL CACTVS               3.370 "OC(=O)c1cccc(O)c1"                                        
+3HB SMILES           CACTVS               3.370 "OC(=O)c1cccc(O)c1"                                        
+3HB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "c1cc(cc(c1)O)C(=O)O"                                      
+3HB SMILES           "OpenEye OEToolkits" 1.7.2 "c1cc(cc(c1)O)C(=O)O"                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3HB "SYSTEMATIC NAME" ACDLabs              12.01 "3-hydroxybenzoic acid"  
+3HB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "3-oxidanylbenzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3HB "Create component"         1999-07-08 RCSB 
+3HB "Modify descriptor"        2011-06-04 RCSB 
+3HB "Modify leaving atom flag" 2011-06-06 RCSB 
+# 

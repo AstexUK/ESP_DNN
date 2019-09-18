@@ -1,0 +1,104 @@
+data_NHY
+# 
+_chem_comp.id                                    NHY 
+_chem_comp.name                                  N-HYDROXYUREA 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H4 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         1-HYDROXYUREA 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-03-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        76.055 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NHY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2GEH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NHY O2   O2   O 0 1 N N N -5.194 1.095  17.913 0.499  1.263  0.000 O2   NHY 1 
+NHY C    C    C 0 1 N N N -6.183 0.941  17.232 0.517  0.048  0.000 C    NHY 2 
+NHY N2   N2   N 0 1 N N N -7.283 1.664  17.446 1.695  -0.608 0.000 N2   NHY 3 
+NHY N1   N1   N 0 1 N N N -6.192 0.051  16.252 -0.639 -0.644 0.000 N1   NHY 4 
+NHY O1   O1   O 0 1 N N N -5.085 -0.737 15.968 -1.876 0.045  0.000 O1   NHY 5 
+NHY HN21 1HN2 H 0 0 N N N -8.023 1.435  16.813 2.527  -0.110 0.000 HN21 NHY 6 
+NHY HN22 2HN2 H 0 0 N N N -7.360 2.359  18.161 1.710  -1.578 0.004 HN22 NHY 7 
+NHY HN1  HN1  H 0 1 N N N -7.019 -0.057 15.701 -0.624 -1.614 0.000 HN1  NHY 8 
+NHY HO1  HO1  H 0 1 N N N -5.055 -0.917 15.036 -2.571 -0.628 0.000 HO1  NHY 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NHY O2 C    DOUB N N 1 
+NHY C  N2   SING N N 2 
+NHY C  N1   SING N N 3 
+NHY N2 HN21 SING N N 4 
+NHY N2 HN22 SING N N 5 
+NHY N1 O1   SING N N 6 
+NHY N1 HN1  SING N N 7 
+NHY O1 HO1  SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NHY SMILES           ACDLabs              10.04 "O=C(N)NO"                                   
+NHY SMILES_CANONICAL CACTVS               3.341 "NC(=O)NO"                                   
+NHY SMILES           CACTVS               3.341 "NC(=O)NO"                                   
+NHY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)(N)NO"                                 
+NHY SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)(N)NO"                                 
+NHY InChI            InChI                1.03  "InChI=1S/CH4N2O2/c2-1(4)3-5/h5H,(H3,2,3,4)" 
+NHY InChIKey         InChI                1.03  VSNHCAURESNICA-UHFFFAOYSA-N                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NHY "SYSTEMATIC NAME" ACDLabs              10.04 1-hydroxyurea 
+NHY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 hydroxyurea   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NHY "Create component"  2006-03-22 RCSB 
+NHY "Modify descriptor" 2011-06-04 RCSB 
+# 

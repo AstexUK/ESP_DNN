@@ -1,0 +1,195 @@
+data_VGH
+# 
+_chem_comp.id                                    VGH 
+_chem_comp.name                                  "3-[(1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-yl-1H-pyrazol-4-yl)pyridin-2-amine" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C21 H22 Cl2 F N5 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         CRIZOTINIB 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-04-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        450.337 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VGH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2WGJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VGH CL   CL   CL 0 0 N N N 18.319 84.569 3.546  2.709  3.050  0.802  CL   VGH 1  
+VGH C13  C13  C  0 1 Y N N 18.188 83.586 4.968  4.031  1.971  0.487  C13  VGH 2  
+VGH C3   C3   C  0 1 Y N N 17.719 82.288 4.714  5.322  2.343  0.820  C3   VGH 3  
+VGH C2   C2   C  0 1 Y N N 17.535 81.381 5.741  6.376  1.484  0.570  C2   VGH 4  
+VGH C12  C12  C  0 1 Y N N 17.835 81.794 7.021  6.140  0.251  -0.014 C12  VGH 5  
+VGH F    F    F  0 1 N N N 17.661 80.919 8.002  7.170  -0.589 -0.258 F    VGH 6  
+VGH C17  C17  C  0 1 Y N N 18.506 84.032 6.279  3.794  0.737  -0.091 C17  VGH 7  
+VGH C18  C18  C  0 1 Y N N 18.316 83.079 7.308  4.848  -0.121 -0.347 C18  VGH 8  
+VGH CL2  CL2  CL 0 0 N N N 18.618 83.397 8.986  4.551  -1.667 -1.079 CL2  VGH 9  
+VGH C21  C21  C  0 1 N N R 19.033 85.449 6.539  2.387  0.330  -0.447 C21  VGH 10 
+VGH C1   C1   C  0 1 N N N 18.117 86.249 7.461  2.196  0.428  -1.962 C1   VGH 11 
+VGH O27  O27  O  0 1 N N N 20.342 85.442 7.151  2.159  -1.016 -0.025 O27  VGH 12 
+VGH C15  C15  C  0 1 Y N N 21.527 85.138 6.508  0.872  -1.375 0.227  C15  VGH 13 
+VGH C4   C4   C  0 1 Y N N 21.744 84.762 5.164  -0.165 -0.494 -0.032 C4   VGH 14 
+VGH C19  C19  C  0 1 Y N N 22.666 85.220 7.324  0.578  -2.637 0.746  C19  VGH 15 
+VGH N22  N22  N  0 1 N N N 22.541 85.576 8.672  1.612  -3.533 1.006  N22  VGH 16 
+VGH N23  N23  N  0 1 Y N N 23.923 84.975 6.878  -0.672 -2.993 0.993  N23  VGH 17 
+VGH C5   C5   C  0 1 Y N N 24.084 84.625 5.584  -1.685 -2.180 0.763  C5   VGH 18 
+VGH C14  C14  C  0 1 Y N N 23.044 84.501 4.671  -1.473 -0.908 0.243  C14  VGH 19 
+VGH C16  C16  C  0 1 Y N N 23.335 84.087 3.302  -2.620 -0.001 -0.017 C16  VGH 20 
+VGH C6   C6   C  0 1 Y N N 22.520 83.628 2.237  -2.546 1.305  -0.539 C6   VGH 21 
+VGH C7   C7   C  0 1 Y N N 24.606 84.007 2.765  -3.936 -0.283 0.200  C7   VGH 22 
+VGH N26  N26  N  0 1 Y N N 24.497 83.561 1.484  -4.652 0.801  -0.164 N26  VGH 23 
+VGH N24  N24  N  0 1 Y N N 23.213 83.319 1.137  -3.761 1.779  -0.622 N24  VGH 24 
+VGH C20  C20  C  0 1 N N N 25.595 83.351 0.536  -6.109 0.931  -0.095 C20  VGH 25 
+VGH C8   C8   C  0 1 N N N 26.030 81.893 0.292  -6.736 0.339  -1.360 C8   VGH 26 
+VGH C10  C10  C  0 1 N N N 25.528 81.215 -0.984 -8.260 0.423  -1.256 C10  VGH 27 
+VGH N25  N25  N  0 1 N N N 25.502 82.151 -2.159 -8.712 -0.318 -0.071 N25  VGH 28 
+VGH C11  C11  C  0 1 N N N 24.840 83.475 -1.928 -8.161 0.262  1.160  C11  VGH 29 
+VGH C9   C9   C  0 1 N N N 25.500 84.191 -0.751 -6.634 0.173  1.128  C9   VGH 30 
+VGH H3   H3   H  0 1 N N N 17.498 81.993 3.699  5.506  3.305  1.274  H3   VGH 31 
+VGH H2   H2   H  0 1 N N N 17.169 80.384 5.547  7.383  1.775  0.829  H2   VGH 32 
+VGH H21  H21  H  0 1 N N N 19.077 85.917 5.545  1.680  0.992  0.052  H21  VGH 33 
+VGH H11C H11C H  0 0 N N N 18.632 86.441 8.414  2.370  1.455  -2.284 H11C VGH 34 
+VGH H12C H12C H  0 0 N N N 17.861 87.206 6.983  2.903  -0.234 -2.461 H12C VGH 35 
+VGH H13C H13C H  0 0 N N N 17.197 85.676 7.651  1.179  0.134  -2.220 H13C VGH 36 
+VGH H4   H4   H  0 1 N N N 20.899 84.672 4.498  0.031  0.488  -0.437 H4   VGH 37 
+VGH H221 H221 H  0 0 N N N 22.511 84.749 9.234  2.531  -3.277 0.827  H221 VGH 38 
+VGH H222 H222 H  0 0 N N N 23.325 86.135 8.943  1.414  -4.411 1.366  H222 VGH 39 
+VGH H5   H5   H  0 1 N N N 25.087 84.428 5.236  -2.692 -2.507 0.977  H5   VGH 40 
+VGH H6   H6   H  0 1 N N N 21.446 83.537 2.308  -1.642 1.825  -0.822 H6   VGH 41 
+VGH H7   H7   H  0 1 N N N 25.526 84.255 3.274  -4.334 -1.207 0.593  H7   VGH 42 
+VGH H20  H20  H  0 1 N N N 26.446 83.766 1.096  -6.377 1.985  -0.014 H20  VGH 43 
+VGH H81C H81C H  0 0 N N N 27.129 81.890 0.245  -6.399 0.902  -2.231 H81C VGH 44 
+VGH H82C H82C H  0 0 N N N 25.584 81.318 1.117  -6.435 -0.704 -1.462 H82C VGH 45 
+VGH H91C H91C H  0 0 N N N 24.904 85.087 -0.525 -6.331 -0.872 1.065  H91C VGH 46 
+VGH H92C H92C H  0 0 N N N 26.532 84.417 -1.057 -6.224 0.618  2.035  H92C VGH 47 
+VGH H101 H101 H  0 0 N N N 26.199 80.376 -1.221 -8.562 1.467  -1.168 H101 VGH 48 
+VGH H102 H102 H  0 0 N N N 24.498 80.875 -0.802 -8.710 -0.011 -2.149 H102 VGH 49 
+VGH H25  H25  H  0 1 N N N 26.451 82.333 -2.417 -9.720 -0.358 -0.032 H25  VGH 50 
+VGH H111 H111 H  0 0 N N N 24.940 84.094 -2.832 -8.463 1.306  1.237  H111 VGH 51 
+VGH H112 H112 H  0 0 N N N 23.776 83.312 -1.701 -8.538 -0.289 2.022  H112 VGH 52 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VGH CL  C13  SING N N 1  
+VGH C13 C3   SING Y N 2  
+VGH C13 C17  DOUB Y N 3  
+VGH C3  C2   DOUB Y N 4  
+VGH C2  C12  SING Y N 5  
+VGH C12 F    SING N N 6  
+VGH C12 C18  DOUB Y N 7  
+VGH C17 C18  SING Y N 8  
+VGH C17 C21  SING N N 9  
+VGH C18 CL2  SING N N 10 
+VGH C21 C1   SING N N 11 
+VGH C21 O27  SING N N 12 
+VGH O27 C15  SING N N 13 
+VGH C15 C4   DOUB Y N 14 
+VGH C15 C19  SING Y N 15 
+VGH C4  C14  SING Y N 16 
+VGH C19 N22  SING N N 17 
+VGH C19 N23  DOUB Y N 18 
+VGH N23 C5   SING Y N 19 
+VGH C5  C14  DOUB Y N 20 
+VGH C14 C16  SING Y N 21 
+VGH C16 C6   SING Y N 22 
+VGH C16 C7   DOUB Y N 23 
+VGH C6  N24  DOUB Y N 24 
+VGH C7  N26  SING Y N 25 
+VGH N26 N24  SING Y N 26 
+VGH N26 C20  SING N N 27 
+VGH C20 C8   SING N N 28 
+VGH C20 C9   SING N N 29 
+VGH C8  C10  SING N N 30 
+VGH C10 N25  SING N N 31 
+VGH N25 C11  SING N N 32 
+VGH C11 C9   SING N N 33 
+VGH C3  H3   SING N N 34 
+VGH C2  H2   SING N N 35 
+VGH C21 H21  SING N N 36 
+VGH C1  H11C SING N N 37 
+VGH C1  H12C SING N N 38 
+VGH C1  H13C SING N N 39 
+VGH C4  H4   SING N N 40 
+VGH N22 H221 SING N N 41 
+VGH N22 H222 SING N N 42 
+VGH C5  H5   SING N N 43 
+VGH C6  H6   SING N N 44 
+VGH C7  H7   SING N N 45 
+VGH C20 H20  SING N N 46 
+VGH C8  H81C SING N N 47 
+VGH C8  H82C SING N N 48 
+VGH C9  H91C SING N N 49 
+VGH C9  H92C SING N N 50 
+VGH C10 H101 SING N N 51 
+VGH C10 H102 SING N N 52 
+VGH N25 H25  SING N N 53 
+VGH C11 H111 SING N N 54 
+VGH C11 H112 SING N N 55 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VGH SMILES           ACDLabs              10.04 "Clc1ccc(F)c(Cl)c1C(Oc2cc(cnc2N)c3cnn(c3)C4CCNCC4)C"                                                                                                                    
+VGH SMILES_CANONICAL CACTVS               3.352 "C[C@@H](Oc1cc(cnc1N)c2cnn(c2)C3CCNCC3)c4c(Cl)ccc(F)c4Cl"                                                                                                               
+VGH SMILES           CACTVS               3.352 "C[CH](Oc1cc(cnc1N)c2cnn(c2)C3CCNCC3)c4c(Cl)ccc(F)c4Cl"                                                                                                                 
+VGH SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C[C@H](c1c(ccc(c1Cl)F)Cl)Oc2cc(cnc2N)c3cnn(c3)C4CCNCC4"                                                                                                                
+VGH SMILES           "OpenEye OEToolkits" 1.6.1 "CC(c1c(ccc(c1Cl)F)Cl)Oc2cc(cnc2N)c3cnn(c3)C4CCNCC4"                                                                                                                    
+VGH InChI            InChI                1.03  "InChI=1S/C21H22Cl2FN5O/c1-12(19-16(22)2-3-17(24)20(19)23)30-18-8-13(9-27-21(18)25)14-10-28-29(11-14)15-4-6-26-7-5-15/h2-3,8-12,15,26H,4-7H2,1H3,(H2,25,27)/t12-/m1/s1" 
+VGH InChIKey         InChI                1.03  KTEIFNKAUNYNJU-GFCCVEGCSA-N                                                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VGH "SYSTEMATIC NAME" ACDLabs              10.04 "3-[(1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-yl-1H-pyrazol-4-yl)pyridin-2-amine" 
+VGH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "3-[(1R)-1-(2,6-dichloro-3-fluoro-phenyl)ethoxy]-5-(1-piperidin-4-ylpyrazol-4-yl)pyridin-2-amine"    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VGH "Create component"     2009-04-20 EBI  
+VGH "Modify aromatic_flag" 2011-06-04 RCSB 
+VGH "Modify descriptor"    2011-06-04 RCSB 
+# 

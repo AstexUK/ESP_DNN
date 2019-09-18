@@ -1,0 +1,102 @@
+data_ETI
+# 
+_chem_comp.id                                    ETI 
+_chem_comp.name                                  IODOETHANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 I" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-10-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        155.966 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ETI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1FZ9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ETI C1  C1  C 0 1 N N N 78.147 79.822 85.729 -1.552 0.715  0.000  C1  ETI 1 
+ETI C2  C2  C 0 1 N N N 79.439 79.079 85.734 -2.526 -0.465 -0.000 C2  ETI 2 
+ETI I   I   I 0 1 N N N 80.839 80.155 86.936 0.479  -0.027 0.000  I   ETI 3 
+ETI H11 H11 H 0 1 N N N 77.437 80.317 85.050 -1.717 1.322  -0.890 H11 ETI 4 
+ETI H12 H12 H 0 1 N N N 77.086 79.713 85.999 -1.717 1.322  0.890  H12 ETI 5 
+ETI H21 H21 H 0 1 N N N 79.343 78.171 85.121 -2.361 -1.072 0.890  H21 ETI 6 
+ETI H22 H22 H 0 1 N N N 80.232 79.719 85.319 -3.550 -0.091 -0.000 H22 ETI 7 
+ETI H23 H23 H 0 1 N N N 79.697 78.799 86.766 -2.361 -1.072 -0.890 H23 ETI 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ETI C1 C2  SING N N 1 
+ETI C1 I   SING N N 2 
+ETI C1 H11 SING N N 3 
+ETI C1 H12 SING N N 4 
+ETI C2 H21 SING N N 5 
+ETI C2 H22 SING N N 6 
+ETI C2 H23 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ETI SMILES           ACDLabs              11.02 ICC                            
+ETI SMILES_CANONICAL CACTVS               3.352 CCI                            
+ETI SMILES           CACTVS               3.352 CCI                            
+ETI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CCI                            
+ETI SMILES           "OpenEye OEToolkits" 1.7.0 CCI                            
+ETI InChI            InChI                1.03  InChI=1S/C2H5I/c1-2-3/h2H2,1H3 
+ETI InChIKey         InChI                1.03  HVTICUPFWKNHNG-UHFFFAOYSA-N    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ETI "SYSTEMATIC NAME" ACDLabs              11.02 iodoethane 
+ETI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 iodoethane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ETI "Create component"  2000-10-13 RCSB 
+ETI "Modify descriptor" 2011-06-04 RCSB 
+# 

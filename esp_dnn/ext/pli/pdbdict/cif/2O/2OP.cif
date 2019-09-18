@@ -1,0 +1,110 @@
+data_2OP
+# 
+_chem_comp.id                                    2OP 
+_chem_comp.name                                  "(2S)-2-HYDROXYPROPANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-12-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        90.078 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2OP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1VQ7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2OP C   C   C 0 1 N N N 29.639 -9.816  -5.859 -0.725 -0.128 0.051  C   2OP 1  
+2OP O   O   O 0 1 N N N 29.511 -8.819  -5.147 -1.001 -1.198 -0.437 O   2OP 2  
+2OP CB  CB  C 0 1 N N N 31.642 -10.478 -7.196 1.199  1.347  -0.468 CB  2OP 3  
+2OP OHN OHN O 0 1 N N N 30.564 -8.342  -7.518 1.520  -0.958 0.183  OHN 2OP 4  
+2OP CA  CA  C 0 1 N N S 30.327 -9.720  -7.212 0.703  0.193  0.406  CA  2OP 5  
+2OP OXT OXT O 0 1 N Y N 29.196 -11.011 -5.519 -1.691 0.778  0.271  OXT 2OP 6  
+2OP HB1 HB1 H 0 1 N N N 32.124 -10.397 -8.181 2.233  1.579  -0.211 HB1 2OP 7  
+2OP HB2 HB2 H 0 1 N N N 32.303 -10.049 -6.428 1.142  1.059  -1.517 HB2 2OP 8  
+2OP HB3 HB3 H 0 1 N N N 31.452 -11.537 -6.967 0.577  2.225  -0.298 HB3 2OP 9  
+2OP HHN HHN H 0 1 N N N 30.291 -7.803  -6.785 2.455  -0.824 0.392  HHN 2OP 10 
+2OP HA  HA  H 0 1 N N N 29.679 -10.168 -7.980 0.761  0.482  1.456  HA  2OP 11 
+2OP HXT HXT H 0 1 N N N 28.780 -10.964 -4.666 -2.592 0.528  0.023  HXT 2OP 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2OP C   O   DOUB N N 1  
+2OP C   CA  SING N N 2  
+2OP CB  CA  SING N N 3  
+2OP CB  HB1 SING N N 4  
+2OP CB  HB2 SING N N 5  
+2OP CB  HB3 SING N N 6  
+2OP OHN CA  SING N N 7  
+2OP C   OXT SING N N 8  
+2OP OHN HHN SING N N 9  
+2OP CA  HA  SING N N 10 
+2OP OXT HXT SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2OP SMILES           ACDLabs              12.01 "O=C(O)C(O)C"                                              
+2OP SMILES_CANONICAL CACTVS               3.370 "C[C@H](O)C(O)=O"                                          
+2OP SMILES           CACTVS               3.370 "C[CH](O)C(O)=O"                                           
+2OP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C[C@@H](C(=O)O)O"                                         
+2OP SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C(=O)O)O"                                              
+2OP InChI            InChI                1.03  "InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/t2-/m0/s1" 
+2OP InChIKey         InChI                1.03  JVTAAEKCZFNVCJ-REOHCLBHSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2OP "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-2-hydroxypropanoic acid" 
+2OP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-2-hydroxypropanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2OP "Create component"  2004-12-29 RCSB 
+2OP "Modify descriptor" 2011-06-04 RCSB 
+# 

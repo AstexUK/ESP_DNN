@@ -1,0 +1,118 @@
+data_DTI
+# 
+_chem_comp.id                                    DTI 
+_chem_comp.name                                  "3,4-DIMETHYLTHIAZOLIUM ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 N S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2001-01-24 
+_chem_comp.pdbx_modified_date                    2012-01-25 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        114.189 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DTI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AED 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DTI N10  N10  N 1 1 Y N N 32.344 93.026 48.081 0.570  -0.653 0.002  N10  DTI 1  
+DTI C9   C9   C 0 1 Y N N 31.496 93.763 47.245 0.632  0.663  0.000  C9   DTI 2  
+DTI S13  S13  S 0 1 Y N N 31.206 94.652 49.643 -1.805 0.031  -0.000 S13  DTI 3  
+DTI C11  C11  C 0 1 Y N N 32.295 93.385 49.359 -0.605 -1.187 0.002  C11  DTI 4  
+DTI C14  C14  C 0 1 Y N N 30.805 94.695 47.960 -0.557 1.274  -0.001 C14  DTI 5  
+DTI C1   C1   C 0 1 N N N 31.424 93.496 45.775 1.937  1.418  0.001  C1   DTI 6  
+DTI C5   C5   C 0 1 N N N 33.218 91.942 47.586 1.783  -1.475 -0.002 C5   DTI 7  
+DTI H11  H11  H 0 1 N N N 32.886 92.919 50.134 -0.801 -2.249 0.003  H11  DTI 8  
+DTI H14  H14  H 0 1 N N N 30.091 95.380 47.527 -0.722 2.341  -0.002 H14  DTI 9  
+DTI H13  H13  H 0 1 N N N 32.165 94.118 45.252 2.250  1.601  1.029  H13  DTI 10 
+DTI H12  H12  H 0 1 N N N 31.638 92.434 45.584 2.697  0.829  -0.512 H12  DTI 11 
+DTI H11A H11A H 0 0 N N N 30.416 93.739 45.407 1.806  2.369  -0.514 H11A DTI 12 
+DTI H53  H53  H 0 1 N N N 33.786 91.516 48.426 2.082  -1.677 -1.031 H53  DTI 13 
+DTI H52  H52  H 0 1 N N N 32.602 91.157 47.124 2.584  -0.944 0.512  H52  DTI 14 
+DTI H51  H51  H 0 1 N N N 33.917 92.347 46.839 1.585  -2.417 0.509  H51  DTI 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DTI C1  C9   SING N N 1  
+DTI C9  C14  DOUB Y N 2  
+DTI C9  N10  SING Y N 3  
+DTI C5  N10  SING N N 4  
+DTI C14 S13  SING Y N 5  
+DTI N10 C11  DOUB Y N 6  
+DTI C11 S13  SING Y N 7  
+DTI C11 H11  SING N N 8  
+DTI C14 H14  SING N N 9  
+DTI C1  H13  SING N N 10 
+DTI C1  H12  SING N N 11 
+DTI C1  H11A SING N N 12 
+DTI C5  H53  SING N N 13 
+DTI C5  H52  SING N N 14 
+DTI C5  H51  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DTI SMILES           ACDLabs              12.01 "s1cc([n+](c1)C)C"                                 
+DTI InChI            InChI                1.03  "InChI=1S/C5H8NS/c1-5-3-7-4-6(5)2/h3-4H,1-2H3/q+1" 
+DTI InChIKey         InChI                1.03  RHRPPNDIWVFSRX-UHFFFAOYSA-N                        
+DTI SMILES_CANONICAL CACTVS               3.370 "Cc1csc[n+]1C"                                     
+DTI SMILES           CACTVS               3.370 "Cc1csc[n+]1C"                                     
+DTI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "Cc1csc[n+]1C"                                     
+DTI SMILES           "OpenEye OEToolkits" 1.7.6 "Cc1csc[n+]1C"                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DTI "SYSTEMATIC NAME" ACDLabs              12.01 3,4-dimethyl-1,3-thiazol-3-ium 
+DTI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 3,4-dimethyl-1,3-thiazol-3-ium 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DTI "Create component"   2001-01-24 RCSB 
+DTI "Modify descriptor"  2011-06-04 RCSB 
+DTI "Other modification" 2012-01-25 RCSB 
+# 

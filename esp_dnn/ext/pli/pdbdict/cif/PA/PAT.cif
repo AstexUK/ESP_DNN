@@ -1,0 +1,152 @@
+data_PAT
+# 
+_chem_comp.id                                    PAT 
+_chem_comp.name                                  ALPHA-PHOSPHONO-TRYPTOPHAN 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C11 H13 N2 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               TRP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-03-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        284.205 
+_chem_comp.one_letter_code                       W 
+_chem_comp.three_letter_code                     PAT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1I73 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PAT N    N    N 0 1 N N N 26.383 60.442 54.975 2.612  0.054  0.657  N    PAT 1  
+PAT CA   CA   C 0 1 N N R 26.475 60.654 53.550 1.559  -0.681 1.370  CA   PAT 2  
+PAT C    C    C 0 1 N N N ?      ?      ?      2.188  -1.975 1.864  C    PAT 3  
+PAT O    O    O 0 1 N N N ?      ?      ?      2.227  -2.313 3.041  O    PAT 4  
+PAT CB   CB   C 0 1 N N N 27.758 61.253 53.048 0.406  -0.948 0.380  CB   PAT 5  
+PAT CG   CG   C 0 1 Y N N 28.626 61.937 54.046 -0.732 -1.758 0.940  CG   PAT 6  
+PAT CD1  CD1  C 0 1 Y N N 29.741 61.404 54.641 -0.815 -3.115 0.895  CD1  PAT 7  
+PAT CD2  CD2  C 0 1 Y N N 28.525 63.275 54.542 -1.868 -1.238 1.588  CD2  PAT 8  
+PAT NE1  NE1  N 0 1 Y N N 30.319 62.319 55.492 -1.989 -3.465 1.506  NE1  PAT 9  
+PAT CE2  CE2  C 0 1 Y N N 29.583 63.475 55.448 -2.653 -2.339 1.939  CE2  PAT 10 
+PAT CE3  CE3  C 0 1 Y N N 27.643 64.329 54.320 -2.323 0.053  1.920  CE3  PAT 11 
+PAT CZ2  CZ2  C 0 1 Y N N 29.783 64.673 56.134 -3.875 -2.212 2.607  CZ2  PAT 12 
+PAT CZ3  CZ3  C 0 1 Y N N 27.814 65.518 54.994 -3.544 0.196  2.588  CZ3  PAT 13 
+PAT CH2  CH2  C 0 1 Y N N 28.886 65.678 55.895 -4.307 -0.921 2.926  CH2  PAT 14 
+PAT OXT  OXT  O 0 1 N Y N ?      ?      ?      2.740  -2.726 0.875  OXT  PAT 15 
+PAT P    P    P 0 1 N N N 26.051 59.060 52.678 1.172  0.512  2.665  P    PAT 16 
+PAT O1P  O1P  O 0 1 N N N 24.565 58.814 52.829 0.551  1.790  2.181  O1P  PAT 17 
+PAT O2P  O2P  O 0 1 N N N 26.751 57.939 53.331 0.270  -0.317 3.724  O2P  PAT 18 
+PAT O3P  O3P  O 0 1 N N N 26.254 59.217 51.197 2.562  0.707  3.468  O3P  PAT 19 
+PAT H    H    H 0 1 N N N 26.866 59.574 55.205 3.468  -0.499 0.622  H    PAT 20 
+PAT H2   HN2  H 0 1 N Y N 26.700 61.169 55.617 2.333  0.223  -0.308 H2   PAT 21 
+PAT HB2  1HB  H 0 1 N N N 27.537 61.952 52.208 0.799  -1.470 -0.504 HB2  PAT 22 
+PAT HB3  2HB  H 0 1 N N N 28.349 60.471 52.517 0.000  0.000  0.000  HB3  PAT 23 
+PAT HD1  HD1  H 0 1 N N N 30.119 60.384 54.461 -0.159 -3.874 0.491  HD1  PAT 24 
+PAT HE1  HE1  H 0 1 N N N 31.153 62.166 56.060 -2.322 -4.412 1.622  HE1  PAT 25 
+PAT HE3  HE3  H 0 1 N N N 26.807 64.222 53.609 -1.740 0.933  1.663  HE3  PAT 26 
+PAT HZ2  HZ2  H 0 1 N N N 30.619 64.820 56.839 -4.470 -3.080 2.871  HZ2  PAT 27 
+PAT HZ3  HZ3  H 0 1 N N N 27.097 66.337 54.813 -3.900 1.189  2.847  HZ3  PAT 28 
+PAT HH2  HH2  H 0 1 N N N 29.029 66.629 56.435 -5.252 -0.788 3.445  HH2  PAT 29 
+PAT HXT  HXT  H 0 1 N Y N -0.295 -0.677 -0.598 3.168  -3.553 1.181  HXT  PAT 30 
+PAT HOP2 2HOP H 0 0 N N N 26.535 57.127 52.887 -0.097 0.153  4.503  HOP2 PAT 31 
+PAT HOP3 3HOP H 0 0 N N N 26.038 58.405 50.753 2.601  1.358  4.200  HOP3 PAT 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PAT N   CA   SING N N 1  
+PAT N   H    SING N N 2  
+PAT N   H2   SING N N 3  
+PAT CA  C    SING N N 4  
+PAT CA  CB   SING N N 5  
+PAT CA  P    SING N N 6  
+PAT C   O    DOUB N N 7  
+PAT C   OXT  SING N N 8  
+PAT CB  CG   SING N N 9  
+PAT CB  HB2  SING N N 10 
+PAT CB  HB3  SING N N 11 
+PAT CG  CD1  DOUB Y N 12 
+PAT CG  CD2  SING Y N 13 
+PAT CD1 NE1  SING Y N 14 
+PAT CD1 HD1  SING N N 15 
+PAT CD2 CE2  DOUB Y N 16 
+PAT CD2 CE3  SING Y N 17 
+PAT NE1 CE2  SING Y N 18 
+PAT NE1 HE1  SING N N 19 
+PAT CE2 CZ2  SING Y N 20 
+PAT CE3 CZ3  DOUB Y N 21 
+PAT CE3 HE3  SING N N 22 
+PAT CZ2 CH2  DOUB Y N 23 
+PAT CZ2 HZ2  SING N N 24 
+PAT CZ3 CH2  SING Y N 25 
+PAT CZ3 HZ3  SING N N 26 
+PAT CH2 HH2  SING N N 27 
+PAT OXT HXT  SING N N 28 
+PAT P   O1P  DOUB N N 29 
+PAT P   O2P  SING N N 30 
+PAT P   O3P  SING N N 31 
+PAT O2P HOP2 SING N N 32 
+PAT O3P HOP3 SING N N 33 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PAT SMILES           ACDLabs              10.04 "O=C(O)C(N)(P(=O)(O)O)Cc2c1ccccc1nc2"                                                                                
+PAT SMILES_CANONICAL CACTVS               3.341 "N[C@@](Cc1c[nH]c2ccccc12)(C(O)=O)[P](O)(O)=O"                                                                       
+PAT SMILES           CACTVS               3.341 "N[C](Cc1c[nH]c2ccccc12)(C(O)=O)[P](O)(O)=O"                                                                         
+PAT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)c(c[nH]2)C[C@@](C(=O)O)(N)P(=O)(O)O"                                                                     
+PAT SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)c(c[nH]2)CC(C(=O)O)(N)P(=O)(O)O"                                                                         
+PAT InChI            InChI                1.03  "InChI=1S/C11H13N2O5P/c12-11(10(14)15,19(16,17)18)5-7-6-13-9-4-2-1-3-8(7)9/h1-4,6,13H,5,12H2,(H,14,15)(H2,16,17,18)" 
+PAT InChIKey         InChI                1.03  QNAXJEGUCRQKDR-UHFFFAOYSA-N                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PAT "SYSTEMATIC NAME" ACDLabs              10.04 alpha-phosphono-L-tryptophan                                
+PAT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-(1H-indol-3-yl)-2-phosphono-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PAT "Create component"  2001-03-12 RCSB 
+PAT "Modify descriptor" 2011-06-04 RCSB 
+# 

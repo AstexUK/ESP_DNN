@@ -1,0 +1,123 @@
+data_BUB
+# 
+_chem_comp.id                                    BUB 
+_chem_comp.name                                  "1-BUTANE BORONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H11 B O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2014-10-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.940 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BUB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CP6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BUB C1   C1   C 0 1 N N N ?      ?      ?      3.423  -0.386 0.000  C1   BUB 1  
+BUB C2   C2   C 0 1 N N N 36.354 -3.498 43.219 2.254  0.601  -0.000 C2   BUB 2  
+BUB C6   C6   C 0 1 N N N 35.145 -2.862 42.559 0.933  -0.172 0.000  C6   BUB 3  
+BUB C9   C9   C 0 1 N N N 34.380 -2.918 41.265 -0.236 0.815  -0.000 C9   BUB 4  
+BUB B12  B12  B 0 1 N N N 34.923 -3.963 40.204 -1.590 0.022  0.000  B12  BUB 5  
+BUB O15  O15  O 0 1 N N N 34.807 -5.157 40.823 -1.582 -1.398 0.000  O15  BUB 6  
+BUB O16  O16  O 0 1 N Y N 36.226 -3.910 39.714 -2.825 0.724  -0.000 O16  BUB 7  
+BUB H11  H11  H 0 1 N N N 0.888  -0.467 0.485  4.363  0.165  -0.000 H11  BUB 8  
+BUB H12  H12  H 0 1 N N N -1.005 0.008  -0.481 3.369  -1.013 0.890  H12  BUB 9  
+BUB H13  H13  H 0 1 N N N -0.555 0.513  -0.819 3.369  -1.013 -0.890 H13  BUB 10 
+BUB H21  H21  H 0 1 N N N 36.292 -4.256 44.014 2.307  1.228  0.890  H21  BUB 11 
+BUB H22  H22  H 0 1 N N N 37.361 -3.056 43.212 2.307  1.228  -0.890 H22  BUB 12 
+BUB H61  H61  H 0 1 N N N 34.354 -3.086 43.290 0.880  -0.799 -0.890 H61  BUB 13 
+BUB H62  H62  H 0 1 N N N 35.403 -1.794 42.614 0.880  -0.799 0.890  H62  BUB 14 
+BUB H91  H91  H 0 1 N N N 33.337 -3.180 41.497 -0.182 1.442  0.890  H91  BUB 15 
+BUB H92  H92  H 0 1 N N N 34.414 -1.919 40.806 -0.182 1.442  -0.890 H92  BUB 16 
+BUB HO15 HO15 H 0 0 N N N 35.116 -5.845 40.245 -2.463 -1.797 0.000  HO15 BUB 17 
+BUB HO16 HO16 H 0 0 N Y N 36.360 -4.616 39.092 -3.603 0.151  -0.000 HO16 BUB 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BUB C1  C2   SING N N 1  
+BUB C1  H11  SING N N 2  
+BUB C1  H12  SING N N 3  
+BUB C1  H13  SING N N 4  
+BUB C2  C6   SING N N 5  
+BUB C2  H21  SING N N 6  
+BUB C2  H22  SING N N 7  
+BUB C6  C9   SING N N 8  
+BUB C6  H61  SING N N 9  
+BUB C6  H62  SING N N 10 
+BUB C9  B12  SING N N 11 
+BUB C9  H91  SING N N 12 
+BUB C9  H92  SING N N 13 
+BUB B12 O15  SING N N 14 
+BUB B12 O16  SING N N 15 
+BUB O15 HO15 SING N N 16 
+BUB O16 HO16 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BUB SMILES           ACDLabs              12.01 "OB(O)CCCC"                                        
+BUB InChI            InChI                1.03  "InChI=1S/C4H11BO2/c1-2-3-4-5(6)7/h6-7H,2-4H2,1H3" 
+BUB InChIKey         InChI                1.03  QPKFVRWIISEVCW-UHFFFAOYSA-N                        
+BUB SMILES_CANONICAL CACTVS               3.385 "CCCCB(O)O"                                        
+BUB SMILES           CACTVS               3.385 "CCCCB(O)O"                                        
+BUB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "B(CCCC)(O)O"                                      
+BUB SMILES           "OpenEye OEToolkits" 1.7.6 "B(CCCC)(O)O"                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BUB "SYSTEMATIC NAME" ACDLabs              12.01 "butylboronic acid" 
+BUB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "butylboronic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BUB "Create component"         1999-07-08 RCSB 
+BUB "Modify descriptor"        2011-06-04 RCSB 
+BUB "Modify leaving atom flag" 2014-10-16 RCSB 
+# 

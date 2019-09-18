@@ -1,0 +1,111 @@
+data_MEB
+# 
+_chem_comp.id                                    MEB 
+_chem_comp.name                                  2-methylprop-1-ene 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-09-28 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        56.106 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MEB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MEB C1     C1     C 0 1 N N N 28.923 3.527 8.925  0.000  -0.076 0.002  C1     MEB 1  
+MEB C2     C2     C 0 1 N N N 27.585 3.346 9.266  -0.000 -1.387 -0.000 C2     MEB 2  
+MEB C3     C3     C 0 1 N N N 29.855 3.830 9.898  1.305  0.677  -0.000 C3     MEB 3  
+MEB "C1'"  "C1'"  C 0 1 N N N 29.355 3.550 7.484  -1.305 0.677  -0.001 "C1'"  MEB 4  
+MEB H2     H2     H 0 1 N N N 26.843 3.220 8.492  -0.935 -1.926 0.001  H2     MEB 5  
+MEB H21    H21    H 0 1 N N N 27.290 3.332 10.305 0.935  -1.926 -0.003 H21    MEB 6  
+MEB H3     H3     H 0 1 N N N 30.848 3.934 9.436  1.617  0.860  -1.028 H3     MEB 7  
+MEB H31    H31    H 0 1 N N N 29.579 4.775 10.389 1.176  1.629  0.515  H31    MEB 8  
+MEB H32    H32    H 0 1 N N N 29.881 3.023 10.645 2.066  0.087  0.511  H32    MEB 9  
+MEB "H1'1" "H1'1" H 0 0 N N N 30.443 3.703 7.429  -1.622 0.857  1.027  "H1'1" MEB 10 
+MEB "H1'2" "H1'2" H 0 0 N N N 29.095 2.593 7.008  -1.173 1.630  -0.512 "H1'2" MEB 11 
+MEB "H1'3" "H1'3" H 0 0 N N N 28.843 4.371 6.961  -2.063 0.089  -0.517 "H1'3" MEB 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MEB C1    C2     DOUB N N 1  
+MEB C1    C3     SING N N 2  
+MEB C1    "C1'"  SING N N 3  
+MEB C2    H2     SING N N 4  
+MEB C2    H21    SING N N 5  
+MEB C3    H3     SING N N 6  
+MEB C3    H31    SING N N 7  
+MEB C3    H32    SING N N 8  
+MEB "C1'" "H1'1" SING N N 9  
+MEB "C1'" "H1'2" SING N N 10 
+MEB "C1'" "H1'3" SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MEB SMILES           ACDLabs              12.01 "C=C(\C)C"                          
+MEB InChI            InChI                1.03  "InChI=1S/C4H8/c1-4(2)3/h1H2,2-3H3" 
+MEB InChIKey         InChI                1.03  VQTUBCCKSQIDNK-UHFFFAOYSA-N         
+MEB SMILES_CANONICAL CACTVS               3.370 "CC(C)=C"                           
+MEB SMILES           CACTVS               3.370 "CC(C)=C"                           
+MEB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CC(=C)C"                           
+MEB SMILES           "OpenEye OEToolkits" 1.7.2 "CC(=C)C"                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MEB "SYSTEMATIC NAME" ACDLabs              12.01 2-methylprop-1-ene 
+MEB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 2-methylprop-1-ene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MEB "Create component"  1999-07-08 EBI  
+MEB "Modify descriptor" 2011-06-04 RCSB 
+MEB "Modify name"       2011-09-28 RCSB 
+# 

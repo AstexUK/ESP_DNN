@@ -1,0 +1,124 @@
+data_NPT
+# 
+_chem_comp.id                                    NPT 
+_chem_comp.name                                  NEOPENTYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H13 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        87.163 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NPT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IVQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NPT N   N   N 0 1 N N N 3.438 15.924 17.951 0.038  0.041  -2.013 N   NPT 1  
+NPT C1  C1  C 0 1 N N N 2.834 14.960 17.003 0.564  -0.653 -0.830 C1  NPT 2  
+NPT C2  C2  C 0 1 N N N 1.873 15.720 16.032 0.002  -0.002 0.434  C2  NPT 3  
+NPT C3  C3  C 0 1 N N N 2.583 16.856 15.266 0.549  -0.725 1.667  C3  NPT 4  
+NPT C4  C4  C 0 1 N N N 0.842 16.372 16.977 -1.524 -0.098 0.423  C4  NPT 5  
+NPT C5  C5  C 0 1 N N N 1.279 14.773 14.996 0.420  1.468  0.480  C5  NPT 6  
+NPT HN1 1HN H 0 1 N N N 4.065 15.428 18.584 -0.954 -0.135 -2.036 HN1 NPT 7  
+NPT HN2 2HN H 0 1 N N N 2.733 16.466 18.451 0.433  -0.419 -2.819 HN2 NPT 8  
+NPT H11 1H1 H 0 1 N N N 3.603 14.367 16.456 1.651  -0.585 -0.821 H11 NPT 9  
+NPT H12 2H1 H 0 1 N N N 2.325 14.116 17.525 0.266  -1.701 -0.862 H12 NPT 10 
+NPT H31 1H3 H 0 1 N N N 1.897 17.398 14.573 0.148  -0.261 2.568  H31 NPT 11 
+NPT H32 2H3 H 0 1 N N N 3.083 17.562 15.969 0.251  -1.773 1.634  H32 NPT 12 
+NPT H33 3H3 H 0 1 N N N 3.480 16.475 14.725 1.637  -0.657 1.675  H33 NPT 13 
+NPT H41 1H4 H 0 1 N N N 0.156 16.914 16.284 -1.822 -1.146 0.391  H41 NPT 14 
+NPT H42 2H4 H 0 1 N N N 0.332 15.658 17.665 -1.925 0.365  1.324  H42 NPT 15 
+NPT H43 3H4 H 0 1 N N N 1.287 17.008 17.776 -1.914 0.417  -0.454 H43 NPT 16 
+NPT H51 1H5 H 0 1 N N N 0.593 15.315 14.303 1.508  1.537  0.488  H51 NPT 17 
+NPT H52 2H5 H 0 1 N N N 2.073 14.222 14.440 0.030  1.984  -0.397 H52 NPT 18 
+NPT H53 3H5 H 0 1 N N N 0.773 13.903 15.476 0.020  1.932  1.381  H53 NPT 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NPT N  C1  SING N N 1  
+NPT N  HN1 SING N N 2  
+NPT N  HN2 SING N N 3  
+NPT C1 C2  SING N N 4  
+NPT C1 H11 SING N N 5  
+NPT C1 H12 SING N N 6  
+NPT C2 C3  SING N N 7  
+NPT C2 C4  SING N N 8  
+NPT C2 C5  SING N N 9  
+NPT C3 H31 SING N N 10 
+NPT C3 H32 SING N N 11 
+NPT C3 H33 SING N N 12 
+NPT C4 H41 SING N N 13 
+NPT C4 H42 SING N N 14 
+NPT C4 H43 SING N N 15 
+NPT C5 H51 SING N N 16 
+NPT C5 H52 SING N N 17 
+NPT C5 H53 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NPT SMILES           ACDLabs              10.04 "NCC(C)(C)C"                                
+NPT SMILES_CANONICAL CACTVS               3.341 "CC(C)(C)CN"                                
+NPT SMILES           CACTVS               3.341 "CC(C)(C)CN"                                
+NPT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C)CN"                                
+NPT SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C)CN"                                
+NPT InChI            InChI                1.03  "InChI=1S/C5H13N/c1-5(2,3)4-6/h4,6H2,1-3H3" 
+NPT InChIKey         InChI                1.03  XDIAMRVROCPPBK-UHFFFAOYSA-N                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NPT "SYSTEMATIC NAME" ACDLabs              10.04 2,2-dimethylpropan-1-amine 
+NPT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,2-dimethylpropan-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NPT "Create component"  1999-07-08 EBI  
+NPT "Modify descriptor" 2011-06-04 RCSB 
+# 

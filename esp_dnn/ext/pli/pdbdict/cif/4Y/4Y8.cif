@@ -1,0 +1,108 @@
+data_4Y8
+# 
+_chem_comp.id                                    4Y8 
+_chem_comp.name                                  1-hydroxypropan-2-one 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H6 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-03-05 
+_chem_comp.pdbx_modified_date                    2015-06-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        74.079 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4Y8 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4YGW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4Y8 O   O1 O 0 1 N N N 7.556 2.225  12.679 0.435  -1.270 0.000  O   4Y8 1  
+4Y8 C   C1 C 0 1 N N N 6.832 2.273  13.659 0.528  -0.066 0.002  C   4Y8 2  
+4Y8 CM2 C2 C 0 1 N N N 6.053 3.512  13.995 1.888  0.584  -0.001 CM2 4Y8 3  
+4Y8 CM1 C3 C 0 1 N N N 6.790 1.132  14.634 -0.714 0.787  0.001  CM1 4Y8 4  
+4Y8 O1  O2 O 0 1 N Y N 5.183 0.622  14.841 -1.869 -0.055 -0.001 O1  4Y8 5  
+4Y8 H1  H1 H 0 1 N N N 6.256 4.288  13.243 2.212  0.743  -1.030 H1  4Y8 6  
+4Y8 H2  H2 H 0 1 N N N 4.978 3.279  14.001 1.834  1.543  0.514  H2  4Y8 7  
+4Y8 H3  H3 H 0 1 N N N 6.354 3.876  14.988 2.601  -0.063 0.509  H3  4Y8 8  
+4Y8 H4  H4 H 0 1 N N N 7.393 0.297  14.247 -0.725 1.415  0.892  H4  4Y8 9  
+4Y8 H5  H5 H 0 1 N N N 7.198 1.461  15.601 -0.722 1.417  -0.888 H5  4Y8 10 
+4Y8 H6  H6 H 0 1 N N N 5.156 -0.100 15.458 -2.707 0.427  -0.002 H6  4Y8 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4Y8 O   C   DOUB N N 1  
+4Y8 C   CM2 SING N N 2  
+4Y8 C   CM1 SING N N 3  
+4Y8 CM1 O1  SING N N 4  
+4Y8 CM2 H1  SING N N 5  
+4Y8 CM2 H2  SING N N 6  
+4Y8 CM2 H3  SING N N 7  
+4Y8 CM1 H4  SING N N 8  
+4Y8 CM1 H5  SING N N 9  
+4Y8 O1  H6  SING N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4Y8 SMILES           ACDLabs              12.01 "O=C(C)CO"                               
+4Y8 InChI            InChI                1.03  "InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3" 
+4Y8 InChIKey         InChI                1.03  XLSMFKSTNGKWQX-UHFFFAOYSA-N              
+4Y8 SMILES_CANONICAL CACTVS               3.385 "CC(=O)CO"                               
+4Y8 SMILES           CACTVS               3.385 "CC(=O)CO"                               
+4Y8 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CC(=O)CO"                               
+4Y8 SMILES           "OpenEye OEToolkits" 1.9.2 "CC(=O)CO"                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4Y8 "SYSTEMATIC NAME" ACDLabs              12.01 1-hydroxypropan-2-one  
+4Y8 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 1-oxidanylpropan-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4Y8 "Create component" 2015-03-05 RCSB 
+4Y8 "Initial release"  2015-07-01 RCSB 
+# 

@@ -1,0 +1,120 @@
+data_HSE
+# 
+_chem_comp.id                                    HSE 
+_chem_comp.name                                  L-HOMOSERINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H9 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-02-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.119 
+_chem_comp.one_letter_code                       S 
+_chem_comp.three_letter_code                     HSE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EBU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HSE NA  NA  N 0 1 N N N 38.590 23.620 61.202 1.734  0.369  0.174  NA  HSE 1  
+HSE C1  C1  C 0 1 N N S 39.987 23.730 61.744 0.278  0.519  0.296  C1  HSE 2  
+HSE C2  C2  C 0 1 N N N 39.848 23.878 63.264 -0.174 -0.032 1.623  C2  HSE 3  
+HSE C3  C3  C 0 1 N N N 40.654 24.925 61.000 -0.410 -0.246 -0.835 C3  HSE 4  
+HSE O1  O1  O 0 1 N N N 40.876 23.981 63.977 0.434  -0.939 2.139  O1  HSE 5  
+HSE O2  O2  O 0 1 N N N 38.651 23.875 63.662 -1.252 0.484  2.233  O2  HSE 6  
+HSE C4  C4  C 0 1 N N N 42.098 25.192 61.412 0.048  0.314  -2.183 C4  HSE 7  
+HSE O3  O3  O 0 1 N N N 42.680 26.296 60.710 -0.594 -0.400 -3.240 O3  HSE 8  
+HSE HN1 HN1 H 0 1 N N N 38.682 23.521 60.191 1.977  0.653  -0.763 HN1 HSE 9  
+HSE HN2 HN2 H 0 1 N N N 37.985 24.393 61.480 1.930  -0.618 0.237  HN2 HSE 10 
+HSE H1  H1  H 0 1 N N N 40.647 22.848 61.573 0.015  1.575  0.233  H1  HSE 11 
+HSE H31 1H3 H 0 1 N N N 40.583 24.785 59.896 -0.147 -1.302 -0.772 H31 HSE 12 
+HSE H32 2H3 H 0 1 N N N 40.038 25.847 61.114 -1.490 -0.134 -0.744 H32 HSE 13 
+HSE HO2 HO2 H 0 1 N N N 38.564 23.966 64.603 -1.542 0.130  3.084  HO2 HSE 14 
+HSE H41 1H4 H 0 1 N N N 42.179 25.332 62.515 -0.214 1.370  -2.246 H41 HSE 15 
+HSE H42 2H4 H 0 1 N N N 42.721 24.274 61.300 1.129  0.202  -2.273 H42 HSE 16 
+HSE HO3 HO3 H 0 1 N N N 43.579 26.462 60.966 -0.278 -0.017 -4.069 HO3 HSE 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HSE NA C1  SING N N 1  
+HSE NA HN1 SING N N 2  
+HSE NA HN2 SING N N 3  
+HSE C1 C2  SING N N 4  
+HSE C1 C3  SING N N 5  
+HSE C1 H1  SING N N 6  
+HSE C2 O1  DOUB N N 7  
+HSE C2 O2  SING N N 8  
+HSE C3 C4  SING N N 9  
+HSE C3 H31 SING N N 10 
+HSE C3 H32 SING N N 11 
+HSE O2 HO2 SING N N 12 
+HSE C4 O3  SING N N 13 
+HSE C4 H41 SING N N 14 
+HSE C4 H42 SING N N 15 
+HSE O3 HO3 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HSE SMILES           ACDLabs              10.04 "O=C(O)C(N)CCO"                                                     
+HSE SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCO)C(O)=O"                                                
+HSE SMILES           CACTVS               3.341 "N[CH](CCO)C(O)=O"                                                  
+HSE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CO)[C@@H](C(=O)O)N"                                              
+HSE SMILES           "OpenEye OEToolkits" 1.5.0 "C(CO)C(C(=O)O)N"                                                   
+HSE InChI            InChI                1.03  "InChI=1S/C4H9NO3/c5-3(1-2-6)4(7)8/h3,6H,1-2,5H2,(H,7,8)/t3-/m0/s1" 
+HSE InChIKey         InChI                1.03  UKAUYVFTDYCKQA-VKHMYHEASA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HSE "SYSTEMATIC NAME" ACDLabs              10.04 L-homoserine                           
+HSE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-hydroxy-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HSE "Create component"  2000-02-02 RCSB 
+HSE "Modify descriptor" 2011-06-04 RCSB 
+# 

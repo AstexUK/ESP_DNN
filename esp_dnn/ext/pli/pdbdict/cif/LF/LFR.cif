@@ -1,0 +1,135 @@
+data_LFR
+# 
+_chem_comp.id                                    LFR 
+_chem_comp.name                                  BETA-L-FRUCTO-FURANOSE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H12 O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-03-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.156 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LFR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2CGJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LFR C1   C1   C 0 1 N N N 63.465 70.828 19.748 -2.095 0.648  -0.892 C1   LFR 1  
+LFR C2   C2   C 0 1 N N S 63.342 71.327 21.190 -1.063 0.134  0.113  C2   LFR 2  
+LFR C3   C3   C 0 1 N N R 61.879 71.382 21.651 -0.603 -1.285 -0.285 C3   LFR 3  
+LFR C4   C4   C 0 1 N N R 62.092 71.402 23.157 0.918  -1.242 0.033  C4   LFR 4  
+LFR C5   C5   C 0 1 N N S 63.104 70.255 23.265 1.247  0.233  -0.309 C5   LFR 5  
+LFR C6   C6   C 0 1 N N N 63.958 70.235 24.558 2.482  0.695  0.465  C6   LFR 6  
+LFR O1   O1   O 0 1 N N N 64.826 70.500 19.453 -2.507 1.965  -0.520 O1   LFR 7  
+LFR O2   O2   O 0 1 N N N 63.946 72.608 21.306 -1.633 0.109  1.423  O2   LFR 8  
+LFR O3   O3   O 0 1 N N N 61.253 72.583 21.192 -1.265 -2.274 0.506  O3   LFR 9  
+LFR O4   O4   O 0 1 N N N 60.894 71.073 23.851 1.645  -2.143 -0.805 O4   LFR 10 
+LFR O5   O5   O 0 1 N N N 63.994 70.438 22.113 0.092  0.982  0.102  O5   LFR 11 
+LFR O6   O6   O 0 1 N N N 64.548 71.517 24.797 2.819  2.028  0.075  O6   LFR 12 
+LFR H1C1 1H1C H 0 0 N N N 63.045 71.558 19.017 -1.651 0.675  -1.887 H1C1 LFR 13 
+LFR H1C2 2H1C H 0 0 N N N 62.777 69.975 19.542 -2.959 -0.015 -0.898 H1C2 LFR 14 
+LFR H3   H3   H 0 1 N N N 61.314 70.476 21.329 -0.771 -1.464 -1.347 H3   LFR 15 
+LFR H4   H4   H 0 1 N N N 62.522 72.371 23.504 1.106  -1.451 1.086  H4   LFR 16 
+LFR H5   H5   H 0 1 N N N 62.568 69.282 23.164 1.409  0.346  -1.381 H5   LFR 17 
+LFR H6C1 1H6C H 0 0 N N N 64.725 69.426 24.534 3.318  0.030  0.247  H6C1 LFR 18 
+LFR H6C2 2H6C H 0 0 N N N 63.369 69.882 25.436 2.271  0.673  1.534  H6C2 LFR 19 
+LFR H1   H1   H 0 1 N N N 64.902 70.190 18.558 -3.156 2.251  -1.178 H1   LFR 20 
+LFR H2   H2   H 0 1 N N N 63.870 72.918 22.201 -1.898 1.016  1.630  H2   LFR 21 
+LFR HA   HA   H 0 1 N N N 60.347 72.617 21.477 -0.936 -3.134 0.210  HA   LFR 22 
+LFR HB   HB   H 0 1 N N N 61.027 71.086 24.792 2.576  -2.066 -0.557 HB   LFR 23 
+LFR H6   H6   H 0 1 N N N 65.072 71.505 25.590 3.601  2.280  0.585  H6   LFR 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LFR C1 C2   SING N N 1  
+LFR C1 O1   SING N N 2  
+LFR C1 H1C1 SING N N 3  
+LFR C1 H1C2 SING N N 4  
+LFR C2 C3   SING N N 5  
+LFR C2 O2   SING N N 6  
+LFR C2 O5   SING N N 7  
+LFR C3 C4   SING N N 8  
+LFR C3 O3   SING N N 9  
+LFR C3 H3   SING N N 10 
+LFR C4 C5   SING N N 11 
+LFR C4 O4   SING N N 12 
+LFR C4 H4   SING N N 13 
+LFR C5 C6   SING N N 14 
+LFR C5 O5   SING N N 15 
+LFR C5 H5   SING N N 16 
+LFR C6 O6   SING N N 17 
+LFR C6 H6C1 SING N N 18 
+LFR C6 H6C2 SING N N 19 
+LFR O1 H1   SING N N 20 
+LFR O2 H2   SING N N 21 
+LFR O3 HA   SING N N 22 
+LFR O4 HB   SING N N 23 
+LFR O6 H6   SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LFR SMILES           ACDLabs              10.04 "OC1C(O)C(OC1(O)CO)CO"                                                               
+LFR SMILES_CANONICAL CACTVS               3.341 "OC[C@@H]1O[C@@](O)(CO)[C@H](O)[C@H]1O"                                              
+LFR SMILES           CACTVS               3.341 "OC[CH]1O[C](O)(CO)[CH](O)[CH]1O"                                                    
+LFR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@H]1[C@@H]([C@H]([C@@](O1)(CO)O)O)O)O"                                          
+LFR SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)(CO)O)O)O)O"                                                           
+LFR InChI            InChI                1.03  "InChI=1S/C6H12O6/c7-1-3-4(9)5(10)6(11,2-8)12-3/h3-5,7-11H,1-2H2/t3-,4-,5+,6-/m0/s1" 
+LFR InChIKey         InChI                1.03  RFSUNEUAIZKAJO-AZGQCCRYSA-N                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LFR "SYSTEMATIC NAME" ACDLabs              10.04 beta-L-fructofuranose                                     
+LFR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3R,4R,5S)-2,5-bis(hydroxymethyl)oxolane-2,3,4-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LFR "Create component"  2006-03-09 EBI  
+LFR "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,105 @@
+data_CNV
+# 
+_chem_comp.id                                    CNV 
+_chem_comp.name                                  propanenitrile 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H5 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-01 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        55.078 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CNV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4BC9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CNV NAB  NAB  N 0 1 N N N 23.374 109.587 18.815 -1.803 0.285  -0.000 NAB  CNV 1 
+CNV CAC  CAC  C 0 1 N N N 22.518 110.010 18.193 -0.746 -0.130 0.000  CAC  CNV 2 
+CNV CAD  CAD  C 0 1 N N N 21.447 110.709 17.441 0.624  -0.668 0.000  CAD  CNV 3 
+CNV CAA  CAA  C 0 1 N N N 20.209 110.249 18.217 1.626  0.488  -0.000 CAA  CNV 4 
+CNV HAD  HAD  H 0 1 N N N 21.411 110.384 16.391 0.775  -1.279 0.890  HAD  CNV 5 
+CNV HAA1 HAA1 H 0 0 N N N 19.308 110.695 17.769 1.476  1.099  0.890  HAA1 CNV 6 
+CNV HAA2 HAA2 H 0 0 N N N 20.136 109.152 18.174 2.641  0.090  -0.000 HAA2 CNV 7 
+CNV HAA3 HAA3 H 0 0 N N N 20.294 110.570 19.266 1.476  1.099  -0.890 HAA3 CNV 8 
+CNV HXT  HXT  H 0 1 N N N 21.569 111.801 17.483 0.775  -1.279 -0.890 HXT  CNV 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CNV NAB CAC  TRIP N N 1 
+CNV CAC CAD  SING N N 2 
+CNV CAD CAA  SING N N 3 
+CNV CAD HXT  SING N N 4 
+CNV CAD HAD  SING N N 5 
+CNV CAA HAA1 SING N N 6 
+CNV CAA HAA2 SING N N 7 
+CNV CAA HAA3 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CNV SMILES           ACDLabs              12.01 N#CCC                            
+CNV InChI            InChI                1.03  InChI=1S/C3H5N/c1-2-3-4/h2H2,1H3 
+CNV InChIKey         InChI                1.03  FVSKHRXBFJPNKK-UHFFFAOYSA-N      
+CNV SMILES_CANONICAL CACTVS               3.385 CCC#N                            
+CNV SMILES           CACTVS               3.385 CCC#N                            
+CNV SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 CCC#N                            
+CNV SMILES           "OpenEye OEToolkits" 1.9.2 CCC#N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CNV "SYSTEMATIC NAME" ACDLabs              12.01 propanenitrile 
+CNV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 propanenitrile 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CNV "Create component"  2012-10-01 EBI  
+CNV "Initial release"   2012-11-02 RCSB 
+CNV "Modify descriptor" 2014-09-05 RCSB 
+# 

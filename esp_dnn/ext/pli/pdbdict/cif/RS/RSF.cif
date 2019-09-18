@@ -1,0 +1,126 @@
+data_RSF
+# 
+_chem_comp.id                                    RSF 
+_chem_comp.name                                  "(3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-ol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-10-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RSF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3EV6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RSF C5  C5  C 0 1 N N N -67.457 -13.383 11.669 2.230  -0.349 0.160  C5  RSF 1  
+RSF C6  C6  C 0 1 N N N -68.715 -12.787 11.218 1.087  -1.321 -0.232 C6  RSF 2  
+RSF O1  O1  O 0 1 N N N -66.884 -12.558 12.661 1.534  0.856  0.537  O1  RSF 3  
+RSF C4  C4  C 0 1 N N N -69.597 -10.546 13.945 -1.861 0.784  -0.151 C4  RSF 4  
+RSF O2  O2  O 0 1 N N N -68.308 -11.202 14.131 -0.707 1.477  0.367  O2  RSF 5  
+RSF C1  C1  C 0 1 N N R -67.741 -11.463 12.849 0.438  1.029  -0.381 C1  RSF 6  
+RSF C2  C2  C 0 1 N N S -68.919 -11.581 11.940 0.092  -0.374 -0.940 C2  RSF 7  
+RSF C3  C3  C 0 1 N N R -69.751 -10.421 12.433 -1.334 -0.650 -0.415 C3  RSF 8  
+RSF O3  O3  O 0 1 N N N -71.094 -10.536 11.970 -1.295 -1.411 0.794  O3  RSF 9  
+RSF H15 H15 H 0 1 N N N -67.651 -14.382 12.087 2.797  -0.744 1.002  H15 RSF 10 
+RSF H25 H25 H 0 1 N N N -66.765 -13.475 10.819 2.884  -0.164 -0.692 H25 RSF 11 
+RSF H16 H16 H 0 1 N N N -68.663 -12.574 10.140 1.446  -2.090 -0.915 H16 RSF 12 
+RSF H26 H26 H 0 1 N N N -69.549 -13.482 11.396 0.635  -1.768 0.654  H26 RSF 13 
+RSF H14 H14 H 0 1 N N N -70.412 -11.144 14.378 -2.662 0.768  0.588  H14 RSF 14 
+RSF H24 H24 H 0 1 N N N -69.642 -9.569  14.449 -2.202 1.245  -1.078 H24 RSF 15 
+RSF H1  H1  H 0 1 N N N -67.039 -10.638 12.659 0.693  1.731  -1.175 H1  RSF 16 
+RSF H2  H2  H 0 1 N N N -69.652 -11.577 11.120 0.166  -0.426 -2.026 H2  RSF 17 
+RSF H3  H3  H 0 1 N N N -69.442 -9.430  12.071 -1.937 -1.153 -1.171 H3  RSF 18 
+RSF HO3 HO3 H 0 1 N N N -71.685 -10.562 12.714 -2.159 -1.531 1.211  HO3 RSF 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RSF C5 C6  SING N N 1  
+RSF C5 O1  SING N N 2  
+RSF C6 C2  SING N N 3  
+RSF O1 C1  SING N N 4  
+RSF C4 O2  SING N N 5  
+RSF C4 C3  SING N N 6  
+RSF O2 C1  SING N N 7  
+RSF C1 C2  SING N N 8  
+RSF C2 C3  SING N N 9  
+RSF C3 O3  SING N N 10 
+RSF C5 H15 SING N N 11 
+RSF C5 H25 SING N N 12 
+RSF C6 H16 SING N N 13 
+RSF C6 H26 SING N N 14 
+RSF C4 H14 SING N N 15 
+RSF C4 H24 SING N N 16 
+RSF C1 H1  SING N N 17 
+RSF C2 H2  SING N N 18 
+RSF C3 H3  SING N N 19 
+RSF O3 HO3 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RSF SMILES           ACDLabs              10.04 OC1COC2OCCC12                                                         
+RSF SMILES_CANONICAL CACTVS               3.341 "O[C@H]1CO[C@H]2OCC[C@@H]12"                                          
+RSF SMILES           CACTVS               3.341 "O[CH]1CO[CH]2OCC[CH]12"                                              
+RSF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CO[C@H]2C1[C@H](CO2)O"                                             
+RSF SMILES           "OpenEye OEToolkits" 1.5.0 "C1COC2C1C(CO2)O"                                                     
+RSF InChI            InChI                1.03  "InChI=1S/C6H10O3/c7-5-3-9-6-4(5)1-2-8-6/h4-7H,1-3H2/t4-,5-,6+/m0/s1" 
+RSF InChIKey         InChI                1.03  RCDXYCHYMULCDZ-HCWXCVPCSA-N                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RSF "SYSTEMATIC NAME" ACDLabs              10.04 "(3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-ol"           
+RSF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4R,6aR)-2,3,3a,4,5,6a-hexahydrofuro[3,2-d]furan-4-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RSF "Create component"  2008-10-16 RCSB 
+RSF "Modify descriptor" 2011-06-04 RCSB 
+# 

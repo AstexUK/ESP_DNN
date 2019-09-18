@@ -1,0 +1,126 @@
+data_BZB
+# 
+_chem_comp.id                                    BZB 
+_chem_comp.name                                  "BENZO[B]THIOPHENE-2-BORONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H7 B O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        178.016 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BZB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C3B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BZB B    B    B 0 1 N N N 77.485 4.512  28.805 -0.250 0.000  2.843  B    BZB 1  
+BZB O1   O1   O 0 1 N N N 77.376 5.319  27.577 0.899  0.000  3.676  O1   BZB 2  
+BZB O2   O2   O 0 1 N N N 78.452 3.498  28.841 -1.546 0.000  3.424  O2   BZB 3  
+BZB C1   C1   C 0 1 Y N N 78.024 5.514  29.889 -0.089 0.000  1.282  C1   BZB 4  
+BZB C2   C2   C 0 1 Y N N 78.515 6.753  29.642 -1.059 -0.005 0.331  C2   BZB 5  
+BZB C8   C8   C 0 1 Y N N 78.825 6.521  31.951 0.681  0.000  -1.298 C8   BZB 6  
+BZB C3   C3   C 0 1 Y N N 78.994 7.334  30.877 -0.709 0.000  -1.030 C3   BZB 7  
+BZB C7   C7   C 0 1 Y N N 79.241 6.912  33.298 1.181  -0.000 -2.582 C7   BZB 8  
+BZB S    S    S 0 1 Y N N 78.109 5.037  31.557 1.412  -0.000 0.319  S    BZB 9  
+BZB C4   C4   C 0 1 Y N N 79.590 8.626  31.074 -1.568 0.001  -2.159 C4   BZB 10 
+BZB C6   C6   C 0 1 Y N N 79.819 8.170  33.486 0.309  0.000  -3.652 C6   BZB 11 
+BZB C5   C5   C 0 1 Y N N 79.995 9.025  32.377 -1.060 0.000  -3.418 C5   BZB 12 
+BZB HO11 1HO1 H 0 0 N N N 76.720 6.006  27.552 0.583  0.000  4.590  HO11 BZB 13 
+BZB HO21 1HO2 H 0 0 N N N 78.522 2.977  29.632 -1.423 0.000  4.383  HO21 BZB 14 
+BZB HC21 1HC2 H 0 0 N N N 78.523 7.200  28.633 -2.100 -0.009 0.621  HC21 BZB 15 
+BZB HC71 1HC7 H 0 0 N N N 79.118 6.255  34.175 2.248  -0.000 -2.750 HC71 BZB 16 
+BZB HC41 1HC4 H 0 0 N N N 79.736 9.312  30.223 -2.638 0.002  -2.015 HC41 BZB 17 
+BZB HC61 1HC6 H 0 0 N N N 80.132 8.483  34.496 0.688  0.000  -4.663 HC61 BZB 18 
+BZB HC51 1HC5 H 0 0 N N N 80.454 10.016 32.530 -1.738 0.001  -4.259 HC51 BZB 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BZB B  O1   SING N N 1  
+BZB B  O2   SING N N 2  
+BZB B  C1   SING N N 3  
+BZB O1 HO11 SING N N 4  
+BZB O2 HO21 SING N N 5  
+BZB C1 C2   DOUB Y N 6  
+BZB C1 S    SING Y N 7  
+BZB C2 C3   SING Y N 8  
+BZB C2 HC21 SING N N 9  
+BZB C8 C3   DOUB Y N 10 
+BZB C8 C7   SING Y N 11 
+BZB C8 S    SING Y N 12 
+BZB C3 C4   SING Y N 13 
+BZB C7 C6   DOUB Y N 14 
+BZB C7 HC71 SING N N 15 
+BZB C4 C5   DOUB Y N 16 
+BZB C4 HC41 SING N N 17 
+BZB C6 C5   SING Y N 18 
+BZB C6 HC61 SING N N 19 
+BZB C5 HC51 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BZB SMILES           ACDLabs              10.04 "OB(O)c2sc1ccccc1c2"                                            
+BZB SMILES_CANONICAL CACTVS               3.341 "OB(O)c1sc2ccccc2c1"                                            
+BZB SMILES           CACTVS               3.341 "OB(O)c1sc2ccccc2c1"                                            
+BZB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "B(c1cc2ccccc2s1)(O)O"                                          
+BZB SMILES           "OpenEye OEToolkits" 1.5.0 "B(c1cc2ccccc2s1)(O)O"                                          
+BZB InChI            InChI                1.03  "InChI=1S/C8H7BO2S/c10-9(11)8-5-6-3-1-2-4-7(6)12-8/h1-5,10-11H" 
+BZB InChIKey         InChI                1.03  YNCYPMUJDDXIRH-UHFFFAOYSA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BZB "SYSTEMATIC NAME" ACDLabs              10.04 "1-benzothiophen-2-ylboronic acid" 
+BZB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1-benzothiophen-2-ylboronic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BZB "Create component"  1999-08-05 RCSB 
+BZB "Modify descriptor" 2011-06-04 RCSB 
+# 

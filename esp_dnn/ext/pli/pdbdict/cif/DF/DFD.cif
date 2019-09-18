@@ -1,0 +1,156 @@
+data_DFD
+# 
+_chem_comp.id                                    DFD 
+_chem_comp.name                                  "DECYL FORMATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H22 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-07-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        186.291 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DFD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DFD C11  C11  C 0 1 N N N 27.350 49.159 21.984 7.503  -0.411 0.000  C11  DFD 1  
+DFD C10  C10  C 0 1 N N N 26.628 48.503 20.805 6.256  0.475  -0.000 C10  DFD 2  
+DFD C9   C9   C 0 1 N N N 25.651 47.424 21.277 5.005  -0.406 0.000  C9   DFD 3  
+DFD C8   C8   C 0 1 N N N 24.759 46.953 20.125 3.758  0.480  -0.000 C8   DFD 4  
+DFD C7   C7   C 0 1 N N N 23.922 45.733 20.521 2.507  -0.400 0.000  C7   DFD 5  
+DFD C6   C6   C 0 1 N N N 22.418 46.039 20.495 1.259  0.486  -0.000 C6   DFD 6  
+DFD C5   C5   C 0 1 N N N 21.732 45.397 19.283 0.008  -0.395 0.000  C5   DFD 7  
+DFD C4   C4   C 0 1 N N N 20.355 44.825 19.647 -1.239 0.491  -0.000 C4   DFD 8  
+DFD C3   C3   C 0 1 N N N 20.115 43.449 19.002 -2.490 -0.389 0.000  C3   DFD 9  
+DFD C2   C2   C 0 1 N N N 19.392 43.577 17.654 -3.738 0.497  -0.000 C2   DFD 10 
+DFD O2   O2   O 0 1 N N N 18.504 42.461 17.371 -4.925 -0.338 0.000  O2   DFD 11 
+DFD C1   C1   C 0 1 N N N 17.316 42.937 16.704 -6.112 0.289  -0.000 C1   DFD 12 
+DFD O1   O1   O 0 1 N N N 17.382 43.677 15.737 -7.135 -0.354 0.000  O1   DFD 13 
+DFD H111 1H11 H 0 0 N N N 28.408 49.316 21.725 8.395  0.216  -0.000 H111 DFD 14 
+DFD H112 2H11 H 0 0 N N N 26.880 50.128 22.209 7.502  -1.041 0.890  H112 DFD 15 
+DFD H113 3H11 H 0 0 N N N 27.282 48.504 22.865 7.502  -1.041 -0.890 H113 DFD 16 
+DFD H101 1H10 H 0 0 N N N 26.067 49.275 20.259 6.258  1.104  0.890  H101 DFD 17 
+DFD H102 2H10 H 0 0 N N N 27.381 48.030 20.158 6.258  1.104  -0.890 H102 DFD 18 
+DFD H91  1H9  H 0 1 N N N 26.223 46.566 21.661 5.004  -1.035 -0.890 H91  DFD 19 
+DFD H92  2H9  H 0 1 N N N 25.013 47.848 22.066 5.004  -1.035 0.890  H92  DFD 20 
+DFD H81  1H8  H 0 1 N N N 24.080 47.772 19.846 3.759  1.110  0.890  H81  DFD 21 
+DFD H82  2H8  H 0 1 N N N 25.406 46.668 19.282 3.759  1.110  -0.890 H82  DFD 22 
+DFD H71  1H7  H 0 1 N N N 24.128 44.919 19.811 2.505  -1.030 -0.890 H71  DFD 23 
+DFD H72  2H7  H 0 1 N N N 24.196 45.448 21.548 2.505  -1.030 0.890  H72  DFD 24 
+DFD H61  1H6  H 0 1 N N N 21.960 45.641 21.413 1.261  1.115  0.890  H61  DFD 25 
+DFD H62  2H6  H 0 1 N N N 22.289 47.129 20.427 1.261  1.115  -0.890 H62  DFD 26 
+DFD H51  1H5  H 0 1 N N N 21.602 46.163 18.504 0.007  -1.024 -0.890 H51  DFD 27 
+DFD H52  2H5  H 0 1 N N N 22.365 44.571 18.927 0.007  -1.024 0.890  H52  DFD 28 
+DFD H41  1H4  H 0 1 N N N 20.297 44.716 20.740 -1.238 1.121  0.890  H41  DFD 29 
+DFD H42  2H4  H 0 1 N N N 19.587 45.517 19.271 -1.238 1.121  -0.890 H42  DFD 30 
+DFD H31  1H3  H 0 1 N N N 21.087 42.960 18.838 -2.492 -1.018 -0.890 H31  DFD 31 
+DFD H32  2H3  H 0 1 N N N 19.483 42.855 19.679 -2.492 -1.018 0.890  H32  DFD 32 
+DFD H21  1H2  H 0 1 N N N 18.792 44.499 17.672 -3.736 1.126  0.890  H21  DFD 33 
+DFD H22  2H2  H 0 1 N N N 20.162 43.592 16.868 -3.736 1.126  -0.890 H22  DFD 34 
+DFD H1   H1   H 0 1 N N N 16.347 42.631 17.069 -6.152 1.368  -0.000 H1   DFD 35 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DFD C11 C10  SING N N 1  
+DFD C11 H111 SING N N 2  
+DFD C11 H112 SING N N 3  
+DFD C11 H113 SING N N 4  
+DFD C10 C9   SING N N 5  
+DFD C10 H101 SING N N 6  
+DFD C10 H102 SING N N 7  
+DFD C9  C8   SING N N 8  
+DFD C9  H91  SING N N 9  
+DFD C9  H92  SING N N 10 
+DFD C8  C7   SING N N 11 
+DFD C8  H81  SING N N 12 
+DFD C8  H82  SING N N 13 
+DFD C7  C6   SING N N 14 
+DFD C7  H71  SING N N 15 
+DFD C7  H72  SING N N 16 
+DFD C6  C5   SING N N 17 
+DFD C6  H61  SING N N 18 
+DFD C6  H62  SING N N 19 
+DFD C5  C4   SING N N 20 
+DFD C5  H51  SING N N 21 
+DFD C5  H52  SING N N 22 
+DFD C4  C3   SING N N 23 
+DFD C4  H41  SING N N 24 
+DFD C4  H42  SING N N 25 
+DFD C3  C2   SING N N 26 
+DFD C3  H31  SING N N 27 
+DFD C3  H32  SING N N 28 
+DFD C2  O2   SING N N 29 
+DFD C2  H21  SING N N 30 
+DFD C2  H22  SING N N 31 
+DFD O2  C1   SING N N 32 
+DFD C1  O1   DOUB N N 33 
+DFD C1  H1   SING N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DFD SMILES           ACDLabs              10.04 O=COCCCCCCCCCC                                                   
+DFD SMILES_CANONICAL CACTVS               3.341 CCCCCCCCCCOC=O                                                   
+DFD SMILES           CACTVS               3.341 CCCCCCCCCCOC=O                                                   
+DFD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCCCCCCCOC=O                                                   
+DFD SMILES           "OpenEye OEToolkits" 1.5.0 CCCCCCCCCCOC=O                                                   
+DFD InChI            InChI                1.03  InChI=1S/C11H22O2/c1-2-3-4-5-6-7-8-9-10-13-11-12/h11H,2-10H2,1H3 
+DFD InChIKey         InChI                1.03  BCLJZFLDSCTULJ-UHFFFAOYSA-N                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DFD "SYSTEMATIC NAME" ACDLabs              10.04 "decyl formate"    
+DFD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "decyl methanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DFD "Create component"  2007-07-26 RCSB 
+DFD "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,127 @@
+data_RBL
+# 
+_chem_comp.id                                    RBL 
+_chem_comp.name                                  D-ribulose 
+_chem_comp.type                                  D-saccharide 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-01-26 
+_chem_comp.pdbx_modified_date                    2013-11-22 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RBL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZYD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RBL C2   C2   C 0 1 N N N -2.912 26.664 40.559 2.050  0.842  0.484  C2   RBL 1  
+RBL C3   C3   C 0 1 N N N -2.044 27.561 39.692 1.307  -0.380 0.011  C3   RBL 2  
+RBL C5   C5   C 0 1 N N R -1.065 26.940 38.723 -0.078 -0.669 0.532  C5   RBL 3  
+RBL O13  O13  O 0 1 N N N 0.216  27.570 38.857 -0.384 -2.050 0.331  O13  RBL 4  
+RBL C6   C6   C 0 1 N N R -1.535 27.087 37.267 -1.095 0.193  -0.218 C6   RBL 5  
+RBL O14  O14  O 0 1 N N N -2.944 27.348 37.162 -0.789 1.575  -0.017 O14  RBL 6  
+RBL C7   C7   C 0 1 N N N -1.185 25.815 36.506 -2.500 -0.100 0.310  C7   RBL 7  
+RBL O8   O8   O 0 1 N N N -1.347 26.050 35.110 -3.461 0.618  -0.467 O8   RBL 8  
+RBL O4   O4   O 0 1 N N N -2.121 28.772 39.786 1.821  -1.128 -0.786 O4   RBL 9  
+RBL O1   O1   O 0 1 N N N -3.838 27.438 41.333 3.331  0.896  -0.148 O1   RBL 10 
+RBL H2   H2   H 0 1 N N N -3.475 25.976 39.911 1.481  1.736  0.228  H2   RBL 11 
+RBL H2A  H2A  H 0 1 N N N -2.261 26.104 41.247 2.181  0.793  1.565  H2A  RBL 12 
+RBL H5   H5   H 0 1 N N N -0.997 25.869 38.964 -0.121 -0.438 1.596  H5   RBL 13 
+RBL HO13 HO13 H 0 0 N N N 0.592  27.709 37.996 -0.364 -2.326 -0.596 HO13 RBL 14 
+RBL H6   H6   H 0 1 N N N -1.019 27.956 36.833 -1.052 -0.037 -1.283 H6   RBL 15 
+RBL HO14 HO14 H 0 0 N N N -3.322 27.406 38.032 -0.808 1.851  0.909  HO14 RBL 16 
+RBL H7   H7   H 0 1 N N N -0.142 25.535 36.715 -2.700 -1.169 0.238  H7   RBL 17 
+RBL H7A  H7A  H 0 1 N N N -1.848 24.997 36.824 -2.569 0.214  1.352  H7A  RBL 18 
+RBL HO8  HO8  H 0 1 N N N -1.383 26.985 34.948 -4.376 0.479  -0.188 HO8  RBL 19 
+RBL HO1  HO1  H 0 1 N N N -3.468 27.609 42.191 3.865  1.659  0.111  HO1  RBL 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RBL C2  C3   SING N N 1  
+RBL C2  O1   SING N N 2  
+RBL C3  C5   SING N N 3  
+RBL C3  O4   DOUB N N 4  
+RBL C5  O13  SING N N 5  
+RBL C5  C6   SING N N 6  
+RBL C6  O14  SING N N 7  
+RBL C6  C7   SING N N 8  
+RBL C7  O8   SING N N 9  
+RBL C2  H2   SING N N 10 
+RBL C2  H2A  SING N N 11 
+RBL C5  H5   SING N N 12 
+RBL O13 HO13 SING N N 13 
+RBL C6  H6   SING N N 14 
+RBL O14 HO14 SING N N 15 
+RBL C7  H7   SING N N 16 
+RBL C7  H7A  SING N N 17 
+RBL O8  HO8  SING N N 18 
+RBL O1  HO1  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RBL SMILES           ACDLabs              10.04 "O=C(CO)C(O)C(O)CO"                                                    
+RBL SMILES_CANONICAL CACTVS               3.341 "OC[C@@H](O)[C@@H](O)C(=O)CO"                                          
+RBL SMILES           CACTVS               3.341 "OC[CH](O)[CH](O)C(=O)CO"                                              
+RBL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@H]([C@H](C(=O)CO)O)O)O"                                          
+RBL SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(C(=O)CO)O)O)O"                                                  
+RBL InChI            InChI                1.03  "InChI=1S/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h3,5-8,10H,1-2H2/t3-,5-/m1/s1" 
+RBL InChIKey         InChI                1.03  ZAQJHHRNXZUBTE-NQXXGFSBSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RBL "SYSTEMATIC NAME" ACDLabs              10.04 D-ribulose                                 
+RBL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3R,4R)-1,3,4,5-tetrahydroxypentan-2-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RBL "Create component"  2009-01-26 PDBJ 
+RBL "Modify descriptor" 2011-06-04 RCSB 
+RBL "Initial release"   2013-11-27 RCSB 
+# 

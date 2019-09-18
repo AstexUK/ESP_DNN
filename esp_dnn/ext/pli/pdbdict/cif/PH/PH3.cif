@@ -1,0 +1,127 @@
+data_PH3
+# 
+_chem_comp.id                                    PH3 
+_chem_comp.name                                  "N-(CHLOROPHENYL)-N'-HYDROXYGUANIDINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 Cl N3 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-12-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.611 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PH3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DM6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PH3 CL  CL  CL 0 0 N N N 2.300  3.573  65.197 -0.559 0.071  -3.921 CL  PH3 1  
+PH3 C1  C1  C  0 1 Y N N 0.183  7.701  65.524 0.826  -0.172 0.355  C1  PH3 2  
+PH3 C2  C2  C  0 1 Y N N 1.608  7.499  66.162 1.613  0.464  -0.595 C2  PH3 3  
+PH3 C3  C3  C  0 1 Y N N 2.296  6.139  66.044 1.185  0.537  -1.906 C3  PH3 4  
+PH3 C4  C4  C  0 1 Y N N 1.564  5.136  65.353 -0.025 -0.022 -2.272 C4  PH3 5  
+PH3 C5  C5  C  0 1 Y N N 0.253  5.339  64.769 -0.810 -0.658 -1.327 C5  PH3 6  
+PH3 C6  C6  C  0 1 Y N N -0.409 6.603  64.870 -0.385 -0.739 -0.015 C6  PH3 7  
+PH3 NE  NE  N  0 1 N N N -0.457 8.996  65.647 1.257  -0.248 1.685  NE  PH3 8  
+PH3 CZ  CZ  C  0 1 N N N -0.205 9.949  66.579 0.359  -0.063 2.711  CZ  PH3 9  
+PH3 NH1 NH1 N  0 1 N N N 0.610  9.773  67.666 -0.933 0.312  2.433  NH1 PH3 10 
+PH3 NH2 NH2 N  0 1 N N N -0.779 11.117 66.407 0.734  -0.244 3.946  NH2 PH3 11 
+PH3 OH  OH  O  0 1 N N N 0.812  10.640 68.648 -1.857 0.503  3.489  OH  PH3 12 
+PH3 H2  H2  H  0 1 N N N 2.126  8.314  66.694 2.558  0.902  -0.309 H2  PH3 13 
+PH3 H3  H3  H  0 1 N N N 3.292  5.888  66.446 1.797  1.033  -2.646 H3  PH3 14 
+PH3 H5  H5  H  0 1 N N N -0.251 4.514  64.236 -1.755 -1.094 -1.615 H5  PH3 15 
+PH3 H6  H6  H  0 1 N N N -1.410 6.735  64.428 -0.998 -1.235 0.721  H6  PH3 16 
+PH3 HNE HNE H  0 1 N N N -1.458 8.811  65.697 2.189  -0.431 1.883  HNE PH3 17 
+PH3 HN1 HN1 H  0 1 N N N 1.531  9.540  67.296 -1.212 0.447  1.514  HN1 PH3 18 
+PH3 HN2 HN2 H  0 1 N N N -0.216 11.957 66.540 1.621  -0.587 4.138  HN2 PH3 19 
+PH3 HO  HO  H  0 1 N N N 1.377  10.518 69.401 -2.696 0.761  3.083  HO  PH3 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PH3 CL  C4  SING N N 1  
+PH3 C1  C2  DOUB Y N 2  
+PH3 C1  C6  SING Y N 3  
+PH3 C1  NE  SING N N 4  
+PH3 C2  C3  SING Y N 5  
+PH3 C2  H2  SING N N 6  
+PH3 C3  C4  DOUB Y N 7  
+PH3 C3  H3  SING N N 8  
+PH3 C4  C5  SING Y N 9  
+PH3 C5  C6  DOUB Y N 10 
+PH3 C5  H5  SING N N 11 
+PH3 C6  H6  SING N N 12 
+PH3 NE  CZ  SING N N 13 
+PH3 NE  HNE SING N N 14 
+PH3 CZ  NH1 SING N N 15 
+PH3 CZ  NH2 DOUB N N 16 
+PH3 NH1 OH  SING N N 17 
+PH3 NH1 HN1 SING N N 18 
+PH3 NH2 HN2 SING N N 19 
+PH3 OH  HO  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PH3 SMILES           ACDLabs              10.04 "Clc1ccc(NC(=[N@H])NO)cc1"                                               
+PH3 SMILES_CANONICAL CACTVS               3.341 "ONC(=N)Nc1ccc(Cl)cc1"                                                   
+PH3 SMILES           CACTVS               3.341 "ONC(=N)Nc1ccc(Cl)cc1"                                                   
+PH3 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1NC(=N)NO)Cl"                                                   
+PH3 SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1NC(=N)NO)Cl"                                                   
+PH3 InChI            InChI                1.03  "InChI=1S/C7H8ClN3O/c8-5-1-3-6(4-2-5)10-7(9)11-12/h1-4,12H,(H3,9,10,11)" 
+PH3 InChIKey         InChI                1.03  JYBXKTLYOMPMQY-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PH3 "SYSTEMATIC NAME" ACDLabs              10.04 "1-(4-chlorophenyl)-3-hydroxyguanidine"  
+PH3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1-(4-chlorophenyl)-3-hydroxy-guanidine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PH3 "Create component"  1999-12-16 RCSB 
+PH3 "Modify descriptor" 2011-06-04 RCSB 
+# 

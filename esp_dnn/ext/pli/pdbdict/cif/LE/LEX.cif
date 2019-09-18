@@ -1,0 +1,138 @@
+data_LEX
+# 
+_chem_comp.id                                    LEX 
+_chem_comp.name                                  "(3S)-3-amino-1-hydroxy-5-methylhexan-2-one" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H15 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               LEU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-12-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.199 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     LEX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3PA8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LEX C    C    C 0 1 N N N 17.408 3.266 33.157 -1.434 0.257  -0.026 C    LEX 1  
+LEX N    N    N 0 1 N N N 18.956 4.030 34.896 0.269  1.959  -0.357 N    LEX 2  
+LEX O    O    O 0 1 N N N 16.469 3.416 32.376 -2.069 1.115  0.540  O    LEX 3  
+LEX CA   CA   C 0 1 N N S 18.078 4.479 33.805 -0.004 0.517  -0.425 CA   LEX 4  
+LEX CB   CB   C 0 1 N N N 18.907 5.224 32.757 0.934  -0.225 0.529  CB   LEX 5  
+LEX CG   CG   C 0 1 N N N 18.403 6.664 32.636 2.382  -0.027 0.077  CG   LEX 6  
+LEX CAC  CAC  C 0 1 N N N 17.919 1.863 33.493 -2.071 -1.075 -0.328 CAC  LEX 7  
+LEX CD1  CD1  C 0 1 N N N 17.404 6.990 33.748 3.327  -0.645 1.109  CD1  LEX 8  
+LEX CD2  CD2  C 0 1 N N N 19.569 7.654 32.639 2.590  -0.708 -1.277 CD2  LEX 9  
+LEX HN   HN   H 0 1 N N N 19.394 4.823 35.320 -0.294 2.465  -1.025 HN   LEX 10 
+LEX HA   HA   H 0 1 N N N 17.307 5.152 34.209 0.159  0.163  -1.443 HA   LEX 11 
+LEX HB   HB   H 0 1 N N N 19.964 5.230 33.062 0.811  0.169  1.538  HB   LEX 12 
+LEX HBA  HBA  H 0 1 N N N 18.809 4.718 31.785 0.693  -1.288 0.522  HBA  LEX 13 
+LEX HG   HG   H 0 1 N N N 17.880 6.760 31.673 2.591  1.038  -0.016 HG   LEX 14 
+LEX HAC  HAC  H 0 1 N N N 18.531 1.904 34.406 -1.511 -1.866 0.170  HAC  LEX 15 
+LEX OXT  OXT  O 0 1 N Y N 18.713 1.373 32.409 -3.420 -1.076 0.144  OXT  LEX 16 
+LEX HACA HACA H 0 0 N N N 17.064 1.190 33.655 -2.063 -1.246 -1.405 HACA LEX 17 
+LEX HD1  HD1  H 0 1 N N N 17.058 8.028 33.638 4.357  -0.544 0.765  HD1  LEX 18 
+LEX HD1A HD1A H 0 0 N N N 16.544 6.308 33.679 3.211  -0.130 2.063  HD1A LEX 19 
+LEX HD1B HD1B H 0 0 N N N 17.892 6.868 34.726 3.088  -1.701 1.235  HD1B LEX 20 
+LEX HD2  HD2  H 0 1 N N N 19.180 8.679 32.551 1.917  -0.268 -2.013 HD2  LEX 21 
+LEX HD2A HD2A H 0 0 N N N 20.132 7.555 33.579 3.622  -0.567 -1.600 HD2A LEX 22 
+LEX HD2B HD2B H 0 0 N N N 20.234 7.440 31.789 2.381  -1.774 -1.185 HD2B LEX 23 
+LEX HXT  HXT  H 0 1 N Y N 19.031 0.502 32.617 -3.892 -1.905 -0.017 HXT  LEX 24 
+LEX H2   H2   H 0 1 N Y N 18.414 3.543 35.581 0.124  2.311  0.577  H2   LEX 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LEX C   CAC  SING N N 1  
+LEX C   CA   SING N N 2  
+LEX N   HN   SING N N 3  
+LEX O   C    DOUB N N 4  
+LEX CA  N    SING N N 5  
+LEX CA  HA   SING N N 6  
+LEX CB  CA   SING N N 7  
+LEX CB  HB   SING N N 8  
+LEX CB  HBA  SING N N 9  
+LEX CG  CB   SING N N 10 
+LEX CG  CD2  SING N N 11 
+LEX CG  CD1  SING N N 12 
+LEX CG  HG   SING N N 13 
+LEX CAC HAC  SING N N 14 
+LEX CAC OXT  SING N N 15 
+LEX CAC HACA SING N N 16 
+LEX CD1 HD1  SING N N 17 
+LEX CD1 HD1A SING N N 18 
+LEX CD1 HD1B SING N N 19 
+LEX CD2 HD2  SING N N 20 
+LEX CD2 HD2A SING N N 21 
+LEX CD2 HD2B SING N N 22 
+LEX OXT HXT  SING N N 23 
+LEX N   H2   SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LEX SMILES           ACDLabs              12.01 "O=C(C(N)CC(C)C)CO"                                                       
+LEX SMILES_CANONICAL CACTVS               3.370 "CC(C)C[C@H](N)C(=O)CO"                                                   
+LEX SMILES           CACTVS               3.370 "CC(C)C[CH](N)C(=O)CO"                                                    
+LEX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)C[C@@H](C(=O)CO)N"                                                  
+LEX SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)CC(C(=O)CO)N"                                                       
+LEX InChI            InChI                1.03  "InChI=1S/C7H15NO2/c1-5(2)3-6(8)7(10)4-9/h5-6,9H,3-4,8H2,1-2H3/t6-/m0/s1" 
+LEX InChIKey         InChI                1.03  VEROGSXUMLPXMN-LURJTMIESA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LEX "SYSTEMATIC NAME" ACDLabs              12.01 "(3S)-3-amino-1-hydroxy-5-methylhexan-2-one"   
+LEX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(3S)-3-azanyl-1-hydroxy-5-methyl-hexan-2-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LEX "Create component"   2010-12-02 ?    
+LEX "Other modification" 2011-02-07 RCSB 
+LEX "Other modification" 2011-02-22 RCSB 
+LEX "Modify descriptor"  2011-06-04 RCSB 
+# 

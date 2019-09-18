@@ -1,0 +1,107 @@
+data_ETO
+# 
+_chem_comp.id                                    ETO 
+_chem_comp.name                                  "ETHOXYCARBONYL GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H6 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        74.079 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ETO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PSA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ETO CB  CB  C 0 1 N N N 34.599 36.708 -6.166 2.385  0.367  0.000  CB  ETO 1  
+ETO CA  CA  C 0 1 N N N 33.205 37.252 -5.819 1.166  -0.558 0.000  CA  ETO 2  
+ETO O2  O2  O 0 1 N N N 32.905 36.961 -4.505 -0.047 0.241  0.000  O2  ETO 3  
+ETO C   C   C 0 1 N N N 31.564 36.862 -3.995 -1.247 -0.361 0.000  C   ETO 4  
+ETO O   O   O 0 1 N N N 30.615 36.844 -4.786 -2.256 0.303  0.000  O   ETO 5  
+ETO HB1 1HB H 0 1 N N N 34.841 36.943 -7.228 2.364  0.996  0.889  HB1 ETO 6  
+ETO HB2 2HB H 0 1 N N N 35.381 37.080 -5.464 3.296  -0.233 0.000  HB2 ETO 7  
+ETO HB3 3HB H 0 1 N N N 34.691 35.618 -5.945 2.364  0.995  -0.891 HB3 ETO 8  
+ETO HA1 1HA H 0 1 N N N 33.113 38.341 -6.039 1.187  -1.187 -0.889 HA1 ETO 9  
+ETO HA2 2HA H 0 1 N N N 32.422 36.879 -6.520 1.187  -1.186 0.891  HA2 ETO 10 
+ETO H   H   H 0 1 N N N 31.246 36.796 -2.941 -1.310 -1.439 0.001  H   ETO 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ETO CB CA  SING N N 1  
+ETO CB HB1 SING N N 2  
+ETO CB HB2 SING N N 3  
+ETO CB HB3 SING N N 4  
+ETO CA O2  SING N N 5  
+ETO CA HA1 SING N N 6  
+ETO CA HA2 SING N N 7  
+ETO O2 C   SING N N 8  
+ETO C  O   DOUB N N 9  
+ETO C  H   SING N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ETO SMILES           ACDLabs              10.04 O=COCC                                
+ETO InChI            InChI                1.02b InChI=1/C3H6O2/c1-2-5-3-4/h3H,2H2,1H3 
+ETO InChIKey         InChI                1.02b WBJINCZRORDGAQ-UHFFFAOYAO             
+ETO SMILES_CANONICAL CACTVS               3.341 CCOC=O                                
+ETO SMILES           CACTVS               3.341 CCOC=O                                
+ETO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCOC=O                                
+ETO SMILES           "OpenEye OEToolkits" 1.5.0 CCOC=O                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ETO "SYSTEMATIC NAME" ACDLabs              10.04 "ethyl formate"    
+ETO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "ethyl methanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ETO "Create component" 1999-07-08 RCSB 
+# 

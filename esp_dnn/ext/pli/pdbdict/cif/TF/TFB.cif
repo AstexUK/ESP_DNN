@@ -1,0 +1,119 @@
+data_TFB
+# 
+_chem_comp.id                                    TFB 
+_chem_comp.name                                  "TETRAHYDROFURAN-2-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-11-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        116.115 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TFB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KB0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TFB OA  OA  O 0 1 N N N 17.627 62.607 15.134 1.090  0.157  -0.802 OA  TFB 1  
+TFB CA  CA  C 0 1 N N S 17.330 61.486 16.034 -0.062 0.520  -0.012 CA  TFB 2  
+TFB C   C   C 0 1 N N N 18.323 60.529 15.990 0.100  0.037  1.406  C   TFB 3  
+TFB OB  OB  O 0 1 N N N 19.213 60.566 16.902 -0.888 0.221  2.295  OB  TFB 4  
+TFB CB  CB  C 0 1 N N N 15.927 61.042 15.615 -1.251 -0.194 -0.690 CB  TFB 5  
+TFB CG  CG  C 0 1 N N N 15.280 62.315 15.080 -0.779 -0.409 -2.146 CG  TFB 6  
+TFB CD  CD  C 0 1 N N N 16.400 63.177 14.519 0.639  0.202  -2.174 CD  TFB 7  
+TFB OXT OXT O 0 1 N N N 18.294 59.674 15.086 1.120  -0.514 1.743  OXT TFB 8  
+TFB HA  HA  H 0 1 N N N 17.324 61.745 17.118 -0.209 1.600  -0.029 HA  TFB 9  
+TFB HB  HB  H 0 1 N N N 19.896 59.907 16.871 -0.784 -0.089 3.205  HB  TFB 10 
+TFB HB1 1HB H 0 1 N N N 15.911 60.185 14.901 -1.447 -1.152 -0.207 HB1 TFB 11 
+TFB HB2 2HB H 0 1 N N N 15.346 60.537 16.421 -2.140 0.435  -0.666 HB2 TFB 12 
+TFB HG1 1HG H 0 1 N N N 14.466 62.117 14.343 -0.741 -1.472 -2.382 HG1 TFB 13 
+TFB HG2 2HG H 0 1 N N N 14.657 62.843 15.839 -1.434 0.114  -2.841 HG2 TFB 14 
+TFB HD1 1HD H 0 1 N N N 16.266 64.271 14.687 1.295  -0.391 -2.810 HD1 TFB 15 
+TFB HD2 2HD H 0 1 N N N 16.425 63.230 13.405 0.600  1.233  -2.525 HD2 TFB 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TFB OA CA  SING N N 1  
+TFB OA CD  SING N N 2  
+TFB CA C   SING N N 3  
+TFB CA CB  SING N N 4  
+TFB CA HA  SING N N 5  
+TFB C  OB  SING N N 6  
+TFB C  OXT DOUB N N 7  
+TFB OB HB  SING N N 8  
+TFB CB CG  SING N N 9  
+TFB CB HB1 SING N N 10 
+TFB CB HB2 SING N N 11 
+TFB CG CD  SING N N 12 
+TFB CG HG1 SING N N 13 
+TFB CG HG2 SING N N 14 
+TFB CD HD1 SING N N 15 
+TFB CD HD2 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TFB SMILES           ACDLabs              10.04 "O=C(O)C1OCCC1"                                                  
+TFB SMILES_CANONICAL CACTVS               3.341 "OC(=O)[C@@H]1CCCO1"                                             
+TFB SMILES           CACTVS               3.341 "OC(=O)[CH]1CCCO1"                                               
+TFB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1C[C@H](OC1)C(=O)O"                                            
+TFB SMILES           "OpenEye OEToolkits" 1.5.0 "C1CC(OC1)C(=O)O"                                                
+TFB InChI            InChI                1.03  "InChI=1S/C5H8O3/c6-5(7)4-2-1-3-8-4/h4H,1-3H2,(H,6,7)/t4-/m0/s1" 
+TFB InChIKey         InChI                1.03  UJJLJRQIPMGXEZ-BYPYZUCNSA-N                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TFB "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-tetrahydrofuran-2-carboxylic acid" 
+TFB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-oxolane-2-carboxylic acid"         
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TFB "Create component"  2001-11-09 PDBJ 
+TFB "Modify descriptor" 2011-06-04 RCSB 
+# 

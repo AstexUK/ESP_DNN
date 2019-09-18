@@ -1,0 +1,130 @@
+data_SBG
+# 
+_chem_comp.id                                    SBG 
+_chem_comp.name                                  "O-[(S)-HYDROXY(METHYL)PHOSPHORYL]-L-SERINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 N O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-02-13 
+_chem_comp.pdbx_modified_date                    2012-06-12 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        183.100 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SBG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SBG N    N    N 0 1 N N N 25.642 12.333 14.303 1.771  1.847  0.285  N    SBG 1  
+SBG CA   CA   C 0 1 N N S 26.751 12.594 13.330 1.720  0.401  0.541  CA   SBG 2  
+SBG CB   CB   C 0 1 N N N 27.034 14.095 13.197 0.501  -0.199 -0.161 CB   SBG 3  
+SBG OG   OG   O 0 1 N N N 27.800 14.399 12.031 -0.692 0.330  0.422  OG   SBG 4  
+SBG C    C    C 0 1 N N N 28.026 11.703 13.567 2.974  -0.247 0.012  C    SBG 5  
+SBG O    O    O 0 1 N N N 27.949 10.476 13.383 3.642  0.319  -0.821 O    SBG 6  
+SBG O2   O2   O 0 1 N N N 28.222 16.906 12.458 -2.287 0.161  -1.527 O2   SBG 7  
+SBG P1   P1   P 0 1 N N N 28.881 15.556 12.346 -2.168 -0.084 -0.072 P1   SBG 8  
+SBG O1   O1   O 0 1 N N N 29.756 15.097 13.491 -2.417 -1.645 0.232  O1   SBG 9  
+SBG C1   C1   C 0 1 N N N 29.697 15.311 10.753 -3.408 0.914  0.816  C1   SBG 10 
+SBG OXT  OXT  O 0 1 N Y N 29.160 12.282 13.973 3.348  -1.454 0.465  OXT  SBG 11 
+SBG HN1  HN1  H 0 1 N N N 25.480 11.348 14.369 1.841  2.036  -0.703 HN1  SBG 12 
+SBG HN2  HN2  H 0 1 N Y N 25.897 12.690 15.202 0.972  2.313  0.688  HN2  SBG 13 
+SBG HA   HA   H 0 1 N N N 26.365 12.282 12.348 1.646  0.224  1.614  HA   SBG 14 
+SBG HBC1 HBC1 H 0 0 N N N 26.076 14.632 13.141 0.530  0.054  -1.220 HBC1 SBG 15 
+SBG HBC2 HBC2 H 0 0 N N N 27.591 14.430 14.084 0.512  -1.283 -0.045 HBC2 SBG 16 
+SBG HOT  HOT  H 0 1 N Y N 29.833 11.620 14.081 4.160  -1.829 0.096  HOT  SBG 17 
+SBG H1   H1   H 0 1 N N N 29.771 15.765 14.166 -3.288 -1.964 -0.041 H1   SBG 18 
+SBG H1C1 H1C1 H 0 0 N N N 30.542 16.009 10.662 -3.239 1.971  0.610  H1C1 SBG 19 
+SBG H1C2 H1C2 H 0 0 N N N 30.067 14.277 10.686 -4.407 0.634  0.481  H1C2 SBG 20 
+SBG H1C3 H1C3 H 0 0 N N N 28.979 15.497 9.941  -3.320 0.734  1.887  H1C3 SBG 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SBG N   CA   SING N N 1  
+SBG CA  CB   SING N N 2  
+SBG CB  OG   SING N N 3  
+SBG CA  C    SING N N 4  
+SBG C   O    DOUB N N 5  
+SBG OG  P1   SING N N 6  
+SBG O2  P1   DOUB N N 7  
+SBG P1  O1   SING N N 8  
+SBG P1  C1   SING N N 9  
+SBG C   OXT  SING N N 10 
+SBG N   HN1  SING N N 11 
+SBG N   HN2  SING N N 12 
+SBG CA  HA   SING N N 13 
+SBG CB  HBC1 SING N N 14 
+SBG CB  HBC2 SING N N 15 
+SBG OXT HOT  SING N N 16 
+SBG O1  H1   SING N N 17 
+SBG C1  H1C1 SING N N 18 
+SBG C1  H1C2 SING N N 19 
+SBG C1  H1C3 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SBG SMILES           ACDLabs              12.01 "O=P(OCC(C(=O)O)N)(O)C"                                                              
+SBG InChI            InChI                1.03  "InChI=1S/C4H10NO5P/c1-11(8,9)10-2-3(5)4(6)7/h3H,2,5H2,1H3,(H,6,7)(H,8,9)/t3-/m0/s1" 
+SBG InChIKey         InChI                1.03  GQKAGYTWOXMURY-VKHMYHEASA-N                                                          
+SBG SMILES_CANONICAL CACTVS               3.370 "C[P](O)(=O)OC[C@H](N)C(O)=O"                                                        
+SBG SMILES           CACTVS               3.370 "C[P](O)(=O)OC[CH](N)C(O)=O"                                                         
+SBG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[P@](=O)(O)OC[C@@H](C(=O)O)N"                                                      
+SBG SMILES           "OpenEye OEToolkits" 1.7.6 "CP(=O)(O)OCC(C(=O)O)N"                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SBG "SYSTEMATIC NAME" ACDLabs              12.01 "O-[(S)-hydroxy(methyl)phosphoryl]-L-serine"                     
+SBG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-azanyl-3-[methyl(oxidanyl)phosphoryl]oxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SBG "Create component"         2007-02-13 RCSB 
+SBG "Modify descriptor"        2011-06-04 RCSB 
+SBG "Modify parent residue"    2012-06-12 RCSB 
+SBG "Modify leaving atom flag" 2012-06-12 RCSB 
+# 

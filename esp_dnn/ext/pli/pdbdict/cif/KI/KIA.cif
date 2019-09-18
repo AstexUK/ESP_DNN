@@ -1,0 +1,127 @@
+data_KIA
+# 
+_chem_comp.id                                    KIA 
+_chem_comp.name                                  2,6-dimethoxycyclohexa-2,5-diene-1,4-dione 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2,6-dimethoxy-p-benzoquinone 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-01-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        168.147 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     KIA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3FU7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+KIA O2  O2  O 0 1 N N N -6.099  28.042 19.538 0.000  -2.959 0.001  O2  KIA 1  
+KIA C4  C4  C 0 1 N N N -7.131  28.696 19.271 0.000  -1.743 0.001  C4  KIA 2  
+KIA C5  C5  C 0 1 N N N -7.875  29.258 20.316 1.275  -1.011 0.001  C5  KIA 3  
+KIA C6  C6  C 0 1 N N N -9.029  29.999 20.064 1.283  0.337  0.000  C6  KIA 4  
+KIA O3  O3  O 0 1 N N N -9.761  30.546 21.089 2.459  1.009  -0.000 O3  KIA 5  
+KIA C7  C7  C 0 1 N N N -9.512  31.869 21.570 3.654  0.226  -0.001 C7  KIA 6  
+KIA C1  C1  C 0 1 N N N -9.469  30.178 18.657 -0.000 1.082  0.001  C1  KIA 7  
+KIA O1  O1  O 0 1 N N N -10.496 30.833 18.388 -0.000 2.295  -0.000 O1  KIA 8  
+KIA C3  C3  C 0 1 N N N -7.511  28.843 17.934 -1.275 -1.011 -0.004 C3  KIA 9  
+KIA C2  C2  C 0 1 N N N -8.649  29.567 17.578 -1.283 0.337  0.001  C2  KIA 10 
+KIA O4  O4  O 0 1 N N N -9.015  29.701 16.263 -2.459 1.009  0.001  O4  KIA 11 
+KIA C8  C8  C 0 1 N N N -8.699  30.874 15.508 -3.654 0.226  0.001  C8  KIA 12 
+KIA H5  H5  H 0 1 N N N -7.549  29.115 21.336 2.208  -1.555 0.001  H5  KIA 13 
+KIA H7  H7  H 0 1 N N N -9.448  31.855 22.668 3.676  -0.403 -0.891 H7  KIA 14 
+KIA H7A H7A H 0 1 N N N -8.564  32.238 21.152 4.521  0.886  -0.001 H7A KIA 15 
+KIA H7B H7B H 0 1 N N N -10.333 32.532 21.260 3.677  -0.403 0.889  H7B KIA 16 
+KIA H3  H3  H 0 1 N N N -6.911  28.387 17.161 -2.208 -1.555 -0.008 H3  KIA 17 
+KIA H8  H8  H 0 1 N N N -8.618  31.736 16.186 -3.676 -0.403 -0.889 H8  KIA 18 
+KIA H8A H8A H 0 1 N N N -7.742  30.727 14.986 -3.676 -0.403 0.891  H8A KIA 19 
+KIA H8B H8B H 0 1 N N N -9.494  31.061 14.771 -4.521 0.886  0.001  H8B KIA 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+KIA C4 O2  DOUB N N 1  
+KIA C3 C4  SING N N 2  
+KIA C4 C5  SING N N 3  
+KIA C6 C5  DOUB N N 4  
+KIA C5 H5  SING N N 5  
+KIA C1 C6  SING N N 6  
+KIA C6 O3  SING N N 7  
+KIA O3 C7  SING N N 8  
+KIA C7 H7  SING N N 9  
+KIA C7 H7A SING N N 10 
+KIA C7 H7B SING N N 11 
+KIA C2 C1  SING N N 12 
+KIA O1 C1  DOUB N N 13 
+KIA C2 C3  DOUB N N 14 
+KIA C3 H3  SING N N 15 
+KIA O4 C2  SING N N 16 
+KIA C8 O4  SING N N 17 
+KIA C8 H8  SING N N 18 
+KIA C8 H8A SING N N 19 
+KIA C8 H8B SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+KIA SMILES           ACDLabs              10.04 "O=C1C(OC)=CC(=O)C=C1OC"                                    
+KIA SMILES_CANONICAL CACTVS               3.341 "COC1=CC(=O)C=C(OC)C1=O"                                    
+KIA SMILES           CACTVS               3.341 "COC1=CC(=O)C=C(OC)C1=O"                                    
+KIA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COC1=CC(=O)C=C(C1=O)OC"                                    
+KIA SMILES           "OpenEye OEToolkits" 1.5.0 "COC1=CC(=O)C=C(C1=O)OC"                                    
+KIA InChI            InChI                1.03  "InChI=1S/C8H8O4/c1-11-6-3-5(9)4-7(12-2)8(6)10/h3-4H,1-2H3" 
+KIA InChIKey         InChI                1.03  OLBNOBQOQZRLMP-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+KIA "SYSTEMATIC NAME" ACDLabs              10.04 2,6-dimethoxycyclohexa-2,5-diene-1,4-dione 
+KIA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,6-dimethoxycyclohexa-2,5-diene-1,4-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+KIA "Create component"  2009-01-19 RCSB 
+KIA "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,99 @@
+data_NFC
+# 
+_chem_comp.id                                    NFC 
+_chem_comp.name                                  "NI-FE ACTIVE CENTER A-FORM" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H2 Fe N Ni O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-12-17 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        230.591 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NFC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1WUH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NFC NI NI NI 0 0 N N N 56.285 46.878 84.357 -0.042 -0.307 -2.633 NI NFC 1  
+NFC FE FE FE 0 0 N N N 55.810 49.173 86.011 0.022  -0.067 0.816  FE NFC 2  
+NFC C3 C3 C  0 1 N N N 56.179 50.984 86.264 -0.720 -0.537 2.546  C3 NFC 3  
+NFC C2 C2 C  0 1 N N N 54.044 49.629 86.408 -1.765 0.260  0.137  C2 NFC 4  
+NFC O3 O3 O  0 1 N N N 56.495 51.973 86.475 -1.584 0.147  3.038  O3 NFC 5  
+NFC N2 N2 N  0 1 N N N 52.947 49.888 86.692 -2.811 0.451  -0.259 N2 NFC 6  
+NFC O1 O1 O  0 1 N N N 56.380 48.382 88.930 2.131  0.031  2.579  O1 NFC 7  
+NFC C1 C1 C  0 1 N N N 56.158 48.692 87.809 1.810  -0.394 1.495  C1 NFC 8  
+NFC O4 O4 O  0 1 N N N 55.166 47.123 85.726 0.784  0.415  -0.957 O4 NFC 9  
+NFC O5 O5 O  0 1 N N N 54.504 45.894 84.705 1.580  1.023  -1.012 O5 NFC 10 
+NFC H3 H3 H  0 1 N N N 56.250 52.083 86.320 -0.361 -1.411 3.068  H3 NFC 11 
+NFC H1 H1 H  0 1 N N N 56.354 48.426 88.861 2.517  -0.956 0.904  H1 NFC 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NFC NI O4 SING N N 1  
+NFC FE C3 SING N N 2  
+NFC FE C2 SING N N 3  
+NFC FE C1 SING N N 4  
+NFC FE O4 SING N N 5  
+NFC C3 O3 DOUB N N 6  
+NFC C3 H3 SING N N 7  
+NFC C2 N2 TRIP N N 8  
+NFC O1 C1 DOUB N N 9  
+NFC C1 H1 SING N N 10 
+NFC O4 O5 DOUB N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NFC InChI            InChI                1.02b "InChI=1/CN.2CHO.Fe.Ni.O2/c3*1-2;;;1-2/h;2*1H;;;/rC3H2FeNNiO4/c5-1-4(2-7,3-8)10(6)9/h2-3H" 
+NFC InChIKey         InChI                1.02b CIUCFLVMTAQNSJ-HFOLDOAIAB                                                                  
+NFC SMILES_CANONICAL CACTVS               3.341 "[Ni][O](=O)[Fe@](C=O)(C=O)C#N"                                                            
+NFC SMILES           CACTVS               3.341 "[Ni][O](=O)[Fe](C=O)(C=O)C#N"                                                             
+NFC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)[Fe](C=O)(C#N)O(=O)[Ni]"                                                             
+NFC SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)[Fe](C=O)(C#N)O(=O)[Ni]"                                                             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NFC "Create component" 2004-12-17 RCSB 
+# 

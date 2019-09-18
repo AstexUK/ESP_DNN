@@ -1,0 +1,128 @@
+data_MAH
+# 
+_chem_comp.id                                    MAH 
+_chem_comp.name                                  "3-HYDROXY-3-METHYL-GLUTARIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-01-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.141 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MAH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DQA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MAH C1  C1  C 0 1 N N N 13.319 -17.191 29.615 0.132  0.010  -2.479 C1  MAH 1  
+MAH C2  C2  C 0 1 N N N 12.963 -15.715 29.524 1.001  0.042  -1.249 C2  MAH 2  
+MAH C3  C3  C 0 1 N N N 12.651 -15.097 28.142 0.119  0.010  0.000  C3  MAH 3  
+MAH C4  C4  C 0 1 N N N 12.305 -13.600 28.368 1.001  0.042  1.249  C4  MAH 4  
+MAH C5  C5  C 0 1 N N N 12.210 -12.729 27.140 0.132  0.010  2.479  C5  MAH 5  
+MAH C6  C6  C 0 1 N N N 13.784 -15.262 27.100 -0.809 1.226  0.000  C6  MAH 6  
+MAH O1  O1  O 0 1 N N N 13.152 -17.779 30.695 0.693  0.031  -3.698 O1  MAH 7  
+MAH O2  O2  O 0 1 N N N 13.770 -17.816 28.628 -1.070 -0.033 -2.368 O2  MAH 8  
+MAH O3  O3  O 0 1 N N N 13.248 -12.141 26.754 -1.070 -0.033 2.368  O3  MAH 9  
+MAH O4  O4  O 0 1 N N N 11.110 -12.621 26.575 0.693  0.031  3.698  O4  MAH 10 
+MAH O7  O7  O 0 1 N N N 11.491 -15.707 27.579 -0.662 -1.185 0.000  O7  MAH 11 
+MAH H21 1H2 H 0 1 N N N 12.106 -15.511 30.208 1.598  0.954  -1.249 H21 MAH 12 
+MAH H22 2H2 H 0 1 N N N 13.774 -15.121 30.006 1.663  -0.824 -1.249 H22 MAH 13 
+MAH H41 1H4 H 0 1 N N N 11.360 -13.520 28.955 1.663  -0.824 1.249  H41 MAH 14 
+MAH H42 2H4 H 0 1 N N N 13.032 -13.153 29.086 1.598  0.954  1.249  H42 MAH 15 
+MAH H61 1H6 H 0 1 N N N 13.558 -14.816 26.103 -0.212 2.138  0.000  H61 MAH 16 
+MAH H62 2H6 H 0 1 N N N 14.743 -14.857 27.500 -1.438 1.203  -0.890 H62 MAH 17 
+MAH H63 3H6 H 0 1 N N N 14.060 -16.336 26.992 -1.438 1.203  0.890  H63 MAH 18 
+MAH HO1 HO1 H 0 1 N N N 13.374 -18.700 30.751 0.135  0.010  -4.488 HO1 MAH 19 
+MAH HO4 HO4 H 0 1 N N N 11.050 -12.072 25.801 0.135  0.010  4.488  HO4 MAH 20 
+MAH HO7 HO7 H 0 1 N N N 11.299 -15.327 26.729 -0.041 -1.926 0.000  HO7 MAH 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MAH C1 C2  SING N N 1  
+MAH C1 O1  SING N N 2  
+MAH C1 O2  DOUB N N 3  
+MAH C2 C3  SING N N 4  
+MAH C2 H21 SING N N 5  
+MAH C2 H22 SING N N 6  
+MAH C3 C4  SING N N 7  
+MAH C3 C6  SING N N 8  
+MAH C3 O7  SING N N 9  
+MAH C4 C5  SING N N 10 
+MAH C4 H41 SING N N 11 
+MAH C4 H42 SING N N 12 
+MAH C5 O3  DOUB N N 13 
+MAH C5 O4  SING N N 14 
+MAH C6 H61 SING N N 15 
+MAH C6 H62 SING N N 16 
+MAH C6 H63 SING N N 17 
+MAH O1 HO1 SING N N 18 
+MAH O4 HO4 SING N N 19 
+MAH O7 HO7 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MAH SMILES           ACDLabs              10.04 "O=C(O)CC(O)(C)CC(=O)O"                                                    
+MAH SMILES_CANONICAL CACTVS               3.341 "CC(O)(CC(O)=O)CC(O)=O"                                                    
+MAH SMILES           CACTVS               3.341 "CC(O)(CC(O)=O)CC(O)=O"                                                    
+MAH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(CC(=O)O)(CC(=O)O)O"                                                    
+MAH SMILES           "OpenEye OEToolkits" 1.5.0 "CC(CC(=O)O)(CC(=O)O)O"                                                    
+MAH InChI            InChI                1.03  "InChI=1S/C6H10O5/c1-6(11,2-4(7)8)3-5(9)10/h11H,2-3H2,1H3,(H,7,8)(H,9,10)" 
+MAH InChIKey         InChI                1.03  NPOAOTPXWNWTSH-UHFFFAOYSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MAH "SYSTEMATIC NAME" ACDLabs              10.04 "3-hydroxy-3-methylpentanedioic acid"  
+MAH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3-hydroxy-3-methyl-pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MAH "Create component"  2000-01-12 EBI  
+MAH "Modify descriptor" 2011-06-04 RCSB 
+# 

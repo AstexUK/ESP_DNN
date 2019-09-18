@@ -1,0 +1,146 @@
+data_AGM
+# 
+_chem_comp.id                                    AGM 
+_chem_comp.name                                  5-METHYL-ARGININE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H17 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ARG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.235 
+_chem_comp.one_letter_code                       R 
+_chem_comp.three_letter_code                     AGM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1E6Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AGM N    N    N 0 1 N N N 50.203 80.243 57.610 2.757  1.700  -0.175 N    AGM 1  
+AGM CA   CA   C 0 1 N N S 50.082 79.771 58.980 2.245  0.449  0.399  CA   AGM 2  
+AGM CB   CB   C 0 1 N N N 48.724 79.078 59.188 0.817  0.208  -0.094 CB   AGM 3  
+AGM CG   CG   C 0 1 N N N 48.301 78.115 58.080 -0.101 1.306  0.447  CG   AGM 4  
+AGM CD   CD   C 0 1 N N S 46.807 77.759 58.099 -1.529 1.065  -0.046 CD   AGM 5  
+AGM CE2  CE2  C 0 1 N N N 46.431 77.014 59.376 -2.422 2.229  0.390  CE2  AGM 6  
+AGM NE1  NE1  N 0 1 N N N 46.442 76.968 56.926 -2.039 -0.183 0.526  NE1  AGM 7  
+AGM CZ   CZ   C 0 1 N N N 46.244 77.512 55.728 -3.030 -0.874 -0.116 CZ   AGM 8  
+AGM NH1  NH1  N 0 1 N N N 45.901 76.740 54.705 -3.531 -0.413 -1.260 NH1  AGM 9  
+AGM NH2  NH2  N 1 1 N N N 46.399 78.821 55.544 -3.494 -2.010 0.404  NH2  AGM 10 
+AGM C    C    C 0 1 N N N 51.239 78.827 59.295 3.125  -0.697 -0.031 C    AGM 11 
+AGM O    O    O 0 1 N N N 51.059 77.788 59.933 3.839  -0.581 -0.999 O    AGM 12 
+AGM OXT  OXT  O 0 1 N Y N 52.440 79.246 58.897 3.115  -1.847 0.662  OXT  AGM 13 
+AGM H    HN1  H 0 1 N N N 50.231 81.243 57.603 3.675  1.915  0.186  H    AGM 14 
+AGM H2   HN2  H 0 1 N Y N 51.044 79.883 57.207 2.765  1.659  -1.183 H2   AGM 15 
+AGM HA   HA   H 0 1 N N N 50.129 80.626 59.670 2.247  0.520  1.487  HA   AGM 16 
+AGM HB2  HB1  H 0 1 N N N 48.787 78.501 60.122 0.801  0.225  -1.184 HB2  AGM 17 
+AGM HB3  HB2  H 0 1 N N N 47.971 79.879 59.201 0.469  -0.763 0.259  HB3  AGM 18 
+AGM HG2  HG1  H 0 1 N N N 48.525 78.590 57.113 -0.085 1.289  1.536  HG2  AGM 19 
+AGM HG3  HG2  H 0 1 N N N 48.856 77.179 58.239 0.247  2.277  0.094  HG3  AGM 20 
+AGM HD   HD   H 0 1 N N N 46.243 78.703 58.073 -1.531 0.994  -1.134 HD   AGM 21 
+AGM HE21 HE21 H 0 0 N N N 46.340 75.939 59.161 -3.440 2.057  0.039  HE21 AGM 22 
+AGM HE22 HE22 H 0 0 N N N 47.211 77.171 60.135 -2.420 2.300  1.478  HE22 AGM 23 
+AGM HE23 HE23 H 0 0 N N N 45.470 77.394 59.753 -2.042 3.158  -0.036 HE23 AGM 24 
+AGM HE1  HE1  H 0 1 N N N 46.337 75.979 57.028 -1.675 -0.519 1.359  HE1  AGM 25 
+AGM HH11 HH11 H 0 0 N N N 45.787 77.285 53.875 -3.193 0.414  -1.639 HH11 AGM 26 
+AGM HH12 HH12 H 0 0 N N N 45.774 75.750 54.757 -4.233 -0.903 -1.715 HH12 AGM 27 
+AGM HH21 HH21 H 0 0 N N N 46.661 79.268 56.399 -3.129 -2.346 1.238  HH21 AGM 28 
+AGM HH22 HH22 H 0 0 N N N 46.271 79.292 54.671 -4.197 -2.500 -0.051 HH22 AGM 29 
+AGM HXT  HXT  H 0 1 N Y N 53.102 78.627 59.181 3.696  -2.554 0.348  HXT  AGM 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AGM N   CA   SING N N 1  
+AGM N   H    SING N N 2  
+AGM N   H2   SING N N 3  
+AGM CA  CB   SING N N 4  
+AGM CA  C    SING N N 5  
+AGM CA  HA   SING N N 6  
+AGM CB  CG   SING N N 7  
+AGM CB  HB2  SING N N 8  
+AGM CB  HB3  SING N N 9  
+AGM CG  CD   SING N N 10 
+AGM CG  HG2  SING N N 11 
+AGM CG  HG3  SING N N 12 
+AGM CD  CE2  SING N N 13 
+AGM CD  NE1  SING N N 14 
+AGM CD  HD   SING N N 15 
+AGM CE2 HE21 SING N N 16 
+AGM CE2 HE22 SING N N 17 
+AGM CE2 HE23 SING N N 18 
+AGM NE1 CZ   SING N N 19 
+AGM NE1 HE1  SING N N 20 
+AGM CZ  NH1  SING N N 21 
+AGM CZ  NH2  DOUB N N 22 
+AGM NH1 HH11 SING N N 23 
+AGM NH1 HH12 SING N N 24 
+AGM NH2 HH21 SING N N 25 
+AGM NH2 HH22 SING N N 26 
+AGM C   O    DOUB N N 27 
+AGM C   OXT  SING N N 28 
+AGM OXT HXT  SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AGM SMILES           ACDLabs              10.04 "O=C(O)C(N)CCC(N\C(=[NH2+])N)C"                                                                              
+AGM SMILES_CANONICAL CACTVS               3.341 "C[C@@H](CC[C@H](N)C(O)=O)NC(N)=[NH2+]"                                                                      
+AGM SMILES           CACTVS               3.341 "C[CH](CC[CH](N)C(O)=O)NC(N)=[NH2+]"                                                                         
+AGM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](CC[C@@H](C(=O)O)N)NC(=[NH2+])N"                                                                     
+AGM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(CCC(C(=O)O)N)NC(=[NH2+])N"                                                                               
+AGM InChI            InChI                1.03  "InChI=1S/C7H16N4O2/c1-4(11-7(9)10)2-3-5(8)6(12)13/h4-5H,2-3,8H2,1H3,(H,12,13)(H4,9,10,11)/p+1/t4-,5-/m0/s1" 
+AGM InChIKey         InChI                1.03  AATIXZODJZMQQA-WHFBIAKZSA-O                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AGM "SYSTEMATIC NAME" ACDLabs              10.04 "amino{[(1S,4S)-4-amino-4-carboxy-1-methylbutyl]amino}methaniminium"            
+AGM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[amino-[[(2S,5S)-5-amino-6-hydroxy-6-oxo-hexan-2-yl]amino]methylidene]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AGM "Create component"  1999-07-08 PDBJ 
+AGM "Modify descriptor" 2011-06-04 RCSB 
+# 

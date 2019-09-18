@@ -1,0 +1,162 @@
+data_H2U
+# 
+_chem_comp.id                                    H2U 
+_chem_comp.name                                  "5,6-DIHYDROURIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C9 H15 N2 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               U 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         DHU 
+_chem_comp.formula_weight                        326.197 
+_chem_comp.one_letter_code                       U 
+_chem_comp.three_letter_code                     H2U 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EVV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+H2U P      P    P 0 1 N N N 51.151 5.354 35.144 -1.087 0.031  -3.989 P      H2U 1  
+H2U OP1    O1P  O 0 1 N N N 50.015 6.307 35.028 -1.678 -1.272 -3.613 OP1    H2U 2  
+H2U OP2    O2P  O 0 1 N N N 50.991 4.140 35.990 -2.235 0.986  -4.593 OP2    H2U 3  
+H2U OP3    O3P  O 0 1 N Y N 51.554 4.962 33.633 0.058  -0.197 -5.097 OP3    H2U 4  
+H2U "O5'"  O5*  O 0 1 N N N 52.416 6.210 35.629 -0.444 0.725  -2.687 "O5'"  H2U 5  
+H2U "C5'"  C5*  C 0 1 N N N 52.757 7.421 34.931 0.561  -0.164 -2.199 "C5'"  H2U 6  
+H2U "C4'"  C4*  C 0 1 N N R 54.234 7.735 35.065 1.216  0.437  -0.955 "C4'"  H2U 7  
+H2U "O4'"  O4*  O 0 1 N N N 54.537 7.945 36.462 0.236  0.615  0.093  "O4'"  H2U 8  
+H2U "C3'"  C3*  C 0 1 N N S 55.177 6.613 34.675 2.255  -0.538 -0.359 "C3'"  H2U 9  
+H2U "O3'"  O3*  O 0 1 N N N 56.463 7.129 34.246 3.574  -0.183 -0.778 "O3'"  H2U 10 
+H2U "C1'"  C1*  C 0 1 N N R 54.924 6.715 37.047 0.997  0.702  1.318  "C1'"  H2U 11 
+H2U "C2'"  C2*  C 0 1 N N R 55.101 5.705 35.904 2.107  -0.361 1.168  "C2'"  H2U 12 
+H2U "O2'"  O2*  O 0 1 N N N 56.186 4.822 36.085 3.331  0.104  1.739  "O2'"  H2U 13 
+H2U N1     N1   N 0 1 N N N 53.888 6.348 38.024 0.148  0.394  2.471  N1     H2U 14 
+H2U C2     C2   C 0 1 N N N 53.373 7.374 38.806 -0.524 -0.766 2.507  C2     H2U 15 
+H2U O2     O2   O 0 1 N N N 53.623 8.548 38.592 -0.332 -1.590 1.633  O2     H2U 16 
+H2U N3     N3   N 0 1 N N N 52.563 6.991 39.847 -1.397 -1.045 3.489  N3     H2U 17 
+H2U C4     C4   C 0 1 N N N 52.231 5.711 40.243 -1.818 -0.085 4.333  C4     H2U 18 
+H2U O4     O4   O 0 1 N N N 51.468 5.557 41.200 -2.546 -0.368 5.260  O4     H2U 19 
+H2U C5     C5   C 0 1 N N N 53.005 4.617 39.555 -1.384 1.343  4.125  C5     H2U 20 
+H2U C6     C6   C 0 1 N N N 53.410 4.957 38.147 0.040  1.360  3.566  C6     H2U 21 
+H2U HOP2   2HOP H 0 0 N N N 51.716 3.531 36.064 -2.593 0.534  -5.370 HOP2   H2U 22 
+H2U HOP3   3HOP H 0 0 N N N 52.279 4.353 33.707 0.415  0.674  -5.313 HOP3   H2U 23 
+H2U "H5'"  1H5* H 0 1 N N N 52.442 7.380 33.862 1.317  -0.316 -2.970 "H5'"  H2U 24 
+H2U "H5''" 2H5* H 0 0 N N N 52.124 8.277 35.263 0.106  -1.121 -1.943 "H5''" H2U 25 
+H2U "H4'"  H4*  H 0 1 N N N 54.389 8.607 34.388 1.688  1.389  -1.198 "H4'"  H2U 26 
+H2U "H3'"  H3*  H 0 1 N N N 54.921 6.017 33.767 2.026  -1.563 -0.649 "H3'"  H2U 27 
+H2U "HO3'" *HO3 H 0 0 N Y N 57.053 6.426 34.001 4.180  -0.805 -0.353 "HO3'" H2U 28 
+H2U "H1'"  H1*  H 0 1 N N N 55.891 6.758 37.600 1.435  1.694  1.423  "H1'"  H2U 29 
+H2U "H2'"  H2*  H 0 1 N N N 54.269 4.966 35.822 1.803  -1.299 1.633  "H2'"  H2U 30 
+H2U "HO2'" *HO2 H 0 0 N N N 56.138 4.258 36.848 3.998  -0.572 1.562  "HO2'" H2U 31 
+H2U HN3    HN3  H 0 1 N N N 52.158 7.751 40.393 -1.731 -1.950 3.591  HN3    H2U 32 
+H2U H51    1H5  H 0 1 N N N 53.894 4.323 40.160 -1.408 1.874  5.076  H51    H2U 33 
+H2U H52    2H5  H 0 1 N N N 52.437 3.657 39.580 -2.057 1.829  3.419  H52    H2U 34 
+H2U H61    1H6  H 0 1 N N N 52.582 4.749 37.428 0.743  1.094  4.356  H61    H2U 35 
+H2U H62    2H6  H 0 1 N N N 54.166 4.235 37.759 0.273  2.358  3.194  H62    H2U 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+H2U P     OP1    DOUB N N 1  
+H2U P     OP2    SING N N 2  
+H2U P     OP3    SING N N 3  
+H2U P     "O5'"  SING N N 4  
+H2U OP2   HOP2   SING N N 5  
+H2U OP3   HOP3   SING N N 6  
+H2U "O5'" "C5'"  SING N N 7  
+H2U "C5'" "C4'"  SING N N 8  
+H2U "C5'" "H5'"  SING N N 9  
+H2U "C5'" "H5''" SING N N 10 
+H2U "C4'" "O4'"  SING N N 11 
+H2U "C4'" "C3'"  SING N N 12 
+H2U "C4'" "H4'"  SING N N 13 
+H2U "O4'" "C1'"  SING N N 14 
+H2U "C3'" "O3'"  SING N N 15 
+H2U "C3'" "C2'"  SING N N 16 
+H2U "C3'" "H3'"  SING N N 17 
+H2U "O3'" "HO3'" SING N N 18 
+H2U "C1'" "C2'"  SING N N 19 
+H2U "C1'" N1     SING N N 20 
+H2U "C1'" "H1'"  SING N N 21 
+H2U "C2'" "O2'"  SING N N 22 
+H2U "C2'" "H2'"  SING N N 23 
+H2U "O2'" "HO2'" SING N N 24 
+H2U N1    C2     SING N N 25 
+H2U N1    C6     SING N N 26 
+H2U C2    O2     DOUB N N 27 
+H2U C2    N3     SING N N 28 
+H2U N3    C4     SING N N 29 
+H2U N3    HN3    SING N N 30 
+H2U C4    O4     DOUB N N 31 
+H2U C4    C5     SING N N 32 
+H2U C5    C6     SING N N 33 
+H2U C5    H51    SING N N 34 
+H2U C5    H52    SING N N 35 
+H2U C6    H61    SING N N 36 
+H2U C6    H62    SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+H2U SMILES           ACDLabs              10.04 "O=C1N(CCC(=O)N1)C2OC(C(O)C2O)COP(=O)(O)O"                                                                                                        
+H2U SMILES_CANONICAL CACTVS               3.341 "O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P](O)(O)=O)N2CCC(=O)NC2=O"                                                                                     
+H2U SMILES           CACTVS               3.341 "O[CH]1[CH](O)[CH](O[CH]1CO[P](O)(O)=O)N2CCC(=O)NC2=O"                                                                                            
+H2U SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O"                                                                                    
+H2U SMILES           "OpenEye OEToolkits" 1.5.0 "C1CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O"                                                                                                      
+H2U InChI            InChI                1.03  "InChI=1S/C9H15N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h4,6-8,13-14H,1-3H2,(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1" 
+H2U InChIKey         InChI                1.03  NBWDKGJHOHJBRJ-XVFCMESISA-N                                                                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+H2U "SYSTEMATIC NAME" ACDLabs              10.04 
+;5'-uridylic acid
+;
+H2U "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(2,4-dioxo-1,3-diazinan-1-yl)-3,4-dihydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+H2U "Create component"  1999-07-08 EBI  
+H2U "Modify descriptor" 2011-06-04 RCSB 
+# 

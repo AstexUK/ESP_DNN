@@ -1,0 +1,99 @@
+data_NC
+# 
+_chem_comp.id                                    NC 
+_chem_comp.name                                  "METHYLAMINE GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H5 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        31.057 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NC N   N   N 0 1 N N N -2.201 6.667 -0.701 -1.850 -0.939 -0.211 N   NC 1 
+NC C1  C1  C 0 1 N N N -1.421 5.468 -0.439 -0.618 -0.748 0.504  C1  NC 2 
+NC HN  HN  H 0 1 N N N -2.027 7.227 -1.608 -2.294 -0.146 -0.647 HN  NC 3 
+NC H11 1H1 H 0 1 N N N -1.224 4.944 -1.386 -0.824 -0.406 1.522  H11 NC 4 
+NC H12 2H1 H 0 1 N N N -0.466 5.747 0.031  0.000  0.000  0.000  H12 NC 5 
+NC H13 3H1 H 0 1 N N N -1.983 4.806 0.236  -0.060 -1.687 0.555  H13 NC 6 
+NC HN1 HN1 H 0 1 N N N -3.158 6.378 -0.730 -2.354 -1.805 -0.099 HN1 NC 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NC N   C1  SING N N 1 
+NC N   HN  SING N N 2 
+NC C1  H11 SING N N 3 
+NC C1  H12 SING N N 4 
+NC C1  H13 SING N N 5 
+NC HN1 N   SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NC SMILES           ACDLabs              10.04 NC                         
+NC InChI            InChI                1.02b InChI=1/CH5N/c1-2/h2H2,1H3 
+NC InChIKey         InChI                1.02b BAVYZALUXZFZLV-UHFFFAOYAN  
+NC SMILES_CANONICAL CACTVS               3.341 CN                         
+NC SMILES           CACTVS               3.341 CN                         
+NC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CN                         
+NC SMILES           "OpenEye OEToolkits" 1.5.0 CN                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NC "SYSTEMATIC NAME" ACDLabs              10.04 methanamine 
+NC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 methanamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NC "Create component" 1999-07-08 RCSB 
+# 

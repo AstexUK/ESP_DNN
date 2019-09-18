@@ -1,0 +1,115 @@
+data_4XX
+# 
+_chem_comp.id                                    4XX 
+_chem_comp.name                                  "4-hydroxy-5-methylfuran-3(2H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-12-20 
+_chem_comp.pdbx_modified_date                    2013-04-12 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        114.099 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4XX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4IDF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4XX CAA CAA C 0 1 N N N -32.823 23.770 -1.248 2.494  0.228  -0.002 CAA 4XX 1  
+4XX CAG CAG C 0 1 N N N -32.583 25.017 -2.064 1.054  -0.218 -0.001 CAG 4XX 2  
+4XX OAE OAE O 0 1 N N N -33.555 25.932 -2.242 0.673  -1.505 0.001  OAE 4XX 3  
+4XX CAD CAD C 0 1 N N N -33.007 26.961 -3.119 -0.760 -1.559 0.001  CAD 4XX 4  
+4XX CAF CAF C 0 1 N N N -31.642 26.595 -3.262 -1.194 -0.107 -0.002 CAF 4XX 5  
+4XX OAB OAB O 0 1 N N N -30.821 27.217 -3.958 -2.329 0.328  -0.002 OAB 4XX 6  
+4XX CAH CAH C 0 1 N N N -31.400 25.410 -2.643 0.011  0.631  0.002  CAH 4XX 7  
+4XX OAC OAC O 0 1 N N N -30.214 24.806 -2.657 0.102  1.990  0.002  OAC 4XX 8  
+4XX H1  H1  H 0 1 N N N -33.856 23.772 -0.870 3.145  -0.647 -0.001 H1  4XX 9  
+4XX H2  H2  H 0 1 N N N -32.665 22.883 -1.879 2.689  0.824  -0.893 H2  4XX 10 
+4XX H3  H3  H 0 1 N N N -32.123 23.746 -0.400 2.689  0.827  0.887  H3  4XX 11 
+4XX H4  H4  H 0 1 N N N -33.099 27.956 -2.660 -1.122 -2.066 -0.893 H4  4XX 12 
+4XX H5  H5  H 0 1 N N N -33.517 26.958 -4.093 -1.122 -2.064 0.897  H5  4XX 13 
+4XX H6  H6  H 0 1 N N N -29.604 25.317 -3.176 -0.753 2.442  -0.002 H6  4XX 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4XX OAB CAF DOUB N N 1  
+4XX CAF CAD SING N N 2  
+4XX CAF CAH SING N N 3  
+4XX CAD OAE SING N N 4  
+4XX OAC CAH SING N N 5  
+4XX CAH CAG DOUB N N 6  
+4XX OAE CAG SING N N 7  
+4XX CAG CAA SING N N 8  
+4XX CAA H1  SING N N 9  
+4XX CAA H2  SING N N 10 
+4XX CAA H3  SING N N 11 
+4XX CAD H4  SING N N 12 
+4XX CAD H5  SING N N 13 
+4XX OAC H6  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4XX SMILES           ACDLabs              12.01 "O=C1C(O)=C(OC1)C"                               
+4XX InChI            InChI                1.03  "InChI=1S/C5H6O3/c1-3-5(7)4(6)2-8-3/h7H,2H2,1H3" 
+4XX InChIKey         InChI                1.03  DLVYTANECMRFGX-UHFFFAOYSA-N                      
+4XX SMILES_CANONICAL CACTVS               3.370 "CC1=C(O)C(=O)CO1"                               
+4XX SMILES           CACTVS               3.370 "CC1=C(O)C(=O)CO1"                               
+4XX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC1=C(C(=O)CO1)O"                               
+4XX SMILES           "OpenEye OEToolkits" 1.7.6 "CC1=C(C(=O)CO1)O"                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4XX "SYSTEMATIC NAME" ACDLabs              12.01 "4-hydroxy-5-methylfuran-3(2H)-one" 
+4XX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 5-methyl-4-oxidanyl-furan-3-one     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4XX "Create component" 2012-12-20 PDBJ 
+4XX "Initial release"  2013-04-17 RCSB 
+# 

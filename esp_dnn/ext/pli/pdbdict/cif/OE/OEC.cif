@@ -1,0 +1,98 @@
+data_OEC
+# 
+_chem_comp.id                                    OEC 
+_chem_comp.name                                  "OXYGEN EVOLVING SYSTEM" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Ca Mn4 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-02-05 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        323.828 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OEC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1S5L 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OEC MN1 MN1 MN 0 0 N N N 27.701 40.232 70.582 ? ? ? MN1 OEC 1 
+OEC MN2 MN2 MN 0 0 N N N 27.070 39.549 68.103 ? ? ? MN2 OEC 2 
+OEC MN3 MN3 MN 0 0 N N N 29.290 38.522 69.287 ? ? ? MN3 OEC 3 
+OEC MN4 MN4 MN 0 0 N N N 29.368 38.555 66.033 ? ? ? MN4 OEC 4 
+OEC O1  O1  O  0 1 N N R 27.339 41.079 68.952 ? ? ? O1  OEC 5 
+OEC O2  O2  O  0 1 N N N 27.529 38.681 69.637 ? ? ? O2  OEC 6 
+OEC O3  O3  O  0 1 N N S 29.514 40.076 70.185 ? ? ? O3  OEC 7 
+OEC O4  O4  O  0 1 N N N 28.946 39.418 67.633 ? ? ? O4  OEC 8 
+OEC CA1 CA1 CA 0 0 N N N 29.649 41.748 68.335 ? ? ? CA1 OEC 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OEC MN1 O1  SING N N 1  
+OEC MN1 O2  SING N N 2  
+OEC MN1 O3  SING N N 3  
+OEC MN2 O1  SING N N 4  
+OEC MN2 O2  SING N N 5  
+OEC MN2 O4  SING N N 6  
+OEC MN3 O2  SING N N 7  
+OEC MN3 O3  SING N N 8  
+OEC MN3 O4  SING N N 9  
+OEC MN4 O4  SING N N 10 
+OEC O1  CA1 SING N N 11 
+OEC O3  CA1 SING N N 12 
+OEC O4  CA1 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OEC InChI            InChI                1.02b "InChI=1/Ca.4Mn.4O/rCaMn4O4/c2-9-1-6-3-7(1)5(9)8(3)4(6)9" 
+OEC InChIKey         InChI                1.02b UFRGXNUNWYSFQE-MBOUAFFSAW                                 
+OEC SMILES_CANONICAL CACTVS               3.341 "[Mn][O]12[Mn]|3O|4[Mn]|5O|3[Ca]1O|5[Mn]2|4"              
+OEC SMILES           CACTVS               3.341 "[Mn][O]12[Mn]|3O|4[Mn]|5O|3[Ca]1O|5[Mn]2|4"              
+OEC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[O@]12[Ca]3[O@]4[Mn]1O5[Mn]2O3([Mn]45)[Mn]"              
+OEC SMILES           "OpenEye OEToolkits" 1.5.0 "O12[Ca]3O4[Mn]1O5[Mn]2O3([Mn]45)[Mn]"                    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OEC "Create component" 2004-02-05 RCSB 
+# 

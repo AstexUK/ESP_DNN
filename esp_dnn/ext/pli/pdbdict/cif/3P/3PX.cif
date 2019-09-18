@@ -1,0 +1,142 @@
+data_3PX
+# 
+_chem_comp.id                                    3PX 
+_chem_comp.name                                  "(3S)-3-(propan-2-yloxy)-L-proline" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C8 H15 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               PRO 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-26 
+_chem_comp.pdbx_modified_date                    2011-09-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        173.210 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3PX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RJM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3PX C    C    C 0 1 N N N -29.448 24.633 25.835 -1.504 1.308  0.126  C    3PX 1  
+3PX N    N    N 0 1 N N N -29.988 26.223 23.984 -2.267 -1.030 0.047  N    3PX 2  
+3PX O    O    O 0 1 N N N -30.012 25.341 26.668 -2.300 1.533  -0.754 O    3PX 3  
+3PX CA   CA   C 0 1 N N S -29.084 25.178 24.489 -1.199 -0.114 0.521  CA   3PX 4  
+3PX CB   CB   C 0 1 N N S -27.713 25.800 24.566 0.062  -0.628 -0.219 CB   3PX 5  
+3PX CD   CD   C 0 1 N N N -29.318 27.540 24.072 -1.648 -2.372 -0.021 CD   3PX 6  
+3PX CG   CG   C 0 1 N N N -27.952 27.292 24.697 -0.135 -2.161 -0.214 CG   3PX 7  
+3PX OB1  OB1  O 0 1 N N N -27.098 25.398 23.348 1.248  -0.268 0.493  OB1  3PX 8  
+3PX CB2  CB2  C 0 1 N N N -25.729 25.755 23.163 2.391  -0.071 -0.342 CB2  3PX 9  
+3PX CB3  CB3  C 0 1 N N N -25.280 25.092 21.861 2.457  1.394  -0.778 CB3  3PX 10 
+3PX CB4  CB4  C 0 1 N N N -24.865 25.325 24.335 3.658  -0.431 0.435  CB4  3PX 11 
+3PX OXT  OXT  O 0 1 N Y N -29.136 23.275 26.156 -0.886 2.324  0.749  OXT  3PX 12 
+3PX HN   HN   H 0 1 N N N -30.823 26.236 24.535 -2.613 -0.746 -0.857 HN   3PX 13 
+3PX HA   HA   H 0 1 N N N -29.143 24.320 23.803 -1.074 -0.194 1.600  HA   3PX 14 
+3PX HB   HB   H 0 1 N N N -27.065 25.505 25.404 0.093  -0.246 -1.239 HB   3PX 15 
+3PX HD   HD   H 0 1 N N N -29.208 27.983 23.071 -1.832 -2.913 0.907  HD   3PX 16 
+3PX HDA  HDA  H 0 1 N N N -29.906 28.229 24.695 -2.056 -2.927 -0.865 HDA  3PX 17 
+3PX HG   HG   H 0 1 N N N -27.944 27.598 25.753 0.188  -2.587 -1.163 HG   3PX 18 
+3PX HGA  HGA  H 0 1 N N N -27.172 27.861 24.170 0.418  -2.611 0.611  HGA  3PX 19 
+3PX HB2  HB2  H 0 1 N N N -25.620 26.848 23.107 2.311  -0.709 -1.223 HB2  3PX 20 
+3PX HB3  HB3  H 0 1 N N N -24.225 25.336 21.669 3.329  1.544  -1.415 HB3  3PX 21 
+3PX HB3A HB3A H 0 0 N N N -25.394 24.001 21.947 1.554  1.650  -1.331 HB3A 3PX 22 
+3PX HB3B HB3B H 0 0 N N N -25.898 25.461 21.030 2.537  2.032  0.103  HB3B 3PX 23 
+3PX HB4  HB4  H 0 1 N N N -23.822 25.620 24.150 3.611  -1.474 0.745  HB4  3PX 24 
+3PX HB4A HB4A H 0 0 N N N -25.225 25.811 25.254 4.530  -0.280 -0.202 HB4A 3PX 25 
+3PX HB4B HB4B H 0 0 N N N -24.922 24.233 24.451 3.738  0.207  1.315  HB4B 3PX 26 
+3PX HXT  HXT  H 0 1 N Y N -29.428 23.083 27.039 -1.112 3.219  0.459  HXT  3PX 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3PX C   O    DOUB N N 1  
+3PX C   OXT  SING N N 2  
+3PX N   CD   SING N N 3  
+3PX N   CA   SING N N 4  
+3PX N   HN   SING N N 5  
+3PX CA  C    SING N N 6  
+3PX CA  CB   SING N N 7  
+3PX CA  HA   SING N N 8  
+3PX CB  CG   SING N N 9  
+3PX CB  HB   SING N N 10 
+3PX CD  CG   SING N N 11 
+3PX CD  HD   SING N N 12 
+3PX CD  HDA  SING N N 13 
+3PX CG  HG   SING N N 14 
+3PX CG  HGA  SING N N 15 
+3PX OB1 CB   SING N N 16 
+3PX CB2 OB1  SING N N 17 
+3PX CB2 CB4  SING N N 18 
+3PX CB2 HB2  SING N N 19 
+3PX CB3 CB2  SING N N 20 
+3PX CB3 HB3  SING N N 21 
+3PX CB3 HB3A SING N N 22 
+3PX CB3 HB3B SING N N 23 
+3PX CB4 HB4  SING N N 24 
+3PX CB4 HB4A SING N N 25 
+3PX CB4 HB4B SING N N 26 
+3PX OXT HXT  SING N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3PX SMILES           ACDLabs              12.01 "O=C(O)C1NCCC1OC(C)C"                                                                        
+3PX SMILES_CANONICAL CACTVS               3.370 "CC(C)O[C@H]1CCN[C@@H]1C(O)=O"                                                               
+3PX SMILES           CACTVS               3.370 "CC(C)O[CH]1CCN[CH]1C(O)=O"                                                                  
+3PX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "CC(C)O[C@H]1CCN[C@@H]1C(=O)O"                                                               
+3PX SMILES           "OpenEye OEToolkits" 1.7.2 "CC(C)OC1CCNC1C(=O)O"                                                                        
+3PX InChI            InChI                1.03  "InChI=1S/C8H15NO3/c1-5(2)12-6-3-4-9-7(6)8(10)11/h5-7,9H,3-4H2,1-2H3,(H,10,11)/t6-,7-/m0/s1" 
+3PX InChIKey         InChI                1.03  KODCZDDLAIOJLZ-BQBZGAKWSA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3PX "SYSTEMATIC NAME" ACDLabs              12.01 "(3S)-3-(propan-2-yloxy)-L-proline"                     
+3PX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S,3S)-3-propan-2-yloxypyrrolidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3PX "Create component"   2011-04-26 RCSB 
+3PX "Other modification" 2011-4-27  RCSB 
+3PX "Modify descriptor"  2011-06-04 RCSB 
+# 

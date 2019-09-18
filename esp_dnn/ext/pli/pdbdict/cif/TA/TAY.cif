@@ -1,0 +1,120 @@
+data_TAY
+# 
+_chem_comp.id                                    TAY 
+_chem_comp.name                                  2,2-dimethylpropanamide 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H11 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Trimethylacetamide 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-10-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.147 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TAY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3A8H 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TAY CAA  CAA  C 0 1 N N N 107.082 21.673 19.567 1.267  1.358  0.000  CAA  TAY 1  
+TAY CAB  CAB  C 0 1 N N N 106.714 24.006 18.771 1.066  -0.796 -1.249 CAB  TAY 2  
+TAY CAC  CAC  C 0 1 N N N 105.224 23.032 20.513 1.066  -0.796 1.249  CAC  TAY 3  
+TAY NAD  NAD  N 0 1 N N N 105.777 21.562 17.164 -1.655 -0.991 -0.000 NAD  TAY 4  
+TAY OAE  OAE  O 0 1 N N N 103.940 22.375 18.139 -1.382 1.211  0.000  OAE  TAY 5  
+TAY CAF  CAF  C 0 1 N N N 105.154 22.209 18.146 -0.875 0.109  0.000  CAF  TAY 6  
+TAY CAG  CAG  C 0 1 N N N 106.039 22.736 19.259 0.625  -0.031 -0.000 CAG  TAY 7  
+TAY HAA  HAA  H 0 1 N N N 106.582 20.759 19.919 0.953  1.903  -0.890 HAA  TAY 8  
+TAY HAAA HAAA H 0 0 N N N 107.657 21.449 18.656 0.953  1.903  0.890  HAAA TAY 9  
+TAY HAAB HAAB H 0 0 N N N 107.762 22.043 20.348 2.352  1.257  0.000  HAAB TAY 10 
+TAY HAB  HAB  H 0 1 N N N 105.950 24.767 18.552 2.151  -0.897 -1.249 HAB  TAY 11 
+TAY HABA HABA H 0 0 N N N 107.393 24.383 19.550 0.609  -1.786 -1.249 HABA TAY 12 
+TAY HABB HABB H 0 0 N N N 107.288 23.789 17.858 0.752  -0.251 -2.139 HABB TAY 13 
+TAY HAC  HAC  H 0 1 N N N 104.470 23.801 20.288 0.752  -0.251 2.139  HAC  TAY 14 
+TAY HACA HACA H 0 0 N N N 104.721 22.113 20.849 0.609  -1.786 1.249  HACA TAY 15 
+TAY HACB HACB H 0 0 N N N 105.893 23.395 21.307 2.151  -0.897 1.249  HACB TAY 16 
+TAY HNAD HNAD H 0 0 N N N 105.253 21.197 16.395 -2.620 -0.901 -0.000 HNAD TAY 17 
+TAY HNAA HNAA H 0 0 N N N 106.769 21.441 17.196 -1.250 -1.872 -0.000 HNAA TAY 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TAY CAA CAG  SING N N 1  
+TAY CAB CAG  SING N N 2  
+TAY CAC CAG  SING N N 3  
+TAY NAD CAF  SING N N 4  
+TAY OAE CAF  DOUB N N 5  
+TAY CAF CAG  SING N N 6  
+TAY CAA HAA  SING N N 7  
+TAY CAA HAAA SING N N 8  
+TAY CAA HAAB SING N N 9  
+TAY CAB HAB  SING N N 10 
+TAY CAB HABA SING N N 11 
+TAY CAB HABB SING N N 12 
+TAY CAC HAC  SING N N 13 
+TAY CAC HACA SING N N 14 
+TAY CAC HACB SING N N 15 
+TAY NAD HNAD SING N N 16 
+TAY NAD HNAA SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TAY SMILES_CANONICAL CACTVS               3.352 "CC(C)(C)C(N)=O"                                  
+TAY SMILES           CACTVS               3.352 "CC(C)(C)C(N)=O"                                  
+TAY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)(C)C(=O)N"                                  
+TAY SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)(C)C(=O)N"                                  
+TAY InChI            InChI                1.03  "InChI=1S/C5H11NO/c1-5(2,3)4(6)7/h1-3H3,(H2,6,7)" 
+TAY InChIKey         InChI                1.03  XIPFMBOWZXULIA-UHFFFAOYSA-N                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TAY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 2,2-dimethylpropanamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TAY "Create component"  2009-10-07 PDBJ 
+TAY "Modify descriptor" 2011-06-04 RCSB 
+# 

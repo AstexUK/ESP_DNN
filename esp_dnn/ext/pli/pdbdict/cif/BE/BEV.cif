@@ -1,0 +1,121 @@
+data_BEV
+# 
+_chem_comp.id                                    BEV 
+_chem_comp.name                                  "N-[(2Z)-1,3-thiazolidin-2-ylidene]sulfamide" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 N3 O2 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-03-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        181.237 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BEV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3M14 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BEV N1   N1   N 0 1 N N N 15.920 1.421 16.003 3.139  -0.806 0.007  N1   BEV 1  
+BEV C6   C6   C 0 1 N N N 16.698 4.976 15.353 -0.753 -0.630 0.004  C6   BEV 2  
+BEV C8   C8   C 0 1 N N N 17.449 6.817 14.016 -3.153 -0.805 0.006  C8   BEV 3  
+BEV S2   S2   S 0 1 N N N 15.626 2.925 16.557 1.724  0.054  -0.002 S2   BEV 4  
+BEV O3   O3   O 0 1 N N N 14.337 3.312 16.114 1.663  0.740  1.241  O3   BEV 5  
+BEV O4   O4   O 0 1 N N N 15.843 2.978 18.002 1.664  0.715  -1.258 O4   BEV 6  
+BEV N5   N5   N 0 1 N N N 16.849 3.852 15.952 0.483  -1.043 0.009  N5   BEV 7  
+BEV N7   N7   N 0 1 N N N 17.763 5.674 14.826 -1.851 -1.432 0.012  N7   BEV 8  
+BEV C9   C9   C 0 1 N N N 16.055 7.278 14.406 -3.053 0.725  -0.006 C9   BEV 9  
+BEV S10  S10  S 0 1 N N N 15.201 5.763 14.862 -1.265 1.061  -0.005 S10  BEV 10 
+BEV HN1  HN1  H 0 1 N N N 16.827 1.126 16.304 3.771  -0.692 0.733  HN1  BEV 11 
+BEV HN1A HN1A H 0 0 N N N 15.229 0.793 16.361 3.334  -1.427 -0.712 HN1A BEV 12 
+BEV H8   H8   H 0 1 N N N 18.179 7.621 14.194 -3.700 -1.133 -0.878 H8   BEV 13 
+BEV H8A  H8A  H 0 1 N N N 17.475 6.546 12.950 -3.700 -1.116 0.895  H8A  BEV 14 
+BEV HN7  HN7  H 0 1 N N N 18.708 5.398 14.999 -1.762 -2.398 0.021  HN7  BEV 15 
+BEV H9   H9   H 0 1 N N N 16.090 7.985 15.248 -3.517 1.130  -0.906 H9   BEV 16 
+BEV H9A  H9A  H 0 1 N N N 15.552 7.782 13.568 -3.519 1.144  0.886  H9A  BEV 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BEV N1 S2   SING N N 1  
+BEV C6 N5   DOUB N N 2  
+BEV C6 N7   SING N N 3  
+BEV C6 S10  SING N N 4  
+BEV C8 N7   SING N N 5  
+BEV C8 C9   SING N N 6  
+BEV S2 O3   DOUB N N 7  
+BEV S2 O4   DOUB N N 8  
+BEV S2 N5   SING N N 9  
+BEV C9 S10  SING N N 10 
+BEV N1 HN1  SING N N 11 
+BEV N1 HN1A SING N N 12 
+BEV C8 H8   SING N N 13 
+BEV C8 H8A  SING N N 14 
+BEV N7 HN7  SING N N 15 
+BEV C9 H9   SING N N 16 
+BEV C9 H9A  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BEV SMILES           ACDLabs              12.01 "O=S(=O)(/N=C1\SCCN1)N"                                                
+BEV SMILES_CANONICAL CACTVS               3.370 "N[S](=O)(=O)N=C1NCCS1"                                                
+BEV SMILES           CACTVS               3.370 "N[S](=O)(=O)N=C1NCCS1"                                                
+BEV SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1CS/C(=N\S(=O)(=O)N)/N1"                                             
+BEV SMILES           "OpenEye OEToolkits" 1.7.0 "C1CSC(=NS(=O)(=O)N)N1"                                                
+BEV InChI            InChI                1.03  "InChI=1S/C3H7N3O2S2/c4-10(7,8)6-3-5-1-2-9-3/h1-2H2,(H,5,6)(H2,4,7,8)" 
+BEV InChIKey         InChI                1.03  CFSSYZATGDLVQN-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BEV "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(2Z)-1,3-thiazolidin-2-ylidene]sulfuric diamide" 
+BEV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2Z)-2-sulfamoylimino-1,3-thiazolidine"             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BEV "Create component"  2010-03-11 RCSB 
+BEV "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,132 @@
+data_PPQ
+# 
+_chem_comp.id                                    PPQ 
+_chem_comp.name                                  PHOSPHINOTHRICIN 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H12 N O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "2-AMINO-4-(HYDROXYMETHYL-PHOSPHINYL)BUTANOIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-09-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        181.127 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PPQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1FPY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PPQ NP   NP   N 0 1 N N N -36.878 40.728 -31.325 -1.867 0.311  -1.850 NP   PPQ 1  
+PPQ CAP  CAP  C 0 1 N N S -36.374 42.050 -31.664 -0.426 0.591  -1.793 CAP  PPQ 2  
+PPQ CBP  CBP  C 0 1 N N N -36.667 42.994 -30.514 0.155  0.012  -0.502 CBP  PPQ 3  
+PPQ CGP  CGP  C 0 1 N N N -38.110 42.939 -30.029 -0.537 0.654  0.701  CGP  PPQ 4  
+PPQ PDP  PDP  P 0 1 N N R -39.024 43.909 -28.854 0.155  -0.036 2.240  PDP  PPQ 5  
+PPQ CEP  CEP  C 0 1 N N N -38.182 45.039 -27.822 -0.669 0.728  3.674  CEP  PPQ 6  
+PPQ OEA  OEA  O 0 1 N N N -39.788 42.982 -28.024 1.607  0.246  2.297  OEA  PPQ 7  
+PPQ OEB  OEB  O 0 1 N N N -40.069 44.760 -29.622 -0.082 -1.628 2.269  OEB  PPQ 8  
+PPQ CP   CP   C 0 1 N N N -34.866 41.973 -31.987 0.255  -0.040 -2.979 CP   PPQ 9  
+PPQ OP   OP   O 0 1 N N N -34.062 42.718 -31.419 -0.194 -1.049 -3.468 OP   PPQ 10 
+PPQ OTP  OTP  O 0 1 N N N -34.531 41.252 -32.935 1.362  0.518  -3.493 OTP  PPQ 11 
+PPQ HNP1 1HNP H 0 0 N N N -36.680 40.093 -32.098 -1.968 -0.692 -1.829 HNP1 PPQ 12 
+PPQ HNP2 2HNP H 0 0 N N N -37.866 40.740 -31.073 -2.265 0.660  -0.991 HNP2 PPQ 13 
+PPQ HAP  HAP  H 0 1 N N N -36.883 42.441 -32.575 -0.265 1.669  -1.813 HAP  PPQ 14 
+PPQ HBP1 1HBP H 0 0 N N N -35.961 42.816 -29.669 1.224  0.220  -0.460 HBP1 PPQ 15 
+PPQ HBP2 2HBP H 0 0 N N N -36.380 44.038 -30.779 -0.006 -1.065 -0.482 HBP2 PPQ 16 
+PPQ HGP1 1HGP H 0 0 N N N -38.715 43.000 -30.963 -1.606 0.445  0.659  HGP1 PPQ 17 
+PPQ HGP2 2HGP H 0 0 N N N -38.240 41.889 -29.676 -0.376 1.731  0.681  HGP2 PPQ 18 
+PPQ HEP1 1HEP H 0 0 N N N -38.755 45.647 -27.084 -0.255 0.315  4.594  HEP1 PPQ 19 
+PPQ HEP2 2HEP H 0 0 N N N -37.376 44.491 -27.279 -0.508 1.806  3.654  HEP2 PPQ 20 
+PPQ HEP3 3HEP H 0 0 N N N -37.586 45.729 -28.464 -1.738 0.520  3.632  HEP3 PPQ 21 
+PPQ HEB  HEB  H 0 1 N N N -40.557 45.278 -28.993 -1.038 -1.768 2.230  HEB  PPQ 22 
+PPQ HTP  HTP  H 0 1 N N N -33.603 41.204 -33.133 1.800  0.112  -4.254 HTP  PPQ 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PPQ NP  CAP  SING N N 1  
+PPQ NP  HNP1 SING N N 2  
+PPQ NP  HNP2 SING N N 3  
+PPQ CAP CBP  SING N N 4  
+PPQ CAP CP   SING N N 5  
+PPQ CAP HAP  SING N N 6  
+PPQ CBP CGP  SING N N 7  
+PPQ CBP HBP1 SING N N 8  
+PPQ CBP HBP2 SING N N 9  
+PPQ CGP PDP  SING N N 10 
+PPQ CGP HGP1 SING N N 11 
+PPQ CGP HGP2 SING N N 12 
+PPQ PDP CEP  SING N N 13 
+PPQ PDP OEA  DOUB N N 14 
+PPQ PDP OEB  SING N N 15 
+PPQ CEP HEP1 SING N N 16 
+PPQ CEP HEP2 SING N N 17 
+PPQ CEP HEP3 SING N N 18 
+PPQ OEB HEB  SING N N 19 
+PPQ CP  OP   DOUB N N 20 
+PPQ CP  OTP  SING N N 21 
+PPQ OTP HTP  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PPQ SMILES           ACDLabs              10.04 "O=P(O)(C)CCC(C(=O)O)N"                                                                 
+PPQ SMILES_CANONICAL CACTVS               3.341 "C[P@](O)(=O)CC[C@H](N)C(O)=O"                                                          
+PPQ SMILES           CACTVS               3.341 "C[P](O)(=O)CC[CH](N)C(O)=O"                                                            
+PPQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[P@](=O)(CC[C@@H](C(=O)O)N)O"                                                         
+PPQ SMILES           "OpenEye OEToolkits" 1.5.0 "CP(=O)(CCC(C(=O)O)N)O"                                                                 
+PPQ InChI            InChI                1.03  "InChI=1S/C5H12NO4P/c1-11(9,10)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)(H,9,10)/t4-/m0/s1" 
+PPQ InChIKey         InChI                1.03  IAJOBQBIJHVGMQ-BYPYZUCNSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PPQ "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-amino-4-[(R)-hydroxy(methyl)phosphoryl]butanoic acid" 
+PPQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-(hydroxy-methyl-phosphoryl)butanoic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PPQ "Create component"  2000-09-27 RCSB 
+PPQ "Modify descriptor" 2011-06-04 RCSB 
+# 

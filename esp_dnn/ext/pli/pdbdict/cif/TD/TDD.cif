@@ -1,0 +1,130 @@
+data_TDD
+# 
+_chem_comp.id                                    TDD 
+_chem_comp.name                                  "(2R)-2-amino-3,3-dimethyl-butanoic acid" 
+_chem_comp.type                                  "D-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H13 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         D-tert-leucine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        131.173 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     TDD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RPL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TDD N    N    N 0 1 N N N 15.996 -4.368 -1.322 0.073  1.878  0.543  N    TDD 1  
+TDD CA   CA   C 0 1 N N R 16.191 -5.178 -0.130 -0.048 0.420  0.680  CA   TDD 2  
+TDD CB   CB   C 0 1 N N N 16.121 -6.690 -0.476 1.098  -0.260 -0.072 CB   TDD 3  
+TDD CG1  CG1  C 0 1 N N N 14.905 -7.062 -1.350 2.435  0.198  0.514  CG1  TDD 4  
+TDD CG2  CG2  C 0 1 N N N 17.392 -7.080 -1.257 0.971  -1.778 0.071  CG2  TDD 5  
+TDD CG3  CG3  C 0 1 N N N 16.117 -7.560 0.792  1.032  0.121  -1.553 CG3  TDD 6  
+TDD C    C    C 0 1 N N N 15.235 -4.667 0.949  -1.365 -0.031 0.103  C    TDD 7  
+TDD O    O    O 0 1 N N N 14.069 -5.062 1.022  -1.956 0.676  -0.678 O    TDD 8  
+TDD OXT  OXT  O 0 1 N Y N 15.754 -3.790 1.806  -1.882 -1.218 0.457  OXT  TDD 9  
+TDD H    H    H 0 1 N N N 15.951 -3.402 -1.066 0.032  2.155  -0.426 H    TDD 10 
+TDD H2   H2   H 0 1 N Y N 16.760 -4.511 -1.951 -0.635 2.352  1.084  H2   TDD 11 
+TDD HA   HA   H 0 1 N N N 17.201 -5.074 0.293  -0.002 0.149  1.735  HA   TDD 12 
+TDD HG11 HG11 H 0 0 N N N 14.010 -7.151 -0.716 2.481  -0.072 1.569  HG11 TDD 13 
+TDD HG12 HG12 H 0 0 N N N 14.743 -6.279 -2.105 3.251  -0.286 -0.022 HG12 TDD 14 
+TDD HG13 HG13 H 0 0 N N N 15.095 -8.022 -1.852 2.524  1.280  0.412  HG13 TDD 15 
+TDD HG21 HG21 H 0 0 N N N 17.152 -7.173 -2.326 0.019  -2.104 -0.347 HG21 TDD 16 
+TDD HG22 HG22 H 0 0 N N N 18.159 -6.304 -1.120 1.788  -2.262 -0.465 HG22 TDD 17 
+TDD HG23 HG23 H 0 0 N N N 17.772 -8.042 -0.882 1.018  -2.049 1.125  HG23 TDD 18 
+TDD HG31 HG31 H 0 0 N N N 16.116 -8.623 0.508  1.122  1.202  -1.654 HG31 TDD 19 
+TDD HG32 HG32 H 0 0 N N N 17.014 -7.341 1.390  1.849  -0.364 -2.088 HG32 TDD 20 
+TDD HG33 HG33 H 0 0 N N N 15.218 -7.338 1.385  0.080  -0.206 -1.970 HG33 TDD 21 
+TDD HXT  HXT  H 0 1 N Y N 15.095 -3.542 2.444  -2.729 -1.464 0.061  HXT  TDD 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TDD N   CA   SING N N 1  
+TDD CA  CB   SING N N 2  
+TDD CA  C    SING N N 3  
+TDD CB  CG1  SING N N 4  
+TDD CB  CG2  SING N N 5  
+TDD CB  CG3  SING N N 6  
+TDD C   O    DOUB N N 7  
+TDD C   OXT  SING N N 8  
+TDD N   H    SING N N 9  
+TDD N   H2   SING N N 10 
+TDD CA  HA   SING N N 11 
+TDD CG1 HG11 SING N N 12 
+TDD CG1 HG12 SING N N 13 
+TDD CG1 HG13 SING N N 14 
+TDD CG2 HG21 SING N N 15 
+TDD CG2 HG22 SING N N 16 
+TDD CG2 HG23 SING N N 17 
+TDD CG3 HG31 SING N N 18 
+TDD CG3 HG32 SING N N 19 
+TDD CG3 HG33 SING N N 20 
+TDD OXT HXT  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TDD SMILES           ACDLabs              10.04 "O=C(O)C(N)C(C)(C)C"                                                   
+TDD SMILES_CANONICAL CACTVS               3.341 "CC(C)(C)[C@@H](N)C(O)=O"                                              
+TDD SMILES           CACTVS               3.341 "CC(C)(C)[CH](N)C(O)=O"                                                
+TDD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C)[C@H](C(=O)O)N"                                               
+TDD SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C)C(C(=O)O)N"                                                   
+TDD InChI            InChI                1.03  "InChI=1S/C6H13NO2/c1-6(2,3)4(7)5(8)9/h4H,7H2,1-3H3,(H,8,9)/t4-/m0/s1" 
+TDD InChIKey         InChI                1.03  NPDBDJFLKKQMCM-BYPYZUCNSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TDD "SYSTEMATIC NAME" ACDLabs              10.04 3-methyl-D-valine                         
+TDD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3,3-dimethyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TDD "Create component"  2008-06-02 PDBJ 
+TDD "Modify descriptor" 2011-06-04 RCSB 
+# 

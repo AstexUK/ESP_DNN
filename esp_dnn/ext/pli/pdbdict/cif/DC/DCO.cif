@@ -1,0 +1,120 @@
+data_DCO
+# 
+_chem_comp.id                                    DCO 
+_chem_comp.name                                  "3,3-DICHLORO-2-PHOSPHONOMETHYL-ACRYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H5 Cl2 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-08-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        234.959 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DCO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1JQN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DCO O1  O1  O  0 1 N N N 20.552 34.165 -12.060 -2.050 0.261  1.906  O1  DCO 1  
+DCO C1  C1  C  0 1 N N N 21.272 33.320 -12.836 -1.755 -0.248 0.841  C1  DCO 2  
+DCO O2  O2  O  0 1 N N N 20.655 32.606 -13.726 -2.722 -0.581 -0.036 O2  DCO 3  
+DCO C2  C2  C  0 1 N N N 22.727 33.252 -12.748 -0.350 -0.498 0.514  C2  DCO 4  
+DCO C3  C3  C  0 1 N N N 23.497 33.291 -14.047 0.014  -1.128 -0.804 C3  DCO 5  
+DCO P1  P1  P  0 1 N N N 23.999 31.562 -14.733 0.140  0.164  -2.082 P1  DCO 6  
+DCO O3  O3  O  0 1 N N N 22.703 30.571 -14.762 0.661  -0.488 -3.458 O3  DCO 7  
+DCO O4  O4  O  0 1 N N N 24.531 31.986 -16.284 -1.307 0.828  -2.318 O4  DCO 8  
+DCO O5  O5  O  0 1 N N N 25.233 31.027 -13.787 1.093  1.206  -1.639 O5  DCO 9  
+DCO C4  C4  C  0 1 N N N 23.358 33.318 -11.529 0.609  -0.166 1.386  C4  DCO 10 
+DCO CL1 CL1 CL 0 0 N N N 22.461 33.460 -10.078 2.279  -0.321 0.939  CL1 DCO 11 
+DCO CL2 CL2 CL 0 0 N N N 25.057 33.241 -11.271 0.183  0.417  2.964  CL2 DCO 12 
+DCO HO2 HO2 H  0 1 N N N 19.725 32.797 -13.697 -3.650 -0.416 0.179  HO2 DCO 13 
+DCO H31 1H3 H  0 1 N N N 24.432 33.832 -13.843 0.973  -1.640 -0.709 H31 DCO 14 
+DCO H32 2H3 H  0 1 N N N 22.862 33.780 -14.800 -0.753 -1.847 -1.089 H32 DCO 15 
+DCO HO3 HO3 H  0 1 N N N 22.431 30.378 -13.872 0.713  0.227  -4.106 HO3 DCO 16 
+DCO HO4 HO4 H  0 1 N N N 23.784 32.065 -16.865 -1.897 0.117  -2.606 HO4 DCO 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DCO O1 C1  DOUB N N 1  
+DCO C1 O2  SING N N 2  
+DCO C1 C2  SING N N 3  
+DCO O2 HO2 SING N N 4  
+DCO C2 C3  SING N N 5  
+DCO C2 C4  DOUB N N 6  
+DCO C3 P1  SING N N 7  
+DCO C3 H31 SING N N 8  
+DCO C3 H32 SING N N 9  
+DCO P1 O3  SING N N 10 
+DCO P1 O4  SING N N 11 
+DCO P1 O5  DOUB N N 12 
+DCO O3 HO3 SING N N 13 
+DCO O4 HO4 SING N N 14 
+DCO C4 CL1 SING N N 15 
+DCO C4 CL2 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DCO SMILES           ACDLabs              10.04 "O=C(O)\C(=C(/Cl)Cl)CP(=O)(O)O"                                            
+DCO SMILES_CANONICAL CACTVS               3.341 "OC(=O)C(C[P](O)(O)=O)=C(Cl)Cl"                                            
+DCO SMILES           CACTVS               3.341 "OC(=O)C(C[P](O)(O)=O)=C(Cl)Cl"                                            
+DCO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=C(Cl)Cl)C(=O)O)P(=O)(O)O"                                            
+DCO SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=C(Cl)Cl)C(=O)O)P(=O)(O)O"                                            
+DCO InChI            InChI                1.03  "InChI=1S/C4H5Cl2O5P/c5-3(6)2(4(7)8)1-12(9,10)11/h1H2,(H,7,8)(H2,9,10,11)" 
+DCO InChIKey         InChI                1.03  IBGSKYLUHGAGLB-UHFFFAOYSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DCO "SYSTEMATIC NAME" ACDLabs              10.04 "3,3-dichloro-2-(phosphonomethyl)prop-2-enoic acid" 
+DCO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3,3-dichloro-2-(phosphonomethyl)prop-2-enoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DCO "Create component"  2001-08-09 RCSB 
+DCO "Modify descriptor" 2011-06-04 RCSB 
+# 

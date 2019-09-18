@@ -1,0 +1,116 @@
+data_EYS
+# 
+_chem_comp.id                                    EYS 
+_chem_comp.name                                  S-SELANYLCYSTEINAL 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H8 N O S Se" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.127 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     EYS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EYS N   N   N  1 1 N N N 44.187 135.246 97.316  ? ? ? N   EYS 1  
+EYS CA  CA  C  0 1 N N R 43.585 135.563 98.613  ? ? ? CA  EYS 2  
+EYS CB  CB  C  0 1 N N N 42.187 136.139 98.405  ? ? ? CB  EYS 3  
+EYS SE  SE  SE 0 0 N N N 41.866 133.543 96.302  ? ? ? SE  EYS 4  
+EYS SG  SG  S  0 1 N N N 41.011 134.898 97.777  ? ? ? SG  EYS 5  
+EYS C   C   C  0 1 N N N 43.473 134.384 99.588  ? ? ? C   EYS 6  
+EYS O   O   O  0 1 N N N 43.351 134.599 100.790 ? ? ? O   EYS 7  
+EYS H3  3H  H  0 1 N N N 45.121 134.861 97.455  ? ? ? H3  EYS 8  
+EYS H2  2H  H  0 1 N Y N 43.596 134.628 96.759  ? ? ? H2  EYS 9  
+EYS H   1H  H  0 1 N N N 44.192 136.050 96.688  ? ? ? H   EYS 10 
+EYS HA  HA  H  0 1 N N N 44.283 136.296 99.079  ? ? ? HA  EYS 11 
+EYS HB2 2HB H  0 1 N N N 41.806 136.617 99.337  ? ? ? HB2 EYS 12 
+EYS HB3 1HB H  0 1 N N N 42.216 137.036 97.743  ? ? ? HB3 EYS 13 
+EYS HE  HE  H  0 1 N N N 42.063 134.273 95.006  ? ? ? HE  EYS 14 
+EYS HC  H   H  0 1 N N N 43.480 133.295 99.410  ? ? ? HC  EYS 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EYS N  CA  SING N N 1  
+EYS N  H3  SING N N 2  
+EYS N  H2  SING N N 3  
+EYS N  H   SING N N 4  
+EYS CA CB  SING N N 5  
+EYS CA C   SING N N 6  
+EYS CA HA  SING N N 7  
+EYS CB SG  SING N N 8  
+EYS CB HB2 SING N N 9  
+EYS CB HB3 SING N N 10 
+EYS SE SG  SING N N 11 
+EYS SE HE  SING N N 12 
+EYS C  O   DOUB N N 13 
+EYS C  HC  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EYS SMILES           ACDLabs              10.04 "O=CC([NH3+])CS[SeH]"                                           
+EYS SMILES_CANONICAL CACTVS               3.341 "[NH3+][C@@H](CS[SeH])C=O"                                      
+EYS SMILES           CACTVS               3.341 "[NH3+][CH](CS[SeH])C=O"                                        
+EYS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C=O)[NH3+])S[SeH]"                                    
+EYS SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C=O)[NH3+])S[SeH]"                                         
+EYS InChI            InChI                1.03  "InChI=1S/C3H7NOSSe/c4-3(1-5)2-6-7/h1,3,7H,2,4H2/p+1/t3-/m1/s1" 
+EYS InChIKey         InChI                1.03  PDOVELCMNLDTQU-GSVOUGTGSA-O                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EYS "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-1-oxo-3-(selanylsulfanyl)propan-2-aminium"    
+EYS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R)-1-oxo-3-selanylsulfanyl-propan-2-yl]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EYS "Create component"  1999-07-08 EBI  
+EYS "Modify descriptor" 2011-06-04 RCSB 
+# 

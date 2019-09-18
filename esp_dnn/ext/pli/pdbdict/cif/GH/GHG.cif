@@ -1,0 +1,128 @@
+data_GHG
+# 
+_chem_comp.id                                    GHG 
+_chem_comp.name                                  "(2S,4S)-2,5-diamino-4-hydroxy-5-oxopentanoic acid (non-preferred name)" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               GLN 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-01-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.144 
+_chem_comp.one_letter_code                       Q 
+_chem_comp.three_letter_code                     GHG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1RU9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GHG N    N    N 0 1 N N N 48.924 37.391 21.202 1.305  0.925  1.565  N    GHG 1  
+GHG CA   CA   C 0 1 N N S 49.236 38.768 21.485 1.227  -0.134 0.550  CA   GHG 2  
+GHG C    C    C 0 1 N N N 48.858 39.767 20.447 2.456  -0.085 -0.321 C    GHG 3  
+GHG O    O    O 0 1 N N N 48.567 39.454 19.297 3.121  0.922  -0.372 O    GHG 4  
+GHG CB   CB   C 0 1 N N N 50.670 38.950 22.135 -0.018 0.078  -0.314 CB   GHG 5  
+GHG CG   CG   C 0 1 N N S 51.498 37.761 22.674 -1.271 -0.094 0.547  CG   GHG 6  
+GHG OG1  OG1  O 0 1 N N N 52.624 38.538 22.953 -1.353 -1.446 1.003  OG1  GHG 7  
+GHG CD   CD   C 0 1 N N N 52.112 36.636 21.812 -2.493 0.234  -0.272 CD   GHG 8  
+GHG OE1  OE1  O 0 1 N N N 51.596 36.295 20.741 -3.304 -0.631 -0.524 OE1  GHG 9  
+GHG NE2  NE2  N 0 1 N N N 53.158 35.905 22.232 -2.683 1.490  -0.725 NE2  GHG 10 
+GHG H    H    H 0 1 N N N 49.222 36.818 21.965 2.083  0.771  2.189  H    GHG 11 
+GHG H2   H2   H 0 1 N Y N 47.937 37.292 21.077 1.361  1.836  1.135  H2   GHG 12 
+GHG HA   HA   H 0 1 N N N 48.525 39.047 22.276 1.168  -1.105 1.041  HA   GHG 13 
+GHG HB2  HB2  H 0 1 N N N 51.290 39.402 21.347 -0.002 1.084  -0.734 HB2  GHG 14 
+GHG HB3  HB3  H 0 1 N N N 50.515 39.611 23.000 -0.029 -0.653 -1.122 HB3  GHG 15 
+GHG HG   HG   H 0 1 N N N 50.854 37.185 23.355 -1.218 0.576  1.405  HG   GHG 16 
+GHG HG1  HG1  H 0 1 N N N 53.307 37.987 23.316 -1.404 -2.099 0.292  HG1  GHG 17 
+GHG HE21 HE21 H 0 0 N N N 53.479 35.132 21.685 -2.033 2.181  -0.523 HE21 GHG 18 
+GHG HE22 HE22 H 0 0 N N N 53.615 36.134 23.091 -3.469 1.701  -1.252 HE22 GHG 19 
+GHG OXT  OXT  O 0 1 N Y N 48.764 41.189 20.568 2.812  -1.162 -1.039 OXT  GHG 20 
+GHG HXT  HXT  H 0 1 N Y N 48.499 41.561 19.735 3.608  -1.083 -1.583 HXT  GHG 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GHG N   CA   SING N N 1  
+GHG N   H    SING N N 2  
+GHG N   H2   SING N N 3  
+GHG CA  C    SING N N 4  
+GHG CA  CB   SING N N 5  
+GHG CA  HA   SING N N 6  
+GHG C   O    DOUB N N 7  
+GHG CB  CG   SING N N 8  
+GHG CB  HB2  SING N N 9  
+GHG CB  HB3  SING N N 10 
+GHG CG  OG1  SING N N 11 
+GHG CG  CD   SING N N 12 
+GHG CG  HG   SING N N 13 
+GHG OG1 HG1  SING N N 14 
+GHG CD  OE1  DOUB N N 15 
+GHG CD  NE2  SING N N 16 
+GHG NE2 HE21 SING N N 17 
+GHG NE2 HE22 SING N N 18 
+GHG C   OXT  SING N N 19 
+GHG OXT HXT  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GHG SMILES           ACDLabs              12.01 "O=C(N)C(O)CC(C(=O)O)N"                                                                    
+GHG SMILES_CANONICAL CACTVS               3.370 "N[C@@H](C[C@H](O)C(N)=O)C(O)=O"                                                           
+GHG SMILES           CACTVS               3.370 "N[CH](C[CH](O)C(N)=O)C(O)=O"                                                              
+GHG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C([C@@H](C(=O)O)N)[C@@H](C(=O)N)O"                                                        
+GHG SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(C(=O)O)N)C(C(=O)N)O"                                                                  
+GHG InChI            InChI                1.03  "InChI=1S/C5H10N2O4/c6-2(5(10)11)1-3(8)4(7)9/h2-3,8H,1,6H2,(H2,7,9)(H,10,11)/t2-,3-/m0/s1" 
+GHG InChIKey         InChI                1.03  VTJRNXQBJNWLRA-HRFVKAFMSA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GHG "SYSTEMATIC NAME" ACDLabs              12.01 "(2S,4S)-2,5-diamino-4-hydroxy-5-oxopentanoic acid (non-preferred name)" 
+GHG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S,4S)-2,5-bis(azanyl)-4-hydroxy-5-oxo-pentanoic acid"                 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GHG "Create component"  2004-01-20 RCSB 
+GHG "Modify descriptor" 2011-06-04 RCSB 
+# 

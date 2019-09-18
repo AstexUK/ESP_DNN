@@ -1,0 +1,129 @@
+data_GLK
+# 
+_chem_comp.id                                    GLK 
+_chem_comp.name                                  "(4S)-4-amino-5,5-dihydroxypentanoic acid" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H11 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-09-24 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.145 
+_chem_comp.one_letter_code                       E 
+_chem_comp.three_letter_code                     GLK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLK N   N   N 0 1 N N N 88.261 -7.660 -9.990  1.172  1.825  -0.385 N   GLK 1  
+GLK CA  CA  C 0 1 N N S 87.744 -7.276 -11.334 1.118  0.488  0.221  CA  GLK 2  
+GLK C   C   C 0 1 N N N 88.474 -6.030 -11.811 2.308  -0.342 -0.266 C   GLK 3  
+GLK CB  CB  C 0 1 N N N 86.234 -7.012 -11.267 -0.185 -0.203 -0.184 CB  GLK 4  
+GLK CG  CG  C 0 1 N N N 85.437 -8.194 -10.746 -1.372 0.558  0.410  CG  GLK 5  
+GLK CD  CD  C 0 1 N N N 83.937 -7.944 -10.707 -2.656 -0.122 0.011  CD  GLK 6  
+GLK OE1 OE1 O 0 1 N N N 83.425 -7.140 -11.520 -2.625 -1.115 -0.677 OE1 GLK 7  
+GLK OE2 OE2 O 0 1 N N N 83.260 -8.567 -9.862  -3.834 0.374  0.420  OE2 GLK 8  
+GLK O   O   O 0 1 N Y N 88.543 -5.801 -13.033 3.526  0.304  0.112  O   GLK 9  
+GLK H   H   H 0 1 N N N 87.785 -8.479 -9.671  1.136  1.767  -1.392 H   GLK 10 
+GLK H2  H2  H 0 1 N Y N 89.241 -7.847 -10.051 0.434  2.413  -0.030 H2  GLK 11 
+GLK HA  HA  H 0 1 N N N 87.920 -8.099 -12.043 1.159  0.579  1.306  HA  GLK 12 
+GLK HB2 HB2 H 0 1 N N N 86.064 -6.160 -10.592 -0.268 -0.215 -1.271 HB2 GLK 13 
+GLK HB3 HB3 H 0 1 N N N 85.881 -6.781 -12.283 -0.186 -1.227 0.192  HB3 GLK 14 
+GLK HG2 HG2 H 0 1 N N N 85.624 -9.052 -11.408 -1.289 0.570  1.496  HG2 GLK 15 
+GLK HG3 HG3 H 0 1 N N N 85.775 -8.411 -9.722  -1.372 1.582  0.034  HG3 GLK 16 
+GLK HE2 HE2 H 0 1 N N N 82.345 -8.328 -9.951  -4.630 -0.097 0.139  HE2 GLK 17 
+GLK H1  H1  H 0 1 N Y N 89.025 -4.995 -13.178 4.323  -0.168 -0.165 H1  GLK 18 
+GLK OXT OXT O 0 1 N Y N 89.837 -6.189 -11.409 2.255  -1.642 0.324  OXT GLK 19 
+GLK H10 H10 H 0 1 N N N 87.888 -5.203 -11.383 2.267  -0.433 -1.352 H10 GLK 20 
+GLK HXT HXT H 0 1 N Y N 90.340 -5.432 -11.685 2.287  -1.638 1.290  HXT GLK 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLK N   CA  SING N N 1  
+GLK N   H   SING N N 2  
+GLK N   H2  SING N N 3  
+GLK CA  C   SING N N 4  
+GLK CA  CB  SING N N 5  
+GLK CA  HA  SING N N 6  
+GLK C   O   SING N N 7  
+GLK CB  CG  SING N N 8  
+GLK CB  HB2 SING N N 9  
+GLK CB  HB3 SING N N 10 
+GLK CG  CD  SING N N 11 
+GLK CG  HG2 SING N N 12 
+GLK CG  HG3 SING N N 13 
+GLK CD  OE1 DOUB N N 14 
+GLK CD  OE2 SING N N 15 
+GLK OE2 HE2 SING N N 16 
+GLK O   H1  SING N N 17 
+GLK C   OXT SING N N 18 
+GLK C   H10 SING N N 19 
+GLK OXT HXT SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLK SMILES           ACDLabs              12.01 "O=C(O)CCC(N)C(O)O"                                                            
+GLK SMILES_CANONICAL CACTVS               3.370 "N[C@@H](CCC(O)=O)C(O)O"                                                       
+GLK SMILES           CACTVS               3.370 "N[CH](CCC(O)=O)C(O)O"                                                         
+GLK SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)[C@@H](C(O)O)N"                                                     
+GLK SMILES           "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C(C(O)O)N"                                                          
+GLK InChI            InChI                1.03  "InChI=1S/C5H11NO4/c6-3(5(9)10)1-2-4(7)8/h3,5,9-10H,1-2,6H2,(H,7,8)/t3-/m0/s1" 
+GLK InChIKey         InChI                1.03  MKADZLMZCPSMML-VKHMYHEASA-N                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLK "SYSTEMATIC NAME" ACDLabs              12.01 "(4S)-4-amino-5,5-dihydroxypentanoic acid"   
+GLK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(4S)-4-azanyl-5,5-dihydroxy-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLK "Create component"      2010-09-24 RCSB 
+GLK "Modify parent residue" 2011-01-27 RCSB 
+GLK "Modify descriptor"     2011-06-04 RCSB 
+# 

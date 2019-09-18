@@ -1,0 +1,125 @@
+data_4HP
+# 
+_chem_comp.id                                    4HP 
+_chem_comp.name                                  4-HYDROXYPHENYLACETATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        152.147 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4HP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3PCG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4HP C8  C8  C 0 1 N N N -40.451 -15.496 13.783 0.000  0.201  2.510  C8  4HP 1  
+4HP O1  O1  O 0 1 N N N -39.931 -16.621 13.664 0.004  1.300  2.007  O1  4HP 2  
+4HP O2  O2  O 0 1 N N N -41.433 -15.246 14.553 0.000  0.073  3.846  O2  4HP 3  
+4HP C7  C7  C 0 1 N N N -39.993 -14.318 12.896 -0.003 -1.026 1.636  C7  4HP 4  
+4HP C1  C1  C 0 1 Y N N -40.613 -14.382 11.502 -0.002 -0.612 0.187  C1  4HP 5  
+4HP C2  C2  C 0 1 Y N N -40.000 -15.091 10.456 1.196  -0.426 -0.476 C2  4HP 6  
+4HP C3  C3  C 0 1 Y N N -40.571 -15.120 9.186  1.200  -0.046 -1.804 C3  4HP 7  
+4HP C4  C4  C 0 1 Y N N -41.787 -14.474 8.974  0.000  0.149  -2.472 C4  4HP 8  
+4HP C5  C5  C 0 1 Y N N -42.460 -13.825 10.012 -1.200 -0.038 -1.804 C5  4HP 9  
+4HP C6  C6  C 0 1 Y N N -41.846 -13.747 11.279 -1.199 -0.423 -0.477 C6  4HP 10 
+4HP O4  O4  O 0 1 N N N -42.439 -14.544 7.749  0.002  0.522  -3.778 O4  4HP 11 
+4HP HO2 HO2 H 0 1 N N N -41.829 -14.387 14.643 0.002  0.861  4.406  HO2 4HP 12 
+4HP H71 1H7 H 0 1 N N N -40.197 -13.337 13.386 0.884  -1.623 1.844  H71 4HP 13 
+4HP H72 2H7 H 0 1 N N N -38.880 -14.258 12.843 -0.895 -1.617 1.844  H72 4HP 14 
+4HP H2  H2  H 0 1 N N N -39.056 -15.633 10.634 2.130  -0.578 0.044  H2  4HP 15 
+4HP H3  H3  H 0 1 N N N -40.066 -15.647 8.359  2.137  0.099  -2.321 H3  4HP 16 
+4HP H5  H5  H 0 1 N N N -43.455 -13.383 9.834  -2.136 0.113  -2.322 H5  4HP 17 
+4HP H6  H6  H 0 1 N N N -42.331 -13.188 12.097 -2.134 -0.570 0.042  H6  4HP 18 
+4HP HO4 HO4 H 0 1 N N N -43.268 -14.103 7.604  -0.000 -0.290 -4.302 HO4 4HP 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4HP C8 O1  DOUB N N 1  
+4HP C8 O2  SING N N 2  
+4HP C8 C7  SING N N 3  
+4HP O2 HO2 SING N N 4  
+4HP C7 C1  SING N N 5  
+4HP C7 H71 SING N N 6  
+4HP C7 H72 SING N N 7  
+4HP C1 C2  SING Y N 8  
+4HP C1 C6  DOUB Y N 9  
+4HP C2 C3  DOUB Y N 10 
+4HP C2 H2  SING N N 11 
+4HP C3 C4  SING Y N 12 
+4HP C3 H3  SING N N 13 
+4HP C4 C5  DOUB Y N 14 
+4HP C4 O4  SING N N 15 
+4HP C5 C6  SING Y N 16 
+4HP C5 H5  SING N N 17 
+4HP C6 H6  SING N N 18 
+4HP O4 HO4 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4HP SMILES           ACDLabs              10.04 "O=C(O)Cc1ccc(O)cc1"                                               
+4HP SMILES_CANONICAL CACTVS               3.341 "OC(=O)Cc1ccc(O)cc1"                                               
+4HP SMILES           CACTVS               3.341 "OC(=O)Cc1ccc(O)cc1"                                               
+4HP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1CC(=O)O)O"                                               
+4HP SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1CC(=O)O)O"                                               
+4HP InChI            InChI                1.03  "InChI=1S/C8H8O3/c9-7-3-1-6(2-4-7)5-8(10)11/h1-4,9H,5H2,(H,10,11)" 
+4HP InChIKey         InChI                1.03  XQXPVVBIMDBYFF-UHFFFAOYSA-N                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4HP "SYSTEMATIC NAME" ACDLabs              10.04 "(4-hydroxyphenyl)acetic acid"     
+4HP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(4-hydroxyphenyl)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4HP "Create component"  1999-07-08 RCSB 
+4HP "Modify descriptor" 2011-06-04 RCSB 
+# 

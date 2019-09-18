@@ -1,0 +1,125 @@
+data_AMS
+# 
+_chem_comp.id                                    AMS 
+_chem_comp.name                                  3-MERCURI-4-AMINOBENZENESULFONAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 Hg N2 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        371.787 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AMS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3CA2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AMS C1   C1   C  0 1 Y N N -5.535 2.332  15.311 -0.409 -0.058 -2.318 C1   AMS 1  
+AMS C2   C2   C  0 1 Y N N -4.678 1.832  14.227 0.206  -0.052 -1.080 C2   AMS 2  
+AMS C3   C3   C  0 1 Y N N -4.302 2.725  13.128 -0.555 -0.007 0.070  C3   AMS 3  
+AMS C4   C4   C  0 1 Y N N -4.754 4.123  13.152 -1.941 0.021  -0.016 C4   AMS 4  
+AMS C5   C5   C  0 1 Y N N -5.593 4.597  14.244 -2.556 0.015  -1.261 C5   AMS 5  
+AMS C6   C6   C  0 1 Y N N -5.975 3.700  15.317 -1.789 -0.023 -2.408 C6   AMS 6  
+AMS HG   HG   HG 0 0 N N N -3.131 2.028  11.984 0.380  0.001  1.950  HG   AMS 7  
+AMS S1   S1   S  0 1 N N N -6.006 1.183  16.618 0.566  -0.110 -3.785 S1   AMS 8  
+AMS O1   O1   O  0 1 N N N -7.408 1.043  16.946 1.817  -0.661 -3.397 O1   AMS 9  
+AMS O2   O2   O  0 1 N N N -5.483 1.406  17.947 -0.284 -0.631 -4.796 O2   AMS 10 
+AMS N1   N1   N  0 1 N N N -5.667 -0.368 16.498 0.881  1.454  -4.225 N1   AMS 11 
+AMS N2   N2   N  0 1 N N N -4.379 4.983  12.182 -2.714 0.061  1.146  N2   AMS 12 
+AMS H2   H2   H  0 1 N N N -4.318 0.789  14.238 1.283  -0.079 -1.013 H2   AMS 13 
+AMS H5   H5   H  0 1 N N N -5.941 5.643  14.258 -3.633 0.041  -1.332 H5   AMS 14 
+AMS H6   H6   H  0 1 N N N -6.606 4.061  16.145 -2.266 -0.028 -3.377 H6   AMS 15 
+AMS HN11 1HN1 H  0 0 N N N -5.933 -1.018 17.237 1.411  1.638  -5.016 HN11 AMS 16 
+AMS HN12 2HN1 H  0 0 N N N -4.664 -0.463 16.336 0.536  2.187  -3.691 HN12 AMS 17 
+AMS HN21 1HN2 H  0 0 N N N -4.692 5.953  12.198 -2.284 0.065  2.015  HN21 AMS 18 
+AMS HN22 2HN2 H  0 0 N N N -4.636 4.579  11.281 -3.682 0.090  1.084  HN22 AMS 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AMS C1 C2   DOUB Y N 1  
+AMS C1 C6   SING Y N 2  
+AMS C1 S1   SING N N 3  
+AMS C2 C3   SING Y N 4  
+AMS C2 H2   SING N N 5  
+AMS C3 C4   DOUB Y N 6  
+AMS C3 HG   SING N N 7  
+AMS C4 C5   SING Y N 8  
+AMS C4 N2   SING N N 9  
+AMS C5 C6   DOUB Y N 10 
+AMS C5 H5   SING N N 11 
+AMS C6 H6   SING N N 12 
+AMS S1 O1   DOUB N N 13 
+AMS S1 O2   DOUB N N 14 
+AMS S1 N1   SING N N 15 
+AMS N1 HN11 SING N N 16 
+AMS N1 HN12 SING N N 17 
+AMS N2 HN21 SING N N 18 
+AMS N2 HN22 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AMS SMILES           ACDLabs              10.04 "O=S(=O)(c1cc([Hg])c(N)cc1)N"                                                
+AMS SMILES_CANONICAL CACTVS               3.341 "Nc1ccc(cc1[Hg])[S](N)(=O)=O"                                                
+AMS SMILES           CACTVS               3.341 "Nc1ccc(cc1[Hg])[S](N)(=O)=O"                                                
+AMS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1S(=O)(=O)N)[Hg])N"                                                
+AMS SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1S(=O)(=O)N)[Hg])N"                                                
+AMS InChI            InChI                1.03  "InChI=1S/C6H7N2O2S.Hg/c7-5-1-3-6(4-2-5)11(8,9)10;/h1,3-4H,7H2,(H2,8,9,10);" 
+AMS InChIKey         InChI                1.03  KGGLGSZFQPTPPT-UHFFFAOYSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AMS "SYSTEMATIC NAME" ACDLabs              10.04 "(2-amino-5-sulfamoylphenyl)mercury"  
+AMS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2-amino-5-sulfamoyl-phenyl)mercury" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AMS "Create component"  1999-07-08 RCSB 
+AMS "Modify descriptor" 2011-06-04 RCSB 
+# 

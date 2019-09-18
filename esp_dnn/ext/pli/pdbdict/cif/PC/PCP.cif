@@ -1,0 +1,161 @@
+data_PCP
+# 
+_chem_comp.id                                    PCP 
+_chem_comp.name                                  1-ALPHA-PYROPHOSPHORYL-2-ALPHA,3-ALPHA-DIHYDROXY-4-BETA-CYCLOPENTANE-METHANOL-5-PHOSPHATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H15 O13 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "CARBOXYLIC PRPP; CPRPP" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        388.097 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PCP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A96,1A95 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PCP C1   C1   C 0 1 N N S 21.681 134.368 23.006 0.783  -0.768 0.200  C1   PCP 1  
+PCP C2   C2   C 0 1 N N R 20.562 133.420 23.459 2.255  -0.738 -0.259 C2   PCP 2  
+PCP C3   C3   C 0 1 N N R 19.431 133.632 22.410 2.269  -0.071 -1.645 C3   PCP 3  
+PCP C4   C4   C 0 1 N N R 19.548 135.111 22.009 0.805  0.281  -1.981 C4   PCP 4  
+PCP C5   C5   C 0 1 N N N 21.018 135.331 22.102 -0.027 -0.699 -1.116 C5   PCP 5  
+PCP CP   CP   C 0 1 N N N 18.707 136.109 22.803 0.523  0.056  -3.467 CP   PCP 6  
+PCP O1   O1   O 0 1 N N N 22.612 133.670 22.056 0.494  0.359  1.028  O1   PCP 7  
+PCP O2   O2   O 0 1 N N N 20.991 132.066 23.550 3.040  0.024  0.659  O2   PCP 8  
+PCP O3   O3   O 0 1 N N N 19.540 132.836 21.240 3.062  1.116  -1.609 O3   PCP 9  
+PCP OP   OP   O 0 1 N N N 19.092 137.483 22.540 -0.858 0.306  -3.733 OP   PCP 10 
+PCP P    P    P 0 1 N N N 18.036 138.627 22.144 -1.083 0.053  -5.307 P    PCP 11 
+PCP O1P  O1P  O 0 1 N N N 16.724 138.194 22.685 -0.729 -1.345 -5.637 O1P  PCP 12 
+PCP O2P  O2P  O 0 1 N N N 18.051 138.690 20.664 -2.627 0.318  -5.678 O2P  PCP 13 
+PCP O3P  O3P  O 0 1 N N N 18.541 139.869 22.782 -0.148 1.056  -6.151 O3P  PCP 14 
+PCP PA   PA   P 0 1 N N S 23.880 134.385 21.485 -0.011 -0.218 2.443  PA   PCP 15 
+PCP O1A  O1A  O 0 1 N N N 24.214 135.485 22.443 1.052  -1.052 3.044  O1A  PCP 16 
+PCP O2A  O2A  O 0 1 N N N 23.472 134.937 20.154 -1.330 -1.112 2.216  O2A  PCP 17 
+PCP O3A  O3A  O 0 1 N N N 24.900 133.258 21.430 -0.356 1.005  3.431  O3A  PCP 18 
+PCP PB   PB   P 0 1 N N N 24.807 131.746 21.311 -0.853 0.358  4.818  PB   PCP 19 
+PCP O1B  O1B  O 0 1 N N N 24.970 131.283 19.899 0.224  -0.485 5.383  O1B  PCP 20 
+PCP O2B  O2B  O 0 1 N N N 23.521 131.266 21.775 -1.216 1.532  5.858  O2B  PCP 21 
+PCP O3B  O3B  O 0 1 N N N 25.847 131.065 22.140 -2.158 -0.545 4.552  O3B  PCP 22 
+PCP H1   H1   H 0 1 N N N 22.207 134.774 23.901 0.568  -1.695 0.732  H1   PCP 23 
+PCP H2   H2   H 0 1 N N N 20.214 133.646 24.494 2.645  -1.754 -0.329 H2   PCP 24 
+PCP H3   H3   H 0 1 N N N 18.456 133.338 22.866 2.666  -0.762 -2.388 H3   PCP 25 
+PCP H4   H4   H 0 1 N N N 19.116 135.304 20.999 0.588  1.312  -1.703 H4   PCP 26 
+PCP H51  1H5  H 0 1 N N N 21.247 136.381 22.397 -0.081 -1.679 -1.589 H51  PCP 27 
+PCP H52  2H5  H 0 1 N N N 21.489 135.321 21.091 -1.026 -0.301 -0.935 H52  PCP 28 
+PCP HP1  1HP  H 0 1 N N N 17.618 135.953 22.620 1.135  0.735  -4.060 HP1  PCP 29 
+PCP HP2  2HP  H 0 1 N N N 18.737 135.883 23.894 0.763  -0.973 -3.731 HP2  PCP 30 
+PCP HO2  HO2  H 0 1 N N N 20.298 131.479 23.830 3.944  0.030  0.316  HO2  PCP 31 
+PCP HO3  HO3  H 0 1 N N N 18.850 132.965 20.600 3.963  0.844  -1.385 HO3  PCP 32 
+PCP HOP2 2HOP H 0 0 N N N 17.426 139.366 20.429 -2.718 0.156  -6.627 HOP2 PCP 33 
+PCP HOP3 3HOP H 0 0 N N N 17.916 140.545 22.547 -0.410 1.954  -5.907 HOP3 PCP 34 
+PCP HOA2 2HOA H 0 0 N N N 24.242 135.371 19.807 -1.997 -0.532 1.824  HOA2 PCP 35 
+PCP HOB2 2HOB H 0 0 N N N 23.462 130.320 21.700 -1.509 1.102  6.674  HOB2 PCP 36 
+PCP HOB3 3HOB H 0 0 N N N 25.788 130.119 22.065 -2.834 0.040  4.185  HOB3 PCP 37 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PCP C1  C2   SING N N 1  
+PCP C1  C5   SING N N 2  
+PCP C1  O1   SING N N 3  
+PCP C1  H1   SING N N 4  
+PCP C2  C3   SING N N 5  
+PCP C2  O2   SING N N 6  
+PCP C2  H2   SING N N 7  
+PCP C3  C4   SING N N 8  
+PCP C3  O3   SING N N 9  
+PCP C3  H3   SING N N 10 
+PCP C4  C5   SING N N 11 
+PCP C4  CP   SING N N 12 
+PCP C4  H4   SING N N 13 
+PCP C5  H51  SING N N 14 
+PCP C5  H52  SING N N 15 
+PCP CP  OP   SING N N 16 
+PCP CP  HP1  SING N N 17 
+PCP CP  HP2  SING N N 18 
+PCP O1  PA   SING N N 19 
+PCP O2  HO2  SING N N 20 
+PCP O3  HO3  SING N N 21 
+PCP OP  P    SING N N 22 
+PCP P   O1P  DOUB N N 23 
+PCP P   O2P  SING N N 24 
+PCP P   O3P  SING N N 25 
+PCP O2P HOP2 SING N N 26 
+PCP O3P HOP3 SING N N 27 
+PCP PA  O1A  DOUB N N 28 
+PCP PA  O2A  SING N N 29 
+PCP PA  O3A  SING N N 30 
+PCP O2A HOA2 SING N N 31 
+PCP O3A PB   SING N N 32 
+PCP PB  O1B  DOUB N N 33 
+PCP PB  O2B  SING N N 34 
+PCP PB  O3B  SING N N 35 
+PCP O2B HOB2 SING N N 36 
+PCP O3B HOB3 SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PCP SMILES           ACDLabs              10.04 "O=P(OC1CC(C(O)C1O)COP(=O)(O)O)(O)OP(=O)(O)O"                                                                                                       
+PCP SMILES_CANONICAL CACTVS               3.341 "O[C@H]1[C@@H](O)[C@H](C[C@@H]1CO[P](O)(O)=O)O[P@@](O)(=O)O[P](O)(O)=O"                                                                             
+PCP SMILES           CACTVS               3.341 "O[CH]1[CH](O)[CH](C[CH]1CO[P](O)(O)=O)O[P](O)(=O)O[P](O)(O)=O"                                                                                     
+PCP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H]([C@H]([C@H]1O[P@](=O)(O)OP(=O)(O)O)O)O)COP(=O)(O)O"                                                                                 
+PCP SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C(C1OP(=O)(O)OP(=O)(O)O)O)O)COP(=O)(O)O"                                                                                                     
+PCP InChI            InChI                1.03  "InChI=1S/C6H15O13P3/c7-5-3(2-17-20(9,10)11)1-4(6(5)8)18-22(15,16)19-21(12,13)14/h3-8H,1-2H2,(H,15,16)(H2,9,10,11)(H2,12,13,14)/t3-,4+,5-,6+/m1/s1" 
+PCP InChIKey         InChI                1.03  OICBXEWBKALHHB-MOJAZDJTSA-N                                                                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PCP "SYSTEMATIC NAME" ACDLabs              10.04 "(1S,2R,3R,4R)-2,3-dihydroxy-4-[(phosphonooxy)methyl]cyclopentyl trihydrogen diphosphate"      
+PCP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1S,2R,3R,4R)-2,3-dihydroxy-4-(phosphonooxymethyl)cyclopentyl] phosphono hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PCP "Create component"  1999-07-08 RCSB 
+PCP "Modify descriptor" 2011-06-04 RCSB 
+# 

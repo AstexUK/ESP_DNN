@@ -1,0 +1,135 @@
+data_DQN
+# 
+_chem_comp.id                                    DQN 
+_chem_comp.name                                  DUROQUINONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H12 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        164.201 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DQN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QRD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DQN C1   C1   C 0 1 N N N 35.004 10.481 29.696 1.408  0.003  0.000  C1   DQN 1  
+DQN O1   O1   O 0 1 N N N 34.904 11.600 29.124 2.623  0.002  0.000  O1   DQN 2  
+DQN C2   C2   C 0 1 N N N 36.014 10.376 30.708 0.670  -0.001 1.279  C2   DQN 3  
+DQN C2M  C2M  C 0 1 N N N 36.722 11.645 31.068 1.423  -0.001 2.584  C2M  DQN 4  
+DQN C3   C3   C 0 1 N N N 36.134 9.143  31.351 -0.670 -0.000 1.279  C3   DQN 5  
+DQN C3M  C3M  C 0 1 N N N 36.937 8.769  32.581 -1.423 0.000  2.584  C3M  DQN 6  
+DQN C4   C4   C 0 1 N N N 35.316 8.068  30.891 -1.408 0.000  0.000  C4   DQN 7  
+DQN O4   O4   O 0 1 N N N 35.528 6.931  31.394 -2.623 0.001  0.000  O4   DQN 8  
+DQN C5   C5   C 0 1 N N N 34.312 8.149  29.869 -0.670 -0.000 -1.279 C5   DQN 9  
+DQN C5M  C5M  C 0 1 N N N 33.417 6.931  29.689 -1.423 0.000  -2.584 C5M  DQN 10 
+DQN C6   C6   C 0 1 N N N 34.118 9.398  29.291 0.670  -0.001 -1.279 C6   DQN 11 
+DQN C6M  C6M  C 0 1 N N N 32.975 9.693  28.347 1.423  -0.002 -2.584 C6M  DQN 12 
+DQN H2M1 1H2M H 0 0 N N N 37.507 11.563 31.855 2.495  -0.002 2.385  H2M1 DQN 13 
+DQN H2M2 2H2M H 0 0 N N N 37.153 12.109 30.150 1.160  0.888  3.155  H2M2 DQN 14 
+DQN H2M3 3H2M H 0 0 N N N 35.977 12.423 31.356 1.159  -0.891 3.156  H2M3 DQN 15 
+DQN H3M1 1H3M H 0 0 N N N 37.032 7.784  33.094 -2.495 0.000  2.385  H3M1 DQN 16 
+DQN H3M2 2H3M H 0 0 N N N 37.982 9.083  32.354 -1.160 -0.890 3.156  H3M2 DQN 17 
+DQN H3M3 3H3M H 0 0 N N N 36.607 9.481  33.373 -1.159 0.890  3.155  H3M3 DQN 18 
+DQN H5M1 1H5M H 0 0 N N N 32.636 6.993  28.894 -2.495 0.001  -2.385 H5M1 DQN 19 
+DQN H5M2 2H5M H 0 0 N N N 34.046 6.026  29.522 -1.159 0.890  -3.155 H5M2 DQN 20 
+DQN H5M3 3H5M H 0 0 N N N 32.938 6.671  30.662 -1.160 -0.889 -3.156 H5M3 DQN 21 
+DQN H6M1 1H6M H 0 0 N N N 32.296 8.864  28.037 2.495  -0.003 -2.385 H6M1 DQN 22 
+DQN H6M2 2H6M H 0 0 N N N 32.359 10.516 28.777 1.159  -0.892 -3.155 H6M2 DQN 23 
+DQN H6M3 3H6M H 0 0 N N N 33.384 10.181 27.431 1.161  0.887  -3.155 H6M3 DQN 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DQN C1  O1   DOUB N N 1  
+DQN C1  C2   SING N N 2  
+DQN C1  C6   SING N N 3  
+DQN C2  C2M  SING N N 4  
+DQN C2  C3   DOUB N N 5  
+DQN C2M H2M1 SING N N 6  
+DQN C2M H2M2 SING N N 7  
+DQN C2M H2M3 SING N N 8  
+DQN C3  C3M  SING N N 9  
+DQN C3  C4   SING N N 10 
+DQN C3M H3M1 SING N N 11 
+DQN C3M H3M2 SING N N 12 
+DQN C3M H3M3 SING N N 13 
+DQN C4  O4   DOUB N N 14 
+DQN C4  C5   SING N N 15 
+DQN C5  C5M  SING N N 16 
+DQN C5  C6   DOUB N N 17 
+DQN C5M H5M1 SING N N 18 
+DQN C5M H5M2 SING N N 19 
+DQN C5M H5M3 SING N N 20 
+DQN C6  C6M  SING N N 21 
+DQN C6M H6M1 SING N N 22 
+DQN C6M H6M2 SING N N 23 
+DQN C6M H6M3 SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DQN SMILES           ACDLabs              10.04 "O=C1C(=C(C(=O)C(=C1C)C)C)C"                             
+DQN SMILES_CANONICAL CACTVS               3.341 "CC1=C(C)C(=O)C(=C(C)C1=O)C"                             
+DQN SMILES           CACTVS               3.341 "CC1=C(C)C(=O)C(=C(C)C1=O)C"                             
+DQN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=C(C(=O)C(=C(C1=O)C)C)C"                             
+DQN SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=C(C(=O)C(=C(C1=O)C)C)C"                             
+DQN InChI            InChI                1.03  "InChI=1S/C10H12O2/c1-5-6(2)10(12)8(4)7(3)9(5)11/h1-4H3" 
+DQN InChIKey         InChI                1.03  WAMKWBHYPYBEJY-UHFFFAOYSA-N                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DQN "SYSTEMATIC NAME" ACDLabs              10.04 2,3,5,6-tetramethylcyclohexa-2,5-diene-1,4-dione 
+DQN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,3,5,6-tetramethylcyclohexa-2,5-diene-1,4-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DQN "Create component"  1999-07-08 EBI  
+DQN "Modify descriptor" 2011-06-04 RCSB 
+# 

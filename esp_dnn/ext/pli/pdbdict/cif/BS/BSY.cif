@@ -1,0 +1,97 @@
+data_BSY
+# 
+_chem_comp.id                                    BSY 
+_chem_comp.name                                  "BISELENITE ION" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H O3 Se" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2014-01-15 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        127.966 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BSY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4CLY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BSY O1 O1 O  -1 1 N N N -9.996 -25.546 -3.236 -0.933 -1.179 -0.515 O1 BSY 1 
+BSY O2 O2 O  0  1 N N N -9.317 -24.274 -1.129 1.592  -0.239 -0.426 O2 BSY 2 
+BSY O3 O3 O  0  1 N N N -7.974 -26.729 -2.040 -0.554 1.389  -0.511 O3 BSY 3 
+BSY SE SE SE 0  0 N N N -9.378 -25.925 -1.756 -0.050 0.001  0.295  SE BSY 4 
+BSY H2 H2 H  0  1 N N N -9.641 -23.672 -1.789 2.266  0.363  -0.081 H2 BSY 5 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BSY O1 SE SING N N 1 
+BSY O2 SE SING N N 2 
+BSY O3 SE DOUB N N 3 
+BSY O2 H2 SING N N 4 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BSY SMILES           ACDLabs              12.01 "[O-][Se](=O)O"                            
+BSY InChI            InChI                1.03  "InChI=1S/H2O3Se/c1-4(2)3/h(H2,1,2,3)/p-1" 
+BSY InChIKey         InChI                1.03  MCAHWIHFGHIESP-UHFFFAOYSA-M                
+BSY SMILES_CANONICAL CACTVS               3.385 "O[Se]([O-])=O"                            
+BSY SMILES           CACTVS               3.385 "O[Se]([O-])=O"                            
+BSY SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "O[Se](=O)[O-]"                            
+BSY SMILES           "OpenEye OEToolkits" 1.9.2 "O[Se](=O)[O-]"                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BSY "SYSTEMATIC NAME" ACDLabs              12.01 "hydrogen selenite" 
+BSY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "hydrogen selenite" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BSY "Create component"  2014-01-15 EBI  
+BSY "Initial release"   2014-03-05 RCSB 
+BSY "Modify descriptor" 2014-09-05 RCSB 
+# 

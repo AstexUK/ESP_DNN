@@ -1,0 +1,130 @@
+data_MHO
+# 
+_chem_comp.id                                    MHO 
+_chem_comp.name                                  S-OXYMETHIONINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               MET 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        165.211 
+_chem_comp.one_letter_code                       M 
+_chem_comp.three_letter_code                     MHO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EK0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MHO N   N   N 0 1 N N N 16.148 5.104  -8.911 1.650  1.888  0.097  N   MHO 1  
+MHO CA  CA  C 0 1 N N S 15.753 4.054  -7.971 1.526  0.476  0.482  CA  MHO 2  
+MHO CB  CB  C 0 1 N N N 16.264 2.681  -8.427 0.283  -0.125 -0.176 CB  MHO 3  
+MHO CG  CG  C 0 1 N N N 17.597 2.026  -8.160 -0.969 0.557  0.380  CG  MHO 4  
+MHO SD  SD  S 0 1 N N S 17.469 0.287  -8.812 -2.443 -0.156 -0.401 SD  MHO 5  
+MHO CE  CE  C 0 1 N N N 16.159 -0.589 -7.982 -3.800 0.765  0.373  CE  MHO 6  
+MHO C   C   C 0 1 N N N 16.193 4.356  -6.540 2.750  -0.277 0.027  C   MHO 7  
+MHO O   O   O 0 1 N N N 15.553 3.955  -5.584 3.450  0.178  -0.845 O   MHO 8  
+MHO OXT OXT O 0 1 N Y N 17.304 5.070  -6.383 3.061  -1.455 0.592  OXT MHO 9  
+MHO OD1 OD1 O 0 1 N N N 19.140 0.360  -8.730 -2.545 -1.530 -0.055 OD1 MHO 10 
+MHO H   1HN H 0 1 N N N 15.808 6.016  -8.607 1.735  1.984  -0.903 H   MHO 11 
+MHO H2  2HN H 0 1 N Y N 15.847 4.888  -9.861 0.872  2.428  0.447  H2  MHO 12 
+MHO HA  HA  H 0 1 N N N 14.638 4.028  -7.967 1.436  0.401  1.566  HA  MHO 13 
+MHO HB2 1HB H 0 1 N N N 15.499 1.949  -8.075 0.332  0.029  -1.254 HB2 MHO 14 
+MHO HB3 2HB H 0 1 N N N 16.148 2.676  -9.536 0.240  -1.193 0.036  HB3 MHO 15 
+MHO HG2 1HG H 0 1 N N N 18.460 2.593  -8.580 -1.018 0.403  1.457  HG2 MHO 16 
+MHO HG3 2HG H 0 1 N N N 17.907 2.075  -7.090 -0.925 1.625  0.167  HG3 MHO 17 
+MHO HE1 1HE H 0 1 N N N 16.082 -1.630 -8.372 -3.686 1.828  0.161  HE1 MHO 18 
+MHO HE2 2HE H 0 1 N N N 16.281 -0.568 -6.874 -4.752 0.415  -0.027 HE2 MHO 19 
+MHO HE3 3HE H 0 1 N N N 15.187 -0.046 -8.050 -3.779 0.606  1.451  HE3 MHO 20 
+MHO HXT HXT H 0 1 N Y N 17.577 5.257  -5.492 3.855  -1.901 0.267  HXT MHO 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MHO N   CA  SING N N 1  
+MHO N   H   SING N N 2  
+MHO N   H2  SING N N 3  
+MHO CA  CB  SING N N 4  
+MHO CA  C   SING N N 5  
+MHO CA  HA  SING N N 6  
+MHO CB  CG  SING N N 7  
+MHO CB  HB2 SING N N 8  
+MHO CB  HB3 SING N N 9  
+MHO CG  SD  SING N N 10 
+MHO CG  HG2 SING N N 11 
+MHO CG  HG3 SING N N 12 
+MHO SD  CE  SING N N 13 
+MHO SD  OD1 DOUB N N 14 
+MHO CE  HE1 SING N N 15 
+MHO CE  HE2 SING N N 16 
+MHO CE  HE3 SING N N 17 
+MHO C   O   DOUB N N 18 
+MHO C   OXT SING N N 19 
+MHO OXT HXT SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MHO SMILES           ACDLabs              10.04 "O=C(O)C(N)CCS(=O)C"                                                             
+MHO InChI            InChI                1.03  "InChI=1S/C5H11NO3S/c1-10(9)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-,10-/m0/s1" 
+MHO InChIKey         InChI                1.03  QEFRNWWLZKMPFJ-MFXDVPHUSA-N                                                      
+MHO SMILES_CANONICAL CACTVS               3.385 "C[S@](=O)CC[C@H](N)C(O)=O"                                                      
+MHO SMILES           CACTVS               3.385 "C[S](=O)CC[CH](N)C(O)=O"                                                        
+MHO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "C[S@](=O)CC[C@@H](C(=O)O)N"                                                     
+MHO SMILES           "OpenEye OEToolkits" 1.7.5 "CS(=O)CCC(C(=O)O)N"                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MHO "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-amino-4-[(S)-methylsulfinyl]butanoic acid" 
+MHO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-[(S)-methylsulfinyl]butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MHO "Create component"   1999-07-08 RCSB 
+MHO "Modify descriptor"  2011-06-04 RCSB 
+MHO "Modify descriptor"  2012-01-05 RCSB 
+MHO "Modify coordinates" 2012-01-05 RCSB 
+# 

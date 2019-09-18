@@ -1,0 +1,118 @@
+data_HPV
+# 
+_chem_comp.id                                    HPV 
+_chem_comp.name                                  "2-oxo-3-(phosphonooxy)propanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Hydroxypyruvic acid phosphate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.041 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HPV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DDN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HPV C2   C2   C 0 1 N N N 17.711 47.487 -20.096 1.738  0.406  -0.016 C2   HPV 1  
+HPV O4P  O4P  O 0 1 N N N 14.853 45.810 -16.682 -2.488 -0.900 -1.297 O4P  HPV 2  
+HPV P    P    P 0 1 N N N 14.526 46.457 -18.045 -2.179 -0.058 0.040  P    HPV 3  
+HPV O2P  O2P  O 0 1 N N N 13.519 45.653 -18.891 -3.181 1.199  0.125  O2P  HPV 4  
+HPV O3P  O3P  O 0 1 N N N 14.270 47.969 -17.981 -2.372 -0.924 1.224  O3P  HPV 5  
+HPV O1P  O1P  O 0 1 N N N 15.895 46.389 -18.903 -0.658 0.470  0.003  O1P  HPV 6  
+HPV C3   C3   C 0 1 N N N 16.289 47.559 -19.603 0.470  -0.407 0.032  C3   HPV 7  
+HPV O3   O3   O 0 1 N N N 17.970 47.047 -21.199 1.681  1.612  -0.069 O3   HPV 8  
+HPV C1   C1   C 0 1 N N N 18.766 48.010 -19.245 3.063  -0.277 0.009  C1   HPV 9  
+HPV O1   O1   O 0 1 N N N 18.577 49.188 -18.872 3.120  -1.487 0.068  O1   HPV 10 
+HPV O2   O2   O 0 1 N N N 19.778 47.308 -18.929 4.195  0.449  -0.033 O2   HPV 11 
+HPV HO4P HO4P H 0 0 N N N 14.920 44.868 -16.786 -2.381 -0.395 -2.114 HO4P HPV 12 
+HPV HO2P HO2P H 0 0 N N N 12.736 45.488 -18.379 -4.117 0.956  0.151  HO2P HPV 13 
+HPV H3   H3   H 0 1 N N N 16.200 48.419 -18.922 0.434  -1.074 -0.829 H3   HPV 14 
+HPV H3A  H3A  H 0 1 N N N 15.634 47.661 -20.481 0.450  -0.995 0.949  H3A  HPV 15 
+HPV HO2  HO2  H 0 1 N N N 20.356 47.817 -18.373 5.030  -0.039 -0.015 HO2  HPV 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HPV C2  C3   SING N N 1  
+HPV C2  O3   DOUB N N 2  
+HPV C2  C1   SING N N 3  
+HPV O4P P    SING N N 4  
+HPV P   O2P  SING N N 5  
+HPV P   O3P  DOUB N N 6  
+HPV P   O1P  SING N N 7  
+HPV O1P C3   SING N N 8  
+HPV C1  O1   DOUB N N 9  
+HPV C1  O2   SING N N 10 
+HPV O4P HO4P SING N N 11 
+HPV O2P HO2P SING N N 12 
+HPV C3  H3   SING N N 13 
+HPV C3  H3A  SING N N 14 
+HPV O2  HO2  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HPV SMILES           ACDLabs              10.04 "O=P(O)(O)OCC(=O)C(=O)O"                                           
+HPV SMILES_CANONICAL CACTVS               3.341 "OC(=O)C(=O)CO[P](O)(O)=O"                                         
+HPV SMILES           CACTVS               3.341 "OC(=O)C(=O)CO[P](O)(O)=O"                                         
+HPV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)C(=O)O)OP(=O)(O)O"                                         
+HPV SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)C(=O)O)OP(=O)(O)O"                                         
+HPV InChI            InChI                1.03  "InChI=1S/C3H5O7P/c4-2(3(5)6)1-10-11(7,8)9/h1H2,(H,5,6)(H2,7,8,9)" 
+HPV InChIKey         InChI                1.03  LFLUCDOSQPJJBE-UHFFFAOYSA-N                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HPV "SYSTEMATIC NAME" ACDLabs              10.04 "2-oxo-3-(phosphonooxy)propanoic acid" 
+HPV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-oxo-3-phosphonooxy-propanoic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HPV "Create component"  2008-06-09 PDBJ 
+HPV "Modify descriptor" 2011-06-04 RCSB 
+# 

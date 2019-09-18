@@ -1,0 +1,96 @@
+data_XCC
+# 
+_chem_comp.id                                    XCC 
+_chem_comp.name                                  "FE(4)-NI(1)-S(4) CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe4 Ni S4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "C CLUSTER" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-12-20 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        410.333 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     XCC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1MJG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+XCC FE1 FE1 FE 0 0 N N N -13.814 67.139 32.487 -2.179 -1.040 0.097  FE1 XCC 1 
+XCC FE2 FE2 FE 0 0 N N N -12.141 69.628 30.894 1.689  -3.121 0.146  FE2 XCC 2 
+XCC FE3 FE3 FE 0 0 N N N -16.396 68.111 32.601 -1.408 1.921  0.093  FE3 XCC 3 
+XCC FE4 FE4 FE 0 0 N N N -15.199 67.464 30.091 0.681  -0.205 -0.225 FE4 XCC 4 
+XCC S1  S1  S  0 1 N N S -16.392 69.333 30.632 0.797  1.968  0.129  S1  XCC 5 
+XCC S2  S2  S  0 1 N N R -15.687 66.042 31.863 -1.151 0.271  -1.329 S2  XCC 6 
+XCC S4  S4  S  0 1 N N N -14.620 68.896 33.751 -3.250 0.820  0.616  S4  XCC 7 
+XCC S3  S3  S  0 1 N N R -12.995 67.946 30.449 -0.277 -2.157 0.135  S3  XCC 8 
+XCC NI  NI  NI 0 0 N N N -14.603 70.103 31.807 3.278  1.834  0.140  NI  XCC 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+XCC FE1 S2 SING N N 1  
+XCC FE1 S4 SING N N 2  
+XCC FE1 S3 SING N N 3  
+XCC FE2 S3 SING N N 4  
+XCC FE3 S1 SING N N 5  
+XCC FE3 S2 SING N N 6  
+XCC FE3 S4 SING N N 7  
+XCC FE4 S1 SING N N 8  
+XCC FE4 S2 SING N N 9  
+XCC FE4 S3 SING N N 10 
+XCC S1  NI SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+XCC InChI            InChI                1.02b "InChI=1/4Fe.Ni.4S/rFe4NiS4/c1-7-2-6-3-8(2)4(7)9(3)5" 
+XCC InChIKey         InChI                1.02b QGLWBXDZIHZONR-ODZXJFGOAP                             
+XCC SMILES_CANONICAL CACTVS               3.341 "[Fe]S|1[Fe]|2S[Fe]3|S([Ni])[Fe]|1S|23"               
+XCC SMILES           CACTVS               3.341 "[Fe]S|1[Fe]|2S[Fe]3|S([Ni])[Fe]|1S|23"               
+XCC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "S1[Fe]2[S@@]([Fe]3[S@@]2[Fe]1[S@]3[Ni])[Fe]"         
+XCC SMILES           "OpenEye OEToolkits" 1.5.0 "S1[Fe]2[S]([Fe]3[S]2[Fe]1[S]3[Ni])[Fe]"              
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+XCC "Create component" 2002-12-20 PDBJ 
+# 

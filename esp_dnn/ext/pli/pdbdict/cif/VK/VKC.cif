@@ -1,0 +1,118 @@
+data_VKC
+# 
+_chem_comp.id                                    VKC 
+_chem_comp.name                                  "(2-hydroxyethoxy)acetic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-10-29 
+_chem_comp.pdbx_modified_date                    2014-01-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        120.104 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VKC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4CCW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VKC C    C    C 0 1 N N N 35.593 8.718  13.699 -1.980 -0.126 0.000  C    VKC 1  
+VKC O    O    O 0 1 N N N 35.326 9.265  12.608 -1.778 -1.267 0.344  O    VKC 2  
+VKC CA   CA   C 0 1 N N N 35.248 7.258  13.883 -0.826 0.832  -0.149 CA   VKC 3  
+VKC CD   CD   C 0 1 N N N 32.754 5.062  12.526 2.798  0.166  0.423  CD   VKC 4  
+VKC CG   CG   C 0 1 N N N 34.199 5.559  12.580 1.557  0.984  0.060  CG   VKC 5  
+VKC OAD  OAD  O 0 1 N N N 34.192 6.918  12.990 0.394  0.160  0.170  OAD  VKC 6  
+VKC OE1  OE1  O 0 1 N N N 32.683 3.681  12.915 2.980  -0.875 -0.539 OE1  VKC 7  
+VKC OXT  OXT  O 0 1 N N N 36.131 9.339  14.641 -3.232 0.286  -0.255 OXT  VKC 8  
+VKC HA   HA   H 0 1 N N N 36.131 6.639  13.664 -0.785 1.193  -1.176 HA   VKC 9  
+VKC HAA  HAA  H 0 1 N N N 34.926 7.082  14.920 -0.965 1.675  0.528  HAA  VKC 10 
+VKC HD   HD   H 0 1 N N N 32.138 5.663  13.211 3.673  0.816  0.425  HD   VKC 11 
+VKC HDA  HDA  H 0 1 N N N 32.372 5.169  11.500 2.668  -0.272 1.412  HDA  VKC 12 
+VKC HG   HG   H 0 1 N N N 34.772 4.957  13.300 1.468  1.831  0.741  HG   VKC 13 
+VKC HGA  HGA  H 0 1 N N N 34.658 5.474  11.584 1.648  1.349  -0.963 HGA  VKC 14 
+VKC HOE1 HOE1 H 0 0 N N N 31.781 3.387  12.877 3.750  -1.434 -0.372 HOE1 VKC 15 
+VKC HXT  HXT  H 0 1 N N N 36.284 10.240 14.381 -3.939 -0.366 -0.149 HXT  VKC 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VKC C   O    DOUB N N 1  
+VKC C   CA   SING N N 2  
+VKC C   OXT  SING N N 3  
+VKC CA  OAD  SING N N 4  
+VKC CD  CG   SING N N 5  
+VKC CD  OE1  SING N N 6  
+VKC CG  OAD  SING N N 7  
+VKC CA  HA   SING N N 8  
+VKC CA  HAA  SING N N 9  
+VKC CD  HD   SING N N 10 
+VKC CD  HDA  SING N N 11 
+VKC CG  HG   SING N N 12 
+VKC CG  HGA  SING N N 13 
+VKC OE1 HOE1 SING N N 14 
+VKC OXT HXT  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VKC SMILES           ACDLabs              12.01 "[O-]C(=O)COCCO"                                         
+VKC InChI            InChI                1.03  "InChI=1S/C4H8O4/c5-1-2-8-3-4(6)7/h5H,1-3H2,(H,6,7)/p-1" 
+VKC InChIKey         InChI                1.03  VDNMIIDPBBCMTM-UHFFFAOYSA-M                              
+VKC SMILES_CANONICAL CACTVS               3.385 "OCCOCC(O)=O"                                            
+VKC SMILES           CACTVS               3.385 "OCCOCC(O)=O"                                            
+VKC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C(COCC(=O)O)O"                                          
+VKC SMILES           "OpenEye OEToolkits" 1.7.6 "C(COCC(=O)O)O"                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VKC "SYSTEMATIC NAME" ACDLabs              12.01 "(2-hydroxyethoxy)acetate"           
+VKC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-(2-hydroxyethyloxy)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VKC "Create component" 2013-10-29 EBI  
+VKC "Initial release"  2014-01-22 RCSB 
+# 

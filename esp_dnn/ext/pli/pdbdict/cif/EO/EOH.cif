@@ -1,0 +1,104 @@
+data_EOH
+# 
+_chem_comp.id                                    EOH 
+_chem_comp.name                                  ETHANOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         EOX 
+_chem_comp.formula_weight                        46.068 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EOH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EOH C1  C1  C 0 1 N N N 15.212 49.198 7.491 0.007  -0.569 0.000  C1  EOH 1 
+EOH C2  C2  C 0 1 N N N 16.069 50.386 7.104 -1.285 0.250  -0.000 C2  EOH 2 
+EOH O   O   O 0 1 N N N 15.861 48.185 8.256 1.130  0.315  -0.000 O   EOH 3 
+EOH H11 H11 H 0 1 N N N 14.375 49.579 8.094 0.039  -1.197 0.890  H11 EOH 4 
+EOH H12 H12 H 0 1 N N N 14.858 48.731 6.560 0.039  -1.197 -0.890 H12 EOH 5 
+EOH H21 H21 H 0 1 N N N 15.467 51.098 6.520 -1.317 0.878  0.890  H21 EOH 6 
+EOH H22 H22 H 0 1 N N N 16.442 50.880 8.013 -1.317 0.878  -0.890 H22 EOH 7 
+EOH H23 H23 H 0 1 N N N 16.920 50.042 6.498 -2.142 -0.424 0.000  H23 EOH 8 
+EOH HO  HO  H 0 1 N N N 15.244 47.488 8.447 1.986  -0.137 0.000  HO  EOH 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EOH C1 C2  SING N N 1 
+EOH C1 O   SING N N 2 
+EOH C1 H11 SING N N 3 
+EOH C1 H12 SING N N 4 
+EOH C2 H21 SING N N 5 
+EOH C2 H22 SING N N 6 
+EOH C2 H23 SING N N 7 
+EOH O  HO  SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EOH SMILES           ACDLabs              11.02 OCC                               
+EOH SMILES_CANONICAL CACTVS               3.352 CCO                               
+EOH SMILES           CACTVS               3.352 CCO                               
+EOH SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CCO                               
+EOH SMILES           "OpenEye OEToolkits" 1.7.0 CCO                               
+EOH InChI            InChI                1.03  InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3 
+EOH InChIKey         InChI                1.03  LFQSCWFLJHTTHZ-UHFFFAOYSA-N       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EOH "SYSTEMATIC NAME" ACDLabs              11.02 ethanol 
+EOH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 ethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EOH "Create component"  1999-07-08 RCSB 
+EOH "Modify descriptor" 2011-06-04 RCSB 
+# 

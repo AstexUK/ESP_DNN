@@ -1,0 +1,120 @@
+data_5BR
+# 
+_chem_comp.id                                    5BR 
+_chem_comp.name                                  1-BROMOPENTANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H11 Br" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-11-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        151.045 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     5BR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XVC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+5BR BR1 BR1 BR 0 0 N N N 79.475 80.188 86.161 0.090  0.000  -1.989 BR1 5BR 1  
+5BR C1  C1  C  0 1 N N N 81.271 80.478 86.742 -0.802 0.000  -0.237 C1  5BR 2  
+5BR C2  C2  C  0 1 N N N 81.801 81.742 86.044 0.250  0.000  0.872  C2  5BR 3  
+5BR C3  C3  C  0 1 N N N 83.256 82.090 86.427 -0.444 0.000  2.235  C3  5BR 4  
+5BR C4  C4  C  0 1 N N N 84.036 82.803 85.304 0.609  0.000  3.344  C4  5BR 5  
+5BR C5  C5  C  0 1 N N N 85.215 83.694 85.724 -0.085 0.000  4.707  C5  5BR 6  
+5BR H11 1H1 H  0 1 N N N 81.925 79.590 86.579 -1.425 -0.890 -0.147 H11 5BR 7  
+5BR H12 2H1 H  0 1 N N N 81.362 80.529 87.852 -1.425 0.890  -0.147 H12 5BR 8  
+5BR H21 1H2 H  0 1 N N N 81.125 82.609 86.230 0.873  0.890  0.781  H21 5BR 9  
+5BR H22 2H2 H  0 1 N N N 81.693 81.657 84.938 0.873  -0.890 0.781  H22 5BR 10 
+5BR H31 1H3 H  0 1 N N N 83.802 81.180 86.770 -1.067 -0.890 2.325  H31 5BR 11 
+5BR H32 2H3 H  0 1 N N N 83.284 82.688 87.367 -1.067 0.890  2.325  H32 5BR 12 
+5BR H41 1H4 H  0 1 N N N 83.328 83.396 84.680 1.231  0.890  3.254  H41 5BR 13 
+5BR H42 2H4 H  0 1 N N N 84.387 82.050 84.561 1.231  -0.890 3.254  H42 5BR 14 
+5BR H51 1H5 H  0 1 N N N 85.923 83.101 86.349 0.664  0.000  5.498  H51 5BR 15 
+5BR H52 2H5 H  0 1 N N N 85.779 84.210 84.912 -0.708 0.890  4.798  H52 5BR 16 
+5BR H53 3H5 H  0 1 N N N 84.864 84.447 86.467 -0.708 -0.890 4.798  H53 5BR 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+5BR BR1 C1  SING N N 1  
+5BR C1  C2  SING N N 2  
+5BR C1  H11 SING N N 3  
+5BR C1  H12 SING N N 4  
+5BR C2  C3  SING N N 5  
+5BR C2  H21 SING N N 6  
+5BR C2  H22 SING N N 7  
+5BR C3  C4  SING N N 8  
+5BR C3  H31 SING N N 9  
+5BR C3  H32 SING N N 10 
+5BR C4  C5  SING N N 11 
+5BR C4  H41 SING N N 12 
+5BR C4  H42 SING N N 13 
+5BR C5  H51 SING N N 14 
+5BR C5  H52 SING N N 15 
+5BR C5  H53 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+5BR SMILES           ACDLabs              10.04 BrCCCCC                                  
+5BR SMILES_CANONICAL CACTVS               3.341 CCCCCBr                                  
+5BR SMILES           CACTVS               3.341 CCCCCBr                                  
+5BR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCCBr                                  
+5BR SMILES           "OpenEye OEToolkits" 1.5.0 CCCCCBr                                  
+5BR InChI            InChI                1.03  InChI=1S/C5H11Br/c1-2-3-4-5-6/h2-5H2,1H3 
+5BR InChIKey         InChI                1.03  YZWKKMVJZFACSU-UHFFFAOYSA-N              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+5BR "SYSTEMATIC NAME" ACDLabs              10.04 1-bromopentane 
+5BR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-bromopentane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+5BR "Create component"  2004-11-03 RCSB 
+5BR "Modify descriptor" 2011-06-04 RCSB 
+# 

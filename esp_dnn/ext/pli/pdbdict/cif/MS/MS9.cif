@@ -1,0 +1,128 @@
+data_MS9
+# 
+_chem_comp.id                                    MS9 
+_chem_comp.name                                  "methyl 2-amino-4-chlorobenzoate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 Cl N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-05-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.608 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MS9 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3MS9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MS9 CL1  CL1  CL 0 0 N N N 0.727  59.339 30.665 -3.826 -0.306 -0.009 CL1  MS9 1  
+MS9 C2   C2   C  0 1 Y N N -1.009 59.587 30.649 -2.093 -0.210 0.001  C2   MS9 2  
+MS9 C3   C3   C  0 1 Y N N -1.535 60.768 31.130 -1.474 1.025  -0.024 C3   MS9 3  
+MS9 C5   C5   C  0 1 Y N N -2.946 61.021 31.133 -0.088 1.108  -0.016 C5   MS9 4  
+MS9 C6   C6   C  0 1 Y N N -3.814 59.985 30.673 0.679  -0.068 0.016  C6   MS9 5  
+MS9 C7   C7   C  0 1 Y N N -3.254 58.733 30.247 0.037  -1.310 0.041  C7   MS9 6  
+MS9 C9   C9   C  0 1 Y N N -1.840 58.537 30.177 -1.338 -1.373 0.039  C9   MS9 7  
+MS9 C11  C11  C  0 1 N N N -5.318 60.128 30.722 2.149  0.006  0.024  C11  MS9 8  
+MS9 O12  O12  O  0 1 N N N -5.787 61.206 31.188 2.703  1.084  0.111  O12  MS9 9  
+MS9 O13  O13  O  0 1 N N N -6.054 59.004 30.385 2.882  -1.122 -0.065 O13  MS9 10 
+MS9 C14  C14  C  0 1 N N N -7.453 59.367 30.302 4.326  -0.973 -0.051 C14  MS9 11 
+MS9 N18  N18  N  0 1 N N N -3.382 62.227 31.619 0.537  2.348  -0.042 N18  MS9 12 
+MS9 H3   H3   H  0 1 N N N -0.865 61.523 31.515 -2.069 1.926  -0.049 H3   MS9 13 
+MS9 H7   H7   H  0 1 N N N -3.915 57.923 29.974 0.620  -2.219 0.066  H7   MS9 14 
+MS9 H9   H9   H  0 1 N N N -1.420 57.625 29.780 -1.832 -2.333 0.062  H9   MS9 15 
+MS9 H14  H14  H  0 1 N N N -8.047 58.481 30.035 4.793  -1.955 -0.129 H14  MS9 16 
+MS9 H14A H14A H  0 0 N N N -7.790 59.754 31.275 4.635  -0.356 -0.895 H14A MS9 17 
+MS9 H14B H14B H  0 0 N N N -7.585 60.143 29.533 4.633  -0.497 0.880  H14B MS9 18 
+MS9 HN18 HN18 H  0 0 N N N -4.380 62.269 31.562 0.009  3.155  -0.146 HN18 MS9 19 
+MS9 HN1A HN1A H  0 0 N N N -3.098 62.324 32.573 1.501  2.407  0.045  HN1A MS9 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MS9 C2  CL1  SING N N 1  
+MS9 C9  C2   DOUB Y N 2  
+MS9 C2  C3   SING Y N 3  
+MS9 C3  C5   DOUB Y N 4  
+MS9 C3  H3   SING N N 5  
+MS9 C6  C5   SING Y N 6  
+MS9 C5  N18  SING N N 7  
+MS9 C7  C6   DOUB Y N 8  
+MS9 C6  C11  SING N N 9  
+MS9 C9  C7   SING Y N 10 
+MS9 C7  H7   SING N N 11 
+MS9 C9  H9   SING N N 12 
+MS9 O13 C11  SING N N 13 
+MS9 C11 O12  DOUB N N 14 
+MS9 C14 O13  SING N N 15 
+MS9 C14 H14  SING N N 16 
+MS9 C14 H14A SING N N 17 
+MS9 C14 H14B SING N N 18 
+MS9 N18 HN18 SING N N 19 
+MS9 N18 HN1A SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MS9 SMILES           ACDLabs              12.01 "Clc1cc(c(C(=O)OC)cc1)N"                                          
+MS9 SMILES_CANONICAL CACTVS               3.370 "COC(=O)c1ccc(Cl)cc1N"                                            
+MS9 SMILES           CACTVS               3.370 "COC(=O)c1ccc(Cl)cc1N"                                            
+MS9 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "COC(=O)c1ccc(cc1N)Cl"                                            
+MS9 SMILES           "OpenEye OEToolkits" 1.7.0 "COC(=O)c1ccc(cc1N)Cl"                                            
+MS9 InChI            InChI                1.03  "InChI=1S/C8H8ClNO2/c1-12-8(11)6-3-2-5(9)4-7(6)10/h2-4H,10H2,1H3" 
+MS9 InChIKey         InChI                1.03  YPSSCICDVDOEAI-UHFFFAOYSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MS9 "SYSTEMATIC NAME" ACDLabs              12.01 "methyl 2-amino-4-chlorobenzoate"   
+MS9 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "methyl 2-azanyl-4-chloro-benzoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MS9 "Create component"     2010-05-05 RCSB 
+MS9 "Modify aromatic_flag" 2011-06-04 RCSB 
+MS9 "Modify descriptor"    2011-06-04 RCSB 
+# 
