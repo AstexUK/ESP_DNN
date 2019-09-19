@@ -102,6 +102,10 @@ We recommend using [NGL viewer](http://nglviewer.org/ngl/)
 <br>United Kingdom
 </p>
 
+# Publication
+A paper describing ESP_DNN has been accepted and a link to the paper will be added as soon as it is published.
+
+
 # Acknowledgements
 This work was funded by a postdoctoral fellowship awarded to PCR under the “Sustaining Innovation Postdoctoral Training Program” at Astex Pharmaceuticals. We would like to thank Andreas Bender and Richard Lewis of the Chemistry Department at Cambridge University for getting us started with model training and helpful discussions. We thank the members of the computational chemistry and informatics department for helpful discussions. In particular we thank Gianni Chessari for discussions around XIAP SAR, Paul Mortenson for assisting us setting up Q-chem calculations, and Chris Murray and Richard Hall for useful feedback and for reading the manuscript.
 
