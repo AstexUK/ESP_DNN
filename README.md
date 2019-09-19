@@ -10,7 +10,6 @@ model, trained on ESP surfaces derived using DFT calculations for ~100,000
 molecules, is used. For proteins, parametrized charges for amino acids are
 used, which are fully compatible with the ligand ESP surfaces generated using
 the DNN model.
-See [this publication](TOADD) for more details.
 
 # System requirements
 This program will run only on 64 bit linux operating systems.
