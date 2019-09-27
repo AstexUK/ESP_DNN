@@ -11,6 +11,8 @@ molecules, is used. For proteins, parametrized charges for amino acids are
 used, which are fully compatible with the ligand ESP surfaces generated using
 the DNN model.
 
+The details about methods and validation can be cound in this [paper](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.9b01129)
+
 # System requirements
 This program will run only on 64 bit linux operating systems.
 
@@ -103,7 +105,7 @@ We recommend using [NGL viewer](http://nglviewer.org/ngl/)
 </p>
 
 # Publication
-A paper describing ESP_DNN has been accepted and a link to the paper will be added as soon as it is published.
+[Practical High-Quality Electrostatic Potential Surfaces for Drug Discovery Using a Graph-Convolutional Deep Neural Network](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.9b01129)
 
 
 # Acknowledgements
