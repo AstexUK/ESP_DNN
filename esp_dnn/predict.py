@@ -355,6 +355,20 @@ def protein_pdb_file2pqr_file(protein_file, output_file):
                                 "PLI stdout:\n%sPLI stderr:\n%s" % (out, err))
 
 
+def pli_molfile2pdbblock(input_file):
+    command_args = [get_pli(), "-mode", "preplig", "-ligand",
+                    input_file, "-ln", "output", "-lo", "pdb"]
+    with TemporaryDirectory() as workdir:
+        sp = subprocess.Popen(
+            command_args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd=workdir)
+        out, err = sp.communicate()
+        if not sp.returncode:
+            with open(os.path.join(workdir, "output.pdb")) as f:
+                return f.read()
+        log.warn((out, err))
+        return None
+
+
 def run(mode, input_dir, output_dir, stop_on_error):
     log.info("Ruuning in %s mode" % mode)
     if not os.path.isdir(input_dir):
@@ -365,9 +379,21 @@ def run(mode, input_dir, output_dir, stop_on_error):
     log.info("Input dir is %s" % input_dir)
     log.info("Output dir is %s" % output_dir)
 
+    # convert ligand mol files to pdb files
+    if mode == "ligand":
+        for mol_file in glob.glob(os.path.join(input_dir, "*.mol")):
+            mol = Chem.MolFromMolFile(mol_file, removeHs=False)
+            if mol is None:
+                log.warn("MOL2PDB: Error converting %s" % mol_file)
+                continue
+            pdb_file = os.path.join(output_dir, os.path.basename(mol_file) + ".pdb")
+            log.info("MOL2PDB: %s -> %s" % (mol_file, pdb_file))
+            Chem.MolToPDBFile(mol, pdb_file)
+
     all_files = glob.glob(os.path.join(input_dir, "*.pdb"))
+
     if not len(all_files):
-        log.error("No PDB files found in %s directory" % input_dir)
+        log.error("No input files found in %s directory" % input_dir)
         return
     if mode == "ligand":
         log.info("Loading the trained model from %s directory" %
