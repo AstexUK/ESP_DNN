@@ -91,6 +91,32 @@ We recommend using [NGL viewer](http://nglviewer.org/ngl/)
     * surfaceType = av
     * radiusType = explicit
     * colorScheme = electrostatic
+    
+You can also visualize the surface in a [Jupyter Notebook](https://jupyter.org/) using the [nglview](https://github.com/arose/nglview) plugin:
+* [Setup Jupyter](https://jupyter.org/install) and install the nglview package
+* Within a notebook
+
+```python
+import nglview as nv
+
+pqrPath = "/path/to/esp_dnn_output.pqr"
+repr = [
+    {"type": "licorice", "params": {}},
+    {"type": "surface", "params":{
+        "surfaceType": "av",
+        "radiusType": "explicit",
+        "colorScheme": "electrostatic",
+        "scaleFactor": 4.0,
+        "opacity": 0.5,
+        "colorDomain": [-50, 50],   # potential range in kcal/mol
+        "colorScale": 'rwb'         # Try 'rainbow', or any other scheme from ngl
+    }}
+]
+view = nv.show_file(pqrPath)
+view.representations = repr
+view
+```
+![nglview-example](aux/nglview-example.png)
 
 # Authors
 * Prakash Chandra Rathi
