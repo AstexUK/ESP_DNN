@@ -1,0 +1,103 @@
+ATOM      1   C1 MOL     1     -15.275 -21.677  -0.326  0.00  0.00           C  
+ATOM      2   C2 MOL     1     -15.812 -20.330  -0.791  0.00  0.00           C  
+ATOM      3   C3 MOL     1     -15.805 -20.179  -2.314  0.00  0.00           C  
+ATOM      4   N4 MOL     1     -16.258 -18.847  -2.726  0.00  0.00           N  
+ATOM      5   C5 MOL     1     -16.400 -18.720  -4.184  0.00  0.00           C  
+ATOM      6   C6 MOL     1     -15.165 -19.051  -4.996  0.00  0.00           C  
+ATOM      7   O7 MOL     1     -14.103 -19.285  -4.440  0.00  0.00           O  
+ATOM      8   N8 MOL     1     -15.287 -19.089  -6.355  0.00  0.00           N  
+ATOM      9   C9 MOL     1     -16.572 -18.813  -7.051  0.00  0.00           C  
+ATOM     10  C10 MOL     1     -16.297 -19.150  -8.527  0.00  0.00           C  
+ATOM     11  C11 MOL     1     -14.823 -19.434  -8.570  0.00  0.00           C  
+ATOM     12  C12 MOL     1     -14.014 -19.717  -9.660  0.00  0.00           C  
+ATOM     13  C13 MOL     1     -12.663 -19.954  -9.474  0.00  0.00           C  
+ATOM     14  C14 MOL     1     -12.120 -19.909  -8.204  0.00  0.00           C  
+ATOM     15  C15 MOL     1     -12.923 -19.630  -7.114  0.00  0.00           C  
+ATOM     16  C16 MOL     1     -14.273 -19.391  -7.299  0.00  0.00           C  
+ATOM     17  C17 MOL     1     -15.374 -17.823  -2.167  0.00  0.00           C  
+ATOM     18  C18 MOL     1     -15.392 -17.878  -0.650  0.00  0.00           C  
+ATOM     19  N19 MOL     1     -14.981 -19.230  -0.192  0.00  0.00           N1+
+ATOM     34 CL34 MOL     1     -10.430 -20.205  -7.979  0.00  0.00          CL  
+ATOM     35   Hh MOL     1     -15.384 -22.340  -1.039  0.00  0.00           H  
+ATOM     36   Hh MOL     1     -15.769 -21.974   0.466  0.00  0.00           H  
+ATOM     37   Hh MOL     1     -14.326 -21.597  -0.101  0.00  0.00           H  
+ATOM     38   Hh MOL     1     -16.726 -20.200  -0.446  0.00  0.00           H  
+ATOM     39   Hh MOL     1     -16.392 -20.854  -2.711  0.00  0.00           H  
+ATOM     40   Hh MOL     1     -14.903 -20.331  -2.647  0.00  0.00           H  
+ATOM     41   Hh MOL     1     -16.666 -17.804  -4.395  0.00  0.00           H  
+ATOM     42   Hh MOL     1     -17.118 -19.308  -4.477  0.00  0.00           H  
+ATOM     43   Hh MOL     1     -16.827 -17.874  -6.940  0.00  0.00           H  
+ATOM     44   Hh MOL     1     -17.280 -19.376  -6.690  0.00  0.00           H  
+ATOM     45   Hh MOL     1     -16.523 -18.395  -9.108  0.00  0.00           H  
+ATOM     46   Hh MOL     1     -16.811 -19.931  -8.813  0.00  0.00           H  
+ATOM     47   Hh MOL     1     -14.387 -19.747 -10.530  0.00  0.00           H  
+ATOM     48   Hh MOL     1     -12.110 -20.146 -10.218  0.00  0.00           H  
+ATOM     49   Hh MOL     1     -12.553 -19.598  -6.246  0.00  0.00           H  
+ATOM     50   Hh MOL     1     -15.668 -16.942  -2.467  0.00  0.00           H  
+ATOM     51   Hh MOL     1     -14.464 -17.969  -2.488  0.00  0.00           H  
+ATOM     52   Hh MOL     1     -16.292 -17.690  -0.316  0.00  0.00           H  
+ATOM     53   Hh MOL     1     -14.773 -17.220  -0.281  0.00  0.00           H  
+ATOM     54   Hh MOL     1     -15.067 -19.252   0.814  0.00  0.00           H  
+ATOM     55   Hh MOL     1     -14.014 -19.379  -0.441  0.00  0.00           H  
+CONECT    1    2
+CONECT    2    1    3   19
+CONECT    3    2    4
+CONECT    4    3    5   17
+CONECT    5    4    6
+CONECT    6    5    7    7    8
+CONECT    7    6    6
+CONECT    8    6    9   16
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12   12   16
+CONECT   12   11   11   13
+CONECT   13   12   14   14
+CONECT   14   13   13   15   34
+CONECT   15   14   16   16
+CONECT   16    8   11   15   15
+CONECT   17    4   18
+CONECT   18   17   19
+CONECT   19    2   18
+CONECT   34   14
+CONECT    1   35
+CONECT   35    1
+CONECT    1   36
+CONECT   36    1
+CONECT    1   37
+CONECT   37    1
+CONECT    2   38
+CONECT   38    2
+CONECT    3   39
+CONECT   39    3
+CONECT    3   40
+CONECT   40    3
+CONECT    5   41
+CONECT   41    5
+CONECT    5   42
+CONECT   42    5
+CONECT    9   43
+CONECT   43    9
+CONECT    9   44
+CONECT   44    9
+CONECT   10   45
+CONECT   45   10
+CONECT   10   46
+CONECT   46   10
+CONECT   12   47
+CONECT   47   12
+CONECT   13   48
+CONECT   48   13
+CONECT   15   49
+CONECT   49   15
+CONECT   17   50
+CONECT   50   17
+CONECT   17   51
+CONECT   51   17
+CONECT   18   52
+CONECT   52   18
+CONECT   18   53
+CONECT   53   18
+CONECT   19   54
+CONECT   54   19
+CONECT   19   55
+CONECT   55   19
