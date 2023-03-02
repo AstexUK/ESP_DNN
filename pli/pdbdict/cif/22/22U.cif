@@ -1,0 +1,193 @@
+data_22U
+# 
+_chem_comp.id                                    22U 
+_chem_comp.name                                  "D-phenylalanyl-N-(3-chlorobenzyl)-L-prolinamide" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C21 H24 Cl N3 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(2S)-1-[(2R)-2-amino-3-phenyl-propanoyl]-N-[(3-chlorophenyl)methyl]pyrrolidine-2-carboxamide" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-11-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        385.887 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     22U 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZC9 
+_chem_comp.pdbx_subcomponent_list                "DPN PRO C2A" 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+22U N1   N1   N  0 1 N N N 16.305 -15.714 23.232 3.882  1.888  0.838  N   DPN 1  
+22U C2   C2   C  0 1 N N R 17.627 -15.016 23.287 3.481  0.580  0.303  CA  DPN 2  
+22U C3   C3   C  0 1 N N N 17.449 -13.609 22.727 2.066  0.658  -0.208 C   DPN 3  
+22U O1   O1   O  0 1 N N N 16.468 -12.982 23.144 1.576  1.735  -0.476 O   DPN 4  
+22U C1   C1   C  0 1 N N N 18.165 -14.964 24.731 4.417  0.189  -0.842 CB  DPN 5  
+22U C16  C16  C  0 1 Y N N 19.564 -14.330 24.808 5.811  -0.009 -0.307 CG  DPN 6  
+22U C17  C17  C  0 1 Y N N 20.664 -14.853 24.110 6.211  -1.255 0.137  CD1 DPN 7  
+22U C21  C21  C  0 1 Y N N 19.744 -13.180 25.586 6.693  1.055  -0.265 CD2 DPN 8  
+22U C18  C18  C  0 1 Y N N 21.917 -14.234 24.232 7.490  -1.437 0.628  CE1 DPN 9  
+22U C20  C20  C  0 1 Y N N 20.996 -12.589 25.757 7.971  0.875  0.230  CE2 DPN 10 
+22U C19  C19  C  0 1 Y N N 22.073 -13.083 24.991 8.370  -0.371 0.675  CZ  DPN 11 
+22U N2   N2   N  0 1 N N N 18.133 -13.163 21.657 1.344  -0.469 -0.368 N   PRO 12 
+22U C7   C7   C  0 1 N N S 17.836 -11.846 21.112 -0.043 -0.537 -0.851 CA  PRO 13 
+22U C8   C8   C  0 1 N N N 16.402 -11.750 20.634 -0.951 0.208  0.093  C   PRO 14 
+22U O2   O2   O  0 1 N N N 15.885 -12.672 20.014 -0.492 0.747  1.078  O   PRO 15 
+22U C6   C6   C  0 1 N N N 18.824 -11.777 19.917 -0.439 -2.028 -0.897 CB  PRO 16 
+22U C5   C5   C  0 1 N N N 19.973 -12.730 20.352 0.931  -2.752 -0.969 CG  PRO 17 
+22U C4   C4   C  0 1 N N N 19.207 -13.915 20.981 1.813  -1.837 -0.083 CD  PRO 18 
+22U N3   N3   N  0 1 N N N 15.726 -10.608 20.932 -2.274 0.275  -0.156 N   C2A 19 
+22U C9   C9   C  0 1 N N N 14.369 -10.443 20.367 -3.157 1.000  0.762  C   C2A 20 
+22U C10  C10  C  0 1 Y N N 13.341 -10.361 21.513 -4.575 0.924  0.259  C1  C2A 21 
+22U C15  C15  C  0 1 Y N N 12.444 -11.403 21.672 -5.058 1.897  -0.597 C2  C2A 22 
+22U C14  C14  C  0 1 Y N N 11.512 -11.390 22.701 -6.357 1.826  -1.063 C3  C2A 23 
+22U C13  C13  C  0 1 Y N N 11.438 -10.295 23.561 -7.178 0.788  -0.665 C4  C2A 24 
+22U C12  C12  C  0 1 Y N N 12.335 -9.234  23.410 -6.698 -0.183 0.195  C5  C2A 25 
+22U C11  C11  C  0 1 Y N N 13.288 -9.259  22.386 -5.395 -0.114 0.657  C6  C2A 26 
+22U CL1  CL1  CL 0 0 N N N 12.241 -7.883  24.526 -7.728 -1.488 0.695  CL8 C2A 27 
+22U HN1  HN1  H  0 1 N N N 15.978 -15.735 22.287 4.804  1.846  1.245  H   DPN 28 
+22U HN1A HN1A H  0 0 N N N 16.408 -16.650 23.570 3.834  2.600  0.124  H2  DPN 29 
+22U H2   H2   H  0 1 N N N 18.363 -15.569 22.685 3.541  -0.169 1.093  HA  DPN 30 
+22U H1   H1   H  0 1 N N N 17.474 -14.363 25.341 4.067  -0.738 -1.297 HB2 DPN 31 
+22U H1A  H1A  H  0 1 N N N 18.224 -15.991 25.120 4.424  0.981  -1.592 HB3 DPN 32 
+22U H17  H17  H  0 1 N N N 20.547 -15.725 23.484 5.524  -2.088 0.100  HD1 DPN 33 
+22U H21  H21  H  0 1 N N N 18.886 -12.736 26.069 6.382  2.028  -0.616 HD2 DPN 34 
+22U H18  H18  H  0 1 N N N 22.772 -14.659 23.728 7.802  -2.411 0.975  HE1 DPN 35 
+22U H20  H20  H  0 1 N N N 21.137 -11.777 26.455 8.658  1.707  0.267  HE2 DPN 36 
+22U H19  H19  H  0 1 N N N 23.020 -12.564 24.995 9.370  -0.513 1.059  HZ  DPN 37 
+22U H7   H7   H  0 1 N N N 17.945 -11.029 21.841 -0.109 -0.106 -1.850 HA  PRO 38 
+22U H6   H6   H  0 1 N N N 19.188 -10.752 19.751 -1.036 -2.243 -1.784 HB2 PRO 39 
+22U H6A  H6A  H  0 1 N N N 18.352 -12.111 18.981 -0.977 -2.309 0.008  HB3 PRO 40 
+22U H5   H5   H  0 1 N N N 20.651 -12.251 21.074 1.304  -2.781 -1.993 HG2 PRO 41 
+22U H5A  H5A  H  0 1 N N N 20.587 -13.048 19.497 0.865  -3.756 -0.551 HG3 PRO 42 
+22U H4   H4   H  0 1 N N N 19.822 -14.508 21.674 2.863  -1.943 -0.355 HD2 PRO 43 
+22U H4A  H4A  H  0 1 N N N 18.830 -14.630 20.235 1.667  -2.076 0.971  HD3 PRO 44 
+22U HN3  HN3  H  0 1 N N N 16.133 -9.904  21.514 -2.641 -0.156 -0.943 HN1 C2A 45 
+22U H9   H9   H  0 1 N N N 14.329 -9.518  19.772 -3.098 0.550  1.753  HC1 C2A 46 
+22U H9A  H9A  H  0 1 N N N 14.133 -11.303 19.724 -2.846 2.043  0.817  HC2 C2A 47 
+22U H15  H15  H  0 1 N N N 12.469 -12.237 20.987 -4.418 2.711  -0.905 H2  C2A 48 
+22U H14  H14  H  0 1 N N N 10.844 -12.228 22.835 -6.732 2.584  -1.734 H3  C2A 49 
+22U H13  H13  H  0 1 N N N 10.691 -10.267 24.340 -8.195 0.734  -1.026 H4  C2A 50 
+22U H11  H11  H  0 1 N N N 13.979 -8.437  22.266 -5.019 -0.872 1.328  H6  C2A 51 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+22U C1  C2   SING N N 1  
+22U C1  C16  SING N N 2  
+22U N1  C2   SING N N 3  
+22U C2  C3   SING N N 4  
+22U C3  O1   DOUB N N 5  
+22U C3  N2   SING N N 6  
+22U N2  C4   SING N N 7  
+22U N2  C7   SING N N 8  
+22U C4  C5   SING N N 9  
+22U C5  C6   SING N N 10 
+22U C6  C7   SING N N 11 
+22U C7  C8   SING N N 12 
+22U C8  N3   SING N N 13 
+22U C8  O2   DOUB N N 14 
+22U N3  C9   SING N N 15 
+22U C9  C10  SING N N 16 
+22U C10 C11  DOUB Y N 17 
+22U C10 C15  SING Y N 18 
+22U C11 C12  SING Y N 19 
+22U C12 C13  DOUB Y N 20 
+22U C12 CL1  SING N N 21 
+22U C13 C14  SING Y N 22 
+22U C14 C15  DOUB Y N 23 
+22U C16 C17  DOUB Y N 24 
+22U C16 C21  SING Y N 25 
+22U C17 C18  SING Y N 26 
+22U C18 C19  DOUB Y N 27 
+22U C19 C20  SING Y N 28 
+22U C20 C21  DOUB Y N 29 
+22U C1  H1   SING N N 30 
+22U C1  H1A  SING N N 31 
+22U N1  HN1  SING N N 32 
+22U N1  HN1A SING N N 33 
+22U C2  H2   SING N N 34 
+22U C4  H4   SING N N 35 
+22U C4  H4A  SING N N 36 
+22U C5  H5   SING N N 37 
+22U C5  H5A  SING N N 38 
+22U C6  H6   SING N N 39 
+22U C6  H6A  SING N N 40 
+22U C7  H7   SING N N 41 
+22U N3  HN3  SING N N 42 
+22U C9  H9   SING N N 43 
+22U C9  H9A  SING N N 44 
+22U C11 H11  SING N N 45 
+22U C13 H13  SING N N 46 
+22U C14 H14  SING N N 47 
+22U C15 H15  SING N N 48 
+22U C17 H17  SING N N 49 
+22U C18 H18  SING N N 50 
+22U C19 H19  SING N N 51 
+22U C20 H20  SING N N 52 
+22U C21 H21  SING N N 53 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+22U SMILES           ACDLabs              12.01 "O=C(NCc1cccc(Cl)c1)C3N(C(=O)C(N)Cc2ccccc2)CCC3"                                                                                                                         
+22U SMILES_CANONICAL CACTVS               3.370 "N[C@H](Cc1ccccc1)C(=O)N2CCC[C@H]2C(=O)NCc3cccc(Cl)c3"                                                                                                                   
+22U SMILES           CACTVS               3.370 "N[CH](Cc1ccccc1)C(=O)N2CCC[CH]2C(=O)NCc3cccc(Cl)c3"                                                                                                                     
+22U SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)C[C@H](C(=O)N2CCC[C@H]2C(=O)NCc3cccc(c3)Cl)N"                                                                                                                 
+22U SMILES           "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)CC(C(=O)N2CCCC2C(=O)NCc3cccc(c3)Cl)N"                                                                                                                         
+22U InChI            InChI                1.03  "InChI=1S/C21H24ClN3O2/c22-17-9-4-8-16(12-17)14-24-20(26)19-10-5-11-25(19)21(27)18(23)13-15-6-2-1-3-7-15/h1-4,6-9,12,18-19H,5,10-11,13-14,23H2,(H,24,26)/t18-,19+/m1/s1" 
+22U InChIKey         InChI                1.03  CJHLRGCXPGIPCB-MOPGFXCFSA-N                                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+22U "SYSTEMATIC NAME" ACDLabs              12.01 "D-phenylalanyl-N-(3-chlorobenzyl)-L-prolinamide"                                               
+22U "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-1-[(2R)-2-azanyl-3-phenyl-propanoyl]-N-[(3-chlorophenyl)methyl]pyrrolidine-2-carboxamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+22U "Create component"         2007-11-07 PDBJ 
+22U "Modify subcomponent list" 2010-11-15 RCSB 
+22U "Modify aromatic_flag"     2011-06-04 RCSB 
+22U "Modify descriptor"        2011-06-04 RCSB 
+# 

@@ -1,0 +1,82 @@
+data_PO2
+# 
+_chem_comp.id                                    PO2 
+_chem_comp.name                                  HYPOPHOSPHITE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "O2 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2001-05-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        62.973 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PO2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H4K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PO2 P  P  P 0  1 N N N 23.463 19.775 22.096 0.000  -0.404 0.000 P  PO2 1 
+PO2 O1 O1 O -1 1 N N N 22.558 20.099 23.497 1.379  0.391  0.000 O1 PO2 2 
+PO2 O2 O2 O 0  1 N N N 24.026 18.457 21.964 -1.379 0.391  0.000 O2 PO2 3 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PO2 P O1 SING N N 1 
+PO2 P O2 DOUB N N 2 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PO2 SMILES_CANONICAL CACTVS               3.341 "[O-]P=O"                           
+PO2 SMILES           CACTVS               3.341 "[O-]P=O"                           
+PO2 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[O-]P=O"                           
+PO2 SMILES           "OpenEye OEToolkits" 1.5.0 "[O-]P=O"                           
+PO2 InChI            InChI                1.03  "InChI=1S/HO2P/c1-3-2/h(H,1,2)/p-1" 
+PO2 InChIKey         InChI                1.03  GQZXNSPRSGFJLY-UHFFFAOYSA-M         
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PO2 "Create component"  2001-05-14 EBI  
+PO2 "Modify descriptor" 2011-06-04 RCSB 
+# 

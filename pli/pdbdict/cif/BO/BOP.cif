@@ -1,0 +1,120 @@
+data_BOP
+# 
+_chem_comp.id                                    BOP 
+_chem_comp.name                                  1-BROMO-4-METHOXYBENZENE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 Br O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-11-24 
+_chem_comp.pdbx_modified_date                    2011-08-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        187.034 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BOP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1RHQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BOP C2  C2  C  0 1 Y N N 47.648 30.827 97.591  -0.328 -0.000 2.272  C2  BOP 1  
+BOP C3  C3  C  0 1 Y N N 47.066 30.944 98.863  0.932  0.003  1.692  C3  BOP 2  
+BOP C4  C4  C  0 1 Y N N 47.846 31.051 100.003 1.058  -0.000 0.316  C4  BOP 3  
+BOP C5  C5  C  0 1 Y N N 49.240 31.050 99.923  -0.071 -0.000 -0.482 C5  BOP 4  
+BOP C6  C6  C  0 1 Y N N 49.835 30.953 98.652  -1.328 0.000  0.093  C6  BOP 5  
+BOP O1  O1  O  0 1 N N N 46.812 30.580 96.439  -0.454 -0.000 3.625  O1  BOP 6  
+BOP C7  C7  C  0 1 N N N 46.684 31.561 95.364  0.869  -0.001 4.163  C7  BOP 7  
+BOP BR1 BR1 BR 0 0 N N N 50.319 31.065 101.522 0.104  -0.000 -2.365 BR1 BOP 8  
+BOP C1  C1  C  0 1 Y N N 49.052 30.844 97.488  -1.459 0.000  1.468  C1  BOP 9  
+BOP H3  H3  H  0 1 N N N 45.968 30.952 98.969  1.813  0.003  2.315  H3  BOP 10 
+BOP H4  H4  H  0 1 N N N 47.352 31.138 100.985 2.039  -0.001 -0.135 H4  BOP 11 
+BOP H6  H6  H  0 1 N N N 50.935 30.963 98.567  -2.209 0.000  -0.532 H6  BOP 12 
+BOP H71 1H7 H  0 1 N N N 47.709 31.805 94.998  0.818  -0.001 5.252  H71 BOP 13 
+BOP H72 2H7 H  0 1 N N N 46.039 31.370 94.475  1.398  -0.892 3.824  H72 BOP 14 
+BOP H73 3H7 H  0 1 N N N 46.365 32.528 95.818  1.400  0.888  3.824  H73 BOP 15 
+BOP H1  H1  H  0 1 N N N 49.536 30.772 96.500  -2.441 0.000  1.918  H1  BOP 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BOP C2 C3  DOUB Y N 1  
+BOP C2 O1  SING N N 2  
+BOP C2 C1  SING Y N 3  
+BOP C3 C4  SING Y N 4  
+BOP C3 H3  SING N N 5  
+BOP C4 C5  DOUB Y N 6  
+BOP C4 H4  SING N N 7  
+BOP C5 C6  SING Y N 8  
+BOP C5 BR1 SING N N 9  
+BOP C6 C1  DOUB Y N 10 
+BOP C6 H6  SING N N 11 
+BOP O1 C7  SING N N 12 
+BOP C7 H71 SING N N 13 
+BOP C7 H72 SING N N 14 
+BOP C7 H73 SING N N 15 
+BOP C1 H1  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BOP SMILES           ACDLabs              10.04 "4-bromophenyl methyl ether"                      
+BOP SMILES_CANONICAL CACTVS               3.341 "COc1ccc(Br)cc1"                                  
+BOP SMILES           CACTVS               3.341 "COc1ccc(Br)cc1"                                  
+BOP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COc1ccc(cc1)Br"                                  
+BOP SMILES           "OpenEye OEToolkits" 1.5.0 "COc1ccc(cc1)Br"                                  
+BOP InChI            InChI                1.03  "InChI=1S/C7H7BrO/c1-9-7-4-2-6(8)3-5-7/h2-5H,1H3" 
+BOP InChIKey         InChI                1.03  QJPJQTDYNZXKQF-UHFFFAOYSA-N                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BOP "SYSTEMATIC NAME" ACDLabs              10.04 1-bromo-4-methoxybenzene  
+BOP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-bromo-4-methoxy-benzene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BOP "Create component"   2003-11-24 RCSB 
+BOP "Modify descriptor"  2011-06-04 RCSB 
+BOP "Obsolete component" 2011-08-06 RCSB 
+# 

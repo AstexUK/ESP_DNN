@@ -1,0 +1,117 @@
+data_CFM
+# 
+_chem_comp.id                                    CFM 
+_chem_comp.name                                  "FE-MO-S CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe7 Mo S9" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        775.440 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CFM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1QH8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CFM FE1 FE1 FE 0 0 N N N 98.001 -26.535 45.807 ? ? ? FE1 CFM 1  
+CFM FE2 FE2 FE 0 0 N N N 98.030 -25.022 43.664 ? ? ? FE2 CFM 2  
+CFM FE3 FE3 FE 0 0 N N N 95.894 -25.046 45.327 ? ? ? FE3 CFM 3  
+CFM FE4 FE4 FE 0 0 N N N 96.413 -27.180 43.799 ? ? ? FE4 CFM 4  
+CFM FE5 FE5 FE 0 0 N N N 94.937 -26.169 41.906 ? ? ? FE5 CFM 5  
+CFM FE6 FE6 FE 0 0 N N N 96.511 -24.014 41.831 ? ? ? FE6 CFM 6  
+CFM FE7 FE7 FE 0 0 N N N 94.420 -24.066 43.420 ? ? ? FE7 CFM 7  
+CFM MO1 MO1 MO 0 0 N N N 94.034 -23.875 40.793 ? ? ? MO1 CFM 8  
+CFM S1A S1A S  0 1 N N N 98.674 -27.188 43.732 ? ? ? S1A CFM 9  
+CFM S4A S4A S  0 1 N N N 95.858 -27.131 46.008 ? ? ? S4A CFM 10 
+CFM S3A S3A S  0 1 N N N 95.286 -28.364 42.276 ? ? ? S3A CFM 11 
+CFM S2A S2A S  0 1 N N N 97.943 -24.367 45.730 ? ? ? S2A CFM 12 
+CFM S1B S1B S  0 1 N N N 95.779 -25.238 40.017 ? ? ? S1B CFM 13 
+CFM S2B S2B S  0 1 N N N 98.609 -23.670 42.057 ? ? ? S2B CFM 14 
+CFM S3B S3B S  0 1 N N N 95.088 -22.325 42.191 ? ? ? S3B CFM 15 
+CFM S4B S4B S  0 1 N N N 92.941 -25.242 42.314 ? ? ? S4B CFM 16 
+CFM S5  S5  S  0 1 N N N 94.112 -23.751 45.541 ? ? ? S5  CFM 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CFM FE1 S1A SING N N 1  
+CFM FE1 S4A SING N N 2  
+CFM FE1 S2A SING N N 3  
+CFM FE2 S1A SING N N 4  
+CFM FE2 S2A SING N N 5  
+CFM FE2 S2B SING N N 6  
+CFM FE3 S4A SING N N 7  
+CFM FE3 S2A SING N N 8  
+CFM FE3 S5  SING N N 9  
+CFM FE4 S1A SING N N 10 
+CFM FE4 S4A SING N N 11 
+CFM FE4 S3A SING N N 12 
+CFM FE5 S3A SING N N 13 
+CFM FE5 S1B SING N N 14 
+CFM FE5 S4B SING N N 15 
+CFM FE6 S1B SING N N 16 
+CFM FE6 S2B SING N N 17 
+CFM FE6 S3B SING N N 18 
+CFM FE7 S3B SING N N 19 
+CFM FE7 S4B SING N N 20 
+CFM FE7 S5  SING N N 21 
+CFM MO1 S1B SING N N 22 
+CFM MO1 S3B SING N N 23 
+CFM MO1 S4B SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CFM InChI            InChI                1.02b "InChI=1/7Fe.Mo.9S/rFe7MoS9/c9-1-12-2-10-5-15-4(9)16-6(17(5)8(15)16)11-3-13(1)7(12)14(2)3" 
+CFM InChIKey         InChI                1.02b UZRXIPMKRKMLQF-VGXFRCDIAP                                                                  
+CFM SMILES_CANONICAL CACTVS               3.341 "S|12[Fe]|3S[Fe]|4S5|[Fe]6S[Fe]|1S7|[Fe]2S|3[Fe]7S[Fe]8|S6[Mo]5S|48"                       
+CFM SMILES           CACTVS               3.341 "S|12[Fe]|3S[Fe]|4S5|[Fe]6S[Fe]|1S7|[Fe]2S|3[Fe]7S[Fe]8|S6[Mo]5S|48"                       
+CFM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "S1[Fe]2[S]3[Fe]4S[Fe]5[S]6[Fe]1[S]7[Mo]6[S]5[Fe]7S[Fe]8[S]2[Fe]3[S]48"                    
+CFM SMILES           "OpenEye OEToolkits" 1.5.0 "S1[Fe]2[S]3[Fe]4S[Fe]5[S]6[Fe]1[S]7[Mo]6[S]5[Fe]7S[Fe]8[S]2[Fe]3[S]48"                    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CFM "Create component" 1999-07-08 RCSB 
+# 

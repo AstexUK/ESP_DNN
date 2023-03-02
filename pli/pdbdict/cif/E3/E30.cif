@@ -1,0 +1,126 @@
+data_E30
+# 
+_chem_comp.id                                    E30 
+_chem_comp.name                                  "4-(1H-tetrazol-5-yl)aniline" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-02-26 
+_chem_comp.pdbx_modified_date                    2015-02-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        161.164 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     E30 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4CRC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+E30 N11 N11 N 0 1 N N N -52.527 -9.574  -25.650 4.225  0.004  0.002  N11 E30 1  
+E30 C12 C12 C 0 1 Y N N -53.533 -8.613  -25.914 2.830  0.004  0.001  C12 E30 2  
+E30 C13 C13 C 0 1 Y N N -53.456 -7.909  -27.093 2.136  1.209  -0.001 C13 E30 3  
+E30 C14 C14 C 0 1 Y N N -54.396 -6.953  -27.418 0.759  1.213  -0.002 C14 E30 4  
+E30 C15 C15 C 0 1 Y N N -55.437 -6.692  -26.547 0.059  0.005  -0.001 C15 E30 5  
+E30 C16 C16 C 0 1 Y N N -55.518 -7.400  -25.368 0.758  -1.204 0.001  C16 E30 6  
+E30 C17 C17 C 0 1 Y N N -54.582 -8.362  -25.049 2.136  -1.201 -0.003 C17 E30 7  
+E30 C18 C18 C 0 1 Y N N -56.405 -5.662  -26.834 -1.420 0.005  -0.001 C18 E30 8  
+E30 N19 N19 N 0 1 Y N N -56.693 -5.196  -28.082 -2.226 -1.086 0.000  N19 E30 9  
+E30 N20 N20 N 0 1 Y N N -57.621 -4.234  -28.001 -3.536 -0.575 0.000  N20 E30 10 
+E30 N21 N21 N 0 1 Y N N -57.884 -4.110  -26.706 -3.437 0.710  -0.001 N21 E30 11 
+E30 N22 N22 N 0 1 Y N N -57.139 -4.988  -25.973 -2.203 1.064  0.003  N22 E30 12 
+E30 H11 H11 H 0 1 N N N -52.704 -10.008 -24.767 4.710  0.844  0.001  H11 E30 13 
+E30 H13 H13 H 0 1 N N N -52.644 -8.108  -27.777 2.678  2.144  -0.002 H13 E30 14 
+E30 H17 H17 H 0 1 N N N -54.668 -8.917  -24.127 2.677  -2.135 -0.005 H17 E30 15 
+E30 H14 H14 H 0 1 N N N -54.319 -6.411  -28.349 0.220  2.149  -0.003 H14 E30 16 
+E30 H16 H16 H 0 1 N N N -56.328 -7.199  -24.682 0.220  -2.140 0.002  H16 E30 17 
+E30 H19 H19 H 0 1 N N N -56.275 -5.523  -28.930 -1.957 -2.018 0.001  H19 E30 18 
+E30 H2  H2  H 0 1 N Y N -52.532 -10.268 -26.370 4.709  -0.836 0.008  H2  E30 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+E30 N11 C12 SING N N 1  
+E30 C12 C13 SING Y N 2  
+E30 C12 C17 DOUB Y N 3  
+E30 C13 C14 DOUB Y N 4  
+E30 C14 C15 SING Y N 5  
+E30 C15 C16 DOUB Y N 6  
+E30 C15 C18 SING N N 7  
+E30 C16 C17 SING Y N 8  
+E30 C18 N19 SING Y N 9  
+E30 C18 N22 DOUB Y N 10 
+E30 N19 N20 SING Y N 11 
+E30 N20 N21 DOUB Y N 12 
+E30 N21 N22 SING Y N 13 
+E30 N11 H11 SING N N 14 
+E30 C13 H13 SING N N 15 
+E30 C17 H17 SING N N 16 
+E30 C14 H14 SING N N 17 
+E30 C16 H16 SING N N 18 
+E30 N19 H19 SING N N 19 
+E30 N11 H2  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+E30 SMILES           ACDLabs              12.01 "n1nnnc1c2ccc(N)cc2"                                                       
+E30 InChI            InChI                1.03  "InChI=1S/C7H7N5/c8-6-3-1-5(2-4-6)7-9-11-12-10-7/h1-4H,8H2,(H,9,10,11,12)" 
+E30 InChIKey         InChI                1.03  KTPONJJKCBOJCQ-UHFFFAOYSA-N                                                
+E30 SMILES_CANONICAL CACTVS               3.385 "Nc1ccc(cc1)c2[nH]nnn2"                                                    
+E30 SMILES           CACTVS               3.385 "Nc1ccc(cc1)c2[nH]nnn2"                                                    
+E30 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1c2[nH]nnn2)N"                                                    
+E30 SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1c2[nH]nnn2)N"                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+E30 "SYSTEMATIC NAME" ACDLabs              12.01 "4-(1H-tetrazol-5-yl)aniline"         
+E30 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "4-(1H-1,2,3,4-tetrazol-5-yl)aniline" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+E30 "Create component" 2014-02-26 EBI  
+E30 "Initial release"  2015-02-11 RCSB 
+# 

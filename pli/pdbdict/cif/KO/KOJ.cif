@@ -1,0 +1,119 @@
+data_KOJ
+# 
+_chem_comp.id                                    KOJ 
+_chem_comp.name                                  "5-HYDROXY-2-(HYDROXYMETHYL)-4H-PYRAN-4-ONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-11-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.109 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     KOJ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GQH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+KOJ C1   C1   C 0 1 Y N N 65.276 10.378 74.792 1.464  0.094  -0.613 C1   KOJ 1  
+KOJ C2   C2   C 0 1 Y N N 64.885 9.084  75.083 0.502  -0.033 -1.554 C2   KOJ 2  
+KOJ C3   C3   C 0 1 Y N N 65.601 8.064  74.560 -0.860 -0.015 -1.149 C3   KOJ 3  
+KOJ C4   C4   C 0 1 Y N N 66.705 8.334  73.750 -1.146 0.135  0.230  C4   KOJ 4  
+KOJ C5   C5   C 0 1 Y N N 67.087 9.645  73.493 -0.123 0.256  1.101  C5   KOJ 5  
+KOJ C6   C6   C 0 1 N N N 68.260 9.955  72.646 -0.415 0.417  2.570  C6   KOJ 6  
+KOJ O2   O2   O 0 1 N N N 63.837 8.782  75.843 0.832  -0.175 -2.866 O2   KOJ 7  
+KOJ O3   O3   O 0 1 N N N 65.180 6.845  74.844 -1.760 -0.127 -1.967 O3   KOJ 8  
+KOJ O5   O5   O 0 1 Y N N 66.424 10.595 73.953 1.146  0.240  0.680  O5   KOJ 9  
+KOJ O6   O6   O 0 1 N N N 68.109 10.802 71.631 0.177  -0.661 3.295  O6   KOJ 10 
+KOJ H1   H1   H 0 1 N N N 64.713 11.235 75.199 2.503  0.082  -0.908 H1   KOJ 11 
+KOJ H4   H4   H 0 1 N N N 67.279 7.501  73.311 -2.168 0.153  0.580  H4   KOJ 12 
+KOJ H6C1 1H6C H 0 0 N N N 68.688 9.001  72.259 -1.493 0.413  2.729  H6C1 KOJ 13 
+KOJ H6C2 2H6C H 0 0 N N N 69.090 10.316 73.297 -0.000 1.362  2.922  H6C2 KOJ 14 
+KOJ H2   H2   H 0 1 N N N 63.334 9.499  76.211 1.798  -0.160 -2.914 H2   KOJ 15 
+KOJ H6   H6   H 0 1 N N N 68.862 11.001 71.087 -0.032 -0.520 4.229  H6   KOJ 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+KOJ C1 C2   DOUB Y N 1  
+KOJ C1 O5   SING Y N 2  
+KOJ C1 H1   SING N N 3  
+KOJ C2 C3   SING Y N 4  
+KOJ C2 O2   SING N N 5  
+KOJ C3 C4   SING Y N 6  
+KOJ C3 O3   DOUB N N 7  
+KOJ C4 C5   DOUB Y N 8  
+KOJ C4 H4   SING N N 9  
+KOJ C5 C6   SING N N 10 
+KOJ C5 O5   SING Y N 11 
+KOJ C6 O6   SING N N 12 
+KOJ C6 H6C1 SING N N 13 
+KOJ C6 H6C2 SING N N 14 
+KOJ O2 H2   SING N N 15 
+KOJ O6 H6   SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+KOJ SMILES           ACDLabs              10.04 "O=C1C=C(OC=C1O)CO"                                     
+KOJ SMILES_CANONICAL CACTVS               3.341 "OCC1=CC(=O)C(=CO1)O"                                   
+KOJ SMILES           CACTVS               3.341 "OCC1=CC(=O)C(=CO1)O"                                   
+KOJ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=C(OC=C(C1=O)O)CO"                                   
+KOJ SMILES           "OpenEye OEToolkits" 1.5.0 "C1=C(OC=C(C1=O)O)CO"                                   
+KOJ InChI            InChI                1.03  "InChI=1S/C6H6O4/c7-2-4-1-5(8)6(9)3-10-4/h1,3,7,9H,2H2" 
+KOJ InChIKey         InChI                1.03  BEJNERDRQOWKJM-UHFFFAOYSA-N                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+KOJ "SYSTEMATIC NAME" ACDLabs              10.04 "5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one" 
+KOJ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "5-hydroxy-2-(hydroxymethyl)pyran-4-one"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+KOJ "Create component"  2001-11-23 EBI  
+KOJ "Modify descriptor" 2011-06-04 RCSB 
+# 

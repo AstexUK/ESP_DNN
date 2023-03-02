@@ -1,0 +1,121 @@
+data_717
+# 
+_chem_comp.id                                    717 
+_chem_comp.name                                  "imidazo[2,1-b][1,3]thiazol-6-ylmethanol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 N2 O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-08-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.190 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     717 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3IKF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+717 C1   C1   C 0 1 Y N N 32.268 -34.149 -26.353 1.520  0.337  0.004  C1   717 1  
+717 N2   N2   N 0 1 Y N N 31.484 -34.765 -27.299 0.531  1.242  0.002  N2   717 2  
+717 C3   C3   C 0 1 Y N N 32.281 -35.819 -27.692 -0.622 0.615  0.001  C3   717 3  
+717 N4   N4   N 0 1 Y N N 33.446 -35.857 -27.048 -0.409 -0.729 0.002  N4   717 4  
+717 C5   C5   C 0 1 Y N N 33.509 -34.805 -26.163 0.972  -0.889 0.003  C5   717 5  
+717 C6   C6   C 0 1 Y N N 34.338 -36.884 -27.364 -1.544 -1.508 0.001  C6   717 6  
+717 C7   C7   C 0 1 Y N N 33.761 -37.696 -28.356 -2.723 -0.912 -0.001 C7   717 7  
+717 S8   S8   S 0 1 Y N N 32.170 -37.078 -28.772 -2.379 0.826  -0.002 S8   717 8  
+717 C9   C9   C 0 1 N N N 31.855 -32.922 -25.589 2.996  0.644  -0.000 C9   717 9  
+717 O10  O10  O 0 1 N N N 32.031 -33.174 -24.192 3.736  -0.578 -0.004 O10  717 10 
+717 H5   H5   H 0 1 N N N 34.310 -34.543 -25.488 1.507  -1.828 -0.000 H5   717 11 
+717 H6   H6   H 0 1 N N N 35.311 -37.030 -26.919 -1.472 -2.586 0.001  H6   717 12 
+717 H7   H7   H 0 1 N N N 34.225 -38.567 -28.795 -3.694 -1.386 -0.002 H7   717 13 
+717 H9   H9   H 0 1 N N N 32.476 -32.067 -25.894 3.244  1.222  -0.890 H9   717 14 
+717 H9A  H9A  H 0 1 N N N 30.799 -32.693 -25.796 3.249  1.219  0.890  H9A  717 15 
+717 HO10 HO10 H 0 0 N N N 31.773 -32.406 -23.696 4.695  -0.457 -0.007 HO10 717 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+717 N2  C1   SING Y N 1  
+717 C1  C5   DOUB Y N 2  
+717 C1  C9   SING N N 3  
+717 C3  N2   DOUB Y N 4  
+717 S8  C3   SING Y N 5  
+717 C3  N4   SING Y N 6  
+717 C6  N4   SING Y N 7  
+717 N4  C5   SING Y N 8  
+717 C5  H5   SING N N 9  
+717 C7  C6   DOUB Y N 10 
+717 C6  H6   SING N N 11 
+717 S8  C7   SING Y N 12 
+717 C7  H7   SING N N 13 
+717 C9  O10  SING N N 14 
+717 C9  H9   SING N N 15 
+717 C9  H9A  SING N N 16 
+717 O10 HO10 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+717 SMILES           ACDLabs              11.02 "n1c(cn2ccsc12)CO"                                        
+717 SMILES_CANONICAL CACTVS               3.352 OCc1cn2ccsc2n1                                            
+717 SMILES           CACTVS               3.352 OCc1cn2ccsc2n1                                            
+717 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1csc2n1cc(n2)CO"                                        
+717 SMILES           "OpenEye OEToolkits" 1.7.0 "c1csc2n1cc(n2)CO"                                        
+717 InChI            InChI                1.03  "InChI=1S/C6H6N2OS/c9-4-5-3-8-1-2-10-6(8)7-5/h1-3,9H,4H2" 
+717 InChIKey         InChI                1.03  GBUTVPCKMACQMG-UHFFFAOYSA-N                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+717 "SYSTEMATIC NAME" ACDLabs              11.02 "imidazo[2,1-b][1,3]thiazol-6-ylmethanol" 
+717 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "imidazo[2,1-b][1,3]thiazol-6-ylmethanol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+717 "Create component"     2009-08-07 RCSB 
+717 "Modify aromatic_flag" 2011-06-04 RCSB 
+717 "Modify descriptor"    2011-06-04 RCSB 
+# 

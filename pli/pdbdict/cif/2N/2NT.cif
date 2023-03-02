@@ -1,0 +1,193 @@
+data_2NT
+# 
+_chem_comp.id                                    2NT 
+_chem_comp.name                                  
+;2'-O-[2-[HYDROXY(METHYLENEAMINO)OXY]ETHYL THYMIDINE-5'-MONOPHOSPHATE
+;
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C13 H22 N3 O11 P" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-12-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        427.301 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     2NT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1Y7F 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2NT P      P      P 0 1 N N N 10.812 4.198  5.251  2.787  0.324  -4.407 P      2NT 1  
+2NT OP3    O3P    O 0 1 N Y N 12.055 4.725  4.576  1.198  0.588  -4.548 OP3    2NT 2  
+2NT OP2    O2P    O 0 1 N N N 10.970 3.446  6.484  2.921  -1.270 -4.647 OP2    2NT 3  
+2NT "O5'"  O5*    O 0 1 N N N 9.796  5.406  5.445  3.063  0.476  -2.819 "O5'"  2NT 4  
+2NT "C5'"  C5*    C 0 1 N N N 9.481  6.274  4.358  2.282  -0.292 -1.921 "C5'"  2NT 5  
+2NT "C4'"  C4*    C 0 1 N N R 8.456  7.290  4.789  2.725  0.023  -0.498 "C4'"  2NT 6  
+2NT "O4'"  O4*    O 0 1 N N N 7.180  6.619  4.967  2.470  1.422  -0.246 "O4'"  2NT 7  
+2NT "C1'"  C1*    C 0 1 N N R 6.482  7.220  6.046  1.373  1.543  0.675  "C1'"  2NT 8  
+2NT N1     N1     N 0 1 N N N 6.310  6.209  7.123  0.452  2.524  0.177  N1     2NT 9  
+2NT C6     C6     C 0 1 N N N 7.167  5.136  7.298  0.309  2.663  -1.199 C6     2NT 10 
+2NT C2     C2     C 0 1 N N N 5.250  6.413  7.964  -0.300 3.336  1.055  C2     2NT 11 
+2NT O2     O2     O 0 1 N N N 4.485  7.351  7.835  -0.225 3.269  2.283  O2     2NT 12 
+2NT N3     N3     N 0 1 N N N 5.123  5.493  8.968  -1.159 4.248  0.431  N3     2NT 13 
+2NT C4     C4     C 0 1 N N N 5.951  4.435  9.238  -1.338 4.427  -0.932 C4     2NT 14 
+2NT O4     O4     O 0 1 N N N 5.735  3.726  10.213 -2.111 5.251  -1.413 O4     2NT 15 
+2NT C5     C5     C 0 1 N N N 7.051  4.259  8.313  -0.514 3.537  -1.792 C5     2NT 16 
+2NT C5M    C5M    C 0 1 N N N 8.008  3.127  8.540  -0.651 3.669  -3.275 C5M    2NT 17 
+2NT "C2'"  C2*    C 0 1 N N R 7.308  8.419  6.525  0.748  0.163  0.786  "C2'"  2NT 18 
+2NT "O2'"  O2*    O 0 1 N N N 6.962  9.505  5.646  0.137  -0.058 2.041  "O2'"  2NT 19 
+2NT "CB'"  "CB'"  C 0 1 N N N 5.733  10.181 5.853  -0.332 -1.396 2.174  "CB'"  2NT 20 
+2NT "CC'"  "CC'"  C 0 1 N N N 5.667  11.256 4.785  -0.951 -1.569 3.547  "CC'"  2NT 21 
+2NT "OD'"  "OD'"  O 0 1 N N N 6.640  12.228 5.153  0.039  -1.320 4.537  "OD'"  2NT 22 
+2NT "NE'"  "NE'"  N 0 1 N N N 6.516  13.339 4.405  -0.589 -1.495 5.839  "NE'"  2NT 23 
+2NT "CF'"  "CF'"  C 0 1 N N N 7.552  14.088 4.493  0.419  -1.087 6.809  "CF'"  2NT 24 
+2NT "OG'"  "OG'"  O 0 1 N N N 7.880  14.404 5.840  1.486  -2.019 6.927  "OG'"  2NT 25 
+2NT "C3'"  C3*    C 0 1 N N R 8.704  7.964  6.124  1.940  -0.742 0.560  "C3'"  2NT 26 
+2NT "O3'"  O3*    O 0 1 N N N 9.662  9.009  6.062  2.742  -0.809 1.739  "O3'"  2NT 27 
+2NT OP1    O1P    O 0 1 N N N ?      ?      ?      3.659  1.172  -5.286 OP1    2NT 28 
+2NT HOP3   3HOP   H 0 0 N N N 11.952 5.217  3.770  0.799  0.616  -5.443 HOP3   2NT 29 
+2NT HOP2   2HOP   H 0 0 N N N 10.188 3.114  6.909  2.886  -1.617 -5.563 HOP2   2NT 30 
+2NT "H5'"  1H5*   H 0 1 N N N 9.155  5.709  3.454  1.229  -0.035 -2.051 "H5'"  2NT 31 
+2NT "H5''" 2H5*   H 0 0 N N N 10.392 6.755  3.930  2.428  -1.352 -2.133 "H5''" 2NT 32 
+2NT "H4'"  H4*    H 0 1 N N N 8.494  8.064  3.987  3.804  -0.139 -0.410 "H4'"  2NT 33 
+2NT "H1'"  H1*    H 0 1 N N N 5.470  7.575  5.741  1.754  1.910  1.633  "H1'"  2NT 34 
+2NT H6     H6     H 0 1 N N N 7.992  4.970  6.585  0.928  1.995  -1.790 H6     2NT 35 
+2NT HN3    HN3    H 0 1 N N N 4.320  5.609  9.586  -1.709 4.843  1.045  HN3    2NT 36 
+2NT H71    1H5M   H 0 1 N N N 9.032  3.566  8.597  -1.057 2.748  -3.690 H71    2NT 37 
+2NT H72    2H5M   H 0 1 N N N 7.912  2.401  9.381  0.324  3.866  -3.719 H72    2NT 38 
+2NT H73    3H5M   H 0 1 N N N 8.051  2.536  7.596  -1.320 4.497  -3.510 H73    2NT 39 
+2NT "H2'"  H2*    H 0 1 N N N 7.184  8.713  7.593  -0.000 0.004  -0.000 "H2'"  2NT 40 
+2NT "HB'1" "1HB'" H 0 0 N N N 5.609  10.574 6.889  -1.066 -1.580 1.383  "HB'1" 2NT 41 
+2NT "HB'2" "2HB'" H 0 0 N N N 4.847  9.504  5.860  0.520  -2.071 2.050  "HB'2" 2NT 42 
+2NT "HC'1" "1HC'" H 0 0 N N N 4.646  11.679 4.641  -1.324 -2.588 3.686  "HC'1" 2NT 43 
+2NT "HC'2" "2HC'" H 0 0 N N N 5.797  10.865 3.749  -1.768 -0.855 3.691  "HC'2" 2NT 44 
+2NT "HE'"  "HE'"  H 0 1 N N N 5.666  13.852 4.639  -1.325 -0.791 5.798  "HE'"  2NT 45 
+2NT "HF'1" "1HF'" H 0 0 N N N 7.433  15.012 3.881  0.835  -0.107 6.551  "HF'1" 2NT 46 
+2NT "HF'2" "2HF'" H 0 0 N N N 8.422  13.634 3.963  -0.048 -0.995 7.794  "HF'2" 2NT 47 
+2NT "HG'"  "HG'"  H 0 1 N N N 8.648  14.959 5.905  1.810  -2.189 6.026  "HG'"  2NT 48 
+2NT "H3'"  H3*    H 0 1 N N N 9.168  7.288  6.880  1.675  -1.764 0.277  "H3'"  2NT 49 
+2NT "HO3'" H3T    H 0 0 N Y N 9.817  9.431  6.899  3.344  -1.558 1.619  "HO3'" 2NT 50 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2NT P     OP3    SING N N 1  
+2NT P     OP2    SING N N 2  
+2NT P     "O5'"  SING N N 3  
+2NT P     OP1    DOUB N N 4  
+2NT OP3   HOP3   SING N N 5  
+2NT OP2   HOP2   SING N N 6  
+2NT "O5'" "C5'"  SING N N 7  
+2NT "C5'" "C4'"  SING N N 8  
+2NT "C5'" "H5'"  SING N N 9  
+2NT "C5'" "H5''" SING N N 10 
+2NT "C4'" "O4'"  SING N N 11 
+2NT "C4'" "C3'"  SING N N 12 
+2NT "C4'" "H4'"  SING N N 13 
+2NT "O4'" "C1'"  SING N N 14 
+2NT "C1'" N1     SING N N 15 
+2NT "C1'" "C2'"  SING N N 16 
+2NT "C1'" "H1'"  SING N N 17 
+2NT N1    C6     SING N N 18 
+2NT N1    C2     SING N N 19 
+2NT C6    C5     DOUB N N 20 
+2NT C6    H6     SING N N 21 
+2NT C2    O2     DOUB N N 22 
+2NT C2    N3     SING N N 23 
+2NT N3    C4     SING N N 24 
+2NT N3    HN3    SING N N 25 
+2NT C4    O4     DOUB N N 26 
+2NT C4    C5     SING N N 27 
+2NT C5    C5M    SING N N 28 
+2NT C5M   H71    SING N N 29 
+2NT C5M   H72    SING N N 30 
+2NT C5M   H73    SING N N 31 
+2NT "C2'" "O2'"  SING N N 32 
+2NT "C2'" "C3'"  SING N N 33 
+2NT "C2'" "H2'"  SING N N 34 
+2NT "O2'" "CB'"  SING N N 35 
+2NT "CB'" "CC'"  SING N N 36 
+2NT "CB'" "HB'1" SING N N 37 
+2NT "CB'" "HB'2" SING N N 38 
+2NT "CC'" "OD'"  SING N N 39 
+2NT "CC'" "HC'1" SING N N 40 
+2NT "CC'" "HC'2" SING N N 41 
+2NT "OD'" "NE'"  SING N N 42 
+2NT "NE'" "CF'"  SING N N 43 
+2NT "NE'" "HE'"  SING N N 44 
+2NT "CF'" "OG'"  SING N N 45 
+2NT "CF'" "HF'1" SING N N 46 
+2NT "CF'" "HF'2" SING N N 47 
+2NT "OG'" "HG'"  SING N N 48 
+2NT "C3'" "O3'"  SING N N 49 
+2NT "C3'" "H3'"  SING N N 50 
+2NT "O3'" "HO3'" SING N N 51 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2NT SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C(O)C2OCCONCO)COP(=O)(O)O"                                                                                                                                         
+2NT SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@@H]2O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]2OCCONCO)C(=O)NC1=O"                                                                                                                     
+2NT SMILES           CACTVS               3.341 "CC1=CN([CH]2O[CH](CO[P](O)(O)=O)[CH](O)[CH]2OCCONCO)C(=O)NC1=O"                                                                                                                           
+2NT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)OCCONCO"                                                                                                                     
+2NT SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)OCCONCO"                                                                                                                                       
+2NT InChI            InChI                1.03  "InChI=1S/C13H22N3O11P/c1-7-4-16(13(20)15-11(7)19)12-10(24-2-3-25-14-6-17)9(18)8(27-12)5-26-28(21,22)23/h4,8-10,12,14,17-18H,2-3,5-6H2,1H3,(H,15,19,20)(H2,21,22,23)/t8-,9-,10-,12-/m1/s1" 
+2NT InChIKey         InChI                1.03  FVJMEWQZKWJLGQ-DNRKLUKYSA-N                                                                                                                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2NT "SYSTEMATIC NAME" ACDLabs              10.04 
+;2'-O-(2-{[(hydroxymethyl)amino]oxy}ethyl)-5-methyluridine 5'-(dihydrogen phosphate)
+;
+2NT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4R,5R)-3-hydroxy-4-[2-(hydroxymethylamino)oxyethoxy]-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2NT "Create component"    2004-12-13 RCSB 
+2NT "Modify linking type" 2011-06-04 RCSB 
+2NT "Modify descriptor"   2011-06-04 RCSB 
+# 

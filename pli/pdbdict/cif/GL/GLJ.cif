@@ -1,0 +1,128 @@
+data_GLJ
+# 
+_chem_comp.id                                    GLJ 
+_chem_comp.name                                  5,5-dihydroxy-L-norvaline 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-02-09 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.145 
+_chem_comp.one_letter_code                       E 
+_chem_comp.three_letter_code                     GLJ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QR3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLJ N   N   N 0 1 N N N -8.297 21.805 36.085 1.137  1.758  0.466  N   GLJ 1  
+GLJ CA  CA  C 0 1 N N S -7.323 21.678 35.002 1.179  0.295  0.598  CA  GLJ 2  
+GLJ C   C   C 0 1 N N N -7.966 21.066 33.697 2.439  -0.231 -0.038 C   GLJ 3  
+GLJ O   O   O 0 1 N N N -9.165 21.229 33.420 3.034  0.442  -0.847 O   GLJ 4  
+GLJ CB  CB  C 0 1 N N N -6.099 20.893 35.510 -0.038 -0.315 -0.100 CB  GLJ 5  
+GLJ CG  CG  C 0 1 N N N -5.157 20.738 34.324 -1.313 0.121  0.625  CG  GLJ 6  
+GLJ CD  CD  C 0 1 N N N -5.773 19.884 33.230 -2.530 -0.490 -0.073 CD  GLJ 7  
+GLJ OE1 OE  O 0 1 N N N -6.113 18.608 33.741 -2.642 0.049  -1.393 OE1 GLJ 8  
+GLJ H   H   H 0 1 N N N -7.851 22.195 36.891 1.149  2.033  -0.505 H   GLJ 9  
+GLJ HA  HA  H 0 1 N N N -6.979 22.678 34.701 1.165  0.026  1.654  HA  GLJ 10 
+GLJ HB2 HB2 H 0 1 N N N -5.603 21.441 36.325 -0.073 0.027  -1.134 HB2 GLJ 11 
+GLJ HB3 HB3 H 0 1 N N N -6.406 19.907 35.888 0.038  -1.402 -0.079 HB3 GLJ 12 
+GLJ HG2 HG2 H 0 1 N N N -4.937 21.735 33.914 -1.278 -0.221 1.659  HG2 GLJ 13 
+GLJ HG3 HG3 H 0 1 N N N -4.230 20.257 34.669 -1.390 1.208  0.604  HG3 GLJ 14 
+GLJ HD2 HD2 H 0 1 N N N -6.683 20.378 32.858 -2.411 -1.571 -0.131 HD2 GLJ 15 
+GLJ OE2 OE2 O 0 1 N Y N -4.831 19.729 32.166 -3.711 -0.179 0.669  OE2 GLJ 16 
+GLJ HE1 HE  H 0 1 N N N -6.497 18.082 33.050 -2.751 1.009  -1.418 HE1 GLJ 17 
+GLJ H2  H2  H 0 1 N Y N -9.043 22.404 35.794 0.334  2.141  0.941  H2  GLJ 18 
+GLJ OXT OXT O 0 1 N Y N -7.399 20.276 32.649 2.901  -1.447 0.293  OXT GLJ 19 
+GLJ HE2 HE2 H 0 1 N Y N -5.213 19.195 31.479 -4.523 -0.535 0.284  HE2 GLJ 20 
+GLJ HXT HXT H 0 1 N Y N -8.069 20.073 32.007 3.713  -1.741 -0.142 HXT GLJ 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLJ N   CA  SING N N 1  
+GLJ N   H   SING N N 2  
+GLJ CA  C   SING N N 3  
+GLJ CA  CB  SING N N 4  
+GLJ CA  HA  SING N N 5  
+GLJ C   O   DOUB N N 6  
+GLJ CB  CG  SING N N 7  
+GLJ CB  HB2 SING N N 8  
+GLJ CB  HB3 SING N N 9  
+GLJ CG  CD  SING N N 10 
+GLJ CG  HG2 SING N N 11 
+GLJ CG  HG3 SING N N 12 
+GLJ CD  OE1 SING N N 13 
+GLJ CD  HD2 SING N N 14 
+GLJ CD  OE2 SING N N 15 
+GLJ OE1 HE1 SING N N 16 
+GLJ N   H2  SING N N 17 
+GLJ C   OXT SING N N 18 
+GLJ OE2 HE2 SING N N 19 
+GLJ OXT HXT SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLJ SMILES           ACDLabs              12.01 "O=C(O)C(N)CCC(O)O"                                                            
+GLJ SMILES_CANONICAL CACTVS               3.370 "N[C@@H](CCC(O)O)C(O)=O"                                                       
+GLJ SMILES           CACTVS               3.370 "N[CH](CCC(O)O)C(O)=O"                                                         
+GLJ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CC(O)O)[C@@H](C(=O)O)N"                                                     
+GLJ SMILES           "OpenEye OEToolkits" 1.7.0 "C(CC(O)O)C(C(=O)O)N"                                                          
+GLJ InChI            InChI                1.03  "InChI=1S/C5H11NO4/c6-3(5(9)10)1-2-4(7)8/h3-4,7-8H,1-2,6H2,(H,9,10)/t3-/m0/s1" 
+GLJ InChIKey         InChI                1.03  FIKXYBCGRJPSSD-VKHMYHEASA-N                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLJ "SYSTEMATIC NAME" ACDLabs              12.01 5,5-dihydroxy-L-norvaline                    
+GLJ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-2-azanyl-5,5-dihydroxy-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLJ "Create component"  2011-02-09 RCSB 
+GLJ "Modify descriptor" 2011-06-04 RCSB 
+# 

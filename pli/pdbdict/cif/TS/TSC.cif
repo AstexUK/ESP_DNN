@@ -1,0 +1,138 @@
+data_TSC
+# 
+_chem_comp.id                                    TSC 
+_chem_comp.name                                  "(1S)-1-AMINO-2-(1H-INDOL-3-YL)ETHANOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H12 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-08-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        176.215 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TSC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2AH0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TSC O1  O1  O 0 1 N N N 3.234 -4.247 39.828 2.026  -1.310 -0.842 O1  TSC 1  
+TSC CA  CA  C 0 1 N N S 3.626 -2.925 40.205 2.650  -0.111 -0.377 CA  TSC 2  
+TSC N   N   N 0 1 N N N 2.663 -2.428 41.210 4.035  -0.401 0.017  N   TSC 3  
+TSC CB  CB  C 0 1 N N N 3.675 -2.066 38.930 1.879  0.431  0.829  CB  TSC 4  
+TSC CG  CG  C 0 1 Y N N 5.061 -2.224 38.345 0.495  0.843  0.396  CG  TSC 5  
+TSC CD1 CD1 C 0 1 Y N N 6.221 -1.630 38.830 0.104  2.077  0.042  CD1 TSC 6  
+TSC NE1 NE1 N 0 1 Y N N 7.272 -2.023 38.065 -1.224 2.068  -0.289 NE1 TSC 7  
+TSC CE2 CE2 C 0 1 Y N N 6.835 -2.871 37.107 -1.732 0.796  -0.152 CE2 TSC 8  
+TSC CD2 CD2 C 0 1 Y N N 5.455 -3.007 37.268 -0.676 -0.029 0.278  CD2 TSC 9  
+TSC CZ2 CZ2 C 0 1 Y N N 7.485 -3.546 36.077 -2.992 0.241  -0.353 CZ2 TSC 10 
+TSC CH2 CH2 C 0 1 Y N N 6.756 -4.371 35.216 -3.192 -1.103 -0.125 CH2 TSC 11 
+TSC CZ3 CZ3 C 0 1 Y N N 5.364 -4.497 35.386 -2.148 -1.911 0.305  CZ3 TSC 12 
+TSC CE3 CE3 C 0 1 Y N N 4.709 -3.813 36.422 -0.903 -1.387 0.509  CE3 TSC 13 
+TSC HO1 HO1 H 0 1 N N N 3.147 -4.295 38.883 2.541  -1.617 -1.600 HO1 TSC 14 
+TSC HA  HA  H 0 1 N N N 4.624 -2.891 40.666 2.647  0.632  -1.174 HA  TSC 15 
+TSC HN1 1HN H 0 1 N N N 2.295 -1.547 40.912 4.401  0.443  0.433  HN1 TSC 16 
+TSC HN2 2HN H 0 1 N N N 3.126 -2.316 42.089 3.989  -1.090 0.753  HN2 TSC 17 
+TSC HB1 1HB H 0 1 N N N 3.464 -1.011 39.160 1.806  -0.345 1.591  HB1 TSC 18 
+TSC HB2 2HB H 0 1 N N N 2.916 -2.406 38.211 2.404  1.294  1.238  HB2 TSC 19 
+TSC HD1 HD1 H 0 1 N N N 6.277 -0.964 39.678 0.742  2.947  0.021  HD1 TSC 20 
+TSC HE1 HE1 H 0 1 N N N 8.220 -1.731 38.191 -1.731 2.843  -0.578 HE1 TSC 21 
+TSC HZ2 HZ2 H 0 1 N N N 8.551 -3.432 35.944 -3.810 0.862  -0.687 HZ2 TSC 22 
+TSC HH2 HH2 H 0 1 N N N 7.257 -4.909 34.425 -4.171 -1.532 -0.281 HH2 TSC 23 
+TSC HZ3 HZ3 H 0 1 N N N 4.796 -5.124 34.715 -2.322 -2.963 0.480  HZ3 TSC 24 
+TSC HE3 HE3 H 0 1 N N N 3.642 -3.913 36.558 -0.096 -2.021 0.844  HE3 TSC 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TSC O1  CA  SING N N 1  
+TSC O1  HO1 SING N N 2  
+TSC CA  N   SING N N 3  
+TSC CA  CB  SING N N 4  
+TSC CA  HA  SING N N 5  
+TSC N   HN1 SING N N 6  
+TSC N   HN2 SING N N 7  
+TSC CB  CG  SING N N 8  
+TSC CB  HB1 SING N N 9  
+TSC CB  HB2 SING N N 10 
+TSC CG  CD1 DOUB Y N 11 
+TSC CG  CD2 SING Y N 12 
+TSC CD1 NE1 SING Y N 13 
+TSC CD1 HD1 SING N N 14 
+TSC NE1 CE2 SING Y N 15 
+TSC NE1 HE1 SING N N 16 
+TSC CE2 CD2 SING Y N 17 
+TSC CE2 CZ2 DOUB Y N 18 
+TSC CD2 CE3 DOUB Y N 19 
+TSC CZ2 CH2 SING Y N 20 
+TSC CZ2 HZ2 SING N N 21 
+TSC CH2 CZ3 DOUB Y N 22 
+TSC CH2 HH2 SING N N 23 
+TSC CZ3 CE3 SING Y N 24 
+TSC CZ3 HZ3 SING N N 25 
+TSC CE3 HE3 SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TSC SMILES           ACDLabs              10.04 "OC(N)Cc2c1ccccc1nc2"                                                                      
+TSC SMILES_CANONICAL CACTVS               3.341 "N[C@@H](O)Cc1c[nH]c2ccccc12"                                                              
+TSC SMILES           CACTVS               3.341 "N[CH](O)Cc1c[nH]c2ccccc12"                                                                
+TSC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)c(c[nH]2)C[C@@H](N)O"                                                          
+TSC SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)c(c[nH]2)CC(N)O"                                                               
+TSC InChI            InChI                1.03  "InChI=1S/C10H12N2O/c11-10(13)5-7-6-12-9-4-2-1-3-8(7)9/h1-4,6,10,12-13H,5,11H2/t10-/m0/s1" 
+TSC InChIKey         InChI                1.03  WNWJSYYPDDQIQV-JTQLQIEISA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TSC "SYSTEMATIC NAME" ACDLabs              10.04 "(1S)-1-amino-2-(1H-indol-3-yl)ethanol" 
+TSC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1S)-1-amino-2-(1H-indol-3-yl)ethanol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TSC "Create component"  2005-08-09 EBI  
+TSC "Modify descriptor" 2011-06-04 RCSB 
+# 

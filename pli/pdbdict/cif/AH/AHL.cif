@@ -1,0 +1,142 @@
+data_AHL
+# 
+_chem_comp.id                                    AHL 
+_chem_comp.name                                  N-HYDROXY-L-ARGININAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H15 N5 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ARG 
+_chem_comp.pdbx_synonyms                         "L-ARGININE HYDROXAMATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-03-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.216 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AHL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2G7Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AHL N1   N1   N 0 1 N N N 12.672 33.010 63.063 1.733  2.133  -0.140 N1   AHL 1  
+AHL CA   CA   C 0 1 N N S 11.272 33.299 63.140 1.783  0.761  0.383  CA   AHL 2  
+AHL CB   CB   C 0 1 N N N 10.744 33.432 61.728 0.593  -0.034 -0.158 CB   AHL 3  
+AHL CG   CG   C 0 1 N N N 9.384  34.114 61.745 -0.708 0.560  0.386  CG   AHL 4  
+AHL CD   CD   C 0 1 N N N 8.783  34.295 60.371 -1.897 -0.236 -0.155 CD   AHL 5  
+AHL NE   NE   N 0 1 N N N 8.398  33.016 59.740 -3.143 0.333  0.367  NE   AHL 6  
+AHL CZ   CZ   C 0 1 N N N 8.450  32.720 58.437 -4.351 -0.221 0.015  CZ   AHL 7  
+AHL NH1  NH1  N 0 1 N N N 9.245  33.382 57.610 -4.391 -1.307 -0.826 NH1  AHL 8  
+AHL NH2  NH2  N 0 1 N N N 7.682  31.746 57.965 -5.459 0.285  0.480  NH2  AHL 9  
+AHL C    C    C 0 1 N N N 10.501 32.178 63.862 3.067  0.104  -0.054 C    AHL 10 
+AHL O1   O1   O 0 1 N N N 10.397 31.054 63.321 3.683  0.546  -1.000 O1   AHL 11 
+AHL N2   N2   N 0 1 N N N 10.019 32.404 64.905 3.530  -0.975 0.608  N2   AHL 12 
+AHL O2   O2   O 0 1 N N N 9.321  31.520 65.619 4.736  -1.593 0.198  O2   AHL 13 
+AHL HN11 1HN1 H 0 0 N N N 13.188 33.742 63.507 2.584  2.587  0.155  HN11 AHL 14 
+AHL HN12 2HN1 H 0 0 N N N 12.947 32.943 62.104 1.776  2.062  -1.146 HN12 AHL 15 
+AHL HA   HA   H 0 1 N N N 11.130 34.228 63.712 1.739  0.786  1.471  HA   AHL 16 
+AHL HB1  1HB  H 0 1 N N N 10.641 32.431 61.284 0.587  0.016  -1.247 HB1  AHL 17 
+AHL HB2  2HB  H 0 1 N N N 11.446 34.034 61.132 0.678  -1.074 0.157  HB2  AHL 18 
+AHL HG1  1HG  H 0 1 N N N 9.528  35.117 62.172 -0.702 0.509  1.475  HG1  AHL 19 
+AHL HG2  2HG  H 0 1 N N N 8.697  33.494 62.340 -0.792 1.600  0.071  HG2  AHL 20 
+AHL HD1  1HD  H 0 1 N N N 9.547  34.764 59.733 -1.903 -0.186 -1.243 HD1  AHL 21 
+AHL HD2  2HD  H 0 1 N N N 7.882  34.919 60.466 -1.813 -1.276 0.161  HD2  AHL 22 
+AHL HNE  HNE  H 0 1 N N N 8.064  32.298 60.350 -3.115 1.099  0.961  HNE  AHL 23 
+AHL HH11 1HH1 H 0 0 N N N 9.322  33.205 56.629 -5.244 -1.698 -1.074 HH11 AHL 24 
+AHL HH12 2HH1 H 0 0 N N N 9.757  34.084 58.105 -3.567 -1.684 -1.171 HH12 AHL 25 
+AHL HNH2 HNH2 H 0 0 N N N 7.824  31.635 56.981 -6.312 -0.105 0.232  HNH2 AHL 26 
+AHL HN2  HN2  H 0 1 N N N 10.139 33.321 65.286 3.037  -1.328 1.365  HN2  AHL 27 
+AHL HO2  HO2  H 0 1 N N N 9.155  30.747 65.092 4.887  -2.337 0.797  HO2  AHL 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AHL N1  CA   SING N N 1  
+AHL N1  HN11 SING N N 2  
+AHL N1  HN12 SING N N 3  
+AHL CA  CB   SING N N 4  
+AHL CA  C    SING N N 5  
+AHL CA  HA   SING N N 6  
+AHL CB  CG   SING N N 7  
+AHL CB  HB1  SING N N 8  
+AHL CB  HB2  SING N N 9  
+AHL CG  CD   SING N N 10 
+AHL CG  HG1  SING N N 11 
+AHL CG  HG2  SING N N 12 
+AHL CD  NE   SING N N 13 
+AHL CD  HD1  SING N N 14 
+AHL CD  HD2  SING N N 15 
+AHL NE  CZ   SING N N 16 
+AHL NE  HNE  SING N N 17 
+AHL CZ  NH1  SING N N 18 
+AHL CZ  NH2  DOUB N E 19 
+AHL NH1 HH11 SING N N 20 
+AHL NH1 HH12 SING N N 21 
+AHL NH2 HNH2 SING N N 22 
+AHL C   O1   DOUB N N 23 
+AHL C   N2   SING N N 24 
+AHL N2  O2   SING N N 25 
+AHL N2  HN2  SING N N 26 
+AHL O2  HO2  SING N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AHL SMILES           ACDLabs              10.04 "O=C(NO)C(N)CCCNC(=[N@H])N"                                                                       
+AHL SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCCNC(N)=N)C(=O)NO"                                                                      
+AHL SMILES           CACTVS               3.341 "N[CH](CCCNC(N)=N)C(=O)NO"                                                                        
+AHL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[H]/N=C(\N)/NCCC[C@@H](C(=O)NO)N"                                                                
+AHL SMILES           "OpenEye OEToolkits" 1.5.0 "[H]N=C(N)NCCCC(C(=O)NO)N"                                                                        
+AHL InChI            InChI                1.03  "InChI=1S/C6H15N5O2/c7-4(5(12)11-13)2-1-3-10-6(8)9/h4,13H,1-3,7H2,(H,11,12)(H4,8,9,10)/t4-/m0/s1" 
+AHL InChIKey         InChI                1.03  IXHTVNGQTIZAFS-BYPYZUCNSA-N                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AHL "SYSTEMATIC NAME" ACDLabs              10.04 N-hydroxy-L-argininamide                               
+AHL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-5-carbamimidamido-N-hydroxy-pentanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AHL "Create component"  2006-03-07 RCSB 
+AHL "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,128 @@
+data_MEW
+# 
+_chem_comp.id                                    MEW 
+_chem_comp.name                                  "2-methylquinazolin-4(3H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H8 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-09-19 
+_chem_comp.pdbx_modified_date                    2013-06-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        160.173 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MEW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4GV7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MEW CAN CAN C 0 1 N N N 7.569 -10.597 66.372 3.271  -1.277 -0.001 CAN MEW 1  
+MEW CAT CAT C 0 1 N N N 7.198 -11.995 66.829 1.913  -0.622 -0.001 CAT MEW 2  
+MEW NAO NAO N 0 1 N N N 6.423 -12.767 66.023 0.862  -1.384 -0.001 NAO MEW 3  
+MEW CAV CAV C 0 1 Y N N 6.102 -14.042 66.366 -0.392 -0.865 -0.001 CAV MEW 4  
+MEW CAK CAK C 0 1 Y N N 5.323 -14.812 65.508 -1.523 -1.684 0.000  CAK MEW 5  
+MEW CAG CAG C 0 1 Y N N 4.986 -16.093 65.853 -2.776 -1.115 0.001  CAG MEW 6  
+MEW CAH CAH C 0 1 Y N N 5.415 -16.591 67.075 -2.931 0.265  0.001  CAH MEW 7  
+MEW CAL CAL C 0 1 Y N N 6.202 -15.876 67.977 -1.831 1.094  -0.000 CAL MEW 8  
+MEW CAW CAW C 0 1 Y N N 6.546 -14.587 67.601 -0.553 0.538  -0.001 CAW MEW 9  
+MEW CAU CAU C 0 1 N N N 7.315 -13.802 68.425 0.658  1.372  -0.001 CAU MEW 10 
+MEW OAC OAC O 0 1 N N N 7.699 -14.283 69.470 0.589  2.587  -0.001 OAC MEW 11 
+MEW NAQ NAQ N 0 1 N N N 7.657 -12.508 68.048 1.853  0.735  0.004  NAQ MEW 12 
+MEW H1  H1  H 0 1 N N N 7.123 -10.403 65.385 3.596  -1.439 1.027  H1  MEW 13 
+MEW H2  H2  H 0 1 N N N 7.190 -9.862  67.097 3.212  -2.234 -0.519 H2  MEW 14 
+MEW H3  H3  H 0 1 N N N 8.664 -10.512 66.303 3.986  -0.631 -0.511 H3  MEW 15 
+MEW H4  H4  H 0 1 N N N 4.984 -14.399 64.569 -1.415 -2.759 0.000  H4  MEW 16 
+MEW H5  H5  H 0 1 N N N 4.397 -16.705 65.186 -3.650 -1.750 0.001  H5  MEW 17 
+MEW H6  H6  H 0 1 N N N 5.121 -17.595 67.344 -3.923 0.693  0.001  H6  MEW 18 
+MEW H7  H7  H 0 1 N N N 6.525 -16.302 68.915 -1.957 2.166  -0.001 H7  MEW 19 
+MEW H8  H8  H 0 1 N N N 8.229 -11.946 68.646 2.673  1.253  0.008  H8  MEW 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MEW CAK CAG DOUB Y N 1  
+MEW CAK CAV SING Y N 2  
+MEW CAG CAH SING Y N 3  
+MEW NAO CAV SING N N 4  
+MEW NAO CAT DOUB N N 5  
+MEW CAV CAW DOUB Y N 6  
+MEW CAN CAT SING N N 7  
+MEW CAT NAQ SING N N 8  
+MEW CAH CAL DOUB Y N 9  
+MEW CAW CAL SING Y N 10 
+MEW CAW CAU SING N N 11 
+MEW NAQ CAU SING N N 12 
+MEW CAU OAC DOUB N N 13 
+MEW CAN H1  SING N N 14 
+MEW CAN H2  SING N N 15 
+MEW CAN H3  SING N N 16 
+MEW CAK H4  SING N N 17 
+MEW CAG H5  SING N N 18 
+MEW CAH H6  SING N N 19 
+MEW CAL H7  SING N N 20 
+MEW NAQ H8  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MEW SMILES           ACDLabs              12.01 "O=C1c2ccccc2N=C(N1)C"                                                    
+MEW InChI            InChI                1.03  "InChI=1S/C9H8N2O/c1-6-10-8-5-3-2-4-7(8)9(12)11-6/h2-5H,1H3,(H,10,11,12)" 
+MEW InChIKey         InChI                1.03  FIEYHAAMDAPVCH-UHFFFAOYSA-N                                               
+MEW SMILES_CANONICAL CACTVS               3.370 "CC1=Nc2ccccc2C(=O)N1"                                                    
+MEW SMILES           CACTVS               3.370 "CC1=Nc2ccccc2C(=O)N1"                                                    
+MEW SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC1=Nc2ccccc2C(=O)N1"                                                    
+MEW SMILES           "OpenEye OEToolkits" 1.7.6 "CC1=Nc2ccccc2C(=O)N1"                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MEW "SYSTEMATIC NAME" ACDLabs              12.01 "2-methylquinazolin-4(3H)-one" 
+MEW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 2-methyl-3H-quinazolin-4-one   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MEW "Create component" 2012-09-19 PDBJ 
+MEW "Initial release"  2013-06-19 RCSB 
+# 

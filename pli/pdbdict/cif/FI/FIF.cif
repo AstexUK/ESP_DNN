@@ -1,0 +1,130 @@
+data_FIF
+# 
+_chem_comp.id                                    FIF 
+_chem_comp.name                                  "2-deoxy-2-fluoro-alpha-L-idopyranuronosyl fluoride, bound form" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H9 F O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-05-07 
+_chem_comp.pdbx_modified_date                    2013-09-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.131 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FIF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4KH2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FIF O6B O6B O 0 1 N N N 0.624  -79.935 27.961 -2.974 -0.985 -0.131 O6B FIF 1  
+FIF C6  C6  C 0 1 N N N 1.205  -81.025 27.689 -2.163 0.032  0.204  C6  FIF 2  
+FIF O6A O6A O 0 1 N N N 2.349  -81.078 27.136 -2.590 1.162  0.228  O6A FIF 3  
+FIF C5  C5  C 0 1 N N R 0.484  -82.315 28.044 -0.721 -0.237 0.547  C5  FIF 4  
+FIF O5  O5  O 0 1 N N N 1.378  -83.415 28.300 -0.100 0.976  0.978  O5  FIF 5  
+FIF C4  C4  C 0 1 N N S -0.420 -82.645 26.845 0.008  -0.771 -0.689 C4  FIF 6  
+FIF O4  O4  O 0 1 N N N 0.402  -82.835 25.657 -0.105 0.174  -1.755 O4  FIF 7  
+FIF C3  C3  C 0 1 N N S -1.334 -83.860 27.121 1.486  -0.984 -0.348 C3  FIF 8  
+FIF O3  O3  O 0 1 N N N -2.647 -83.434 27.511 1.602  -1.977 0.673  O3  FIF 9  
+FIF C2  C2  C 0 1 N N S -0.717 -84.770 28.187 2.079  0.337  0.151  C2  FIF 10 
+FIF F2  F2  F 0 1 N N N -1.210 -86.045 28.026 2.024  1.290  -0.871 F2  FIF 11 
+FIF C1  C1  C 0 1 N N N 0.830  -84.755 28.085 1.271  0.828  1.355  C1  FIF 12 
+FIF H1  H1  H 0 1 N N N 1.172  -79.208 27.690 -3.891 -0.763 -0.343 H1  FIF 13 
+FIF H2  H2  H 0 1 N N N -0.151 -82.136 28.924 -0.669 -0.976 1.347  H2  FIF 14 
+FIF H3  H3  H 0 1 N N N -1.074 -81.776 26.678 -0.437 -1.719 -0.992 H3  FIF 15 
+FIF H4  H4  H 0 1 N N N 0.947  -82.069 25.523 -1.016 0.357  -2.023 H4  FIF 16 
+FIF H5  H5  H 0 1 N N N -1.408 -84.439 26.188 2.021  -1.313 -1.239 H5  FIF 17 
+FIF H6  H6  H 0 1 N N N -3.191 -84.195 27.676 2.513  -2.163 0.939  H6  FIF 18 
+FIF H7  H7  H 0 1 N N N -0.995 -84.376 29.176 3.116  0.181  0.448  H7  FIF 19 
+FIF H8  H8  H 0 1 N N N 1.243  -85.434 28.845 1.662  1.789  1.688  H8  FIF 20 
+FIF H9  H9  H 0 1 N N N 1.124  -85.103 27.084 1.349  0.103  2.165  H9  FIF 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FIF O4  C4  SING N N 1  
+FIF C4  C3  SING N N 2  
+FIF C4  C5  SING N N 3  
+FIF C3  O3  SING N N 4  
+FIF C3  C2  SING N N 5  
+FIF O6A C6  DOUB N N 6  
+FIF C6  O6B SING N N 7  
+FIF C6  C5  SING N N 8  
+FIF F2  C2  SING N N 9  
+FIF C5  O5  SING N N 10 
+FIF C1  C2  SING N N 11 
+FIF C1  O5  SING N N 12 
+FIF O6B H1  SING N N 13 
+FIF C5  H2  SING N N 14 
+FIF C4  H3  SING N N 15 
+FIF O4  H4  SING N N 16 
+FIF C3  H5  SING N N 17 
+FIF O3  H6  SING N N 18 
+FIF C2  H7  SING N N 19 
+FIF C1  H8  SING N N 20 
+FIF C1  H9  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FIF SMILES           ACDLabs              12.01 "FC1C(O)C(O)C(OC1)C(=O)O"                                                                   
+FIF InChI            InChI                1.03  "InChI=1S/C6H9FO5/c7-2-1-12-5(6(10)11)4(9)3(2)8/h2-5,8-9H,1H2,(H,10,11)/t2-,3+,4-,5+/m0/s1" 
+FIF InChIKey         InChI                1.03  KRAJNEOUENOZDR-SKNVOMKLSA-N                                                                 
+FIF SMILES_CANONICAL CACTVS               3.370 "O[C@@H]1[C@@H](F)CO[C@H]([C@H]1O)C(O)=O"                                                   
+FIF SMILES           CACTVS               3.370 "O[CH]1[CH](F)CO[CH]([CH]1O)C(O)=O"                                                         
+FIF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1[C@@H]([C@H]([C@@H]([C@@H](O1)C(=O)O)O)O)F"                                              
+FIF SMILES           "OpenEye OEToolkits" 1.7.6 "C1C(C(C(C(O1)C(=O)O)O)O)F"                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FIF "SYSTEMATIC NAME" ACDLabs              12.01 "2,6-anhydro-5-deoxy-5-fluoro-L-idonic acid"                         
+FIF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R,3S,4S,5S)-5-fluoranyl-3,4-bis(oxidanyl)oxane-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FIF "Create component"   2013-05-07 RCSB 
+FIF "Other modification" 2013-05-07 RCSB 
+FIF "Initial release"    2013-09-18 RCSB 
+# 

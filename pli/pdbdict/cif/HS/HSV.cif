@@ -1,0 +1,126 @@
+data_HSV
+# 
+_chem_comp.id                                    HSV 
+_chem_comp.name                                  L-histidinal 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H10 N3 O" 
+_chem_comp.mon_nstd_parent_comp_id               HIS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2015-06-17 
+_chem_comp.pdbx_modified_date                    2015-06-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        140.163 
+_chem_comp.one_letter_code                       H 
+_chem_comp.three_letter_code                     HSV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3AVZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HSV N   N   N 0 1 N N N -22.056 -42.076 2.105  -1.368 1.195  -0.639 N   HSV 1  
+HSV CA  CA  C 0 1 N N S -21.144 -42.536 1.065  -1.396 -0.247 -0.360 CA  HSV 2  
+HSV CB  CB  C 0 1 N N N -19.784 -41.849 1.203  -0.436 -0.563 0.788  CB  HSV 3  
+HSV CG  CG  C 0 1 Y N N -19.783 -40.418 0.763  0.978  -0.268 0.356  CG  HSV 4  
+HSV ND1 ND1 N 1 1 Y N N -18.699 -39.585 0.941  1.648  0.872  0.578  ND1 HSV 5  
+HSV CD2 CD2 C 0 1 Y N N -20.733 -39.672 0.152  1.791  -1.106 -0.316 CD2 HSV 6  
+HSV CE1 CE1 C 0 1 Y N N -18.982 -38.388 0.459  2.844  0.775  0.065  CE1 HSV 7  
+HSV NE2 NE2 N 0 1 Y N N -20.211 -38.414 -0.026 2.976  -0.445 -0.498 NE2 HSV 8  
+HSV C   C   C 0 1 N N N -20.972 -44.051 1.113  -2.794 -0.656 0.027  C   HSV 9  
+HSV O   O   O 0 1 N N N -21.343 -44.757 0.175  -3.675 0.168  0.067  O   HSV 10 
+HSV H1  H1  H 0 1 N N N -22.150 -41.082 2.051  -1.945 1.421  -1.435 H1  HSV 11 
+HSV H2  H2  H 0 1 N Y N -22.951 -42.503 1.976  -1.648 1.726  0.173  H2  HSV 12 
+HSV HA  H4  H 0 1 N N N -21.561 -42.271 0.082  -1.091 -0.795 -1.251 H4  HSV 13 
+HSV HB2 H5  H 0 1 N N N -19.053 -42.400 0.593  -0.687 0.052  1.652  H5  HSV 14 
+HSV HB3 H6  H 0 1 N N N -19.482 -41.887 2.260  -0.522 -1.617 1.054  H6  HSV 15 
+HSV HD1 H7  H 0 1 N N N -17.833 -39.846 1.368  1.299  1.646  1.046  H7  HSV 16 
+HSV HD2 H8  H 0 1 N N N -21.718 -40.004 -0.141 1.554  -2.106 -0.647 H8  HSV 17 
+HSV HE1 H9  H 0 1 N N N -18.321 -37.534 0.461  3.605  1.541  0.093  H9  HSV 18 
+HSV HE2 H10 H 0 1 N N N -20.684 -37.643 -0.453 3.763  -0.789 -0.949 H10 HSV 19 
+HSV HC  H11 H 0 1 N Y N -20.520 -44.510 1.980  -3.007 -1.687 0.269  H11 HSV 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HSV NE2 CD2 SING Y N 1  
+HSV NE2 CE1 SING Y N 2  
+HSV CD2 CG  DOUB Y N 3  
+HSV O   C   DOUB N N 4  
+HSV CE1 ND1 DOUB Y N 5  
+HSV CG  ND1 SING Y N 6  
+HSV CG  CB  SING N N 7  
+HSV CA  C   SING N N 8  
+HSV CA  CB  SING N N 9  
+HSV CA  N   SING N N 10 
+HSV N   H1  SING N N 11 
+HSV N   H2  SING N N 12 
+HSV CA  HA  SING N N 13 
+HSV CB  HB2 SING N N 14 
+HSV CB  HB3 SING N N 15 
+HSV ND1 HD1 SING N N 16 
+HSV CD2 HD2 SING N N 17 
+HSV CE1 HE1 SING N N 18 
+HSV NE2 HE2 SING N N 19 
+HSV C   HC  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HSV SMILES           ACDLabs              12.01 "NC(C=O)Cc1[nH+]cnc1"                                                        
+HSV InChI            InChI                1.03  "InChI=1S/C6H9N3O/c7-5(3-10)1-6-2-8-4-9-6/h2-5H,1,7H2,(H,8,9)/p+1/t5-/m0/s1" 
+HSV InChIKey         InChI                1.03  VYOIELONWKIZJS-YFKPBYRVSA-O                                                  
+HSV SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1c[nH]c[nH+]1)C=O"                                                
+HSV SMILES           CACTVS               3.385 "N[CH](Cc1c[nH]c[nH+]1)C=O"                                                  
+HSV SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c([nH+]c[nH]1)C[C@@H](C=O)N"                                              
+HSV SMILES           "OpenEye OEToolkits" 1.7.6 "c1c([nH+]c[nH]1)CC(C=O)N"                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HSV "SYSTEMATIC NAME" ACDLabs              12.01 "4-[(2S)-2-amino-3-oxopropyl]-1H-imidazol-3-ium"   
+HSV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-azanyl-3-(1H-imidazol-3-ium-4-yl)propanal" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HSV "Create component" 2015-06-17 RCSB 
+# 

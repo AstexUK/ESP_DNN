@@ -1,0 +1,118 @@
+data_13X
+# 
+_chem_comp.id                                    13X 
+_chem_comp.name                                  benzene-1,3,5-triol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Phloroglucinol 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-05 
+_chem_comp.pdbx_modified_date                    2012-10-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        126.110 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     13X 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4HDK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+13X O9 O9 O 0 1 N N N 34.134 10.198 51.855 1.127  -2.503 0.035  O9 13X 1  
+13X C4 C4 C 0 1 Y N N 33.085 11.093 51.581 0.569  -1.264 0.020  C4 13X 2  
+13X C3 C3 C 0 1 Y N N 33.398 12.467 51.462 -0.810 -1.125 -0.006 C3 13X 3  
+13X C2 C2 C 0 1 Y N N 32.329 13.344 51.183 -1.380 0.139  -0.022 C2 13X 4  
+13X O8 O8 O 0 1 N N N 32.606 14.673 51.133 -2.731 0.275  -0.048 O8 13X 5  
+13X C5 C5 C 0 1 Y N N 31.803 10.624 51.278 1.379  -0.139 0.036  C5 13X 6  
+13X C6 C6 C 0 1 Y N N 30.840 11.530 50.939 0.810  1.125  0.021  C6 13X 7  
+13X O7 O7 O 0 1 N N N 29.634 11.079 50.628 1.604  2.228  0.037  O7 13X 8  
+13X C1 C1 C 0 1 Y N N 31.106 12.902 50.873 -0.570 1.264  -0.011 C1 13X 9  
+13X H1 H1 H 0 1 N N N 34.928 10.686 52.039 1.305  -2.866 -0.844 H1 13X 10 
+13X H2 H2 H 0 1 N N N 34.409 12.828 51.579 -1.441 -2.002 -0.014 H2 13X 11 
+13X H3 H3 H 0 1 N N N 33.512 14.818 51.380 -3.139 0.318  0.828  H3 13X 12 
+13X H4 H4 H 0 1 N N N 31.580 9.568  51.311 2.454  -0.247 0.060  H4 13X 13 
+13X H5 H5 H 0 1 N N N 29.615 10.134 50.722 1.853  2.546  -0.842 H5 13X 14 
+13X H6 H6 H 0 1 N N N 30.333 13.595 50.575 -1.013 2.249  -0.023 H6 13X 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+13X O7 C6 SING N N 1  
+13X C1 C6 DOUB Y N 2  
+13X C1 C2 SING Y N 3  
+13X C6 C5 SING Y N 4  
+13X O8 C2 SING N N 5  
+13X C2 C3 DOUB Y N 6  
+13X C5 C4 DOUB Y N 7  
+13X C3 C4 SING Y N 8  
+13X C4 O9 SING N N 9  
+13X O9 H1 SING N N 10 
+13X C3 H2 SING N N 11 
+13X O8 H3 SING N N 12 
+13X C5 H4 SING N N 13 
+13X O7 H5 SING N N 14 
+13X C1 H6 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+13X SMILES           ACDLabs              12.01 "Oc1cc(O)cc(O)c1"                                
+13X InChI            InChI                1.03  "InChI=1S/C6H6O3/c7-4-1-5(8)3-6(9)2-4/h1-3,7-9H" 
+13X InChIKey         InChI                1.03  QCDYQQDYXPDABM-UHFFFAOYSA-N                      
+13X SMILES_CANONICAL CACTVS               3.370 "Oc1cc(O)cc(O)c1"                                
+13X SMILES           CACTVS               3.370 "Oc1cc(O)cc(O)c1"                                
+13X SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c(cc(cc1O)O)O"                                
+13X SMILES           "OpenEye OEToolkits" 1.7.6 "c1c(cc(cc1O)O)O"                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+13X "SYSTEMATIC NAME" ACDLabs              12.01 benzene-1,3,5-triol 
+13X "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 benzene-1,3,5-triol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+13X "Create component"       2012-10-05 RCSB 
+13X "Modify one letter code" 2012-10-09 RCSB 
+13X "Initial release"        2012-10-19 RCSB 
+# 

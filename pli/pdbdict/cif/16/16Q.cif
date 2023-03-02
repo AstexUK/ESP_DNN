@@ -1,0 +1,125 @@
+data_16Q
+# 
+_chem_comp.id                                    16Q 
+_chem_comp.name                                  ethoxybenzene 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H10 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-22 
+_chem_comp.pdbx_modified_date                    2013-10-25 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        122.164 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     16Q 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4HM6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+16Q C9  C9  C 0 1 N N N 13.232 52.414 82.588 3.658  0.043  0.000  C9  16Q 1  
+16Q C8  C8  C 0 1 N N N 13.147 53.420 81.495 2.226  -0.496 -0.002 C8  16Q 2  
+16Q O7  O7  O 0 1 N N N 13.241 52.766 80.261 1.306  0.597  0.001  O7  16Q 3  
+16Q C1  C1  C 0 1 Y N N 13.818 51.546 80.083 -0.018 0.290  -0.001 C1  16Q 4  
+16Q C2  C2  C 0 1 Y N N 14.134 51.174 78.790 -0.423 -1.037 0.002  C2  16Q 5  
+16Q C6  C6  C 0 1 Y N N 14.037 50.702 81.139 -0.967 1.302  0.001  C6  16Q 6  
+16Q C5  C5  C 0 1 Y N N 14.630 49.473 80.893 -2.312 0.986  0.000  C5  16Q 7  
+16Q C4  C4  C 0 1 Y N N 14.959 49.098 79.612 -2.713 -0.337 -0.003 C4  16Q 8  
+16Q C3  C3  C 0 1 Y N N 14.725 49.961 78.566 -1.769 -1.347 0.001  C3  16Q 9  
+16Q H1  H1  H 0 1 N N N 13.159 52.922 83.561 3.817  0.654  -0.888 H1  16Q 10 
+16Q H2  H2  H 0 1 N N N 12.407 51.693 82.488 3.817  0.650  0.891  H2  16Q 11 
+16Q H3  H3  H 0 1 N N N 14.193 51.883 82.523 4.360  -0.791 -0.002 H3  16Q 12 
+16Q H4  H4  H 0 1 N N N 13.972 54.141 81.593 2.067  -1.103 -0.893 H4  16Q 13 
+16Q H5  H5  H 0 1 N N N 12.186 53.951 81.558 2.066  -1.107 0.887  H5  16Q 14 
+16Q H6  H6  H 0 1 N N N 13.916 51.835 77.964 0.314  -1.827 0.004  H6  16Q 15 
+16Q H7  H7  H 0 1 N N N 13.754 50.987 82.141 -0.654 2.336  0.004  H7  16Q 16 
+16Q H8  H8  H 0 1 N N N 14.835 48.804 81.716 -3.051 1.774  0.002  H8  16Q 17 
+16Q H9  H9  H 0 1 N N N 15.400 48.129 79.427 -3.765 -0.581 -0.003 H9  16Q 18 
+16Q H10 H10 H 0 1 N N N 15.009 49.679 77.563 -2.085 -2.380 0.002  H10 16Q 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+16Q C3 C2  DOUB Y N 1  
+16Q C3 C4  SING Y N 2  
+16Q C2 C1  SING Y N 3  
+16Q C4 C5  DOUB Y N 4  
+16Q C1 O7  SING N N 5  
+16Q C1 C6  DOUB Y N 6  
+16Q O7 C8  SING N N 7  
+16Q C5 C6  SING Y N 8  
+16Q C8 C9  SING N N 9  
+16Q C9 H1  SING N N 10 
+16Q C9 H2  SING N N 11 
+16Q C9 H3  SING N N 12 
+16Q C8 H4  SING N N 13 
+16Q C8 H5  SING N N 14 
+16Q C2 H6  SING N N 15 
+16Q C6 H7  SING N N 16 
+16Q C5 H8  SING N N 17 
+16Q C4 H9  SING N N 18 
+16Q C3 H10 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+16Q SMILES           ACDLabs              12.01 "ethyl phenyl ether"                               
+16Q InChI            InChI                1.03  InChI=1S/C8H10O/c1-2-9-8-6-4-3-5-7-8/h3-7H,2H2,1H3 
+16Q InChIKey         InChI                1.03  DLRJIFUOBPOJNS-UHFFFAOYSA-N                        
+16Q SMILES_CANONICAL CACTVS               3.370 CCOc1ccccc1                                        
+16Q SMILES           CACTVS               3.370 CCOc1ccccc1                                        
+16Q SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CCOc1ccccc1                                        
+16Q SMILES           "OpenEye OEToolkits" 1.7.6 CCOc1ccccc1                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+16Q "SYSTEMATIC NAME" ACDLabs              12.01 ethoxybenzene 
+16Q "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 ethoxybenzene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+16Q "Create component" 2012-10-22 RCSB 
+16Q "Initial release"  2013-10-30 RCSB 
+# 

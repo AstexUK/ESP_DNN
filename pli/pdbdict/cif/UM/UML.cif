@@ -1,0 +1,342 @@
+data_UML
+# 
+_chem_comp.id                                    UML 
+_chem_comp.name                                  
+;Uridine 5'Diphospho N-acetyl muramoyl-L-Alanyl-D-Glutamyl-L-Lysine
+;
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C34 H55 N7 O24 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-08-09 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        1007.781 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UML 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4C12 
+_chem_comp.pdbx_subcomponent_list                "UDP MUB ALA DGL LYS" 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UML N1     N1     N 0 1 N N N 100.579 20.808 16.022 8.531   -4.125 -0.779 N1     UDP 1   
+UML C2     C2     C 0 1 N N N 101.044 19.703 15.272 9.364   -3.141 -1.162 C2     UDP 2   
+UML N3     N3     N 0 1 N N N 102.257 19.732 14.678 9.939   -3.156 -2.379 N3     UDP 3   
+UML C4     C4     C 0 1 N N N 103.103 20.774 14.833 9.685   -4.165 -3.238 C4     UDP 4   
+UML C5     C5     C 0 1 N N N 102.747 21.893 15.612 8.810   -5.206 -2.847 C5     UDP 5   
+UML C6     C6     C 0 1 N N N 101.494 21.885 16.251 8.248   -5.166 -1.620 C6     UDP 6   
+UML O2     O2     O 0 1 N N N 100.305 18.720 15.056 9.602   -2.225 -0.399 O2     UDP 7   
+UML O4     O4     O 0 1 N N N 104.227 20.722 14.262 10.204  -4.179 -4.340 O4     UDP 8   
+UML "C1'A" "C1'A" C 0 0 N N R 99.473  20.583 17.028 7.925   -4.084 0.555  "C1'"  UDP 9   
+UML "C2'A" "C2'A" C 0 0 N N R 99.763  20.806 18.513 9.017   -4.157 1.652  "C2'"  UDP 10  
+UML "O2'"  "O2'"  O 0 1 N N N 100.161 19.573 19.081 9.349   -5.514 1.953  "O2'"  UDP 11  
+UML "C3'A" "C3'A" C 0 0 N N S 98.398  21.257 19.009 8.313   -3.481 2.855  "C3'"  UDP 12  
+UML "C4'A" "C4'A" C 0 0 N N R 97.802  22.024 17.846 7.188   -2.646 2.213  "C4'"  UDP 13  
+UML "O4'A" "O4'A" O 0 0 N N N 98.554  21.624 16.697 7.293   -2.807 0.787  "O4'"  UDP 14  
+UML "O3'A" "O3'A" O 0 0 N N N 97.530  20.130 19.202 7.766   -4.467 3.733  "O3'"  UDP 15  
+UML "C5'A" "C5'A" C 0 0 N N N 97.894  23.532 18.033 7.358   -1.171 2.585  "C5'"  UDP 16  
+UML "O5'A" "O5'A" O 0 0 N N N 99.289  23.852 18.119 6.248   -0.423 2.084  "O5'"  UDP 17  
+UML PA     PA     P 0 1 N N N 99.756  25.318 18.502 6.097   1.166  2.293  PA     UDP 18  
+UML O1A    O1A    O 0 1 N N N 98.810  26.369 17.990 7.307   1.848  1.781  O1A    UDP 19  
+UML O2A    O2A    O 0 1 N N N 101.264 25.337 18.288 5.923   1.488  3.861  O2A    UDP 20  
+UML O3A    O3A    O 0 1 N N N 99.584  25.302 20.134 4.804   1.692  1.490  O3A    UDP 21  
+UML PB     PB     P 0 1 N N N 98.911  26.527 20.880 4.331   3.134  0.953  PB     UDP 22  
+UML O1B    O1B    O 0 1 N N N 97.404  26.497 20.686 5.471   3.816  0.301  O1B    UDP 23  
+UML O2B    O2B    O 0 1 N N N 99.545  27.868 20.503 3.812   4.023  2.191  O2B    UDP 24  
+UML "C1'"  "C1'"  C 0 1 N N R 98.282  25.647 23.283 2.571   4.033  -0.845 C1     MUB 25  
+UML "C2'"  "C2'"  C 0 1 N N R 98.496  26.149 24.705 1.102   3.733  -1.150 C2     MUB 26  
+UML "C3'"  "C3'"  C 0 1 N N R 99.843  25.677 25.285 1.016   2.482  -2.031 C3     MUB 27  
+UML "C4'"  "C4'"  C 0 1 N N S 99.870  24.155 25.180 1.840   2.710  -3.302 C4     MUB 28  
+UML "C5'"  "C5'"  C 0 1 N N R 99.671  23.705 23.717 3.281   3.050  -2.914 C5     MUB 29  
+UML "C6'"  "C6'"  C 0 1 N N N 99.673  22.208 23.460 4.095   3.337  -4.177 C6     MUB 30  
+UML "C7'"  "C7'"  C 0 1 N N N 97.580  28.331 25.258 -0.179  4.534  0.762  C7     MUB 31  
+UML "C8'"  "C8'"  C 0 1 N N N 97.653  29.821 25.100 -0.922  4.294  2.051  C8     MUB 32  
+UML C18    C18    C 0 1 N N R 100.942 27.136 26.911 -0.985  1.244  -1.574 C9     MUB 33  
+UML C19    C19    C 0 1 N N N 100.425 27.937 28.071 -2.450  1.571  -1.441 C10    MUB 34  
+UML C20    C20    C 0 1 N N N 102.233 26.450 27.338 -0.826  -0.128 -2.231 C11    MUB 35  
+UML "O1'"  "O1'"  O 0 1 N N N 99.269  26.220 22.415 3.138   2.946  -0.110 O1     MUB 36  
+UML "O3'"  "O3'"  O 0 1 N N N 99.989  26.100 26.647 -0.347  2.236  -2.381 O3     MUB 37  
+UML "O4'"  "O4'"  O 0 1 N N N 101.090 23.584 25.679 1.827   1.523  -4.098 O4     MUB 38  
+UML "O5'"  "O5'"  O 0 1 N N N 98.448  24.241 23.196 3.286   4.204  -2.071 O5     MUB 39  
+UML "O6'"  "O6'"  O 0 1 N N N 98.530  21.625 24.112 5.465   3.541  -3.824 O6     MUB 40  
+UML "O7'"  "O7'"  O 0 1 N N N 96.744  27.829 25.984 -0.083  5.658  0.318  O7     MUB 41  
+UML O18    O18    O 0 1 N N N 101.188 28.681 28.689 -2.921  2.503  -2.057 O11    MUB 42  
+UML "N2'"  "N2'"  N 0 1 N N N 98.475  27.595 24.594 0.379   3.499  0.103  N2     MUB 43  
+UML N4     N4     N 0 1 N N N 99.127  27.804 28.408 -3.236  0.827  -0.638 N      ALA 44  
+UML C21    C21    C 0 1 N N S 98.546  28.505 29.535 -4.660  1.145  -0.509 CA     ALA 45  
+UML C22    C22    C 0 1 N N N 97.785  27.496 30.359 -5.170  0.638  0.816  C      ALA 46  
+UML O19    O19    O 0 1 N N N 97.248  26.557 29.760 -4.417  0.067  1.577  O      ALA 47  
+UML C23    C23    C 0 1 N N N 97.589  29.617 29.067 -5.437  0.475  -1.644 CB     ALA 48  
+UML N5     N5     N 0 1 N N N 97.763  27.691 31.685 -6.462  0.818  1.154  N      DGL 49  
+UML C24    C24    C 0 1 N N R 97.076  26.772 32.603 -6.957  0.326  2.442  CA     DGL 50  
+UML C28    C28    C 0 1 N N N 97.599  25.375 32.448 -6.684  1.352  3.511  C      DGL 51  
+UML O23    O23    O 0 1 N N N 96.827  24.419 32.733 -6.131  2.388  3.227  O      DGL 52  
+UML C25    C25    C 0 1 N N N 97.305  27.259 34.050 -8.464  0.077  2.347  CB     DGL 53  
+UML C26    C26    C 0 1 N N N 98.813  27.324 34.410 -8.733  -1.053 1.351  CG     DGL 54  
+UML C27    C27    C 0 1 N N N 99.274  28.758 34.479 -10.217 -1.298 1.258  CD     DGL 55  
+UML O20    O20    O 0 1 N N N 98.695  29.621 33.808 -10.984 -0.634 1.923  OE1    DGL 56  
+UML O22    O22    O 0 1 N N N 98.781  25.167 32.019 -7.053  1.114  4.780  OXT    DGL 57  
+UML N30    N30    N 0 1 N N N 100.308 29.029 35.281 -10.692 -2.254 0.436  N      LYS 58  
+UML C32    C32    C 0 1 N N S 100.803 30.414 35.420 -12.134 -2.492 0.345  CA     LYS 59  
+UML C31    C31    C 0 1 N N N 101.032 31.150 34.120 -12.559 -3.431 1.446  C      LYS 60  
+UML O38    O38    O 0 1 N N N 101.622 30.590 33.168 -11.740 -3.856 2.225  O      LYS 61  
+UML C33    C33    C 0 1 N N N 102.094 30.309 36.249 -12.464 -3.116 -1.013 CB     LYS 62  
+UML C34    C34    C 0 1 N N N 102.685 31.683 36.606 -12.149 -2.114 -2.125 CG     LYS 63  
+UML C35    C35    C 0 1 N N N 103.931 31.543 37.475 -12.478 -2.738 -3.482 CD     LYS 64  
+UML C36    C36    C 0 1 N N N 105.154 31.049 36.689 -12.163 -1.736 -4.594 CE     LYS 65  
+UML N39    N39    N 0 1 N N N 106.374 31.185 37.512 -12.479 -2.335 -5.898 NZ     LYS 66  
+UML O37    O37    O 0 1 N N N 100.579 32.319 34.015 -13.846 -3.793 1.559  OXT    LYS 67  
+UML H3     H3     H 0 1 N N N 102.537 18.960 14.107 10.537  -2.439 -2.640 HN3    UDP 68  
+UML HE     HE     H 0 1 N N N 103.418 22.733 15.715 8.594   -6.022 -3.521 H5     UDP 69  
+UML H6     H6     H 0 1 N N N 101.222 22.692 16.915 7.577   -5.952 -1.304 H6     UDP 70  
+UML "H1'A" "H1'A" H 0 0 N N N 99.024  19.590 16.880 7.207   -4.896 0.674  "H1'"  UDP 71  
+UML "H2'A" "H2'A" H 0 0 N N N 100.514 21.598 18.651 9.904   -3.598 1.356  "H2'"  UDP 72  
+UML HD     HD     H 0 1 N N N 101.016 19.330 18.745 10.028  -5.611 2.634  "HO2'" UDP 73  
+UML "H3'A" "H3'A" H 0 0 N N N 98.484  21.887 19.906 9.010   -2.838 3.392  "H3'"  UDP 74  
+UML "H4'A" "H4'A" H 0 0 N N N 96.746  21.740 17.730 6.218   -3.007 2.554  "H4'"  UDP 75  
+UML HC     HC     H 0 1 N N N 97.851  19.603 19.924 8.426   -5.059 4.119  "HO3'" UDP 76  
+UML "H5'1" "H5'1" H 0 0 N N N 97.379  23.832 18.957 7.402   -1.073 3.670  "H5'1" UDP 77  
+UML "H5'2" "H5'2" H 0 0 N N N 97.439  24.049 17.175 8.281   -0.790 2.148  "H5'2" UDP 78  
+UML H2A    H2A    H 0 1 N N N 101.504 26.108 17.787 5.148   1.072  4.264  HOA2   UDP 79  
+UML H2B    H2B    H 0 1 N N N 98.869  28.466 20.205 3.064   3.637  2.667  HOB2   UDP 80  
+UML "H1'"  "H1'"  H 0 1 N N N 97.273  25.935 22.951 2.640   4.947  -0.254 H1     MUB 81  
+UML "H2'"  "H2'"  H 0 1 N N N 97.677  25.797 25.349 0.658   4.579  -1.674 H2     MUB 82  
+UML HA     HA     H 0 1 N N N 99.145  28.051 24.008 0.302   2.600  0.458  HN2    MUB 83  
+UML "H8'1" "H8'1" H 0 0 N N N 96.874  30.294 25.715 -1.973  4.102  1.834  H81    MUB 84  
+UML "H8'2" "H8'2" H 0 0 N N N 98.642  30.176 25.425 -0.493  3.432  2.562  H82    MUB 85  
+UML "H8'3" "H8'3" H 0 0 N N N 97.497  30.086 24.044 -0.837  5.174  2.688  H83    MUB 86  
+UML "H3'"  "H3'"  H 0 1 N N N 100.656 26.091 24.670 1.415   1.625  -1.487 H3     MUB 87  
+UML H18    H18    H 0 1 N N N 101.113 27.776 26.033 -0.525  1.229  -0.586 H9     MUB 88  
+UML H201   H201   H 0 0 N N N 102.628 25.857 26.500 0.230   -0.400 -2.254 H111   MUB 89  
+UML H202   H202   H 0 0 N N N 102.973 27.210 27.630 -1.380  -0.872 -1.659 H112   MUB 90  
+UML H203   H203   H 0 0 N N N 102.031 25.788 28.193 -1.213  -0.090 -3.250 H113   MUB 91  
+UML "H4'"  "H4'"  H 0 1 N N N 99.026  23.763 25.766 1.410   3.534  -3.872 H4A    MUB 92  
+UML "H5'"  "H5'"  H 0 1 N N N 100.504 24.132 23.139 3.722   2.208  -2.381 H5     MUB 93  
+UML "H6'1" "H6'1" H 0 0 N N N 99.618  22.018 22.378 4.017   2.491  -4.860 H61    MUB 94  
+UML "H6'2" "H6'2" H 0 0 N N N 100.595 21.765 23.864 3.708   4.233  -4.663 H62    MUB 95  
+UML "H6'"  "H6'"  H 0 1 N N N 98.521  20.688 23.958 6.042   3.728  -4.578 HO6    MUB 96  
+UML HB     HB     H 0 1 N N N 101.057 22.639 25.592 2.330   1.595  -4.921 H4     MUB 97  
+UML H4     H4     H 0 1 N N N 98.545  27.201 27.862 -2.859  0.082  -0.146 H2     ALA 98  
+UML H21    H21    H 0 1 N N N 99.339  28.954 30.151 -4.798  2.225  -0.562 HA     ALA 99  
+UML H231   H231   H 0 0 N N N 98.145  30.352 28.466 -6.497  0.711  -1.548 HB1    ALA 100 
+UML H232   H232   H 0 0 N N N 96.787  29.177 28.457 -5.069  0.842  -2.602 HB2    ALA 101 
+UML H233   H233   H 0 0 N N N 97.151  30.117 29.944 -5.299  -0.605 -1.591 HB3    ALA 102 
+UML H5     H5     H 0 1 N N N 98.231  28.490 32.063 -7.064  1.275  0.546  H2     DGL 103 
+UML H24    H24    H 0 1 N N N 95.996  26.780 32.395 -6.450  -0.606 2.694  HA     DGL 104 
+UML H251   H251   H 0 0 N N N 96.804  26.565 34.742 -8.848  -0.204 3.328  HB2    DGL 105 
+UML H252   H252   H 0 0 N N N 96.870  28.263 34.160 -8.962  0.986  2.009  HB3    DGL 106 
+UML H261   H261   H 0 0 N N N 99.393  26.793 33.641 -8.349  -0.771 0.371  HG2    DGL 107 
+UML H262   H262   H 0 0 N N N 98.974  26.844 35.387 -8.235  -1.962 1.689  HG3    DGL 108 
+UML H22    H22    H 0 1 N N N 98.939  24.232 31.966 -6.857  1.802  5.431  HXT    DGL 109 
+UML H30    H30    H 0 1 N N N 100.749 28.290 35.790 -10.078 -2.785 -0.096 H2     LYS 110 
+UML H32    H32    H 0 1 N N N 100.073 30.987 36.011 -12.666 -1.546 0.449  HA     LYS 111 
+UML H331   H331   H 0 0 N N N 101.870 29.769 37.181 -11.865 -4.016 -1.154 HB2    LYS 112 
+UML H332   H332   H 0 0 N N N 102.840 29.745 35.669 -13.522 -3.375 -1.046 HB3    LYS 113 
+UML H341   H341   H 0 0 N N N 102.953 32.210 35.678 -12.747 -1.214 -1.983 HG2    LYS 114 
+UML H342   H342   H 0 0 N N N 101.930 32.266 37.154 -11.090 -1.855 -2.091 HG3    LYS 115 
+UML H351   H351   H 0 0 N N N 104.167 32.525 37.911 -11.879 -3.638 -3.623 HD2    LYS 116 
+UML H352   H352   H 0 0 N N N 103.718 30.825 38.281 -13.536 -2.997 -3.516 HD3    LYS 117 
+UML H361   H361   H 0 0 N N N 105.012 29.992 36.421 -12.762 -0.836 -4.453 HE2    LYS 118 
+UML H362   H362   H 0 0 N N N 105.264 31.648 35.773 -11.104 -1.477 -4.561 HE3    LYS 119 
+UML H391   H391   H 0 0 N N N 107.165 30.861 36.993 -13.440 -2.642 -5.931 HZ1    LYS 120 
+UML H392   H392   H 0 0 N N N 106.506 32.146 37.756 -12.279 -1.692 -6.649 HZ2    LYS 121 
+UML H37    H37    H 0 1 N N N 100.762 32.653 33.145 -14.070 -4.396 2.281  HXT    LYS 122 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UML O38    C31    DOUB N N 1   
+UML C31    O37    SING N N 2   
+UML C31    C32    SING N N 3   
+UML C32    C33    SING N N 4   
+UML C32    N30    SING N N 5   
+UML C33    C34    SING N N 6   
+UML C34    C35    SING N N 7   
+UML C35    C36    SING N N 8   
+UML C36    N39    SING N N 9   
+UML N30    C27    SING N N 10  
+UML C27    O20    DOUB N N 11  
+UML C27    C26    SING N N 12  
+UML C26    C25    SING N N 13  
+UML C25    C24    SING N N 14  
+UML C24    C28    SING N N 15  
+UML C24    N5     SING N N 16  
+UML C28    O23    DOUB N N 17  
+UML C28    O22    SING N N 18  
+UML N5     C22    SING N N 19  
+UML C22    O19    DOUB N N 20  
+UML C22    C21    SING N N 21  
+UML C21    C23    SING N N 22  
+UML C21    N4     SING N N 23  
+UML N4     C19    SING N N 24  
+UML C19    O18    DOUB N N 25  
+UML C19    C18    SING N N 26  
+UML C18    C20    SING N N 27  
+UML C18    "O3'"  SING N N 28  
+UML "O3'"  "C3'"  SING N N 29  
+UML "C3'"  "C2'"  SING N N 30  
+UML "C3'"  "C4'"  SING N N 31  
+UML "C2'"  "N2'"  SING N N 32  
+UML "C2'"  "C1'"  SING N N 33  
+UML "N2'"  "C7'"  SING N N 34  
+UML "C7'"  "C8'"  SING N N 35  
+UML "C7'"  "O7'"  DOUB N N 36  
+UML "C4'"  "O4'"  SING N N 37  
+UML "C4'"  "C5'"  SING N N 38  
+UML "C5'"  "C6'"  SING N N 39  
+UML "C5'"  "O5'"  SING N N 40  
+UML "C6'"  "O6'"  SING N N 41  
+UML "O5'"  "C1'"  SING N N 42  
+UML "C1'"  "O1'"  SING N N 43  
+UML "O1'"  PB     SING N N 44  
+UML PB     O1B    DOUB N N 45  
+UML PB     O2B    SING N N 46  
+UML PB     O3A    SING N N 47  
+UML O3A    PA     SING N N 48  
+UML PA     O1A    DOUB N N 49  
+UML PA     O2A    SING N N 50  
+UML PA     "O5'A" SING N N 51  
+UML "O5'A" "C5'A" SING N N 52  
+UML "C5'A" "C4'A" SING N N 53  
+UML "C4'A" "C3'A" SING N N 54  
+UML "C4'A" "O4'A" SING N N 55  
+UML "C3'A" "O3'A" SING N N 56  
+UML "C3'A" "C2'A" SING N N 57  
+UML "C2'A" "O2'"  SING N N 58  
+UML "C2'A" "C1'A" SING N N 59  
+UML "O4'A" "C1'A" SING N N 60  
+UML "C1'A" N1     SING N N 61  
+UML N1     C6     SING N N 62  
+UML N1     C2     SING N N 63  
+UML C6     C5     DOUB N N 64  
+UML C5     C4     SING N N 65  
+UML C2     O2     DOUB N N 66  
+UML C2     N3     SING N N 67  
+UML N3     C4     SING N N 68  
+UML C4     O4     DOUB N N 69  
+UML O37    H37    SING N N 70  
+UML C32    H32    SING N N 71  
+UML C33    H331   SING N N 72  
+UML C33    H332   SING N N 73  
+UML N30    H30    SING N N 74  
+UML C34    H341   SING N N 75  
+UML C34    H342   SING N N 76  
+UML C35    H351   SING N N 77  
+UML C35    H352   SING N N 78  
+UML C36    H361   SING N N 79  
+UML C36    H362   SING N N 80  
+UML N39    H391   SING N N 81  
+UML N39    H392   SING N N 82  
+UML C26    H261   SING N N 83  
+UML C26    H262   SING N N 84  
+UML C25    H251   SING N N 85  
+UML C25    H252   SING N N 86  
+UML C24    H24    SING N N 87  
+UML N5     H5     SING N N 88  
+UML O22    H22    SING N N 89  
+UML C21    H21    SING N N 90  
+UML C23    H231   SING N N 91  
+UML C23    H232   SING N N 92  
+UML C23    H233   SING N N 93  
+UML N4     H4     SING N N 94  
+UML C18    H18    SING N N 95  
+UML C20    H201   SING N N 96  
+UML C20    H202   SING N N 97  
+UML C20    H203   SING N N 98  
+UML "C3'"  "H3'"  SING N N 99  
+UML "C2'"  "H2'"  SING N N 100 
+UML "C4'"  "H4'"  SING N N 101 
+UML "N2'"  HA     SING N N 102 
+UML "C1'"  "H1'"  SING N N 103 
+UML "C8'"  "H8'1" SING N N 104 
+UML "C8'"  "H8'2" SING N N 105 
+UML "C8'"  "H8'3" SING N N 106 
+UML "O4'"  HB     SING N N 107 
+UML "C5'"  "H5'"  SING N N 108 
+UML "C6'"  "H6'1" SING N N 109 
+UML "C6'"  "H6'2" SING N N 110 
+UML "O6'"  "H6'"  SING N N 111 
+UML O2B    H2B    SING N N 112 
+UML O2A    H2A    SING N N 113 
+UML "C5'A" "H5'1" SING N N 114 
+UML "C5'A" "H5'2" SING N N 115 
+UML "C4'A" "H4'A" SING N N 116 
+UML "C3'A" "H3'A" SING N N 117 
+UML "O3'A" HC     SING N N 118 
+UML "C2'A" "H2'A" SING N N 119 
+UML "O2'"  HD     SING N N 120 
+UML "C1'A" "H1'A" SING N N 121 
+UML C6     H6     SING N N 122 
+UML C5     HE     SING N N 123 
+UML N3     H3     SING N N 124 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UML SMILES           ACDLabs              12.01 "O=C(O)C(NC(=O)CCC(C(=O)O)NC(=O)C(NC(=O)C(OC3C(O)C(OC(OP(=O)(OP(=O)(OCC2OC(N1C=CC(=O)NC1=O)C(O)C2O)O)O)C3NC(=O)C)CO)C)C)CCCCN" 
+UML InChI            InChI                1.03  
+;InChI=1S/C34H55N7O24P2/c1-14(28(49)39-18(32(53)54)7-8-21(44)38-17(31(51)52)6-4-5-10-35)36-29(50)15(2)61-27-23(37-16(3)43)33(63-19(12-42)25(27)47)64-67(58,59)65-66(56,57)60-13-20-24(46)26(48)30(62-20)41-11-9-22(45)40-34(41)55/h9,11,14-15,17-20,23-27,30,33,42,46-48H,4-8,10,12-13,35H2,1-3H3,(H,36,50)(H,37,43)(H,38,44)(H,39,49)(H,51,52)(H,53,54)(H,56,57)(H,58,59)(H,40,45,55)/t14-,15+,17-,18+,19+,20+,23+,24+,25+,26+,27+,30+,33+/m0/s1
+;
+UML InChIKey         InChI                1.03  WXBLSQNZKMJACT-BYEZXYKXSA-N 
+UML SMILES_CANONICAL CACTVS               3.385 "C[C@H](NC(=O)[C@@H](C)O[C@H]1[C@H](O)[C@@H](CO)O[C@H](O[P](O)(=O)O[P](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O)[C@@H]1NC(C)=O)C(=O)N[C@H](CCC(=O)N[C@@H](CCCCN)C(O)=O)C(O)=O" 
+UML SMILES           CACTVS               3.385 "C[CH](NC(=O)[CH](C)O[CH]1[CH](O)[CH](CO)O[CH](O[P](O)(=O)O[P](O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)N3C=CC(=O)NC3=O)[CH]1NC(C)=O)C(=O)N[CH](CCC(=O)N[CH](CCCCN)C(O)=O)C(O)=O" 
+UML SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "C[C@@H](C(=O)N[C@H](CCC(=O)N[C@@H](CCCCN)C(=O)O)C(=O)O)NC(=O)[C@@H](C)O[C@@H]1[C@H]([C@H](O[C@@H]([C@H]1O)CO)OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)NC(=O)C" 
+UML SMILES           "OpenEye OEToolkits" 1.9.2 "CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)O)C(=O)O)NC(=O)C(C)OC1C(C(OC(C1O)CO)OP(=O)(O)OP(=O)(O)OCC2C(C(C(O2)N3C=CC(=O)NC3=O)O)O)NC(=O)C" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UML "SYSTEMATIC NAME" ACDLabs              12.01 
+;(2S)-2-{[(4R)-4-{[(2S)-2-{[(2R)-2-{[(2R,3R,4R,5S,6R)-3-(acetylamino)-2-{[(R)-{[(S)-{[(2R,3S,4R,5R)-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(hydroxy)phosphoryl]oxy}(hydroxy)phosphoryl]oxy}-5-hydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-4-yl]oxy}propanoyl]amino}propanoyl]amino}-4-carboxybutanoyl]amino}-6-aminohexanoic acid (non-preferred name)
+;
+UML "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 
+;(2S)-2-[[(4R)-4-[[(2S)-2-[[(2R)-2-[(2R,3R,4R,5S,6R)-3-acetamido-2-[[[(2R,3S,4R,5R)-5-[2,4-bis(oxidanylidene)pyrimidin-1-yl]-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl]oxy-oxidanyl-phosphoryl]oxy-6-(hydroxymethyl)-5-oxidanyl-oxan-4-yl]oxypropanoyl]amino]propanoyl]amino]-5-oxidanyl-5-oxidanylidene-pentanoyl]amino]-6-azanyl-hexanoic acid
+;
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UML "Create component"  2013-08-09 EBI  
+UML "Initial release"   2013-10-02 RCSB 
+UML "Modify descriptor" 2014-09-05 RCSB 
+# 

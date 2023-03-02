@@ -1,0 +1,106 @@
+data_NEH
+# 
+_chem_comp.id                                    NEH 
+_chem_comp.name                                  ETHANAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-03-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        45.084 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NEH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1YY2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NEH N   N   N 0 1 N N N -2.004 -3.030 -2.213 2.315  -1.236 0.590  N   NEH 1  
+NEH CA  CA  C 0 1 N N N -1.908 -4.094 -1.218 1.211  -0.976 1.472  CA  NEH 2  
+NEH CB  CB  C 0 1 N N N -1.713 -5.473 -1.858 0.408  0.187  0.999  CB  NEH 3  
+NEH H   H   H 0 1 N N N -2.738 -3.227 -2.894 2.664  -0.493 0.005  H   NEH 4  
+NEH HA2 2HA H 0 1 N N N -2.851 -4.114 -0.652 0.594  -1.879 1.509  HA2 NEH 5  
+NEH HA3 3HA H 0 1 N N N -1.047 -3.886 -0.566 1.618  -0.787 2.469  HA3 NEH 6  
+NEH HB1 1HB H 0 1 N N N -2.557 -6.125 -1.589 1.015  1.098  0.977  HB1 NEH 7  
+NEH HB2 2HB H 0 1 N N N -0.775 -5.917 -1.493 0.000  0.000  -0.000 HB2 NEH 8  
+NEH HB3 3HB H 0 1 N N N -1.666 -5.367 -2.952 -0.434 0.359  1.682  HB3 NEH 9  
+NEH HN1 HN1 H 0 1 N N N -2.215 -2.170 -1.748 2.592  -2.190 0.416  HN1 NEH 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NEH N   CA  SING N N 1 
+NEH N   H   SING N N 2 
+NEH CA  CB  SING N N 3 
+NEH CA  HA2 SING N N 4 
+NEH CA  HA3 SING N N 5 
+NEH CB  HB1 SING N N 6 
+NEH CB  HB2 SING N N 7 
+NEH CB  HB3 SING N N 8 
+NEH HN1 N   SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NEH SMILES           ACDLabs              10.04 NCC                              
+NEH SMILES_CANONICAL CACTVS               3.341 CCN                              
+NEH SMILES           CACTVS               3.341 CCN                              
+NEH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCN                              
+NEH SMILES           "OpenEye OEToolkits" 1.5.0 CCN                              
+NEH InChI            InChI                1.03  InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3 
+NEH InChIKey         InChI                1.03  QUSNBJAOOMFDIB-UHFFFAOYSA-N      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NEH "SYSTEMATIC NAME" ACDLabs              10.04 ethanamine 
+NEH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethanamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NEH "Create component"  2005-03-17 RCSB 
+NEH "Modify descriptor" 2011-06-04 RCSB 
+# 

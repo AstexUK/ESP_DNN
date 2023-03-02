@@ -1,0 +1,116 @@
+data_36N
+# 
+_chem_comp.id                                    36N 
+_chem_comp.name                                  "5H-pyrrolo[2,3-b]pyrazine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-06-25 
+_chem_comp.pdbx_modified_date                    2015-09-18 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.124 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     36N 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4QP6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+36N N3  N3  N 0 1 Y N N -17.344 -33.427 -28.413 1.551  -1.067 0.000  N3  36N 1  
+36N C5  C5  C 0 1 Y N N -17.365 -34.796 -28.294 0.232  -0.685 0.000  C5  36N 2  
+36N C6  C6  C 0 1 Y N N -16.813 -35.116 -27.034 0.207  0.726  0.000  C6  36N 3  
+36N C8  C8  C 0 1 Y N N -17.131 -37.344 -27.460 -2.082 0.685  0.000  C8  36N 4  
+36N C1  C1  C 0 1 Y N N -16.461 -33.837 -26.411 1.607  1.153  -0.000 C1  36N 5  
+36N C2  C2  C 0 1 Y N N -16.804 -32.873 -27.283 2.357  0.038  -0.000 C2  36N 6  
+36N N7  N7  N 0 1 Y N N -16.711 -36.388 -26.655 -0.955 1.371  0.000  N7  36N 7  
+36N C9  C9  C 0 1 Y N N -17.672 -37.028 -28.698 -2.059 -0.702 -0.000 C9  36N 8  
+36N N10 N10 N 0 1 Y N N -17.778 -35.771 -29.090 -0.912 -1.356 -0.000 N10 36N 9  
+36N H1  H1  H 0 1 N N N -17.673 -32.913 -29.205 1.865  -1.985 0.004  H1  36N 10 
+36N H2  H2  H 0 1 N N N -17.054 -38.377 -27.155 -3.028 1.206  0.001  H2  36N 11 
+36N H3  H3  H 0 1 N N N -16.012 -33.696 -25.439 1.969  2.170  -0.001 H3  36N 12 
+36N H4  H4  H 0 1 N N N -16.673 -31.814 -27.116 3.437  0.017  -0.000 H4  36N 13 
+36N H5  H5  H 0 1 N N N -18.011 -37.820 -29.350 -2.988 -1.253 -0.000 H5  36N 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+36N N10 C9 DOUB Y N 1  
+36N N10 C5 SING Y N 2  
+36N C9  C8 SING Y N 3  
+36N N3  C5 SING Y N 4  
+36N N3  C2 SING Y N 5  
+36N C5  C6 DOUB Y N 6  
+36N C8  N7 DOUB Y N 7  
+36N C2  C1 DOUB Y N 8  
+36N C6  N7 SING Y N 9  
+36N C6  C1 SING Y N 10 
+36N N3  H1 SING N N 11 
+36N C8  H2 SING N N 12 
+36N C1  H3 SING N N 13 
+36N C2  H4 SING N N 14 
+36N C9  H5 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+36N SMILES           ACDLabs              12.01 "n1c2c(ncc1)ccn2"                                      
+36N InChI            InChI                1.03  "InChI=1S/C6H5N3/c1-2-8-6-5(1)7-3-4-9-6/h1-4H,(H,8,9)" 
+36N InChIKey         InChI                1.03  HFTVJMFWJUFBNO-UHFFFAOYSA-N                            
+36N SMILES_CANONICAL CACTVS               3.385 "[nH]1ccc2nccnc12"                                     
+36N SMILES           CACTVS               3.385 "[nH]1ccc2nccnc12"                                     
+36N SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c[nH]c2c1nccn2"                                     
+36N SMILES           "OpenEye OEToolkits" 1.7.6 "c1c[nH]c2c1nccn2"                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+36N "SYSTEMATIC NAME" ACDLabs              12.01 "5H-pyrrolo[2,3-b]pyrazine" 
+36N "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "5H-pyrrolo[2,3-b]pyrazine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+36N "Create component" 2014-06-25 RCSB 
+36N "Initial release"  2015-09-23 RCSB 
+# 

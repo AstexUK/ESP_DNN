@@ -1,0 +1,140 @@
+data_NCT
+# 
+_chem_comp.id                                    NCT 
+_chem_comp.name                                  "(S)-3-(1-METHYLPYRROLIDIN-2-YL)PYRIDINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H14 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(S)-(-)-NICOTINE, 3-[(2S)-1-METHYL-2-PYRROLIDINYL] PYRIDINE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-04-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.232 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NCT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P2Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NCT N1   N1   N 0 1 Y N N 14.530 10.959 39.396 -0.673 1.148  -2.425 N1   NCT 1  
+NCT C1   C1   C 0 1 Y N N 14.848 11.534 40.556 -0.633 0.882  -1.134 C1   NCT 2  
+NCT C2   C2   C 0 1 Y N N 15.983 12.295 40.734 -0.018 -0.263 -0.667 C2   NCT 3  
+NCT C3   C3   C 0 1 Y N N 16.825 12.449 39.638 0.551  -1.142 -1.576 C3   NCT 4  
+NCT C4   C4   C 0 1 Y N N 16.523 11.839 38.434 0.484  -0.832 -2.925 C4   NCT 5  
+NCT C5   C5   C 0 1 Y N N 15.352 11.105 38.352 -0.142 0.335  -3.317 C5   NCT 6  
+NCT N2   N2   N 0 1 N N N 17.641 13.401 42.234 0.615  0.586  1.556  N2   NCT 7  
+NCT C6   C6   C 0 1 N N S 16.270 12.952 42.061 0.028  -0.556 0.810  C6   NCT 8  
+NCT C7   C7   C 0 1 N N N 15.467 14.258 42.221 -1.403 -0.662 1.392  C7   NCT 9  
+NCT C8   C8   C 0 1 N N N 16.281 15.092 43.220 -1.193 -0.336 2.888  C8   NCT 10 
+NCT C9   C9   C 0 1 N N N 17.637 14.351 43.335 0.128  0.451  2.946  C9   NCT 11 
+NCT C10  C10  C 0 1 N N N 18.632 12.352 42.357 2.066  0.365  1.594  C10  NCT 12 
+NCT HC1  HC1  H 0 1 N N N 14.149 11.375 41.395 -1.079 1.572  -0.433 HC1  NCT 13 
+NCT HC3  HC3  H 0 1 N N N 17.739 13.059 39.724 1.035  -2.047 -1.240 HC3  NCT 14 
+NCT HC4  HC4  H 0 1 N N N 17.195 11.935 37.565 0.917  -1.493 -3.661 HC4  NCT 15 
+NCT HC5  HC5  H 0 1 N N N 15.059 10.612 37.409 -0.198 0.585  -4.366 HC5  NCT 16 
+NCT HC6  HC6  H 0 1 N N N 16.011 12.150 42.791 0.590  -1.470 1.002  HC6  NCT 17 
+NCT HC71 1HC7 H 0 0 N N N 15.253 14.781 41.259 -1.795 -1.671 1.268  HC71 NCT 18 
+NCT HC72 2HC7 H 0 0 N N N 14.403 14.104 42.517 -2.063 0.068  0.926  HC72 NCT 19 
+NCT HC81 1HC8 H 0 0 N N N 16.373 16.168 42.943 -1.111 -1.255 3.468  HC81 NCT 20 
+NCT HC82 2HC8 H 0 0 N N N 15.769 15.257 44.196 -2.015 0.275  3.261  HC82 NCT 21 
+NCT HC91 1HC9 H 0 0 N N N 17.814 13.886 44.333 0.859  -0.092 3.544  HC91 NCT 22 
+NCT HC92 2HC9 H 0 0 N N N 18.522 15.028 43.350 -0.045 1.438  3.375  HC92 NCT 23 
+NCT H101 1H10 H 0 0 N N N 19.684 12.696 42.489 2.270  -0.660 1.902  H101 NCT 24 
+NCT H102 2H10 H 0 0 N N N 18.351 11.657 43.183 2.486  0.536  0.602  H102 NCT 25 
+NCT H103 3H10 H 0 0 N N N 18.564 11.660 41.485 2.521  1.055  2.305  H103 NCT 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NCT N1  C1   DOUB Y N 1  
+NCT N1  C5   SING Y N 2  
+NCT C1  C2   SING Y N 3  
+NCT C1  HC1  SING N N 4  
+NCT C2  C3   DOUB Y N 5  
+NCT C2  C6   SING N N 6  
+NCT C3  C4   SING Y N 7  
+NCT C3  HC3  SING N N 8  
+NCT C4  C5   DOUB Y N 9  
+NCT C4  HC4  SING N N 10 
+NCT C5  HC5  SING N N 11 
+NCT N2  C6   SING N N 12 
+NCT N2  C9   SING N N 13 
+NCT N2  C10  SING N N 14 
+NCT C6  C7   SING N N 15 
+NCT C6  HC6  SING N N 16 
+NCT C7  C8   SING N N 17 
+NCT C7  HC71 SING N N 18 
+NCT C7  HC72 SING N N 19 
+NCT C8  C9   SING N N 20 
+NCT C8  HC81 SING N N 21 
+NCT C8  HC82 SING N N 22 
+NCT C9  HC91 SING N N 23 
+NCT C9  HC92 SING N N 24 
+NCT C10 H101 SING N N 25 
+NCT C10 H102 SING N N 26 
+NCT C10 H103 SING N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NCT SMILES           ACDLabs              10.04 "n1cc(ccc1)C2N(C)CCC2"                                                                   
+NCT SMILES_CANONICAL CACTVS               3.341 "CN1CCC[C@H]1c2cccnc2"                                                                   
+NCT SMILES           CACTVS               3.341 "CN1CCC[CH]1c2cccnc2"                                                                    
+NCT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N@@]1CCC[C@H]1c2cccnc2"                                                               
+NCT SMILES           "OpenEye OEToolkits" 1.5.0 CN1CCCC1c2cccnc2                                                                         
+NCT InChI            InChI                1.03  "InChI=1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1" 
+NCT InChIKey         InChI                1.03  SNICXCGAKADSCV-JTQLQIEISA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NCT "SYSTEMATIC NAME" ACDLabs              10.04 "3-[(2S)-1-methylpyrrolidin-2-yl]pyridine"    
+NCT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3-[(1R,2S)-1-methylpyrrolidin-2-yl]pyridine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NCT "Create component"  2003-04-21 RCSB 
+NCT "Modify descriptor" 2011-06-04 RCSB 
+# 

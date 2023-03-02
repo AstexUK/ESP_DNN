@@ -1,0 +1,116 @@
+data_280
+# 
+_chem_comp.id                                    280 
+_chem_comp.name                                  1-methyl-1H-imidazole-5-carbaldehyde 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-10-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        110.114 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     280 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2rby 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+280 C1  C1  C 0 1 N N N 18.513 -2.846 5.567 1.118  2.016  -0.001 C1  280 1  
+280 N2  N2  N 0 1 Y N N 17.044 -2.947 5.489 0.867  0.572  -0.002 N2  280 2  
+280 C3  C3  C 0 1 Y N N 16.330 -3.347 6.509 1.795  -0.399 0.003  C3  280 3  
+280 N4  N4  N 0 1 Y N N 15.112 -3.304 6.178 1.204  -1.568 0.001  N4  280 4  
+280 C5  C5  C 0 1 Y N N 15.030 -2.865 4.942 -0.117 -1.406 -0.004 C5  280 5  
+280 C6  C6  C 0 1 Y N N 16.220 -2.678 4.504 -0.370 -0.047 -0.001 C6  280 6  
+280 C7  C7  C 0 1 N N N 16.722 -2.297 3.185 -1.637 0.583  0.001  C7  280 7  
+280 O8  O8  O 0 1 N N N 17.590 -3.064 2.858 -2.649 -0.089 0.002  O8  280 8  
+280 H11 H11 H 0 1 N N N 18.934 -2.821 4.551 1.184  2.374  -1.028 H11 280 9  
+280 H12 H12 H 0 1 N N N 18.789 -1.925 6.101 0.301  2.526  0.510  H12 280 10 
+280 H13 H13 H 0 1 N N N 18.912 -3.717 6.107 2.055  2.222  0.516  H13 280 11 
+280 H3  H3  H 0 1 N N N 16.715 -3.660 7.468 2.864  -0.241 0.007  H3  280 12 
+280 H5  H5  H 0 1 N N N 14.118 -2.692 4.391 -0.857 -2.193 -0.007 H5  280 13 
+280 H7  H7  H 0 1 N N N 16.370 -1.461 2.598 -1.704 1.661  0.001  H7  280 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+280 C1 N2  SING N N 1  
+280 N2 C3  SING Y N 2  
+280 N2 C6  SING Y N 3  
+280 C3 N4  DOUB Y N 4  
+280 N4 C5  SING Y N 5  
+280 C5 C6  DOUB Y N 6  
+280 C6 C7  SING N N 7  
+280 C7 O8  DOUB N N 8  
+280 C1 H11 SING N N 9  
+280 C1 H12 SING N N 10 
+280 C1 H13 SING N N 11 
+280 C3 H3  SING N N 12 
+280 C5 H5  SING N N 13 
+280 C7 H7  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+280 SMILES           ACDLabs              10.04 O=Cc1cncn1C                                     
+280 SMILES_CANONICAL CACTVS               3.341 Cn1cncc1C=O                                     
+280 SMILES           CACTVS               3.341 Cn1cncc1C=O                                     
+280 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 Cn1cncc1C=O                                     
+280 SMILES           "OpenEye OEToolkits" 1.5.0 Cn1cncc1C=O                                     
+280 InChI            InChI                1.03  "InChI=1S/C5H6N2O/c1-7-4-6-2-5(7)3-8/h2-4H,1H3" 
+280 InChIKey         InChI                1.03  BNYKZFOZWZMEJD-UHFFFAOYSA-N                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+280 "SYSTEMATIC NAME" ACDLabs              10.04 1-methyl-1H-imidazole-5-carbaldehyde 
+280 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-methylimidazole-4-carbaldehyde     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+280 "Create component"     2007-10-24 RCSB 
+280 "Modify aromatic_flag" 2011-06-04 RCSB 
+280 "Modify descriptor"    2011-06-04 RCSB 
+# 

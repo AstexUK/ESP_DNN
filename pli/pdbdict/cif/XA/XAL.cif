@@ -1,0 +1,167 @@
+data_XAL
+# 
+_chem_comp.id                                    XAL 
+_chem_comp.name                                  "[(1S,4R,6R)-6-HYDROXY-4-(ADENIN-9-YL)CYCLOHEX-2-EN-1-YL]METHYL DIHYDROGEN PHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C12 H16 N5 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               DA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-05-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        341.260 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     XAL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+XAL P      P    P 0 1 N N N 4.103  -2.993 26.181 -4.771 0.785  0.126  P      XAL 1  
+XAL OP1    O1P  O 0 1 N N N 3.607  -2.601 27.478 -5.119 0.660  -1.307 OP1    XAL 2  
+XAL OP2    O2P  O 0 1 N N N 4.069  -4.407 25.717 -6.107 0.662  1.016  OP2    XAL 3  
+XAL "O5'"  O5*  O 0 1 N N N 5.649  -2.533 25.989 -3.745 -0.387 0.534  "O5'"  XAL 4  
+XAL "C5'"  C5*  C 0 1 N N N 6.112  -1.183 26.129 -2.637 -0.298 -0.365 "C5'"  XAL 5  
+XAL "C4'"  C4*  C 0 1 N N S 7.562  -1.017 25.811 -1.620 -1.390 -0.030 "C4'"  XAL 6  
+XAL "C6'"  C6*  C 0 1 N N N 7.687  -0.995 24.365 -1.060 -1.142 1.340  "C6'"  XAL 7  
+XAL "C7'"  C7*  C 0 1 N N N 8.823  -1.278 23.740 0.191  -1.257 1.642  "C7'"  XAL 8  
+XAL "C3'"  C3*  C 0 1 N N R 8.453  -2.077 26.477 -0.496 -1.372 -1.069 "C3'"  XAL 9  
+XAL "O3'"  O3*  O 0 1 N N N 8.647  -1.643 27.806 -0.988 -1.852 -2.322 "O3'"  XAL 10 
+XAL "C2'"  C2*  C 0 1 N N N 9.865  -2.065 25.851 0.635  -2.283 -0.576 "C2'"  XAL 11 
+XAL "C1'"  C1*  C 0 1 N N R 9.742  -2.377 24.335 1.263  -1.646 0.666  "C1'"  XAL 12 
+XAL N9     N9   N 0 1 Y N N 9.353  -3.804 24.107 2.017  -0.454 0.272  N9     XAL 13 
+XAL C8     C8   C 0 1 Y N N 8.140  -4.439 24.100 1.493  0.710  -0.206 C8     XAL 14 
+XAL N7     N7   N 0 1 Y N N 8.238  -5.722 23.854 2.449  1.558  -0.455 N7     XAL 15 
+XAL C6     C6   C 0 1 Y N N 10.375 -7.082 23.411 4.980  1.419  -0.214 C6     XAL 16 
+XAL N6     N6   N 0 1 N N N 9.858  -8.300 23.233 5.300  2.686  -0.669 N6     XAL 17 
+XAL C5     C5   C 0 1 Y N N 9.603  -5.935 23.692 3.642  0.996  -0.147 C5     XAL 18 
+XAL C4     C4   C 0 1 Y N N 10.308 -4.754 23.845 3.380  -0.304 0.317  C4     XAL 19 
+XAL N3     N3   N 0 1 Y N N 11.632 -4.576 23.759 4.397  -1.076 0.685  N3     XAL 20 
+XAL C2     C2   C 0 1 Y N N 12.258 -5.723 23.491 5.635  -0.635 0.610  C2     XAL 21 
+XAL N1     N1   N 0 1 Y N N 11.708 -6.927 23.319 5.931  0.576  0.175  N1     XAL 22 
+XAL OP3    O3P  O 0 1 N Y N 3.123  -2.331 25.395 -4.082 2.216  0.388  OP3    XAL 23 
+XAL HOP2   2HOP H 0 0 N N N 4.062  -4.429 24.767 -6.693 1.381  0.741  HOP2   XAL 24 
+XAL "H5'"  1H5* H 0 1 N N N 5.974  -0.898 27.182 -2.167 0.681  -0.265 "H5'"  XAL 25 
+XAL "H5''" 2H5* H 0 0 N N N 5.535  -0.549 25.440 -2.988 -0.429 -1.388 "H5''" XAL 26 
+XAL "H4'"  H4*  H 0 1 N N N 7.929  -0.070 26.233 -2.113 -2.361 -0.048 "H4'"  XAL 27 
+XAL "H6'"  H6*  H 0 1 N N N 6.820  -0.738 23.774 -1.746 -0.848 2.122  "H6'"  XAL 28 
+XAL "H7'"  H7*  H 0 1 N N N 9.101  -0.755 22.837 0.486  -1.062 2.662  "H7'"  XAL 29 
+XAL "H3'"  H3*  H 0 1 N N N 7.988  -3.069 26.376 -0.123 -0.355 -1.187 "H3'"  XAL 30 
+XAL "HO3'" H3T  H 0 0 N Y N 8.691  -2.397 28.383 -0.243 -1.837 -2.939 "HO3'" XAL 31 
+XAL "H2'"  1H2* H 0 1 N N N 10.496 -2.822 26.338 1.390  -2.385 -1.356 "H2'"  XAL 32 
+XAL "H2''" 2H2* H 0 0 N N N 10.324 -1.075 25.990 0.232  -3.263 -0.321 "H2''" XAL 33 
+XAL "H1'"  H1*  H 0 1 N N N 10.697 -2.323 23.791 1.937  -2.361 1.137  "H1'"  XAL 34 
+XAL H8     H8   H 0 1 N N N 7.201  -3.935 24.278 0.441  0.901  -0.357 H8     XAL 35 
+XAL HN61   1HN6 H 0 0 N N N 8.884  -8.521 23.280 6.228  2.968  -0.707 HN61   XAL 36 
+XAL HN62   2HN6 H 0 0 N N N 10.586 -8.959 23.045 4.598  3.291  -0.954 HN62   XAL 37 
+XAL H2     H2   H 0 1 N N N 13.333 -5.672 23.403 6.439  -1.288 0.917  H2     XAL 38 
+XAL HOP3   3HOP H 0 0 N N N 2.344  -2.183 25.918 -3.871 2.257  1.331  HOP3   XAL 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+XAL P     OP1    DOUB N N 1  
+XAL P     OP2    SING N N 2  
+XAL P     "O5'"  SING N N 3  
+XAL P     OP3    SING N N 4  
+XAL OP2   HOP2   SING N N 5  
+XAL "O5'" "C5'"  SING N N 6  
+XAL "C5'" "C4'"  SING N N 7  
+XAL "C5'" "H5'"  SING N N 8  
+XAL "C5'" "H5''" SING N N 9  
+XAL "C4'" "C6'"  SING N N 10 
+XAL "C4'" "C3'"  SING N N 11 
+XAL "C4'" "H4'"  SING N N 12 
+XAL "C6'" "C7'"  DOUB N N 13 
+XAL "C6'" "H6'"  SING N N 14 
+XAL "C7'" "C1'"  SING N N 15 
+XAL "C7'" "H7'"  SING N N 16 
+XAL "C3'" "O3'"  SING N N 17 
+XAL "C3'" "C2'"  SING N N 18 
+XAL "C3'" "H3'"  SING N N 19 
+XAL "O3'" "HO3'" SING N N 20 
+XAL "C2'" "C1'"  SING N N 21 
+XAL "C2'" "H2'"  SING N N 22 
+XAL "C2'" "H2''" SING N N 23 
+XAL "C1'" N9     SING N N 24 
+XAL "C1'" "H1'"  SING N N 25 
+XAL N9    C8     SING Y N 26 
+XAL N9    C4     SING Y N 27 
+XAL C8    N7     DOUB Y N 28 
+XAL C8    H8     SING N N 29 
+XAL N7    C5     SING Y N 30 
+XAL C6    N6     SING N N 31 
+XAL C6    C5     SING Y N 32 
+XAL C6    N1     DOUB Y N 33 
+XAL N6    HN61   SING N N 34 
+XAL N6    HN62   SING N N 35 
+XAL C5    C4     DOUB Y N 36 
+XAL C4    N3     SING Y N 37 
+XAL N3    C2     DOUB Y N 38 
+XAL C2    N1     SING Y N 39 
+XAL C2    H2     SING N N 40 
+XAL OP3   HOP3   SING N N 41 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+XAL SMILES           ACDLabs              10.04 "O=P(O)(O)OCC3C=CC(n1c2ncnc(c2nc1)N)CC3O"                                                                                                                 
+XAL SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3C[C@@H](O)[C@H](CO[P](O)(O)=O)C=C3"                                                                                               
+XAL SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3C[CH](O)[CH](CO[P](O)(O)=O)C=C3"                                                                                                    
+XAL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@@H]3C[C@H]([C@@H](C=C3)COP(=O)(O)O)O)N"                                                                                             
+XAL SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3CC(C(C=C3)COP(=O)(O)O)O)N"                                                                                                           
+XAL InChI            InChI                1.03  "InChI=1S/C12H16N5O5P/c13-11-10-12(15-5-14-11)17(6-16-10)8-2-1-7(9(18)3-8)4-22-23(19,20)21/h1-2,5-9,18H,3-4H2,(H2,13,14,15)(H2,19,20,21)/t7-,8-,9+/m0/s1" 
+XAL InChIKey         InChI                1.03  CZNHTUYPRVHNIW-XHNCKOQMSA-N                                                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+XAL "SYSTEMATIC NAME" ACDLabs              10.04 "[(1S,4R,6R)-4-(6-amino-9H-purin-9-yl)-6-hydroxycyclohex-2-en-1-yl]methyl dihydrogen phosphate" 
+XAL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1S,4R,6R)-4-(6-aminopurin-9-yl)-6-hydroxy-1-cyclohex-2-enyl]methyl dihydrogen phosphate"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+XAL "Create component"  2006-05-19 PDBJ 
+XAL "Modify descriptor" 2011-06-04 RCSB 
+# 

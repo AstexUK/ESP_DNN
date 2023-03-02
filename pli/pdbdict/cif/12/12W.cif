@@ -1,0 +1,124 @@
+data_12W
+# 
+_chem_comp.id                                    12W 
+_chem_comp.name                                  "cyclopentyl hydrogen carbonate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-01 
+_chem_comp.pdbx_modified_date                    2012-10-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     12W 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3P8N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+12W C25 C25 C 0 1 N N N 56.061 7.034  4.255 1.911  -0.011 -0.001 C25 12W 1  
+12W O26 O26 O 0 1 N N N 56.067 5.929  4.799 1.976  0.909  -0.791 O26 12W 2  
+12W O27 O27 O 0 1 N N N 55.031 7.928  4.275 0.721  -0.572 0.281  O27 12W 3  
+12W C28 C28 C 0 1 N N N 53.848 7.545  5.040 -0.442 -0.026 -0.396 C28 12W 4  
+12W C29 C29 C 0 1 N N N 52.548 8.064  4.406 -1.095 1.068  0.474  C29 12W 5  
+12W C30 C30 C 0 1 N N N 52.291 9.421  5.067 -2.615 0.881  0.242  C30 12W 6  
+12W C31 C31 C 0 1 N N N 53.417 9.625  6.069 -2.763 -0.660 0.168  C31 12W 7  
+12W C32 C32 C 0 1 N N N 53.844 8.213  6.404 -1.502 -1.125 -0.590 C32 12W 8  
+12W H26 H26 H 0 1 N N N 53.794 6.452  5.156 -0.152 0.387  -1.362 H26 12W 9  
+12W H27 H27 H 0 1 N N N 52.669 8.182  3.319 -0.849 0.918  1.525  H27 12W 10 
+12W H28 H28 H 0 1 N N N 51.717 7.373  4.610 -0.778 2.057  0.144  H28 12W 11 
+12W H29 H29 H 0 1 N N N 52.303 10.221 4.312 -3.186 1.284  1.078  H29 12W 12 
+12W H30 H30 H 0 1 N N N 51.319 9.416  5.582 -2.923 1.343  -0.696 H30 12W 13 
+12W H31 H31 H 0 1 N N N 54.246 10.192 5.620 -2.785 -1.089 1.170  H31 12W 14 
+12W H32 H32 H 0 1 N N N 53.056 10.151 6.965 -3.662 -0.931 -0.384 H32 12W 15 
+12W H33 H33 H 0 1 N N N 53.125 7.730  7.082 -1.727 -1.243 -1.650 H33 12W 16 
+12W H34 H34 H 0 1 N N N 54.846 8.197  6.859 -1.144 -2.067 -0.176 H34 12W 17 
+12W OXT OXT O 0 1 N Y N ?      ?      ?     3.029  -0.472 0.588  OXT 12W 18 
+12W HXT HXT H 0 1 N Y N ?      ?      ?     3.860  -0.037 0.354  HXT 12W 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+12W C25 O27 SING N N 1  
+12W C25 O26 DOUB N N 2  
+12W O27 C28 SING N N 3  
+12W C29 C28 SING N N 4  
+12W C29 C30 SING N N 5  
+12W C28 C32 SING N N 6  
+12W C30 C31 SING N N 7  
+12W C31 C32 SING N N 8  
+12W C28 H26 SING N N 9  
+12W C29 H27 SING N N 10 
+12W C29 H28 SING N N 11 
+12W C30 H29 SING N N 12 
+12W C30 H30 SING N N 13 
+12W C31 H31 SING N N 14 
+12W C31 H32 SING N N 15 
+12W C32 H33 SING N N 16 
+12W C32 H34 SING N N 17 
+12W C25 OXT SING N N 18 
+12W OXT HXT SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+12W SMILES           ACDLabs              12.01 "O=C(O)OC1CCCC1"                                          
+12W InChI            InChI                1.03  "InChI=1S/C6H10O3/c7-6(8)9-5-3-1-2-4-5/h5H,1-4H2,(H,7,8)" 
+12W InChIKey         InChI                1.03  AVOZEJJQAGFSRD-UHFFFAOYSA-N                               
+12W SMILES_CANONICAL CACTVS               3.370 "OC(=O)OC1CCCC1"                                          
+12W SMILES           CACTVS               3.370 "OC(=O)OC1CCCC1"                                          
+12W SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1CCC(C1)OC(=O)O"                                        
+12W SMILES           "OpenEye OEToolkits" 1.7.6 "C1CCC(C1)OC(=O)O"                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+12W "SYSTEMATIC NAME" ACDLabs              12.01 "cyclopentyl hydrogen carbonate" 
+12W "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "cyclopentyl hydrogen carbonate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+12W "Create component" 2012-10-01 RCSB 
+# 

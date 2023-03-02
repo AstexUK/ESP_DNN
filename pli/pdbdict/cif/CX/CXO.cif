@@ -1,0 +1,119 @@
+data_CXO
+# 
+_chem_comp.id                                    CXO 
+_chem_comp.name                                  CYCLOHEXANE-1,2-DIONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-04-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        112.127 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CXO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye OEToolkits" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CXO O2  O2  O 0 1 N N N 64.859 24.392 49.374 -1.635 1.382  0.379  O2  CXO 1  
+CXO C2  C2  C 0 1 N N N 65.784 23.569 49.290 -0.676 0.751  0.003  C2  CXO 2  
+CXO C3  C3  C 0 1 N N N 65.807 22.450 50.345 0.588  1.434  -0.479 C3  CXO 3  
+CXO C4  C4  C 0 1 N N N 67.146 21.713 50.395 1.788  0.744  0.177  C4  CXO 4  
+CXO C5  C5  C 0 1 N N N 67.664 21.304 49.021 1.789  -0.744 -0.175 C5  CXO 5  
+CXO C6  C6  C 0 1 N N N 67.548 22.482 48.065 0.586  -1.433 0.477  C6  CXO 6  
+CXO C1  C1  C 0 1 N N N 66.692 23.538 48.236 -0.674 -0.749 -0.004 C1  CXO 7  
+CXO O1  O1  O 0 1 N N N 66.714 24.496 47.294 -1.632 -1.383 -0.378 O1  CXO 8  
+CXO H31 1H3 H 0 1 N N N 65.621 22.899 51.332 0.662  1.347  -1.564 H31 CXO 9  
+CXO H32 2H3 H 0 1 N N N 65.033 21.718 50.072 0.568  2.486  -0.195 H32 CXO 10 
+CXO H41 1H4 H 0 1 N N N 67.888 22.381 50.857 2.710  1.201  -0.183 H41 CXO 11 
+CXO H42 2H4 H 0 1 N N N 66.990 20.790 50.973 1.726  0.861  1.259  H42 CXO 12 
+CXO H51 1H5 H 0 1 N N N 68.718 21.000 49.102 1.731  -0.860 -1.257 H51 CXO 13 
+CXO H52 2H5 H 0 1 N N N 67.068 20.462 48.640 2.709  -1.201 0.189  H52 CXO 14 
+CXO H61 1H6 H 0 1 N N N 68.551 22.934 48.054 0.567  -2.486 0.193  H61 CXO 15 
+CXO H62 2H6 H 0 1 N N N 67.115 21.996 47.178 0.656  -1.347 1.561  H62 CXO 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CXO O2 C2  DOUB N N 1  
+CXO C2 C3  SING N N 2  
+CXO C2 C1  SING N N 3  
+CXO C3 C4  SING N N 4  
+CXO C3 H31 SING N N 5  
+CXO C3 H32 SING N N 6  
+CXO C4 C5  SING N N 7  
+CXO C4 H41 SING N N 8  
+CXO C4 H42 SING N N 9  
+CXO C5 C6  SING N N 10 
+CXO C5 H51 SING N N 11 
+CXO C5 H52 SING N N 12 
+CXO C6 C1  SING N N 13 
+CXO C6 H61 SING N N 14 
+CXO C6 H62 SING N N 15 
+CXO C1 O1  DOUB N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CXO SMILES           ACDLabs              10.04 "O=C1C(=O)CCCC1"                            
+CXO SMILES_CANONICAL CACTVS               3.341 O=C1CCCCC1=O                                
+CXO SMILES           CACTVS               3.341 O=C1CCCCC1=O                                
+CXO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CCC(=O)C(=O)C1"                          
+CXO SMILES           "OpenEye OEToolkits" 1.5.0 "C1CCC(=O)C(=O)C1"                          
+CXO InChI            InChI                1.03  "InChI=1S/C6H8O2/c7-5-3-1-2-4-6(5)8/h1-4H2" 
+CXO InChIKey         InChI                1.03  OILAIQUEIWYQPH-UHFFFAOYSA-N                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CXO "SYSTEMATIC NAME" ACDLabs              10.04 cyclohexane-1,2-dione 
+CXO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 cyclohexane-1,2-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CXO "Create component"  2007-04-20 RCSB 
+CXO "Modify descriptor" 2011-06-04 RCSB 
+# 

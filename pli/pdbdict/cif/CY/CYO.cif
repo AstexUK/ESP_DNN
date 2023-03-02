@@ -1,0 +1,78 @@
+data_CYO
+# 
+_chem_comp.id                                    CYO 
+_chem_comp.name                                  "OXYGENS BOUND TO CYS SG" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               O3 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        47.998 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CYO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1NHS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CYO OD1 OD1 O 0 1 N N N 35.124 46.227 124.283 0.000 0.000 0.000 OD1 CYO 1 
+CYO OD2 OD2 O 0 1 N N N 37.399 46.301 124.183 ?     ?     ?     OD2 CYO 2 
+CYO OD3 OD3 O 0 1 N N N 36.289 48.058 123.145 ?     ?     ?     OD3 CYO 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CYO InChI            InChI                1.02b InChI=1/3H2O/h3*1H2       
+CYO InChIKey         InChI                1.02b JLFVIEQMRKMAIT-UHFFFAOYAZ 
+CYO SMILES_CANONICAL CACTVS               3.341 "[O].[O].[O]"             
+CYO SMILES           CACTVS               3.341 "[O].[O].[O]"             
+CYO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 O.O.O                     
+CYO SMILES           "OpenEye OEToolkits" 1.5.0 O.O.O                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CYO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 oxidane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CYO "Create component" 1999-07-08 RCSB 
+# 

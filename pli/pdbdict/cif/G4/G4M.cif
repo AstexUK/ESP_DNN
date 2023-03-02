@@ -1,0 +1,277 @@
+data_G4M
+# 
+_chem_comp.id                                    G4M 
+_chem_comp.name                                  
+;[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (2R,3S,4S,5S,6R)-3,4-dihydroxy-5-[({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)amino]-6-methyltetrahydro-2H-pyran-2-yl dihydrogen diphosphate
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C24 H36 N7 O19 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-11-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        819.499 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     G4M 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3B8X 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+G4M OP3    OP3  O 0 1 N N N 69.970 51.402 5.399  -9.980  -1.405 -1.604 OP3    G4M 1  
+G4M PL     PL   P 0 1 N N N 68.457 51.598 4.912  -8.736  -2.163 -2.289 PL     G4M 2  
+G4M OP1    OP1  O 0 1 N N N 67.437 51.336 6.082  -9.279  -3.397 -3.169 OP1    G4M 3  
+G4M OP2    OP2  O 0 1 N N N 68.198 53.045 4.268  -8.003  -1.219 -3.162 OP2    G4M 4  
+G4M OP4    OP4  O 0 1 N N N 68.135 50.614 3.683  -7.747  -2.714 -1.144 OP4    G4M 5  
+G4M C5B    C5B  C 0 1 N N N 68.067 49.266 4.105  -7.020  -1.854 -0.264 C5B    G4M 6  
+G4M C5L    C5L  C 0 1 Y N N 68.495 48.340 2.963  -6.193  -2.687 0.681  C5L    G4M 7  
+G4M C6L    C6L  C 0 1 Y N N 67.568 47.505 2.350  -6.221  -4.066 0.605  C6L    G4M 8  
+G4M N1L    N1L  N 0 1 Y N N 67.893 46.658 1.361  -5.501  -4.804 1.428  N1L    G4M 9  
+G4M C2L    C2L  C 0 1 Y N N 69.148 46.484 0.995  -4.729  -4.264 2.350  C2L    G4M 10 
+G4M C2A    C2A  C 0 1 N N N 69.432 45.425 -0.066 -3.926  -5.153 3.264  C2A    G4M 11 
+G4M C3L    C3L  C 0 1 Y N N 70.170 47.271 1.574  -4.648  -2.886 2.487  C3L    G4M 12 
+G4M O3L    O3L  O 0 1 N N N 71.467 47.096 1.220  -3.851  -2.334 3.440  O3L    G4M 13 
+G4M C4L    C4L  C 0 1 Y N N 69.837 48.223 2.578  -5.391  -2.077 1.633  C4L    G4M 14 
+G4M C4A    C4A  C 0 1 N N N 70.829 48.974 3.224  -5.332  -0.576 1.747  C4A    G4M 15 
+G4M N4A    N4A  N 0 1 N N N 72.099 48.828 2.863  -4.256  -0.061 0.890  N4A    G4M 16 
+G4M C4G    C4G  C 0 1 N N S 73.080 49.664 3.371  -4.252  1.408  0.874  C4G    G4M 17 
+G4M C5G    C5G  C 0 1 N N R 74.378 48.901 3.651  -3.715  1.903  -0.471 C5G    G4M 18 
+G4M C6G    C6G  C 0 1 N N N 74.809 48.176 2.376  -4.643  1.436  -1.594 C6G    G4M 19 
+G4M O5G    O5G  O 0 1 N N N 75.380 49.860 3.991  -3.658  3.331  -0.463 O5G    G4M 20 
+G4M C3G    C3G  C 0 1 N N S 72.625 50.402 4.640  -3.352  1.929  1.998  C3G    G4M 21 
+G4M O3G    O3G  O 0 1 N N N 72.497 51.803 4.338  -3.887  1.533  3.262  O3G    G4M 22 
+G4M C2G    C2G  C 0 1 N N S 73.642 50.159 5.784  -3.294  3.458  1.923  C2G    G4M 23 
+G4M O2G    O2G  O 0 1 N N N 73.338 50.999 6.917  -4.600  3.997  2.141  O2G    G4M 24 
+G4M C1G    C1G  C 0 1 N N R 75.113 50.360 5.318  -2.794  3.875  0.537  C1G    G4M 25 
+G4M O1G    O1G  O 0 1 N N N 76.011 49.695 6.224  -1.468  3.380  0.341  O1G    G4M 26 
+G4M P2     P2   P 0 1 N N S 77.169 50.778 6.393  -0.382  4.126  -0.585 P2     G4M 27 
+G4M O3P    O3P  O 0 1 N N N 77.798 51.216 4.975  -0.227  5.527  -0.132 O3P    G4M 28 
+G4M O4P    O4P  O 0 1 N N N 78.323 50.068 7.246  -0.880  4.109  -2.116 O4P    G4M 29 
+G4M OPP    OPP  O 0 1 N N N 76.531 52.067 7.134  1.033   3.366  -0.472 OPP    G4M 30 
+G4M P      P    P 0 1 N N R 77.666 52.790 8.039  2.556   3.786  -0.780 P      G4M 31 
+G4M O1P    O1P  O 0 1 N N N 78.895 51.834 8.460  2.818   5.133  -0.224 O1P    G4M 32 
+G4M O2P    O2P  O 0 1 N N N 76.926 53.264 9.389  2.796   3.806  -2.371 O2P    G4M 33 
+G4M "O5'"  O5*  O 0 1 N N N 78.216 54.136 7.302  3.554   2.722  -0.099 "O5'"  G4M 34 
+G4M "C5'"  C5*  C 0 1 N N N 79.007 53.819 6.158  4.975   2.875  -0.104 "C5'"  G4M 35 
+G4M "C4'"  C4*  C 0 1 N N R 80.264 54.700 6.130  5.617   1.692  0.624  "C4'"  G4M 36 
+G4M "O4'"  O4*  O 0 1 N N N 79.926 56.113 6.003  5.466   0.482  -0.151 "O4'"  G4M 37 
+G4M "C3'"  C3*  C 0 1 N N S 81.065 54.549 7.459  7.144   1.897  0.742  "C3'"  G4M 38 
+G4M "O3'"  O3*  O 0 1 N N N 82.475 54.627 7.235  7.482   2.408  2.033  "O3'"  G4M 39 
+G4M "C2'"  C2*  C 0 1 N N R 80.543 55.726 8.313  7.729   0.480  0.550  "C2'"  G4M 40 
+G4M "O2'"  O2*  O 0 1 N N N 81.579 56.235 9.167  8.447   0.073  1.717  "O2'"  G4M 41 
+G4M "C1'"  C1*  C 0 1 N N R 80.217 56.782 7.247  6.487   -0.414 0.340  "C1'"  G4M 42 
+G4M N9     N9   N 0 1 Y N N 79.087 57.604 7.676  6.770   -1.455 -0.651 N9     G4M 43 
+G4M C8     C8   C 0 1 Y N N 77.817 57.163 7.916  6.554   -1.370 -1.996 C8     G4M 44 
+G4M N7     N7   N 0 1 Y N N 77.088 58.191 8.271  6.920   -2.478 -2.572 N7     G4M 45 
+G4M C4     C4   C 0 1 Y N N 79.145 58.939 7.890  7.306   -2.689 -0.398 C4     G4M 46 
+G4M C5     C5   C 0 1 Y N N 77.855 59.321 8.267  7.391   -3.336 -1.636 C5     G4M 47 
+G4M C6     C6   C 0 1 N N N 77.620 60.691 8.532  7.916   -4.649 -1.678 C6     G4M 48 
+G4M O6     O6   O 0 1 N N N 76.518 61.098 8.832  8.009   -5.251 -2.734 O6     G4M 49 
+G4M N3     N3   N 0 1 N N N 80.110 59.843 7.800  7.716   -3.318 0.709  N3     G4M 50 
+G4M C2     C2   C 0 1 N N N 79.880 61.107 8.058  8.204   -4.538 0.656  C2     G4M 51 
+G4M N1     N1   N 0 1 N N N 78.648 61.551 8.417  8.313   -5.220 -0.519 N1     G4M 52 
+G4M N2     N2   N 0 1 N N N 80.902 62.010 7.943  8.612   -5.143 1.818  N2     G4M 53 
+G4M HOP3   HOP3 H 0 0 N N N 70.544 51.363 4.643  -10.507 -1.964 -1.016 HOP3   G4M 54 
+G4M HOP1   HOP1 H 0 0 N N N 67.907 51.283 6.906  -9.882  -3.139 -3.879 HOP1   G4M 55 
+G4M H5B1   1H5B H 0 0 N N N 67.034 49.028 4.399  -6.365  -1.207 -0.847 H5B1   G4M 56 
+G4M H5B2   2H5B H 0 0 N N N 68.741 49.120 4.962  -7.720  -1.243 0.307  H5B2   G4M 57 
+G4M H6L    H6L  H 0 1 N N N 66.542 47.539 2.684  -6.841  -4.546 -0.137 H6L    G4M 58 
+G4M H2A1   1H2A H 0 0 N N N 69.500 45.904 -1.054 -2.951  -5.347 2.818  H2A1   G4M 59 
+G4M H2A2   2H2A H 0 0 N N N 70.383 44.922 0.164  -3.794  -4.660 4.227  H2A2   G4M 60 
+G4M H2A3   3H2A H 0 0 N N N 68.618 44.686 -0.073 -4.453  -6.096 3.409  H2A3   G4M 61 
+G4M HO3L   HO3L H 0 0 N N N 71.535 47.055 0.273  -2.948  -2.156 3.142  HO3L   G4M 62 
+G4M H4A1   1H4A H 0 0 N N N 70.579 50.031 3.049  -6.284  -0.150 1.430  H4A1   G4M 63 
+G4M H4A2   2H4A H 0 0 N N N 70.805 48.608 4.261  -5.137  -0.297 2.783  H4A2   G4M 64 
+G4M HN4A   HN4A H 0 0 N N N 72.358 47.903 3.140  -3.359  -0.422 1.180  HN4A   G4M 65 
+G4M H4G    H4G  H 0 1 N N N 73.270 50.418 2.593  -5.268  1.776  1.019  H4G    G4M 66 
+G4M H5G    H5G  H 0 1 N N N 74.236 48.174 4.465  -2.716  1.500  -0.634 H5G    G4M 67 
+G4M H6G1   1H6G H 0 0 N N N 74.913 48.903 1.557  -5.619  1.907  -1.478 H6G1   G4M 68 
+G4M H6G2   2H6G H 0 0 N N N 75.774 47.677 2.547  -4.217  1.716  -2.558 H6G2   G4M 69 
+G4M H6G3   3H6G H 0 0 N N N 74.050 47.426 2.107  -4.754  0.353  -1.547 H6G3   G4M 70 
+G4M H3G    H3G  H 0 1 N N N 71.649 50.021 4.976  -2.348  1.520  1.881  H3G    G4M 71 
+G4M HO3G   HO3G H 0 0 N N N 72.469 52.300 5.147  -3.366  1.830  4.021  HO3G   G4M 72 
+G4M H2G    H2G  H 0 1 N N N 73.547 49.107 6.090  -2.612  3.835  2.685  H2G    G4M 73 
+G4M HO2G   HO2G H 0 0 N N N 73.271 50.464 7.699  -4.637  4.962  2.108  HO2G   G4M 74 
+G4M H1G    H1G  H 0 1 N N N 75.271 51.449 5.307  -2.791  4.962  0.463  H1G    G4M 75 
+G4M HO4P   HO4P H 0 0 N N N 79.084 49.927 6.695  -1.003  3.222  -2.480 HO4P   G4M 76 
+G4M HO2P   HO2P H 0 0 N N N 77.566 53.357 10.085 2.643   2.955  -2.803 HO2P   G4M 77 
+G4M "H5'1" 1H5* H 0 0 N N N 78.417 53.998 5.247  5.334   2.906  -1.132 "H5'1" G4M 78 
+G4M "H5'2" 2H5* H 0 0 N N N 79.307 52.762 6.207  5.242   3.802  0.403  "H5'2" G4M 79 
+G4M "H4'"  H4*  H 0 1 N N N 80.857 54.371 5.264  5.174   1.569  1.612  "H4'"  G4M 80 
+G4M "H3'"  H3*  H 0 1 N N N 80.921 53.573 7.947  7.500   2.567  -0.041 "H3'"  G4M 81 
+G4M "HO3'" HO3* H 0 0 N N N 82.647 54.644 6.301  8.429   2.556  2.161  "HO3'" G4M 82 
+G4M "H2'"  H2*  H 0 1 N N N 79.700 55.447 8.962  8.377   0.450  -0.325 "H2'"  G4M 83 
+G4M "HO2'" HO2* H 0 0 N N N 82.377 56.347 8.665  9.203   0.637  1.931  "HO2'" G4M 84 
+G4M "H1'"  H1*  H 0 1 N N N 81.080 57.449 7.105  6.176   -0.863 1.283  "H1'"  G4M 85 
+G4M H8     H8   H 0 1 N N N 77.473 56.143 7.828  6.140   -0.512 -2.505 H8     G4M 86 
+G4M HN1    HN1  H 0 1 N N N 78.504 62.524 8.597  8.677   -6.119 -0.523 HN1    G4M 87 
+G4M HN21   1HN2 H 0 0 N N N 80.579 62.929 8.170  8.539   -4.671 2.663  HN21   G4M 88 
+G4M HN22   2HN2 H 0 0 N N N 81.837 61.783 7.671  8.974   -6.043 1.795  HN22   G4M 89 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+G4M C2A   C2L    SING N N 1  
+G4M C2L   N1L    DOUB Y N 2  
+G4M C2L   C3L    SING Y N 3  
+G4M O3L   C3L    SING N N 4  
+G4M N1L   C6L    SING Y N 5  
+G4M C3L   C4L    DOUB Y N 6  
+G4M C6L   C5L    DOUB Y N 7  
+G4M C6G   C5G    SING N N 8  
+G4M C4L   C5L    SING Y N 9  
+G4M C4L   C4A    SING N N 10 
+G4M N4A   C4A    SING N N 11 
+G4M N4A   C4G    SING N N 12 
+G4M C5L   C5B    SING N N 13 
+G4M C4G   C5G    SING N N 14 
+G4M C4G   C3G    SING N N 15 
+G4M C5G   O5G    SING N N 16 
+G4M OP4   C5B    SING N N 17 
+G4M OP4   PL     SING N N 18 
+G4M O5G   C1G    SING N N 19 
+G4M OP2   PL     DOUB N N 20 
+G4M O3G   C3G    SING N N 21 
+G4M C3G   C2G    SING N N 22 
+G4M PL    OP3    SING N N 23 
+G4M PL    OP1    SING N N 24 
+G4M O3P   P2     DOUB N N 25 
+G4M C1G   C2G    SING N N 26 
+G4M C1G   O1G    SING N N 27 
+G4M C2G   O2G    SING N N 28 
+G4M "O4'" "C4'"  SING N N 29 
+G4M "O4'" "C1'"  SING N N 30 
+G4M "C4'" "C5'"  SING N N 31 
+G4M "C4'" "C3'"  SING N N 32 
+G4M "C5'" "O5'"  SING N N 33 
+G4M O1G   P2     SING N N 34 
+G4M P2    OPP    SING N N 35 
+G4M P2    O4P    SING N N 36 
+G4M OPP   P      SING N N 37 
+G4M "O3'" "C3'"  SING N N 38 
+G4M "C1'" N9     SING N N 39 
+G4M "C1'" "C2'"  SING N N 40 
+G4M "O5'" P      SING N N 41 
+G4M "C3'" "C2'"  SING N N 42 
+G4M N9    C4     SING Y N 43 
+G4M N9    C8     SING Y N 44 
+G4M N3    C4     SING N N 45 
+G4M N3    C2     DOUB N N 46 
+G4M C4    C5     DOUB Y N 47 
+G4M C8    N7     DOUB Y N 48 
+G4M N2    C2     SING N N 49 
+G4M P     O1P    DOUB N N 50 
+G4M P     O2P    SING N N 51 
+G4M C2    N1     SING N N 52 
+G4M C5    N7     SING Y N 53 
+G4M C5    C6     SING N N 54 
+G4M "C2'" "O2'"  SING N N 55 
+G4M N1    C6     SING N N 56 
+G4M C6    O6     DOUB N N 57 
+G4M OP3   HOP3   SING N N 58 
+G4M OP1   HOP1   SING N N 59 
+G4M C5B   H5B1   SING N N 60 
+G4M C5B   H5B2   SING N N 61 
+G4M C6L   H6L    SING N N 62 
+G4M C2A   H2A1   SING N N 63 
+G4M C2A   H2A2   SING N N 64 
+G4M C2A   H2A3   SING N N 65 
+G4M O3L   HO3L   SING N N 66 
+G4M C4A   H4A1   SING N N 67 
+G4M C4A   H4A2   SING N N 68 
+G4M N4A   HN4A   SING N N 69 
+G4M C4G   H4G    SING N N 70 
+G4M C5G   H5G    SING N N 71 
+G4M C6G   H6G1   SING N N 72 
+G4M C6G   H6G2   SING N N 73 
+G4M C6G   H6G3   SING N N 74 
+G4M C3G   H3G    SING N N 75 
+G4M O3G   HO3G   SING N N 76 
+G4M C2G   H2G    SING N N 77 
+G4M O2G   HO2G   SING N N 78 
+G4M C1G   H1G    SING N N 79 
+G4M O4P   HO4P   SING N N 80 
+G4M O2P   HO2P   SING N N 81 
+G4M "C5'" "H5'1" SING N N 82 
+G4M "C5'" "H5'2" SING N N 83 
+G4M "C4'" "H4'"  SING N N 84 
+G4M "C3'" "H3'"  SING N N 85 
+G4M "O3'" "HO3'" SING N N 86 
+G4M "C2'" "H2'"  SING N N 87 
+G4M "O2'" "HO2'" SING N N 88 
+G4M "C1'" "H1'"  SING N N 89 
+G4M C8    H8     SING N N 90 
+G4M N1    HN1    SING N N 91 
+G4M N2    HN21   SING N N 92 
+G4M N2    HN22   SING N N 93 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+G4M SMILES           ACDLabs              10.04 "O=P(OC2OC(C(NCc1c(cnc(c1O)C)COP(=O)(O)O)C(O)C2O)C)(O)OP(=O)(O)OCC5OC(n3c4N=C(N)NC(=O)c4nc3)C(O)C5O" 
+G4M SMILES_CANONICAL CACTVS               3.341 "C[C@H]1O[C@H](O[P@@](O)(=O)O[P@@](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n3cnc4C(=O)NC(=Nc34)N)[C@@H](O)[C@@H](O)[C@@H]1NCc5c(O)c(C)ncc5CO[P](O)(O)=O" 
+G4M SMILES           CACTVS               3.341 "C[CH]1O[CH](O[P](O)(=O)O[P](O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)n3cnc4C(=O)NC(=Nc34)N)[CH](O)[CH](O)[CH]1NCc5c(O)c(C)ncc5CO[P](O)(O)=O" 
+G4M SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(c(c(cn1)COP(=O)(O)O)CN[C@@H]2[C@H](O[C@@H]([C@H]([C@H]2O)O)O[P@](=O)(O)O[P@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4N=C(NC5=O)N)O)O)C)O" 
+G4M SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(c(c(cn1)COP(=O)(O)O)CNC2C(OC(C(C2O)O)OP(=O)(O)OP(=O)(O)OCC3C(C(C(O3)n4cnc5c4N=C(NC5=O)N)O)O)C)O" 
+G4M InChI            InChI                1.03  
+;InChI=1S/C24H36N7O19P3/c1-8-15(32)11(10(3-26-8)5-45-51(38,39)40)4-27-13-9(2)47-23(19(36)17(13)34)49-53(43,44)50-52(41,42)46-6-12-16(33)18(35)22(48-12)31-7-28-14-20(31)29-24(25)30-21(14)37/h3,7,9,12-13,16-19,22-23,27,32-36H,4-6H2,1-2H3,(H,41,42)(H,43,44)(H2,38,39,40)(H3,25,29,30,37)/t9-,12-,13-,16-,17+,18-,19+,22-,23-/m1/s1
+;
+G4M InChIKey         InChI                1.03  BNJJFFPICXKOFM-VMLLIFSYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+G4M "SYSTEMATIC NAME" ACDLabs              10.04 
+;[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (2R,3S,4S,5S,6R)-3,4-dihydroxy-5-[({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)amino]-6-methyltetrahydro-2H-pyran-2-yl dihydrogen diphosphate (non-preferred name)
+;
+G4M "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 
+"[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl] [(2R,3S,4S,5S,6R)-3,4-dihydroxy-5-[[3-hydroxy-2-methyl-5-(phosphonooxymethyl)pyridin-4-yl]methylamino]-6-methyl-oxan-2-yl] hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+G4M "Create component"     2007-11-05 RCSB 
+G4M "Modify aromatic_flag" 2011-06-04 RCSB 
+G4M "Modify descriptor"    2011-06-04 RCSB 
+# 

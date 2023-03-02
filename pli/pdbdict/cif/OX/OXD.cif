@@ -1,0 +1,102 @@
+data_OXD
+# 
+_chem_comp.id                                    OXD 
+_chem_comp.name                                  "OXALIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-06-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        90.035 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OXD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1O4N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OXD C1 C1 C 0 1 N N N 15.157 28.504 17.941 -0.139 0.000 0.734  C1 OXD 1 
+OXD C2 C2 C 0 1 N N N 16.600 28.312 17.493 0.139  0.000 -0.734 C2 OXD 2 
+OXD O3 O3 O 0 1 N N N 15.039 28.119 19.174 -1.283 0.000 1.134  O3 OXD 3 
+OXD O4 O4 O 0 1 N N N 17.495 28.244 18.388 1.283  0.000 -1.134 O4 OXD 4 
+OXD O5 O5 O 0 1 N N N 14.310 28.737 17.043 0.880  0.000 1.611  O5 OXD 5 
+OXD O6 O6 O 0 1 N N N 16.869 28.034 16.379 -0.880 0.000 -1.611 O6 OXD 6 
+OXD H5 H5 H 0 1 N N N 13.410 28.856 17.322 0.700  0.000 2.562  H5 OXD 7 
+OXD H6 H6 H 0 1 N N N 17.769 27.914 16.099 -0.700 0.000 -2.562 H6 OXD 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OXD C1 C2 SING N N 1 
+OXD C1 O3 DOUB N N 2 
+OXD C1 O5 SING N N 3 
+OXD C2 O4 DOUB N N 4 
+OXD C2 O6 SING N N 5 
+OXD O5 H5 SING N N 6 
+OXD O6 H6 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OXD SMILES           ACDLabs              10.04 "O=C(O)C(=O)O"                                 
+OXD SMILES_CANONICAL CACTVS               3.341 "OC(=O)C(O)=O"                                 
+OXD SMILES           CACTVS               3.341 "OC(=O)C(O)=O"                                 
+OXD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)(C(=O)O)O"                               
+OXD SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)(C(=O)O)O"                               
+OXD InChI            InChI                1.03  "InChI=1S/C2H2O4/c3-1(4)2(5)6/h(H,3,4)(H,5,6)" 
+OXD InChIKey         InChI                1.03  MUBZPKHOEPUJKR-UHFFFAOYSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OXD "SYSTEMATIC NAME" ACDLabs              10.04 "ethanedioic acid" 
+OXD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "ethanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OXD "Create component"  2003-06-20 RCSB 
+OXD "Modify descriptor" 2011-06-04 RCSB 
+# 

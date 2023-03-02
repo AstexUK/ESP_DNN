@@ -1,0 +1,146 @@
+data_PSX
+# 
+_chem_comp.id                                    PSX 
+_chem_comp.name                                  "[(2S,3R,4S)-2,4-DIHYDROXY-3-METHYLHEXYL]PHOSPHONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H17 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-06-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        212.181 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PSX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PSX CAA  CAA  C 0 1 N N N 45.658 52.273 15.775 5.031  -0.397 0.795  CAA  PSX 1  
+PSX C6   C6   C 0 1 N N N 45.236 51.945 14.350 3.870  0.567  0.541  C6   PSX 2  
+PSX C5   C5   C 0 1 N N S 43.706 51.957 14.207 2.576  -0.230 0.362  C5   PSX 3  
+PSX OC5  OC5  O 0 1 N N N 43.115 51.408 15.404 2.668  -1.030 -0.819 OC5  PSX 4  
+PSX C4   C4   C 0 1 N N R 43.186 51.158 12.982 1.396  0.736  0.232  C4   PSX 5  
+PSX CAB  CAB  C 0 1 N N N 42.179 51.924 12.105 1.547  1.556  -1.051 CAB  PSX 6  
+PSX C3   C3   C 0 1 N N S 44.298 50.486 12.159 0.090  -0.059 0.178  C3   PSX 7  
+PSX OC3  OC3  O 0 1 N N N 44.842 51.447 11.255 0.113  -0.937 -0.949 OC3  PSX 8  
+PSX C2   C2   C 0 1 N N N 43.656 49.405 11.333 -1.090 0.906  0.049  C2   PSX 9  
+PSX P1   P1   P 0 1 N N N 44.842 48.311 10.516 -2.653 -0.028 0.134  P1   PSX 10 
+PSX O2P  O2P  O 0 1 N N N 45.601 47.768 11.859 -2.647 -1.094 -0.893 O2P  PSX 11 
+PSX O1P  O1P  O 0 1 N N N 44.216 47.211 9.754  -2.803 -0.691 1.594  O1P  PSX 12 
+PSX O3P  O3P  O 0 1 N N N 45.648 48.929 9.524  -3.889 0.967  -0.133 O3P  PSX 13 
+PSX HAA1 1HAA H 0 0 N N N 45.317 51.475 16.451 4.832  -0.975 1.697  HAA1 PSX 14 
+PSX HAA2 2HAA H 0 0 N N N 45.207 53.229 16.080 5.135  -1.072 -0.054 HAA2 PSX 15 
+PSX HAA3 3HAA H 0 0 N N N 46.754 52.352 15.824 5.952  0.171  0.922  HAA3 PSX 16 
+PSX H61  1H6  H 0 1 N N N 45.602 50.938 14.100 3.766  1.243  1.390  H61  PSX 17 
+PSX H62  2H6  H 0 1 N N N 45.663 52.697 13.670 4.068  1.145  -0.362 H62  PSX 18 
+PSX H5   H5   H 0 1 N N N 43.414 53.006 14.052 2.424  -0.875 1.227  H5   PSX 19 
+PSX HOC5 HOC5 H 0 0 N N N 43.788 51.287 16.063 2.802  -0.422 -1.559 HOC5 PSX 20 
+PSX H4   H4   H 0 1 N N N 42.609 50.337 13.433 1.379  1.406  1.092  H4   PSX 21 
+PSX HAB1 1HAB H 0 0 N N N 41.943 51.327 11.212 1.564  0.886  -1.910 HAB1 PSX 22 
+PSX HAB2 2HAB H 0 0 N N N 42.617 52.885 11.799 0.706  2.244  -1.143 HAB2 PSX 23 
+PSX HAB3 3HAB H 0 0 N N N 41.258 52.107 12.678 2.477  2.122  -1.012 HAB3 PSX 24 
+PSX H3   H3   H 0 1 N N N 45.082 50.087 12.819 -0.018 -0.644 1.092  H3   PSX 25 
+PSX HOC3 HOC3 H 0 0 N N N 44.963 52.274 11.706 0.209  -0.381 -1.734 HOC3 PSX 26 
+PSX H21  1H2  H 0 1 N N N 43.078 49.904 10.541 -1.056 1.632  0.861  H21  PSX 27 
+PSX H22  2H2  H 0 1 N N N 43.030 48.793 11.999 -1.030 1.427  -0.907 H22  PSX 28 
+PSX HO1P HO1P H 0 0 N N N 44.082 47.485 8.854  -2.802 0.036  2.232  HO1P PSX 29 
+PSX HO3P HO3P H 0 0 N N N 45.133 49.067 8.738  -4.694 0.434  -0.079 HO3P PSX 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PSX CAA C6   SING N N 1  
+PSX CAA HAA1 SING N N 2  
+PSX CAA HAA2 SING N N 3  
+PSX CAA HAA3 SING N N 4  
+PSX C6  C5   SING N N 5  
+PSX C6  H61  SING N N 6  
+PSX C6  H62  SING N N 7  
+PSX C5  OC5  SING N N 8  
+PSX C5  C4   SING N N 9  
+PSX C5  H5   SING N N 10 
+PSX OC5 HOC5 SING N N 11 
+PSX C4  CAB  SING N N 12 
+PSX C4  C3   SING N N 13 
+PSX C4  H4   SING N N 14 
+PSX CAB HAB1 SING N N 15 
+PSX CAB HAB2 SING N N 16 
+PSX CAB HAB3 SING N N 17 
+PSX C3  OC3  SING N N 18 
+PSX C3  C2   SING N N 19 
+PSX C3  H3   SING N N 20 
+PSX OC3 HOC3 SING N N 21 
+PSX C2  P1   SING N N 22 
+PSX C2  H21  SING N N 23 
+PSX C2  H22  SING N N 24 
+PSX P1  O2P  DOUB N N 25 
+PSX P1  O1P  SING N N 26 
+PSX P1  O3P  SING N N 27 
+PSX O1P HO1P SING N N 28 
+PSX O3P HO3P SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PSX SMILES           ACDLabs              10.04 "O=P(O)(O)CC(O)C(C(O)CC)C"                                                                         
+PSX SMILES_CANONICAL CACTVS               3.341 "CC[C@H](O)[C@@H](C)[C@H](O)C[P](O)(O)=O"                                                          
+PSX SMILES           CACTVS               3.341 "CC[CH](O)[CH](C)[CH](O)C[P](O)(O)=O"                                                              
+PSX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC[C@@H]([C@@H](C)[C@@H](CP(=O)(O)O)O)O"                                                          
+PSX SMILES           "OpenEye OEToolkits" 1.5.0 "CCC(C(C)C(CP(=O)(O)O)O)O"                                                                         
+PSX InChI            InChI                1.03  "InChI=1S/C7H17O5P/c1-3-6(8)5(2)7(9)4-13(10,11)12/h5-9H,3-4H2,1-2H3,(H2,10,11,12)/t5-,6+,7-/m1/s1" 
+PSX InChIKey         InChI                1.03  SBJOFBHUNGKURT-DSYKOEDSSA-N                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PSX "SYSTEMATIC NAME" ACDLabs              10.04 "[(2S,3R,4S)-2,4-dihydroxy-3-methylhexyl]phosphonic acid"  
+PSX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S,3R,4S)-2,4-dihydroxy-3-methyl-hexyl]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PSX "Create component"  2006-06-06 RCSB 
+PSX "Modify descriptor" 2011-06-04 RCSB 
+# 

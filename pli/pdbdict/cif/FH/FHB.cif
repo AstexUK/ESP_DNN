@@ -1,0 +1,119 @@
+data_FHB
+# 
+_chem_comp.id                                    FHB 
+_chem_comp.name                                  "3-FLUORO-4-HYDROXYBENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 F O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        156.111 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FHB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3PCF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FHB C1  C1  C 0 1 Y N N -24.589 -27.082 19.587 -0.170 -0.002 0.912  C1  FHB 1  
+FHB C2  C2  C 0 1 Y N N -24.426 -26.971 20.966 0.932  0.002  0.052  C2  FHB 2  
+FHB C3  C3  C 0 1 Y N N -24.763 -28.042 21.783 0.738  -0.010 -1.312 C3  FHB 3  
+FHB F3  F3  F 0 1 N N N -24.641 -27.892 23.150 1.802  -0.010 -2.145 F3  FHB 4  
+FHB C4  C4  C 0 1 Y N N -25.233 -29.227 21.233 -0.552 -0.016 -1.833 C4  FHB 5  
+FHB O4  O4  O 0 1 N N N -25.600 -30.252 22.099 -0.739 -0.023 -3.178 O4  FHB 6  
+FHB C5  C5  C 0 1 Y N N -25.386 -29.367 19.870 -1.649 -0.015 -0.981 C5  FHB 7  
+FHB C6  C6  C 0 1 Y N N -25.073 -28.289 19.038 -1.464 -0.009 0.383  C6  FHB 8  
+FHB C7  C7  C 0 1 N N N -24.209 -25.919 18.691 0.031  0.004  2.373  C7  FHB 9  
+FHB O1  O1  O 0 1 N N N -23.812 -24.846 19.200 -0.927 0.004  3.118  O1  FHB 10 
+FHB O2  O2  O 0 1 N N N -24.328 -26.010 17.452 1.279  0.010  2.880  O2  FHB 11 
+FHB H2  H2  H 0 1 N N N -24.032 -26.040 21.408 1.933  0.007  0.456  H2  FHB 12 
+FHB HO4 HO4 H 0 1 N N N -25.921 -31.062 21.722 -0.780 0.901  -3.459 HO4 FHB 13 
+FHB H5  H5  H 0 1 N N N -25.751 -30.321 19.454 -2.649 -0.021 -1.389 H5  FHB 14 
+FHB H6  H6  H 0 1 N N N -25.208 -28.390 17.948 -2.318 -0.008 1.044  H6  FHB 15 
+FHB HO2 HO2 H 0 1 N N N -24.090 -25.281 16.890 1.412  0.014  3.838  HO2 FHB 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FHB C1 C2  DOUB Y N 1  
+FHB C1 C6  SING Y N 2  
+FHB C1 C7  SING N N 3  
+FHB C2 C3  SING Y N 4  
+FHB C2 H2  SING N N 5  
+FHB C3 F3  SING N N 6  
+FHB C3 C4  DOUB Y N 7  
+FHB C4 O4  SING N N 8  
+FHB C4 C5  SING Y N 9  
+FHB O4 HO4 SING N N 10 
+FHB C5 C6  DOUB Y N 11 
+FHB C5 H5  SING N N 12 
+FHB C6 H6  SING N N 13 
+FHB C7 O1  DOUB N N 14 
+FHB C7 O2  SING N N 15 
+FHB O2 HO2 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FHB SMILES           ACDLabs              10.04 "Fc1cc(C(=O)O)ccc1O"                                            
+FHB SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1ccc(O)c(F)c1"                                          
+FHB SMILES           CACTVS               3.341 "OC(=O)c1ccc(O)c(F)c1"                                          
+FHB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1C(=O)O)F)O"                                          
+FHB SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1C(=O)O)F)O"                                          
+FHB InChI            InChI                1.03  "InChI=1S/C7H5FO3/c8-5-3-4(7(10)11)1-2-6(5)9/h1-3,9H,(H,10,11)" 
+FHB InChIKey         InChI                1.03  IUSDEKNMCOUBEE-UHFFFAOYSA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FHB "SYSTEMATIC NAME" ACDLabs              10.04 "3-fluoro-4-hydroxybenzoic acid"  
+FHB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3-fluoro-4-hydroxy-benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FHB "Create component"  1999-07-08 RCSB 
+FHB "Modify descriptor" 2011-06-04 RCSB 
+# 

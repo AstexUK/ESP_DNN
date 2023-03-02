@@ -1,0 +1,123 @@
+data_OBZ
+# 
+_chem_comp.id                                    OBZ 
+_chem_comp.name                                  O-benzylhydroxylamine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H9 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-07-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        123.152 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OBZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DTG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OBZ O2   O2   O 0 1 N N N 9.435  -15.606 8.822  2.158  0.022  -0.488 O2   OBZ 1  
+OBZ C3   C3   C 0 1 N N N 8.747  -16.036 10.034 1.375  0.014  0.707  C3   OBZ 2  
+OBZ C4   C4   C 0 1 Y N N 9.166  -17.400 10.333 -0.089 0.005  0.349  C4   OBZ 3  
+OBZ C9   C9   C 0 1 Y N N 8.518  -18.488 9.681  -0.752 -1.196 0.182  C9   OBZ 4  
+OBZ C8   C8   C 0 1 Y N N 9.000  -19.801 9.853  -2.095 -1.204 -0.146 C8   OBZ 5  
+OBZ C7   C7   C 0 1 Y N N 10.133 -20.006 10.685 -2.774 -0.011 -0.308 C7   OBZ 6  
+OBZ C6   C6   C 0 1 Y N N 10.774 -18.924 11.345 -2.111 1.190  -0.140 C6   OBZ 7  
+OBZ C5   C5   C 0 1 Y N N 10.287 -17.619 11.168 -0.769 1.198  0.192  C5   OBZ 8  
+OBZ N1   N1   N 0 1 N N N 9.218  -14.360 8.323  3.602  0.031  -0.254 N1   OBZ 9  
+OBZ H3   H3   H 0 1 N N N 9.010  -15.371 10.870 1.612  -0.875 1.291  H3   OBZ 10 
+OBZ H3A  H3A  H 0 1 N N N 7.658  -15.996 9.887  1.600  0.905  1.294  H3A  OBZ 11 
+OBZ H9   H9   H 0 1 N N N 7.657  -18.307 9.055  -0.221 -2.128 0.309  H9   OBZ 12 
+OBZ H8   H8   H 0 1 N N N 8.518  -20.634 9.363  -2.613 -2.143 -0.277 H8   OBZ 13 
+OBZ H7   H7   H 0 1 N N N 10.516 -21.007 10.819 -3.823 -0.018 -0.566 H7   OBZ 14 
+OBZ H6   H6   H 0 1 N N N 11.630 -19.104 11.979 -2.642 2.122  -0.267 H6   OBZ 15 
+OBZ H5   H5   H 0 1 N N N 10.765 -16.788 11.666 -0.252 2.137  0.327  H5   OBZ 16 
+OBZ HN1  HN1  H 0 1 N N N 9.165  -13.704 9.076  3.880  -0.750 0.322  HN1  OBZ 17 
+OBZ HN1A HN1A H 0 0 N N N 9.971  -14.109 7.715  4.110  0.036  -1.125 HN1A OBZ 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OBZ O2 C3   SING N N 1  
+OBZ C3 C4   SING N N 2  
+OBZ C4 C9   DOUB Y N 3  
+OBZ C4 C5   SING Y N 4  
+OBZ C9 C8   SING Y N 5  
+OBZ C8 C7   DOUB Y N 6  
+OBZ C7 C6   SING Y N 7  
+OBZ C6 C5   DOUB Y N 8  
+OBZ O2 N1   SING N N 9  
+OBZ C3 H3   SING N N 10 
+OBZ C3 H3A  SING N N 11 
+OBZ C9 H9   SING N N 12 
+OBZ C8 H8   SING N N 13 
+OBZ C7 H7   SING N N 14 
+OBZ C6 H6   SING N N 15 
+OBZ C5 H5   SING N N 16 
+OBZ N1 HN1  SING N N 17 
+OBZ N1 HN1A SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OBZ SMILES           ACDLabs              10.04 "[(aminooxy)methyl]benzene"                      
+OBZ SMILES_CANONICAL CACTVS               3.341 NOCc1ccccc1                                      
+OBZ SMILES           CACTVS               3.341 NOCc1ccccc1                                      
+OBZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CON"                                  
+OBZ SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CON"                                  
+OBZ InChI            InChI                1.03  InChI=1S/C7H9NO/c8-9-6-7-4-2-1-3-5-7/h1-5H,6,8H2 
+OBZ InChIKey         InChI                1.03  XYEOALKITRFCJJ-UHFFFAOYSA-N                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OBZ "SYSTEMATIC NAME" ACDLabs              10.04 O-benzylhydroxylamine           
+OBZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "O-(phenylmethyl)hydroxylamine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OBZ "Create component"  2008-07-23 PDBJ 
+OBZ "Modify descriptor" 2011-06-04 RCSB 
+# 

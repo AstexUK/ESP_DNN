@@ -1,0 +1,125 @@
+data_F12
+# 
+_chem_comp.id                                    F12 
+_chem_comp.name                                  "2-(ACETYLAMINO)THIOPHENE-3-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-06-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.200 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     F12 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2HDU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+F12 O9   O9   O 0 1 N N N 79.496 15.024 27.437 -1.272 2.261  0.007  O9   F12 1  
+F12 C7   C7   C 0 1 N N N 80.444 14.271 27.066 -1.918 1.231  0.002  C7   F12 2  
+F12 O8   O8   O 0 1 N N N 81.211 13.660 27.859 -3.266 1.279  -0.005 O8   F12 3  
+F12 C3   C3   C 0 1 Y N N 80.745 14.070 25.616 -1.232 -0.063 0.003  C3   F12 4  
+F12 C4   C4   C 0 1 Y N N 81.790 13.243 25.120 -1.963 -1.308 -0.002 C4   F12 5  
+F12 C5   C5   C 0 1 Y N N 81.895 13.193 23.724 -1.243 -2.444 0.000  C5   F12 6  
+F12 S6   S6   S 0 1 Y N N 80.681 14.200 22.992 0.440  -1.862 0.001  S6   F12 7  
+F12 C2   C2   C 0 1 Y N N 80.001 14.709 24.496 0.156  -0.154 -0.001 C2   F12 8  
+F12 N1   N1   N 0 1 N N N 78.944 15.551 24.717 1.086  0.874  -0.002 N1   F12 9  
+F12 C13  C13  C 0 1 N N N 78.223 16.159 23.769 2.404  0.591  -0.001 C13  F12 10 
+F12 O14  O14  O 0 1 N N N 78.481 16.037 22.615 2.776  -0.564 0.000  O14  F12 11 
+F12 C12  C12  C 0 1 N N N 77.092 17.041 24.201 3.415  1.708  -0.002 C12  F12 12 
+F12 HO8  HO8  H 0 1 N N N 80.963 13.856 28.755 -3.718 2.134  -0.007 HO8  F12 13 
+F12 H4   H4   H 0 1 N N N 82.454 12.694 25.771 -3.043 -1.327 -0.003 H4   F12 14 
+F12 H5   H5   H 0 1 N N N 82.625 12.612 23.180 -1.599 -3.463 0.001  H5   F12 15 
+F12 HN1  HN1  H 0 1 N N N 78.690 15.726 25.668 0.788  1.797  -0.003 HN1  F12 16 
+F12 H121 1H12 H 0 0 N N N 76.136 16.531 24.011 4.420  1.288  -0.001 H121 F12 17 
+F12 H122 2H12 H 0 0 N N N 77.124 17.983 23.634 3.278  2.321  -0.892 H122 F12 18 
+F12 H123 3H12 H 0 0 N N N 77.185 17.257 25.276 3.277  2.323  0.888  H123 F12 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+F12 O9  C7   DOUB N N 1  
+F12 C7  O8   SING N N 2  
+F12 C7  C3   SING N N 3  
+F12 O8  HO8  SING N N 4  
+F12 C3  C4   SING Y N 5  
+F12 C3  C2   DOUB Y N 6  
+F12 C4  C5   DOUB Y N 7  
+F12 C4  H4   SING N N 8  
+F12 C5  S6   SING Y N 9  
+F12 C5  H5   SING N N 10 
+F12 S6  C2   SING Y N 11 
+F12 C2  N1   SING N N 12 
+F12 N1  C13  SING N N 13 
+F12 N1  HN1  SING N N 14 
+F12 C13 O14  DOUB N N 15 
+F12 C13 C12  SING N N 16 
+F12 C12 H121 SING N N 17 
+F12 C12 H122 SING N N 18 
+F12 C12 H123 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+F12 SMILES           ACDLabs              10.04 "O=C(O)c1c(scc1)NC(=O)C"                                                     
+F12 SMILES_CANONICAL CACTVS               3.341 "CC(=O)Nc1sccc1C(O)=O"                                                       
+F12 SMILES           CACTVS               3.341 "CC(=O)Nc1sccc1C(O)=O"                                                       
+F12 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)Nc1c(ccs1)C(=O)O"                                                     
+F12 SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)Nc1c(ccs1)C(=O)O"                                                     
+F12 InChI            InChI                1.03  "InChI=1S/C7H7NO3S/c1-4(9)8-6-5(7(10)11)2-3-12-6/h2-3H,1H3,(H,8,9)(H,10,11)" 
+F12 InChIKey         InChI                1.03  RCEBHKDQZCVBTC-UHFFFAOYSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+F12 "SYSTEMATIC NAME" ACDLabs              10.04 "2-(acetylamino)thiophene-3-carboxylic acid" 
+F12 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-acetamidothiophene-3-carboxylic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+F12 "Create component"  2006-06-21 RCSB 
+F12 "Modify descriptor" 2011-06-04 RCSB 
+# 

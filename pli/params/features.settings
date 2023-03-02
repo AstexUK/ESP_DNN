@@ -1,0 +1,10 @@
+pli.mode prepare
+pli.ovar system:{ligand:{atoms_nonh:{id,name,fgroup:{type:{name},features:{type:{name},charge:{Qo,Fq}},q}}}}
+pli.oflags protein:atoms,hydrogens,features,bonds
+pli.oflags ligand:atoms,hydrogens,features,bonds
+pli.omols "protein,ligand,symmetry"
+pli.selection all
+pli.ligand_oformat pdb
+pli.ligand_name ft_ligand
+pli.ligand_bonds keep
+pli.ligand_hydrogens keep

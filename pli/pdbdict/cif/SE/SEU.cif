@@ -1,0 +1,113 @@
+data_SEU
+# 
+_chem_comp.id                                    SEU 
+_chem_comp.name                                  S-ETHYLISOTHIOUREA 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H8 N2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ITU 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        104.174 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SEU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4NOS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SEU C1   C1   C 0 1 N N N 37.384 36.019 26.921 0.047  0.000  2.889  C1   SEU 1  
+SEU C2   C2   C 0 1 N N N 36.536 36.252 28.111 0.603  0.000  1.463  C2   SEU 2  
+SEU S3   S3   S 0 1 N N N 36.473 37.990 28.336 -0.767 0.000  0.281  S3   SEU 3  
+SEU C4   C4   C 0 1 N N N 35.439 38.156 29.831 0.133  0.000  -1.232 C4   SEU 4  
+SEU N5   N5   N 0 1 N N N 35.181 39.366 30.325 1.437  0.000  -1.214 N5   SEU 5  
+SEU N6   N6   N 0 1 N N N 34.949 37.088 30.433 -0.538 0.000  -2.432 N6   SEU 6  
+SEU H11  1H1  H 0 1 N N N 37.424 34.913 26.777 -0.563 -0.890 3.041  H11  SEU 7  
+SEU H12  2H1  H 0 1 N N N 37.038 36.570 26.015 0.873  0.000  3.601  H12  SEU 8  
+SEU H13  3H1  H 0 1 N N N 38.390 36.493 26.994 -0.563 0.890  3.041  H13  SEU 9  
+SEU H21  1H2  H 0 1 N N N 35.529 35.777 28.037 1.213  0.890  1.311  H21  SEU 10 
+SEU H22  2H2  H 0 1 N N N 36.881 35.700 29.016 1.213  -0.890 1.311  H22  SEU 11 
+SEU HN5  HN5  H 0 1 N N N 35.884 40.000 29.946 1.934  0.000  -2.048 HN5  SEU 12 
+SEU HN61 1HN6 H 0 0 N N N 34.371 37.180 31.268 -0.041 0.000  -3.266 HN61 SEU 13 
+SEU HN62 2HN6 H 0 0 N N N 35.723 36.460 30.649 -1.507 0.000  -2.445 HN62 SEU 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SEU C1 C2   SING N N 1  
+SEU C1 H11  SING N N 2  
+SEU C1 H12  SING N N 3  
+SEU C1 H13  SING N N 4  
+SEU C2 S3   SING N N 5  
+SEU C2 H21  SING N N 6  
+SEU C2 H22  SING N N 7  
+SEU S3 C4   SING N N 8  
+SEU C4 N5   DOUB N N 9  
+SEU C4 N6   SING N N 10 
+SEU N5 HN5  SING N N 11 
+SEU N6 HN61 SING N N 12 
+SEU N6 HN62 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SEU SMILES           ACDLabs              10.04 "[N@H]=C(SCC)N"                                                  
+SEU InChI            InChI                1.02b "InChI=1/C3H8N2S/c1-2-6-3(4)5/h2H2,1H3,(H3,4,5)/f/h4H,5H2/b4-3-" 
+SEU InChIKey         InChI                1.02b VFIZBHJTOHUOEK-ZODMDLHRDO                                        
+SEU SMILES_CANONICAL CACTVS               3.341 "CCSC(N)=N"                                                      
+SEU SMILES           CACTVS               3.341 "CCSC(N)=N"                                                      
+SEU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCSC(=N)N"                                                      
+SEU SMILES           "OpenEye OEToolkits" 1.5.0 "CCSC(=N)N"                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SEU "SYSTEMATIC NAME" ACDLabs              10.04 "ethyl imidothiocarbamate"   
+SEU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethylsulfanylmethanimidamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SEU "Create component" 1999-07-08 RCSB 
+# 

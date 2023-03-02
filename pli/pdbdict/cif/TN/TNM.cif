@@ -1,0 +1,163 @@
+data_TNM
+# 
+_chem_comp.id                                    TNM 
+_chem_comp.name                                  "[(2R)-1-(6-aminopurin-9-yl)propan-2-yl]oxymethyl-phosphonooxy-phosphinic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H15 N5 O7 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Tenofovir-monophosphate, PMPA-monophosphate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-12-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        367.192 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TNM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3FKB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TNM PA     PA     P 0 1 N N S 36.092 -19.098 0.473  -1.249 0.607  -0.191 PA     TNM 1  
+TNM O1A    O1A    O 0 1 N N N 37.154 -18.651 1.419  -0.400 -0.724 -0.507 O1A    TNM 2  
+TNM O2A    O2A    O 0 1 N N N 35.388 -18.031 -0.290 -1.070 0.982  1.229  O2A    TNM 3  
+TNM O3A    O3A    O 0 1 N N N 34.988 -19.913 1.297  -2.808 0.331  -0.481 O3A    TNM 4  
+TNM PB     PB     P 0 1 N N N 35.174 -20.309 2.846  -3.889 -0.706 0.110  PB     TNM 5  
+TNM O1B    O1B    O 0 1 N N N 34.887 -19.026 3.544  -3.610 -2.173 -0.494 O1B    TNM 6  
+TNM O2B    O2B    O 0 1 N N N 36.586 -20.770 2.906  -3.776 -0.751 1.585  O2B    TNM 7  
+TNM O3B    O3B    O 0 1 N N N 34.147 -21.371 3.014  -5.371 -0.230 -0.301 O3B    TNM 8  
+TNM "C9'"  "C9'"  C 0 1 N N N 36.900 -20.145 -0.726 -0.665 1.967  -1.256 "C9'"  TNM 9  
+TNM "O9'"  "O9'"  O 0 1 N N N 35.983 -20.611 -1.635 0.746  2.128  -1.091 "O9'"  TNM 10 
+TNM "C8'"  "C8'"  C 0 1 N N N 36.532 -22.973 -2.157 1.038  4.304  -0.079 "C8'"  TNM 11 
+TNM "C7'"  "C7'"  C 0 1 N N R 35.496 -21.969 -1.586 1.117  2.789  0.120  "C7'"  TNM 12 
+TNM "C6'"  "C6'"  C 0 1 N N N 34.148 -21.882 -2.458 2.547  2.398  0.496  "C6'"  TNM 13 
+TNM N9     N9     N 0 1 Y N N 34.345 -21.686 -3.888 2.598  0.966  0.804  N9     TNM 14 
+TNM C4     C4     C 0 1 Y N N 34.200 -22.597 -4.919 2.749  -0.053 -0.101 C4     TNM 15 
+TNM N3     N3     N 0 1 Y N N 34.021 -23.968 -4.792 2.889  -0.124 -1.421 N3     TNM 16 
+TNM C2     C2     C 0 1 Y N N 33.896 -24.580 -6.014 3.018  -1.288 -2.021 C2     TNM 17 
+TNM N1     N1     N 0 1 Y N N 33.961 -23.980 -7.265 3.015  -2.431 -1.359 N1     TNM 18 
+TNM C6     C6     C 0 1 Y N N 34.172 -22.607 -7.359 2.881  -2.460 -0.037 C6     TNM 19 
+TNM N6     N6     N 0 1 N N N 34.227 -22.080 -8.584 2.880  -3.662 0.648  N6     TNM 20 
+TNM C5     C5     C 0 1 Y N N 34.316 -21.840 -6.116 2.741  -1.241 0.649  C5     TNM 21 
+TNM N7     N7     N 0 1 Y N N 34.570 -20.499 -5.820 2.588  -0.892 1.949  N7     TNM 22 
+TNM C8     C8     C 0 1 Y N N 34.538 -20.454 -4.495 2.509  0.404  2.042  C8     TNM 23 
+TNM HO1A   HO1A   H 0 0 N N N 37.976 -18.556 0.952  -0.471 -1.028 -1.422 HO1A   TNM 24 
+TNM HO1B   HO1B   H 0 0 N N N 34.826 -19.181 4.479  -3.668 -2.219 -1.458 HO1B   TNM 25 
+TNM HO3B   HO3B   H 0 0 N N N 33.928 -21.737 2.165  -6.074 -0.810 0.022  HO3B   TNM 26 
+TNM "H9'"  "H9'"  H 0 1 N N N 37.672 -19.566 -1.253 -0.884 1.732  -2.298 "H9'"  TNM 27 
+TNM "H9'A" "H9'A" H 0 0 N N N 37.362 -20.999 -0.208 -1.172 2.890  -0.978 "H9'A" TNM 28 
+TNM "H8'"  "H8'"  H 0 1 N N N 36.277 -23.211 -3.200 0.002  4.593  -0.255 "H8'"  TNM 29 
+TNM "H8'A" "H8'A" H 0 0 N N N 37.536 -22.525 -2.118 1.410  4.808  0.813  "H8'A" TNM 30 
+TNM "H8'B" "H8'B" H 0 0 N N N 36.518 -23.895 -1.557 1.645  4.589  -0.938 "H8'B" TNM 31 
+TNM "H7'"  "H7'"  H 0 1 N N N 35.316 -22.344 -0.568 0.437  2.492  0.919  "H7'"  TNM 32 
+TNM "H6'"  "H6'"  H 0 1 N N N 33.604 -22.828 -2.324 3.214  2.614  -0.338 "H6'"  TNM 33 
+TNM "H6'A" "H6'A" H 0 0 N N N 33.604 -20.996 -2.098 2.862  2.969  1.370  "H6'A" TNM 34 
+TNM H2     H2     H 0 1 N N N 33.728 -25.647 -6.002 3.129  -1.310 -3.095 H2     TNM 35 
+TNM HN6    HN6    H 0 1 N N N 34.241 -21.082 -8.518 2.977  -4.497 0.163  HN6    TNM 36 
+TNM HN6A   HN6A   H 0 0 N N N 35.057 -22.395 -9.045 2.781  -3.671 1.613  HN6A   TNM 37 
+TNM H8     H8     H 0 1 N N N 34.652 -19.537 -3.937 2.384  0.952  2.964  H8     TNM 38 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TNM "C9'" PA     SING N N 1  
+TNM O2A   PA     DOUB N N 2  
+TNM PA    O3A    SING N N 3  
+TNM PA    O1A    SING N N 4  
+TNM O1A   HO1A   SING N N 5  
+TNM O3A   PB     SING N N 6  
+TNM PB    O2B    DOUB N N 7  
+TNM PB    O3B    SING N N 8  
+TNM PB    O1B    SING N N 9  
+TNM O1B   HO1B   SING N N 10 
+TNM O3B   HO3B   SING N N 11 
+TNM "O9'" "C9'"  SING N N 12 
+TNM "C9'" "H9'"  SING N N 13 
+TNM "C9'" "H9'A" SING N N 14 
+TNM "O9'" "C7'"  SING N N 15 
+TNM "C8'" "C7'"  SING N N 16 
+TNM "C8'" "H8'"  SING N N 17 
+TNM "C8'" "H8'A" SING N N 18 
+TNM "C8'" "H8'B" SING N N 19 
+TNM "C6'" "C7'"  SING N N 20 
+TNM "C7'" "H7'"  SING N N 21 
+TNM N9    "C6'"  SING N N 22 
+TNM "C6'" "H6'"  SING N N 23 
+TNM "C6'" "H6'A" SING N N 24 
+TNM C4    N9     SING Y N 25 
+TNM C8    N9     SING Y N 26 
+TNM C5    C4     DOUB Y N 27 
+TNM C4    N3     SING Y N 28 
+TNM C2    N3     DOUB Y N 29 
+TNM N1    C2     SING Y N 30 
+TNM C2    H2     SING N N 31 
+TNM C6    N1     DOUB Y N 32 
+TNM N6    C6     SING N N 33 
+TNM C6    C5     SING Y N 34 
+TNM N6    HN6    SING N N 35 
+TNM N6    HN6A   SING N N 36 
+TNM C5    N7     SING Y N 37 
+TNM N7    C8     DOUB Y N 38 
+TNM C8    H8     SING N N 39 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TNM SMILES_CANONICAL CACTVS               3.341 "C[C@H](Cn1cnc2c(N)ncnc12)OC[P@@](O)(=O)O[P](O)(O)=O"                                                                                                    
+TNM SMILES           CACTVS               3.341 "C[CH](Cn1cnc2c(N)ncnc12)OC[P](O)(=O)O[P](O)(O)=O"                                                                                                       
+TNM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H](Cn1cnc2c1ncnc2N)OC[P@](=O)(O)OP(=O)(O)O"                                                                                                         
+TNM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(Cn1cnc2c1ncnc2N)OCP(=O)(O)OP(=O)(O)O"                                                                                                                
+TNM InChI            InChI                1.03  "InChI=1S/C9H15N5O7P2/c1-6(20-5-22(15,16)21-23(17,18)19)2-14-4-13-7-8(10)11-3-12-9(7)14/h3-4,6H,2,5H2,1H3,(H,15,16)(H2,10,11,12)(H2,17,18,19)/t6-/m1/s1" 
+TNM InChIKey         InChI                1.03  BQDRSOMUPPCKPB-ZCFIWIBFSA-N                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TNM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R)-1-(6-aminopurin-9-yl)propan-2-yl]oxymethyl-phosphonooxy-phosphinic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TNM "Create component"     2008-12-18 PDBJ 
+TNM "Modify aromatic_flag" 2011-06-04 RCSB 
+TNM "Modify descriptor"    2011-06-04 RCSB 
+# 

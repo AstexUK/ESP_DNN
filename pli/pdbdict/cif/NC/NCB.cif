@@ -1,0 +1,120 @@
+data_NCB
+# 
+_chem_comp.id                                    NCB 
+_chem_comp.name                                  N-CARBAMOYL-ALANINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H8 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-10-10 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.118 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     NCB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QMV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NCB N   N   N 0 1 N N N 26.255 -9.244  72.762 -0.358 -0.319 -0.653 N   NCB 1  
+NCB CA  CA  C 0 1 N N R 24.936 -9.561  72.302 0.492  0.078  0.470  CA  NCB 2  
+NCB C   C   C 0 1 N N N 23.996 -9.811  73.468 -0.333 0.137  1.729  C   NCB 3  
+NCB O   O   O 0 1 N N N 23.479 -10.985 73.580 -1.512 -0.126 1.691  O   NCB 4  
+NCB OXT OXT O 0 1 N Y N 23.686 -8.801  74.262 0.239  0.481  2.893  OXT NCB 5  
+NCB CB  CB  C 0 1 N N N 24.373 -8.835  71.126 1.616  -0.944 0.645  CB  NCB 6  
+NCB O3  O3  O 0 1 N N N 27.857 -8.616  71.537 0.883  0.835  -2.088 O3  NCB 7  
+NCB C3  C3  C 0 1 N N N 27.342 -9.658  72.069 -0.076 0.114  -1.898 C3  NCB 8  
+NCB N2  N2  N 0 1 N N N 27.901 -10.831 71.856 -0.859 -0.251 -2.932 N2  NCB 9  
+NCB H   H   H 0 1 N N N 26.345 -9.571  73.723 -1.125 -0.894 -0.502 H   NCB 10 
+NCB HA  HA  H 0 1 N N N 25.070 -10.529 71.765 0.921  1.060  0.271  HA  NCB 11 
+NCB HXT HO  H 0 1 N Y N 23.097 -8.957  74.991 -0.290 0.519  3.701  HXT NCB 12 
+NCB HB3 3HB H 0 1 N N N 23.346 -9.081  70.767 1.187  -1.926 0.844  HB3 NCB 13 
+NCB HB2 2HB H 0 1 N N N 24.426 -7.739  71.325 2.214  -0.986 -0.265 HB2 NCB 14 
+NCB HB1 1HB H 0 1 N N N 25.082 -8.938  70.271 2.249  -0.648 1.482  HB1 NCB 15 
+NCB H22 2H2 H 0 1 N N N 27.490 -11.662 72.280 -0.656 0.060  -3.828 H22 NCB 16 
+NCB H21 1H2 H 0 1 N N N 28.719 -11.142 71.333 -1.626 -0.826 -2.781 H21 NCB 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NCB N   CA  SING N N 1  
+NCB N   C3  SING N N 2  
+NCB N   H   SING N N 3  
+NCB CA  C   SING N N 4  
+NCB CA  CB  SING N N 5  
+NCB CA  HA  SING N N 6  
+NCB C   O   DOUB N N 7  
+NCB C   OXT SING N N 8  
+NCB OXT HXT SING N N 9  
+NCB CB  HB3 SING N N 10 
+NCB CB  HB2 SING N N 11 
+NCB CB  HB1 SING N N 12 
+NCB O3  C3  DOUB N N 13 
+NCB C3  N2  SING N N 14 
+NCB N2  H22 SING N N 15 
+NCB N2  H21 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NCB SMILES           ACDLabs              10.04 "O=C(O)C(NC(=O)N)C"                                                        
+NCB SMILES_CANONICAL CACTVS               3.341 "C[C@@H](NC(N)=O)C(O)=O"                                                   
+NCB SMILES           CACTVS               3.341 "C[CH](NC(N)=O)C(O)=O"                                                     
+NCB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H](C(=O)O)NC(=O)N"                                                    
+NCB SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(=O)O)NC(=O)N"                                                        
+NCB InChI            InChI                1.03  "InChI=1S/C4H8N2O3/c1-2(3(7)8)6-4(5)9/h2H,1H3,(H,7,8)(H3,5,6,9)/t2-/m1/s1" 
+NCB InChIKey         InChI                1.03  LUSWEUMSEVLFEQ-UWTATZPHSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NCB "SYSTEMATIC NAME" ACDLabs              10.04 N-carbamoyl-D-alanine                       
+NCB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-(aminocarbonylamino)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NCB "Create component"  1999-10-10 EBI  
+NCB "Modify descriptor" 2011-06-04 RCSB 
+# 

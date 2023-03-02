@@ -1,0 +1,101 @@
+data_04E
+# 
+_chem_comp.id                                    04E 
+_chem_comp.name                                  "iodoacetic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H3 I O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-05-07 
+_chem_comp.pdbx_modified_date                    2012-05-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        185.948 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     04E 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QA7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+04E C1  C1  C 0 1 N N N 0.611 -3.233 22.249 2.045  -0.023 -0.002 C1  04E 1 
+04E O1  O1  O 0 1 N N N 0.312 -2.156 22.745 1.780  -1.202 -0.001 O1  04E 2 
+04E CH3 CH3 C 0 1 N N N 1.967 -3.397 21.593 0.937  0.999  -0.002 CH3 04E 3 
+04E H1  H1  H 0 1 N N N 2.672 -2.667 22.018 1.019  1.623  0.887  H1  04E 4 
+04E H2  H2  H 0 1 N N N 2.342 -4.416 21.773 1.018  1.622  -0.892 H2  04E 5 
+04E I1  I1  I 0 1 N Y N ?     ?      ?      -0.974 -0.012 0.000  I1  04E 6 
+04E OXT OXT O 0 1 N Y N ?     ?      ?      3.327  0.377  0.002  OXT 04E 7 
+04E HXT HXT H 0 1 N Y N ?     ?      ?      4.002  -0.315 0.006  HXT 04E 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+04E CH3 C1  SING N N 1 
+04E C1  O1  DOUB N N 2 
+04E CH3 H1  SING N N 3 
+04E CH3 H2  SING N N 4 
+04E CH3 I1  SING N N 5 
+04E C1  OXT SING N N 6 
+04E OXT HXT SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+04E SMILES           ACDLabs              12.01 "ICC(=O)O"                                 
+04E InChI            InChI                1.03  "InChI=1S/C2H3IO2/c3-1-2(4)5/h1H2,(H,4,5)" 
+04E InChIKey         InChI                1.03  JDNTWHVOXJZDSN-UHFFFAOYSA-N                
+04E SMILES_CANONICAL CACTVS               3.370 "OC(=O)CI"                                 
+04E SMILES           CACTVS               3.370 "OC(=O)CI"                                 
+04E SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C(C(=O)O)I"                               
+04E SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(=O)O)I"                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+04E "SYSTEMATIC NAME" ACDLabs              12.01 "iodoacetic acid"        
+04E "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-iodanylethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+04E "Create component" 2012-05-07 RCSB 
+# 

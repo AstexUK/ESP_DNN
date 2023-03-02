@@ -1,0 +1,170 @@
+data_GRB
+# 
+_chem_comp.id                                    GRB 
+_chem_comp.name                                  
+;8-bromoguanosine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H13 Br N5 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               G 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-03-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        442.117 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GRB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3R1D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GRB P      P      P  0 1 N N N -6.003 11.899 22.648 -4.927 -0.443 0.836  P      GRB 1  
+GRB BR     BR     BR 0 0 N N N -4.449 10.392 31.107 -0.328 -1.748 -1.115 BR     GRB 2  
+GRB N1     N1     N  0 1 N N N -6.005 6.969  26.125 5.523  -0.335 0.933  N1     GRB 3  
+GRB C2     C2     C  0 1 N N N -6.009 8.191  25.479 4.950  0.877  1.179  C2     GRB 4  
+GRB N2     N2     N  0 1 N N N -6.316 8.173  24.161 5.717  1.880  1.718  N2     GRB 5  
+GRB N3     N3     N  0 1 N N N -5.713 9.346  26.065 3.684  1.113  0.915  N3     GRB 6  
+GRB C4     C4     C  0 1 Y N N -5.434 9.189  27.384 2.899  0.166  0.390  C4     GRB 7  
+GRB C5     C5     C  0 1 Y N N -5.416 8.015  28.106 3.428  -1.100 0.115  C5     GRB 8  
+GRB C6     C6     C  0 1 N N N -5.703 6.791  27.473 4.792  -1.340 0.403  C6     GRB 9  
+GRB O6     O6     O  0 1 N N N -5.744 5.671  28.003 5.296  -2.427 0.175  O6     GRB 10 
+GRB N7     N7     N  0 1 Y N N -5.081 8.237  29.424 2.426  -1.851 -0.404 N7     GRB 11 
+GRB C8     C8     C  0 1 Y N N -4.904 9.522  29.488 1.338  -1.138 -0.462 C8     GRB 12 
+GRB N9     N9     N  0 1 Y N N -5.094 10.168 28.290 1.582  0.116  0.018  N9     GRB 13 
+GRB "C1'"  "C1'"  C  0 1 N N R -4.987 11.620 28.116 0.612  1.210  0.117  "C1'"  GRB 14 
+GRB "C2'"  "C2'"  C  0 1 N N R -3.585 12.159 28.301 0.333  1.820  -1.280 "C2'"  GRB 15 
+GRB "O2'"  "O2'"  O  0 1 N N N -3.655 13.472 28.842 1.292  2.831  -1.595 "O2'"  GRB 16 
+GRB "C3'"  "C3'"  C  0 1 N N S -3.097 12.078 26.868 -1.076 2.434  -1.090 "C3'"  GRB 17 
+GRB "O3'"  "O3'"  O  0 1 N N N -2.030 12.963 26.640 -0.978 3.833  -0.815 "O3'"  GRB 18 
+GRB "C4'"  "C4'"  C  0 1 N N R -4.314 12.545 26.100 -1.655 1.682  0.123  "C4'"  GRB 19 
+GRB "O4'"  "O4'"  O  0 1 N N N -5.420 11.962 26.816 -0.678 0.709  0.530  "O4'"  GRB 20 
+GRB "C5'"  "C5'"  C  0 1 N N N -4.332 12.089 24.657 -2.955 0.979  -0.273 "C5'"  GRB 21 
+GRB "O5'"  "O5'"  O  0 1 N N N -5.556 12.476 24.065 -3.546 0.382  0.883  "O5'"  GRB 22 
+GRB OP1    OP1    O  0 1 N N N -5.738 10.455 22.499 -6.130 0.548  0.430  OP1    GRB 23 
+GRB OP2    OP2    O  0 1 N N N -5.492 12.836 21.607 -4.821 -1.526 -0.167 OP2    GRB 24 
+GRB OP3    OP3    O  0 1 N Y N -7.569 12.126 22.751 -5.223 -1.079 2.285  OP3    GRB 25 
+GRB HN1    HN1    H  0 1 N N N -6.235 6.157  25.588 6.461  -0.475 1.135  HN1    GRB 26 
+GRB HN2    HN2    H  0 1 N N N -6.319 9.024  23.637 6.653  1.720  1.918  HN2    GRB 27 
+GRB HN2A   HN2A   H  0 0 N N N -6.540 7.308  23.712 5.323  2.748  1.898  HN2A   GRB 28 
+GRB "H1'"  "H1'"  H  0 1 N N N -5.616 12.071 28.898 0.967  1.975  0.807  "H1'"  GRB 29 
+GRB "H2'"  "H2'"  H  0 1 N N N -2.918 11.635 29.002 0.320  1.046  -2.047 "H2'"  GRB 30 
+GRB "HO2'" "HO2'" H  0 0 N N N -2.776 13.814 28.960 1.159  3.243  -2.460 "HO2'" GRB 31 
+GRB "H3'"  "H3'"  H  0 1 N N N -2.728 11.080 26.591 -1.689 2.262  -1.974 "H3'"  GRB 32 
+GRB "HO3'" "HO3'" H  0 0 N N N -1.746 12.891 25.736 -0.567 4.346  -1.524 "HO3'" GRB 33 
+GRB "H4'"  "H4'"  H  0 1 N N N -4.341 13.643 26.045 -1.843 2.381  0.938  "H4'"  GRB 34 
+GRB "H5'"  "H5'"  H  0 1 N N N -3.496 12.553 24.113 -3.646 1.706  -0.699 "H5'"  GRB 35 
+GRB "H5'A" "H5'A" H  0 0 N N N -4.231 10.994 24.615 -2.740 0.206  -1.011 "H5'A" GRB 36 
+GRB HOP1   HOP1   H  0 0 N N N -5.242 10.304 21.703 -6.258 1.283  1.044  HOP1   GRB 37 
+GRB HOP3   HOP3   H  0 0 N Y N -7.833 12.800 22.135 -6.042 -1.592 2.330  HOP3   GRB 38 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GRB OP2   P      DOUB N N 1  
+GRB OP1   P      SING N N 2  
+GRB P     OP3    SING N N 3  
+GRB P     "O5'"  SING N N 4  
+GRB C8    BR     SING N N 5  
+GRB C2    N1     SING N N 6  
+GRB N1    C6     SING N N 7  
+GRB N1    HN1    SING N N 8  
+GRB N2    C2     SING N N 9  
+GRB C2    N3     DOUB N N 10 
+GRB N2    HN2    SING N N 11 
+GRB N2    HN2A   SING N N 12 
+GRB N3    C4     SING N N 13 
+GRB C4    C5     DOUB Y N 14 
+GRB C4    N9     SING Y N 15 
+GRB C6    C5     SING N N 16 
+GRB C5    N7     SING Y N 17 
+GRB C6    O6     DOUB N N 18 
+GRB N7    C8     DOUB Y N 19 
+GRB N9    C8     SING Y N 20 
+GRB "C1'" N9     SING N N 21 
+GRB "O4'" "C1'"  SING N N 22 
+GRB "C1'" "C2'"  SING N N 23 
+GRB "C1'" "H1'"  SING N N 24 
+GRB "C3'" "C2'"  SING N N 25 
+GRB "C2'" "O2'"  SING N N 26 
+GRB "C2'" "H2'"  SING N N 27 
+GRB "O2'" "HO2'" SING N N 28 
+GRB "C4'" "C3'"  SING N N 29 
+GRB "O3'" "C3'"  SING N N 30 
+GRB "C3'" "H3'"  SING N N 31 
+GRB "O3'" "HO3'" SING N N 32 
+GRB "C5'" "C4'"  SING N N 33 
+GRB "C4'" "O4'"  SING N N 34 
+GRB "C4'" "H4'"  SING N N 35 
+GRB "O5'" "C5'"  SING N N 36 
+GRB "C5'" "H5'"  SING N N 37 
+GRB "C5'" "H5'A" SING N N 38 
+GRB OP1   HOP1   SING N N 39 
+GRB OP3   HOP3   SING N N 40 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GRB SMILES           ACDLabs              12.01 "O=P(O)(O)OCC3OC(n2c(Br)nc1c2N=C(N)NC1=O)C(O)C3O"                                                                                                                      
+GRB SMILES_CANONICAL CACTVS               3.370 "NC1=Nc2n([C@@H]3O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]3O)c(Br)nc2C(=O)N1"                                                                                                
+GRB SMILES           CACTVS               3.370 "NC1=Nc2n([CH]3O[CH](CO[P](O)(O)=O)[CH](O)[CH]3O)c(Br)nc2C(=O)N1"                                                                                                      
+GRB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C([C@@H]1[C@H]([C@H]([C@@H](O1)n2c3c(nc2Br)C(=O)NC(=N3)N)O)O)OP(=O)(O)O"                                                                                              
+GRB SMILES           "OpenEye OEToolkits" 1.7.0 "C(C1C(C(C(O1)n2c3c(nc2Br)C(=O)NC(=N3)N)O)O)OP(=O)(O)O"                                                                                                                
+GRB InChI            InChI                1.03  "InChI=1S/C10H13BrN5O8P/c11-9-13-3-6(14-10(12)15-7(3)19)16(9)8-5(18)4(17)2(24-8)1-23-25(20,21)22/h2,4-5,8,17-18H,1H2,(H2,20,21,22)(H3,12,14,15,19)/t2-,4-,5-,8-/m1/s1" 
+GRB InChIKey         InChI                1.03  SJLDUTNIPDQOCZ-UMMCILCDSA-N                                                                                                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GRB "SYSTEMATIC NAME" ACDLabs              12.01 
+;8-bromoguanosine 5'-(dihydrogen phosphate)
+;
+GRB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[(2R,3S,4R,5R)-5-(2-azanyl-8-bromo-6-oxo-1H-purin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GRB "Create component"     2011-03-15 RCSB 
+GRB "Modify aromatic_flag" 2011-06-04 RCSB 
+GRB "Modify descriptor"    2011-06-04 RCSB 
+# 

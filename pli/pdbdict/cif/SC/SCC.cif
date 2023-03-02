@@ -1,0 +1,105 @@
+data_SCC
+# 
+_chem_comp.id                                    SCC 
+_chem_comp.name                                  "THIOETHYL GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2014-07-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         XL1 
+_chem_comp.formula_weight                        62.134 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SCC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EPQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SCC S   S   S 0 1 N N N 0.822  30.979 16.288 1.024  -0.167 0.000  S   SCC 1 
+SCC C1  C1  C 0 1 N N N -0.230 29.496 15.891 -0.582 0.676  -0.000 C1  SCC 2 
+SCC C2  C2  C 0 1 N N N -1.561 29.864 15.234 -1.704 -0.365 0.000  C2  SCC 3 
+SCC H11 H11 H 0 1 N N N 0.330  28.843 15.206 -0.665 1.299  0.890  H11 SCC 4 
+SCC H12 H12 H 0 1 N N N -0.439 28.954 16.825 -0.665 1.299  -0.890 H12 SCC 5 
+SCC H21 H21 H 0 1 N N N -2.133 28.948 15.026 -1.621 -0.989 -0.890 H21 SCC 6 
+SCC H22 H22 H 0 1 N N N -2.138 30.510 15.912 -1.621 -0.989 0.890  H22 SCC 7 
+SCC H23 H23 H 0 1 N N N -1.369 30.399 14.292 -2.669 0.142  -0.000 H23 SCC 8 
+SCC HS1 HS1 H 0 1 N N N 1.872  30.430 16.824 1.901  0.853  -0.000 HS1 SCC 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SCC S   C1  SING N N 1 
+SCC C1  C2  SING N N 2 
+SCC C1  H11 SING N N 3 
+SCC C1  H12 SING N N 4 
+SCC C2  H21 SING N N 5 
+SCC C2  H22 SING N N 6 
+SCC C2  H23 SING N N 7 
+SCC HS1 S   SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SCC SMILES           ACDLabs              12.01 SCC                               
+SCC InChI            InChI                1.03  InChI=1S/C2H6S/c1-2-3/h3H,2H2,1H3 
+SCC InChIKey         InChI                1.03  DNJIEGIFACGWOD-UHFFFAOYSA-N       
+SCC SMILES_CANONICAL CACTVS               3.385 CCS                               
+SCC SMILES           CACTVS               3.385 CCS                               
+SCC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CCS                               
+SCC SMILES           "OpenEye OEToolkits" 1.7.6 CCS                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SCC "SYSTEMATIC NAME" ACDLabs              12.01 ethanethiol 
+SCC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 ethanethiol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SCC "Create component"   1999-07-08 RCSB 
+SCC "Modify descriptor"  2011-06-04 RCSB 
+SCC "Obsolete component" 2014-07-17 RCSB 
+# 

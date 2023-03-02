@@ -1,0 +1,77 @@
+data_NA
+# 
+_chem_comp.id                                    NA 
+_chem_comp.name                                  "SODIUM ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               Na 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        22.990 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+_chem_comp_atom.comp_id                    NA 
+_chem_comp_atom.atom_id                    NA 
+_chem_comp_atom.alt_atom_id                NA 
+_chem_comp_atom.type_symbol                NA 
+_chem_comp_atom.charge                     1 
+_chem_comp_atom.pdbx_align                 0 
+_chem_comp_atom.pdbx_aromatic_flag         N 
+_chem_comp_atom.pdbx_leaving_atom_flag     N 
+_chem_comp_atom.pdbx_stereo_config         N 
+_chem_comp_atom.model_Cartn_x              0.000 
+_chem_comp_atom.model_Cartn_y              0.000 
+_chem_comp_atom.model_Cartn_z              0.000 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal   0.000 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal   0.000 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal   0.000 
+_chem_comp_atom.pdbx_component_atom_id     NA 
+_chem_comp_atom.pdbx_component_comp_id     NA 
+_chem_comp_atom.pdbx_ordinal               1 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NA SMILES           ACDLabs              10.04 "[Na+]"                     
+NA SMILES_CANONICAL CACTVS               3.341 "[Na+]"                     
+NA SMILES           CACTVS               3.341 "[Na+]"                     
+NA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[Na+]"                     
+NA SMILES           "OpenEye OEToolkits" 1.5.0 "[Na+]"                     
+NA InChI            InChI                1.03  InChI=1S/Na/q+1             
+NA InChIKey         InChI                1.03  FKNQFGJONOIPTF-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NA "SYSTEMATIC NAME" ACDLabs              10.04 sodium              
+NA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "sodium(+1) cation" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NA "Create component"  1999-07-08 RCSB 
+NA "Modify descriptor" 2011-06-04 RCSB 
+# 

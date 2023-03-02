@@ -1,0 +1,125 @@
+data_CFA
+# 
+_chem_comp.id                                    CFA 
+_chem_comp.name                                  "(2,4-DICHLOROPHENOXY)ACETIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 Cl2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "2,4-DICHLOROPHENOXYACETIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-12-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        221.037 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CFA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GQX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CFA C1    C1    C  0 1 N N N -3.591 5.653 -4.112 0.637  0.000  3.714  C1    CFA 1  
+CFA C2    C2    C  0 1 N N N -2.304 5.317 -3.388 0.908  -0.000 2.232  C2    CFA 2  
+CFA "C1'" "C1'" C  0 1 Y N N 0.031  5.671 -3.411 -0.023 0.001  0.196  "C1'" CFA 3  
+CFA "C2'" "C2'" C  0 1 Y N N 1.156  6.290 -3.955 -1.037 -0.002 -0.751 "C2'" CFA 4  
+CFA "C3'" "C3'" C  0 1 Y N N 2.376  6.239 -3.342 -0.722 0.002  -2.097 "C3'" CFA 5  
+CFA "C4'" "C4'" C  0 1 Y N N 2.510  5.565 -2.156 0.601  0.000  -2.499 "C4'" CFA 6  
+CFA "C5'" "C5'" C  0 1 Y N N 1.428  4.932 -1.604 1.613  -0.001 -1.554 "C5'" CFA 7  
+CFA CL3   CL3   CL 0 0 N N N 0.994  7.151 -5.451 -2.698 -0.000 -0.248 CL3   CFA 8  
+CFA "C6'" "C6'" C  0 1 Y N N 0.207  4.979 -2.224 1.302  -0.000 -0.208 "C6'" CFA 9  
+CFA O1    O1    O  0 1 N N N -3.672 5.103 -5.232 1.659  -0.001 4.584  O1    CFA 10 
+CFA O2    O2    O  0 1 N N N -4.422 6.420 -3.601 -0.501 0.001  4.120  O2    CFA 11 
+CFA "O1'" "O1'" O  0 1 N N N -1.142 5.791 -4.085 -0.330 0.001  1.521  "O1'" CFA 12 
+CFA CL4   CL4   CL 0 0 N N N 4.042  5.532 -1.343 0.995  0.000  -4.190 CL4   CFA 13 
+CFA H2C1  1H2C  H  0 0 N N N -2.232 4.223 -3.185 1.480  0.889  1.967  H2C1  CFA 14 
+CFA H2C2  2H2C  H  0 0 N N N -2.324 5.693 -2.339 1.478  -0.891 1.967  H2C2  CFA 15 
+CFA "H3'" "H3'" H  0 1 N N N 3.248  6.737 -3.799 -1.510 0.003  -2.836 "H3'" CFA 16 
+CFA "H5'" "H5'" H  0 1 N N N 1.540  4.381 -0.655 2.646  -0.002 -1.870 "H5'" CFA 17 
+CFA "H6'" "H6'" H  0 1 N N N -0.651 4.456 -1.770 2.092  -0.001 0.528  "H6'" CFA 18 
+CFA H1    H1    H  0 1 N N N -4.479 5.313 -5.686 1.485  -0.001 5.535  H1    CFA 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CFA C1    C2    SING N N 1  
+CFA C1    O1    SING N N 2  
+CFA C1    O2    DOUB N N 3  
+CFA C2    "O1'" SING N N 4  
+CFA C2    H2C1  SING N N 5  
+CFA C2    H2C2  SING N N 6  
+CFA "C1'" "C2'" DOUB Y N 7  
+CFA "C1'" "C6'" SING Y N 8  
+CFA "C1'" "O1'" SING N N 9  
+CFA "C2'" "C3'" SING Y N 10 
+CFA "C2'" CL3   SING N N 11 
+CFA "C3'" "C4'" DOUB Y N 12 
+CFA "C3'" "H3'" SING N N 13 
+CFA "C4'" "C5'" SING Y N 14 
+CFA "C4'" CL4   SING N N 15 
+CFA "C5'" "C6'" DOUB Y N 16 
+CFA "C5'" "H5'" SING N N 17 
+CFA "C6'" "H6'" SING N N 18 
+CFA O1    H1    SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CFA SMILES           ACDLabs              10.04 "Clc1cc(Cl)ccc1OCC(=O)O"                                                  
+CFA SMILES_CANONICAL CACTVS               3.341 "OC(=O)COc1ccc(Cl)cc1Cl"                                                  
+CFA SMILES           CACTVS               3.341 "OC(=O)COc1ccc(Cl)cc1Cl"                                                  
+CFA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1Cl)Cl)OCC(=O)O"                                                
+CFA SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1Cl)Cl)OCC(=O)O"                                                
+CFA InChI            InChI                1.03  "InChI=1S/C8H6Cl2O3/c9-5-1-2-7(6(10)3-5)13-4-8(11)12/h1-3H,4H2,(H,11,12)" 
+CFA InChIKey         InChI                1.03  OVSKIKFHRZPJSS-UHFFFAOYSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CFA "SYSTEMATIC NAME" ACDLabs              10.04 "(2,4-dichlorophenoxy)acetic acid"     
+CFA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(2,4-dichlorophenoxy)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CFA "Create component"  2001-12-05 EBI  
+CFA "Modify descriptor" 2011-06-04 RCSB 
+# 

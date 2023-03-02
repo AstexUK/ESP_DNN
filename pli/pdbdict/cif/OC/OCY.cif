@@ -1,0 +1,128 @@
+data_OCY
+# 
+_chem_comp.id                                    OCY 
+_chem_comp.name                                  HYDROXYETHYLCYSTEINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        165.211 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     OCY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1VSH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OCY N   N   N 0 1 N N N 50.463 46.553 61.429 1.752  -0.130 1.693  N   OCY 1  
+OCY CA  CA  C 0 1 N N R 49.769 47.206 60.342 0.383  0.401  1.665  CA  OCY 2  
+OCY CB  CB  C 0 1 N N N 50.411 46.901 59.000 -0.331 -0.094 0.407  CB  OCY 3  
+OCY SG  SG  S 0 1 N N N 50.390 45.295 58.299 0.567  0.472  -1.062 SG  OCY 4  
+OCY CD  CD  C 0 1 N N N 51.091 44.010 59.350 -0.474 -0.241 -2.364 CD  OCY 5  
+OCY CE  CE  C 0 1 N N N 52.397 44.503 59.971 0.104  0.116  -3.734 CE  OCY 6  
+OCY OZ  OZ  O 0 1 N N N 53.500 43.938 59.280 -0.716 -0.446 -4.760 OZ  OCY 7  
+OCY C   C   C 0 1 N N N 48.308 46.774 60.309 -0.363 -0.069 2.886  C   OCY 8  
+OCY O   O   O 0 1 N N N 47.475 47.393 59.667 -0.085 -1.131 3.392  O   OCY 9  
+OCY OXT OXT O 0 1 N Y N 48.004 45.666 60.984 -1.337 0.689  3.412  OXT OCY 10 
+OCY H   1HN H 0 1 N N N 50.031 46.757 62.330 2.179  0.121  0.814  H   OCY 11 
+OCY H2  2HN H 0 1 N Y N 51.455 46.787 61.430 1.672  -1.135 1.699  H2  OCY 12 
+OCY HA  HA  H 0 1 N N N 49.834 48.304 60.522 0.417  1.491  1.658  HA  OCY 13 
+OCY HB2 1HB H 0 1 N N N 49.978 47.603 58.250 -0.365 -1.184 0.414  HB2 OCY 14 
+OCY HB3 2HB H 0 1 N N N 51.473 47.235 59.049 -1.347 0.299  0.387  HB3 OCY 15 
+OCY HD2 1HD H 0 1 N N N 50.366 43.658 60.121 -0.503 -1.325 -2.253 HD2 OCY 16 
+OCY HD3 2HD H 0 1 N N N 51.224 43.047 58.802 -1.485 0.158  -2.281 HD3 OCY 17 
+OCY HE2 1HE H 0 1 N N N 52.450 45.616 60.007 0.132  1.200  -3.845 HE2 OCY 18 
+OCY HE3 2HE H 0 1 N N N 52.441 44.303 61.067 1.114  -0.284 -3.817 HE3 OCY 19 
+OCY HZ  HOZ H 0 1 N N N 54.312 44.244 59.666 -0.317 -0.198 -5.605 HZ  OCY 20 
+OCY HXT HXT H 0 1 N Y N 47.093 45.396 60.963 -1.816 0.387  4.196  HXT OCY 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OCY N   CA  SING N N 1  
+OCY N   H   SING N N 2  
+OCY N   H2  SING N N 3  
+OCY CA  CB  SING N N 4  
+OCY CA  C   SING N N 5  
+OCY CA  HA  SING N N 6  
+OCY CB  SG  SING N N 7  
+OCY CB  HB2 SING N N 8  
+OCY CB  HB3 SING N N 9  
+OCY SG  CD  SING N N 10 
+OCY CD  CE  SING N N 11 
+OCY CD  HD2 SING N N 12 
+OCY CD  HD3 SING N N 13 
+OCY CE  OZ  SING N N 14 
+OCY CE  HE2 SING N N 15 
+OCY CE  HE3 SING N N 16 
+OCY OZ  HZ  SING N N 17 
+OCY C   O   DOUB N N 18 
+OCY C   OXT SING N N 19 
+OCY OXT HXT SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OCY SMILES           ACDLabs              10.04 "O=C(O)C(N)CSCCO"                                                          
+OCY SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CSCCO)C(O)=O"                                                     
+OCY SMILES           CACTVS               3.341 "N[CH](CSCCO)C(O)=O"                                                       
+OCY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CSC[C@@H](C(=O)O)N)O"                                                   
+OCY SMILES           "OpenEye OEToolkits" 1.5.0 "C(CSCC(C(=O)O)N)O"                                                        
+OCY InChI            InChI                1.03  "InChI=1S/C5H11NO3S/c6-4(5(8)9)3-10-2-1-7/h4,7H,1-3,6H2,(H,8,9)/t4-/m0/s1" 
+OCY InChIKey         InChI                1.03  MWFRVMDVLYIXJF-BYPYZUCNSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OCY "SYSTEMATIC NAME" ACDLabs              10.04 "S-(2-hydroxyethyl)-L-cysteine"                         
+OCY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-(2-hydroxyethylsulfanyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OCY "Create component"  1999-07-08 PDBJ 
+OCY "Modify descriptor" 2011-06-04 RCSB 
+# 

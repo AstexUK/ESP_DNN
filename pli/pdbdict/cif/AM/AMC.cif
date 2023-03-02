@@ -1,0 +1,135 @@
+data_AMC
+# 
+_chem_comp.id                                    AMC 
+_chem_comp.name                                  AMINOMETHYLCYCLOHEXANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H16 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        114.209 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AMC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TNG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AMC C1  C1  C 0 1 N N N 29.471 15.064 16.959 0.520  0.274  0.240  C1  AMC 1  
+AMC C2  C2  C 0 1 N N N 29.647 13.571 16.946 0.070  -1.074 -0.327 C2  AMC 2  
+AMC C3  C3  C 0 1 N N N 29.887 13.047 18.356 -1.325 -1.411 0.203  C3  AMC 3  
+AMC C4  C4  C 0 1 N N N 28.684 13.389 19.259 -2.311 -0.322 -0.226 C4  AMC 4  
+AMC C5  C5  C 0 1 N N N 28.361 14.894 19.241 -1.861 1.025  0.341  C5  AMC 5  
+AMC C6  C6  C 0 1 N N N 28.256 15.364 17.786 -0.466 1.362  -0.189 C6  AMC 6  
+AMC CM  CM  C 0 1 N N N 29.286 15.589 15.551 1.914  0.610  -0.291 CM  AMC 7  
+AMC N   N   N 1 1 N N N 30.535 15.693 14.829 2.883  -0.369 0.221  N   AMC 8  
+AMC H1  H1  H 0 1 N N N 30.373 15.558 17.387 0.548  0.218  1.328  H1  AMC 9  
+AMC H21 1H2 H 0 1 N N N 28.788 13.057 16.454 0.041  -1.019 -1.416 H21 AMC 10 
+AMC H22 2H2 H 0 1 N N N 30.454 13.255 16.244 0.772  -1.850 -0.021 H22 AMC 11 
+AMC H31 1H3 H 0 1 N N N 30.117 11.956 18.362 -1.296 -1.466 1.292  H31 AMC 12 
+AMC H32 2H3 H 0 1 N N N 30.847 13.419 18.781 -1.646 -2.371 -0.201 H32 AMC 13 
+AMC H41 1H4 H 0 1 N N N 27.789 12.779 18.990 -3.305 -0.562 0.152  H41 AMC 14 
+AMC H42 2H4 H 0 1 N N N 28.841 13.020 20.299 -2.340 -0.267 -1.314 H42 AMC 15 
+AMC H51 1H5 H 0 1 N N N 27.449 15.139 19.833 -1.832 0.970  1.429  H51 AMC 16 
+AMC H52 2H5 H 0 1 N N N 29.095 15.493 19.828 -2.563 1.801  0.035  H52 AMC 17 
+AMC H61 1H6 H 0 1 N N N 28.011 16.450 17.742 -0.146 2.322  0.215  H61 AMC 18 
+AMC H62 2H6 H 0 1 N N N 27.341 14.945 17.304 -0.495 1.417  -1.278 H62 AMC 19 
+AMC HM1 1HM H 0 1 N N N 28.547 14.973 14.987 2.198  1.609  0.041  HM1 AMC 20 
+AMC HM2 2HM H 0 1 N N N 28.742 16.562 15.554 1.906  0.578  -1.380 HM2 AMC 21 
+AMC HN1 1HN H 0 1 N N N 30.407 16.136 13.882 2.890  -0.340 1.229  HN1 AMC 22 
+AMC HN2 2HN H 0 1 N N N 31.032 14.790 14.660 3.802  -0.147 -0.129 HN2 AMC 23 
+AMC HN3 3HN H 0 1 N N N 31.191 16.368 15.287 2.620  -1.294 -0.087 HN3 AMC 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AMC C1 C2  SING N N 1  
+AMC C1 C6  SING N N 2  
+AMC C1 CM  SING N N 3  
+AMC C1 H1  SING N N 4  
+AMC C2 C3  SING N N 5  
+AMC C2 H21 SING N N 6  
+AMC C2 H22 SING N N 7  
+AMC C3 C4  SING N N 8  
+AMC C3 H31 SING N N 9  
+AMC C3 H32 SING N N 10 
+AMC C4 C5  SING N N 11 
+AMC C4 H41 SING N N 12 
+AMC C4 H42 SING N N 13 
+AMC C5 C6  SING N N 14 
+AMC C5 H51 SING N N 15 
+AMC C5 H52 SING N N 16 
+AMC C6 H61 SING N N 17 
+AMC C6 H62 SING N N 18 
+AMC CM N   SING N N 19 
+AMC CM HM1 SING N N 20 
+AMC CM HM2 SING N N 21 
+AMC N  HN1 SING N N 22 
+AMC N  HN2 SING N N 23 
+AMC N  HN3 SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AMC SMILES           ACDLabs              10.04 "[NH3+]CC1CCCCC1"                                  
+AMC SMILES_CANONICAL CACTVS               3.341 "[NH3+]CC1CCCCC1"                                  
+AMC SMILES           CACTVS               3.341 "[NH3+]CC1CCCCC1"                                  
+AMC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1CCC(CC1)C[NH3+]"                                
+AMC SMILES           "OpenEye OEToolkits" 1.5.0 "C1CCC(CC1)C[NH3+]"                                
+AMC InChI            InChI                1.03  InChI=1S/C7H15N/c8-6-7-4-2-1-3-5-7/h7H,1-6,8H2/p+1 
+AMC InChIKey         InChI                1.03  AVKNGPAMCBSNSO-UHFFFAOYSA-O                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AMC "SYSTEMATIC NAME" ACDLabs              10.04 cyclohexylmethanaminium 
+AMC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 cyclohexylmethylazanium 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AMC "Create component"  1999-07-08 EBI  
+AMC "Modify descriptor" 2011-06-04 RCSB 
+# 

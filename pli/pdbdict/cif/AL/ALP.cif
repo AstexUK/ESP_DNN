@@ -1,0 +1,149 @@
+data_ALP
+# 
+_chem_comp.id                                    ALP 
+_chem_comp.name                                  "2-(1-CARBOXY-2-HYDROXY-ETHYL)-5,5-DIMETHYL-THIAZOLIDINE-4-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H15 N O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        249.284 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ALP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TEM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ALP C1   C1   C 0 1 N N N 10.525 7.747  36.004 -1.072 -0.277 2.629  C1   ALP 1  
+ALP O1   O1   O 0 1 N N N 11.103 7.421  35.003 -2.068 0.003  2.005  O1   ALP 2  
+ALP O2   O2   O 0 1 N Y N 9.577  6.935  36.658 -1.164 -0.622 3.922  O2   ALP 3  
+ALP C2   C2   C 0 1 N N S 10.739 9.091  36.722 0.274  -0.239 1.953  C2   ALP 4  
+ALP C21  C21  C 0 1 N N N 11.070 8.822  38.201 1.176  0.767  2.670  C21  ALP 5  
+ALP O22  O22  O 0 1 N N N 11.998 7.762  38.255 1.338  0.373  4.035  O22  ALP 6  
+ALP C3   C3   C 0 1 N N R 9.451  9.914  36.626 0.101  0.181  0.493  C3   ALP 7  
+ALP S4   S4   S 0 1 N N N 9.744  11.638 37.156 1.719  0.203  -0.399 S4   ALP 8  
+ALP C5   C5   C 0 1 N N N 9.344  12.329 35.518 1.068  -0.217 -2.072 C5   ALP 9  
+ALP C51  C51  C 0 1 N N N 10.338 13.482 35.211 0.979  1.028  -2.955 C51  ALP 10 
+ALP C52  C52  C 0 1 N N N 7.899  12.902 35.565 1.924  -1.296 -2.737 C52  ALP 11 
+ALP C6   C6   C 0 1 N N S 9.494  11.129 34.556 -0.339 -0.758 -1.735 C6   ALP 12 
+ALP C8   C8   C 0 1 N N N 8.803  11.370 33.218 -1.363 0.167  -2.340 C8   ALP 13 
+ALP O81  O81  O 0 1 N N N 7.958  10.539 32.809 -1.856 1.044  -1.669 O81  ALP 14 
+ALP O82  O82  O 0 1 N N N 9.085  12.396 32.547 -1.727 0.019  -3.623 O82  ALP 15 
+ALP N7   N7   N 0 1 N N N 8.936  9.990  35.260 -0.602 -0.871 -0.298 N7   ALP 16 
+ALP HO2  HO2  H 0 1 N N N 9.119  7.192  37.449 -2.029 -0.647 4.356  HO2  ALP 17 
+ALP H2   H2   H 0 1 N N N 11.578 9.651  36.248 0.729  -1.229 1.995  H2   ALP 18 
+ALP H211 1H21 H 0 0 N N N 11.425 9.733  38.735 2.150  0.794  2.182  H211 ALP 19 
+ALP H212 2H21 H 0 0 N N N 10.161 8.631  38.818 0.721  1.756  2.629  H212 ALP 20 
+ALP H22  H22  H 0 1 N N N 12.202 7.596  39.167 1.912  1.033  4.449  H22  ALP 21 
+ALP H3   H3   H 0 1 N N N 8.716  9.395  37.284 -0.407 1.142  0.417  H3   ALP 22 
+ALP H511 1H51 H 0 0 N N N 10.093 13.904 34.208 1.981  1.420  -3.131 H511 ALP 23 
+ALP H512 2H51 H 0 0 N N N 10.351 14.258 36.010 0.518  0.767  -3.907 H512 ALP 24 
+ALP H513 3H51 H 0 0 N N N 11.402 13.160 35.291 0.376  1.786  -2.454 H513 ALP 25 
+ALP H521 1H52 H 0 0 N N N 7.654  13.324 34.562 2.927  -0.907 -2.913 H521 ALP 26 
+ALP H522 2H52 H 0 0 N N N 7.150  12.149 35.906 1.982  -2.168 -2.084 H522 ALP 27 
+ALP H523 3H52 H 0 0 N N N 7.758  13.641 36.387 1.473  -1.583 -3.687 H523 ALP 28 
+ALP H6   H6   H 0 1 N N N 10.563 10.958 34.292 -0.452 -1.743 -2.188 H6   ALP 29 
+ALP HO8  HO8  H 0 1 N N N 8.654  12.546 31.713 -2.384 0.613  -4.011 HO8  ALP 30 
+ALP HN7  HN7  H 0 1 N N N 7.916  9.999  35.242 -1.591 -0.717 -0.171 HN7  ALP 31 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ALP C1  O1   DOUB N N 1  
+ALP C1  O2   SING N N 2  
+ALP C1  C2   SING N N 3  
+ALP O2  HO2  SING N N 4  
+ALP C2  C21  SING N N 5  
+ALP C2  C3   SING N N 6  
+ALP C2  H2   SING N N 7  
+ALP C21 O22  SING N N 8  
+ALP C21 H211 SING N N 9  
+ALP C21 H212 SING N N 10 
+ALP O22 H22  SING N N 11 
+ALP C3  S4   SING N N 12 
+ALP C3  N7   SING N N 13 
+ALP C3  H3   SING N N 14 
+ALP S4  C5   SING N N 15 
+ALP C5  C51  SING N N 16 
+ALP C5  C52  SING N N 17 
+ALP C5  C6   SING N N 18 
+ALP C51 H511 SING N N 19 
+ALP C51 H512 SING N N 20 
+ALP C51 H513 SING N N 21 
+ALP C52 H521 SING N N 22 
+ALP C52 H522 SING N N 23 
+ALP C52 H523 SING N N 24 
+ALP C6  C8   SING N N 25 
+ALP C6  N7   SING N N 26 
+ALP C6  H6   SING N N 27 
+ALP C8  O81  DOUB N N 28 
+ALP C8  O82  SING N N 29 
+ALP O82 HO8  SING N N 30 
+ALP N7  HN7  SING N N 31 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ALP SMILES           ACDLabs              10.04 "O=C(O)C(CO)C1SC(C(C(=O)O)N1)(C)C"                                                                                      
+ALP SMILES_CANONICAL CACTVS               3.341 "CC1(C)S[C@@H](N[C@H]1C(O)=O)[C@@H](CO)C(O)=O"                                                                          
+ALP SMILES           CACTVS               3.341 "CC1(C)S[CH](N[CH]1C(O)=O)[CH](CO)C(O)=O"                                                                               
+ALP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1([C@@H](N[C@H](S1)[C@@H](CO)C(=O)O)C(=O)O)C"                                                                        
+ALP SMILES           "OpenEye OEToolkits" 1.5.0 "CC1(C(NC(S1)C(CO)C(=O)O)C(=O)O)C"                                                                                      
+ALP InChI            InChI                1.03  "InChI=1S/C9H15NO5S/c1-9(2)5(8(14)15)10-6(16-9)4(3-11)7(12)13/h4-6,10-11H,3H2,1-2H3,(H,12,13)(H,14,15)/t4-,5+,6-/m1/s1" 
+ALP InChIKey         InChI                1.03  NVIIKEPLEZSMNU-NGJCXOISSA-N                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ALP "SYSTEMATIC NAME" ACDLabs              10.04 "(2R,4S)-2-[(1S)-1-carboxy-2-hydroxyethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid"        
+ALP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,4S)-2-[(2S)-1,3-dihydroxy-1-oxo-propan-2-yl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ALP "Create component"  1999-07-08 EBI  
+ALP "Modify descriptor" 2011-06-04 RCSB 
+# 

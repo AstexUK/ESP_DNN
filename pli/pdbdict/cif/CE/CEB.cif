@@ -1,0 +1,151 @@
+data_CEB
+# 
+_chem_comp.id                                    CEB 
+_chem_comp.name                                  "2-CHLORO-4-ETHYLAMINO-6-(S(-)-2'-CYANO-4-BUTYLAMINO)-1,3,5-TRIAZINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H15 Cl N6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         DG-420314 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        254.719 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CEB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        6PRC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CEB N1   N1   N  0 1 Y N N 132.162 70.849 -2.722 0.619  -0.057 2.060  N1   CEB 1  
+CEB C2   C2   C  0 1 Y N N 131.557 69.791 -2.245 1.279  -0.128 0.916  C2   CEB 2  
+CEB CL2  CL2  CL 0 0 N N N 131.230 69.865 -0.532 3.013  -0.215 0.921  CL2  CEB 3  
+CEB N3   N3   N  0 1 Y N N 131.166 68.677 -2.834 0.621  -0.135 -0.231 N3   CEB 4  
+CEB C4   C4   C  0 1 Y N N 131.476 68.681 -4.164 -0.707 -0.068 -0.237 C4   CEB 5  
+CEB N5   N5   N  0 1 Y N N 132.095 69.665 -4.810 -1.373 -0.002 0.910  N5   CEB 6  
+CEB C6   C6   C  0 1 Y N N 132.412 70.724 -4.055 -0.709 0.009  2.060  C6   CEB 7  
+CEB N7   N7   N  0 1 N N N 131.110 67.599 -4.867 -1.393 -0.075 -1.435 N7   CEB 8  
+CEB C8   C8   C  0 1 N N S 130.405 66.426 -4.370 -0.658 -0.155 -2.699 C8   CEB 9  
+CEB C9   C9   C  0 1 N N N 131.172 65.672 -3.329 0.247  0.999  -2.815 C9   CEB 10 
+CEB N9   N9   N  0 1 N N N 131.775 65.057 -2.543 0.945  1.891  -2.903 N9   CEB 11 
+CEB C10  C10  C  0 1 N N N 130.286 65.383 -5.486 -1.648 -0.145 -3.866 C10  CEB 12 
+CEB C11  C11  C  0 1 N N N 128.903 64.812 -5.704 -0.880 -0.228 -5.187 C11  CEB 13 
+CEB C12  C12  C  0 1 N N N 129.059 66.869 -3.754 0.158  -1.448 -2.734 C12  CEB 14 
+CEB N13  N13  N  0 1 N N N 133.031 71.778 -4.626 -1.397 0.083  3.254  N13  CEB 15 
+CEB C14  C14  C  0 1 N N N 133.434 72.997 -3.923 -0.664 0.089  4.523  C14  CEB 16 
+CEB C15  C15  C  0 1 N N N 133.577 74.143 -4.868 -1.656 0.178  5.684  C15  CEB 17 
+CEB HN7  HN7  H  0 1 N N N 131.960 67.250 -5.309 -2.362 -0.027 -1.439 HN7  CEB 18 
+CEB H101 1H10 H  0 0 N N N 130.679 65.801 -6.441 -2.318 -1.000 -3.781 H101 CEB 19 
+CEB H102 2H10 H  0 0 N N N 131.015 64.557 -5.314 -2.229 0.776  -3.841 H102 CEB 20 
+CEB H111 1H11 H  0 0 N N N 128.816 64.053 -6.516 -1.585 -0.221 -6.018 H111 CEB 21 
+CEB H112 2H11 H  0 0 N N N 128.509 64.393 -4.748 -0.210 0.626  -5.272 H112 CEB 22 
+CEB H113 3H11 H  0 0 N N N 128.173 65.637 -5.875 -0.298 -1.150 -5.212 H113 CEB 23 
+CEB H121 1H12 H  0 0 N N N 128.519 65.970 -3.373 -0.512 -2.303 -2.649 H121 CEB 24 
+CEB H122 2H12 H  0 0 N N N 129.188 67.650 -2.968 0.705  -1.508 -3.675 H122 CEB 25 
+CEB H123 3H12 H  0 0 N N N 128.441 67.464 -4.466 0.863  -1.455 -1.903 H123 CEB 26 
+CEB HN3  HN3  H  0 1 N N N 132.448 72.070 -5.410 -2.366 0.132  3.253  HN3  CEB 27 
+CEB H141 1H14 H  0 0 N N N 132.735 73.238 -3.088 0.005  0.948  4.551  H141 CEB 28 
+CEB H142 2H14 H  0 0 N N N 134.363 72.838 -3.327 -0.083 -0.828 4.611  H142 CEB 29 
+CEB H151 1H15 H  0 0 N N N 133.884 75.071 -4.332 -1.111 0.183  6.628  H151 CEB 30 
+CEB H152 2H15 H  0 0 N N N 134.275 73.901 -5.702 -2.238 1.096  5.596  H152 CEB 31 
+CEB H153 3H15 H  0 0 N N N 132.647 74.301 -5.463 -2.326 -0.680 5.656  H153 CEB 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CEB N1  C2   DOUB Y N 1  
+CEB N1  C6   SING Y N 2  
+CEB C2  CL2  SING N N 3  
+CEB C2  N3   SING Y N 4  
+CEB N3  C4   DOUB Y N 5  
+CEB C4  N5   SING Y N 6  
+CEB C4  N7   SING N N 7  
+CEB N5  C6   DOUB Y N 8  
+CEB C6  N13  SING N N 9  
+CEB N7  C8   SING N N 10 
+CEB N7  HN7  SING N N 11 
+CEB C8  C9   SING N N 12 
+CEB C8  C10  SING N N 13 
+CEB C8  C12  SING N N 14 
+CEB C9  N9   TRIP N N 15 
+CEB C10 C11  SING N N 16 
+CEB C10 H101 SING N N 17 
+CEB C10 H102 SING N N 18 
+CEB C11 H111 SING N N 19 
+CEB C11 H112 SING N N 20 
+CEB C11 H113 SING N N 21 
+CEB C12 H121 SING N N 22 
+CEB C12 H122 SING N N 23 
+CEB C12 H123 SING N N 24 
+CEB N13 C14  SING N N 25 
+CEB N13 HN3  SING N N 26 
+CEB C14 C15  SING N N 27 
+CEB C14 H141 SING N N 28 
+CEB C14 H142 SING N N 29 
+CEB C15 H151 SING N N 30 
+CEB C15 H152 SING N N 31 
+CEB C15 H153 SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CEB SMILES           ACDLabs              10.04 "Clc1nc(nc(n1)NC(C#N)(C)CC)NCC"                                                                                
+CEB SMILES_CANONICAL CACTVS               3.341 "CCNc1nc(Cl)nc(N[C@@](C)(CC)C#N)n1"                                                                            
+CEB SMILES           CACTVS               3.341 "CCNc1nc(Cl)nc(N[C](C)(CC)C#N)n1"                                                                              
+CEB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC[C@@](C)(C#N)Nc1nc(nc(n1)Cl)NCC"                                                                            
+CEB SMILES           "OpenEye OEToolkits" 1.5.0 "CCC(C)(C#N)Nc1nc(nc(n1)Cl)NCC"                                                                                
+CEB InChI            InChI                1.03  "InChI=1S/C10H15ClN6/c1-4-10(3,6-12)17-9-15-7(11)14-8(16-9)13-5-2/h4-5H2,1-3H3,(H2,13,14,15,16,17)/t10-/m0/s1" 
+CEB InChIKey         InChI                1.03  IUCVBFHDSFSEIK-JTQLQIEISA-N                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CEB "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile" 
+CEB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[(4-chloro-6-ethylamino-1,3,5-triazin-2-yl)amino]-2-methyl-butanenitrile"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CEB "Create component"  1999-07-08 RCSB 
+CEB "Modify descriptor" 2011-06-04 RCSB 
+# 

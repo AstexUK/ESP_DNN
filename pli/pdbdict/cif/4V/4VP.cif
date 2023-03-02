@@ -1,0 +1,121 @@
+data_4VP
+# 
+_chem_comp.id                                    4VP 
+_chem_comp.name                                  4-ethenylphenol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-01-29 
+_chem_comp.pdbx_modified_date                    2015-05-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        120.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4VP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4S13 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4VP C2    C2    C 0 1 N N N 208.714 -109.246 113.850 3.296  -0.576 0.014  C2    4VP 1  
+4VP C3    C3    C 0 1 N N N 207.771 -109.920 113.168 2.484  0.473  0.011  C3    4VP 2  
+4VP "C1'" "C1'" C 0 1 Y N N 208.233 -111.082 112.337 1.020  0.274  0.000  "C1'" 4VP 3  
+4VP "C6'" "C6'" C 0 1 Y N N 209.584 -111.185 112.077 0.164  1.376  -0.003 "C6'" 4VP 4  
+4VP "C5'" "C5'" C 0 1 Y N N 210.055 -112.235 111.320 -1.201 1.187  -0.013 "C5'" 4VP 5  
+4VP "C4'" "C4'" C 0 1 Y N N 209.173 -113.173 110.824 -1.725 -0.099 -0.020 "C4'" 4VP 6  
+4VP "O4'" "O4'" O 0 1 N N N 209.689 -114.229 110.066 -3.072 -0.282 -0.024 "O4'" 4VP 7  
+4VP "C3'" "C3'" C 0 1 Y N N 207.817 -113.074 111.076 -0.877 -1.198 -0.016 "C3'" 4VP 8  
+4VP "C2'" "C2'" C 0 1 Y N N 207.347 -112.018 111.841 0.489  -1.017 -0.013 "C2'" 4VP 9  
+4VP H1    H1    H 0 1 N N N 209.748 -109.549 113.784 2.887  -1.576 0.009  H1    4VP 10 
+4VP H2    H2    H 0 1 N N N 208.437 -108.402 114.464 4.366  -0.431 0.018  H2    4VP 11 
+4VP H3    H3    H 0 1 N N N 206.729 -109.638 113.216 2.894  1.472  0.017  H3    4VP 12 
+4VP H4    H4    H 0 1 N N N 210.269 -110.446 112.465 0.571  2.377  0.003  H4    4VP 13 
+4VP H5    H5    H 0 1 N N N 211.112 -112.324 111.115 -1.864 2.039  -0.016 H5    4VP 14 
+4VP H6    H6    H 0 1 N N N 210.632 -114.137 109.995 -3.464 -0.334 0.858  H6    4VP 15 
+4VP H7    H7    H 0 1 N N N 207.133 -113.810 110.682 -1.289 -2.197 -0.021 H7    4VP 16 
+4VP H8    H8    H 0 1 N N N 206.291 -111.927 112.049 1.148  -1.873 -0.010 H8    4VP 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4VP "O4'" "C4'" SING N N 1  
+4VP "C4'" "C3'" DOUB Y N 2  
+4VP "C4'" "C5'" SING Y N 3  
+4VP "C3'" "C2'" SING Y N 4  
+4VP "C5'" "C6'" DOUB Y N 5  
+4VP "C2'" "C1'" DOUB Y N 6  
+4VP "C6'" "C1'" SING Y N 7  
+4VP "C1'" C3    SING N N 8  
+4VP C3    C2    DOUB N N 9  
+4VP C2    H1    SING N N 10 
+4VP C2    H2    SING N N 11 
+4VP C3    H3    SING N N 12 
+4VP "C6'" H4    SING N N 13 
+4VP "C5'" H5    SING N N 14 
+4VP "O4'" H6    SING N N 15 
+4VP "C3'" H7    SING N N 16 
+4VP "C2'" H8    SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4VP SMILES           ACDLabs              12.01 "Oc1ccc(\C=C)cc1"                                 
+4VP InChI            InChI                1.03  "InChI=1S/C8H8O/c1-2-7-3-5-8(9)6-4-7/h2-6,9H,1H2" 
+4VP InChIKey         InChI                1.03  FUGYGGDSWSUORM-UHFFFAOYSA-N                       
+4VP SMILES_CANONICAL CACTVS               3.385 "Oc1ccc(C=C)cc1"                                  
+4VP SMILES           CACTVS               3.385 "Oc1ccc(C=C)cc1"                                  
+4VP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C=Cc1ccc(cc1)O"                                  
+4VP SMILES           "OpenEye OEToolkits" 1.7.6 "C=Cc1ccc(cc1)O"                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4VP "SYSTEMATIC NAME" ACDLabs              12.01 4-ethenylphenol 
+4VP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 4-ethenylphenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4VP "Create component" 2015-01-29 RCSB 
+4VP "Initial release"  2015-05-06 RCSB 
+# 

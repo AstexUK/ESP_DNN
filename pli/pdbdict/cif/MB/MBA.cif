@@ -1,0 +1,123 @@
+data_MBA
+# 
+_chem_comp.id                                    MBA 
+_chem_comp.name                                  2-METHYLBUTYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H13 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      DCI 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        87.163 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MBA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EPP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MBA N      N      N 0 1 N N N 3.849 36.685 12.224 0.022  0.282  -2.426 N      MBA 1  
+MBA C1     C1     C 0 1 N N N 3.916 38.028 12.845 0.720  -0.227 -1.239 C1     MBA 2  
+MBA C2     C2     C 0 1 N N S 3.870 39.131 11.778 0.011  0.269  0.022  C2     MBA 3  
+MBA "C2'"  "C2'"  C 0 1 N N N 2.637 38.948 10.909 -1.433 -0.233 0.025  "C2'"  MBA 4  
+MBA C3     C3     C 0 1 N N N 3.694 40.467 12.601 0.739  -0.262 1.258  C3     MBA 5  
+MBA C4     C4     C 0 1 N N N 4.350 41.629 11.879 0.030  0.233  2.520  C4     MBA 6  
+MBA HN1    1HN    H 0 1 N N N 3.879 35.952 12.932 -0.887 -0.153 -2.438 HN1    MBA 7  
+MBA HN2    2HN    H 0 1 N N N 4.577 36.558 11.521 0.522  -0.067 -3.230 HN2    MBA 8  
+MBA H11    1H1    H 0 1 N N N 3.119 38.165 13.613 1.750  0.130  -1.242 H11    MBA 9  
+MBA H12    2H1    H 0 1 N N N 4.808 38.131 13.505 0.715  -1.317 -1.254 H12    MBA 10 
+MBA H2     H2     H 0 1 N N N 4.774 39.123 11.125 0.017  1.358  0.037  H2     MBA 11 
+MBA "H2'1" "1H2'" H 0 0 N N N 2.603 39.749 10.134 -1.439 -1.323 0.010  "H2'1" MBA 12 
+MBA "H2'2" "2H2'" H 0 0 N N N 2.585 37.927 10.462 -1.938 0.120  0.924  "H2'2" MBA 13 
+MBA "H2'3" "3H2'" H 0 0 N N N 1.699 38.906 11.511 -1.952 0.145  -0.855 "H2'3" MBA 14 
+MBA H31    1H3    H 0 1 N N N 2.622 40.673 12.830 1.769  0.095  1.256  H31    MBA 15 
+MBA H32    2H3    H 0 1 N N N 4.070 40.362 13.645 0.733  -1.352 1.243  H32    MBA 16 
+MBA H41    1H4    H 0 1 N N N 4.225 42.572 12.460 0.548  -0.144 3.401  H41    MBA 17 
+MBA H42    2H4    H 0 1 N N N 5.421 41.422 11.649 0.036  1.323  2.535  H42    MBA 18 
+MBA H43    3H4    H 0 1 N N N 3.973 41.733 10.834 -0.999 -0.124 2.522  H43    MBA 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MBA N     C1     SING N N 1  
+MBA N     HN1    SING N N 2  
+MBA N     HN2    SING N N 3  
+MBA C1    C2     SING N N 4  
+MBA C1    H11    SING N N 5  
+MBA C1    H12    SING N N 6  
+MBA C2    "C2'"  SING N N 7  
+MBA C2    C3     SING N N 8  
+MBA C2    H2     SING N N 9  
+MBA "C2'" "H2'1" SING N N 10 
+MBA "C2'" "H2'2" SING N N 11 
+MBA "C2'" "H2'3" SING N N 12 
+MBA C3    C4     SING N N 13 
+MBA C3    H31    SING N N 14 
+MBA C3    H32    SING N N 15 
+MBA C4    H41    SING N N 16 
+MBA C4    H42    SING N N 17 
+MBA C4    H43    SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MBA SMILES           ACDLabs              10.04 "NCC(C)CC"                                                
+MBA InChI            InChI                1.02b "InChI=1/C5H13N/c1-3-5(2)4-6/h5H,3-4,6H2,1-2H3/t5-/m0/s1" 
+MBA InChIKey         InChI                1.02b VJROPLWGFCORRM-YFKPBYRVBF                                 
+MBA SMILES_CANONICAL CACTVS               3.341 "CC[C@H](C)CN"                                            
+MBA SMILES           CACTVS               3.341 "CC[CH](C)CN"                                             
+MBA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC[C@H](C)CN"                                            
+MBA SMILES           "OpenEye OEToolkits" 1.5.0 "CCC(C)CN"                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MBA "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-methylbutan-1-amine" 
+MBA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-methylbutan-1-amine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MBA "Create component" 1999-07-08 RCSB 
+# 

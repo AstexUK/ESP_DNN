@@ -1,0 +1,123 @@
+data_APB
+# 
+_chem_comp.id                                    APB 
+_chem_comp.name                                  "M-AMINOPHENYLBORONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H8 B N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        136.944 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     APB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BLS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+APB B    B    B 0 1 N N N 77.652 4.807 28.670 -0.233 0.000  -1.994 B    APB 1  
+APB O1   O1   O 0 1 N N N 78.568 3.644 29.278 0.777  0.000  -2.991 O1   APB 2  
+APB O2   O2   O 0 1 N N N 78.045 6.292 29.332 -1.602 0.001  -2.371 O2   APB 3  
+APB C1   C1   C 0 1 Y N N 78.037 4.793 27.000 0.162  0.000  -0.475 C1   APB 4  
+APB C2   C2   C 0 1 Y N N 79.140 4.048 26.561 -0.827 -0.005 0.504  C2   APB 5  
+APB C3   C3   C 0 1 Y N N 79.553 4.037 25.223 -0.471 0.000  1.844  C3   APB 6  
+APB C4   C4   C 0 1 Y N N 78.846 4.825 24.314 0.871  0.000  2.206  C4   APB 7  
+APB C5   C5   C 0 1 Y N N 77.765 5.598 24.739 1.852  0.000  1.233  C5   APB 8  
+APB C6   C6   C 0 1 Y N N 77.370 5.597 26.078 1.505  -0.000 -0.103 C6   APB 9  
+APB N1   N1   N 0 1 N N N 80.639 3.286 24.808 -1.460 0.001  2.831  N1   APB 10 
+APB HO1  HO1  H 0 1 N N N 78.344 2.800 28.902 0.326  0.000  -3.846 HO1  APB 11 
+APB HO2  HO2  H 0 1 N N N 77.501 6.982 28.971 -2.117 0.001  -1.552 HO2  APB 12 
+APB H2   H2   H 0 1 N N N 79.703 3.448 27.295 -1.869 -0.005 0.221  H2   APB 13 
+APB H4   H4   H 0 1 N N N 79.143 4.836 23.252 1.148  0.001  3.250  H4   APB 14 
+APB H5   H5   H 0 1 N N N 77.216 6.216 24.008 2.894  0.000  1.518  H5   APB 15 
+APB H6   H6   H 0 1 N N N 76.530 6.231 26.407 2.275  -0.000 -0.860 H6   APB 16 
+APB HN11 1HN1 H 0 0 N N N 80.939 3.278 23.833 -1.210 0.001  3.768  HN11 APB 17 
+APB HN12 2HN1 H 0 0 N N N 80.481 2.320 25.095 -2.397 0.005  2.578  HN12 APB 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+APB B  O1   SING N N 1  
+APB B  O2   SING N N 2  
+APB B  C1   SING N N 3  
+APB O1 HO1  SING N N 4  
+APB O2 HO2  SING N N 5  
+APB C1 C2   SING Y N 6  
+APB C1 C6   DOUB Y N 7  
+APB C2 C3   DOUB Y N 8  
+APB C2 H2   SING N N 9  
+APB C3 C4   SING Y N 10 
+APB C3 N1   SING N N 11 
+APB C4 C5   DOUB Y N 12 
+APB C4 H4   SING N N 13 
+APB C5 C6   SING Y N 14 
+APB C5 H5   SING N N 15 
+APB C6 H6   SING N N 16 
+APB N1 HN11 SING N N 17 
+APB N1 HN12 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+APB SMILES           ACDLabs              10.04 "OB(O)c1cccc(N)c1"                                         
+APB SMILES_CANONICAL CACTVS               3.341 "Nc1cccc(c1)B(O)O"                                         
+APB SMILES           CACTVS               3.341 "Nc1cccc(c1)B(O)O"                                         
+APB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "B(c1cccc(c1)N)(O)O"                                       
+APB SMILES           "OpenEye OEToolkits" 1.5.0 "B(c1cccc(c1)N)(O)O"                                       
+APB InChI            InChI                1.03  "InChI=1S/C6H8BNO2/c8-6-3-1-2-5(4-6)7(9)10/h1-4,9-10H,8H2" 
+APB InChIKey         InChI                1.03  JMZFEHDNIAQMNB-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+APB "SYSTEMATIC NAME" ACDLabs              10.04 "(3-aminophenyl)boronic acid" 
+APB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3-aminophenyl)boronic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+APB "Create component"  1999-07-08 RCSB 
+APB "Modify descriptor" 2011-06-04 RCSB 
+# 

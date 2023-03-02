@@ -1,0 +1,122 @@
+data_B27
+# 
+_chem_comp.id                                    B27 
+_chem_comp.name                                  "(2R,3S) 3-amino-4-mercapto-2-butanol" 
+_chem_comp.type                                  "L-PEPTIDE COOH CARBOXY TERMINUS" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H11 N O S" 
+_chem_comp.mon_nstd_parent_comp_id               THR 
+_chem_comp.pdbx_synonyms                         "(2R,3S)-3-amino-4-sulfanylbutan-2-ol" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-05-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        121.201 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     B27 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2KID 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+B27 N    N    N 0 1 N N N -9.331  1.651  5.217 0.211  1.202  0.857  N    B27 1  
+B27 CA   CA   C 0 1 N N S -10.181 0.746  6.036 0.181  0.331  -0.325 CA   B27 2  
+B27 CB   CB   C 0 1 N N R -11.366 1.535  6.599 1.540  -0.352 -0.490 CB   B27 3  
+B27 CG2  CG2  C 0 1 N N N -11.808 2.590  5.583 2.641  0.708  -0.542 CG2  B27 4  
+B27 OG1  OG1  O 0 1 N N N -12.443 0.649  6.862 1.771  -1.226 0.617  OG1  B27 5  
+B27 SG   SG   S 0 1 N N N -9.655  -0.529 3.679 -2.533 0.070  -0.101 SG   B27 6  
+B27 CX   CX   C 0 1 N N N -10.688 -0.403 5.161 -0.906 -0.731 -0.149 CX   B27 7  
+B27 HN   HN   H 0 1 N N N -9.140  2.487  5.732 0.410  0.672  1.692  HN   B27 8  
+B27 HA   HA   H 0 1 N N N -9.592  0.334  6.869 -0.035 0.928  -1.211 HA   B27 9  
+B27 HB   HB   H 0 1 N N N -11.064 2.032  7.533 1.547  -0.929 -1.415 HB   B27 10 
+B27 HOG1 HOG1 H 0 0 N N N -12.471 0.451  7.791 1.779  -0.780 1.475  HOG1 B27 11 
+B27 HG2  HG2  H 0 1 N N N -12.774 2.296  5.146 3.609  0.221  -0.660 HG2  B27 12 
+B27 HG2A HG2A H 0 0 N N N -11.914 3.562  6.086 2.465  1.374  -1.387 HG2A B27 13 
+B27 HG2B HG2B H 0 0 N N N -11.054 2.670  4.786 2.635  1.285  0.383  HG2B B27 14 
+B27 HX   HX   H 0 1 N N N -10.637 -1.345 5.726 -0.869 -1.431 -0.984 HX   B27 15 
+B27 HXA  HXA  H 0 1 N N N -11.730 -0.210 4.868 -0.739 -1.270 0.784  HXA  B27 16 
+B27 HNA  HNA  H 0 1 N N N -8.471  1.191  4.997 0.877  1.951  0.737  HNA  B27 17 
+B27 HSG  HSG  H 0 1 N N N -10.413 -0.559 2.623 -3.376 -0.966 0.055  HSG  B27 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+B27 HN   N    SING N N 1  
+B27 N    CA   SING N N 2  
+B27 N    HNA  SING N N 3  
+B27 CX   CA   SING N N 4  
+B27 CA   CB   SING N N 5  
+B27 CA   HA   SING N N 6  
+B27 CG2  CB   SING N N 7  
+B27 CB   OG1  SING N N 8  
+B27 CB   HB   SING N N 9  
+B27 HG2A CG2  SING N N 10 
+B27 CG2  HG2B SING N N 11 
+B27 CG2  HG2  SING N N 12 
+B27 HOG1 OG1  SING N N 13 
+B27 SG   CX   SING N N 14 
+B27 SG   HSG  SING N N 15 
+B27 HX   CX   SING N N 16 
+B27 CX   HXA  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+B27 SMILES           ACDLabs              10.04 "OC(C)C(N)CS"                                                       
+B27 SMILES_CANONICAL CACTVS               3.341 "C[C@@H](O)[C@H](N)CS"                                              
+B27 SMILES           CACTVS               3.341 "C[CH](O)[CH](N)CS"                                                 
+B27 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H]([C@@H](CS)N)O"                                              
+B27 SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(CS)N)O"                                                       
+B27 InChI            InChI                1.03  "InChI=1S/C4H11NOS/c1-3(6)4(5)2-7/h3-4,6-7H,2,5H2,1H3/t3-,4-/m1/s1" 
+B27 InChIKey         InChI                1.03  LXDJRZZMWYIUAR-QWWZWVQMSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+B27 "SYSTEMATIC NAME" ACDLabs              10.04 "(2R,3S)-3-amino-4-sulfanylbutan-2-ol"  
+B27 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3S)-3-amino-4-sulfanyl-butan-2-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+B27 "Create component"  2009-05-20 RCSB 
+B27 "Modify descriptor" 2011-06-04 RCSB 
+# 

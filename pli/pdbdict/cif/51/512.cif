@@ -1,0 +1,125 @@
+data_512
+# 
+_chem_comp.id                                    512 
+_chem_comp.name                                  "4-BROMO-3-(CARBOXYMETHOXY)THIOPHENE-2-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 Br O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-06-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        281.081 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     512 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2HB1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+512 C1   C1   C  0 1 Y N N 45.205 12.958 1.108 0.522  -2.491 0.412  C1   512 1  
+512 C2   C2   C  0 1 Y N N 45.769 13.387 2.330 -0.188 -1.398 0.034  C2   512 2  
+512 S3   S3   S  0 1 Y N N 44.411 14.272 0.382 2.157  -1.919 0.438  S3   512 3  
+512 C4   C4   C  0 1 Y N N 44.768 15.396 1.613 1.862  -0.232 -0.063 C4   512 4  
+512 C5   C5   C  0 1 Y N N 45.532 14.758 2.629 0.477  -0.217 -0.215 C5   512 5  
+512 C6   C6   C  0 1 N N N 44.333 16.724 1.548 2.791  0.818  -0.249 C6   512 6  
+512 O7   O7   O  0 1 N N N 43.632 17.032 0.440 2.404  1.918  -0.598 O7   512 7  
+512 O8   O8   O  0 1 N N N 46.046 15.350 3.845 -0.184 0.905  -0.597 O8   512 8  
+512 C9   C9   C  0 1 N N N 47.270 16.093 3.660 -0.532 1.606  0.599  C9   512 9  
+512 C10  C10  C  0 1 N N N 47.573 16.974 4.874 -1.273 2.869  0.244  C10  512 10 
+512 O13  O13  O  0 1 N N N 48.726 17.656 4.794 -1.482 3.141  -0.915 O13  512 11 
+512 O14  O14  O  0 1 N N N 44.559 17.541 2.409 4.107  0.601  -0.039 O14  512 12 
+512 O15  O15  O  0 1 N N N 46.856 17.050 5.822 -1.700 3.692  1.214  O15  512 13 
+512 BR19 BR19 BR 0 0 N N N 46.746 12.229 3.444 -2.068 -1.495 -0.151 BR19 512 14 
+512 H1   H1   H  0 1 N N N 45.268 11.959 0.702 0.155  -3.481 0.643  H1   512 15 
+512 H91  1H9  H  0 1 N N N 47.155 16.741 2.779 0.375  1.859  1.148  H91  512 16 
+512 H92  2H9  H  0 1 N N N 48.099 15.384 3.519 -1.167 0.974  1.219  H92  512 17 
+512 HO14 HO14 H  0 0 N N N 44.173 18.374 2.165 4.560  1.436  -0.220 HO14 512 18 
+512 HO15 HO15 H  0 0 N N N 47.235 17.644 6.459 -2.176 4.503  0.986  HO15 512 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+512 C1  C2   DOUB Y N 1  
+512 C1  S3   SING Y N 2  
+512 C1  H1   SING N N 3  
+512 C2  C5   SING Y N 4  
+512 C2  BR19 SING N N 5  
+512 S3  C4   SING Y N 6  
+512 C4  C5   DOUB Y N 7  
+512 C4  C6   SING N N 8  
+512 C5  O8   SING N N 9  
+512 C6  O7   DOUB N N 10 
+512 C6  O14  SING N N 11 
+512 O8  C9   SING N N 12 
+512 C9  C10  SING N N 13 
+512 C9  H91  SING N N 14 
+512 C9  H92  SING N N 15 
+512 C10 O13  DOUB N N 16 
+512 C10 O15  SING N N 17 
+512 O14 HO14 SING N N 18 
+512 O15 HO15 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+512 SMILES           ACDLabs              10.04 "Brc1c(OCC(=O)O)c(sc1)C(=O)O"                                                      
+512 SMILES_CANONICAL CACTVS               3.341 "OC(=O)COc1c(Br)csc1C(O)=O"                                                        
+512 SMILES           CACTVS               3.341 "OC(=O)COc1c(Br)csc1C(O)=O"                                                        
+512 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(c(c(s1)C(=O)O)OCC(=O)O)Br"                                                    
+512 SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(c(c(s1)C(=O)O)OCC(=O)O)Br"                                                    
+512 InChI            InChI                1.03  "InChI=1S/C7H5BrO5S/c8-3-2-14-6(7(11)12)5(3)13-1-4(9)10/h2H,1H2,(H,9,10)(H,11,12)" 
+512 InChIKey         InChI                1.03  VDPVVSMGWNMCBP-UHFFFAOYSA-N                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+512 "SYSTEMATIC NAME" ACDLabs              10.04 "4-bromo-3-(carboxymethoxy)thiophene-2-carboxylic acid"   
+512 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4-bromo-3-(carboxymethyloxy)thiophene-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+512 "Create component"  2006-06-14 RCSB 
+512 "Modify descriptor" 2011-06-04 RCSB 
+# 

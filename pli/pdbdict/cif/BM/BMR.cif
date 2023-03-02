@@ -1,0 +1,194 @@
+data_BMR
+# 
+_chem_comp.id                                    BMR 
+_chem_comp.name                                  "((2R,3S,5R)-3-hydroxy-5-(3-methoxynaphthalen-2-yl)methyl-tetrahydrogen-triphosphate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H21 O13 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         dNaM-Triphosphate 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-10-02 
+_chem_comp.pdbx_modified_date                    2013-12-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        514.251 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BMR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4C8k 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BMR C1     C1     C 0 1 Y N N 20.627 -20.061 -3.923  4.330  0.080  0.442  C1     BMR 1  
+BMR C2     C2     C 0 1 Y N N 20.337 -18.727 -4.220  3.765  -0.877 -0.341 C2     BMR 2  
+BMR C3     C3     C 0 1 Y N N 19.380 -18.035 -3.487  4.470  -2.063 -0.610 C3     BMR 3  
+BMR C4     C4     C 0 1 Y N N 18.701 -18.671 -2.453  5.763  -2.245 -0.060 C4     BMR 4  
+BMR C5     C5     C 0 1 Y N N 18.984 -20.000 -2.156  6.318  -1.237 0.745  C5     BMR 5  
+BMR C6     C6     C 0 1 Y N N 19.945 -20.690 -2.892  5.606  -0.097 0.986  C6     BMR 6  
+BMR PA     PA     P 0 1 N N N 20.247 -17.084 -8.306  -1.972 1.390  -1.061 PA     BMR 7  
+BMR PB     PB     P 0 1 N N N 18.231 -17.369 -10.268 -4.614 0.366  -0.192 PB     BMR 8  
+BMR PC     PC     P 0 1 N N N 18.018 -14.844 -11.491 -6.278 -1.763 1.026  PC     BMR 9  
+BMR "C1'"  "C1'"  C 0 1 N N R 21.648 -20.816 -4.700  3.573  1.353  0.723  "C1'"  BMR 10 
+BMR O1A    O1A    O 0 1 N N N 21.138 -16.884 -9.512  -1.650 0.462  -2.337 O1A    BMR 11 
+BMR O1B    O1B    O 0 1 N N N 16.934 -18.133 -10.409 -4.963 -0.091 -1.556 O1B    BMR 12 
+BMR O1C    O1C    O 0 1 N N N 17.575 -13.491 -10.988 -7.522 -1.041 0.678  O1C    BMR 13 
+BMR "C2'"  "C2'"  C 0 1 N N N 20.980 -21.899 -5.537  3.986  2.465  -0.276 "C2'"  BMR 14 
+BMR C20    C20    C 0 1 Y N N 17.743 -17.975 -1.722  6.466  -3.432 -0.330 C20    BMR 15 
+BMR C21    C21    C 0 1 Y N N 17.470 -16.646 -2.028  5.897  -4.389 -1.113 C21    BMR 16 
+BMR C22    C22    C 0 1 Y N N 18.153 -16.010 -3.062  4.625  -4.209 -1.655 C22    BMR 17 
+BMR C23    C23    C 0 1 Y N N 19.107 -16.707 -3.793  3.915  -3.073 -1.415 C23    BMR 18 
+BMR O2A    O2A    O 0 1 N N N 19.999 -15.933 -7.363  -2.543 2.676  -1.518 O2A    BMR 19 
+BMR O2B    O2B    O 0 1 N N N 19.332 -17.575 -11.284 -5.413 1.724  0.139  O2B    BMR 20 
+BMR O2C    O2C    O 0 1 N N N 19.487 -14.918 -11.844 -6.092 -3.019 0.037  O2C    BMR 21 
+BMR "C3'"  "C3'"  C 0 1 N N S 20.871 -21.277 -6.913  2.741  3.385  -0.269 "C3'"  BMR 22 
+BMR "O3'"  "O3'"  O 0 1 N N N 20.902 -22.269 -7.941  2.944  4.493  0.610  "O3'"  BMR 23 
+BMR O37    O37    O 0 1 N N N 20.221 -21.997 -2.588  6.144  0.878  1.765  O37    BMR 24 
+BMR C38    C38    C 0 1 N N N 20.890 -22.316 -1.368  7.451  0.639  2.293  C38    BMR 25 
+BMR O3A    O3A    O 0 1 N N N 18.826 -17.672 -8.800  -3.030 0.641  -0.106 O3A    BMR 26 
+BMR O3B    O3B    O 0 1 N N N 17.887 -15.794 -10.193 -5.021 -0.769 0.875  O3B    BMR 27 
+BMR O3C    O3C    O 0 1 N N N 17.093 -15.474 -12.509 -6.369 -2.286 2.546  O3C    BMR 28 
+BMR "C4'"  "C4'"  C 0 1 N N R 22.071 -20.349 -6.977  1.607  2.483  0.253  "C4'"  BMR 29 
+BMR "O4'"  "O4'"  O 0 1 N N N 22.331 -19.955 -5.623  2.164  1.174  0.464  "O4'"  BMR 30 
+BMR "C5'"  "C5'"  C 0 1 N N N 21.859 -19.155 -7.905  0.482  2.409  -0.782 "C5'"  BMR 31 
+BMR "O5'"  "O5'"  O 0 1 N N N 20.805 -18.317 -7.428  -0.613 1.666  -0.243 "O5'"  BMR 32 
+BMR H2     H2     H 0 1 N N N 20.860 -18.230 -5.024  2.779  -0.726 -0.755 H2     BMR 33 
+BMR H5     H5     H 0 1 N N N 18.458 -20.497 -1.354  7.303  -1.363 1.171  H5     BMR 34 
+BMR "H2'"  "H2'"  H 0 1 N N N 21.598 -22.809 -5.566  4.867  2.999  0.080  "H2'"  BMR 35 
+BMR "H5'"  "H5'"  H 0 1 N N N 22.789 -18.570 -7.956  0.151  3.417  -1.031 "H5'"  BMR 36 
+BMR "H1'"  "H1'"  H 0 1 N N N 22.365 -21.284 -4.010  3.739  1.679  1.749  "H1'"  BMR 37 
+BMR "H2'A" "H2'A" H 0 0 N N N 19.985 -22.144 -5.138  4.158  2.051  -1.269 "H2'A" BMR 38 
+BMR H20    H20    H 0 1 N N N 17.213 -18.466 -0.919  7.452  -3.585 0.083  H20    BMR 39 
+BMR H21    H21    H 0 1 N N N 16.726 -16.105 -1.462  6.439  -5.299 -1.319 H21    BMR 40 
+BMR H22    H22    H 0 1 N N N 17.941 -14.977 -3.295  4.197  -4.983 -2.274 H22    BMR 41 
+BMR H23    H23    H 0 1 N N N 19.636 -16.218 -4.598  2.931  -2.948 -1.841 H23    BMR 42 
+BMR "H3'"  "H3'"  H 0 1 N N N 19.947 -20.684 -6.974  2.520  3.735  -1.277 "H3'"  BMR 43 
+BMR "HO3'" "HO3'" H 0 0 N N N 20.832 -21.848 -8.790  3.684  5.063  0.361  "HO3'" BMR 44 
+BMR H38    H38    H 0 1 N N N 21.024 -23.405 -1.297  8.154  0.498  1.472  H38    BMR 45 
+BMR "H4'"  "H4'"  H 0 1 N N N 22.928 -20.925 -7.356  1.222  2.877  1.194  "H4'"  BMR 46 
+BMR "H5'A" "H5'A" H 0 0 N N N 21.601 -19.521 -8.909  0.849  1.914  -1.682 "H5'A" BMR 47 
+BMR H38A   H38A   H 0 0 N N N 21.873 -21.823 -1.350  7.761  1.493  2.894  H38A   BMR 48 
+BMR H38B   H38B   H 0 0 N N N 20.288 -21.965 -0.517  7.434  -0.256 2.914  H38B   BMR 49 
+BMR H1A    H1A    H 0 1 N N N 21.455 -15.989 -9.527  -1.272 -0.399 -2.112 H1A    BMR 50 
+BMR H2B    H2B    H 0 1 N N N 19.049 -18.207 -11.934 -5.233 2.082  1.019  H2B    BMR 51 
+BMR H2C    H2C    H 0 1 N N N 19.894 -14.075 -11.684 -5.295 -3.539 0.208  H2C    BMR 52 
+BMR H3C    H3C    H 0 1 N N N 16.358 -14.894 -12.671 -7.106 -2.890 2.711  H3C    BMR 53 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BMR C1    C2     DOUB Y N 1  
+BMR C1    C6     SING Y N 2  
+BMR C1    "C1'"  SING N N 3  
+BMR C2    C3     SING Y N 4  
+BMR C2    H2     SING N N 5  
+BMR C3    C4     DOUB Y N 6  
+BMR C3    C23    SING Y N 7  
+BMR C4    C5     SING Y N 8  
+BMR C4    C20    SING Y N 9  
+BMR C5    C6     DOUB Y N 10 
+BMR C5    H5     SING N N 11 
+BMR C6    O37    SING N N 12 
+BMR PA    O1A    SING N N 13 
+BMR PA    O2A    DOUB N N 14 
+BMR PA    O3A    SING N N 15 
+BMR PA    "O5'"  SING N N 16 
+BMR PB    O1B    DOUB N N 17 
+BMR PB    O2B    SING N N 18 
+BMR PB    O3A    SING N N 19 
+BMR PB    O3B    SING N N 20 
+BMR PC    O1C    DOUB N N 21 
+BMR PC    O2C    SING N N 22 
+BMR PC    O3B    SING N N 23 
+BMR PC    O3C    SING N N 24 
+BMR "C1'" "C2'"  SING N N 25 
+BMR "C1'" "O4'"  SING N N 26 
+BMR "C1'" "H1'"  SING N N 27 
+BMR "C2'" "C3'"  SING N N 28 
+BMR "C2'" "H2'"  SING N N 29 
+BMR "C2'" "H2'A" SING N N 30 
+BMR C20   C21    DOUB Y N 31 
+BMR C20   H20    SING N N 32 
+BMR C21   C22    SING Y N 33 
+BMR C21   H21    SING N N 34 
+BMR C22   C23    DOUB Y N 35 
+BMR C22   H22    SING N N 36 
+BMR C23   H23    SING N N 37 
+BMR "C3'" "O3'"  SING N N 38 
+BMR "C3'" "C4'"  SING N N 39 
+BMR "C3'" "H3'"  SING N N 40 
+BMR "O3'" "HO3'" SING N N 41 
+BMR O37   C38    SING N N 42 
+BMR C38   H38    SING N N 43 
+BMR C38   H38A   SING N N 44 
+BMR C38   H38B   SING N N 45 
+BMR "C4'" "O4'"  SING N N 46 
+BMR "C4'" "C5'"  SING N N 47 
+BMR "C4'" "H4'"  SING N N 48 
+BMR "C5'" "O5'"  SING N N 49 
+BMR "C5'" "H5'"  SING N N 50 
+BMR "C5'" "H5'A" SING N N 51 
+BMR O1A   H1A    SING N N 52 
+BMR O2B   H2B    SING N N 53 
+BMR O2C   H2C    SING N N 54 
+BMR O3C   H3C    SING N N 55 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BMR InChI            InChI                1.03  "InChI=1S/C16H21O13P3/c1-25-14-7-11-5-3-2-4-10(11)6-12(14)15-8-13(17)16(27-15)9-26-31(21,22)29-32(23,24)28-30(18,19)20/h2-7,13,15-17H,8-9H2,1H3,(H,21,22)(H,23,24)(H2,18,19,20)/p-4/t13-,15+,16+/m0/s1" 
+BMR InChIKey         InChI                1.03  OYLYLYUMXXAEFZ-NUEKZKHPSA-J                                                                                                                                                                             
+BMR SMILES_CANONICAL CACTVS               3.385 "COc1cc2ccccc2cc1[C@H]3C[C@H](O)[C@@H](CO[P](O)(=O)O[P](O)(=O)O[P](O)(O)=O)O3"                                                                                                                          
+BMR SMILES           CACTVS               3.385 "COc1cc2ccccc2cc1[CH]3C[CH](O)[CH](CO[P](O)(=O)O[P](O)(=O)O[P](O)(O)=O)O3"                                                                                                                              
+BMR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "COc1cc2ccccc2cc1[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O"                                                                                                                                
+BMR SMILES           "OpenEye OEToolkits" 1.7.6 "COc1cc2ccccc2cc1C3CC(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O"                                                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BMR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[[(2R,3S,5R)-5-(3-methoxynaphthalen-2-yl)-3-oxidanyl-oxolan-2-yl]methoxy-oxidanyl-phosphoryl] phosphono hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BMR "Create component"   2013-10-02 EBI  
+BMR "Other modification" 2013-10-14 EBI  
+BMR "Initial release"    2013-12-11 RCSB 
+# 

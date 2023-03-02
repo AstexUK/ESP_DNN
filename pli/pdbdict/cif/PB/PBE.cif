@@ -1,0 +1,135 @@
+data_PBE
+# 
+_chem_comp.id                                    PBE 
+_chem_comp.name                                  1,1-DIMETHYL-PROLINIUM 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H14 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "PROLINE BETAINE" 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2000-04-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        144.192 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PBE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1R9Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PBE N   N   N 1 1 N N N 26.536 23.085 73.309 -0.764 0.678  0.037  N   PBE 1  
+PBE CD  CD  C 0 1 N N N 27.208 21.909 73.873 -1.859 -0.005 -0.685 CD  PBE 2  
+PBE CA  CA  C 0 1 N N S 25.199 22.592 73.243 0.136  -0.345 0.599  CA  PBE 3  
+PBE CB  CB  C 0 1 N N N 25.231 21.235 72.655 -0.447 -1.723 0.227  CB  PBE 4  
+PBE CG  CG  C 0 1 N N N 26.537 20.698 73.255 -1.943 -1.410 -0.037 CG  PBE 5  
+PBE CE  CE  C 0 1 N N N 26.734 24.254 74.184 -0.018 1.535  -0.894 CE  PBE 6  
+PBE CF  CF  C 0 1 N N N 27.153 23.387 72.007 -1.323 1.495  1.122  CF  PBE 7  
+PBE C   C   C 0 1 N N N 24.247 22.742 74.174 1.516  -0.197 0.012  C   PBE 8  
+PBE O   O   O 0 1 N N N 24.492 22.362 75.307 1.666  -0.193 -1.187 O   PBE 9  
+PBE OXT OXT O 0 1 N N N 23.122 23.154 73.943 2.579  -0.071 0.822  OXT PBE 10 
+PBE HD1 1HD H 0 1 N N N 27.128 21.892 74.970 -2.797 0.532  -0.548 HD1 PBE 11 
+PBE HD2 2HD H 0 1 N N N 28.280 21.923 73.628 -1.620 -0.090 -1.745 HD2 PBE 12 
+PBE HA  HA  H 0 1 N N N 24.762 23.401 72.639 0.181  -0.242 1.683  HA  PBE 13 
+PBE HB1 1HB H 0 1 N N N 25.195 21.216 71.556 -0.340 -2.424 1.056  HB1 PBE 14 
+PBE HB2 2HB H 0 1 N N N 24.357 20.631 72.940 0.030  -2.113 -0.672 HB2 PBE 15 
+PBE HG1 1HG H 0 1 N N N 26.355 19.905 73.995 -2.506 -1.377 0.896  HG1 PBE 16 
+PBE HG2 2HG H 0 1 N N N 27.173 20.248 72.478 -2.377 -2.133 -0.728 HG2 PBE 17 
+PBE HE1 1HE H 0 1 N N N 25.893 24.952 74.059 0.891  1.892  -0.410 HE1 PBE 18 
+PBE HE2 2HE H 0 1 N N N 27.673 24.759 73.914 0.244  0.963  -1.784 HE2 PBE 19 
+PBE HE3 3HE H 0 1 N N N 26.783 23.924 75.232 -0.636 2.387  -1.179 HE3 PBE 20 
+PBE HF1 1HF H 0 1 N N N 27.854 22.583 71.738 -1.985 2.253  0.703  HF1 PBE 21 
+PBE HF2 2HF H 0 1 N N N 27.696 24.341 72.071 -1.885 0.858  1.804  HF2 PBE 22 
+PBE HF3 3HF H 0 1 N N N 26.370 23.462 71.238 -0.512 1.981  1.665  HF3 PBE 23 
+PBE HXT HXT H 0 1 N N N 22.598 23.105 74.734 3.465  0.024  0.445  HXT PBE 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PBE N   CD  SING N N 1  
+PBE N   CA  SING N N 2  
+PBE N   CE  SING N N 3  
+PBE N   CF  SING N N 4  
+PBE CD  CG  SING N N 5  
+PBE CD  HD1 SING N N 6  
+PBE CD  HD2 SING N N 7  
+PBE CA  CB  SING N N 8  
+PBE CA  C   SING N N 9  
+PBE CA  HA  SING N N 10 
+PBE CB  CG  SING N N 11 
+PBE CB  HB1 SING N N 12 
+PBE CB  HB2 SING N N 13 
+PBE CG  HG1 SING N N 14 
+PBE CG  HG2 SING N N 15 
+PBE CE  HE1 SING N N 16 
+PBE CE  HE2 SING N N 17 
+PBE CE  HE3 SING N N 18 
+PBE CF  HF1 SING N N 19 
+PBE CF  HF2 SING N N 20 
+PBE CF  HF3 SING N N 21 
+PBE C   O   DOUB N N 22 
+PBE C   OXT SING N N 23 
+PBE OXT HXT SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PBE SMILES           ACDLabs              10.04 "O=C(O)C1[N+](C)(C)CCC1"                                                  
+PBE SMILES_CANONICAL CACTVS               3.341 "C[N+]1(C)CCC[C@H]1C(O)=O"                                                
+PBE SMILES           CACTVS               3.341 "C[N+]1(C)CCC[CH]1C(O)=O"                                                 
+PBE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N+]1(CCC[C@H]1C(=O)O)C"                                                
+PBE SMILES           "OpenEye OEToolkits" 1.5.0 "C[N+]1(CCCC1C(=O)O)C"                                                    
+PBE InChI            InChI                1.03  "InChI=1S/C7H13NO2/c1-8(2)5-3-4-6(8)7(9)10/h6H,3-5H2,1-2H3/p+1/t6-/m0/s1" 
+PBE InChIKey         InChI                1.03  CMUNUTVVOOHQPW-LURJTMIESA-O                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PBE "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-carboxy-1,1-dimethylpyrrolidinium"            
+PBE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-1,1-dimethylpyrrolidin-1-ium-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PBE "Create component"  2000-04-20 RCSB 
+PBE "Modify descriptor" 2011-06-04 RCSB 
+# 

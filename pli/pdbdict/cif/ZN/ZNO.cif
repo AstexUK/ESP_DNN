@@ -1,0 +1,89 @@
+data_ZNO
+# 
+_chem_comp.id                                    ZNO 
+_chem_comp.name                                  "ZINC ION, 2 WATERS COORDINATED" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETIC 
+_chem_comp.formula                               "H4 O2 Zn" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.440 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ZNO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1QIP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ZNO ZN   ZN   ZN 2 0 N N N 60.700 35.138 31.073 0.000  0.000  0.000 ZN   ZNO 1 
+ZNO O1   O1   O  0 1 N N N 61.377 33.722 29.626 1.699  -0.064 0.000 O1   ZNO 2 
+ZNO O2   O2   O  0 1 N N N 59.503 32.668 31.703 -1.699 0.064  0.000 O2   ZNO 3 
+ZNO HO11 1HO1 H  0 0 N N N 61.781 34.555 29.414 ?      ?      ?     HO11 ZNO 4 
+ZNO HO12 2HO1 H  0 0 N N N 61.862 32.933 29.838 2.013  0.851  0.000 HO12 ZNO 5 
+ZNO HO13 3HO1 H  0 0 N N N 59.202 33.298 32.347 ?      ?      ?     HO13 ZNO 6 
+ZNO HO14 4HO1 H  0 0 N N N 58.929 32.189 31.117 -2.013 -0.851 0.000 HO14 ZNO 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ZNO ZN O1   SING N N 1 
+ZNO ZN O2   SING N N 2 
+ZNO O1 HO11 SING N N 3 
+ZNO O1 HO12 SING N N 4 
+ZNO O2 HO13 SING N N 5 
+ZNO O2 HO14 SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ZNO InChI            InChI                1.02b InChI=1/2H2O.Zn/h2*1H2;/q;;+2/rH4O2Zn/c1-3-2/h1-2H2/q+2 
+ZNO InChIKey         InChI                1.02b UGZADUVQMDAIAO-LRNNFGKHAV                               
+ZNO SMILES_CANONICAL CACTVS               3.341 "O|[Zn++]|O"                                            
+ZNO SMILES           CACTVS               3.341 "O|[Zn++]|O"                                            
+ZNO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[OH2][Zn+2][OH2]"                                      
+ZNO SMILES           "OpenEye OEToolkits" 1.5.0 "[OH2][Zn+2][OH2]"                                      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ZNO "Create component" 1999-07-08 RCSB 
+# 

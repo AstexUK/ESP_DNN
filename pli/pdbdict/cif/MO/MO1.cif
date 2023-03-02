@@ -1,0 +1,83 @@
+data_MO1
+# 
+_chem_comp.id                                    MO1 
+_chem_comp.name                                  "MAGNESIUM ION, 1 WATER COORDINATED" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETIC 
+_chem_comp.formula                               "H2 Mg O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        42.320 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MO1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1EFK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MO1 MG   MG   MG 2 0 N N N 29.089 -24.656 2.071 -0.765 0.006  0.000 MG   MO1 1 
+MO1 O1   O1   O  0 1 N N N 31.551 -24.055 1.839 1.074  -0.063 0.000 O1   MO1 2 
+MO1 HO11 1HO1 H  0 0 N N N 32.069 -24.846 1.926 ?      ?      ?     HO11 MO1 3 
+MO1 HO12 2HO1 H  0 0 N N N 31.706 -23.663 0.988 1.388  0.852  0.000 HO12 MO1 4 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MO1 MG O1   SING N N 1 
+MO1 O1 HO11 SING N N 2 
+MO1 O1 HO12 SING N N 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MO1 InChI            InChI                1.02b InChI=1/Mg.H2O/h;1H2/q+2;/rH2MgO/c1-2/h2H2/q+2 
+MO1 InChIKey         InChI                1.02b SIERWFVYDSKSDJ-ISKPZROQAY                      
+MO1 SMILES_CANONICAL CACTVS               3.341 "O|[Mg++]"                                     
+MO1 SMILES           CACTVS               3.341 "O|[Mg++]"                                     
+MO1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[OH2][Mg+2]"                                  
+MO1 SMILES           "OpenEye OEToolkits" 1.5.0 "[OH2][Mg+2]"                                  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MO1 "Create component" 1999-07-08 RCSB 
+# 

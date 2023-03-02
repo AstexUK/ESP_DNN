@@ -1,0 +1,150 @@
+data_SHC
+# 
+_chem_comp.id                                    SHC 
+_chem_comp.name                                  S-HEXYLCYSTEINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H19 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        205.318 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     SHC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GSS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SHC N   N   N 0 1 N N N 33.256 58.213 9.102  -1.685 -0.334 -3.272 N   SHC 1  
+SHC CA  CA  C 0 1 N N R 33.931 59.163 8.210  -0.382 0.338  -3.195 CA  SHC 2  
+SHC CB  CB  C 0 1 N N N 34.541 60.104 9.274  0.311  -0.042 -1.886 CB  SHC 3  
+SHC SG  SG  S 0 1 N N N 35.864 60.844 8.325  -0.719 0.469  -0.483 SG  SHC 4  
+SHC C1  C1  C 0 1 N N N 36.015 62.575 8.842  0.320  -0.092 0.892  C1  SHC 5  
+SHC C2  C2  C 0 1 N N N 36.587 63.384 7.661  -0.365 0.242  2.219  C2  SHC 6  
+SHC C3  C3  C 0 1 N N N 38.046 63.048 7.323  0.511  -0.231 3.380  C3  SHC 7  
+SHC C4  C4  C 0 1 N N N 38.622 63.597 5.992  -0.174 0.103  4.706  C4  SHC 8  
+SHC C5  C5  C 0 1 N N N 38.449 62.647 4.786  0.702  -0.371 5.867  C5  SHC 9  
+SHC C6  C6  C 0 1 N N N 39.464 61.486 4.729  0.016  -0.036 7.193  C6  SHC 10 
+SHC C   C   C 0 1 N N N 34.858 58.314 7.329  0.473  -0.086 -4.360 C   SHC 11 
+SHC OXT OXT O 0 1 N Y N 34.966 58.316 6.017  1.390  0.755  -4.862 OXT SHC 12 
+SHC O   O1  O 0 1 N N N 35.615 57.521 7.880  0.334  -1.186 -4.842 O   SHC 13 
+SHC H   1HN H 0 1 N N N 32.853 57.592 8.399  -2.182 -0.103 -2.425 H   SHC 14 
+SHC H2  2HN H 0 1 N Y N 32.604 58.613 9.776  -1.502 -1.326 -3.239 H2  SHC 15 
+SHC HA  HA  H 0 1 N N N 33.373 59.775 7.462  -0.529 1.418  -3.227 HA  SHC 16 
+SHC HB2 1HB H 0 1 N N N 33.831 60.817 9.753  1.278  0.457  -1.828 HB2 SHC 17 
+SHC HB3 2HB H 0 1 N N N 34.844 59.620 10.231 0.457  -1.122 -1.853 HB3 SHC 18 
+SHC H11 1H1 H 0 1 N N N 35.055 62.994 9.224  1.286  0.409  0.846  H11 SHC 19 
+SHC H12 2H1 H 0 1 N N N 36.614 62.694 9.774  0.466  -1.170 0.821  H12 SHC 20 
+SHC H21 1H2 H 0 1 N N N 35.940 63.271 6.759  -1.332 -0.259 2.265  H21 SHC 21 
+SHC H22 2H2 H 0 1 N N N 36.469 64.477 7.842  -0.511 1.320  2.290  H22 SHC 22 
+SHC H31 1H3 H 0 1 N N N 38.701 63.367 8.166  1.477  0.270  3.334  H31 SHC 23 
+SHC H32 2H3 H 0 1 N N N 38.185 61.942 7.355  0.657  -1.309 3.308  H32 SHC 24 
+SHC H41 1H4 H 0 1 N N N 38.189 64.599 5.764  -1.141 -0.398 4.752  H41 SHC 25 
+SHC H42 2H4 H 0 1 N N N 39.694 63.876 6.117  -0.320 1.180  4.778  H42 SHC 26 
+SHC H51 1H5 H 0 1 N N N 37.406 62.251 4.751  1.668  0.130  5.821  H51 SHC 27 
+SHC H52 2H5 H 0 1 N N N 38.468 63.224 3.832  0.848  -1.448 5.795  H52 SHC 28 
+SHC H61 1H6 H 0 1 N N N 39.339 60.800 3.858  0.640  -0.374 8.020  H61 SHC 29 
+SHC H62 2H6 H 0 1 N N N 40.506 61.881 4.763  -0.129 1.041  7.265  H62 SHC 30 
+SHC H63 3H6 H 0 1 N N N 39.444 60.908 5.682  -0.950 -0.538 7.239  H63 SHC 31 
+SHC HXT HXT H 0 1 N Y N 35.539 57.790 5.471  1.939  0.481  -5.609 HXT SHC 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SHC N   CA  SING N N 1  
+SHC N   H   SING N N 2  
+SHC N   H2  SING N N 3  
+SHC CA  CB  SING N N 4  
+SHC CA  C   SING N N 5  
+SHC CA  HA  SING N N 6  
+SHC CB  SG  SING N N 7  
+SHC CB  HB2 SING N N 8  
+SHC CB  HB3 SING N N 9  
+SHC SG  C1  SING N N 10 
+SHC C1  C2  SING N N 11 
+SHC C1  H11 SING N N 12 
+SHC C1  H12 SING N N 13 
+SHC C2  C3  SING N N 14 
+SHC C2  H21 SING N N 15 
+SHC C2  H22 SING N N 16 
+SHC C3  C4  SING N N 17 
+SHC C3  H31 SING N N 18 
+SHC C3  H32 SING N N 19 
+SHC C4  C5  SING N N 20 
+SHC C4  H41 SING N N 21 
+SHC C4  H42 SING N N 22 
+SHC C5  C6  SING N N 23 
+SHC C5  H51 SING N N 24 
+SHC C5  H52 SING N N 25 
+SHC C6  H61 SING N N 26 
+SHC C6  H62 SING N N 27 
+SHC C6  H63 SING N N 28 
+SHC C   OXT SING N N 29 
+SHC C   O   DOUB N N 30 
+SHC OXT HXT SING N N 31 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SHC SMILES           ACDLabs              10.04 "O=C(O)C(N)CSCCCCCC"                                                                     
+SHC SMILES_CANONICAL CACTVS               3.341 "CCCCCCSC[C@H](N)C(O)=O"                                                                 
+SHC SMILES           CACTVS               3.341 "CCCCCCSC[CH](N)C(O)=O"                                                                  
+SHC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCCCSC[C@@H](C(=O)O)N"                                                                
+SHC SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCCSCC(C(=O)O)N"                                                                     
+SHC InChI            InChI                1.03  "InChI=1S/C9H19NO2S/c1-2-3-4-5-6-13-7-8(10)9(11)12/h8H,2-7,10H2,1H3,(H,11,12)/t8-/m0/s1" 
+SHC InChIKey         InChI                1.03  NALKEWMBCJKRLB-QMMMGPOBSA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SHC "SYSTEMATIC NAME" ACDLabs              10.04 S-hexyl-L-cysteine                            
+SHC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-hexylsulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SHC "Create component"  1999-07-08 RCSB 
+SHC "Modify descriptor" 2011-06-04 RCSB 
+# 

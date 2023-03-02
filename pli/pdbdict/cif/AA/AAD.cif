@@ -1,0 +1,181 @@
+data_AAD
+# 
+_chem_comp.id                                    AAD 
+_chem_comp.name                                  "(2-AMINOOXY-ETHYL)-[5-(6-AMINO-PURIN-9-YL)-3,4-DIHYDROXY-TETRAHYDRO-FURAN-2-YLMETHYL]-METHYL-SULFONIUM" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H21 N6 O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+;5'-[[2-(AMINOOXY)ETHYL]METHYLSULFONIO]-5'-DEOXY-ADENOSINE; [2-(AMINO-OXY)ETHYL](5'-DEOXYADENOSIN-5'-YL)(METHYL)SULFONIUM
+;
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2002-07-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        357.409 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AAD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1M4N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AAD "C4'" C4*  C 0 1 N N S 19.806 2.564  26.510 -0.341 2.678  -0.368 "C4'" AAD 1  
+AAD "O4'" O4*  O 0 1 N N N 18.470 2.147  26.964 -1.426 2.441  0.555  "O4'" AAD 2  
+AAD "C3'" C3*  C 0 1 N N S 20.157 3.802  27.366 0.868  1.960  0.222  "C3'" AAD 3  
+AAD "O3'" O3*  O 0 1 N N N 19.990 5.020  26.690 1.456  2.721  1.272  "O3'" AAD 4  
+AAD "C2'" C2*  C 0 1 N N R 19.277 3.668  28.644 0.205  0.724  0.798  "C2'" AAD 5  
+AAD "O2'" O2*  O 0 1 N N N 19.105 4.730  29.487 0.983  0.089  1.793  "O2'" AAD 6  
+AAD "C1'" C1*  C 0 1 N N R 18.039 3.050  28.047 -1.085 1.300  1.371  "C1'" AAD 7  
+AAD N9    N9   N 0 1 Y N N 17.314 2.121  28.923 -2.202 0.359  1.377  N9    AAD 8  
+AAD C8    C8   C 0 1 Y N N 16.012 2.346  29.312 -2.572 -0.449 2.421  C8    AAD 9  
+AAD N7    N7   N 0 1 Y N N 15.609 1.450  30.131 -3.620 -1.191 2.128  N7    AAD 10 
+AAD C5    C5   C 0 1 Y N N 16.685 0.586  30.294 -3.944 -0.850 0.839  C5    AAD 11 
+AAD C6    C6   C 0 1 Y N N 16.818 -0.617 31.109 -4.947 -1.284 -0.022 C6    AAD 12 
+AAD N6    N6   N 0 1 N N N 15.820 -1.046 31.857 -5.873 -2.258 0.388  N6    AAD 13 
+AAD N1    N1   N 0 1 Y N N 18.022 -1.208 31.019 -5.021 -0.754 -1.267 N1    AAD 14 
+AAD C2    C2   C 0 1 Y N N 19.062 -0.769 30.251 -4.100 0.181  -1.605 C2    AAD 15 
+AAD N3    N3   N 0 1 Y N N 18.981 0.330  29.492 -3.087 0.680  -0.863 N3    AAD 16 
+AAD C4    C4   C 0 1 Y N N 17.773 0.952  29.561 -3.074 0.113  0.353  C4    AAD 17 
+AAD N2    N2   N 0 1 N N N ?      ?      ?      -4.097 6.227  -4.676 N2    AAD 18 
+AAD O2    O2   O 0 1 N N N ?      ?      ?      -3.450 5.326  -3.736 O2    AAD 19 
+AAD CB    CB   C 0 1 N N N ?      ?      ?      -2.048 5.407  -3.965 CB    AAD 20 
+AAD CG    CG   C 0 1 N N N ?      ?      ?      -1.320 4.483  -3.007 CG    AAD 21 
+AAD SD    SD   S 1 1 N N S ?      ?      ?      -1.687 4.906  -1.289 SD    AAD 22 
+AAD CE    CE   C 0 1 N N N ?      ?      ?      -1.067 6.602  -1.356 CE    AAD 23 
+AAD "C5'" C5*  C 0 1 N N N ?      ?      ?      -0.185 4.173  -0.578 "C5'" AAD 24 
+AAD HC4   HC4  H 0 1 N N N 20.845 2.206  26.458 -0.631 2.210  -1.316 HC4   AAD 25 
+AAD HC3   HC3  H 0 1 N N N 21.227 3.824  27.619 1.646  1.736  -0.513 HC3   AAD 26 
+AAD HO3   HO3  H 0 1 N N N 19.952 5.730  27.320 2.023  3.385  0.849  HO3   AAD 27 
+AAD HC2   HC2  H 0 1 N N N 19.776 3.077  29.427 -0.007 0.000  0.002  HC2   AAD 28 
+AAD HO2   HO2  H 0 1 N N N 19.065 4.420  30.384 1.802  0.606  1.893  HO2   AAD 29 
+AAD HC1   HC1  H 0 1 N N N 17.403 3.907  27.782 -0.977 1.630  2.409  HC1   AAD 30 
+AAD HC8   HC8  H 0 1 N N N 15.408 3.173  28.969 -2.042 -0.451 3.364  HC8   AAD 31 
+AAD HN61  1HN6 H 0 0 N N N 16.133 -1.155 32.801 -6.044 -2.395 1.366  HN61  AAD 32 
+AAD HN62  2HN6 H 0 0 N N N 15.073 -0.382 31.828 -6.281 -2.868 -0.295 HN62  AAD 33 
+AAD HC2A  HC2A H 0 0 N N N 19.985 -1.330 30.256 -4.189 0.583  -2.608 HC2A  AAD 34 
+AAD HN21  1HN2 H 0 0 N N N ?      ?      ?      -4.649 6.797  -4.036 HN21  AAD 35 
+AAD HN22  2HN2 H 0 0 N N N ?      ?      ?      -4.748 5.587  -5.129 HN22  AAD 36 
+AAD HCB1  1HCB H 0 0 N N N ?      ?      ?      -1.742 6.443  -3.784 HCB1  AAD 37 
+AAD HCB2  2HCB H 0 0 N N N ?      ?      ?      -1.845 5.158  -5.011 HCB2  AAD 38 
+AAD HCG1  1HCG H 0 0 N N N ?      ?      ?      -1.642 3.448  -3.153 HCG1  AAD 39 
+AAD HCG2  2HCG H 0 0 N N N ?      ?      ?      -0.235 4.547  -3.134 HCG2  AAD 40 
+AAD HCE1  1HCE H 0 0 N N N ?      ?      ?      -0.468 6.802  -0.465 HCE1  AAD 41 
+AAD HCE2  2HCE H 0 0 N N N ?      ?      ?      -1.915 7.290  -1.395 HCE2  AAD 42 
+AAD HCE3  3HCE H 0 0 N N N ?      ?      ?      -0.452 6.721  -2.250 HCE3  AAD 43 
+AAD HC51  1HC5 H 0 0 N N N ?      ?      ?      0.642  4.379  -1.262 HC51  AAD 44 
+AAD HC52  2HC5 H 0 0 N N N ?      ?      ?      0.013  4.675  0.373  HC52  AAD 45 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AAD "C4'" "O4'" SING N N 1  
+AAD "C4'" "C3'" SING N N 2  
+AAD "C4'" "C5'" SING N N 3  
+AAD "C4'" HC4   SING N N 4  
+AAD "O4'" "C1'" SING N N 5  
+AAD "C3'" "O3'" SING N N 6  
+AAD "C3'" "C2'" SING N N 7  
+AAD "C3'" HC3   SING N N 8  
+AAD "O3'" HO3   SING N N 9  
+AAD "C2'" "O2'" SING N N 10 
+AAD "C2'" "C1'" SING N N 11 
+AAD "C2'" HC2   SING N N 12 
+AAD "O2'" HO2   SING N N 13 
+AAD "C1'" N9    SING N N 14 
+AAD "C1'" HC1   SING N N 15 
+AAD N9    C8    SING Y N 16 
+AAD N9    C4    SING Y N 17 
+AAD C8    N7    DOUB Y N 18 
+AAD C8    HC8   SING N N 19 
+AAD N7    C5    SING Y N 20 
+AAD C5    C6    DOUB Y N 21 
+AAD C5    C4    SING Y N 22 
+AAD C6    N6    SING N N 23 
+AAD C6    N1    SING Y N 24 
+AAD N6    HN61  SING N N 25 
+AAD N6    HN62  SING N N 26 
+AAD N1    C2    DOUB Y N 27 
+AAD C2    N3    SING Y N 28 
+AAD C2    HC2A  SING N N 29 
+AAD N3    C4    DOUB Y N 30 
+AAD N2    O2    SING N N 31 
+AAD N2    HN21  SING N N 32 
+AAD N2    HN22  SING N N 33 
+AAD O2    CB    SING N N 34 
+AAD CB    CG    SING N N 35 
+AAD CB    HCB1  SING N N 36 
+AAD CB    HCB2  SING N N 37 
+AAD CG    SD    SING N N 38 
+AAD CG    HCG1  SING N N 39 
+AAD CG    HCG2  SING N N 40 
+AAD SD    CE    SING N N 41 
+AAD SD    "C5'" SING N N 42 
+AAD CE    HCE1  SING N N 43 
+AAD CE    HCE2  SING N N 44 
+AAD CE    HCE3  SING N N 45 
+AAD "C5'" HC51  SING N N 46 
+AAD "C5'" HC52  SING N N 47 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AAD SMILES           ACDLabs              10.04 "n2c1c(ncnc1n(c2)C3OC(C(O)C3O)C[S+](CCON)C)N"                                                                                                                             
+AAD SMILES_CANONICAL CACTVS               3.341 "C[S+](CCON)C[C@@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23"                                                                                                             
+AAD SMILES           CACTVS               3.341 "C[S+](CCON)C[CH]1O[CH]([CH](O)[CH]1O)n2cnc3c(N)ncnc23"                                                                                                                   
+AAD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[S@@+](CCON)C[C@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)O"                                                                                                            
+AAD SMILES           "OpenEye OEToolkits" 1.5.0 "C[S+](CCON)CC1C(C(C(O1)n2cnc3c2ncnc3N)O)O"                                                                                                                               
+AAD InChI            InChI                1.03  "InChI=1S/C13H21N6O4S/c1-24(3-2-22-15)4-7-9(20)10(21)13(23-7)19-6-18-8-11(14)16-5-17-12(8)19/h5-7,9-10,13,20-21H,2-4,15H2,1H3,(H2,14,16,17)/q+1/t7-,9+,10+,13+,24?/m0/s1" 
+AAD InChIKey         InChI                1.03  RMAOLICYOBWFLA-OCVRIJAPSA-N                                                                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AAD "SYSTEMATIC NAME" ACDLabs              10.04 "[2-(aminooxy)ethyl]{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl}methylsulfonium (non-preferred name)" 
+AAD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-aminooxyethyl-[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl]-methyl-sulfanium"                                   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AAD "Create component"  2002-07-09 RCSB 
+AAD "Modify descriptor" 2011-06-04 RCSB 
+# 

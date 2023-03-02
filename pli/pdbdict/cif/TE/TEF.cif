@@ -1,0 +1,145 @@
+data_TEF
+# 
+_chem_comp.id                                    TEF 
+_chem_comp.name                                  "4-(2H-tetrazol-2-yl)-L-phenylalanine" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C10 H11 N5 O2" 
+_chem_comp.mon_nstd_parent_comp_id               PHE 
+_chem_comp.pdbx_synonyms                         "p-(2-tetrazolyl)-phenylalanine" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-06-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        233.227 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TEF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3N2Y 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TEF CA  CA  C 0 1 N N S -23.596 -38.650 -14.628 3.064  -0.030 -0.460 CA  TEF 1  
+TEF N   N   N 0 1 N N N -23.723 -38.074 -15.955 2.792  -1.391 -0.939 N   TEF 2  
+TEF OXT OXT O 0 1 N N N -23.043 -37.715 -12.536 5.081  1.372  -0.204 OXT TEF 3  
+TEF CB  CB  C 0 1 N N N -22.244 -39.323 -14.493 2.329  0.202  0.862  CB  TEF 4  
+TEF N2  N2  N 0 1 Y N N -21.436 -43.824 -17.888 -3.273 0.015  -0.031 N2  TEF 5  
+TEF O   O   O 0 1 N Y N -24.424 -36.566 -13.834 5.254  -0.830 -0.115 O   TEF 6  
+TEF CG  CG  C 0 1 Y N N -22.091 -40.531 -15.386 0.842  0.152  0.625  CG  TEF 7  
+TEF N3  N3  N 0 1 Y N N -22.370 -44.840 -18.064 -4.103 1.099  -0.361 N3  TEF 8  
+TEF CD1 CD1 C 0 1 Y N N -20.905 -40.676 -16.096 0.167  -1.050 0.727  CD1 TEF 9  
+TEF N4  N4  N 0 1 Y N N -20.523 -45.237 -19.260 -5.240 -0.701 -0.235 N4  TEF 10 
+TEF CE1 CE1 C 0 1 Y N N -20.694 -41.777 -16.919 -1.196 -1.099 0.510  CE1 TEF 11 
+TEF N5  N5  N 0 1 Y N N -20.265 -44.022 -18.607 -4.024 -1.031 0.023  N5  TEF 12 
+TEF CZ  CZ  C 0 1 Y N N -21.648 -42.776 -17.080 -1.889 0.062  0.190  CZ  TEF 13 
+TEF C7  C7  C 0 1 Y N N -21.762 -45.694 -18.926 -5.314 0.605  -0.475 C7  TEF 14 
+TEF CE2 CE2 C 0 1 Y N N -22.836 -42.601 -16.349 -1.208 1.267  0.089  CE2 TEF 15 
+TEF CD2 CD2 C 0 1 Y N N -23.075 -41.505 -15.516 0.154  1.311  0.312  CD2 TEF 16 
+TEF C   C   C 0 1 N N N -23.696 -37.569 -13.594 4.547  0.141  -0.247 C   TEF 17 
+TEF HA  HA  H 0 1 N N N -24.401 -39.385 -14.481 2.718  0.692  -1.199 HA  TEF 18 
+TEF H   H   H 0 1 N N N -24.615 -37.631 -16.042 3.105  -2.079 -0.270 H   TEF 19 
+TEF H2  H2  H 0 1 N Y N -23.000 -37.398 -16.095 1.813  -1.511 -1.151 H2  TEF 20 
+TEF HXT HXT H 0 1 N Y N -23.187 -36.967 -11.969 6.036  1.431  -0.066 HXT TEF 21 
+TEF HB2 HB2 H 0 1 N N N -21.467 -38.593 -14.764 2.610  -0.574 1.575  HB2 TEF 22 
+TEF HB3 HB3 H 0 1 N N N -22.123 -39.648 -13.449 2.601  1.179  1.263  HB3 TEF 23 
+TEF HD1 HD1 H 0 1 N N N -20.136 -39.923 -16.007 0.706  -1.952 0.976  HD1 TEF 24 
+TEF HE1 HE1 H 0 1 N N N -19.758 -41.859 -17.451 -1.723 -2.038 0.589  HE1 TEF 25 
+TEF H7  H7  H 0 1 N N N -22.200 -46.609 -19.296 -6.208 1.158  -0.719 H7  TEF 26 
+TEF HE2 HE2 H 0 1 N N N -23.605 -43.354 -16.436 -1.744 2.171  -0.160 HE2 TEF 27 
+TEF HD2 HD2 H 0 1 N N N -24.009 -41.416 -14.982 0.684  2.248  0.234  HD2 TEF 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TEF N   CA  SING N N 1  
+TEF CA  CB  SING N N 2  
+TEF CA  C   SING N N 3  
+TEF CA  HA  SING N N 4  
+TEF N   H   SING N N 5  
+TEF N   H2  SING N N 6  
+TEF C   OXT SING N N 7  
+TEF OXT HXT SING N N 8  
+TEF CG  CB  SING N N 9  
+TEF CB  HB2 SING N N 10 
+TEF CB  HB3 SING N N 11 
+TEF N5  N2  SING Y N 12 
+TEF N3  N2  SING Y N 13 
+TEF N2  CZ  SING Y N 14 
+TEF O   C   DOUB N N 15 
+TEF CD1 CG  DOUB Y N 16 
+TEF CD2 CG  SING Y N 17 
+TEF C7  N3  DOUB Y N 18 
+TEF CE1 CD1 SING Y N 19 
+TEF CD1 HD1 SING N N 20 
+TEF N4  C7  SING Y N 21 
+TEF N4  N5  DOUB Y N 22 
+TEF CZ  CE1 DOUB Y N 23 
+TEF CE1 HE1 SING N N 24 
+TEF CZ  CE2 SING Y N 25 
+TEF C7  H7  SING N N 26 
+TEF CE2 CD2 DOUB Y N 27 
+TEF CE2 HE2 SING N N 28 
+TEF CD2 HD2 SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TEF SMILES           ACDLabs              12.01 "O=C(O)C(N)Cc1ccc(cc1)n2ncnn2"                                                                             
+TEF SMILES_CANONICAL CACTVS               3.370 "N[C@@H](Cc1ccc(cc1)n2ncnn2)C(O)=O"                                                                        
+TEF SMILES           CACTVS               3.370 "N[CH](Cc1ccc(cc1)n2ncnn2)C(O)=O"                                                                          
+TEF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc(ccc1C[C@@H](C(=O)O)N)n2ncnn2"                                                                        
+TEF SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc(ccc1CC(C(=O)O)N)n2ncnn2"                                                                             
+TEF InChI            InChI                1.03  "InChI=1S/C10H11N5O2/c11-9(10(16)17)5-7-1-3-8(4-2-7)15-13-6-12-14-15/h1-4,6,9H,5,11H2,(H,16,17)/t9-/m0/s1" 
+TEF InChIKey         InChI                1.03  KHTQUIIGXJUWFB-VIFPVBQESA-N                                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TEF "SYSTEMATIC NAME" ACDLabs              12.01 "4-(2H-tetrazol-2-yl)-L-phenylalanine"                            
+TEF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-2-azanyl-3-[4-(1,2,3,4-tetrazol-2-yl)phenyl]propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TEF "Create component"     2010-06-03 PDBJ 
+TEF "Modify aromatic_flag" 2011-06-04 RCSB 
+TEF "Modify descriptor"    2011-06-04 RCSB 
+# 

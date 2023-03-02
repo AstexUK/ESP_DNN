@@ -1,0 +1,103 @@
+data_OER
+# 
+_chem_comp.id                                    OER 
+_chem_comp.name                                  "SR-MN4-O5 CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Mn4 O5 Sr" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Mn4SrOt5-cluster 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     2013-02-12 
+_chem_comp.pdbx_modified_date                    2013-03-18 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        387.369 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OER 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4IL6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OER O1  O1  O  0  1 N N N -26.896 36.927 -61.358 -26.896 36.927 -61.358 O1  OER 1  
+OER MN1 MN1 MN 0  0 N N N -25.217 35.794 -60.979 -25.217 35.794 -60.979 MN1 OER 2  
+OER SR1 SR1 SR 2  0 N N N -28.105 36.936 -59.258 -28.105 36.936 -59.258 SR1 OER 3  
+OER O2  O2  O  0  1 N N N -28.272 34.907 -60.946 -28.272 34.907 -60.946 O2  OER 4  
+OER MN2 MN2 MN 0  0 N N N -27.584 35.479 -62.452 -27.584 35.479 -62.452 MN2 OER 5  
+OER O3  O3  O  1  1 N N N -26.226 34.264 -61.597 -26.226 34.264 -61.597 O3  OER 6  
+OER MN3 MN3 MN 0  0 N N N -27.541 33.498 -60.279 -27.541 33.498 -60.279 MN3 OER 7  
+OER O4  O4  O  0  1 N N N -28.641 32.924 -59.069 -28.641 32.924 -59.069 O4  OER 8  
+OER MN4 MN4 MN 0  0 N N N -27.847 33.377 -57.436 -27.847 33.377 -57.436 MN4 OER 9  
+OER O5  O5  O  -1 1 N N N -26.418 35.085 -58.733 -26.418 35.085 -58.733 O5  OER 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OER O1  MN1 SING N N 1  
+OER O1  MN2 SING N N 2  
+OER MN1 O3  SING N N 3  
+OER O2  MN2 SING N N 4  
+OER O2  MN3 SING N N 5  
+OER MN2 O3  SING N N 6  
+OER O3  MN3 SING N N 7  
+OER MN3 O4  SING N N 8  
+OER MN3 O5  SING N N 9  
+OER O4  MN4 SING N N 10 
+OER SR1 O2  SING N N 11 
+OER SR1 O5  SING N N 12 
+OER SR1 O1  SING N N 13 
+OER MN4 O5  SING N N 14 
+OER MN1 O5  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OER InChI            InChI                1.03  InChI=1S/4Mn.5O.Sr/q;;;;;;;-1;+1;+2                 
+OER InChIKey         InChI                1.03  CSESTIVEXPKVIG-UHFFFAOYSA-N                         
+OER SMILES_CANONICAL CACTVS               3.370 "O1[Mn][O-]2|3[Mn]4|O5[Sr++]2|O6[Mn]1|3[O+]4[Mn]56" 
+OER SMILES           CACTVS               3.370 "O1[Mn][O-]2|3[Mn]4|O5[Sr++]2|O6[Mn]1|3[O+]4[Mn]56" 
+OER SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "O1[Mn][O-]23[Mn]14O5[Sr+2]2O6[Mn]5[O+]4[Mn]36"     
+OER SMILES           "OpenEye OEToolkits" 1.7.6 "O1[Mn][O-]23[Mn]14O5[Sr+2]2O6[Mn]5[O+]4[Mn]36"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OER "Create component"   2013-02-12 PDBJ 
+OER "Other modification" 2013-03-06 RCSB 
+OER "Other modification" 2013-03-18 PDBJ 
+# 

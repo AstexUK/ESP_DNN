@@ -1,0 +1,113 @@
+data_MR3
+# 
+_chem_comp.id                                    MR3 
+_chem_comp.name                                  1-METHYL-1H-PYRROLE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H7 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-02-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        81.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MR3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MR3 CAA  CAA  C 0 1 N N N -16.105 24.768 -17.074 -0.231 -0.529 4.582 CAA  MR3 1  
+MR3 NAF  NAF  N 0 1 Y N N -15.310 24.042 -18.090 0.231  -0.213 3.249 NAF  MR3 2  
+MR3 CAD  CAD  C 0 1 Y N N -15.627 22.857 -18.597 1.457  0.317  2.943 CAD  MR3 3  
+MR3 CAB  CAB  C 0 1 Y N N -14.675 22.552 -19.471 1.520  0.473  1.576 CAB  MR3 4  
+MR3 CAC  CAC  C 0 1 Y N N -13.793 23.551 -19.497 0.289  0.020  1.041 CAC  MR3 5  
+MR3 CAE  CAE  C 0 1 Y N N -14.182 24.484 -18.631 -0.489 -0.399 2.098 CAE  MR3 6  
+MR3 HAA1 1HAA H 0 0 N N N -15.486 24.948 -16.183 0.589  -0.334 5.278 HAA1 MR3 7  
+MR3 HAA2 2HAA H 0 0 N N N -16.439 25.731 -17.489 -1.095 0.096  4.825 HAA2 MR3 8  
+MR3 HAA3 3HAA H 0 0 N N N -16.982 24.165 -16.795 -0.527 -1.581 4.622 HAA3 MR3 9  
+MR3 HAD  HAD  H 0 1 N N N -16.490 22.258 -18.347 2.180  0.539  3.717 HAD  MR3 10 
+MR3 HAB  HAB  H 0 1 N N N -14.624 21.648 -20.060 2.362  0.869  1.025 HAB  MR3 11 
+MR3 HAC  HAC  H 0 1 N N N -12.910 23.596 -20.117 0.000  0.000  0.000 HAC  MR3 12 
+MR3 HAE  HAE  H 0 1 N N N -13.680 25.415 -18.412 -1.489 -0.811 2.125 HAE  MR3 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MR3 CAA NAF  SING N N 1  
+MR3 CAA HAA1 SING N N 2  
+MR3 CAA HAA2 SING N N 3  
+MR3 CAA HAA3 SING N N 4  
+MR3 NAF CAD  SING Y N 5  
+MR3 NAF CAE  SING Y N 6  
+MR3 CAD CAB  DOUB Y N 7  
+MR3 CAD HAD  SING N N 8  
+MR3 CAB CAC  SING Y N 9  
+MR3 CAB HAB  SING N N 10 
+MR3 CAC CAE  DOUB Y N 11 
+MR3 CAC HAC  SING N N 12 
+MR3 CAE HAE  SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MR3 SMILES           ACDLabs              10.04 c1cccn1C                                
+MR3 SMILES_CANONICAL CACTVS               3.341 Cn1cccc1                                
+MR3 SMILES           CACTVS               3.341 Cn1cccc1                                
+MR3 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 Cn1cccc1                                
+MR3 SMILES           "OpenEye OEToolkits" 1.5.0 Cn1cccc1                                
+MR3 InChI            InChI                1.03  InChI=1S/C5H7N/c1-6-4-2-3-5-6/h2-5H,1H3 
+MR3 InChIKey         InChI                1.03  OXHNLMTVIGZXSG-UHFFFAOYSA-N             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MR3 "SYSTEMATIC NAME" ACDLabs              10.04 1-methyl-1H-pyrrole 
+MR3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-methylpyrrole     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MR3 "Create component"  2007-02-13 RCSB 
+MR3 "Modify descriptor" 2011-06-04 RCSB 
+# 

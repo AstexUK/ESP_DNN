@@ -1,0 +1,118 @@
+data_CCU
+# 
+_chem_comp.id                                    CCU 
+_chem_comp.name                                  "(2Z,4Z)-HEXA-2,4-DIENEDIOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "CIS,CIS-MUCONIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-12-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.109 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CCU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2F7A 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CCU C2  C2  C 0 1 N N N 41.000 37.817 -16.517 -1.501 1.033  -0.116 C2  CCU 1  
+CCU C3  C3  C 0 1 N N N 40.364 38.358 -17.604 -0.201 0.684  -0.237 C3  CCU 2  
+CCU C4  C4  C 0 1 N N N 41.010 38.874 -18.792 0.200  -0.712 -0.066 C4  CCU 3  
+CCU C6  C6  C 0 1 N N N 38.884 39.487 -19.954 2.530  0.010  0.053  C6  CCU 4  
+CCU O4  O4  O 0 1 N N N 38.537 40.566 -20.440 2.196  1.165  0.231  O4  CCU 5  
+CCU O3  O3  O 0 1 N N N 38.154 38.767 -19.594 3.837  -0.305 -0.054 O3  CCU 6  
+CCU C5  C5  C 0 1 N N N 40.388 39.364 -19.828 1.511  -1.041 -0.047 C5  CCU 7  
+CCU C1  C1  C 0 1 N N N 42.445 37.627 -16.268 -2.530 -0.005 0.018  C1  CCU 8  
+CCU O1  O1  O 0 1 N N N 43.397 37.872 -17.147 -2.207 -1.174 0.098  O1  CCU 9  
+CCU O2  O2  O 0 1 N N N 42.708 37.217 -15.158 -3.834 0.338  0.052  O2  CCU 10 
+CCU H2  H2  H 0 1 N N N 40.349 37.479 -15.724 -1.782 2.075  -0.117 H2  CCU 11 
+CCU H3  H3  H 0 1 N N N 39.285 38.403 -17.571 0.541  1.435  -0.460 H3  CCU 12 
+CCU H4  H4  H 0 1 N N N 42.089 38.851 -18.823 -0.551 -1.480 0.046  H4  CCU 13 
+CCU HO3 HO3 H 0 1 N N N 37.278 39.113 -19.721 4.508  0.388  0.012  HO3 CCU 14 
+CCU H5  H5  H 0 1 N N N 40.989 39.707 -20.657 1.808  -2.078 -0.106 H5  CCU 15 
+CCU HO2 HO2 H 0 1 N N N 43.649 37.121 -15.070 -4.512 -0.346 0.140  HO2 CCU 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CCU C2 C3  DOUB N Z 1  
+CCU C2 C1  SING N N 2  
+CCU C2 H2  SING N N 3  
+CCU C3 C4  SING N N 4  
+CCU C3 H3  SING N N 5  
+CCU C4 C5  DOUB N Z 6  
+CCU C4 H4  SING N N 7  
+CCU C6 O4  DOUB N N 8  
+CCU C6 O3  SING N N 9  
+CCU C6 C5  SING N N 10 
+CCU O3 HO3 SING N N 11 
+CCU C5 H5  SING N N 12 
+CCU C1 O1  DOUB N N 13 
+CCU C1 O2  SING N N 14 
+CCU O2 HO2 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CCU SMILES           ACDLabs              10.04 "O=C(O)\C=C/C=C\C(=O)O"                                                  
+CCU SMILES_CANONICAL CACTVS               3.341 "OC(=O)/C=C\C=C/C(O)=O"                                                  
+CCU SMILES           CACTVS               3.341 "OC(=O)C=CC=CC(O)=O"                                                     
+CCU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=C/C(=O)O)/C=C\C(=O)O"                                                
+CCU SMILES           "OpenEye OEToolkits" 1.5.0 "C(=CC(=O)O)C=CC(=O)O"                                                   
+CCU InChI            InChI                1.03  "InChI=1S/C6H6O4/c7-5(8)3-1-2-4-6(9)10/h1-4H,(H,7,8)(H,9,10)/b3-1-,4-2-" 
+CCU InChIKey         InChI                1.03  TXXHDPDFNKHHGW-CCAGOZQPSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CCU "SYSTEMATIC NAME" ACDLabs              10.04 "(2Z,4Z)-hexa-2,4-dienedioic acid" 
+CCU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2Z,4Z)-hexa-2,4-dienedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CCU "Create component"  2005-12-09 RCSB 
+CCU "Modify descriptor" 2011-06-04 RCSB 
+# 

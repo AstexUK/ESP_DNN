@@ -1,0 +1,222 @@
+data_GPC
+# 
+_chem_comp.id                                    GPC 
+_chem_comp.name                                  "2'-FLUOROGUANYLYL-(3'-5')-PHOSPHOCYTIDINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H24 F N8 O11 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        590.413 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GPC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye OEToolkits" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1RDS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GPC N1G  GN1    N 0 1 N N N 26.275 37.320 33.197 -3.215 4.480  4.916 N1G  GPC 1  
+GPC C2G  GC2    C 0 1 N N N 27.383 38.106 33.276 -2.486 4.693  3.723 C2G  GPC 2  
+GPC N2G  GN2    N 0 1 N N N 27.408 38.983 34.275 -2.377 6.001  3.327 N2G  GPC 3  
+GPC N3G  GN3    N 0 1 N N N 28.355 37.939 32.372 -1.947 3.709  3.035 N3G  GPC 4  
+GPC C4G  GC4    C 0 1 Y N N 28.217 36.988 31.399 -2.165 2.496  3.589 C4G  GPC 5  
+GPC C5G  GC5    C 0 1 Y N N 27.079 36.174 31.300 -2.853 2.179  4.736 C5G  GPC 6  
+GPC C6G  GC6    C 0 1 N N N 26.058 36.316 32.270 -3.453 3.231  5.508 C6G  GPC 7  
+GPC O6G  GO6    O 0 1 N N N 24.970 35.774 32.406 -4.083 3.044  6.540 O6G  GPC 8  
+GPC N7G  GN7    N 0 1 Y N N 27.216 35.337 30.249 -2.858 0.837  4.975 N7G  GPC 9  
+GPC C8G  GC8    C 0 1 Y N N 28.414 35.598 29.655 -2.171 0.332  3.970 C8G  GPC 10 
+GPC N9G  GN9    N 0 1 Y N N 29.021 36.613 30.350 -1.728 1.299  3.100 N9G  GPC 11 
+GPC C1D  GC1*   C 0 1 N N R 30.361 37.192 30.044 -0.941 1.072  1.889 C1D  GPC 12 
+GPC C2D  GC2*   C 0 1 N N R 30.266 38.609 29.489 0.562  1.028  2.128 C2D  GPC 13 
+GPC F2D  GF2*   F 0 1 N N N 30.809 38.687 28.212 1.168  1.620  1.058 F2D  GPC 14 
+GPC C3D  GC3*   C 0 1 N N R 30.873 39.414 30.601 0.868  -0.451 2.108 C3D  GPC 15 
+GPC O3D  GO3*   O 0 1 N N N 31.759 40.469 30.051 2.206  -0.725 1.750 O3D  GPC 16 
+GPC C4D  GC4*   C 0 1 N N R 31.718 38.412 31.393 -0.116 -0.946 1.064 C4D  GPC 17 
+GPC O4D  GO4*   O 0 1 N N N 31.040 37.197 31.293 -1.316 -0.188 1.294 O4D  GPC 18 
+GPC C5D  GC5*   C 0 1 N N N 31.683 38.844 32.867 -0.416 -2.431 1.168 C5D  GPC 19 
+GPC O5D  GO5*   O 0 1 N N N 32.474 38.056 33.727 -1.349 -2.782 0.160 O5D  GPC 20 
+GPC PC   CP     P 0 1 N N S 31.101 41.893 29.823 3.420  -0.145 2.650 PC   GPC 21 
+GPC O1C  CO1    O 0 1 N N N 30.901 42.148 28.397 3.417  -0.604 4.080 O1C  GPC 22 
+GPC O2C  CO2    O 0 1 N N N 29.851 41.882 30.633 4.753  -0.555 1.828 O2C  GPC 23 
+GPC O5B  CO5*   O 0 1 N N N 32.063 42.925 30.508 3.351  1.462  2.458 O5B  GPC 24 
+GPC C5X  CC5*   C 0 1 N N N 33.444 43.126 30.080 4.385  2.253  3.015 C5X  GPC 25 
+GPC C4X  CC4*   C 0 1 N N R 33.750 44.635 30.192 4.099  3.717  2.705 C4X  GPC 26 
+GPC O4B  CO4*   O 0 1 N N N 32.824 45.283 31.040 2.854  4.077  3.343 O4B  GPC 27 
+GPC C3X  CC3*   C 0 1 N N S 35.153 45.045 30.568 5.147  4.667  3.269 C3X  GPC 28 
+GPC O3B  CO3*   O 0 1 N N N 35.870 45.856 29.633 5.105  5.872  2.504 O3B  GPC 29 
+GPC C2X  CC2*   C 0 1 N N R 34.928 45.916 31.766 4.629  4.916  4.670 C2X  GPC 30 
+GPC O2B  CO2*   O 0 1 N N N 35.965 46.901 31.791 5.127  6.117  5.221 O2B  GPC 31 
+GPC C1X  CC1*   C 0 1 N N R 33.508 46.460 31.504 3.127  4.953  4.448 C1X  GPC 32 
+GPC N1C  CN1    N 0 1 N N N 32.943 46.841 32.841 2.392  4.500  5.595 N1C  GPC 33 
+GPC CC2  CC2    C 0 1 N N N 32.592 48.142 33.139 1.895  5.399  6.572 CC2  GPC 34 
+GPC O2X  "CO2'" O 0 1 N N N 32.684 49.083 32.375 2.080  6.613  6.469 O2X  GPC 35 
+GPC N3C  CN3    N 0 1 N N N 32.091 48.360 34.404 1.194  4.890  7.653 N3C  GPC 36 
+GPC CC4  CC4    C 0 1 N N N 31.975 47.390 35.333 0.989  3.606  7.780 CC4  GPC 37 
+GPC N4C  CN4    N 0 1 N N N 31.473 47.686 36.540 0.290  3.121  8.862 N4C  GPC 38 
+GPC CC5  CC5    C 0 1 N N N 32.337 46.094 35.043 1.494  2.632  6.777 CC5  GPC 39 
+GPC CC6  CC6    C 0 1 N N N 32.832 45.818 33.770 2.165  3.141  5.745 CC6  GPC 40 
+GPC H1G  GH1    H 0 1 N N N 25.548 37.498 33.889 -3.597 5.298  5.383 H1G  GPC 41 
+GPC H21G GH21   H 0 0 N N N 27.263 38.501 35.162 -2.228 6.190  2.363 H21G GPC 42 
+GPC H22G GH22   H 0 0 N N N 28.239 39.572 34.334 -2.452 6.710  4.019 H22G GPC 43 
+GPC H8G  GH8    H 0 1 N N N 28.820 35.080 28.770 -1.961 -0.718 3.816 H8G  GPC 44 
+GPC H1D  GH1*   H 0 1 N N N 30.887 36.599 29.260 -1.222 1.877  1.203 H1D  GPC 45 
+GPC H2D  GH2*   H 0 1 N N N 29.249 39.009 29.268 0.908  1.544  3.028 H2D  GPC 46 
+GPC H3D  GH3*   H 0 1 N N N 30.095 39.915 31.222 0.656  -0.893 3.088 H3D  GPC 47 
+GPC H4D  GH4*   H 0 1 N N N 32.769 38.348 31.026 0.238  -0.732 0.048 H4D  GPC 48 
+GPC H51G GH51   H 0 0 N N N 30.631 38.883 33.235 -0.845 -2.663 2.146 H51G GPC 49 
+GPC H52G GH52   H 0 0 N N N 31.960 39.920 32.963 0.498  -3.013 1.026 H52G GPC 50 
+GPC HO5G GHO5   H 0 0 N N N 32.452 38.323 34.638 -1.828 -3.566 0.477 HO5G GPC 51 
+GPC HOC2 2HOC   H 0 0 N N N 30.072 41.880 31.557 5.096  -1.470 1.908 HOC2 GPC 52 
+GPC H51C CH51   H 0 0 N N N 33.648 42.715 29.064 4.414  2.098  4.094 H51C GPC 53 
+GPC H52C CH52   H 0 0 N N N 34.170 42.493 30.642 5.339  1.957  2.577 H52C GPC 54 
+GPC H4B  CH4*   H 0 1 N N N 33.647 44.972 29.134 3.967  3.840  1.626 H4B  GPC 55 
+GPC H3B  CH3*   H 0 1 N N N 35.764 44.119 30.677 6.170  4.285  3.235 H3B  GPC 56 
+GPC HO3C CHO3   H 0 0 N N N 36.753 46.114 29.870 4.274  5.851  2.006 HO3C GPC 57 
+GPC H2B  CH2*   H 0 1 N N N 34.976 45.432 32.769 4.910  4.085  5.328 H2B  GPC 58 
+GPC HO2C CHO2   H 0 0 N N N 35.822 47.453 32.551 4.619  6.295  6.031 HO2C GPC 59 
+GPC H1B  CH1*   H 0 1 N N N 33.444 47.327 30.806 2.763  5.956  4.203 H1B  GPC 60 
+GPC H41C CH41   H 0 0 N N N 30.561 48.126 36.414 0.807  2.811  9.649 H41C GPC 61 
+GPC H42C CH42   H 0 0 N N N 31.385 46.952 37.243 -0.699 3.104  8.807 H42C GPC 62 
+GPC H5C  CH5    H 0 1 N N N 32.234 45.303 35.805 1.313  1.573  6.900 H5C  GPC 63 
+GPC H6C  CH6    H 0 1 N N N 33.135 44.793 33.499 2.568  2.501  4.968 H6C  GPC 64 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GPC N1G C2G  SING N N 1  
+GPC N1G C6G  SING N N 2  
+GPC N1G H1G  SING N N 3  
+GPC C2G N2G  SING N N 4  
+GPC C2G N3G  DOUB N N 5  
+GPC N2G H21G SING N N 6  
+GPC N2G H22G SING N N 7  
+GPC N3G C4G  SING N N 8  
+GPC C4G C5G  DOUB Y N 9  
+GPC C4G N9G  SING Y N 10 
+GPC C5G C6G  SING N N 11 
+GPC C5G N7G  SING Y N 12 
+GPC C6G O6G  DOUB N N 13 
+GPC N7G C8G  DOUB Y N 14 
+GPC C8G N9G  SING Y N 15 
+GPC C8G H8G  SING N N 16 
+GPC N9G C1D  SING N N 17 
+GPC C1D C2D  SING N N 18 
+GPC C1D O4D  SING N N 19 
+GPC C1D H1D  SING N N 20 
+GPC C2D F2D  SING N N 21 
+GPC C2D C3D  SING N N 22 
+GPC C2D H2D  SING N N 23 
+GPC C3D O3D  SING N N 24 
+GPC C3D C4D  SING N N 25 
+GPC C3D H3D  SING N N 26 
+GPC O3D PC   SING N N 27 
+GPC C4D O4D  SING N N 28 
+GPC C4D C5D  SING N N 29 
+GPC C4D H4D  SING N N 30 
+GPC C5D O5D  SING N N 31 
+GPC C5D H51G SING N N 32 
+GPC C5D H52G SING N N 33 
+GPC O5D HO5G SING N N 34 
+GPC PC  O1C  DOUB N N 35 
+GPC PC  O2C  SING N N 36 
+GPC PC  O5B  SING N N 37 
+GPC O2C HOC2 SING N N 38 
+GPC O5B C5X  SING N N 39 
+GPC C5X C4X  SING N N 40 
+GPC C5X H51C SING N N 41 
+GPC C5X H52C SING N N 42 
+GPC C4X O4B  SING N N 43 
+GPC C4X C3X  SING N N 44 
+GPC C4X H4B  SING N N 45 
+GPC O4B C1X  SING N N 46 
+GPC C3X O3B  SING N N 47 
+GPC C3X C2X  SING N N 48 
+GPC C3X H3B  SING N N 49 
+GPC O3B HO3C SING N N 50 
+GPC C2X O2B  SING N N 51 
+GPC C2X C1X  SING N N 52 
+GPC C2X H2B  SING N N 53 
+GPC O2B HO2C SING N N 54 
+GPC C1X N1C  SING N N 55 
+GPC C1X H1B  SING N N 56 
+GPC N1C CC2  SING N N 57 
+GPC N1C CC6  SING N N 58 
+GPC CC2 O2X  DOUB N N 59 
+GPC CC2 N3C  SING N N 60 
+GPC N3C CC4  DOUB N N 61 
+GPC CC4 N4C  SING N N 62 
+GPC CC4 CC5  SING N N 63 
+GPC N4C H41C SING N N 64 
+GPC N4C H42C SING N N 65 
+GPC CC5 CC6  DOUB N N 66 
+GPC CC5 H5C  SING N N 67 
+GPC CC6 H6C  SING N N 68 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GPC SMILES           ACDLabs              10.04 "O=C5NC(=Nc1c5ncn1C4OC(CO)C(OP(=O)(O)OCC3OC(N2C(=O)N=C(N)C=C2)C(O)C3O)C4F)N" 
+GPC SMILES_CANONICAL CACTVS               3.341 "NC1=Nc2n(cnc2C(=O)N1)[C@@H]3O[C@H](CO)[C@@H](O[P@](O)(=O)OC[C@H]4O[C@H]([C@H](O)[C@@H]4O)N5C=CC(=NC5=O)N)[C@H]3F" 
+GPC SMILES           CACTVS               3.341 "NC1=Nc2n(cnc2C(=O)N1)[CH]3O[CH](CO)[CH](O[P](O)(=O)OC[CH]4O[CH]([CH](O)[CH]4O)N5C=CC(=NC5=O)N)[CH]3F" 
+GPC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O[P@@](=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=CC(=NC5=O)N)O)O)F)N=C(NC2=O)N" 
+GPC SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1C3C(C(C(O3)CO)OP(=O)(O)OCC4C(C(C(O4)N5C=CC(=NC5=O)N)O)O)F)N=C(NC2=O)N" 
+GPC InChI            InChI                1.03  
+;InChI=1S/C19H24FN8O11P/c20-9-13(6(3-29)37-16(9)28-5-23-10-14(28)25-18(22)26-15(10)32)39-40(34,35)36-4-7-11(30)12(31)17(38-7)27-2-1-8(21)24-19(27)33/h1-2,5-7,9,11-13,16-17,29-31H,3-4H2,(H,34,35)(H2,21,24,33)(H3,22,25,26,32)/t6-,7-,9-,11-,12-,13-,16-,17-/m1/s1
+;
+GPC InChIKey         InChI                1.03  ZSBUMMSBXYRQAK-FOJQSULLSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GPC "SYSTEMATIC NAME" ACDLabs              10.04 
+"(2R,3R,4R,5R)-5-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)-4-fluoro-2-(hydroxymethyl)tetrahydrofuran-3-yl [(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl hydrogen (S)-phosphate (non-preferred name)" 
+GPC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-4-fluoro-2-(hydroxymethyl)oxolan-3-yl] [(2R,3S,4R,5R)-5-(4-amino-2-oxo-pyrimidin-1-yl)-3,4-dihydroxy-oxolan-2-yl]methyl hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GPC "Create component"  1999-07-08 EBI  
+GPC "Modify descriptor" 2011-06-04 RCSB 
+# 

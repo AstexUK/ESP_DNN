@@ -1,0 +1,130 @@
+data_ABI
+# 
+_chem_comp.id                                    ABI 
+_chem_comp.name                                  5-AMIDINO-BENZIMIDAZOLE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H9 N4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        161.184 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ABI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C2K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ABI C1   C1   C 0 1 Y N N 45.355 19.419 52.717 -1.133 0.099  0.000  C1   ABI 1  
+ABI C2   C2   C 0 1 Y N N 44.783 19.063 51.458 -0.718 1.437  0.001  C2   ABI 2  
+ABI C3   C3   C 0 1 Y N N 44.363 20.030 50.514 0.608  1.750  0.001  C3   ABI 3  
+ABI C4   C4   C 0 1 Y N N 44.530 21.335 50.864 1.569  0.732  0.000  C4   ABI 4  
+ABI C5   C5   C 0 1 Y N N 45.068 21.690 52.055 1.159  -0.614 0.000  C5   ABI 5  
+ABI C6   C6   C 0 1 Y N N 45.488 20.791 53.001 -0.189 -0.926 0.005  C6   ABI 6  
+ABI C7   C7   C 0 1 N N N 45.747 18.473 53.652 -2.574 -0.226 -0.001 C7   ABI 7  
+ABI C8   C8   C 0 1 Y N N 44.614 23.419 50.973 3.363  -0.495 -0.001 C8   ABI 8  
+ABI N1   N1   N 0 1 N N N 46.470 18.840 54.663 -2.971 -1.498 -0.001 N1   ABI 9  
+ABI N2   N2   N 1 1 N N N 45.374 17.233 53.492 -3.478 0.753  -0.001 N2   ABI 10 
+ABI N3   N3   N 0 1 Y N N 44.245 22.412 50.191 2.925  0.731  -0.001 N3   ABI 11 
+ABI N4   N4   N 0 1 Y N N 45.110 22.969 52.087 2.319  -1.365 -0.001 N4   ABI 12 
+ABI HC2  HC2  H 0 1 N N N 44.660 17.996 51.204 -1.455 2.226  0.001  HC2  ABI 13 
+ABI HC3  HC3  H 0 1 N N N 43.919 19.774 49.536 0.918  2.784  0.001  HC3  ABI 14 
+ABI HC6  HC6  H 0 1 N N N 45.914 21.156 53.950 -0.508 -1.958 0.011  HC6  ABI 15 
+ABI HC8  HC8  H 0 1 N N N 44.520 24.490 50.728 4.405  -0.780 -0.002 HC8  ABI 16 
+ABI HH11 1HH1 H 0 0 N N N 46.758 18.144 55.350 -3.917 -1.711 -0.002 HH11 ABI 17 
+ABI HH12 2HH1 H 0 0 N N N 45.991 19.599 55.147 -2.313 -2.211 -0.002 HH12 ABI 18 
+ABI HH21 1HH2 H 0 0 N N N 44.805 16.944 52.696 -3.189 1.680  0.000  HH21 ABI 19 
+ABI HH22 2HH2 H 0 0 N N N 45.662 16.537 54.179 -4.424 0.540  -0.005 HH22 ABI 20 
+ABI HN4  HN4  H 0 1 N N N 45.472 23.527 52.859 2.377  -2.333 -0.001 HN4  ABI 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ABI C1 C2   SING Y N 1  
+ABI C1 C6   DOUB Y N 2  
+ABI C1 C7   SING N N 3  
+ABI C2 C3   DOUB Y N 4  
+ABI C2 HC2  SING N N 5  
+ABI C3 C4   SING Y N 6  
+ABI C3 HC3  SING N N 7  
+ABI C4 C5   DOUB Y N 8  
+ABI C4 N3   SING Y N 9  
+ABI C5 C6   SING Y N 10 
+ABI C5 N4   SING Y N 11 
+ABI C6 HC6  SING N N 12 
+ABI C7 N1   SING N N 13 
+ABI C7 N2   DOUB N N 14 
+ABI C8 N3   DOUB Y N 15 
+ABI C8 N4   SING Y N 16 
+ABI C8 HC8  SING N N 17 
+ABI N1 HH11 SING N N 18 
+ABI N1 HH12 SING N N 19 
+ABI N2 HH21 SING N N 20 
+ABI N2 HH22 SING N N 21 
+ABI N4 HN4  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ABI SMILES           ACDLabs              10.04 "n2c1ccc(cc1nc2)\C(=[NH2+])N"                                                  
+ABI SMILES_CANONICAL CACTVS               3.341 "NC(=[NH2+])c1ccc2nc[nH]c2c1"                                                  
+ABI SMILES           CACTVS               3.341 "NC(=[NH2+])c1ccc2nc[nH]c2c1"                                                  
+ABI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc2c(cc1C(=[NH2+])N)[nH]cn2"                                                
+ABI SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc2c(cc1C(=[NH2+])N)[nH]cn2"                                                
+ABI InChI            InChI                1.03  "InChI=1S/C8H8N4/c9-8(10)5-1-2-6-7(3-5)12-4-11-6/h1-4H,(H3,9,10)(H,11,12)/p+1" 
+ABI InChIKey         InChI                1.03  UHGFPMUGEQINGV-UHFFFAOYSA-O                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ABI "SYSTEMATIC NAME" ACDLabs              10.04 "amino(1H-benzimidazol-6-yl)methaniminium"         
+ABI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[amino-(3H-benzimidazol-5-yl)methylidene]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ABI "Create component"  1999-07-29 RCSB 
+ABI "Modify descriptor" 2011-06-04 RCSB 
+# 

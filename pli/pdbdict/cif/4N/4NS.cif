@@ -1,0 +1,126 @@
+data_4NS
+# 
+_chem_comp.id                                    4NS 
+_chem_comp.name                                  "4-nitrophenyl sulfate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 N O6 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "4-nitrophenyl hydrogen sulfate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-02-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        219.172 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4NS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZYU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4NS O6 O6 O 0  1 N N N -34.394 -47.577 12.518 4.271  -1.105 -0.286 O6 4NS 1  
+4NS N  N  N 1  1 N N N -34.536 -46.370 12.622 3.692  -0.036 -0.210 N  4NS 2  
+4NS O5 O5 O -1 1 N N N -35.657 -45.899 12.742 4.301  1.001  -0.406 O5 4NS 3  
+4NS C4 C4 C 0  1 Y N N -33.417 -45.524 12.615 2.249  0.003  0.114  C4 4NS 4  
+4NS C5 C5 C 0  1 Y N N -33.590 -44.152 12.842 1.558  -1.175 0.331  C5 4NS 5  
+4NS C6 C6 C 0  1 Y N N -32.484 -43.309 12.843 0.211  -1.142 0.633  C6 4NS 6  
+4NS C3 C3 C 0  1 Y N N -32.142 -46.056 12.390 1.594  1.217  0.205  C3 4NS 7  
+4NS C2 C2 C 0  1 Y N N -31.038 -45.207 12.393 0.247  1.256  0.509  C2 4NS 8  
+4NS C1 C1 C 0  1 Y N N -31.213 -43.836 12.614 -0.449 0.075  0.720  C1 4NS 9  
+4NS O1 O1 O 0  1 N N N -30.134 -42.989 12.608 -1.775 0.111  1.019  O1 4NS 10 
+4NS S  S  S 0  1 N N N -28.904 -43.330 11.584 -2.685 0.065  -0.200 S  4NS 11 
+4NS O2 O2 O 0  1 N N N -28.131 -42.106 11.305 -4.002 0.312  0.274  O2 4NS 12 
+4NS O3 O3 O 0  1 N N N -29.467 -43.844 10.312 -2.058 0.857  -1.199 O3 4NS 13 
+4NS O4 O4 O 0  1 N N N -28.103 -44.394 12.226 -2.675 -1.366 -0.716 O4 4NS 14 
+4NS H5 H5 H 0  1 N N N -34.578 -43.751 13.015 2.073  -2.122 0.263  H5 4NS 15 
+4NS H6 H6 H 0  1 N N N -32.609 -42.251 13.020 -0.328 -2.062 0.802  H6 4NS 16 
+4NS H3 H3 H 0  1 N N N -32.016 -47.114 12.216 2.137  2.136  0.041  H3 4NS 17 
+4NS H2 H2 H 0  1 N N N -30.048 -45.606 12.225 -0.263 2.205  0.580  H2 4NS 18 
+4NS H4 H4 H 0  1 N N N -27.931 -45.085 11.597 -3.228 -1.507 -1.497 H4 4NS 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4NS O3 S  DOUB N N 1  
+4NS O2 S  DOUB N N 2  
+4NS S  O4 SING N N 3  
+4NS S  O1 SING N N 4  
+4NS C3 C2 DOUB Y N 5  
+4NS C3 C4 SING Y N 6  
+4NS C2 C1 SING Y N 7  
+4NS O6 N  DOUB N N 8  
+4NS O1 C1 SING N N 9  
+4NS C1 C6 DOUB Y N 10 
+4NS C4 N  SING N N 11 
+4NS C4 C5 DOUB Y N 12 
+4NS N  O5 SING N N 13 
+4NS C5 C6 SING Y N 14 
+4NS C5 H5 SING N N 15 
+4NS C6 H6 SING N N 16 
+4NS C3 H3 SING N N 17 
+4NS C2 H2 SING N N 18 
+4NS O4 H4 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4NS SMILES           ACDLabs              10.04 "O=S(=O)(Oc1ccc(cc1)[N+]([O-])=O)O"                                        
+4NS SMILES_CANONICAL CACTVS               3.341 "O[S](=O)(=O)Oc1ccc(cc1)[N+]([O-])=O"                                      
+4NS SMILES           CACTVS               3.341 "O[S](=O)(=O)Oc1ccc(cc1)[N+]([O-])=O"                                      
+4NS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1[N+](=O)[O-])OS(=O)(=O)O"                                        
+4NS SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1[N+](=O)[O-])OS(=O)(=O)O"                                        
+4NS InChI            InChI                1.03  "InChI=1S/C6H5NO6S/c8-7(9)5-1-3-6(4-2-5)13-14(10,11)12/h1-4H,(H,10,11,12)" 
+4NS InChIKey         InChI                1.03  JBGHTSSFSSUKLR-UHFFFAOYSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4NS "SYSTEMATIC NAME" ACDLabs              10.04 "4-nitrophenyl hydrogen sulfate"   
+4NS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4-nitrophenyl) hydrogen sulfate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4NS "Create component"     2009-02-03 PDBJ 
+4NS "Modify aromatic_flag" 2011-06-04 RCSB 
+4NS "Modify descriptor"    2011-06-04 RCSB 
+# 

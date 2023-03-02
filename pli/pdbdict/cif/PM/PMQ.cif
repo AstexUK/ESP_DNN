@@ -1,0 +1,127 @@
+data_PMQ
+# 
+_chem_comp.id                                    PMQ 
+_chem_comp.name                                  "benzylcarbamic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H9 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-03-15 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        151.163 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PMQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4AMZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PMQ C17  C17  C 0 1 N N N 42.087 37.575 85.420 -2.744 0.002  -0.136 C17  PMQ 1  
+PMQ O18  O18  O 0 1 N N N 42.520 37.428 84.294 -3.217 0.002  0.984  O18  PMQ 2  
+PMQ N19  N19  N 0 1 N N N 42.816 38.107 86.418 -1.407 0.001  -0.303 N19  PMQ 3  
+PMQ C20  C20  C 0 1 N N N 44.215 38.519 86.362 -0.523 0.001  0.865  C20  PMQ 4  
+PMQ C21  C21  C 0 1 Y N N 44.911 37.407 87.113 0.913  0.000  0.407  C21  PMQ 5  
+PMQ C22  C22  C 0 1 Y N N 45.460 37.650 88.384 1.572  1.197  0.198  C22  PMQ 6  
+PMQ C23  C23  C 0 1 Y N N 46.071 36.624 89.119 2.889  1.197  -0.222 C23  PMQ 7  
+PMQ C24  C24  C 0 1 Y N N 46.146 35.338 88.589 3.548  -0.001 -0.431 C24  PMQ 8  
+PMQ C25  C25  C 0 1 Y N N 45.592 35.092 87.326 2.889  -1.197 -0.221 C25  PMQ 9  
+PMQ C26  C26  C 0 1 Y N N 44.968 36.112 86.592 1.573  -1.197 0.203  C26  PMQ 10 
+PMQ HN19 HN19 H 0 0 N N N 42.349 38.234 87.293 -1.030 0.001  -1.197 HN19 PMQ 11 
+PMQ H20  H20  H 0 1 N N N 44.570 38.581 85.323 -0.713 0.891  1.465  H20  PMQ 12 
+PMQ H20A H20A H 0 0 N N N 44.364 39.489 86.859 -0.713 -0.889 1.464  H20A PMQ 13 
+PMQ H22  H22  H 0 1 N N N 45.410 38.645 88.802 1.058  2.133  0.361  H22  PMQ 14 
+PMQ H23  H23  H 0 1 N N N 46.483 36.831 90.096 3.404  2.132  -0.386 H23  PMQ 15 
+PMQ H24  H24  H 0 1 N N N 46.624 34.543 89.143 4.576  -0.001 -0.760 H24  PMQ 16 
+PMQ H25  H25  H 0 1 N N N 45.646 34.097 86.909 3.403  -2.133 -0.385 H25  PMQ 17 
+PMQ H26  H26  H 0 1 N N N 44.533 35.897 85.627 1.060  -2.132 0.371  H26  PMQ 18 
+PMQ OXT  OXT  O 0 1 N Y N ?      ?      ?      -3.557 -0.004 -1.209 OXT  PMQ 19 
+PMQ HXT  HXT  H 0 1 N Y N ?      ?      ?      -4.509 -0.007 -1.039 HXT  PMQ 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PMQ C17 O18  DOUB N N 1  
+PMQ C17 N19  SING N N 2  
+PMQ N19 C20  SING N N 3  
+PMQ C20 C21  SING N N 4  
+PMQ C21 C22  DOUB Y N 5  
+PMQ C21 C26  SING Y N 6  
+PMQ C22 C23  SING Y N 7  
+PMQ C23 C24  DOUB Y N 8  
+PMQ C24 C25  SING Y N 9  
+PMQ C25 C26  DOUB Y N 10 
+PMQ N19 HN19 SING N N 11 
+PMQ C20 H20  SING N N 12 
+PMQ C20 H20A SING N N 13 
+PMQ C22 H22  SING N N 14 
+PMQ C23 H23  SING N N 15 
+PMQ C24 H24  SING N N 16 
+PMQ C25 H25  SING N N 17 
+PMQ C26 H26  SING N N 18 
+PMQ C17 OXT  SING N N 19 
+PMQ OXT HXT  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PMQ SMILES           ACDLabs              12.01 "O=C(O)NCc1ccccc1"                                                  
+PMQ InChI            InChI                1.03  "InChI=1S/C8H9NO2/c10-8(11)9-6-7-4-2-1-3-5-7/h1-5,9H,6H2,(H,10,11)" 
+PMQ InChIKey         InChI                1.03  RRIWSQXXBIFKQM-UHFFFAOYSA-N                                         
+PMQ SMILES_CANONICAL CACTVS               3.385 "OC(=O)NCc1ccccc1"                                                  
+PMQ SMILES           CACTVS               3.385 "OC(=O)NCc1ccccc1"                                                  
+PMQ SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1ccc(cc1)CNC(=O)O"                                                
+PMQ SMILES           "OpenEye OEToolkits" 1.9.2 "c1ccc(cc1)CNC(=O)O"                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PMQ "SYSTEMATIC NAME" ACDLabs              12.01 "benzylcarbamic acid"         
+PMQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "(phenylmethyl)carbamic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PMQ "Create component"  2012-03-15 EBI  
+PMQ "Modify descriptor" 2014-09-05 RCSB 
+# 

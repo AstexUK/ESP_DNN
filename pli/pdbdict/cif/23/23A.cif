@@ -1,0 +1,119 @@
+data_23A
+# 
+_chem_comp.id                                    23A 
+_chem_comp.name                                  2,3-DIHYDROXYBENZALDEHYDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-08-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        138.121 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     23A 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2DVX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+23A C7  C7  C 0 1 N N N 55.952 45.027 60.302 -0.371 0.121  2.638  C7  23A 1  
+23A O8  O8  O 0 1 N N N 55.004 45.854 60.319 -0.483 0.143  3.865  O8  23A 2  
+23A C1  C1  C 0 1 Y N N 55.686 43.674 60.588 0.764  -0.484 1.955  C1  23A 3  
+23A C6  C6  C 0 1 Y N N 54.332 43.311 60.882 0.807  -0.463 0.561  C6  23A 4  
+23A C5  C5  C 0 1 Y N N 53.996 41.955 61.183 1.885  -1.036 -0.112 C5  23A 5  
+23A C2  C2  C 0 1 Y N N 56.701 42.682 60.596 1.800  -1.079 2.676  C2  23A 6  
+23A O2  O2  O 0 1 N N N 58.007 42.947 60.329 1.765  -1.102 4.039  O2  23A 7  
+23A C3  C3  C 0 1 Y N N 56.348 41.329 60.899 2.878  -1.652 2.002  C3  23A 8  
+23A C4  C4  C 0 1 Y N N 55.023 40.994 61.183 2.921  -1.631 0.608  C4  23A 9  
+23A O3  O3  O 0 1 N N N 57.279 40.378 60.915 3.897  -2.234 2.694  O3  23A 10 
+23A H7  H7  H 0 1 N N N 56.956 45.350 60.071 -1.162 0.578  2.005  H7  23A 11 
+23A H6  H6  H 0 1 N N N 53.560 44.067 60.876 0.005  -0.003 -0.011 H6  23A 12 
+23A H5  H5  H 0 1 N N N 52.977 41.675 61.405 1.918  -1.020 -1.198 H5  23A 13 
+23A HO2 HO2 H 0 1 N N N 58.132 43.009 59.389 1.070  -0.510 4.365  HO2 23A 14 
+23A H4  H4  H 0 1 N N N 54.779 39.967 61.409 3.759  -2.075 0.078  H4  23A 15 
+23A HO3 HO3 H 0 1 N N N 57.501 40.136 60.023 3.752  -2.138 3.648  HO3 23A 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+23A C7 O8  DOUB N N 1  
+23A C7 C1  SING N N 2  
+23A C7 H7  SING N N 3  
+23A C1 C6  DOUB Y N 4  
+23A C1 C2  SING Y N 5  
+23A C6 C5  SING Y N 6  
+23A C6 H6  SING N N 7  
+23A C5 C4  DOUB Y N 8  
+23A C5 H5  SING N N 9  
+23A C2 O2  SING N N 10 
+23A C2 C3  DOUB Y N 11 
+23A O2 HO2 SING N N 12 
+23A C3 C4  SING Y N 13 
+23A C3 O3  SING N N 14 
+23A C4 H4  SING N N 15 
+23A O3 HO3 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+23A SMILES           ACDLabs              10.04 "O=Cc1cccc(O)c1O"                                    
+23A SMILES_CANONICAL CACTVS               3.341 "Oc1cccc(C=O)c1O"                                    
+23A SMILES           CACTVS               3.341 "Oc1cccc(C=O)c1O"                                    
+23A SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)O)O)C=O"                                
+23A SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)O)O)C=O"                                
+23A InChI            InChI                1.03  "InChI=1S/C7H6O3/c8-4-5-2-1-3-6(9)7(5)10/h1-4,9-10H" 
+23A InChIKey         InChI                1.03  IXWOUPGDGMCKGT-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+23A "SYSTEMATIC NAME" ACDLabs              10.04 2,3-dihydroxybenzaldehyde 
+23A "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,3-dihydroxybenzaldehyde 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+23A "Create component"  2006-08-04 RCSB 
+23A "Modify descriptor" 2011-06-04 RCSB 
+# 

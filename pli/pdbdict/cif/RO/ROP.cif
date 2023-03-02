@@ -1,0 +1,110 @@
+data_ROP
+# 
+_chem_comp.id                                    ROP 
+_chem_comp.name                                  PROPIONAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-03-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        73.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ROP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1I8N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ROP CA   CA   C 0 1 N N N 66.235 -11.817 129.898 -0.046 0.000  1.977  CA   ROP 1  
+ROP CB   CB   C 0 1 N N N 66.422 -10.659 128.905 0.833  0.000  0.726  CB   ROP 2  
+ROP CG   CG   C 0 1 N N N 66.557 -11.139 127.444 -0.038 0.000  -0.502 CG   ROP 3  
+ROP OD1  OD1  O 0 1 N N N 65.815 -11.997 126.976 -1.246 0.000  -0.388 OD1  ROP 4  
+ROP ND2  ND2  N 0 1 N N N 67.488 -10.565 126.731 0.522  0.000  -1.727 ND2  ROP 5  
+ROP HCA1 1HCA H 0 0 N N N 66.137 -11.470 130.953 0.584  0.000  2.866  HCA1 ROP 6  
+ROP HCA2 2HCA H 0 0 N N N 65.369 -12.457 129.606 -0.676 0.890  1.979  HCA2 ROP 7  
+ROP HCA3 3HCA H 0 0 N N N 67.055 -12.565 129.797 -0.676 -0.890 1.979  HCA3 ROP 8  
+ROP HCB1 1HCB H 0 0 N N N 65.601 -9.910  129.005 1.463  0.890  0.725  HCB1 ROP 9  
+ROP HCB2 2HCB H 0 0 N N N 67.287 -10.019 129.196 1.463  -0.890 0.725  HCB2 ROP 10 
+ROP HND1 1HND H 0 0 N N N 68.104 -9.851  127.120 -0.039 0.000  -2.518 HND1 ROP 11 
+ROP HND2 2HND H 0 0 N N N 67.577 -10.882 125.765 1.488  0.000  -1.818 HND2 ROP 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ROP CA  CB   SING N N 1  
+ROP CA  HCA1 SING N N 2  
+ROP CA  HCA2 SING N N 3  
+ROP CA  HCA3 SING N N 4  
+ROP CB  CG   SING N N 5  
+ROP CB  HCB1 SING N N 6  
+ROP CB  HCB2 SING N N 7  
+ROP CG  OD1  DOUB N N 8  
+ROP CG  ND2  SING N N 9  
+ROP ND2 HND1 SING N N 10 
+ROP ND2 HND2 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ROP SMILES           ACDLabs              10.04 "O=C(N)CC"                                     
+ROP SMILES_CANONICAL CACTVS               3.341 "CCC(N)=O"                                     
+ROP SMILES           CACTVS               3.341 "CCC(N)=O"                                     
+ROP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCC(=O)N"                                     
+ROP SMILES           "OpenEye OEToolkits" 1.5.0 "CCC(=O)N"                                     
+ROP InChI            InChI                1.03  "InChI=1S/C3H7NO/c1-2-3(4)5/h2H2,1H3,(H2,4,5)" 
+ROP InChIKey         InChI                1.03  QLNJFJADRCOGBJ-UHFFFAOYSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ROP "SYSTEMATIC NAME" ACDLabs              10.04 propanamide 
+ROP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 propanamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ROP "Create component"  2001-03-23 RCSB 
+ROP "Modify descriptor" 2011-06-04 RCSB 
+# 

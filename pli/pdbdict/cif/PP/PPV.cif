@@ -1,0 +1,112 @@
+data_PPV
+# 
+_chem_comp.id                                    PPV 
+_chem_comp.name                                  PYROPHOSPHATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H4 O7 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-11-10 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        177.975 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PPV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XSP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PPV O11 O11 O 0 1 N N N 21.057 23.552 14.539 0.336  -0.912 2.628  O11 PPV 1  
+PPV P1  P1  P 0 1 N N N 20.612 22.214 15.224 0.062  -0.056 1.292  P1  PPV 2  
+PPV O21 O21 O 0 1 N N N 21.852 21.487 15.833 -1.472 0.428  1.270  O21 PPV 3  
+PPV O31 O31 O 0 1 N N N 19.829 21.437 14.196 0.954  1.124  1.272  O31 PPV 4  
+PPV OPP OPP O 0 1 N N N 19.769 22.757 16.399 0.355  -0.971 0.000  OPP PPV 5  
+PPV P2  P2  P 0 1 N N N 18.419 23.582 16.460 0.062  -0.056 -1.292 P2  PPV 6  
+PPV O12 O12 O 0 1 N N N 18.796 24.983 16.274 0.336  -0.912 -2.628 O12 PPV 7  
+PPV O22 O22 O 0 1 N N N 17.497 23.020 15.448 0.954  1.124  -1.272 O22 PPV 8  
+PPV O32 O32 O 0 1 N N N 18.094 23.195 17.941 -1.472 0.428  -1.270 O32 PPV 9  
+PPV H11 H11 H 0 1 N N N 20.302 23.994 14.168 0.150  -0.329 3.377  H11 PPV 10 
+PPV H21 H21 H 0 1 N N N 21.582 20.676 16.248 -2.017 -0.370 1.284  H21 PPV 11 
+PPV H12 H12 H 0 1 N N N 17.986 25.478 16.311 0.150  -0.329 -3.377 H12 PPV 12 
+PPV H32 H32 H 0 1 N N N 17.284 23.690 17.978 -2.017 -0.370 -1.284 H32 PPV 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PPV O11 P1  SING N N 1  
+PPV O11 H11 SING N N 2  
+PPV P1  O21 SING N N 3  
+PPV P1  O31 DOUB N N 4  
+PPV P1  OPP SING N N 5  
+PPV O21 H21 SING N N 6  
+PPV OPP P2  SING N N 7  
+PPV P2  O12 SING N N 8  
+PPV P2  O22 DOUB N N 9  
+PPV P2  O32 SING N N 10 
+PPV O12 H12 SING N N 11 
+PPV O32 H32 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PPV SMILES           ACDLabs              10.04 "O=P(O)(O)OP(=O)(O)O"                                      
+PPV SMILES_CANONICAL CACTVS               3.341 "O[P](O)(=O)O[P](O)(O)=O"                                  
+PPV SMILES           CACTVS               3.341 "O[P](O)(=O)O[P](O)(O)=O"                                  
+PPV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "OP(=O)(O)OP(=O)(O)O"                                      
+PPV SMILES           "OpenEye OEToolkits" 1.5.0 "OP(=O)(O)OP(=O)(O)O"                                      
+PPV InChI            InChI                1.03  "InChI=1S/H4O7P2/c1-8(2,3)7-9(4,5)6/h(H2,1,2,3)(H2,4,5,6)" 
+PPV InChIKey         InChI                1.03  XPPKVPWEQAFLFU-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PPV "SYSTEMATIC NAME" ACDLabs              10.04 "diphosphoric acid"              
+PPV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phosphono dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PPV "Create component"  2004-11-10 RCSB 
+PPV "Modify descriptor" 2011-06-04 RCSB 
+# 

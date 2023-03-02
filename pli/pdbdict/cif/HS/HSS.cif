@@ -1,0 +1,199 @@
+data_HSS
+# 
+_chem_comp.id                                    HSS 
+_chem_comp.name                                  "5'-O-[(L-HISTIDYLAMINO)SULFONYL]ADENOSINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H21 N9 O7 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "5'-O-[N-(L-HISTIDYL)SULFAMOYL]ADENOSINE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-05-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        483.459 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HSS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HSS C4     C4   C 0 1 Y N N -0.061 41.146 165.380 -4.213 -1.128 -0.249 C4     HSS 1  
+HSS C5     C5   C 0 1 Y N N -0.943 41.328 164.323 -3.856 -2.487 -0.254 C5     HSS 2  
+HSS C6     C6   C 0 1 Y N N -1.907 42.321 164.431 -4.881 -3.442 -0.366 C6     HSS 3  
+HSS C8     C8   C 0 1 Y N N 0.479  39.803 163.784 -2.026 -1.339 -0.068 C8     HSS 4  
+HSS N1     N1   N 0 1 Y N N -1.952 43.058 165.550 -6.136 -3.016 -0.462 N1     HSS 5  
+HSS N3     N3   N 0 1 Y N N -0.171 41.916 166.471 -5.496 -0.797 -0.354 N3     HSS 6  
+HSS N11    N11  N 0 1 Y N N 9.466  34.650 159.971 5.741  -3.338 -0.195 N11    HSS 7  
+HSS CE1    CE1  C 0 1 Y N N 10.726 34.624 159.547 6.158  -4.195 0.761  CE1    HSS 8  
+HSS N12    N12  N 0 1 Y N N 11.280 35.799 159.835 6.127  -3.583 1.914  N12    HSS 9  
+HSS CD2    CD2  C 0 1 Y N N 10.364 36.550 160.439 5.694  -2.327 1.736  CD2    HSS 10 
+HSS CG     CG   C 0 1 Y N N 9.242  35.841 160.521 5.447  -2.153 0.423  CG     HSS 11 
+HSS CB     CB   C 0 1 N N N 7.912  36.326 161.098 4.945  -0.895 -0.237 CB     HSS 12 
+HSS CA     CA   C 0 1 N N S 6.924  36.687 159.986 3.418  -0.850 -0.153 CA     HSS 13 
+HSS N      N    N 0 1 N N N 7.448  37.842 159.243 2.851  -1.954 -0.939 N      HSS 14 
+HSS C      C    C 0 1 N N N 5.576  37.041 160.619 2.923  0.463  -0.703 C      HSS 15 
+HSS O      O    O 0 1 N N N 5.096  38.159 160.430 2.488  0.522  -1.834 O      HSS 16 
+HSS N1S    N1S  N 0 1 N N N 5.031  36.116 161.408 2.964  1.572  0.062  N1S    HSS 17 
+HSS S      S    S 0 1 N N N 3.493  36.381 161.895 2.421  3.015  -0.543 S      HSS 18 
+HSS O2S    O2S  O 0 1 N N N 2.605  36.872 160.787 2.563  3.967  0.502  O2S    HSS 19 
+HSS O3S    O3S  O 0 1 N N N 2.937  35.439 162.918 3.023  3.168  -1.821 O3S    HSS 20 
+HSS "O5'"  O5*  O 0 1 N N N 3.559  37.562 162.702 0.926  2.867  -0.787 "O5'"  HSS 21 
+HSS "C5'"  C5*  C 0 1 N N N 4.302  37.570 163.925 0.136  2.895  0.403  "C5'"  HSS 22 
+HSS "C4'"  C4*  C 0 1 N N R 3.540  38.194 165.099 -1.342 2.738  0.040  "C4'"  HSS 23 
+HSS "O4'"  O4*  O 0 1 N N N 3.053  39.524 164.857 -1.576 1.426  -0.500 "O4'"  HSS 24 
+HSS "C3'"  C3*  C 0 1 N N S 2.280  37.420 165.473 -2.210 2.875  1.305  "C3'"  HSS 25 
+HSS "O3'"  O3*  O 0 1 N N N 2.677  36.245 166.184 -3.119 3.970  1.172  "O3'"  HSS 26 
+HSS "C2'"  C2*  C 0 1 N N R 1.682  38.420 166.462 -2.983 1.535  1.381  "C2'"  HSS 27 
+HSS "O2'"  O2*  O 0 1 N N N 2.367  38.355 167.715 -4.341 1.752  1.768  "O2'"  HSS 28 
+HSS "C1'"  C1*  C 0 1 N N R 1.979  39.762 165.789 -2.899 1.028  -0.081 "C1'"  HSS 29 
+HSS N9     N9   N 0 1 Y N N 0.804  40.209 165.009 -3.039 -0.429 -0.131 N9     HSS 30 
+HSS N7     N7   N 0 1 Y N N -0.586 40.480 163.362 -2.507 -2.546 -0.141 N7     HSS 31 
+HSS C2     C2   C 0 1 Y N N -1.103 42.850 166.540 -6.423 -1.727 -0.452 C2     HSS 32 
+HSS N6     N6   N 0 1 N N N -2.748 42.569 163.431 -4.590 -4.795 -0.378 N6     HSS 33 
+HSS H8     H8   H 0 1 N N N 0.999  39.042 163.220 -0.978 -1.095 0.027  H8     HSS 34 
+HSS HN11   HN11 H 0 0 N N N 8.803  33.906 159.891 5.668  -3.525 -1.144 HN11   HSS 35 
+HSS HE1    HE1  H 0 1 N N N 11.214 33.795 159.055 6.465  -5.218 0.599  HE1    HSS 36 
+HSS HD2    HD2  H 0 1 N N N 10.506 37.558 160.799 5.566  -1.584 2.510  HD2    HSS 37 
+HSS HB1    1HB  H 0 1 N N N 7.478  35.525 161.714 5.362  -0.026 0.271  HB1    HSS 38 
+HSS HB2    2HB  H 0 1 N N N 8.101  37.226 161.702 5.251  -0.886 -1.283 HB2    HSS 39 
+HSS HA     HA   H 0 1 N N N 6.792  35.839 159.297 3.108  -0.948 0.887  HA     HSS 40 
+HSS HN1    1HN  H 0 1 N N N 7.567  38.614 159.867 1.847  -1.985 -0.847 HN1    HSS 41 
+HSS HN2    2HN  H 0 1 N N N 8.330  37.604 158.836 3.124  -1.886 -1.908 HN2    HSS 42 
+HSS HN1S   HN1S H 0 0 N N N 5.537  35.300 161.688 3.312  1.526  0.966  HN1S   HSS 43 
+HSS "H5'1" 1H5* H 0 0 N N N 4.542  36.529 164.187 0.438  2.078  1.059  "H5'1" HSS 44 
+HSS "H5'2" 2H5* H 0 0 N N N 5.200  38.183 163.757 0.285  3.845  0.916  "H5'2" HSS 45 
+HSS "H4'"  H4*  H 0 1 N N N 4.305  38.181 165.889 -1.625 3.495  -0.691 "H4'"  HSS 46 
+HSS "H3'"  H3*  H 0 1 N N N 1.625  37.108 164.646 -1.582 3.006  2.186  "H3'"  HSS 47 
+HSS "HO3'" HO3* H 0 0 N N N 2.765  35.521 165.576 -3.691 4.102  1.941  "HO3'" HSS 48 
+HSS "H2'"  H2*  H 0 1 N N N 0.617  38.243 166.672 -2.491 0.841  2.063  "H2'"  HSS 49 
+HSS "HO2'" HO2* H 0 0 N N N 3.305  38.341 167.563 -4.442 2.153  2.642  "HO2'" HSS 50 
+HSS "H1'"  H1*  H 0 1 N N N 2.229  40.522 166.543 -3.658 1.509  -0.698 "H1'"  HSS 51 
+HSS H2     H2   H 0 1 N N N -1.172 43.459 167.429 -7.457 -1.424 -0.533 H2     HSS 52 
+HSS HN61   1HN6 H 0 0 N N N -3.681 42.631 163.787 -3.670 -5.094 -0.308 HN61   HSS 53 
+HSS HN62   2HN6 H 0 0 N N N -2.500 43.433 162.994 -5.306 -5.444 -0.456 HN62   HSS 54 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HSS C4    C5     SING Y N 1  
+HSS C4    N9     SING Y N 2  
+HSS C4    N3     DOUB Y N 3  
+HSS C5    N7     SING Y N 4  
+HSS C5    C6     DOUB Y N 5  
+HSS C6    N6     SING N N 6  
+HSS C6    N1     SING Y N 7  
+HSS C8    N7     DOUB Y N 8  
+HSS C8    N9     SING Y N 9  
+HSS C8    H8     SING N N 10 
+HSS N1    C2     DOUB Y N 11 
+HSS N3    C2     SING Y N 12 
+HSS N11   CE1    SING Y N 13 
+HSS N11   CG     SING Y N 14 
+HSS N11   HN11   SING N N 15 
+HSS CE1   N12    DOUB Y N 16 
+HSS CE1   HE1    SING N N 17 
+HSS N12   CD2    SING Y N 18 
+HSS CD2   CG     DOUB Y N 19 
+HSS CD2   HD2    SING N N 20 
+HSS CG    CB     SING N N 21 
+HSS CB    CA     SING N N 22 
+HSS CB    HB1    SING N N 23 
+HSS CB    HB2    SING N N 24 
+HSS CA    N      SING N N 25 
+HSS CA    C      SING N N 26 
+HSS CA    HA     SING N N 27 
+HSS N     HN1    SING N N 28 
+HSS N     HN2    SING N N 29 
+HSS C     O      DOUB N N 30 
+HSS C     N1S    SING N N 31 
+HSS N1S   S      SING N N 32 
+HSS N1S   HN1S   SING N N 33 
+HSS S     O2S    DOUB N N 34 
+HSS S     "O5'"  SING N N 35 
+HSS S     O3S    DOUB N N 36 
+HSS "O5'" "C5'"  SING N N 37 
+HSS "C5'" "C4'"  SING N N 38 
+HSS "C5'" "H5'1" SING N N 39 
+HSS "C5'" "H5'2" SING N N 40 
+HSS "C4'" "O4'"  SING N N 41 
+HSS "C4'" "C3'"  SING N N 42 
+HSS "C4'" "H4'"  SING N N 43 
+HSS "O4'" "C1'"  SING N N 44 
+HSS "C3'" "O3'"  SING N N 45 
+HSS "C3'" "C2'"  SING N N 46 
+HSS "C3'" "H3'"  SING N N 47 
+HSS "O3'" "HO3'" SING N N 48 
+HSS "C2'" "C1'"  SING N N 49 
+HSS "C2'" "O2'"  SING N N 50 
+HSS "C2'" "H2'"  SING N N 51 
+HSS "O2'" "HO2'" SING N N 52 
+HSS "C1'" N9     SING N N 53 
+HSS "C1'" "H1'"  SING N N 54 
+HSS C2    H2     SING N N 55 
+HSS N6    HN61   SING N N 56 
+HSS N6    HN62   SING N N 57 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HSS SMILES           ACDLabs              10.04 "O=C(NS(=O)(=O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O)C(N)Cc4cncn4" 
+HSS SMILES_CANONICAL CACTVS               3.341 "N[C@@H](Cc1[nH]cnc1)C(=O)N[S](=O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n3cnc4c(N)ncnc34" 
+HSS SMILES           CACTVS               3.341 "N[CH](Cc1[nH]cnc1)C(=O)N[S](=O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)n3cnc4c(N)ncnc34" 
+HSS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c([nH]cn1)C[C@@H](C(=O)NS(=O)(=O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3ncnc4N)O)O)N" 
+HSS SMILES           "OpenEye OEToolkits" 1.5.0 "c1c([nH]cn1)CC(C(=O)NS(=O)(=O)OCC2C(C(C(O2)n3cnc4c3ncnc4N)O)O)N" 
+HSS InChI            InChI                1.03  
+"InChI=1S/C16H21N9O7S/c17-8(1-7-2-19-4-20-7)15(28)24-33(29,30)31-3-9-11(26)12(27)16(32-9)25-6-23-10-13(18)21-5-22-14(10)25/h2,4-6,8-9,11-12,16,26-27H,1,3,17H2,(H,19,20)(H,24,28)(H2,18,21,22)/t8-,9+,11+,12+,16+/m0/s1" 
+HSS InChIKey         InChI                1.03  WRXPXUSZYDNAQP-LEJQEAHTSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HSS "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-(L-histidylsulfamoyl)adenosine"                                                                                           
+HSS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl N-[(2S)-2-amino-3-(3H-imidazol-4-yl)propanoyl]sulfamate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HSS "Create component"  2007-05-25 RCSB 
+HSS "Modify descriptor" 2011-06-04 RCSB 
+# 

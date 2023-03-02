@@ -1,0 +1,109 @@
+data_CPT
+# 
+_chem_comp.id                                    CPT 
+_chem_comp.name                                  Cisplatin 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAD 
+_chem_comp.formula                               "Cl2 H6 N2 Pt" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "diammine(dichloro)platinum" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2015-07-08 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        300.045 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CPT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1A2E 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CPT PT1 PT1 PT 0 0 N N N 9.157  7.362 35.129 ? ? ? PT1 CPT 1  
+CPT N1  N1  N  0 1 N Y N 9.603  6.346 33.453 ? ? ? N1  CPT 2  
+CPT N2  N2  N  0 1 N Y N 7.233  7.331 34.594 ? ? ? N2  CPT 3  
+CPT H11 H11 H  0 1 N Y N 10.589 6.184 33.413 ? ? ? H11 CPT 4  
+CPT H12 H12 H  0 1 N Y N 9.121  5.470 33.456 ? ? ? H12 CPT 5  
+CPT H21 H21 H  0 1 N Y N 6.686  7.802 35.286 ? ? ? H21 CPT 6  
+CPT H22 H22 H  0 1 N Y N 7.125  7.792 33.713 ? ? ? H22 CPT 7  
+CPT CL2 CL2 CL 0 0 N Y N 9.080  7.948 36.213 ? ? ? CL2 CPT 8  
+CPT CL1 CL1 CL 0 0 N Y N 10.583 7.390 35.485 ? ? ? CL1 CPT 9  
+CPT H13 H13 H  0 1 N Y N 9.321  6.879 32.655 ? ? ? H13 CPT 10 
+CPT H23 H23 H  0 1 N Y N 6.925  6.383 34.514 ? ? ? H23 CPT 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CPT PT1 N1  SING N N 1  
+CPT PT1 N2  SING N N 2  
+CPT N1  H11 SING N N 3  
+CPT N1  H12 SING N N 4  
+CPT N1  H13 SING N N 5  
+CPT N2  H21 SING N N 6  
+CPT N2  H22 SING N N 7  
+CPT N2  H23 SING N N 8  
+CPT CL2 PT1 SING N N 9  
+CPT CL1 PT1 SING N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CPT SMILES           ACDLabs              12.01 "[Pt](N)(N)(Cl)Cl"                             
+CPT InChI            InChI                1.03  InChI=1S/2ClH.2H3N.Pt/h2*1H;2*1H3;/q;;;;+2/p-2 
+CPT InChIKey         InChI                1.03  LXZZYRPGZAFOLE-UHFFFAOYSA-L                    
+CPT SMILES_CANONICAL CACTVS               3.385 "N|[Pt](|N)(Cl)Cl"                             
+CPT SMILES           CACTVS               3.385 "N|[Pt](|N)(Cl)Cl"                             
+CPT SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[NH3][Pt]([NH3])(Cl)Cl"                       
+CPT SMILES           "OpenEye OEToolkits" 1.7.6 "[NH3][Pt]([NH3])(Cl)Cl"                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CPT "SYSTEMATIC NAME" ACDLabs              12.01 "diammine(dichloro)platinum"                
+CPT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "bis(chloranyl)-bis($l^{4}-azanyl)platinum" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CPT "Create component"         1999-07-08 RCSB 
+CPT "Modify leaving atom flag" 2014-05-22 RCSB 
+CPT "Other modification"       2015-07-08 RCSB 
+# 

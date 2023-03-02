@@ -1,0 +1,119 @@
+data_A2F
+# 
+_chem_comp.id                                    A2F 
+_chem_comp.name                                  2-fluoroadenine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H4 F N5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-fluoro-7H-purin-6-amine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-02-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        153.117 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     A2F 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GB9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+A2F F    F    F 0 1 N N N -23.354 1.389  -39.079 -3.001 0.834  -0.001 F    A2F 1  
+A2F C2   C2   C 0 1 Y N N -22.449 1.654  -40.010 -1.713 0.426  -0.002 C2   A2F 2  
+A2F N3   N3   N 0 1 Y N N -21.544 2.641  -39.788 -0.760 1.335  0.002  N3   A2F 3  
+A2F N1   N1   N 0 1 Y N N -22.475 0.924  -41.151 -1.456 -0.872 -0.000 N1   A2F 4  
+A2F C6   C6   C 0 1 Y N N -21.567 1.176  -42.139 -0.205 -1.324 0.000  C6   A2F 5  
+A2F N6   N6   N 0 1 N N N -21.546 0.464  -43.292 0.055  -2.685 0.001  N6   A2F 6  
+A2F C5   C5   C 0 1 Y N N -20.630 2.170  -41.936 0.839  -0.398 -0.001 C5   A2F 7  
+A2F C4   C4   C 0 1 Y N N -20.624 2.904  -40.760 0.527  0.971  0.003  C4   A2F 8  
+A2F N7   N7   N 0 1 Y N N -19.620 2.638  -42.670 2.217  -0.476 -0.001 N7   A2F 9  
+A2F C8   C8   C 0 1 Y N N -19.037 3.604  -42.012 2.688  0.791  -0.002 C8   A2F 10 
+A2F N9   N9   N 0 1 Y N N -19.609 3.773  -40.872 1.696  1.638  0.001  N9   A2F 11 
+A2F HN6  HN6  H 0 1 N N N -21.541 1.091  -44.071 -0.679 -3.319 0.002  HN6  A2F 12 
+A2F HN6A HN6A H 0 0 N N N -20.724 -0.106 -43.317 0.971  -3.004 0.001  HN6A A2F 13 
+A2F H8   H8   H 0 1 N N N -18.196 4.178  -42.373 3.733  1.063  -0.003 H8   A2F 14 
+A2F HN7  HN7  H 0 1 N N N -19.353 2.305  -43.574 2.748  -1.288 -0.000 HN7  A2F 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+A2F C2 F    SING N N 1  
+A2F N1 C2   DOUB Y N 2  
+A2F C2 N3   SING Y N 3  
+A2F C4 N3   DOUB Y N 4  
+A2F C6 N1   SING Y N 5  
+A2F N6 C6   SING N N 6  
+A2F C6 C5   DOUB Y N 7  
+A2F N6 HN6  SING N N 8  
+A2F N6 HN6A SING N N 9  
+A2F N7 C5   SING Y N 10 
+A2F C5 C4   SING Y N 11 
+A2F N9 C4   SING Y N 12 
+A2F N7 C8   SING Y N 13 
+A2F C8 N9   DOUB Y N 14 
+A2F C8 H8   SING N N 15 
+A2F N7 HN7  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+A2F SMILES           ACDLabs              10.04 "Fc1nc(c2c(n1)ncn2)N"                                                
+A2F SMILES_CANONICAL CACTVS               3.341 "Nc1nc(F)nc2nc[nH]c12"                                               
+A2F SMILES           CACTVS               3.341 "Nc1nc(F)nc2nc[nH]c12"                                               
+A2F SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1[nH]c2c(nc(nc2n1)F)N"                                             
+A2F SMILES           "OpenEye OEToolkits" 1.5.0 "c1[nH]c2c(nc(nc2n1)F)N"                                             
+A2F InChI            InChI                1.03  "InChI=1S/C5H4FN5/c6-5-10-3(7)2-4(11-5)9-1-8-2/h1H,(H3,7,8,9,10,11)" 
+A2F InChIKey         InChI                1.03  WKMPTBDYDNUJLF-UHFFFAOYSA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+A2F "SYSTEMATIC NAME" ACDLabs              10.04 2-fluoro-7H-purin-6-amine 
+A2F "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-fluoro-7H-purin-6-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+A2F "Create component"     2009-02-20 RCSB 
+A2F "Modify aromatic_flag" 2011-06-04 RCSB 
+A2F "Modify descriptor"    2011-06-04 RCSB 
+# 

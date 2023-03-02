@@ -1,0 +1,123 @@
+data_0FN
+# 
+_chem_comp.id                                    0FN 
+_chem_comp.name                                  1,3-dioxo-2,3-dihydro-1H-indene-2-carbonitrile 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H5 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-01-04 
+_chem_comp.pdbx_modified_date                    2012-03-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        171.152 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0FN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3VBW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0FN OAH OAH O 0 1 N N N 23.171 33.573 3.393  -0.988 -2.369 0.468  OAH 0FN 1  
+0FN CAC CAC C 0 1 N N N 22.725 33.947 2.288  -0.652 -1.206 0.398  CAC 0FN 2  
+0FN CAD CAD C 0 1 Y N N 22.904 35.172 1.691  0.704  -0.704 0.115  CAD 0FN 3  
+0FN CAK CAK C 0 1 Y N N 23.382 36.330 2.193  1.896  -1.390 -0.135 CAK 0FN 4  
+0FN CAL CAL C 0 1 Y N N 23.493 37.462 1.367  3.060  -0.688 -0.379 CAL 0FN 5  
+0FN CAM CAM C 0 1 Y N N 23.068 37.374 0.028  3.058  0.696  -0.378 CAM 0FN 6  
+0FN CAJ CAJ C 0 1 Y N N 22.543 36.141 -0.434 1.891  1.393  -0.133 CAJ 0FN 7  
+0FN CAE CAE C 0 1 Y N N 22.493 35.086 0.381  0.702  0.704  0.115  CAE 0FN 8  
+0FN CAB CAB C 0 1 N N N 22.029 33.829 0.172  -0.656 1.202  0.400  CAB 0FN 9  
+0FN OAI OAI O 0 1 N N N 21.614 33.357 -0.900 -0.995 2.363  0.472  OAI 0FN 10 
+0FN CAA CAA C 0 1 N N N 21.846 33.234 1.462  -1.548 -0.004 0.579  CAA 0FN 11 
+0FN CAF CAF C 0 1 N N N 21.741 31.736 1.512  -2.618 0.000  -0.433 CAF 0FN 12 
+0FN NAG NAG N 0 1 N N N 21.552 30.540 1.547  -3.443 0.004  -1.213 NAG 0FN 13 
+0FN H1  H1  H 0 1 N N N 23.679 36.387 3.230  1.906  -2.469 -0.137 H1  0FN 14 
+0FN H2  H2  H 0 1 N N N 23.898 38.385 1.754  3.979  -1.223 -0.571 H2  0FN 15 
+0FN H3  H3  H 0 1 N N N 23.140 38.226 -0.632 3.975  1.234  -0.569 H3  0FN 16 
+0FN H4  H4  H 0 1 N N N 22.183 36.055 -1.448 1.898  2.473  -0.133 H4  0FN 17 
+0FN H5  H5  H 0 1 N N N 20.846 33.570 1.772  -1.978 -0.009 1.580  H5  0FN 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0FN OAI CAB DOUB N N 1  
+0FN CAJ CAM DOUB Y N 2  
+0FN CAJ CAE SING Y N 3  
+0FN CAM CAL SING Y N 4  
+0FN CAB CAE SING N N 5  
+0FN CAB CAA SING N N 6  
+0FN CAE CAD DOUB Y N 7  
+0FN CAL CAK DOUB Y N 8  
+0FN CAA CAF SING N N 9  
+0FN CAA CAC SING N N 10 
+0FN CAF NAG TRIP N N 11 
+0FN CAD CAK SING Y N 12 
+0FN CAD CAC SING N N 13 
+0FN CAC OAH DOUB N N 14 
+0FN CAK H1  SING N N 15 
+0FN CAL H2  SING N N 16 
+0FN CAM H3  SING N N 17 
+0FN CAJ H4  SING N N 18 
+0FN CAA H5  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0FN SMILES           ACDLabs              12.01 "O=C2c1ccccc1C(=O)C2C#N"                                       
+0FN InChI            InChI                1.03  "InChI=1S/C10H5NO2/c11-5-8-9(12)6-3-1-2-4-7(6)10(8)13/h1-4,8H" 
+0FN InChIKey         InChI                1.03  GKEKUQYTCADDSQ-UHFFFAOYSA-N                                    
+0FN SMILES_CANONICAL CACTVS               3.370 "O=C1C(C#N)C(=O)c2ccccc12"                                     
+0FN SMILES           CACTVS               3.370 "O=C1C(C#N)C(=O)c2ccccc12"                                     
+0FN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)C(=O)C(C2=O)C#N"                                   
+0FN SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc2c(c1)C(=O)C(C2=O)C#N"                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0FN "SYSTEMATIC NAME" ACDLabs              12.01 1,3-dioxo-2,3-dihydro-1H-indene-2-carbonitrile 
+0FN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "1,3-bis(oxidanylidene)indene-2-carbonitrile"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0FN "Create component" 2012-01-04 RCSB 
+# 

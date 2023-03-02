@@ -1,0 +1,120 @@
+data_5JP
+# 
+_chem_comp.id                                    5JP 
+_chem_comp.name                                  N-methyl-L-serine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H9 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-10-02 
+_chem_comp.pdbx_modified_date                    2015-10-23 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.119 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     5JP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        5E2A 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+5JP O   O1  O 0 1 N N N 5.237 33.965 -16.107 1.209  -1.235 0.917  O   5JP 1  
+5JP C   C1  C 0 1 N N N 5.665 34.418 -15.031 1.087  -0.540 -0.064 C   5JP 2  
+5JP CA  C2  C 0 1 N N S 6.530 35.628 -15.034 -0.285 -0.128 -0.530 CA  5JP 3  
+5JP CB  C3  C 0 1 N N N 5.586 36.800 -14.690 -0.391 1.398  -0.520 CB  5JP 4  
+5JP OG  O2  O 0 1 N N N 6.254 38.051 -14.688 -0.059 1.890  0.781  OG  5JP 5  
+5JP N   N1  N 0 1 N N N 7.138 35.898 -16.357 -1.299 -0.695 0.370  N   5JP 6  
+5JP CN  C4  C 0 1 N N N 8.537 36.345 -16.401 -2.589 -0.842 -0.317 CN  5JP 7  
+5JP OXT O3  O 0 1 N Y N 5.289 33.907 -13.830 2.175  -0.131 -0.736 O1  5JP 8  
+5JP HA  H1  H 0 1 N N N 7.310 35.543 -14.262 -0.451 -0.497 -1.543 H1  5JP 9  
+5JP HB2 H2  H 0 1 N N N 4.778 36.833 -15.435 0.300  1.815  -1.253 H2  5JP 10 
+5JP HB3 H3  H 0 1 N N N 5.158 36.627 -13.692 -1.409 1.694  -0.771 H3  5JP 11 
+5JP HG  H4  H 0 1 N N N 5.636 38.740 -14.472 -0.105 2.852  0.861  H4  5JP 12 
+5JP H   H5  H 0 1 N N N 6.587 36.606 -16.798 -1.395 -0.136 1.204  H5  5JP 13 
+5JP H7  H7  H 0 1 N N N 8.840 36.502 -17.447 -2.932 0.134  -0.659 H7  5JP 14 
+5JP H8  H8  H 0 1 N N N 8.638 37.289 -15.845 -2.472 -1.506 -1.173 H8  5JP 15 
+5JP H9  H9  H 0 1 N N N 9.181 35.579 -15.944 -3.321 -1.264 0.372  H9  5JP 16 
+5JP HXT H10 H 0 1 N N N 4.681 33.190 -13.967 3.034  -0.417 -0.396 H10 5JP 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+5JP CN  N   SING N N 1  
+5JP N   CA  SING N N 2  
+5JP O   C   DOUB N N 3  
+5JP CA  C   SING N N 4  
+5JP CA  CB  SING N N 5  
+5JP CB  OG  SING N N 6  
+5JP C   OXT SING N N 7  
+5JP CA  HA  SING N N 8  
+5JP CB  HB2 SING N N 9  
+5JP CB  HB3 SING N N 10 
+5JP OG  HG  SING N N 11 
+5JP N   H   SING N N 12 
+5JP CN  H7  SING N N 13 
+5JP CN  H8  SING N N 14 
+5JP CN  H9  SING N N 15 
+5JP OXT HXT SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+5JP SMILES           ACDLabs              12.01 "O=C(O)C(CO)NC"                                                       
+5JP InChI            InChI                1.03  "InChI=1S/C4H9NO3/c1-5-3(2-6)4(7)8/h3,5-6H,2H2,1H3,(H,7,8)/t3-/m0/s1" 
+5JP InChIKey         InChI                1.03  PSFABYLDRXJYID-VKHMYHEASA-N                                           
+5JP SMILES_CANONICAL CACTVS               3.385 "CN[C@@H](CO)C(O)=O"                                                  
+5JP SMILES           CACTVS               3.385 "CN[CH](CO)C(O)=O"                                                    
+5JP SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CN[C@@H](CO)C(=O)O"                                                  
+5JP SMILES           "OpenEye OEToolkits" 1.9.2 "CNC(CO)C(=O)O"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+5JP "SYSTEMATIC NAME" ACDLabs              12.01 N-methyl-L-serine                                
+5JP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "(2S)-2-(methylamino)-3-oxidanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+5JP "Create component" 2015-10-02 RCSB 
+5JP "Initial release"  2015-10-28 RCSB 
+# 

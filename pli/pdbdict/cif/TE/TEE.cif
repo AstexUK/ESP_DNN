@@ -1,0 +1,104 @@
+data_TEE
+# 
+_chem_comp.id                                    TEE 
+_chem_comp.name                                  2-AMINO-ETHENETHIOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 N S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-THIOETHENAMINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-10-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        75.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TEE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1MQX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TEE N   N   N 0 1 N N N -3.049 3.370  -2.907 2.038  -1.745 0.389  N   TEE 1 
+TEE CB  CB  C 0 1 N N N -2.922 1.439  -4.349 0.991  0.418  0.143  CB  TEE 2 
+TEE CA  CA  C 0 1 N N N -3.161 2.816  -4.161 2.041  -0.388 0.341  CA  TEE 3 
+TEE SG  SG  S 0 1 N N N ?      ?      ?      1.144  2.138  0.105  SG  TEE 4 
+TEE HN1 1HN H 0 1 N N N -2.689 2.890  -2.132 1.722  -2.257 -0.409 HN1 TEE 5 
+TEE HN2 2HN H 0 1 N N N -2.123 3.150  -2.539 2.353  -2.199 1.222  HN2 TEE 6 
+TEE HB2 HB2 H 0 1 N N N -3.270 0.725  -3.616 0.000  0.000  0.000  HB2 TEE 7 
+TEE HA  HA  H 0 1 N N N -4.194 2.503  -4.293 3.040  0.009  0.486  HA  TEE 8 
+TEE HS  HS  H 0 1 N N N 0.161  -0.927 -0.126 -0.161 2.435  0.163  HS  TEE 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TEE N  CA  SING N N 1 
+TEE N  HN1 SING N N 2 
+TEE N  HN2 SING N N 3 
+TEE CB CA  DOUB N N 4 
+TEE CB SG  SING N N 5 
+TEE CB HB2 SING N N 6 
+TEE CA HA  SING N N 7 
+TEE SG HS  SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TEE SMILES           ACDLabs              10.04 S/C=C\N                                    
+TEE SMILES_CANONICAL CACTVS               3.341 N\C=C/S                                    
+TEE SMILES           CACTVS               3.341 NC=CS                                      
+TEE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=CS)N"                                  
+TEE SMILES           "OpenEye OEToolkits" 1.5.0 "C(=CS)N"                                  
+TEE InChI            InChI                1.03  InChI=1S/C2H5NS/c3-1-2-4/h1-2,4H,3H2/b2-1- 
+TEE InChIKey         InChI                1.03  JLZMZFJVTNYDOT-UPHRSURJSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TEE "SYSTEMATIC NAME" ACDLabs              10.04 "(Z)-2-aminoethenethiol" 
+TEE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-aminoethenethiol       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TEE "Create component"  2002-10-04 PDBJ 
+TEE "Modify descriptor" 2011-06-04 RCSB 
+# 

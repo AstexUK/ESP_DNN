@@ -1,0 +1,122 @@
+data_SMB
+# 
+_chem_comp.id                                    SMB 
+_chem_comp.name                                  "2-METHYLBUTANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-08-21 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        102.132 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SMB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1YA8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SMB C1  C1  C 0 1 N N N 1.048  43.869 42.785 2.716  0.232  0.265  C1  SMB 1  
+SMB C2  C2  C 0 1 N N N -0.408 43.353 42.969 1.314  0.727  -0.095 C2  SMB 2  
+SMB C3  C3  C 0 1 N N S -1.187 42.711 41.753 0.281  -0.325 0.315  C3  SMB 3  
+SMB C4  C4  C 0 1 N N N -0.332 42.682 40.435 0.488  -1.594 -0.515 C4  SMB 4  
+SMB C5  C5  C 0 1 N N N -2.559 43.387 41.485 -1.106 0.213  0.074  C5  SMB 5  
+SMB O1  O1  O 0 1 N N N -3.501 42.496 40.994 -2.178 -0.542 0.363  O1  SMB 6  
+SMB O2  O2  O 0 1 N N N -2.774 44.579 41.688 -1.254 1.323  -0.380 O2  SMB 7  
+SMB H11 1H1 H 0 1 N N N 1.262  43.991 41.713 2.777  0.063  1.340  H11 SMB 8  
+SMB H12 2H1 H 0 1 N N N 1.160  44.838 43.293 2.918  -0.701 -0.262 H12 SMB 9  
+SMB H13 3H1 H 0 1 N N N 1.752  43.143 43.219 3.452  0.981  -0.027 H13 SMB 10 
+SMB H21 1H2 H 0 1 N N N -0.358 42.573 43.743 1.111  1.660  0.431  H21 SMB 11 
+SMB H22 2H2 H 0 1 N N N -0.979 44.268 43.184 1.253  0.896  -1.170 H22 SMB 12 
+SMB H3  H3  H 0 1 N N N -1.381 41.672 42.058 0.401  -0.559 1.373  H3  SMB 13 
+SMB H41 1H4 H 0 1 N N N -1.002 42.675 39.563 0.368  -1.359 -1.572 H41 SMB 14 
+SMB H42 2H4 H 0 1 N N N 0.311  43.573 40.396 1.491  -1.982 -0.340 H42 SMB 15 
+SMB H43 3H4 H 0 1 N N N 0.293  41.777 40.424 -0.248 -2.343 -0.222 H43 SMB 16 
+SMB HO1 HO1 H 0 1 N N N -4.321 42.952 40.845 -3.047 -0.154 0.191  HO1 SMB 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SMB C1 C2  SING N N 1  
+SMB C1 H11 SING N N 2  
+SMB C1 H12 SING N N 3  
+SMB C1 H13 SING N N 4  
+SMB C2 C3  SING N N 5  
+SMB C2 H21 SING N N 6  
+SMB C2 H22 SING N N 7  
+SMB C3 C4  SING N N 8  
+SMB C3 C5  SING N N 9  
+SMB C3 H3  SING N N 10 
+SMB C4 H41 SING N N 11 
+SMB C4 H42 SING N N 12 
+SMB C4 H43 SING N N 13 
+SMB C5 O1  SING N N 14 
+SMB C5 O2  DOUB N N 15 
+SMB O1 HO1 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SMB SMILES           ACDLabs              10.04 "O=C(O)C(C)CC"                                                    
+SMB InChI            InChI                1.03  "InChI=1S/C5H10O2/c1-3-4(2)5(6)7/h4H,3H2,1-2H3,(H,6,7)/t4-/m0/s1" 
+SMB InChIKey         InChI                1.03  WLAMNBDJUVNPJU-BYPYZUCNSA-N                                       
+SMB SMILES_CANONICAL CACTVS               3.385 "CC[C@H](C)C(O)=O"                                                
+SMB SMILES           CACTVS               3.385 "CC[CH](C)C(O)=O"                                                 
+SMB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "CC[C@H](C)C(=O)O"                                                
+SMB SMILES           "OpenEye OEToolkits" 1.7.5 "CCC(C)C(=O)O"                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SMB "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-methylbutanoic acid" 
+SMB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-methylbutanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SMB "Create component"   2003-08-21 RCSB 
+SMB "Modify descriptor"  2011-06-04 RCSB 
+SMB "Modify descriptor"  2012-01-05 RCSB 
+SMB "Modify coordinates" 2012-01-05 RCSB 
+# 

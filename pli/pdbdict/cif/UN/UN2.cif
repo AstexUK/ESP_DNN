@@ -1,0 +1,122 @@
+data_UN2
+# 
+_chem_comp.id                                    UN2 
+_chem_comp.name                                  "2-AMINO-4,4-DIHYDROXYBUTANOIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-06-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        135.119 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     UN2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H0G 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UN2 N    N    N 0 1 N N N 48.685 75.111 53.242 1.905  -1.549 -0.347 N    UN2 1  
+UN2 CA   CA   C 0 1 N N S 47.959 74.835 51.978 1.658  -0.974 0.978  CA   UN2 2  
+UN2 C    C    C 0 1 N N N 46.520 75.274 52.115 2.967  -1.065 1.742  C    UN2 3  
+UN2 O    O    O 0 1 N N N 46.168 76.451 52.155 3.986  -1.603 1.329  O    UN2 4  
+UN2 CB   CB   C 0 1 N N N 47.819 73.318 51.707 0.539  -1.746 1.689  CB   UN2 5  
+UN2 CG   CG   C 0 1 N N N 46.397 72.951 52.203 -0.829 -1.636 1.010  CG   UN2 6  
+UN2 OD1  OD1  O 0 1 N N N 46.485 72.410 53.524 -1.751 -2.417 1.761  OD1  UN2 7  
+UN2 OD2  OD2  O 0 1 N N N ?      ?      ?      -1.231 -0.274 0.986  OD2  UN2 8  
+UN2 OXT  OXT  O 0 1 N Y N 45.688 74.258 52.222 2.901  -0.450 2.951  OXT  UN2 9  
+UN2 HN1  1HN  H 0 1 N N N 48.794 75.659 54.095 2.052  -0.922 -1.105 HN1  UN2 10 
+UN2 HN2  2HN  H 0 1 N N N 49.515 75.453 53.726 1.715  -2.517 -0.475 HN2  UN2 11 
+UN2 HA   HA   H 0 1 N N N 48.450 75.348 51.118 1.390  0.077  0.828  HA   UN2 12 
+UN2 HBC1 1HBC H 0 0 N N N 48.629 72.701 52.162 0.801  -2.809 1.782  HBC1 UN2 13 
+UN2 HBC2 2HBC H 0 0 N N N 48.017 73.028 50.649 0.442  -1.368 2.717  HBC2 UN2 14 
+UN2 HGC1 1HGC H 0 0 N N N 45.825 73.903 52.107 -0.786 -2.026 -0.012 HGC1 UN2 15 
+UN2 HD1  HD1  H 0 1 N N N 45.613 72.185 53.828 -2.480 -2.653 1.162  HD1  UN2 16 
+UN2 HDT  HDT  H 0 1 N N N -0.871 -0.225 0.304  -1.867 -0.176 0.258  HDT  UN2 17 
+UN2 HXT  HXT  H 0 1 N Y N 44.783 74.534 52.308 3.729  -0.464 3.477  HXT  UN2 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UN2 N   CA   SING N N 1  
+UN2 N   HN1  SING N N 2  
+UN2 N   HN2  SING N N 3  
+UN2 CA  C    SING N N 4  
+UN2 CA  CB   SING N N 5  
+UN2 CA  HA   SING N N 6  
+UN2 C   O    DOUB N N 7  
+UN2 C   OXT  SING N N 8  
+UN2 CB  CG   SING N N 9  
+UN2 CB  HBC1 SING N N 10 
+UN2 CB  HBC2 SING N N 11 
+UN2 CG  OD1  SING N N 12 
+UN2 CG  OD2  SING N N 13 
+UN2 CG  HGC1 SING N N 14 
+UN2 OD1 HD1  SING N N 15 
+UN2 OD2 HDT  SING N N 16 
+UN2 OXT HXT  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UN2 SMILES           ACDLabs              10.04 "O=C(O)C(N)CC(O)O"                                                      
+UN2 SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC(O)O)C(O)=O"                                                 
+UN2 SMILES           CACTVS               3.341 "N[CH](CC(O)O)C(O)=O"                                                   
+UN2 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)C(O)O"                                               
+UN2 SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)C(O)O"                                                    
+UN2 InChI            InChI                1.03  "InChI=1S/C4H9NO4/c5-2(4(8)9)1-3(6)7/h2-3,6-7H,1,5H2,(H,8,9)/t2-/m0/s1" 
+UN2 InChIKey         InChI                1.03  NVZWSDYYWDDQAN-REOHCLBHSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UN2 "SYSTEMATIC NAME" ACDLabs              10.04 4-hydroxy-L-homoserine                     
+UN2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4,4-dihydroxy-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UN2 "Create component"  2002-06-19 RCSB 
+UN2 "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,120 @@
+data_GUA
+# 
+_chem_comp.id                                    GUA 
+_chem_comp.name                                  "GLUTARIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        132.115 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GUA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CZC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GUA C1  C1  C 0 1 N N N 24.703 10.153 -10.853 0.037  0.000  2.479  C1  GUA 1  
+GUA C2  C2  C 0 1 N N N 23.297 9.996  -11.350 -0.832 0.000  1.249  C2  GUA 2  
+GUA C3  C3  C 0 1 N N N 22.961 10.842 -12.517 0.050  0.000  0.000  C3  GUA 3  
+GUA C4  C4  C 0 1 N N N 23.699 10.233 -13.705 -0.832 0.000  -1.249 C4  GUA 4  
+GUA C5  C5  C 0 1 N N N 24.359 11.286 -14.533 0.037  0.000  -2.479 C5  GUA 5  
+GUA O1  O1  O 0 1 N N N 25.506 10.949 -11.404 1.240  0.000  2.368  O1  GUA 6  
+GUA O2  O2  O 0 1 N N N 25.004 9.450  -9.884  -0.524 0.000  3.698  O2  GUA 7  
+GUA O3  O3  O 0 1 N N N 23.852 12.408 -14.519 1.240  0.000  -2.368 O3  GUA 8  
+GUA O4  O4  O 0 1 N N N 25.379 11.016 -15.206 -0.523 0.000  -3.698 O4  GUA 9  
+GUA H21 1H2 H 0 1 N N N 23.080 8.924  -11.571 -1.461 -0.890 1.249  H21 GUA 10 
+GUA H22 2H2 H 0 1 N N N 22.570 10.170 -10.522 -1.461 0.890  1.249  H22 GUA 11 
+GUA H31 1H3 H 0 1 N N N 21.864 10.953 -12.684 0.680  0.890  0.000  H31 GUA 12 
+GUA H32 2H3 H 0 1 N N N 23.184 11.923 -12.361 0.680  -0.890 0.000  H32 GUA 13 
+GUA H41 1H4 H 0 1 N N N 24.426 9.453  -13.378 -1.461 -0.890 -1.249 H41 GUA 14 
+GUA H42 2H4 H 0 1 N N N 23.025 9.591  -14.320 -1.461 0.890  -1.249 H42 GUA 15 
+GUA HO2 HO2 H 0 1 N N N 25.894 9.549  -9.569  0.034  0.000  4.488  HO2 GUA 16 
+GUA HO4 HO4 H 0 1 N N N 25.798 11.685 -15.732 0.034  0.000  -4.488 HO4 GUA 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GUA C1 C2  SING N N 1  
+GUA C1 O1  DOUB N N 2  
+GUA C1 O2  SING N N 3  
+GUA C2 C3  SING N N 4  
+GUA C2 H21 SING N N 5  
+GUA C2 H22 SING N N 6  
+GUA C3 C4  SING N N 7  
+GUA C3 H31 SING N N 8  
+GUA C3 H32 SING N N 9  
+GUA C4 C5  SING N N 10 
+GUA C4 H41 SING N N 11 
+GUA C4 H42 SING N N 12 
+GUA C5 O3  DOUB N N 13 
+GUA C5 O4  SING N N 14 
+GUA O2 HO2 SING N N 15 
+GUA O4 HO4 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GUA SMILES           ACDLabs              10.04 "O=C(O)CCCC(=O)O"                                          
+GUA SMILES_CANONICAL CACTVS               3.341 "OC(=O)CCCC(O)=O"                                          
+GUA SMILES           CACTVS               3.341 "OC(=O)CCCC(O)=O"                                          
+GUA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CC(=O)O)CC(=O)O"                                        
+GUA SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC(=O)O)CC(=O)O"                                        
+GUA InChI            InChI                1.03  "InChI=1S/C5H8O4/c6-4(7)2-1-3-5(8)9/h1-3H2,(H,6,7)(H,8,9)" 
+GUA InChIKey         InChI                1.03  JFCQEDHGNNZCLN-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GUA "SYSTEMATIC NAME" ACDLabs              10.04 "pentanedioic acid" 
+GUA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GUA "Create component"  1999-07-08 RCSB 
+GUA "Modify descriptor" 2011-06-04 RCSB 
+# 

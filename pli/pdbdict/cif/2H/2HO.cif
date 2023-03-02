@@ -1,0 +1,119 @@
+data_2HO
+# 
+_chem_comp.id                                    2HO 
+_chem_comp.name                                  3,4-difluorobenzamide 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 F2 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-10-22 
+_chem_comp.pdbx_modified_date                    2013-11-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        157.118 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2HO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4N94 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2HO N1  N1  N 0 1 N N N -25.841 -0.720 -23.769 -2.946 1.283  0.002  N1  2HO 1  
+2HO C4  C4  C 0 1 Y N N -23.443 -0.188 -23.385 -0.971 -0.161 0.001  C4  2HO 2  
+2HO C5  C5  C 0 1 Y N N -22.288 -0.539 -22.671 -0.438 -1.451 -0.001 C5  2HO 3  
+2HO C6  C6  C 0 1 Y N N -21.050 0.003  -23.001 0.929  -1.631 -0.001 C6  2HO 4  
+2HO C7  C7  C 0 1 Y N N -20.953 0.908  -24.052 1.775  -0.534 0.001  C7  2HO 5  
+2HO F10 F10 F 0 1 N N N -22.019 2.135  -25.790 2.082  1.818  -0.001 F10 2HO 6  
+2HO C9  C9  C 0 1 Y N N -22.099 1.265  -24.768 1.252  0.752  0.002  C9  2HO 7  
+2HO F8  F8  F 0 1 N N N -19.750 1.421  -24.378 3.114  -0.717 0.001  F8  2HO 8  
+2HO C11 C11 C 0 1 Y N N -23.339 0.719  -24.445 -0.115 0.943  -0.003 C11 2HO 9  
+2HO C2  C2  C 0 1 N N N -24.761 -0.811 -22.986 -2.435 0.037  0.001  C2  2HO 10 
+2HO O3  O3  O 0 1 N N N -24.822 -1.420 -21.934 -3.178 -0.925 -0.001 O3  2HO 11 
+2HO H1  H1  H 0 1 N N N -26.699 -1.152 -23.490 -2.353 2.051  0.004  H1  2HO 12 
+2HO H2  H2  H 0 1 N N N -25.791 -0.220 -24.633 -3.908 1.413  -0.002 H2  2HO 13 
+2HO H3  H3  H 0 1 N N N -22.361 -1.240 -21.853 -1.096 -2.308 -0.002 H3  2HO 14 
+2HO H4  H4  H 0 1 N N N -20.169 -0.278 -22.444 1.341  -2.630 -0.002 H4  2HO 15 
+2HO H5  H5  H 0 1 N N N -24.217 0.995  -25.011 -0.522 1.943  -0.010 H5  2HO 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2HO F10 C9  SING N N 1  
+2HO C9  C11 DOUB Y N 2  
+2HO C9  C7  SING Y N 3  
+2HO C11 C4  SING Y N 4  
+2HO F8  C7  SING N N 5  
+2HO C7  C6  DOUB Y N 6  
+2HO N1  C2  SING N N 7  
+2HO C4  C2  SING N N 8  
+2HO C4  C5  DOUB Y N 9  
+2HO C6  C5  SING Y N 10 
+2HO C2  O3  DOUB N N 11 
+2HO N1  H1  SING N N 12 
+2HO N1  H2  SING N N 13 
+2HO C5  H3  SING N N 14 
+2HO C6  H4  SING N N 15 
+2HO C11 H5  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2HO SMILES           ACDLabs              12.01 "Fc1ccc(C(=O)N)cc1F"                                            
+2HO InChI            InChI                1.03  "InChI=1S/C7H5F2NO/c8-5-2-1-4(7(10)11)3-6(5)9/h1-3H,(H2,10,11)" 
+2HO InChIKey         InChI                1.03  CMWOHNIHUBDEAG-UHFFFAOYSA-N                                     
+2HO SMILES_CANONICAL CACTVS               3.385 "NC(=O)c1ccc(F)c(F)c1"                                          
+2HO SMILES           CACTVS               3.385 "NC(=O)c1ccc(F)c(F)c1"                                          
+2HO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(c(cc1C(=O)N)F)F"                                          
+2HO SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(c(cc1C(=O)N)F)F"                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2HO "SYSTEMATIC NAME" ACDLabs              12.01 3,4-difluorobenzamide         
+2HO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "3,4-bis(fluoranyl)benzamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2HO "Create component" 2013-10-22 RCSB 
+2HO "Initial release"  2013-11-06 RCSB 
+# 

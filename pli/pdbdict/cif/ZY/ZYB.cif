@@ -1,0 +1,123 @@
+data_ZYB
+# 
+_chem_comp.id                                    ZYB 
+_chem_comp.name                                  4-Fluorobenzamidoxime 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 F N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-03-21 
+_chem_comp.pdbx_modified_date                    2014-03-28 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ZYB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4CUP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ZYB F   F   F 0 1 N N N 13.183 41.523 27.966 -3.854 -0.227 -0.001 F   ZYB 1  
+ZYB C2  C2  C 0 1 Y N N 12.737 41.742 29.210 -2.508 -0.112 -0.001 C2  ZYB 2  
+ZYB C1  C1  C 0 1 Y N N 11.407 42.077 29.431 -1.922 1.144  0.003  C1  ZYB 3  
+ZYB C3  C3  C 0 1 Y N N 13.610 41.633 30.281 -1.717 -1.250 0.000  C3  ZYB 4  
+ZYB C4  C4  C 0 1 Y N N 13.156 41.856 31.571 -0.343 -1.138 0.000  C4  ZYB 5  
+ZYB C5  C5  C 0 1 Y N N 11.828 42.195 31.795 0.252  0.124  -0.001 C5  ZYB 6  
+ZYB C   C   C 0 1 Y N N 10.953 42.302 30.725 -0.549 1.267  0.003  C   ZYB 7  
+ZYB C6  C6  C 0 1 N N N 11.339 42.417 33.215 1.726  0.250  -0.001 C6  ZYB 8  
+ZYB N   N   N 0 1 N N N 9.922  42.555 33.231 2.314  1.504  -0.003 N   ZYB 9  
+ZYB N1  N1  N 0 1 N N N 11.974 43.529 33.836 2.470  -0.817 0.001  N1  ZYB 10 
+ZYB O   O   O 0 1 N N N 11.916 43.374 35.199 3.881  -0.696 0.001  O   ZYB 11 
+ZYB H1  H1  H 0 1 N N N 10.726 42.163 28.597 -2.542 2.028  0.006  H1  ZYB 12 
+ZYB H3  H3  H 0 1 N N N 14.644 41.374 30.110 -2.178 -2.227 0.001  H3  ZYB 13 
+ZYB H   H   H 0 1 N N N 9.919  42.560 30.897 -0.093 2.246  0.006  H   ZYB 14 
+ZYB H4  H4  H 0 1 N N N 13.837 41.766 32.405 0.272  -2.026 0.002  H4  ZYB 15 
+ZYB HN1 HN1 H 0 1 N N N 9.503  43.363 33.646 1.759  2.300  -0.004 HN1 ZYB 16 
+ZYB HN2 HN2 H 0 1 N N N 9.346  41.844 32.827 3.280  1.587  -0.002 HN2 ZYB 17 
+ZYB HB  HB  H 0 1 N N N 12.338 44.113 35.620 4.348  -1.543 0.002  HB  ZYB 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ZYB F  C2  SING N N 1  
+ZYB C2 C1  SING Y N 2  
+ZYB C2 C3  DOUB Y N 3  
+ZYB C1 C   DOUB Y N 4  
+ZYB C3 C4  SING Y N 5  
+ZYB C4 C5  DOUB Y N 6  
+ZYB C5 C   SING Y N 7  
+ZYB C5 C6  SING N N 8  
+ZYB C6 N   SING N N 9  
+ZYB C6 N1  DOUB N Z 10 
+ZYB N1 O   SING N N 11 
+ZYB C1 H1  SING N N 12 
+ZYB C3 H3  SING N N 13 
+ZYB C  H   SING N N 14 
+ZYB C4 H4  SING N N 15 
+ZYB N  HN1 SING N N 16 
+ZYB N  HN2 SING N N 17 
+ZYB O  HB  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ZYB SMILES           ACDLabs              12.01 "Fc1ccc(C(=N\O)\N)cc1"                                            
+ZYB InChI            InChI                1.03  "InChI=1S/C7H7FN2O/c8-6-3-1-5(2-4-6)7(9)10-11/h1-4,11H,(H2,9,10)" 
+ZYB InChIKey         InChI                1.03  OSUPWUQRPLIJKX-UHFFFAOYSA-N                                       
+ZYB SMILES_CANONICAL CACTVS               3.385 "NC(=N\O)/c1ccc(F)cc1"                                            
+ZYB SMILES           CACTVS               3.385 "NC(=NO)c1ccc(F)cc1"                                              
+ZYB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1/C(=N/O)/N)F"                                           
+ZYB SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1C(=NO)N)F"                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ZYB "SYSTEMATIC NAME" ACDLabs              12.01 "4-fluoro-N'-hydroxybenzenecarboximidamide"      
+ZYB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "4-fluoranyl-N'-oxidanyl-benzenecarboximidamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ZYB "Create component" 2014-03-21 EBI  
+ZYB "Initial release"  2014-04-02 RCSB 
+# 

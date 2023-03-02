@@ -1,0 +1,106 @@
+data_RGI
+# 
+_chem_comp.id                                    RGI 
+_chem_comp.name                                  "METHYLCARBAMIC ACID" 
+_chem_comp.type                                  PEPTIDE-LIKE 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-06-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        75.067 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RGI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1H0I 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RGI C1   C1   C 0 1 N N N 18.239 47.458 104.044 1.978  0.007  -0.000 C1   RGI 1  
+RGI C    C    C 0 1 N N N 18.639 45.516 102.669 -0.458 -0.034 0.000  C    RGI 2  
+RGI O    O    O 0 1 N N N 19.590 45.209 103.399 -0.408 -1.248 0.000  O    RGI 3  
+RGI N    N    N 0 1 N N N 17.917 46.629 102.871 0.680  0.687  0.000  N    RGI 4  
+RGI OXT  OXT  O 0 1 N Y N 18.320 44.793 101.588 -1.651 0.590  -0.000 OXT  RGI 5  
+RGI H1C1 H1C1 H 0 0 N N N 17.567 48.328 104.074 2.062  -0.616 0.890  H1C1 RGI 6  
+RGI HA2  HA2  H 0 1 N N N 18.109 46.863 104.960 2.062  -0.616 -0.890 HA2  RGI 7  
+RGI HB3  HB3  H 0 1 N N N 19.281 47.802 103.975 2.777  0.749  -0.000 HB3  RGI 8  
+RGI HA   HA   H 0 1 N N N 17.182 46.887 102.244 0.641  1.656  0.000  HA   RGI 9  
+RGI HXT  HXT  H 0 1 N N N 18.921 44.062 101.506 -2.439 0.031  -0.000 HXT  RGI 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RGI C1  N    SING N N 1 
+RGI C1  H1C1 SING N N 2 
+RGI C1  HA2  SING N N 3 
+RGI C1  HB3  SING N N 4 
+RGI C   O    DOUB N N 5 
+RGI C   N    SING N N 6 
+RGI C   OXT  SING N N 7 
+RGI N   HA   SING N N 8 
+RGI OXT HXT  SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RGI SMILES           ACDLabs              12.01 "O=C(O)NC"                                    
+RGI SMILES_CANONICAL CACTVS               3.370 "CNC(O)=O"                                    
+RGI SMILES           CACTVS               3.370 "CNC(O)=O"                                    
+RGI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CNC(=O)O"                                    
+RGI SMILES           "OpenEye OEToolkits" 1.7.0 "CNC(=O)O"                                    
+RGI InChI            InChI                1.03  "InChI=1S/C2H5NO2/c1-3-2(4)5/h3H,1H3,(H,4,5)" 
+RGI InChIKey         InChI                1.03  UFEJKYYYVXYMMS-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RGI "SYSTEMATIC NAME" ACDLabs              12.01 "methylcarbamic acid" 
+RGI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "methylcarbamic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RGI "Create component"  2002-06-19 EBI  
+RGI "Modify descriptor" 2011-06-04 RCSB 
+# 

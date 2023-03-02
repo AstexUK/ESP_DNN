@@ -1,0 +1,137 @@
+data_POC
+# 
+_chem_comp.id                                    POC 
+_chem_comp.name                                  PHOSPHOCHOLINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H15 N O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      PC 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.151 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     POC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3LKF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+POC P1  P1  P 0 1 N N N 28.770 33.519 121.040 1.904  0.025  0.019  P1  POC 1  
+POC O3  O3  O 0 1 N N N 30.001 33.093 121.799 1.872  0.296  -1.567 O3  POC 2  
+POC O4  O4  O 0 1 N N N 27.551 33.095 121.804 2.503  -1.302 0.281  O4  POC 3  
+POC O5  O5  O 0 1 N N N 28.787 35.134 120.823 2.786  1.164  0.740  O5  POC 4  
+POC O6  O6  O 0 1 N N N 28.753 32.873 119.546 0.403  0.062  0.601  O6  POC 5  
+POC C4  C4  C 0 1 N N N 28.752 31.462 119.554 -0.293 -1.039 0.014  C4  POC 6  
+POC C5  C5  C 0 1 N N N 28.729 30.931 118.078 -1.734 -1.063 0.528  C5  POC 7  
+POC N1  N1  N 1 1 N N N 27.522 31.357 117.287 -2.459 0.105  0.009  N1  POC 8  
+POC C6  C6  C 0 1 N N N 26.298 31.295 118.108 -2.365 0.127  -1.457 C6  POC 9  
+POC C7  C7  C 0 1 N N N 27.744 32.735 116.809 -1.865 1.332  0.556  C7  POC 10 
+POC C8  C8  C 0 1 N N N 27.354 30.466 116.120 -3.870 0.023  0.408  C8  POC 11 
+POC HO3 HO3 H 0 1 N N N 30.773 33.361 121.315 1.475  1.169  -1.694 HO3 POC 12 
+POC HO5 HO5 H 0 1 N N N 28.011 35.402 120.344 3.676  1.108  0.364  HO5 POC 13 
+POC H41 1H4 H 0 1 N N N 29.603 31.043 120.139 0.204  -1.971 0.285  H41 POC 14 
+POC H42 2H4 H 0 1 N N N 27.918 31.044 120.165 -0.296 -0.931 -1.070 H42 POC 15 
+POC H51 1H5 H 0 1 N N N 29.665 31.218 117.545 -1.732 -1.034 1.618  H51 POC 16 
+POC H52 2H5 H 0 1 N N N 28.834 29.821 118.061 -2.226 -1.975 0.190  H52 POC 17 
+POC H61 1H6 H 0 1 N N N 25.403 31.610 117.521 -1.317 0.188  -1.753 H61 POC 18 
+POC H62 2H6 H 0 1 N N N 26.157 30.285 118.558 -2.805 -0.783 -1.863 H62 POC 19 
+POC H63 3H6 H 0 1 N N N 26.403 31.887 119.046 -2.902 0.994  -1.842 H63 POC 20 
+POC H71 1H7 H 0 1 N N N 26.849 33.050 116.222 -2.504 2.182  0.318  H71 POC 21 
+POC H72 2H7 H 0 1 N N N 27.986 33.442 117.636 -1.773 1.239  1.638  H72 POC 22 
+POC H73 3H7 H 0 1 N N N 28.693 32.842 116.234 -0.879 1.485  0.119  H73 POC 23 
+POC H81 1H8 H 0 1 N N N 26.459 30.781 115.533 -4.310 -0.888 0.001  H81 POC 24 
+POC H82 2H8 H 0 1 N N N 28.273 30.418 115.491 -3.940 0.006  1.495  H82 POC 25 
+POC H83 3H8 H 0 1 N N N 27.305 29.391 116.414 -4.407 0.890  0.022  H83 POC 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+POC P1 O3  SING N N 1  
+POC P1 O4  DOUB N N 2  
+POC P1 O5  SING N N 3  
+POC P1 O6  SING N N 4  
+POC O3 HO3 SING N N 5  
+POC O5 HO5 SING N N 6  
+POC O6 C4  SING N N 7  
+POC C4 C5  SING N N 8  
+POC C4 H41 SING N N 9  
+POC C4 H42 SING N N 10 
+POC C5 N1  SING N N 11 
+POC C5 H51 SING N N 12 
+POC C5 H52 SING N N 13 
+POC N1 C6  SING N N 14 
+POC N1 C7  SING N N 15 
+POC N1 C8  SING N N 16 
+POC C6 H61 SING N N 17 
+POC C6 H62 SING N N 18 
+POC C6 H63 SING N N 19 
+POC C7 H71 SING N N 20 
+POC C7 H72 SING N N 21 
+POC C7 H73 SING N N 22 
+POC C8 H81 SING N N 23 
+POC C8 H82 SING N N 24 
+POC C8 H83 SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+POC SMILES           ACDLabs              10.04 "O=P(O)(O)OCC[N+](C)(C)C"                                                                     
+POC InChI            InChI                1.02b "InChI=1/C5H14NO4P/c1-6(2,3)4-5-10-11(7,8)9/h4-5H2,1-3H3,(H-,7,8,9)/p+1/fC5H15NO4P/h7-8H/q+1" 
+POC InChIKey         InChI                1.02b YHHSONZFOIEMCP-JDXNDFPICG                                                                     
+POC SMILES_CANONICAL CACTVS               3.341 "C[N+](C)(C)CCO[P](O)(O)=O"                                                                   
+POC SMILES           CACTVS               3.341 "C[N+](C)(C)CCO[P](O)(O)=O"                                                                   
+POC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)CCOP(=O)(O)O"                                                                     
+POC SMILES           "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)CCOP(=O)(O)O"                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+POC "SYSTEMATIC NAME" ACDLabs              10.04 "N,N,N-trimethyl-2-(phosphonooxy)ethanaminium" 
+POC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "trimethyl-(2-phosphonooxyethyl)azanium"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+POC "Create component" 1999-07-08 RCSB 
+# 

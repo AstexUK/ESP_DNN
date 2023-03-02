@@ -1,0 +1,117 @@
+data_PRS
+# 
+_chem_comp.id                                    PRS 
+_chem_comp.name                                  THIOPROLINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               PRO 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.169 
+_chem_comp.one_letter_code                       P 
+_chem_comp.three_letter_code                     PRS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SAV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PRS N   N   N 0 1 N N N -31.011 45.444 -14.856 -1.252 -0.134 -0.349 N   PRS 1  
+PRS CD  CD  C 0 1 N N N -30.705 44.051 -15.204 -1.134 -0.407 -1.813 CD  PRS 2  
+PRS CA  CA  C 0 1 N N R -31.434 46.240 -16.025 0.004  -0.487 0.335  CA  PRS 3  
+PRS CB  CB  C 0 1 N N N -32.118 45.232 -16.953 1.215  0.135  -0.408 CB  PRS 4  
+PRS SG  SG  S 0 1 N N N -31.914 43.554 -16.329 0.568  0.225  -2.131 SG  PRS 5  
+PRS C   C   C 0 1 N N N -32.425 47.348 -15.674 -0.033 0.033  1.749  C   PRS 6  
+PRS O   O   O 0 1 N N N -33.412 47.121 -14.976 -0.667 1.028  2.008  O   PRS 7  
+PRS OXT OXT O 0 1 N Y N -32.198 48.532 -16.222 0.635  -0.608 2.719  OXT PRS 8  
+PRS H   HN  H 0 1 N N N -30.224 45.883 -14.377 -1.960 -0.760 0.006  H   PRS 9  
+PRS HD3 1HD H 0 1 N N N -29.665 43.907 -15.580 -1.876 0.153  -2.380 HD3 PRS 10 
+PRS HD2 2HD H 0 1 N N N -30.624 43.380 -14.316 -1.204 -1.474 -2.023 HD2 PRS 11 
+PRS HA  HA  H 0 1 N N N -30.553 46.753 -16.477 0.112  -1.572 0.354  HA  PRS 12 
+PRS HB2 1HB H 0 1 N N N -33.191 45.484 -17.118 1.442  1.129  -0.022 HB2 PRS 13 
+PRS HB3 2HB H 0 1 N N N -31.759 45.328 -18.004 2.087  -0.514 -0.350 HB3 PRS 14 
+PRS HXT HXT H 0 1 N Y N -32.814 49.221 -16.003 0.610  -0.274 3.626  HXT PRS 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PRS N   CD  SING N N 1  
+PRS N   CA  SING N N 2  
+PRS N   H   SING N N 3  
+PRS CD  SG  SING N N 4  
+PRS CD  HD3 SING N N 5  
+PRS CD  HD2 SING N N 6  
+PRS CA  CB  SING N N 7  
+PRS CA  C   SING N N 8  
+PRS CA  HA  SING N N 9  
+PRS CB  SG  SING N N 10 
+PRS CB  HB2 SING N N 11 
+PRS CB  HB3 SING N N 12 
+PRS C   O   DOUB N N 13 
+PRS C   OXT SING N N 14 
+PRS OXT HXT SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PRS SMILES           ACDLabs              10.04 "O=C(O)C1NCSC1"                                                      
+PRS SMILES_CANONICAL CACTVS               3.341 "OC(=O)[C@@H]1CSCN1"                                                 
+PRS SMILES           CACTVS               3.341 "OC(=O)[CH]1CSCN1"                                                   
+PRS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@H](NCS1)C(=O)O"                                                
+PRS SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(NCS1)C(=O)O"                                                    
+PRS InChI            InChI                1.03  "InChI=1S/C4H7NO2S/c6-4(7)3-1-8-2-5-3/h3,5H,1-2H2,(H,6,7)/t3-/m0/s1" 
+PRS InChIKey         InChI                1.03  DZLNHFMRPBPULJ-VKHMYHEASA-N                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PRS "SYSTEMATIC NAME" ACDLabs              10.04 "(4R)-1,3-thiazolidine-4-carboxylic acid" 
+PRS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4R)-1,3-thiazolidine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PRS "Create component"  1999-07-08 EBI  
+PRS "Modify descriptor" 2011-06-04 RCSB 
+# 

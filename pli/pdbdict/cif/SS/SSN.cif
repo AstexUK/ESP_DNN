@@ -1,0 +1,112 @@
+data_SSN
+# 
+_chem_comp.id                                    SSN 
+_chem_comp.name                                  "4-oxobutanoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Succinic semialdehyde" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-01-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        102.089 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SSN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3Q8N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SSN C1  C1  C 0 1 N N N 23.447 61.346 -31.460 1.529  -0.007 -0.022 C1  SSN 1  
+SSN O1  O1  O 0 1 N N N 23.105 61.338 -32.684 1.608  -1.213 0.003  O1  SSN 2  
+SSN C2  C2  C 0 1 N N N 24.857 61.024 -30.965 0.184  0.662  0.093  C2  SSN 3  
+SSN O2  O2  O 0 1 N N N 22.552 61.576 -30.616 2.640  0.736  -0.148 O2  SSN 4  
+SSN C3  C3  C 0 1 N N N 25.956 61.178 -32.026 -0.906 -0.404 0.224  C3  SSN 5  
+SSN C4  C4  C 0 1 N N N 27.348 61.097 -31.404 -2.252 0.266  0.340  C4  SSN 6  
+SSN O4  O4  O 0 1 N N N 28.430 61.172 -32.065 -3.138 -0.023 -0.428 O4  SSN 7  
+SSN H2  H2  H 0 1 N N N 25.089 61.712 -30.138 0.171  1.304  0.974  H2  SSN 8  
+SSN H2A H2A H 0 1 N N N 24.863 59.978 -30.623 -0.001 1.263  -0.797 H2A SSN 9  
+SSN HO2 HO2 H 0 1 N N N 21.724 61.713 -31.061 3.479  0.262  -0.218 HO2 SSN 10 
+SSN H3  H3  H 0 1 N N N 25.850 60.371 -32.766 -0.895 -1.046 -0.656 H3  SSN 11 
+SSN H3A H3A H 0 1 N N N 25.842 62.157 -32.515 -0.722 -1.005 1.115  H3A SSN 12 
+SSN H4  H4  H 0 1 N N N 27.417 60.968 -30.334 -2.424 1.003  1.109  H4  SSN 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SSN O1 C1  DOUB N N 1  
+SSN C1 C2  SING N N 2  
+SSN C1 O2  SING N N 3  
+SSN C3 C2  SING N N 4  
+SSN C2 H2  SING N N 5  
+SSN C2 H2A SING N N 6  
+SSN O2 HO2 SING N N 7  
+SSN C3 C4  SING N N 8  
+SSN C3 H3  SING N N 9  
+SSN C3 H3A SING N N 10 
+SSN O4 C4  DOUB N N 11 
+SSN C4 H4  SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SSN SMILES           ACDLabs              12.01 "O=CCCC(=O)O"                                      
+SSN SMILES_CANONICAL CACTVS               3.370 "OC(=O)CCC=O"                                      
+SSN SMILES           CACTVS               3.370 "OC(=O)CCC=O"                                      
+SSN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C=O"                                    
+SSN SMILES           "OpenEye OEToolkits" 1.7.0 "C(CC(=O)O)C=O"                                    
+SSN InChI            InChI                1.03  "InChI=1S/C4H6O3/c5-3-1-2-4(6)7/h3H,1-2H2,(H,6,7)" 
+SSN InChIKey         InChI                1.03  UIUJIQZEACWQSV-UHFFFAOYSA-N                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SSN "SYSTEMATIC NAME" ACDLabs              12.01 "4-oxobutanoic acid" 
+SSN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "4-oxobutanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SSN "Create component"  2011-01-31 RCSB 
+SSN "Modify descriptor" 2011-06-04 RCSB 
+# 

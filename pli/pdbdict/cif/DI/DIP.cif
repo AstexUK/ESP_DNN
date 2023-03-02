@@ -1,0 +1,154 @@
+data_DIP
+# 
+_chem_comp.id                                    DIP 
+_chem_comp.name                                  DIPENTYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H23 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        157.296 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DIP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A1B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DIP N      N      N 0 1 N N N 42.265 -9.225  44.829 0.538  -0.020 0.000  N      DIP 1  
+DIP C1     C1     C 0 1 N N N 43.499 -9.906  45.239 -0.338 0.003  1.178  C1     DIP 2  
+DIP C2     C2     C 0 1 N N N 43.563 -11.069 44.268 0.514  -0.019 2.448  C2     DIP 3  
+DIP C3     C3     C 0 1 N N N 44.680 -11.995 44.660 -0.398 0.005  3.676  C3     DIP 4  
+DIP C4     C4     C 0 1 N N N 45.102 -12.765 43.425 0.454  -0.017 4.946  C4     DIP 5  
+DIP C5     C5     C 0 1 N N N 43.970 -13.601 42.819 -0.458 0.006  6.174  C5     DIP 6  
+DIP "C1'"  "C1'"  C 0 1 N N N 41.024 -9.428  45.594 -0.338 0.003  -1.178 "C1'"  DIP 7  
+DIP "C2'"  "C2'"  C 0 1 N N N 41.189 -8.777  46.982 0.514  -0.019 -2.448 "C2'"  DIP 8  
+DIP "C3'"  "C3'"  C 0 1 N N N 41.017 -7.249  47.037 -0.398 0.005  -3.676 "C3'"  DIP 9  
+DIP "C4'"  "C4'"  C 0 1 N N N 41.518 -6.854  48.399 0.454  -0.017 -4.946 "C4'"  DIP 10 
+DIP "C5'"  "C5'"  C 0 1 N N N 41.547 -5.345  48.491 -0.458 0.006  -6.174 "C5'"  DIP 11 
+DIP HN     HN     H 0 1 N N N 42.081 -9.450  43.851 1.047  0.850  0.000  HN     DIP 12 
+DIP H11    1H1    H 0 1 N N N 44.407 -9.260  45.260 -0.990 -0.869 1.163  H11    DIP 13 
+DIP H12    2H1    H 0 1 N N N 43.544 -10.189 46.316 -0.943 0.910  1.163  H12    DIP 14 
+DIP H21    1H2    H 0 1 N N N 42.586 -11.600 44.184 1.167  0.853  2.464  H21    DIP 15 
+DIP H22    2H2    H 0 1 N N N 43.651 -10.728 43.210 1.119  -0.926 2.464  H22    DIP 16 
+DIP H31    1H3    H 0 1 N N N 45.529 -11.464 45.149 -1.051 -0.867 3.661  H31    DIP 17 
+DIP H32    2H3    H 0 1 N N N 44.410 -12.660 45.512 -1.003 0.911  3.661  H32    DIP 18 
+DIP H41    1H4    H 0 1 N N N 45.542 -12.081 42.662 1.106  0.854  4.961  H41    DIP 19 
+DIP H42    2H4    H 0 1 N N N 45.993 -13.399 43.638 1.059  -0.924 4.961  H42    DIP 20 
+DIP H51    1H5    H 0 1 N N N 44.280 -14.167 41.910 0.148  -0.009 7.079  H51    DIP 21 
+DIP H52    2H5    H 0 1 N N N 43.529 -14.284 43.581 -1.063 0.913  6.158  H52    DIP 22 
+DIP H53    3H5    H 0 1 N N N 43.078 -12.966 42.605 -1.111 -0.866 6.158  H53    DIP 23 
+DIP "H1'1" "1H1'" H 0 0 N N N 40.122 -9.056  45.052 -0.990 -0.869 -1.163 "H1'1" DIP 24 
+DIP "H1'2" "2H1'" H 0 0 N N N 40.732 -10.502 45.658 -0.943 0.910  -1.163 "H1'2" DIP 25 
+DIP "H2'1" "1H2'" H 0 0 N N N 40.498 -9.261  47.711 1.167  0.853  -2.464 "H2'1" DIP 26 
+DIP "H2'2" "2H2'" H 0 0 N N N 42.174 -9.062  47.418 1.119  -0.926 -2.464 "H2'2" DIP 27 
+DIP "H3'1" "1H3'" H 0 0 N N N 41.512 -6.707  46.197 -1.051 -0.867 -3.661 "H3'1" DIP 28 
+DIP "H3'2" "2H3'" H 0 0 N N N 39.980 -6.901  46.817 -1.003 0.911  -3.661 "H3'2" DIP 29 
+DIP "H4'1" "1H4'" H 0 0 N N N 40.925 -7.319  49.221 1.106  0.854  -4.961 "H4'1" DIP 30 
+DIP "H4'2" "2H4'" H 0 0 N N N 42.505 -7.313  48.639 1.059  -0.924 -4.961 "H4'2" DIP 31 
+DIP "H5'1" "1H5'" H 0 0 N N N 41.918 -5.052  49.500 0.148  -0.009 -7.079 "H5'1" DIP 32 
+DIP "H5'2" "2H5'" H 0 0 N N N 42.139 -4.880  47.668 -1.111 -0.866 -6.158 "H5'2" DIP 33 
+DIP "H5'3" "3H5'" H 0 0 N N N 40.560 -4.885  48.250 -1.063 0.913  -6.158 "H5'3" DIP 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DIP N     C1     SING N N 1  
+DIP N     "C1'"  SING N N 2  
+DIP N     HN     SING N N 3  
+DIP C1    C2     SING N N 4  
+DIP C1    H11    SING N N 5  
+DIP C1    H12    SING N N 6  
+DIP C2    C3     SING N N 7  
+DIP C2    H21    SING N N 8  
+DIP C2    H22    SING N N 9  
+DIP C3    C4     SING N N 10 
+DIP C3    H31    SING N N 11 
+DIP C3    H32    SING N N 12 
+DIP C4    C5     SING N N 13 
+DIP C4    H41    SING N N 14 
+DIP C4    H42    SING N N 15 
+DIP C5    H51    SING N N 16 
+DIP C5    H52    SING N N 17 
+DIP C5    H53    SING N N 18 
+DIP "C1'" "C2'"  SING N N 19 
+DIP "C1'" "H1'1" SING N N 20 
+DIP "C1'" "H1'2" SING N N 21 
+DIP "C2'" "C3'"  SING N N 22 
+DIP "C2'" "H2'1" SING N N 23 
+DIP "C2'" "H2'2" SING N N 24 
+DIP "C3'" "C4'"  SING N N 25 
+DIP "C3'" "H3'1" SING N N 26 
+DIP "C3'" "H3'2" SING N N 27 
+DIP "C4'" "C5'"  SING N N 28 
+DIP "C4'" "H4'1" SING N N 29 
+DIP "C4'" "H4'2" SING N N 30 
+DIP "C5'" "H5'1" SING N N 31 
+DIP "C5'" "H5'2" SING N N 32 
+DIP "C5'" "H5'3" SING N N 33 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DIP SMILES           ACDLabs              10.04 "N(CCCCC)CCCCC"                                             
+DIP SMILES_CANONICAL CACTVS               3.341 CCCCCNCCCCC                                                 
+DIP SMILES           CACTVS               3.341 CCCCCNCCCCC                                                 
+DIP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCCNCCCCC                                                 
+DIP SMILES           "OpenEye OEToolkits" 1.5.0 CCCCCNCCCCC                                                 
+DIP InChI            InChI                1.03  InChI=1S/C10H23N/c1-3-5-7-9-11-10-8-6-4-2/h11H,3-10H2,1-2H3 
+DIP InChIKey         InChI                1.03  JACMPVXHEARCBO-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DIP "SYSTEMATIC NAME" ACDLabs              10.04 N-pentylpentan-1-amine 
+DIP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 N-pentylpentan-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DIP "Create component"  1999-07-08 RCSB 
+DIP "Modify descriptor" 2011-06-04 RCSB 
+# 

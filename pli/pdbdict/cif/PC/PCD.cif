@@ -1,0 +1,231 @@
+data_PCD
+# 
+_chem_comp.id                                    PCD 
+_chem_comp.name                                  "(MOLYBDOPTERIN-CYTOSINE DINUCLEOTIDE-S,S)-DIOXO-AQUA-MOLYBDENUM(V)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H26 Mo N8 O16 P2 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "MOLYBDENUM COFACTOR; MOCO" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        844.471 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PCD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PCD N1     N1     N  0 1 Y N N 55.344 123.432 96.085  ? ? ? N1     PCD 1  
+PCD C2     C2     C  0 1 Y N N 56.485 122.822 96.521  ? ? ? C2     PCD 2  
+PCD N3     N3     N  0 1 Y N N 56.611 122.574 97.843  ? ? ? N3     PCD 3  
+PCD C4     C4     C  0 1 Y N N 55.698 122.881 98.781  ? ? ? C4     PCD 4  
+PCD C5     C5     C  0 1 Y N N 54.482 123.555 98.236  ? ? ? C5     PCD 5  
+PCD C6     C6     C  0 1 Y N N 54.344 123.806 96.900  ? ? ? C6     PCD 6  
+PCD O2     O2     O  0 1 N N N 57.440 122.456 95.818  ? ? ? O2     PCD 7  
+PCD N4     N4     N  0 1 N N N 55.857 122.620 100.052 ? ? ? N4     PCD 8  
+PCD "C1'"  C1*    C  0 1 N N R 55.198 123.671 94.661  ? ? ? "C1'"  PCD 9  
+PCD C2D    C2*    C  0 1 N N R 54.250 122.857 93.765  ? ? ? C2D    PCD 10 
+PCD "O2'"  O2*    O  0 1 N N N 54.398 121.445 93.823  ? ? ? "O2'"  PCD 11 
+PCD "C3'"  C3*    C  0 1 N N S 53.220 123.476 92.782  ? ? ? "C3'"  PCD 12 
+PCD C4D    C4*    C  0 1 N N R 53.603 124.916 93.293  ? ? ? C4D    PCD 13 
+PCD O4D    O4*    O  0 1 N N N 54.731 124.925 94.181  ? ? ? O4D    PCD 14 
+PCD "O3'"  O3*    O  0 1 N N N 54.057 123.138 91.713  ? ? ? "O3'"  PCD 15 
+PCD "C5'"  C5*    C  0 1 N N N 52.374 125.704 93.848  ? ? ? "C5'"  PCD 16 
+PCD "O5'"  O5*    O  0 1 N N N 52.075 124.765 94.903  ? ? ? "O5'"  PCD 17 
+PCD PA     PA     P  0 1 N N R 50.718 125.131 95.669  ? ? ? PA     PCD 18 
+PCD O1A    O1A    O  0 1 N N N 50.102 123.837 96.368  ? ? ? O1A    PCD 19 
+PCD O2A    O2A    O  0 1 N N N 51.111 126.028 96.862  ? ? ? O2A    PCD 20 
+PCD O3A    O3A    O  0 1 N N N 49.586 125.904 94.737  ? ? ? O3A    PCD 21 
+PCD PB     PB     P  0 1 N N R 48.613 125.467 93.554  ? ? ? PB     PCD 22 
+PCD O1B    O1B    O  0 1 N N N 47.305 125.129 94.336  ? ? ? O1B    PCD 23 
+PCD O2B    O2B    O  0 1 N N N 49.660 124.674 92.711  ? ? ? O2B    PCD 24 
+PCD O3B    O3B    O  0 1 N N N 48.598 126.881 92.904  ? ? ? O3B    PCD 25 
+PCD C10    C10    C  0 1 N N N 47.595 127.831 93.163  ? ? ? C10    PCD 26 
+PCD "C9'"  "C9'"  C  0 1 N N R 48.122 129.171 93.559  ? ? ? "C9'"  PCD 27 
+PCD "C8'"  "C8'"  C  0 1 N N N 47.045 130.267 93.605  ? ? ? "C8'"  PCD 28 
+PCD "S8'"  "S8'"  S  0 1 N N N 45.621 130.015 94.657  ? ? ? "S8'"  PCD 29 
+PCD "C7'"  "C7'"  C  0 1 N N N 47.172 131.418 92.892  ? ? ? "C7'"  PCD 30 
+PCD "S7'"  "S7'"  S  0 1 N N N 45.772 132.509 92.878  ? ? ? "S7'"  PCD 31 
+PCD "C6'"  "C6'"  C  0 1 N N R 48.474 131.677 92.152  ? ? ? "C6'"  PCD 32 
+PCD C7     C7     C  0 1 N N R 49.624 130.792 92.658  ? ? ? C7     PCD 33 
+PCD "O9'"  "O9'"  O  0 1 N N N 49.122 129.457 92.585  ? ? ? "O9'"  PCD 34 
+PCD "N5'"  "N5'"  N  0 1 N N N 48.005 131.486 90.754  ? ? ? "N5'"  PCD 35 
+PCD C4A    C4A    C  0 1 Y N N 49.163 131.297 89.973  ? ? ? C4A    PCD 36 
+PCD "N8'"  "N8'"  N  0 1 N N N 50.560 131.086 91.594  ? ? ? "N8'"  PCD 37 
+PCD C4B    C4B    C  0 1 Y N N 50.551 131.084 90.178  ? ? ? C4B    PCD 38 
+PCD "N1'"  "N1'"  N  0 1 Y N N 51.554 130.922 89.305  ? ? ? "N1'"  PCD 39 
+PCD "C2'"  "C2'"  C  0 1 Y N N 51.205 130.963 87.973  ? ? ? "C2'"  PCD 40 
+PCD "N2'"  "N2'"  N  0 1 N N N 52.415 130.776 87.401  ? ? ? "N2'"  PCD 41 
+PCD "N3'"  "N3'"  N  0 1 Y N N 49.910 131.152 87.598  ? ? ? "N3'"  PCD 42 
+PCD "C4'"  "C4'"  C  0 1 Y N N 49.018 131.300 88.607  ? ? ? "C4'"  PCD 43 
+PCD "O4'"  "O4'"  O  0 1 N N N 47.871 131.461 87.862  ? ? ? "O4'"  PCD 44 
+PCD MO     MO     MO 0 0 N N N 43.903 131.550 93.855  ? ? ? MO     PCD 45 
+PCD OR1    OR1    O  0 1 N N N 43.027 133.651 94.017  ? ? ? OR1    PCD 46 
+PCD OM2    OM2    O  0 1 N N N 42.993 131.008 95.181  ? ? ? OM2    PCD 47 
+PCD OM1    OM1    O  0 1 N N N 43.322 130.697 92.531  ? ? ? OM1    PCD 48 
+PCD H5     H5     H  0 1 N N N 53.634 123.887 98.858  ? ? ? H5     PCD 49 
+PCD H6     H6     H  0 1 N N N 53.446 124.298 96.489  ? ? ? H6     PCD 50 
+PCD H42    2H4    H  0 1 N N N 55.164 122.852 100.763 ? ? ? H42    PCD 51 
+PCD H41    1H4    H  0 1 N N N 56.740 123.041 100.339 ? ? ? H41    PCD 52 
+PCD "H1'"  H1*    H  0 1 N N N 56.283 123.429 94.582  ? ? ? "H1'"  PCD 53 
+PCD "H2'"  H2*    H  0 1 N N N 53.521 123.691 93.887  ? ? ? "H2'"  PCD 54 
+PCD H2O1   1H2O   H  0 0 N N N 53.812 120.942 93.269  ? ? ? H2O1   PCD 55 
+PCD "H3'"  H3*    H  0 1 N N N 52.131 123.277 92.642  ? ? ? "H3'"  PCD 56 
+PCD H4D    H4*    H  0 1 N N N 53.942 125.476 92.390  ? ? ? H4D    PCD 57 
+PCD H3O1   1H3O   H  0 0 N N N 53.426 123.516 91.111  ? ? ? H3O1   PCD 58 
+PCD "H5'2" 2H5*   H  0 0 N N N 52.527 126.771 94.132  ? ? ? "H5'2" PCD 59 
+PCD "H5'1" 1H5*   H  0 0 N N N 51.556 125.959 93.134  ? ? ? "H5'1" PCD 60 
+PCD HOA2   2HOA   H  0 0 N N N 50.305 126.245 97.316  ? ? ? HOA2   PCD 61 
+PCD HOB2   2HOB   H  0 0 N N N 49.079 124.413 92.005  ? ? ? HOB2   PCD 62 
+PCD H102   2H10   H  0 0 N N N 46.905 127.922 92.291  ? ? ? H102   PCD 63 
+PCD H101   1H10   H  0 0 N N N 46.879 127.448 93.928  ? ? ? H101   PCD 64 
+PCD "H9'"  "H9'"  H  0 1 N N N 48.520 129.152 94.600  ? ? ? "H9'"  PCD 65 
+PCD "H6'"  "H6'"  H  0 1 N N N 48.956 132.672 92.293  ? ? ? "H6'"  PCD 66 
+PCD H7     H7     H  0 1 N N N 50.040 130.935 93.682  ? ? ? H7     PCD 67 
+PCD "H5'"  "H5'"  H  0 1 N N N 47.408 132.242 90.419  ? ? ? "H5'"  PCD 68 
+PCD "H8'"  "H8'"  H  0 1 N N N 51.352 130.483 91.816  ? ? ? "H8'"  PCD 69 
+PCD "H2'2" "2H2'" H  0 0 N N N 52.156 130.806 86.414  ? ? ? "H2'2" PCD 70 
+PCD "H2'1" "1H2'" H  0 0 N N N 52.922 129.943 87.700  ? ? ? "H2'1" PCD 71 
+PCD "H4'"  "H4'"  H  0 1 N N N 47.770 131.463 86.917  ? ? ? "H4'"  PCD 72 
+PCD HR11   1HR1   H  0 0 N N N 42.358 134.249 93.705  ? ? ? HR11   PCD 73 
+PCD HR12   2HR1   H  0 0 N N N 42.793 133.640 94.938  ? ? ? HR12   PCD 74 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PCD N1    C2     SING Y N 1  
+PCD N1    C6     SING Y N 2  
+PCD N1    "C1'"  SING N N 3  
+PCD C2    N3     SING Y N 4  
+PCD C2    O2     DOUB N N 5  
+PCD N3    C4     DOUB Y N 6  
+PCD C4    C5     SING Y N 7  
+PCD C4    N4     SING N N 8  
+PCD C5    C6     DOUB Y N 9  
+PCD C5    H5     SING N N 10 
+PCD C6    H6     SING N N 11 
+PCD N4    H42    SING N N 12 
+PCD N4    H41    SING N N 13 
+PCD "C1'" C2D    SING N N 14 
+PCD "C1'" O4D    SING N N 15 
+PCD "C1'" "H1'"  SING N N 16 
+PCD C2D   "O2'"  SING N N 17 
+PCD C2D   "C3'"  SING N N 18 
+PCD C2D   "H2'"  SING N N 19 
+PCD "O2'" H2O1   SING N N 20 
+PCD "C3'" C4D    SING N N 21 
+PCD "C3'" "O3'"  SING N N 22 
+PCD "C3'" "H3'"  SING N N 23 
+PCD C4D   O4D    SING N N 24 
+PCD C4D   "C5'"  SING N N 25 
+PCD C4D   H4D    SING N N 26 
+PCD "O3'" H3O1   SING N N 27 
+PCD "C5'" "O5'"  SING N N 28 
+PCD "C5'" "H5'2" SING N N 29 
+PCD "C5'" "H5'1" SING N N 30 
+PCD "O5'" PA     SING N N 31 
+PCD PA    O1A    DOUB N N 32 
+PCD PA    O2A    SING N N 33 
+PCD PA    O3A    SING N N 34 
+PCD O2A   HOA2   SING N N 35 
+PCD O3A   PB     SING N N 36 
+PCD PB    O1B    DOUB N N 37 
+PCD PB    O2B    SING N N 38 
+PCD PB    O3B    SING N N 39 
+PCD O2B   HOB2   SING N N 40 
+PCD O3B   C10    SING N N 41 
+PCD C10   "C9'"  SING N N 42 
+PCD C10   H102   SING N N 43 
+PCD C10   H101   SING N N 44 
+PCD "C9'" "C8'"  SING N N 45 
+PCD "C9'" "O9'"  SING N N 46 
+PCD "C9'" "H9'"  SING N N 47 
+PCD "C8'" "S8'"  SING N N 48 
+PCD "C8'" "C7'"  DOUB N N 49 
+PCD "S8'" MO     SING N N 50 
+PCD "C7'" "S7'"  SING N N 51 
+PCD "C7'" "C6'"  SING N N 52 
+PCD "S7'" MO     SING N N 53 
+PCD "C6'" C7     SING N N 54 
+PCD "C6'" "N5'"  SING N N 55 
+PCD "C6'" "H6'"  SING N N 56 
+PCD C7    "O9'"  SING N N 57 
+PCD C7    "N8'"  SING N N 58 
+PCD C7    H7     SING N N 59 
+PCD "N5'" C4A    SING N N 60 
+PCD "N5'" "H5'"  SING N N 61 
+PCD C4A   C4B    DOUB Y N 62 
+PCD C4A   "C4'"  SING Y N 63 
+PCD "N8'" C4B    SING N N 64 
+PCD "N8'" "H8'"  SING N N 65 
+PCD C4B   "N1'"  SING Y N 66 
+PCD "N1'" "C2'"  DOUB Y N 67 
+PCD "C2'" "N2'"  SING N N 68 
+PCD "C2'" "N3'"  SING Y N 69 
+PCD "N2'" "H2'2" SING N N 70 
+PCD "N2'" "H2'1" SING N N 71 
+PCD "N3'" "C4'"  DOUB Y N 72 
+PCD "C4'" "O4'"  SING N N 73 
+PCD "O4'" "H4'"  SING N N 74 
+PCD MO    OR1    SING N N 75 
+PCD MO    OM2    DOUB N N 76 
+PCD MO    OM1    DOUB N N 77 
+PCD OR1   HR11   SING N N 78 
+PCD OR1   HR12   SING N N 79 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PCD InChI            InChI                1.02b 
+;InChI=1/C19H26N8O13P2S2.Mo.H2O.2O/c20-7-1-2-27(19(31)22-7)17-11(29)10(28)5(39-17)3-36-41(32,33)40-42(34,35)37-4-6-12(43)13(44)8-16(38-6)24-14-9(23-8)15(30)26-18(21)25-14;;;;/h1-2,5-6,8,10-11,16-17,23,28-29,43-44H,3-4H2,(H,32,33)(H,34,35)(H2,20,22,31)(H4,21,24,25,26,30);;1H2;;/q;+2;;;/p-2/t5-,6-,8+,10-,11-,16-,17-;;;;/m1..../s1/fC19H24N8O13P2S2.Mo.H2O.2O/h43-44h,24,30,32,34H,20-21H2;;;;/q-2;m;;;/rC19H26MoN8O16P2S2/c21-7-1-2-28(19(32)23-7)17-11(30)10(29)5(43-17)3-40-45(36,37)44-46(38,39)41-4-6-12-13(48-20(33,34,35)47-12)8-16(42-6)25-14-9(24-8)15(31)27-18(22)26-14/h1-2,5-6,8,10-11,16-17,24,29-30H,3-4,33H2,(H,36,37)(H,38,39)(H2,21,23,32)(H4,22,25,26,27,31)/t5-,6-,8+,10-,11-,16-,17-/m1/s1/f/h25,31,36,38H,21-22H2
+;
+PCD InChIKey         InChI                1.02b YEBYDVFRFUQMER-NBXMTLLYDD 
+PCD SMILES_CANONICAL CACTVS               3.341 "O|[Mo]1(=O)(=O)SC2=C(S1)[C@@H]3Nc4c(O)nc(N)nc4N[C@@H]3O[C@@H]2CO[P@](O)(=O)O[P@@](O)(=O)OC[C@H]5O[C@H]([C@H](O)[C@@H]5O)n6ccc(N)nc6=O" 
+PCD SMILES           CACTVS               3.341 "O|[Mo]1(=O)(=O)SC2=C(S1)[CH]3Nc4c(O)nc(N)nc4N[CH]3O[CH]2CO[P](O)(=O)O[P](O)(=O)OC[CH]5O[CH]([CH](O)[CH]5O)n6ccc(N)nc6=O" 
+PCD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO[P@@](=O)(O)O[P@](=O)(O)OC[C@@H]3C4=C([C@H]5[C@@H](O3)Nc6c(c(nc(n6)N)O)N5)S[Mo](=O)(=O)(S4)[OH2])O)O" 
+PCD SMILES           "OpenEye OEToolkits" 1.5.0 "C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC3C4=C(C5C(O3)Nc6c(c(nc(n6)N)O)N5)S[Mo](=O)(=O)(S4)[OH2])O)O" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PCD "Create component" 1999-07-08 EBI 
+# 

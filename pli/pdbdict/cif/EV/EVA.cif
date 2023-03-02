@@ -1,0 +1,131 @@
+data_EVA
+# 
+_chem_comp.id                                    EVA 
+_chem_comp.name                                  "(2S,3R,4S,5R)-3,4,5-trihydroxy-6-oxopiperidine-2-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H9 N O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-10-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        191.139 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EVA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3K4D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EVA C    C    C 0 1 N N N -21.521 -27.966 -1.148 2.340  0.466  -0.019 C    EVA 1  
+EVA N    N    N 0 1 N N N -23.417 -26.487 -0.839 0.134  1.370  0.388  N    EVA 2  
+EVA O    O    O 0 1 N N N -22.050 -28.743 -1.902 2.503  1.380  -0.793 O    EVA 3  
+EVA CA   CA   C 0 1 N N S -22.404 -27.260 -0.129 0.966  0.183  0.533  CA   EVA 4  
+EVA CB   CB   C 0 1 N N R -23.080 -28.215 0.828  0.352  -0.997 -0.221 CB   EVA 5  
+EVA CG   CG   C 0 1 N N S -24.061 -27.445 1.712  -1.119 -1.131 0.191  CG   EVA 6  
+EVA OG   OG   O 0 1 N N N -22.097 -28.804 1.668  1.054  -2.197 0.110  OG   EVA 7  
+EVA CAE  CAE  C 0 1 N N N -24.668 -26.248 -0.395 -1.147 1.345  0.021  CAE  EVA 8  
+EVA OAJ  OAJ  O 0 1 N N N -25.880 -25.918 1.665  -3.188 0.116  0.245  OAJ  EVA 9  
+EVA OAK  OAK  O 0 1 N N N -25.368 -25.494 -1.042 -1.752 2.396  -0.027 OAK  EVA 10 
+EVA CD1  CD1  C 0 1 N N R -25.199 -26.890 0.884  -1.883 0.085  -0.337 CD1  EVA 11 
+EVA OD2  OD2  O 0 1 N N N -24.642 -28.388 2.597  -1.669 -2.325 -0.369 OD2  EVA 12 
+EVA OXT  OXT  O 0 1 N N N -20.322 -27.747 -1.161 3.380  -0.300 0.344  OXT  EVA 13 
+EVA HN   HN   H 0 1 N N N -23.163 -26.103 -1.727 0.537  2.233  0.574  HN   EVA 14 
+EVA HA   HA   H 0 1 N N N -21.756 -26.607 0.475  1.049  -0.073 1.590  HA   EVA 15 
+EVA HB   HB   H 0 1 N N N -23.613 -28.987 0.254  0.418  -0.819 -1.295 HB   EVA 16 
+EVA HG   HG   H 0 1 N N N -23.531 -26.628 2.223  -1.193 -1.168 1.278  HG   EVA 17 
+EVA HOG  HOG  H 0 1 N N N -22.516 -29.406 2.272  1.995  -2.176 -0.113 HOG  EVA 18 
+EVA HOAJ HOAJ H 0 0 N N N -26.100 -25.171 1.121  -3.732 0.859  -0.050 HOAJ EVA 19 
+EVA HD1  HD1  H 0 1 N N N -25.883 -27.703 0.599  -1.972 0.014  -1.421 HD1  EVA 20 
+EVA HOD2 HOD2 H 0 0 N N N -25.261 -27.948 3.167  -2.598 -2.472 -0.147 HOD2 EVA 21 
+EVA HOXT HOXT H 0 0 N N N -19.911 -28.273 -1.837 4.242  -0.080 -0.036 HOXT EVA 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EVA O   C    DOUB N N 1  
+EVA OXT C    SING N N 2  
+EVA C   CA   SING N N 3  
+EVA N   CAE  SING N N 4  
+EVA N   CA   SING N N 5  
+EVA N   HN   SING N N 6  
+EVA CA  CB   SING N N 7  
+EVA CA  HA   SING N N 8  
+EVA CB  OG   SING N N 9  
+EVA CB  CG   SING N N 10 
+EVA CB  HB   SING N N 11 
+EVA CD1 CG   SING N N 12 
+EVA CG  OD2  SING N N 13 
+EVA CG  HG   SING N N 14 
+EVA OG  HOG  SING N N 15 
+EVA OAK CAE  DOUB N N 16 
+EVA CAE CD1  SING N N 17 
+EVA CD1 OAJ  SING N N 18 
+EVA OAJ HOAJ SING N N 19 
+EVA CD1 HD1  SING N N 20 
+EVA OD2 HOD2 SING N N 21 
+EVA OXT HOXT SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EVA SMILES           ACDLabs              11.02 "O=C(O)C1NC(=O)C(O)C(O)C1O"                                                                         
+EVA SMILES_CANONICAL CACTVS               3.352 "O[C@H]1[C@H](O)[C@H](NC(=O)[C@@H]1O)C(O)=O"                                                        
+EVA SMILES           CACTVS               3.352 "O[CH]1[CH](O)[CH](NC(=O)[CH]1O)C(O)=O"                                                             
+EVA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "[C@@H]1([C@@H]([C@H](NC(=O)[C@@H]1O)C(=O)O)O)O"                                                    
+EVA SMILES           "OpenEye OEToolkits" 1.7.0 "C1(C(C(NC(=O)C1O)C(=O)O)O)O"                                                                       
+EVA InChI            InChI                1.03  "InChI=1S/C6H9NO6/c8-2-1(6(12)13)7-5(11)4(10)3(2)9/h1-4,8-10H,(H,7,11)(H,12,13)/t1-,2+,3-,4+/m0/s1" 
+EVA InChIKey         InChI                1.03  YEWOHTVJCCDCCS-NTAGLIMJSA-N                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EVA "SYSTEMATIC NAME" ACDLabs              11.02 "(2S,3R,4S,5R)-3,4,5-trihydroxy-6-oxopiperidine-2-carboxylic acid"  
+EVA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S,3R,4S,5R)-3,4,5-trihydroxy-6-oxo-piperidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EVA "Create component"  2009-10-08 RCSB 
+EVA "Modify descriptor" 2011-06-04 RCSB 
+# 

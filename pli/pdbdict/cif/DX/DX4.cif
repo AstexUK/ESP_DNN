@@ -1,0 +1,120 @@
+data_DX4
+# 
+_chem_comp.id                                    DX4 
+_chem_comp.name                                  2-amino-1,9-dihydro-6H-purine-6-thione 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H5 N5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-12-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        167.192 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DX4 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BMG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DX4 C4   C4   C 0 1 Y N N -24.489 -8.914  23.271 -0.621 1.222  -0.002 C4   DX4 1  
+DX4 C5   C5   C 0 1 Y N N -24.654 -10.168 23.877 -0.790 -0.168 -0.002 C5   DX4 2  
+DX4 C6   C6   C 0 1 N N N -25.924 -10.538 24.343 0.361  -0.989 -0.001 C6   DX4 3  
+DX4 C8   C8   C 0 1 Y N N -22.575 -9.940  23.272 -2.767 0.719  0.004  C8   DX4 4  
+DX4 N1   N1   N 0 1 N N N -26.957 -9.684  24.189 1.574  -0.394 0.001  N1   DX4 5  
+DX4 N2   N2   N 0 1 N N N -27.775 -7.652  23.454 2.920  1.541  0.001  N2   DX4 6  
+DX4 N3   N3   N 0 1 N N N -25.551 -8.101  23.153 0.613  1.740  -0.001 N3   DX4 7  
+DX4 C2   C2   C 0 1 N N N -26.766 -8.479  23.598 1.675  0.965  0.000  C2   DX4 8  
+DX4 N9   N9   N 0 1 Y N N -23.205 -8.798  22.910 -1.881 1.757  0.001  N9   DX4 9  
+DX4 N7   N7   N 0 1 Y N N -23.462 -10.763 23.855 -2.123 -0.411 -0.003 N7   DX4 10 
+DX4 S6   S6   S 0 1 N N N -26.220 -12.122 25.101 0.221  -2.695 0.001  S6   DX4 11 
+DX4 H8   H8   H 0 1 N N N -21.528 -10.155 23.117 -3.842 0.821  0.007  H8   DX4 12 
+DX4 HN2  HN2  H 0 1 N N N -27.477 -6.810  23.003 3.713  0.982  0.002  HN2  DX4 13 
+DX4 HN2A HN2A H 0 0 N N N -28.711 -7.838  23.753 3.008  2.507  0.001  HN2A DX4 14 
+DX4 HN9  HN9  H 0 1 N N N -22.787 -8.011  22.456 -2.103 2.701  0.002  HN9  DX4 15 
+DX4 H5   H5   H 0 1 N N N -27.868 -9.941  24.512 2.378  -0.938 0.002  H5   DX4 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DX4 C4 C5   DOUB Y N 1  
+DX4 C4 N3   SING N N 2  
+DX4 C4 N9   SING Y N 3  
+DX4 C5 C6   SING N N 4  
+DX4 C5 N7   SING Y N 5  
+DX4 C6 N1   SING N N 6  
+DX4 C6 S6   DOUB N N 7  
+DX4 C8 N9   SING Y N 8  
+DX4 C8 N7   DOUB Y N 9  
+DX4 C8 H8   SING N N 10 
+DX4 N1 C2   SING N N 11 
+DX4 N1 H5   SING N N 12 
+DX4 N2 C2   SING N N 13 
+DX4 N2 HN2  SING N N 14 
+DX4 N2 HN2A SING N N 15 
+DX4 N3 C2   DOUB N N 16 
+DX4 N9 HN9  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DX4 SMILES           ACDLabs              10.04 "S=C1c2ncnc2N=C(N1)N"                                                  
+DX4 SMILES_CANONICAL CACTVS               3.341 "NC1=Nc2[nH]cnc2C(=S)N1"                                               
+DX4 SMILES           CACTVS               3.341 "NC1=Nc2[nH]cnc2C(=S)N1"                                               
+DX4 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1[nH]c2c(n1)C(=S)NC(=N2)N"                                           
+DX4 SMILES           "OpenEye OEToolkits" 1.5.0 "c1[nH]c2c(n1)C(=S)NC(=N2)N"                                           
+DX4 InChI            InChI                1.03  "InChI=1S/C5H5N5S/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H4,6,7,8,9,10,11)" 
+DX4 InChIKey         InChI                1.03  WYWHKKSPHMUBEB-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DX4 "SYSTEMATIC NAME" ACDLabs              10.04 2-amino-1,9-dihydro-6H-purine-6-thione 
+DX4 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-amino-1,9-dihydropurine-6-thione     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DX4 "Create component"  2007-12-17 RCSB 
+DX4 "Modify descriptor" 2011-06-04 RCSB 
+# 

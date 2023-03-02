@@ -1,0 +1,111 @@
+data_IBF
+# 
+_chem_comp.id                                    IBF 
+_chem_comp.name                                  1,2,3,4,5-pentafluoro-6-iodobenzene 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 F5 I" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-07-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        293.961 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IBF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3DN3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IBF F6 F6 F 0 1 N N N 27.487 5.584 2.387 0.043  -2.369 0.004  F6 IBF 1  
+IBF C6 C6 C 0 1 Y N N 26.895 6.144 3.453 -0.632 -1.199 0.004  C6 IBF 2  
+IBF C1 C1 C 0 1 Y N N 27.291 7.416 3.836 0.060  0.000  0.002  C1 IBF 3  
+IBF I1 I1 I 0 1 N N N 28.776 8.437 2.782 2.155  0.000  -0.001 I1 IBF 4  
+IBF C5 C5 C 0 1 Y N N 25.905 5.441 4.144 -2.018 -1.200 0.000  C5 IBF 5  
+IBF F5 F5 F 0 1 N N N 25.560 4.214 3.737 -2.693 -2.370 -0.003 F5 IBF 6  
+IBF C4 C4 C 0 1 Y N N 25.275 5.987 5.247 -2.711 -0.000 -0.000 C4 IBF 7  
+IBF F4 F4 F 0 1 N N N 24.321 5.310 5.907 -4.062 -0.000 -0.004 F4 IBF 8  
+IBF C3 C3 C 0 1 Y N N 25.664 7.345 5.689 -2.018 1.200  0.003  C3 IBF 9  
+IBF F3 F3 F 0 1 N N N 25.090 7.924 6.752 -2.693 2.370  0.002  F3 IBF 10 
+IBF C2 C2 C 0 1 Y N N 26.717 8.043 4.921 -0.632 1.199  0.001  C2 IBF 11 
+IBF F2 F2 F 0 1 N N N 27.119 9.273 5.261 0.043  2.369  -0.001 F2 IBF 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IBF F6 C6 SING N N 1  
+IBF C6 C1 DOUB Y N 2  
+IBF C6 C5 SING Y N 3  
+IBF C1 I1 SING N N 4  
+IBF C1 C2 SING Y N 5  
+IBF C5 F5 SING N N 6  
+IBF C5 C4 DOUB Y N 7  
+IBF C4 F4 SING N N 8  
+IBF C4 C3 SING Y N 9  
+IBF C3 F3 SING N N 10 
+IBF C3 C2 DOUB Y N 11 
+IBF C2 F2 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IBF SMILES           ACDLabs              10.04 "Fc1c(F)c(F)c(F)c(I)c1F"                       
+IBF SMILES_CANONICAL CACTVS               3.341 "Fc1c(F)c(F)c(I)c(F)c1F"                       
+IBF SMILES           CACTVS               3.341 "Fc1c(F)c(F)c(I)c(F)c1F"                       
+IBF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1(c(c(c(c(c1F)F)I)F)F)F"                     
+IBF SMILES           "OpenEye OEToolkits" 1.5.0 "c1(c(c(c(c(c1F)F)I)F)F)F"                     
+IBF InChI            InChI                1.03  "InChI=1S/C6F5I/c7-1-2(8)4(10)6(12)5(11)3(1)9" 
+IBF InChIKey         InChI                1.03  OPYHNLNYCRZOGY-UHFFFAOYSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IBF "SYSTEMATIC NAME" ACDLabs              10.04 1,2,3,4,5-pentafluoro-6-iodobenzene  
+IBF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1,2,3,4,5-pentafluoro-6-iodo-benzene 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IBF "Create component"  2008-07-11 RCSB 
+IBF "Modify descriptor" 2011-06-04 RCSB 
+# 

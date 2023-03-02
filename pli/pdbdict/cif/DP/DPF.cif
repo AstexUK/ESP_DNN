@@ -1,0 +1,126 @@
+data_DPF
+# 
+_chem_comp.id                                    DPF 
+_chem_comp.name                                  "DIETHYL HYDROGEN PHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H11 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-08-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.102 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DPF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2R1K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DPF O4  O4  O 0 1 N N N 30.363 20.119 -2.646 0.000  -1.487 1.116  O4  DPF 1  
+DPF P1  P1  P 0 1 N N N 29.238 20.233 -1.624 -0.000 -0.374 -0.047 P1  DPF 2  
+DPF O2  O2  O 0 1 N N N 27.899 19.789 -2.169 -0.000 -1.040 -1.368 O2  DPF 3  
+DPF O3  O3  O 0 1 N N N 29.682 19.401 -0.316 -1.315 0.546  0.091  O3  DPF 4  
+DPF C1  C1  C 0 1 N N N 30.704 19.854 0.574  -2.639 0.041  -0.090 C1  DPF 5  
+DPF C4  C4  C 0 1 N N N 31.055 18.675 1.448  -3.648 1.174  0.111  C4  DPF 6  
+DPF O1  O1  O 0 1 N N N 29.005 21.737 -1.104 1.315  0.546  0.091  O1  DPF 7  
+DPF C2  C2  C 0 1 N N N 29.048 22.218 0.236  2.639  0.041  -0.090 C2  DPF 8  
+DPF C3  C3  C 0 1 N N N 29.213 23.711 0.065  3.648  1.174  0.111  C3  DPF 9  
+DPF H41 1H4 H 0 1 N N N 31.140 17.771 0.828  -3.547 1.576  1.119  H41 DPF 10 
+DPF H42 2H4 H 0 1 N N N 32.014 18.865 1.952  -3.457 1.964  -0.616 H42 DPF 11 
+DPF H43 3H4 H 0 1 N N N 30.267 18.530 2.201  -4.659 0.789  -0.027 H43 DPF 12 
+DPF H11 1H1 H 0 1 N N N 31.585 20.193 0.010  -2.740 -0.361 -1.098 H11 DPF 13 
+DPF H12 2H1 H 0 1 N N N 30.360 20.708 1.175  -2.830 -0.748 0.637  H12 DPF 14 
+DPF HO4 HO4 H 0 1 N N N 29.995 20.095 -3.521 0.000  -1.121 2.011  HO4 DPF 15 
+DPF H21 1H2 H 0 1 N N N 28.126 21.973 0.784  2.830  -0.748 0.637  H21 DPF 16 
+DPF H22 2H2 H 0 1 N N N 29.856 21.763 0.828  2.740  -0.361 -1.098 H22 DPF 17 
+DPF H31 1H3 H 0 1 N N N 29.253 24.192 1.054  3.457  1.964  -0.616 H31 DPF 18 
+DPF H32 2H3 H 0 1 N N N 30.146 23.917 -0.481 3.547  1.576  1.119  H32 DPF 19 
+DPF H33 3H3 H 0 1 N N N 28.360 24.111 -0.503 4.659  0.789  -0.027 H33 DPF 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DPF O4 P1  SING N N 1  
+DPF O4 HO4 SING N N 2  
+DPF P1 O3  SING N N 3  
+DPF P1 O2  DOUB N N 4  
+DPF P1 O1  SING N N 5  
+DPF O3 C1  SING N N 6  
+DPF C1 C4  SING N N 7  
+DPF C1 H11 SING N N 8  
+DPF C1 H12 SING N N 9  
+DPF C4 H41 SING N N 10 
+DPF C4 H42 SING N N 11 
+DPF C4 H43 SING N N 12 
+DPF O1 C2  SING N N 13 
+DPF C2 C3  SING N N 14 
+DPF C2 H21 SING N N 15 
+DPF C2 H22 SING N N 16 
+DPF C3 H31 SING N N 17 
+DPF C3 H32 SING N N 18 
+DPF C3 H33 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DPF SMILES           ACDLabs              10.04 "O=P(O)(OCC)OCC"                                            
+DPF SMILES_CANONICAL CACTVS               3.341 "CCO[P](O)(=O)OCC"                                          
+DPF SMILES           CACTVS               3.341 "CCO[P](O)(=O)OCC"                                          
+DPF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCOP(=O)(O)OCC"                                            
+DPF SMILES           "OpenEye OEToolkits" 1.5.0 "CCOP(=O)(O)OCC"                                            
+DPF InChI            InChI                1.03  "InChI=1S/C4H11O4P/c1-3-7-9(5,6)8-4-2/h3-4H2,1-2H3,(H,5,6)" 
+DPF InChIKey         InChI                1.03  UCQFCFPECQILOL-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DPF "SYSTEMATIC NAME" ACDLabs              10.04 "diethyl hydrogen phosphate" 
+DPF "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "diethyl hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DPF "Create component"  2007-08-30 RCSB 
+DPF "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,233 @@
+data_0QH
+# 
+_chem_comp.id                                    0QH 
+_chem_comp.name                                  "(1R)-1-benzyl-1-methyl-1-(2-{[4-(1-methylethyl)phenyl]amino}-2-oxoethyl)-2-{(2S)-4-methyl-2-[(trifluoroacetyl)amino]pentanoyl}diazanium" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C27 H36 F3 N4 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2008-11-07 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        521.595 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0QH 
+_chem_comp.pdbx_model_coordinates_details        "not provided" 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BMA 
+_chem_comp.pdbx_subcomponent_list                "TFA LEU MBH ISO" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0QH C1     C1  C 0 1 N N N 41.149 23.354 37.644 -3.775 2.295  -0.150 C1     TFA 1  
+0QH C2     C2  C 0 1 N N N 41.347 24.616 38.562 -5.095 2.812  -0.661 C2     TFA 2  
+0QH O      O1  O 0 1 N N N 40.738 23.466 36.483 -3.099 2.981  0.588  O      TFA 3  
+0QH F1     F1  F 0 1 N N N 41.871 24.392 39.754 -5.322 4.095  -0.151 F1     TFA 4  
+0QH F2     F2  F 0 1 N N N 42.130 25.537 38.058 -5.065 2.865  -2.059 F2     TFA 5  
+0QH F3     F3  F 0 1 N N N 40.210 25.231 38.787 -6.122 1.957  -0.249 F3     TFA 6  
+0QH N      N1  N 0 1 N N N 41.428 22.136 38.149 -3.347 1.068  -0.509 N      LEU 7  
+0QH CA     C3  C 0 1 N N S 40.800 20.919 37.702 -2.064 0.565  -0.012 CA     LEU 8  
+0QH C      C4  C 0 1 N N N 39.307 21.048 37.435 -1.526 -0.469 -0.966 C      LEU 9  
+0QH O1     O3  O 0 1 N N N 38.514 21.565 38.211 -2.153 -0.758 -1.963 O      LEU 10 
+0QH CB     C5  C 0 1 N N N 41.100 19.869 38.747 -2.264 -0.068 1.367  CB     LEU 11 
+0QH CG     C6  C 0 1 N N N 41.280 18.443 38.288 -2.691 1.010  2.366  CG     LEU 12 
+0QH CD1    C7  C 0 1 N N N 42.225 18.333 37.087 -3.011 0.359  3.713  CD1    LEU 13 
+0QH CD2    C8  C 0 1 N N N 41.811 17.676 39.479 -1.554 2.019  2.544  CD2    LEU 14 
+0QH N1     N2  N 1 1 N N R 37.773 20.686 35.406 0.139  -2.011 -1.577 N1     MBH 15 
+0QH N2     N3  N 0 1 N N N 39.121 20.568 36.190 -0.348 -1.073 -0.712 N2     MBH 16 
+0QH C3     C9  C 0 1 N N N 37.712 22.117 34.940 -0.815 -3.123 -1.682 C      MBH 17 
+0QH C11    C10 C 0 1 Y N N 36.522 22.554 34.080 -1.072 -3.696 -0.312 C1     MBH 18 
+0QH C21    C11 C 0 1 Y N N 35.753 23.641 34.490 -2.099 -3.193 0.465  C2     MBH 19 
+0QH C31    C12 C 0 1 Y N N 34.724 24.077 33.677 -2.335 -3.718 1.722  C3     MBH 20 
+0QH C4     C13 C 0 1 Y N N 34.426 23.461 32.459 -1.544 -4.746 2.201  C4     MBH 21 
+0QH C5     C14 C 0 1 Y N N 35.179 22.373 32.039 -0.518 -5.250 1.423  C5     MBH 22 
+0QH C6     C15 C 0 1 Y N N 36.225 21.923 32.850 -0.285 -4.727 0.165  C6     MBH 23 
+0QH C1M    C16 C 0 1 N N N 38.160 19.713 34.316 0.331  -1.404 -2.900 C1M    MBH 24 
+0QH CA2    C17 C 0 1 N N N 36.531 20.238 36.106 1.426  -2.515 -1.078 CA2    MBH 25 
+0QH CA1    C18 C 0 1 N N N 36.544 18.892 36.812 2.364  -1.358 -0.848 CA1    MBH 26 
+0QH O2     O5  O 0 1 N N N 36.668 17.792 36.251 1.959  -0.220 -0.955 O      MBH 27 
+0QH C12    C19 C 0 1 Y N N 36.195 18.351 39.070 4.496  -0.518 -0.212 C1     ISO 28 
+0QH N11    N4  N 0 1 N N N 36.432 19.241 38.103 3.651  -1.589 -0.522 N1     ISO 29 
+0QH C22    C20 C 0 1 Y N N 36.820 17.094 39.138 5.471  -0.662 0.767  C2     ISO 30 
+0QH C32    C21 C 0 1 Y N N 36.529 16.229 40.207 6.304  0.397  1.071  C3     ISO 31 
+0QH C41    C22 C 0 1 Y N N 35.613 16.613 41.216 6.168  1.600  0.402  C4     ISO 32 
+0QH C51    C23 C 0 1 Y N N 35.007 17.872 41.125 5.199  1.746  -0.573 C5     ISO 33 
+0QH C61    C24 C 0 1 Y N N 35.290 18.723 40.059 4.366  0.689  -0.886 C6     ISO 34 
+0QH "C1'"  C25 C 0 1 N N N 35.273 15.697 42.414 7.079  2.753  0.737  "C1'"  ISO 35 
+0QH "C2'"  C26 C 0 1 N N N 35.742 14.242 42.251 7.867  3.159  -0.511 "C2'"  ISO 36 
+0QH "C3'"  C27 C 0 1 N N N 33.777 15.691 42.501 6.243  3.939  1.221  "C3'"  ISO 37 
+0QH H      H2  H 0 1 N N N 42.111 22.073 38.877 -3.889 0.518  -1.096 H      LEU 38 
+0QH HA     H4  H 0 1 N N N 41.211 20.640 36.721 -1.356 1.390  0.067  HA     LEU 39 
+0QH HB2    H5  H 0 1 N N N 42.041 20.166 39.233 -3.036 -0.834 1.307  HB2    LEU 40 
+0QH HB3    H6  H 0 1 N N N 40.205 19.846 39.386 -1.329 -0.520 1.698  HB3    LEU 41 
+0QH HG     H7  H 0 1 N N N 40.322 18.029 37.941 -3.576 1.523  1.991  HG     LEU 42 
+0QH HD11   H8  H 0 0 N N N 41.637 18.307 36.158 -2.125 -0.154 4.088  HD11   LEU 43 
+0QH HD12   H9  H 0 0 N N N 42.898 19.203 37.070 -3.315 1.126  4.424  HD12   LEU 44 
+0QH HD13   H10 H 0 0 N N N 42.819 17.411 37.171 -3.820 -0.360 3.586  HD13   LEU 45 
+0QH HD21   H11 H 0 0 N N N 41.940 16.618 39.207 -0.669 1.506  2.920  HD21   LEU 46 
+0QH HD22   H12 H 0 0 N N N 42.781 18.097 39.783 -1.326 2.483  1.585  HD22   LEU 47 
+0QH HD23   H13 H 0 0 N N N 41.098 17.755 40.313 -1.858 2.786  3.256  HD23   LEU 48 
+0QH HN22   H16 H 0 0 N N N 39.889 20.110 35.742 0.153  -0.842 0.086  HN22   MBH 49 
+0QH H1     H17 H 0 1 N N N 37.691 22.741 35.845 -1.751 -2.760 -2.106 H1     MBH 50 
+0QH H2A    H18 H 0 1 N N N 38.585 22.229 34.280 -0.400 -3.898 -2.328 H2A    MBH 51 
+0QH H2     H19 H 0 1 N N N 35.958 24.135 35.428 -2.716 -2.390 0.091  H2     MBH 52 
+0QH H3     H20 H 0 1 N N N 34.131 24.922 33.994 -3.136 -3.325 2.330  H3     MBH 53 
+0QH H4     H21 H 0 1 N N N 33.615 23.829 31.848 -1.729 -5.156 3.184  H4     MBH 54 
+0QH H5     H22 H 0 1 N N N 34.960 21.883 31.102 0.099  -6.052 1.798  H5     MBH 55 
+0QH H6     H23 H 0 1 N N N 36.817 21.078 32.531 0.514  -5.123 -0.444 H6     MBH 56 
+0QH H1M1   H24 H 0 0 N N N 38.254 20.250 33.361 0.955  -0.515 -2.805 H1M1   MBH 57 
+0QH H1M2   H25 H 0 0 N N N 39.122 19.243 34.569 0.818  -2.120 -3.562 H1M2   MBH 58 
+0QH H1M3   H26 H 0 0 N N N 37.385 18.937 34.225 -0.637 -1.125 -3.316 H1M3   MBH 59 
+0QH HA21   H27 H 0 0 N N N 36.314 20.994 36.875 1.269  -3.048 -0.141 HA21   MBH 60 
+0QH HA22   H28 H 0 0 N N N 35.789 20.121 35.303 1.860  -3.194 -1.813 HA22   MBH 61 
+0QH HN12   H31 H 0 0 N N N 36.530 20.205 38.350 3.991  -2.497 -0.503 HN12   ISO 62 
+0QH H21    H32 H 0 1 N Y N 37.520 16.794 38.373 5.576  -1.600 1.291  H2     ISO 63 
+0QH H31    H33 H 0 1 N N N 37.008 15.263 40.259 7.062  0.286  1.832  H3     ISO 64 
+0QH H51    H34 H 0 1 N N N 34.312 18.187 41.890 5.095  2.687  -1.093 H5     ISO 65 
+0QH H61    H35 H 0 1 N N N 34.801 19.684 40.000 3.613  0.803  -1.651 H6     ISO 66 
+0QH "H1'"  H36 H 0 1 N N N 35.786 16.085 43.306 7.772  2.453  1.522  "H1'"  ISO 67 
+0QH "H2'1" H37 H 0 0 N N N 35.854 14.010 41.182 7.173  3.460  -1.296 "H2'1" ISO 68 
+0QH "H2'2" H38 H 0 0 N N N 36.709 14.110 42.758 8.525  3.993  -0.269 "H2'2" ISO 69 
+0QH "H2'3" H39 H 0 0 N N N 34.998 13.565 42.697 8.462  2.314  -0.855 "H2'3" ISO 70 
+0QH "H3'1" H40 H 0 0 N N N 33.471 15.690 43.557 5.682  3.650  2.109  "H3'1" ISO 71 
+0QH "H3'2" H41 H 0 0 N N N 33.377 16.588 42.005 6.901  4.773  1.462  "H3'2" ISO 72 
+0QH "H3'3" H42 H 0 0 N N N 33.385 14.791 42.005 5.549  4.240  0.435  "H3'3" ISO 73 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0QH C1    C2     SING N N 1  
+0QH C1    O      DOUB N N 2  
+0QH C2    F1     SING N N 3  
+0QH C2    F2     SING N N 4  
+0QH C2    F3     SING N N 5  
+0QH N     CA     SING N N 6  
+0QH N     H      SING N N 7  
+0QH CA    C      SING N N 8  
+0QH CA    CB     SING N N 9  
+0QH CA    HA     SING N N 10 
+0QH C     O1     DOUB N N 11 
+0QH CB    CG     SING N N 12 
+0QH CB    HB2    SING N N 13 
+0QH CB    HB3    SING N N 14 
+0QH CG    CD1    SING N N 15 
+0QH CG    CD2    SING N N 16 
+0QH CG    HG     SING N N 17 
+0QH CD1   HD11   SING N N 18 
+0QH CD1   HD12   SING N N 19 
+0QH CD1   HD13   SING N N 20 
+0QH CD2   HD21   SING N N 21 
+0QH CD2   HD22   SING N N 22 
+0QH CD2   HD23   SING N N 23 
+0QH N1    N2     SING N N 24 
+0QH N1    C3     SING N N 25 
+0QH N1    C1M    SING N N 26 
+0QH N1    CA2    SING N N 27 
+0QH N2    HN22   SING N N 28 
+0QH C3    C11    SING N N 29 
+0QH C3    H1     SING N N 30 
+0QH C3    H2A    SING N N 31 
+0QH C11   C21    DOUB Y N 32 
+0QH C11   C6     SING Y N 33 
+0QH C21   C31    SING Y N 34 
+0QH C21   H2     SING N N 35 
+0QH C31   C4     DOUB Y N 36 
+0QH C31   H3     SING N N 37 
+0QH C4    C5     SING Y N 38 
+0QH C4    H4     SING N N 39 
+0QH C5    C6     DOUB Y N 40 
+0QH C5    H5     SING N N 41 
+0QH C6    H6     SING N N 42 
+0QH C1M   H1M1   SING N N 43 
+0QH C1M   H1M2   SING N N 44 
+0QH C1M   H1M3   SING N N 45 
+0QH CA2   CA1    SING N N 46 
+0QH CA2   HA21   SING N N 47 
+0QH CA2   HA22   SING N N 48 
+0QH CA1   O2     DOUB N N 49 
+0QH C12   N11    SING N N 50 
+0QH C12   C22    DOUB Y N 51 
+0QH C12   C61    SING Y N 52 
+0QH N11   HN12   SING N N 53 
+0QH C22   C32    SING Y N 54 
+0QH C22   H21    SING N N 55 
+0QH C32   C41    DOUB Y N 56 
+0QH C32   H31    SING N N 57 
+0QH C41   C51    SING Y N 58 
+0QH C41   "C1'"  SING N N 59 
+0QH C51   C61    DOUB Y N 60 
+0QH C51   H51    SING N N 61 
+0QH C61   H61    SING N N 62 
+0QH "C1'" "C2'"  SING N N 63 
+0QH "C1'" "C3'"  SING N N 64 
+0QH "C1'" "H1'"  SING N N 65 
+0QH "C2'" "H2'1" SING N N 66 
+0QH "C2'" "H2'2" SING N N 67 
+0QH "C2'" "H2'3" SING N N 68 
+0QH "C3'" "H3'1" SING N N 69 
+0QH "C3'" "H3'2" SING N N 70 
+0QH "C3'" "H3'3" SING N N 71 
+0QH C1    N      SING N N 72 
+0QH C     N2     SING N N 73 
+0QH CA1   N11    SING N N 74 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0QH SMILES           ACDLabs 10.04 "O=C(Nc1ccc(cc1)C(C)C)C[N+](NC(=O)C(NC(=O)C(F)(F)F)CC(C)C)(Cc2ccccc2)C"                                                                                                                                       
+0QH SMILES_CANONICAL CACTVS  3.352 "CC(C)C[C@H](NC(=O)C(F)(F)F)C(=O)N[N@@+](C)(CC(=O)Nc1ccc(cc1)C(C)C)Cc2ccccc2"                                                                                                                                 
+0QH SMILES           CACTVS  3.352 "CC(C)C[CH](NC(=O)C(F)(F)F)C(=O)N[N+](C)(CC(=O)Nc1ccc(cc1)C(C)C)Cc2ccccc2"                                                                                                                                    
+0QH InChI            InChI   1.03  "InChI=1S/C27H35F3N4O3/c1-18(2)15-23(32-26(37)27(28,29)30)25(36)33-34(5,16-20-9-7-6-8-10-20)17-24(35)31-22-13-11-21(12-14-22)19(3)4/h6-14,18-19,23H,15-17H2,1-5H3,(H2-,31,32,33,35,36,37)/p+1/t23-,34+/m0/s1" 
+0QH InChIKey         InChI   1.03  HTEHUHSQPIQBEG-OHWKKVTOSA-O                                                                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0QH "SYSTEMATIC NAME" ACDLabs              10.04 "(1R)-1-benzyl-1-methyl-1-(2-{[4-(1-methylethyl)phenyl]amino}-2-oxoethyl)-2-{(2S)-4-methyl-2-[(trifluoroacetyl)amino]pentanoyl}diazanium"       
+0QH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(R)-methyl-[[(2S)-4-methyl-2-(2,2,2-trifluoroethanoylamino)pentanoyl]amino]-[2-oxo-2-[(4-propan-2-ylphenyl)amino]ethyl]-(phenylmethyl)azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0QH "Create component"     2008-11-07 RCSB 
+0QH "Modify aromatic_flag" 2011-06-04 RCSB 
+0QH "Modify descriptor"    2011-06-04 RCSB 
+# 

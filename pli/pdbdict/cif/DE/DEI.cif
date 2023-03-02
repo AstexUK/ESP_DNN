@@ -1,0 +1,114 @@
+data_DEI
+# 
+_chem_comp.id                                    DEI 
+_chem_comp.name                                  "(2Z)-2-hydroxy-3-(methylsulfanyl)prop-2-enoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-10-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.154 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DEI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZTW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DEI CAA  CAA  C 0 1 N N N -13.768 34.402 19.782 3.220  0.949  0.000  CAA  DEI 1  
+DEI SAF  SAF  S 0 1 N N N -14.332 32.849 19.007 2.081  -0.457 -0.000 SAF  DEI 2  
+DEI CAE  CAE  C 0 1 N N N -15.666 32.376 20.032 0.540  0.397  0.000  CAE  DEI 3  
+DEI CAH  CAH  C 0 1 N N N -16.263 31.160 19.751 -0.620 -0.300 -0.000 CAH  DEI 4  
+DEI CAG  CAG  C 0 1 N N N -17.460 30.600 20.564 -1.856 0.386  0.000  CAG  DEI 5  
+DEI OAB  OAB  O 0 1 N N N -17.996 31.168 21.553 -3.013 -0.310 -0.000 OAB  DEI 6  
+DEI OAC  OAC  O 0 1 N N N -17.811 29.489 20.154 -1.877 1.603  0.000  OAC  DEI 7  
+DEI OAD  OAD  O 0 1 N N N -15.747 30.432 18.740 -0.596 -1.663 -0.000 OAD  DEI 8  
+DEI HAA  HAA  H 0 1 N N N -13.655 34.251 20.866 4.247  0.585  0.000  HAA  DEI 9  
+DEI HAAA HAAA H 0 0 N N N -12.801 34.697 19.350 3.049  1.555  -0.890 HAAA DEI 10 
+DEI HAAB HAAB H 0 0 N N N -14.509 35.194 19.598 3.049  1.555  0.890  HAAB DEI 11 
+DEI HAE  HAE  H 0 1 N N N -16.007 33.001 20.844 0.521  1.477  0.000  HAE  DEI 12 
+DEI HOAB HOAB H 0 0 N N N -18.682 30.613 21.904 -3.805 0.245  -0.000 HOAB DEI 13 
+DEI HOAD HOAD H 0 0 N N N -15.626 30.988 17.979 -1.472 -2.071 -0.000 HOAD DEI 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DEI CAA SAF  SING N N 1  
+DEI SAF CAE  SING N N 2  
+DEI CAE CAH  DOUB N N 3  
+DEI CAH CAG  SING N N 4  
+DEI CAH OAD  SING N N 5  
+DEI CAG OAB  SING N Z 6  
+DEI CAG OAC  DOUB N N 7  
+DEI CAA HAA  SING N N 8  
+DEI CAA HAAA SING N N 9  
+DEI CAA HAAB SING N N 10 
+DEI CAE HAE  SING N N 11 
+DEI OAB HOAB SING N N 12 
+DEI OAD HOAD SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DEI SMILES           ACDLabs              10.04 "O=C(O)C(\O)=C\SC"                                          
+DEI SMILES_CANONICAL CACTVS               3.341 "CS\C=C(O)\C(O)=O"                                          
+DEI SMILES           CACTVS               3.341 "CSC=C(O)C(O)=O"                                            
+DEI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CS\C=C(\C(=O)O)/O"                                         
+DEI SMILES           "OpenEye OEToolkits" 1.5.0 "CSC=C(C(=O)O)O"                                            
+DEI InChI            InChI                1.03  "InChI=1S/C4H6O3S/c1-8-2-3(5)4(6)7/h2,5H,1H3,(H,6,7)/b3-2-" 
+DEI InChIKey         InChI                1.03  VOKJWIQPUMADMU-IHWYPQMZSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DEI "SYSTEMATIC NAME" ACDLabs              10.04 "(2Z)-2-hydroxy-3-(methylsulfanyl)prop-2-enoic acid" 
+DEI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(Z)-2-hydroxy-3-methylsulfanyl-prop-2-enoic acid"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DEI "Create component"  2008-10-14 PDBJ 
+DEI "Modify descriptor" 2011-06-04 RCSB 
+# 

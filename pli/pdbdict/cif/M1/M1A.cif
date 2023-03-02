@@ -1,0 +1,126 @@
+data_M1A
+# 
+_chem_comp.id                                    M1A 
+_chem_comp.name                                  6-AMINO-1-METHYLPURINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H8 N5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.161 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     M1A 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1B42 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+M1A N9   N9   N 0 1 Y N N 18.584 12.314 19.680 -2.396 0.744  -0.002 N9   M1A 1  
+M1A C8   C8   C 0 1 Y N N 18.952 13.395 18.924 -2.734 -0.577 0.001  C8   M1A 2  
+M1A N7   N7   N 0 1 Y N N 18.339 14.504 19.246 -1.658 -1.310 0.004  N7   M1A 3  
+M1A C5   C5   C 0 1 Y N N 17.497 14.142 20.305 -0.566 -0.509 0.003  C5   M1A 4  
+M1A C6   C6   C 0 1 Y N N 16.574 14.880 21.107 0.822  -0.730 -0.001 C6   M1A 5  
+M1A N6   N6   N 0 1 N N N 16.346 16.176 20.985 1.334  -2.016 -0.005 N6   M1A 6  
+M1A N1   N1   N 1 1 Y N N 15.914 14.217 22.059 1.631  0.324  0.002  N1   M1A 7  
+M1A C2   C2   C 0 1 Y N N 16.158 12.912 22.220 1.151  1.555  -0.001 C2   M1A 8  
+M1A N3   N3   N 0 1 Y N N 16.998 12.094 21.561 -0.141 1.809  -0.002 N3   M1A 9  
+M1A C4   C4   C 0 1 Y N N 17.644 12.798 20.581 -1.026 0.819  -0.001 C4   M1A 10 
+M1A CN1  CN1  C 0 1 N N N 14.978 14.984 22.858 3.081  0.118  0.004  CN1  M1A 11 
+M1A HN9  HN9  H 0 1 N N N 18.932 11.359 19.591 -3.012 1.493  -0.004 HN9  M1A 12 
+M1A H8   H8   H 0 1 N N N 19.694 13.373 18.108 -3.744 -0.958 0.002  H8   M1A 13 
+M1A HN61 1HN6 H 0 0 N N N 15.686 16.703 21.557 0.733  -2.777 -0.005 HN61 M1A 14 
+M1A HN62 2HN6 H 0 0 N N N 16.091 16.341 20.011 2.294  -2.155 -0.008 HN62 M1A 15 
+M1A H2   H2   H 0 1 N N N 15.573 12.434 23.024 1.844  2.383  -0.002 H2   M1A 16 
+M1A H11  1H1  H 0 1 N N N 14.426 14.430 23.653 3.440  0.069  1.032  H11  M1A 17 
+M1A H12  2H1  H 0 1 N N N 15.500 15.860 23.306 3.316  -0.816 -0.508 H12  M1A 18 
+M1A H13  3H1  H 0 1 N N N 14.250 15.499 22.188 3.567  0.947  -0.512 H13  M1A 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+M1A N9  C8   SING Y N 1  
+M1A N9  C4   SING Y N 2  
+M1A N9  HN9  SING N N 3  
+M1A C8  N7   DOUB Y N 4  
+M1A C8  H8   SING N N 5  
+M1A N7  C5   SING Y N 6  
+M1A C5  C6   SING Y N 7  
+M1A C5  C4   DOUB Y N 8  
+M1A C6  N6   SING N N 9  
+M1A C6  N1   DOUB Y N 10 
+M1A N6  HN61 SING N N 11 
+M1A N6  HN62 SING N N 12 
+M1A N1  C2   SING Y N 13 
+M1A N1  CN1  SING N N 14 
+M1A C2  N3   DOUB Y N 15 
+M1A C2  H2   SING N N 16 
+M1A N3  C4   SING Y N 17 
+M1A CN1 H11  SING N N 18 
+M1A CN1 H12  SING N N 19 
+M1A CN1 H13  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+M1A SMILES           ACDLabs              10.04 "n1c[n+](c(c2ncnc12)N)C"                                                 
+M1A SMILES_CANONICAL CACTVS               3.341 "C[n+]1cnc2[nH]cnc2c1N"                                                  
+M1A SMILES           CACTVS               3.341 "C[n+]1cnc2[nH]cnc2c1N"                                                  
+M1A SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[n+]1cnc2c(c1N)nc[nH]2"                                                
+M1A SMILES           "OpenEye OEToolkits" 1.5.0 "C[n+]1cnc2c(c1N)nc[nH]2"                                                
+M1A InChI            InChI                1.03  "InChI=1S/C6H7N5/c1-11-3-10-6-4(5(11)7)8-2-9-6/h2-3H,1H3,(H2,7,8,9)/p+1" 
+M1A InChIKey         InChI                1.03  DYGBIJOMQSXREB-UHFFFAOYSA-O                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+M1A "SYSTEMATIC NAME" ACDLabs              10.04 6-amino-1-methyl-9H-purin-1-ium 
+M1A "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-methyl-9H-purin-1-ium-6-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+M1A "Create component"  1999-07-08 PDBJ 
+M1A "Modify descriptor" 2011-06-04 RCSB 
+# 

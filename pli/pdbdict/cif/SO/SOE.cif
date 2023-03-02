@@ -1,0 +1,135 @@
+data_SOE
+# 
+_chem_comp.id                                    SOE 
+_chem_comp.name                                  alpha-L-sorbopyranose 
+_chem_comp.type                                  L-saccharide 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H12 O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "L-sorbose in pyranose form" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-05-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        180.156 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SOE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3AI3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SOE C1  C1  C 0 1 N N N 41.316 115.458 97.979 -2.402 -0.343 0.559  C1  SOE 1  
+SOE O1  O1  O 0 1 N N N 41.377 116.707 98.665 -3.372 0.636  0.182  O1  SOE 2  
+SOE C2  C2  C 0 1 N N R 39.915 115.276 97.402 -1.041 0.035  -0.029 C2  SOE 3  
+SOE O2  O2  O 0 1 N N N 39.920 114.028 96.693 -1.136 0.087  -1.454 O2  SOE 4  
+SOE C3  C3  C 0 1 N N S 39.542 116.421 96.454 -0.001 -1.014 0.375  C3  SOE 5  
+SOE O3  O3  O 0 1 N N N 40.433 116.489 95.324 -0.365 -2.283 -0.172 O3  SOE 6  
+SOE C4  C4  C 0 1 N N R 38.098 116.274 95.977 1.370  -0.598 -0.167 C4  SOE 7  
+SOE O4  O4  O 0 1 N N N 37.729 117.404 95.182 2.359  -1.532 0.268  O4  SOE 8  
+SOE C5  C5  C 0 1 N N S 37.147 116.146 97.169 1.714  0.797  0.365  C5  SOE 9  
+SOE O5  O5  O 0 1 N N N 35.815 115.911 96.680 2.958  1.227  -0.192 O5  SOE 10 
+SOE C6  C6  C 0 1 N N N 37.592 115.008 98.084 0.608  1.776  -0.039 C6  SOE 11 
+SOE O6  O6  O 0 1 N N N 38.963 115.223 98.488 -0.645 1.314  0.470  O6  SOE 12 
+SOE H1  H1  H 0 1 N N N 42.055 115.447 97.165 -2.330 -0.384 1.646  H1  SOE 13 
+SOE H1A H1A H 0 1 N N N 41.536 114.640 98.681 -2.704 -1.319 0.178  H1A SOE 14 
+SOE HO1 HO1 H 0 1 N N N 42.247 116.828 99.027 -4.261 0.460  0.521  HO1 SOE 15 
+SOE H3  H3  H 0 1 N N N 39.640 117.360 97.018 0.041  -1.084 1.462  H3  SOE 16 
+SOE HO3 HO3 H 0 1 N N N 40.174 117.207 94.759 0.251  -2.996 0.045  HO3 SOE 17 
+SOE H4  H4  H 0 1 N N N 38.023 115.361 95.368 1.341  -0.577 -1.256 H4  SOE 18 
+SOE HO4 HO4 H 0 1 N N N 36.831 117.306 94.889 3.254  -1.329 -0.039 HO4 SOE 19 
+SOE H5  H5  H 0 1 N N N 37.162 117.077 97.755 1.793  0.764  1.451  H5  SOE 20 
+SOE HO5 HO5 H 0 1 N N N 35.217 115.830 97.414 3.239  2.104  0.102  HO5 SOE 21 
+SOE H6  H6  H 0 1 N N N 36.947 114.980 98.975 0.826  2.761  0.373  H6  SOE 22 
+SOE H6A H6A H 0 1 N N N 37.514 114.052 97.545 0.558  1.839  -1.126 H6A SOE 23 
+SOE HO2 HO2 H 0 1 N N N 39.062 113.874 96.316 -1.777 0.733  -1.782 HO2 SOE 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SOE C1 O1  SING N N 1  
+SOE C1 C2  SING N N 2  
+SOE C2 O2  SING N N 3  
+SOE C2 C3  SING N N 4  
+SOE C2 O6  SING N N 5  
+SOE C3 O3  SING N N 6  
+SOE C3 C4  SING N N 7  
+SOE C4 O4  SING N N 8  
+SOE C4 C5  SING N N 9  
+SOE C5 O5  SING N N 10 
+SOE C5 C6  SING N N 11 
+SOE C6 O6  SING N N 12 
+SOE C1 H1  SING N N 13 
+SOE C1 H1A SING N N 14 
+SOE O1 HO1 SING N N 15 
+SOE C3 H3  SING N N 16 
+SOE O3 HO3 SING N N 17 
+SOE C4 H4  SING N N 18 
+SOE O4 HO4 SING N N 19 
+SOE C5 H5  SING N N 20 
+SOE O5 HO5 SING N N 21 
+SOE C6 H6  SING N N 22 
+SOE C6 H6A SING N N 23 
+SOE O2 HO2 SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SOE SMILES           ACDLabs              12.01 "OC1C(O)(OCC(O)C1O)CO"                                                               
+SOE SMILES_CANONICAL CACTVS               3.370 "OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O"                                             
+SOE SMILES           CACTVS               3.370 "OC[C]1(O)OC[CH](O)[CH](O)[CH]1O"                                                    
+SOE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1[C@@H]([C@H]([C@@H]([C@](O1)(CO)O)O)O)O"                                          
+SOE SMILES           "OpenEye OEToolkits" 1.7.0 "C1C(C(C(C(O1)(CO)O)O)O)O"                                                           
+SOE InChI            InChI                1.03  "InChI=1S/C6H12O6/c7-2-6(11)5(10)4(9)3(8)1-12-6/h3-5,7-11H,1-2H2/t3-,4+,5-,6+/m0/s1" 
+SOE InChIKey         InChI                1.03  LKDRXBCSQODPBY-BGPJRJDNSA-N                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SOE "SYSTEMATIC NAME" ACDLabs              12.01 alpha-L-sorbopyranose                                 
+SOE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SOE "Create component"  2010-05-14 PDBJ 
+SOE "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,126 @@
+data_6NA
+# 
+_chem_comp.id                                    6NA 
+_chem_comp.name                                  "HEXANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H12 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-07-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        116.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     6NA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2IWZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+6NA CA   CA   C 0 1 N N N 28.870 29.167 23.565 -0.844 -0.723 0.000  CA   6NA 1  
+6NA C    C    C 0 1 N N N 27.909 29.354 22.414 -2.156 0.018  0.000  C    6NA 2  
+6NA O    O    O 0 1 N N N 27.072 28.494 22.217 -2.168 1.226  0.000  O    6NA 3  
+6NA CB   CB   C 0 1 N N N 28.153 29.291 24.906 0.310  0.283  0.000  CB   6NA 4  
+6NA CG   CG   C 0 1 N N N 27.294 30.553 24.958 1.642  -0.469 0.000  CG   6NA 5  
+6NA CD   CD   C 0 1 N N N 27.967 31.734 25.635 2.795  0.536  0.000  CD   6NA 6  
+6NA C6   C6   C 0 1 N N N 26.972 32.872 25.704 4.128  -0.216 0.000  C6   6NA 7  
+6NA OXT  OXT  O 0 1 N Y N 28.023 30.757 21.430 -3.312 -0.664 0.000  OXT  6NA 8  
+6NA HAC1 1HAC H 0 0 N N N 29.642 29.949 23.507 -0.780 -1.349 -0.890 HAC1 6NA 9  
+6NA HAC2 2HAC H 0 0 N N N 29.322 28.167 23.493 -0.780 -1.349 0.890  HAC2 6NA 10 
+6NA HBC1 1HBC H 0 0 N N N 28.909 29.350 25.702 0.246  0.909  0.890  HBC1 6NA 11 
+6NA HBC2 2HBC H 0 0 N N N 27.505 28.413 25.046 0.246  0.909  -0.890 HBC2 6NA 12 
+6NA HGC1 1HGC H 0 0 N N N 26.402 30.308 25.554 1.706  -1.095 -0.890 HGC1 6NA 13 
+6NA HGC2 2HGC H 0 0 N N N 27.057 30.845 23.924 1.706  -1.095 0.890  HGC2 6NA 14 
+6NA HDC1 1HDC H 0 0 N N N 28.855 32.042 25.064 2.731  1.162  0.890  HDC1 6NA 15 
+6NA HDC2 2HDC H 0 0 N N N 28.284 31.452 26.650 2.731  1.162  -0.890 HDC2 6NA 16 
+6NA H6C1 1H6C H 0 0 N N N 26.054 32.589 25.167 4.191  -0.842 0.890  H6C1 6NA 17 
+6NA H6C2 2H6C H 0 0 N N N 27.408 33.769 25.239 4.191  -0.842 -0.890 H6C2 6NA 18 
+6NA H6C3 3H6C H 0 0 N N N 26.731 33.085 26.756 4.949  0.500  0.000  H6C3 6NA 19 
+6NA HXT  HXT  H 0 1 N N N 27.354 30.727 20.756 -4.154 -0.189 0.000  HXT  6NA 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+6NA CA  C    SING N N 1  
+6NA CA  CB   SING N N 2  
+6NA CA  HAC1 SING N N 3  
+6NA CA  HAC2 SING N N 4  
+6NA C   O    DOUB N N 5  
+6NA C   OXT  SING N N 6  
+6NA CB  CG   SING N N 7  
+6NA CB  HBC1 SING N N 8  
+6NA CB  HBC2 SING N N 9  
+6NA CG  CD   SING N N 10 
+6NA CG  HGC1 SING N N 11 
+6NA CG  HGC2 SING N N 12 
+6NA CD  C6   SING N N 13 
+6NA CD  HDC1 SING N N 14 
+6NA CD  HDC2 SING N N 15 
+6NA C6  H6C1 SING N N 16 
+6NA C6  H6C2 SING N N 17 
+6NA C6  H6C3 SING N N 18 
+6NA OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+6NA SMILES           ACDLabs              10.04 "O=C(O)CCCCC"                                          
+6NA SMILES_CANONICAL CACTVS               3.341 "CCCCCC(O)=O"                                          
+6NA SMILES           CACTVS               3.341 "CCCCCC(O)=O"                                          
+6NA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCCC(=O)O"                                          
+6NA SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCC(=O)O"                                          
+6NA InChI            InChI                1.03  "InChI=1S/C6H12O2/c1-2-3-4-5-6(7)8/h2-5H2,1H3,(H,7,8)" 
+6NA InChIKey         InChI                1.03  FUZZWVXGSFPDMH-UHFFFAOYSA-N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+6NA "SYSTEMATIC NAME" ACDLabs              10.04 "hexanoic acid" 
+6NA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+6NA "Create component"  2006-07-05 EBI  
+6NA "Modify descriptor" 2011-06-04 RCSB 
+# 

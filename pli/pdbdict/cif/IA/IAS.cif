@@ -1,0 +1,120 @@
+data_IAS
+# 
+_chem_comp.id                                    IAS 
+_chem_comp.name                                  "BETA-L-ASPARTIC ACID" 
+_chem_comp.type                                  "L-beta-peptide, C-gamma linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "L-aspartic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.103 
+_chem_comp.one_letter_code                       D 
+_chem_comp.three_letter_code                     IAS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DY5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IAS N   N   N 0 1 N N N 49.498 14.248 23.259 -0.317 1.688  0.066  N   IAS 1  
+IAS CA  CA  C 0 1 N N S 48.105 13.864 23.263 -0.470 0.286  -0.344 CA  IAS 2  
+IAS C   C   C 0 1 N N N 47.850 12.569 22.473 -1.868 -0.180 -0.029 C   IAS 3  
+IAS O   O   O 0 1 N N N 46.794 12.412 21.851 -2.534 0.415  0.786  O   IAS 4  
+IAS CB  CB  C 0 1 N N N 47.150 14.974 22.822 0.539  -0.580 0.413  CB  IAS 5  
+IAS CG  CG  C 0 1 N N N 47.091 16.074 23.866 1.938  -0.195 0.004  CG  IAS 6  
+IAS OD1 OD1 O 0 1 N N N 46.958 15.838 25.075 2.109  0.681  -0.810 OD1 IAS 7  
+IAS OXT OXT O 0 1 N N N 48.735 11.735 22.529 -2.374 -1.256 -0.652 OXT IAS 8  
+IAS H   H   H 0 1 N N N 49.613 15.092 23.783 -0.928 2.289  -0.467 H   IAS 9  
+IAS H2  H2  H 0 1 N Y N 50.045 13.521 23.674 -0.478 1.795  1.056  H2  IAS 10 
+IAS HA  HA  H 0 1 N N N 47.877 13.667 24.321 -0.292 0.199  -1.416 HA  IAS 11 
+IAS HB2 HB2 H 0 1 N N N 47.506 15.399 21.872 0.419  -0.425 1.485  HB2 IAS 12 
+IAS HB3 HB3 H 0 1 N N N 46.144 14.551 22.688 0.367  -1.630 0.176  HB3 IAS 13 
+IAS HXT HXT H 0 1 N N N 48.481 10.969 22.028 -3.275 -1.517 -0.416 HXT IAS 14 
+IAS OD2 OD2 O 0 1 N Y N 47.169 17.491 23.691 2.992  -0.826 0.543  OD2 IAS 15 
+IAS HD2 HD2 H 0 1 N Y N 47.101 17.919 24.536 3.869  -0.545 0.250  HD2 IAS 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IAS N   CA  SING N N 1  
+IAS N   H   SING N N 2  
+IAS N   H2  SING N N 3  
+IAS CA  C   SING N N 4  
+IAS CA  CB  SING N N 5  
+IAS CA  HA  SING N N 6  
+IAS C   O   DOUB N N 7  
+IAS C   OXT SING N N 8  
+IAS CB  CG  SING N N 9  
+IAS CB  HB2 SING N N 10 
+IAS CB  HB3 SING N N 11 
+IAS CG  OD1 DOUB N N 12 
+IAS OXT HXT SING N N 13 
+IAS CG  OD2 SING N N 14 
+IAS OD2 HD2 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IAS SMILES           ACDLabs              12.01 "O=C(O)CC(N)C(=O)O"                                                      
+IAS SMILES_CANONICAL CACTVS               3.370 "N[C@@H](CC(O)=O)C(O)=O"                                                 
+IAS SMILES           CACTVS               3.370 "N[CH](CC(O)=O)C(O)=O"                                                   
+IAS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C([C@@H](C(=O)O)N)C(=O)O"                                               
+IAS SMILES           "OpenEye OEToolkits" 1.7.2 "C(C(C(=O)O)N)C(=O)O"                                                    
+IAS InChI            InChI                1.03  "InChI=1S/C4H7NO4/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H,6,7)(H,8,9)/t2-/m0/s1" 
+IAS InChIKey         InChI                1.03  CKLJMWTZIZZHCS-REOHCLBHSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IAS "SYSTEMATIC NAME" ACDLabs              12.01 "L-aspartic acid"               
+IAS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S)-2-azanylbutanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IAS "Create component"   1999-07-08 RCSB 
+IAS "Other modification" 2011-02-28 RCSB 
+IAS "Modify name"        2011-06-03 RCSB 
+IAS "Modify descriptor"  2011-06-04 RCSB 
+# 

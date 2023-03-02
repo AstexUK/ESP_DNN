@@ -1,0 +1,127 @@
+data_4PL
+# 
+_chem_comp.id                                    4PL 
+_chem_comp.name                                  "7-hydroxy-6-methylfuro[3,4-c]pyridin-1(3H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H7 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         4-Pyridoxolactone 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-05-18 
+_chem_comp.pdbx_modified_date                    2012-05-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        165.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4PL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RWB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4PL CAA  CAA  C 0 1 N N N 25.993 -15.013 16.032 3.358  -0.440 -0.014 CAA  4PL 1  
+4PL OAB  OAB  O 0 1 N N N 28.281 -12.642 11.561 -2.032 -1.899 -0.016 OAB  4PL 2  
+4PL OAC  OAC  O 0 1 N N N 26.609 -13.055 13.987 1.035  -2.056 -0.023 OAC  4PL 3  
+4PL CAD  CAD  C 0 1 Y N N 28.474 -16.710 13.823 0.618  2.015  0.009  CAD  4PL 4  
+4PL CAE  CAE  C 0 1 N N N 29.569 -15.769 11.781 -1.997 1.556  0.010  CAE  4PL 5  
+4PL NAF  NAF  N 0 1 Y N N 27.611 -16.444 14.793 1.811  1.449  0.002  NAF  4PL 6  
+4PL OAG  OAG  O 0 1 N N N 29.489 -14.550 11.131 -2.685 0.275  0.001  OAG  4PL 7  
+4PL CAH  CAH  C 0 1 N N N 28.606 -13.794 11.836 -1.773 -0.713 -0.008 CAH  4PL 8  
+4PL CAI  CAI  C 0 1 Y N N 26.980 -15.258 14.879 1.968  0.142  -0.007 CAI  4PL 9  
+4PL CAJ  CAJ  C 0 1 Y N N 28.760 -15.762 12.847 -0.522 1.248  0.005  CAJ  4PL 10 
+4PL CAK  CAK  C 0 1 Y N N 27.228 -14.267 13.931 0.869  -0.710 -0.012 CAK  4PL 11 
+4PL CAL  CAL  C 0 1 Y N N 28.130 -14.529 12.909 -0.414 -0.148 -0.006 CAL  4PL 12 
+4PL HAA  HAA  H 0 1 N N N 25.941 -15.909 16.668 3.695  -0.588 1.012  HAA  4PL 13 
+4PL HAAA HAAA H 0 0 N N N 26.336 -14.157 16.632 3.349  -1.397 -0.535 HAAA 4PL 14 
+4PL HAAB HAAB H 0 0 N N N 24.996 -14.797 15.621 4.036  0.245  -0.525 HAAB 4PL 15 
+4PL HOAC HOAC H 0 0 N N N 26.907 -12.513 13.266 1.085  -2.454 0.858  HOAC 4PL 16 
+4PL HAD  HAD  H 0 1 N N N 28.960 -17.674 13.790 0.537  3.092  0.021  HAD  4PL 17 
+4PL HAE  HAE  H 0 1 N N N 29.262 -16.571 11.094 -2.262 2.129  -0.879 HAE  4PL 18 
+4PL HAEA HAEA H 0 0 N N N 30.605 -15.942 12.108 -2.259 2.115  0.908  HAEA 4PL 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4PL CAA CAI  SING N N 1  
+4PL OAB CAH  DOUB N N 2  
+4PL OAC CAK  SING N N 3  
+4PL CAD NAF  DOUB Y N 4  
+4PL CAD CAJ  SING Y N 5  
+4PL CAE OAG  SING N N 6  
+4PL CAE CAJ  SING N N 7  
+4PL NAF CAI  SING Y N 8  
+4PL OAG CAH  SING N N 9  
+4PL CAH CAL  SING N N 10 
+4PL CAI CAK  DOUB Y N 11 
+4PL CAJ CAL  DOUB Y N 12 
+4PL CAK CAL  SING Y N 13 
+4PL CAA HAA  SING N N 14 
+4PL CAA HAAA SING N N 15 
+4PL CAA HAAB SING N N 16 
+4PL OAC HOAC SING N N 17 
+4PL CAD HAD  SING N N 18 
+4PL CAE HAE  SING N N 19 
+4PL CAE HAEA SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4PL SMILES           ACDLabs              12.01 "O=C1OCc2c1c(O)c(nc2)C"                                           
+4PL SMILES_CANONICAL CACTVS               3.370 "Cc1ncc2COC(=O)c2c1O"                                             
+4PL SMILES           CACTVS               3.370 "Cc1ncc2COC(=O)c2c1O"                                             
+4PL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "Cc1c(c2c(cn1)COC2=O)O"                                           
+4PL SMILES           "OpenEye OEToolkits" 1.7.2 "Cc1c(c2c(cn1)COC2=O)O"                                           
+4PL InChI            InChI                1.03  "InChI=1S/C8H7NO3/c1-4-7(10)6-5(2-9-4)3-12-8(6)11/h2,10H,3H2,1H3" 
+4PL InChIKey         InChI                1.03  HHPDVQLBYQFYFA-UHFFFAOYSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4PL "SYSTEMATIC NAME" ACDLabs              12.01 "7-hydroxy-6-methylfuro[3,4-c]pyridin-1(3H)-one"  
+4PL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "6-methyl-7-oxidanyl-3H-furo[3,4-c]pyridin-1-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4PL "Create component"     2011-05-18 PDBJ 
+4PL "Modify aromatic_flag" 2011-06-04 RCSB 
+4PL "Modify descriptor"    2011-06-04 RCSB 
+# 

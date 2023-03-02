@@ -1,0 +1,126 @@
+data_NQ
+# 
+_chem_comp.id                                    NQ 
+_chem_comp.name                                  2-HYDROXYNAPHTHOQUINONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-HYDROXY-1,4-NAPHTHOQUINONE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-08-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        174.153 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2D0E 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NQ OAB OAB O 0 1 N N N -20.356 -36.576 113.014 1.288  -2.281 -0.006 OAB NQ 1  
+NQ CAK CAK C 0 1 N N N -21.361 -36.943 113.620 0.977  -1.108 -0.003 CAK NQ 2  
+NQ CAM CAM C 0 1 Y N N -22.559 -37.155 112.941 -0.449 -0.716 0.002  CAM NQ 3  
+NQ CAG CAG C 0 1 Y N N -22.625 -36.969 111.561 -1.452 -1.679 0.003  CAG NQ 4  
+NQ CAE CAE C 0 1 Y N N -23.816 -37.190 110.880 -2.782 -1.287 0.002  CAE NQ 5  
+NQ CAD CAD C 0 1 Y N N -24.951 -37.600 111.578 -3.116 0.054  0.000  CAD NQ 6  
+NQ CAF CAF C 0 1 Y N N -24.886 -37.785 112.956 -2.126 1.025  -0.001 CAF NQ 7  
+NQ CAL CAL C 0 1 Y N N -23.694 -37.564 113.637 -0.789 0.648  0.000  CAL NQ 8  
+NQ CAJ CAJ C 0 1 N N N -23.628 -37.760 115.018 0.286  1.667  0.000  CAJ NQ 9  
+NQ OAA OAA O 0 1 N N N -24.626 -38.121 115.641 0.003  2.849  -0.002 OAA NQ 10 
+NQ CAH CAH C 0 1 N N N -22.431 -37.550 115.694 1.690  1.248  0.000  CAH NQ 11 
+NQ CAI CAI C 0 1 N N N -21.300 -37.144 114.997 2.024  -0.059 0.002  CAI NQ 12 
+NQ OAC OAC O 0 1 N N N -20.123 -36.955 115.657 3.329  -0.417 0.003  OAC NQ 13 
+NQ HAG HAG H 0 1 N N N -21.729 -36.645 111.004 -1.197 -2.728 0.005  HAG NQ 14 
+NQ HAE HAE H 0 1 N N N -23.860 -37.040 109.788 -3.561 -2.034 0.003  HAE NQ 15 
+NQ HAD HAD H 0 1 N N N -25.898 -37.777 111.041 -4.155 0.348  -0.001 HAD NQ 16 
+NQ HAF HAF H 0 1 N N N -25.782 -38.108 113.510 -2.393 2.071  -0.002 HAF NQ 17 
+NQ HAH HAH H 0 1 N N N -22.378 -37.705 116.784 2.469  1.996  0.000  HAH NQ 18 
+NQ HAC HAC H 0 1 N N N -20.081 -37.092 116.596 3.844  0.402  0.003  HAC NQ 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NQ OAB CAK DOUB N N 1  
+NQ CAK CAM SING N N 2  
+NQ CAK CAI SING N N 3  
+NQ CAM CAG SING Y N 4  
+NQ CAM CAL DOUB Y N 5  
+NQ CAG CAE DOUB Y N 6  
+NQ CAG HAG SING N N 7  
+NQ CAE CAD SING Y N 8  
+NQ CAE HAE SING N N 9  
+NQ CAD CAF DOUB Y N 10 
+NQ CAD HAD SING N N 11 
+NQ CAF CAL SING Y N 12 
+NQ CAF HAF SING N N 13 
+NQ CAL CAJ SING N N 14 
+NQ CAJ OAA DOUB N N 15 
+NQ CAJ CAH SING N N 16 
+NQ CAH CAI DOUB N N 17 
+NQ CAH HAH SING N N 18 
+NQ CAI OAC SING N N 19 
+NQ OAC HAC SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NQ SMILES           ACDLabs              10.04 "O=C2c1c(cccc1)C(=O)C(O)=C2"                                   
+NQ SMILES_CANONICAL CACTVS               3.341 "OC1=CC(=O)c2ccccc2C1=O"                                       
+NQ SMILES           CACTVS               3.341 "OC1=CC(=O)c2ccccc2C1=O"                                       
+NQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C(=O)C=C(C2=O)O"                                   
+NQ SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C(=O)C=C(C2=O)O"                                   
+NQ InChI            InChI                1.03  "InChI=1S/C10H6O3/c11-8-5-9(12)10(13)7-4-2-1-3-6(7)8/h1-5,12H" 
+NQ InChIKey         InChI                1.03  CSFWPUWCSPOLJW-UHFFFAOYSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NQ "SYSTEMATIC NAME" ACDLabs              10.04 2-hydroxynaphthalene-1,4-dione 
+NQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-hydroxynaphthalene-1,4-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NQ "Create component"  2005-08-03 PDBJ 
+NQ "Modify descriptor" 2011-06-04 RCSB 
+# 

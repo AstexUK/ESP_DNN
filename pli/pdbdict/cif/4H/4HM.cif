@@ -1,0 +1,125 @@
+data_4HM
+# 
+_chem_comp.id                                    4HM 
+_chem_comp.name                                  4-HYDROPEROXY-2-METHOXY-PHENOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-01-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        156.136 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4HM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HU9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4HM C1  C1  C 0 1 Y N N 20.317 4.289 20.598 -1.017 -0.049 1.310  C1  4HM 1  
+4HM C2  C2  C 0 1 Y N N 21.374 5.216 20.505 0.341  0.037  1.025  C2  4HM 2  
+4HM C3  C3  C 0 1 Y N N 21.971 5.477 19.273 0.763  0.223  -0.281 C3  4HM 3  
+4HM C4  C4  C 0 1 Y N N 21.525 4.774 18.126 -0.170 0.328  -1.301 C4  4HM 4  
+4HM C5  C5  C 0 1 Y N N 20.482 3.851 18.222 -1.524 0.247  -1.013 C5  4HM 5  
+4HM C6  C6  C 0 1 Y N N 19.883 3.598 19.461 -1.946 0.061  0.289  C6  4HM 6  
+4HM O7  O7  O 0 1 N N N 22.097 4.991 16.922 0.242  0.511  -2.583 O7  4HM 7  
+4HM O8  O8  O 0 1 N N N 22.333 3.901 15.973 0.415  -0.824 -3.168 O8  4HM 8  
+4HM O9  O9  O 0 1 N N N 21.754 5.856 21.621 1.255  -0.066 2.027  O9  4HM 9  
+4HM O10 O10 O 0 1 N N N 19.730 4.033 21.801 -1.433 -0.232 2.593  O10 4HM 10 
+4HM C11 C11 C 0 1 N N N 21.029 6.748 22.423 2.545  0.053  1.424  C11 4HM 11 
+4HM H3  H3  H 0 1 N N N 22.764 6.206 19.193 1.817  0.287  -0.505 H3  4HM 12 
+4HM H5  H5  H 0 1 N N N 20.137 3.332 17.340 -2.250 0.329  -1.809 H5  4HM 13 
+4HM H6  H6  H 0 1 N N N 19.088 2.871 19.540 -3.002 -0.001 0.510  H6  4HM 14 
+4HM H8  H8  H 0 1 N N N 22.384 4.253 15.092 0.709  -0.694 -4.080 H8  4HM 15 
+4HM H10 H10 H 0 1 N N N 20.398 3.973 22.474 -1.493 -1.187 2.733  H10 4HM 16 
+4HM HC1 HC1 H 0 1 N N N 20.071 6.982 21.936 3.314  -0.023 2.192  HC1 4HM 17 
+4HM HC2 HC2 H 0 1 N N N 21.608 7.673 22.558 2.680  -0.743 0.692  HC2 4HM 18 
+4HM HC3 HC3 H 0 1 N N N 20.839 6.288 23.404 2.624  1.020  0.926  HC3 4HM 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4HM C1  C2  DOUB Y N 1  
+4HM C1  C6  SING Y N 2  
+4HM C1  O10 SING N N 3  
+4HM C2  C3  SING Y N 4  
+4HM C2  O9  SING N N 5  
+4HM C3  C4  DOUB Y N 6  
+4HM C3  H3  SING N N 7  
+4HM C4  C5  SING Y N 8  
+4HM C4  O7  SING N N 9  
+4HM C5  C6  DOUB Y N 10 
+4HM C5  H5  SING N N 11 
+4HM C6  H6  SING N N 12 
+4HM O7  O8  SING N N 13 
+4HM O8  H8  SING N N 14 
+4HM O9  C11 SING N N 15 
+4HM O10 H10 SING N N 16 
+4HM C11 HC1 SING N N 17 
+4HM C11 HC2 SING N N 18 
+4HM C11 HC3 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4HM SMILES           ACDLabs              10.04 "Oc1ccc(OO)cc1OC"                                          
+4HM SMILES_CANONICAL CACTVS               3.341 "COc1cc(OO)ccc1O"                                          
+4HM SMILES           CACTVS               3.341 "COc1cc(OO)ccc1O"                                          
+4HM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COc1cc(ccc1O)OO"                                          
+4HM SMILES           "OpenEye OEToolkits" 1.5.0 "COc1cc(ccc1O)OO"                                          
+4HM InChI            InChI                1.03  "InChI=1S/C7H8O4/c1-10-7-4-5(11-9)2-3-6(7)8/h2-4,8-9H,1H3" 
+4HM InChIKey         InChI                1.03  DNBCLSZROQUYQN-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4HM "SYSTEMATIC NAME" ACDLabs              10.04 4-hydroperoxy-2-methoxyphenol  
+4HM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-hydroperoxy-2-methoxy-phenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4HM "Create component"  2001-01-05 RCSB 
+4HM "Modify descriptor" 2011-06-04 RCSB 
+# 

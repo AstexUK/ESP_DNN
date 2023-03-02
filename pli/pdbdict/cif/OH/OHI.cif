@@ -1,0 +1,125 @@
+data_OHI
+# 
+_chem_comp.id                                    OHI 
+_chem_comp.name                                  "3-(2-OXO-2H-IMIDAZOL-4-YL)-L-ALANINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H7 N3 O3" 
+_chem_comp.mon_nstd_parent_comp_id               HIS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-07-10 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        169.138 
+_chem_comp.one_letter_code                       H 
+_chem_comp.three_letter_code                     OHI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OHI CE1 CE1 C 0 1 N N N -40.683 23.117 28.099 2.799  -0.355 0.235  CE1 OHI 1  
+OHI ND1 ND1 N 0 1 N N N -41.325 23.735 27.084 1.463  -0.495 0.280  ND1 OHI 2  
+OHI NE2 NE2 N 0 1 N N N -41.425 22.219 28.771 3.129  0.851  -0.259 NE2 OHI 3  
+OHI CD2 CD2 C 0 1 N N N -42.652 22.203 28.179 2.037  1.502  -0.538 CD2 OHI 4  
+OHI CG  CG  C 0 1 N N N -42.583 23.132 27.148 0.913  0.594  -0.174 CG  OHI 5  
+OHI CB  CB  C 0 1 N N N -43.784 23.400 26.239 -0.561 0.878  -0.306 CB  OHI 6  
+OHI CA  CA  C 0 1 N N S -43.613 24.795 25.698 -1.360 -0.331 0.185  CA  OHI 7  
+OHI N   N   N 0 1 N N N -43.640 25.779 26.811 -1.105 -1.477 -0.697 N   OHI 8  
+OHI C   C   C 0 1 N N N -44.602 25.082 24.610 -2.830 -0.002 0.170  C   OHI 9  
+OHI O   O   O 0 1 N N N -44.451 24.464 23.551 -3.525 -0.385 -0.742 O   OHI 10 
+OHI OXT OXT O 0 1 N Y N ?       ?      ?      -3.368 0.716  1.168  OXT OHI 11 
+OHI O12 O12 O 0 1 N N N -39.471 23.470 28.326 3.594  -1.196 0.594  O12 OHI 12 
+OHI HD2 HD2 H 0 1 N N N -43.501 21.595 28.454 1.961  2.498  -0.948 HD2 OHI 13 
+OHI HB1 HB1 H 0 1 N N N -43.813 22.670 25.416 -0.818 1.751  0.295  HB1 OHI 14 
+OHI HB2 HB2 H 0 1 N N N -44.729 23.305 26.795 -0.802 1.072  -1.351 HB2 OHI 15 
+OHI HA  HA  H 0 1 N N N -42.626 24.885 25.222 -1.054 -0.580 1.202  HA  OHI 16 
+OHI HN1 HN1 H 0 1 N N N -43.646 25.294 27.685 -1.570 -2.306 -0.357 HN1 OHI 17 
+OHI HN2 HN2 H 0 1 N N N -42.830 26.363 26.759 -1.380 -1.271 -1.646 HN2 OHI 18 
+OHI HXT HXT H 0 1 N Y N ?       ?      ?      -4.316 0.902  1.114  HXT OHI 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OHI CE1 ND1 SING N N 1  
+OHI CE1 NE2 SING N N 2  
+OHI CE1 O12 DOUB N N 3  
+OHI ND1 CG  DOUB N N 4  
+OHI NE2 CD2 DOUB N N 5  
+OHI CD2 CG  SING N N 6  
+OHI CD2 HD2 SING N N 7  
+OHI CG  CB  SING N N 8  
+OHI CB  CA  SING N N 9  
+OHI CB  HB1 SING N N 10 
+OHI CB  HB2 SING N N 11 
+OHI CA  N   SING N N 12 
+OHI CA  C   SING N N 13 
+OHI CA  HA  SING N N 14 
+OHI N   HN1 SING N N 15 
+OHI N   HN2 SING N N 16 
+OHI C   O   DOUB N N 17 
+OHI C   OXT SING N N 18 
+OHI OXT HXT SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OHI SMILES           ACDLabs              10.04 "O=C1N=C(C=N1)CC(N)C(=O)O"                                                        
+OHI SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC1=NC(=O)N=C1)C(O)=O"                                                   
+OHI SMILES           CACTVS               3.341 "N[CH](CC1=NC(=O)N=C1)C(O)=O"                                                     
+OHI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=NC(=O)N=C1C[C@@H](C(=O)O)N"                                                   
+OHI SMILES           "OpenEye OEToolkits" 1.5.0 "C1=NC(=O)N=C1CC(C(=O)O)N"                                                        
+OHI InChI            InChI                1.03  "InChI=1S/C6H7N3O3/c7-4(5(10)11)1-3-2-8-6(12)9-3/h2,4H,1,7H2,(H,10,11)/t4-/m0/s1" 
+OHI InChIKey         InChI                1.03  MWUSZYAURGSGRY-BYPYZUCNSA-N                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OHI "SYSTEMATIC NAME" ACDLabs              10.04 "3-(2-oxo-2H-imidazol-4-yl)-L-alanine"              
+OHI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(2-oxoimidazol-4-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OHI "Create component"  2007-07-10 RCSB 
+OHI "Modify descriptor" 2011-06-04 RCSB 
+# 

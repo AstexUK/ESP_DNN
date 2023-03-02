@@ -1,0 +1,152 @@
+data_THM
+# 
+_chem_comp.id                                    THM 
+_chem_comp.name                                  THYMIDINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H14 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+;DEOXYTHYMIDINE; 2'-DEOXYTHYMIDINE
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        242.229 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     THM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KIM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+THM "O5'"  O5*  O 0 1 N N N 17.080 94.434 44.011 2.274  -0.724 -3.790 "O5'"  THM 1  
+THM "C5'"  C5*  C 0 1 N N N 16.780 95.210 45.165 1.208  0.202  -3.574 "C5'"  THM 2  
+THM "C4'"  C4*  C 0 1 N N R 17.626 96.447 45.302 0.116  -0.463 -2.735 "C4'"  THM 3  
+THM "O4'"  O4*  O 0 1 N N N 18.982 96.128 45.630 0.600  -0.760 -1.406 "O4'"  THM 4  
+THM "C3'"  C3*  C 0 1 N N S 17.760 97.332 44.178 -1.055 0.519  -2.484 "C3'"  THM 5  
+THM "O3'"  O3*  O 0 1 N N N 18.323 98.514 44.657 -1.993 0.481  -3.562 "O3'"  THM 6  
+THM "C2'"  C2*  C 0 1 N N N 18.903 96.738 43.506 -1.681 -0.046 -1.186 "C2'"  THM 7  
+THM "C1'"  C1*  C 0 1 N N R 19.875 96.449 44.597 -0.554 -0.889 -0.560 "C1'"  THM 8  
+THM N1     N1   N 0 1 N N N 20.731 95.216 44.411 -0.246 -0.391 0.782  N1     THM 9  
+THM C2     C2   C 0 1 N N N 22.075 95.429 44.582 0.165  0.879  0.943  C2     THM 10 
+THM O2     O2   O 0 1 N N N 22.533 96.539 44.822 0.278  1.600  -0.029 O2     THM 11 
+THM N3     N3   N 0 1 N N N 22.877 94.370 44.420 0.454  1.363  2.165  N3     THM 12 
+THM C4     C4   C 0 1 N N N 22.432 93.082 44.088 0.329  0.578  3.254  C4     THM 13 
+THM O4     O4   O 0 1 N N N 23.259 92.155 43.945 0.590  1.015  4.360  O4     THM 14 
+THM C5     C5   C 0 1 N N N 20.989 92.899 43.924 -0.098 -0.762 3.099  C5     THM 15 
+THM C5M    C5M  C 0 1 N N N 20.433 91.458 43.577 -0.241 -1.662 4.299  C5M    THM 16 
+THM C6     C6   C 0 1 N N N 20.205 93.954 44.081 -0.382 -1.222 1.861  C6     THM 17 
+THM "HO5'" *HO5 H 0 0 N N N 16.545 93.653 43.924 2.939  -0.266 -4.322 "HO5'" THM 18 
+THM "H5'1" 1H5* H 0 0 N N N 15.696 95.470 45.192 0.792  0.508  -4.534 "H5'1" THM 19 
+THM "H5'2" 2H5* H 0 0 N N N 16.845 94.585 46.086 1.588  1.077  -3.047 "H5'2" THM 20 
+THM "H4'"  H4*  H 0 1 N N N 17.039 96.972 46.091 -0.241 -1.370 -3.222 "H4'"  THM 21 
+THM "H3'"  H3*  H 0 1 N N N 16.814 97.484 43.606 -0.686 1.532  -2.328 "H3'"  THM 22 
+THM "HO3'" *HO3 H 0 0 N N N 18.411 99.099 43.913 -2.738 1.040  -3.303 "HO3'" THM 23 
+THM "H2'1" 1H2* H 0 0 N N N 18.649 95.852 42.877 -2.542 -0.673 -1.420 "H2'1" THM 24 
+THM "H2'2" 2H2* H 0 0 N N N 19.319 97.362 42.681 -1.969 0.764  -0.517 "H2'2" THM 25 
+THM "H1'"  H1*  H 0 1 N N N 20.593 97.293 44.715 -0.859 -1.934 -0.506 "H1'"  THM 26 
+THM HN3    HN3  H 0 1 N N N 23.871 94.552 44.555 0.750  2.281  2.263  HN3    THM 27 
+THM HM51   1HM5 H 0 0 N N N 19.333 91.318 43.452 0.031  -1.112 5.200  HM51   THM 28 
+THM HM52   2HM5 H 0 0 N N N 20.948 91.085 42.661 -1.275 -1.999 4.378  HM52   THM 29 
+THM HM53   3HM5 H 0 0 N N N 20.801 90.736 44.343 0.414  -2.525 4.186  HM53   THM 30 
+THM H6     H6   H 0 1 N N N 19.124 93.783 43.938 -0.713 -2.240 1.723  H6     THM 31 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+THM "O5'" "C5'"  SING N N 1  
+THM "O5'" "HO5'" SING N N 2  
+THM "C5'" "C4'"  SING N N 3  
+THM "C5'" "H5'1" SING N N 4  
+THM "C5'" "H5'2" SING N N 5  
+THM "C4'" "O4'"  SING N N 6  
+THM "C4'" "C3'"  SING N N 7  
+THM "C4'" "H4'"  SING N N 8  
+THM "O4'" "C1'"  SING N N 9  
+THM "C3'" "O3'"  SING N N 10 
+THM "C3'" "C2'"  SING N N 11 
+THM "C3'" "H3'"  SING N N 12 
+THM "O3'" "HO3'" SING N N 13 
+THM "C2'" "C1'"  SING N N 14 
+THM "C2'" "H2'1" SING N N 15 
+THM "C2'" "H2'2" SING N N 16 
+THM "C1'" N1     SING N N 17 
+THM "C1'" "H1'"  SING N N 18 
+THM N1    C2     SING N N 19 
+THM N1    C6     SING N N 20 
+THM C2    O2     DOUB N N 21 
+THM C2    N3     SING N N 22 
+THM N3    C4     SING N N 23 
+THM N3    HN3    SING N N 24 
+THM C4    O4     DOUB N N 25 
+THM C4    C5     SING N N 26 
+THM C5    C5M    SING N N 27 
+THM C5    C6     DOUB N N 28 
+THM C5M   HM51   SING N N 29 
+THM C5M   HM52   SING N N 30 
+THM C5M   HM53   SING N N 31 
+THM C6    H6     SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+THM SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C(O)C2)CO"                                                                                        
+THM SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O"                                                                           
+THM SMILES           CACTVS               3.341 "CC1=CN([CH]2C[CH](O)[CH](CO)O2)C(=O)NC1=O"                                                                               
+THM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)O"                                                                           
+THM SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O"                                                                                        
+THM InChI            InChI                1.03  "InChI=1S/C10H14N2O5/c1-5-3-12(10(16)11-9(5)15)8-2-6(14)7(4-13)17-8/h3,6-8,13-14H,2,4H2,1H3,(H,11,15,16)/t6-,7+,8+/m0/s1" 
+THM InChIKey         InChI                1.03  IQFYYKKMVGJFEH-XLPZGREQSA-N                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+THM "SYSTEMATIC NAME" ACDLabs              10.04 thymidine                                                                             
+THM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-pyrimidine-2,4-dione" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+THM "Create component"  1999-07-08 EBI  
+THM "Modify descriptor" 2011-06-04 RCSB 
+# 

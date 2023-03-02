@@ -1,0 +1,168 @@
+data_BPC
+# 
+_chem_comp.id                                    BPC 
+_chem_comp.name                                  "(7R,8R,9R)-7,8,9,10-TETRAHYDROBENZO[DEF]CHRYSENE-7,8,9-TRIOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C20 H16 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-10-04 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      BAP 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        304.339 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BPC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BPC C1     C1     C 0 1 Y N N 2.411  3.711  8.506  -4.782 -0.795 0.103  C1     BPC 1  
+BPC C2     C2     C 0 1 Y N N 1.200  4.158  9.057  -5.242 0.500  -0.039 C2     BPC 2  
+BPC C3     C3     C 0 1 Y N N 0.021  4.129  8.291  -4.374 1.567  -0.167 C3     BPC 3  
+BPC C3A    C3A    C 0 1 Y N N 0.056  3.654  6.969  -2.994 1.353  -0.156 C3A    BPC 4  
+BPC C4     C4     C 0 1 Y N N -1.114 3.616  6.196  -2.070 2.419  -0.285 C4     BPC 5  
+BPC C5     C5     C 0 1 Y N N -1.074 3.149  4.880  -0.737 2.189  -0.274 C5     BPC 6  
+BPC C5A    C5A    C 0 1 Y N N 0.141  2.729  4.299  -0.228 0.874  -0.132 C5A    BPC 7  
+BPC C6     C6     C 0 1 Y N N 0.193  2.284  2.951  1.154  0.625  -0.124 C6     BPC 8  
+BPC C7     C7     C 0 1 Y N N 1.392  1.837  2.415  1.618  -0.664 0.019  C7     BPC 9  
+BPC C8     C8     C 0 1 Y N N 2.556  1.844  3.212  0.736  -1.730 0.150  C8     BPC 10 
+BPC C8A    C8A    C 0 1 Y N N 2.517  2.281  4.541  -0.642 -1.524 0.142  C8A    BPC 11 
+BPC C9     C9     C 0 1 Y N N 3.676  2.247  5.331  -1.563 -2.592 0.273  C9     BPC 12 
+BPC C10    C10    C 0 1 Y N N 3.636  2.702  6.659  -2.896 -2.364 0.262  C10    BPC 13 
+BPC C1A    C1A    C 0 1 Y N N 2.445  3.221  7.189  -3.408 -1.052 0.119  C1A    BPC 14 
+BPC C3B    C3B    C 0 1 Y N N 1.269  3.208  6.414  -2.512 0.032  -0.012 C3B    BPC 15 
+BPC C5B    C5B    C 0 1 Y N N 1.310  2.747  5.083  -1.126 -0.205 -0.001 C5B    BPC 16 
+BPC "C1'"  "C1'"  C 0 1 N N R 1.486  1.302  0.999  3.091  -0.990 0.050  "C1'"  BPC 17 
+BPC "O1'"  "O1'"  O 0 1 N N N 2.092  0.018  0.999  3.328  -2.170 -0.719 "O1'"  BPC 18 
+BPC "C2'"  "C2'"  C 0 1 N N R 0.154  1.185  0.250  3.912  0.161  -0.529 "C2'"  BPC 19 
+BPC "O2'"  "O2'"  O 0 1 N N N 0.349  1.215  -1.147 5.302  -0.080 -0.305 "O2'"  BPC 20 
+BPC "C3'"  "C3'"  C 0 1 N N R -0.833 2.276  0.627  3.489  1.455  0.175  "C3'"  BPC 21 
+BPC "O3'"  "O3'"  O 0 1 N N N -0.325 3.529  0.199  3.506  1.262  1.591  "O3'"  BPC 22 
+BPC "C4'"  "C4'"  C 0 1 N N N -1.071 2.206  2.134  2.074  1.808  -0.279 "C4'"  BPC 23 
+BPC H1     H1     H 0 1 N N N 3.316  3.744  9.094  -5.484 -1.609 0.201  H1     BPC 24 
+BPC H2     H2     H 0 1 N N N 1.174  4.525  10.072 -6.307 0.683  -0.050 H2     BPC 25 
+BPC H3     H3     H 0 1 N N N -0.910 4.471  8.718  -4.763 2.569  -0.276 H3     BPC 26 
+BPC H4     H4     H 0 1 N N N -2.050 3.949  6.620  -2.435 3.429  -0.394 H4     BPC 27 
+BPC H5     H5     H 0 1 N N N -1.984 3.109  4.300  -0.052 3.018  -0.374 H5     BPC 28 
+BPC H8     H8     H 0 1 N N N 3.491  1.507  2.790  1.125  -2.732 0.258  H8     BPC 29 
+BPC H9     H9     H 0 1 N N N 4.600  1.871  4.917  -1.196 -3.602 0.383  H9     BPC 30 
+BPC H10    H10    H 0 1 N N N 4.523  2.652  7.273  -3.579 -3.195 0.363  H10    BPC 31 
+BPC "H1'"  "H1'"  H 0 1 N N N 2.089  2.053  0.467  3.397  -1.166 1.081  "H1'"  BPC 32 
+BPC HA     HA     H 0 1 N N N 2.227  -0.269 0.103  2.809  -2.878 -0.313 HA     BPC 33 
+BPC "H2'"  "H2'"  H 0 1 N N N -0.271 0.216  0.551  3.721  0.245  -1.599 "H2'"  BPC 34 
+BPC HB     HB     H 0 1 N N N -0.494 1.222  -1.585 5.518  -0.911 -0.749 HB     BPC 35 
+BPC "H3'"  "H3'"  H 0 1 N N N -1.804 2.140  0.129  4.172  2.260  -0.095 "H3'"  BPC 36 
+BPC HC     HC     H 0 1 N N N -0.211 4.099  0.951  3.226  2.097  1.990  HC     BPC 37 
+BPC "H4'1" "1H4'" H 0 0 N N N -1.686 3.076  2.406  1.700  2.635  0.325  "H4'1" BPC 38 
+BPC "H4'2" "2H4'" H 0 0 N N N -1.564 1.248  2.358  2.098  2.111  -1.326 "H4'2" BPC 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BPC C1    C2     SING Y N 1  
+BPC C1    C1A    DOUB Y N 2  
+BPC C1    H1     SING N N 3  
+BPC C2    C3     DOUB Y N 4  
+BPC C2    H2     SING N N 5  
+BPC C3    C3A    SING Y N 6  
+BPC C3    H3     SING N N 7  
+BPC C3A   C4     SING Y N 8  
+BPC C3A   C3B    DOUB Y N 9  
+BPC C4    C5     DOUB Y N 10 
+BPC C4    H4     SING N N 11 
+BPC C5    C5A    SING Y N 12 
+BPC C5    H5     SING N N 13 
+BPC C5A   C6     SING Y N 14 
+BPC C5A   C5B    DOUB Y N 15 
+BPC C6    C7     DOUB Y N 16 
+BPC C6    "C4'"  SING N N 17 
+BPC C7    C8     SING Y N 18 
+BPC C7    "C1'"  SING N N 19 
+BPC C8    C8A    DOUB Y N 20 
+BPC C8    H8     SING N N 21 
+BPC C8A   C9     SING Y N 22 
+BPC C8A   C5B    SING Y N 23 
+BPC C9    C10    DOUB Y N 24 
+BPC C9    H9     SING N N 25 
+BPC C10   C1A    SING Y N 26 
+BPC C10   H10    SING N N 27 
+BPC C1A   C3B    SING Y N 28 
+BPC C3B   C5B    SING Y N 29 
+BPC "C1'" "O1'"  SING N N 30 
+BPC "C1'" "C2'"  SING N N 31 
+BPC "C1'" "H1'"  SING N N 32 
+BPC "O1'" HA     SING N N 33 
+BPC "C2'" "O2'"  SING N N 34 
+BPC "C2'" "C3'"  SING N N 35 
+BPC "C2'" "H2'"  SING N N 36 
+BPC "O2'" HB     SING N N 37 
+BPC "C3'" "O3'"  SING N N 38 
+BPC "C3'" "C4'"  SING N N 39 
+BPC "C3'" "H3'"  SING N N 40 
+BPC "O3'" HC     SING N N 41 
+BPC "C4'" "H4'1" SING N N 42 
+BPC "C4'" "H4'2" SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BPC SMILES           ACDLabs              10.04 "OC5c2c(c1ccc4c3c1c(c2)ccc3ccc4)CC(O)C5O"                                                                                            
+BPC InChI            InChI                1.02b "InChI=1/C20H16O3/c21-16-9-14-13-7-6-11-3-1-2-10-4-5-12(18(13)17(10)11)8-15(14)19(22)20(16)23/h1-8,16,19-23H,9H2/t16-,19-,20-/m1/s1" 
+BPC InChIKey         InChI                1.02b GFANZDFKCCJYRF-NSISKUIABV                                                                                                            
+BPC SMILES_CANONICAL CACTVS               3.341 "O[C@@H]1Cc2c(cc3ccc4cccc5ccc2c3c45)[C@@H](O)[C@@H]1O"                                                                               
+BPC SMILES           CACTVS               3.341 "O[CH]1Cc2c(cc3ccc4cccc5ccc2c3c45)[CH](O)[CH]1O"                                                                                     
+BPC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc2ccc3cc4c(c5c3c2c(c1)cc5)C[C@H]([C@H]([C@@H]4O)O)O"                                                                             
+BPC SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc2ccc3cc4c(c5c3c2c(c1)cc5)CC(C(C4O)O)O"                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BPC "SYSTEMATIC NAME" ACDLabs              10.04 "(7R,8R,9R)-7,8,9,10-tetrahydrobenzo[pqr]tetraphene-7,8,9-triol" 
+BPC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(7R,8R,9R)-7,8,9,10-tetrahydrobenzo[a]pyrene-7,8,9-triol"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BPC "Create component" 2001-10-04 EBI 
+# 

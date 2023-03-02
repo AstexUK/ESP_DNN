@@ -1,0 +1,122 @@
+data_CL5
+# 
+_chem_comp.id                                    CL5 
+_chem_comp.name                                  "N-(3-OXOPROPYL)GLYCINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "FRAGMENT OF CLAVULANIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        131.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CL5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CL5 C7   C7   C 0 1 N N N 8.948 6.012 0.686  1.886  0.510 0.777  C7   CL5 1  
+CL5 C6   C6   C 0 1 N N N 8.953 5.620 -0.763 0.502  0.917 0.328  C6   CL5 2  
+CL5 O8   O8   O 0 1 N N N 9.633 6.959 1.077  2.327  0.666 1.910  O8   CL5 3  
+CL5 C5   C5   C 0 1 N N N 8.513 6.752 -1.649 -0.292 1.599 1.436  C5   CL5 4  
+CL5 N4   N4   N 0 1 N N N 7.190 7.347 -1.466 -1.629 1.957 0.978  N4   CL5 5  
+CL5 C3   C3   C 0 1 N N N 6.727 8.305 -2.470 -2.381 2.618 2.036  C3   CL5 6  
+CL5 C12  C12  C 0 1 N N N 5.237 8.475 -2.382 -3.739 2.969 1.510  C12  CL5 7  
+CL5 O13  O13  O 0 1 N N N 4.511 7.607 -2.905 -4.169 2.731 0.392  O13  CL5 8  
+CL5 O14  O14  O 0 1 N N N 4.792 9.470 -1.782 -4.456 3.608 2.471  O14  CL5 9  
+CL5 H7   H7   H 0 1 N N N 8.341 5.461 1.389  2.508  0.039 -0.005 H7   CL5 10 
+CL5 H61  1H6  H 0 1 N N N 9.975 5.327 -1.046 -0.010 0.011 -0.014 H61  CL5 11 
+CL5 H62  2H6  H 0 1 N N N 8.248 4.786 -0.895 0.621  1.586 -0.531 H62  CL5 12 
+CL5 H51  1H5  H 0 1 N N N 9.238 7.564 -1.491 0.225  2.505 1.772  H51  CL5 13 
+CL5 H52  2H5  H 0 1 N N N 8.458 6.295 -2.648 -0.376 0.940 2.307  H52  CL5 14 
+CL5 HN4  HN4  H 0 1 N N N 6.533 6.593 -1.462 -2.122 1.112 0.693  HN4  CL5 15 
+CL5 H31  1H3  H 0 1 N N N 7.213 9.276 -2.294 -1.853 3.529 2.330  H31  CL5 16 
+CL5 H32  2H3  H 0 1 N N N 6.986 7.928 -3.470 -2.475 1.937 2.886  H32  CL5 17 
+CL5 HO14 HO14 H 0 0 N N N 3.842 9.449 -1.794 -5.353 3.851 2.157  HO14 CL5 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CL5 C7  C6   SING N N 1  
+CL5 C7  O8   DOUB N N 2  
+CL5 C7  H7   SING N N 3  
+CL5 C6  C5   SING N N 4  
+CL5 C6  H61  SING N N 5  
+CL5 C6  H62  SING N N 6  
+CL5 C5  N4   SING N N 7  
+CL5 C5  H51  SING N N 8  
+CL5 C5  H52  SING N N 9  
+CL5 N4  C3   SING N N 10 
+CL5 N4  HN4  SING N N 11 
+CL5 C3  C12  SING N N 12 
+CL5 C3  H31  SING N N 13 
+CL5 C3  H32  SING N N 14 
+CL5 C12 O13  DOUB N N 15 
+CL5 C12 O14  SING N N 16 
+CL5 O14 HO14 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CL5 SMILES           ACDLabs              10.04 "O=CCCNCC(=O)O"                                             
+CL5 SMILES_CANONICAL CACTVS               3.341 "OC(=O)CNCCC=O"                                             
+CL5 SMILES           CACTVS               3.341 "OC(=O)CNCCC=O"                                             
+CL5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CNCC(=O)O)C=O"                                           
+CL5 SMILES           "OpenEye OEToolkits" 1.5.0 "C(CNCC(=O)O)C=O"                                           
+CL5 InChI            InChI                1.03  "InChI=1S/C5H9NO3/c7-3-1-2-6-4-5(8)9/h3,6H,1-2,4H2,(H,8,9)" 
+CL5 InChIKey         InChI                1.03  KCNYJRBIWGISEE-UHFFFAOYSA-N                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CL5 "SYSTEMATIC NAME" ACDLabs              10.04 "N-(3-oxopropyl)glycine"            
+CL5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(3-oxopropylamino)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CL5 "Create component"  2006-10-11 RCSB 
+CL5 "Modify descriptor" 2011-06-04 RCSB 
+# 

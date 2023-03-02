@@ -1,0 +1,122 @@
+data_FLC
+# 
+_chem_comp.id                                    FLC 
+_chem_comp.name                                  "CITRATE ANION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "C6 H5 O7" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -3 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.100 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FLC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1B0K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FLC CAC CAC C 0  1 N N N 34.563 34.058 72.563 -2.487 0.388  -0.009 CAC FLC 1  
+FLC CA  CA  C 0  1 N N N 35.802 33.947 72.064 -1.258 1.106  -0.503 CA  FLC 2  
+FLC CB  CB  C 0  1 N N N 36.532 34.276 70.927 -0.008 0.424  0.059  CB  FLC 3  
+FLC CBC CBC C 0  1 N N N 35.803 34.949 69.839 0.029  -1.011 -0.400 CBC FLC 4  
+FLC CG  CG  C 0  1 N N N 37.723 35.097 71.435 1.240  1.153  -0.443 CG  FLC 5  
+FLC CGC CGC C 0  1 N N N 38.147 35.204 72.807 2.471  0.410  0.009  CGC FLC 6  
+FLC OA1 OA1 O 0  1 N N N 34.532 34.322 73.772 -2.375 -0.580 0.725  OA1 FLC 7  
+FLC OA2 OA2 O -1 1 N N N 33.564 33.926 71.805 -3.594 0.775  -0.342 OA2 FLC 8  
+FLC OB1 OB1 O 0  1 N N N 35.471 34.302 68.785 0.027  -1.955 0.458  OB1 FLC 9  
+FLC OB2 OB2 O -1 1 N N N 35.571 36.185 70.089 0.064  -1.282 -1.645 OB2 FLC 10 
+FLC OG1 OG1 O 0  1 N N N 39.272 34.829 73.168 2.360  -0.609 0.671  OG1 FLC 11 
+FLC OG2 OG2 O -1 1 N N N 37.325 35.662 73.574 3.578  0.827  -0.288 OG2 FLC 12 
+FLC OHB OHB O 0  1 N N N 37.121 32.929 70.582 -0.044 0.467  1.487  OHB FLC 13 
+FLC HA1 1HA H 0  1 N N N 36.414 34.414 72.870 -1.285 2.144  -0.171 HA1 FLC 14 
+FLC HA2 2HA H 0  1 N N N 35.979 32.848 72.137 -1.231 1.073  -1.592 HA2 FLC 15 
+FLC HG1 1HG H 0  1 N N N 38.612 34.756 70.854 1.221  1.197  -1.532 HG1 FLC 16 
+FLC HG2 2HG H 0  1 N N N 37.567 36.139 71.069 1.257  2.165  -0.038 HG2 FLC 17 
+FLC HOB HOB H 0  1 N N N 37.619 33.153 69.805 -0.067 1.400  1.738  HOB FLC 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FLC CAC CA  SING N N 1  
+FLC CAC OA1 DOUB N N 2  
+FLC CAC OA2 SING N N 3  
+FLC CA  CB  SING N N 4  
+FLC CA  HA1 SING N N 5  
+FLC CA  HA2 SING N N 6  
+FLC CB  CBC SING N N 7  
+FLC CB  CG  SING N N 8  
+FLC CB  OHB SING N N 9  
+FLC CBC OB1 DOUB N N 10 
+FLC CBC OB2 SING N N 11 
+FLC CG  CGC SING N N 12 
+FLC CG  HG1 SING N N 13 
+FLC CG  HG2 SING N N 14 
+FLC CGC OG1 DOUB N N 15 
+FLC CGC OG2 SING N N 16 
+FLC OHB HOB SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FLC SMILES           ACDLabs              10.04 "O=C([O-])CC(O)(C([O-])=O)CC(=O)[O-]"                                                    
+FLC SMILES_CANONICAL CACTVS               3.341 "OC(CC([O-])=O)(CC([O-])=O)C([O-])=O"                                                    
+FLC SMILES           CACTVS               3.341 "OC(CC([O-])=O)(CC([O-])=O)C([O-])=O"                                                    
+FLC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O"                                                  
+FLC SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O"                                                  
+FLC InChI            InChI                1.03  "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)/p-3" 
+FLC InChIKey         InChI                1.03  KRKNYBCHXYNGOX-UHFFFAOYSA-K                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FLC "SYSTEMATIC NAME" ACDLabs              10.04 2-hydroxypropane-1,2,3-tricarboxylate 
+FLC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-hydroxypropane-1,2,3-tricarboxylate 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FLC "Create component"  1999-07-08 RCSB 
+FLC "Modify descriptor" 2011-06-04 RCSB 
+# 

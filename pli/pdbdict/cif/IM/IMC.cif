@@ -1,0 +1,162 @@
+data_IMC
+# 
+_chem_comp.id                                    IMC 
+_chem_comp.name                                  "N1-[2-DEOXY-RIBOFURANOSYL]-[2-AMINO-5-METHYL-4-OXO-4H-PYRIMIDINE]-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H16 N3 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DC 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        321.224 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     IMC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BE5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IMC P      P    P 0 1 N N N -10.252 -2.198 2.057 0.893  -0.196 -4.153 P      IMC 1  
+IMC OP1    O1P  O 0 1 N N N -11.004 -3.462 1.887 1.904  0.768  -3.666 OP1    IMC 2  
+IMC OP2    O2P  O 0 1 N N N -10.966 -0.972 2.479 1.631  -1.409 -4.912 OP2    IMC 3  
+IMC OP3    O3P  O 0 1 N Y N -9.475  -1.878 0.656 -0.106 0.545  -5.174 OP3    IMC 4  
+IMC "O5'"  O5*  O 0 1 N N N -9.039  -2.454 3.113 0.056  -0.773 -2.905 "O5'"  IMC 5  
+IMC "C5'"  C5*  C 0 1 N N N -8.267  -3.653 2.963 -0.571 0.345  -2.277 "C5'"  IMC 6  
+IMC "C4'"  C4*  C 0 1 N N R -6.822  -3.653 3.472 -1.388 -0.135 -1.076 "C4'"  IMC 7  
+IMC "O4'"  O4*  O 0 1 N N N -6.073  -2.509 3.073 -0.523 -0.676 -0.051 "O4'"  IMC 8  
+IMC "C1'"  C1*  C 0 1 N N R -4.859  -2.463 3.851 -1.256 -0.625 1.183  "C1'"  IMC 9  
+IMC N1     N1   N 0 1 N N N -4.560  -1.021 4.052 -0.341 -0.357 2.295  N1     IMC 10 
+IMC C6     C6   C 0 1 N N N -5.607  -0.185 4.327 0.853  0.258  2.057  C6     IMC 11 
+IMC C4     C4   C 0 1 N N N -4.114  1.691  4.215 1.301  0.101  4.394  C4     IMC 12 
+IMC O4     O4   O 0 1 N N N -3.866  2.894  4.198 2.039  0.308  5.345  O4     IMC 13 
+IMC N3     N3   N 0 1 N N N -3.112  0.776  4.049 0.115  -0.495 4.577  N3     IMC 14 
+IMC C2     C2   C 0 1 N N N -3.302  -0.550 3.946 -0.687 -0.723 3.557  C2     IMC 15 
+IMC N2     N2   N 0 1 N N N -2.244  -1.333 3.738 -1.890 -1.340 3.773  N2     IMC 16 
+IMC C5     C5   C 0 1 N N N -5.448  1.150  4.377 1.689  0.500  3.089  C5     IMC 17 
+IMC C5M    C5M  C 0 1 N N N -6.643  2.102  4.583 3.015  1.178  2.858  C5M    IMC 18 
+IMC "C2'"  C2*  C 0 1 N N N -5.241  -3.116 5.189 -2.283 0.517  1.062  "C2'"  IMC 19 
+IMC "C3'"  C3*  C 0 1 N N S -6.645  -3.758 4.983 -2.082 1.058  -0.373 "C3'"  IMC 20 
+IMC "O3'"  O3*  O 0 1 N N N -6.830  -5.137 5.356 -3.338 1.353  -0.988 "O3'"  IMC 21 
+IMC HOP2   2HOP H 0 0 N N N -10.483 -0.161 2.588 2.120  -1.021 -5.651 HOP2   IMC 22 
+IMC HOP3   3HOP H 0 0 N N N -8.992  -1.067 0.765 -0.747 -0.116 -5.467 HOP3   IMC 23 
+IMC "H5'"  1H5* H 0 1 N N N -8.209  -3.860 1.903 -1.231 0.840  -2.990 "H5'"  IMC 24 
+IMC "H5''" 2H5* H 0 0 N N N -8.798  -4.460 3.465 0.190  1.048  -1.940 "H5''" IMC 25 
+IMC "H4'"  H4*  H 0 1 N N N -6.347  -4.473 2.960 -2.123 -0.878 -1.386 "H4'"  IMC 26 
+IMC "H1'"  H1*  H 0 1 N N N -4.036  -2.995 3.351 -1.772 -1.571 1.347  "H1'"  IMC 27 
+IMC H6     H6   H 0 1 N N N -6.538  -0.688 4.497 1.126  0.549  1.053  H6     IMC 28 
+IMC HN21   1HN2 H 0 0 N N N -2.362  -2.321 3.592 -2.176 -1.543 4.678  HN21   IMC 29 
+IMC HN22   2HN2 H 0 0 N N N -1.298  -0.969 3.736 -2.457 -1.573 3.022  HN22   IMC 30 
+IMC H71    1H5M H 0 1 N N N -6.295  3.137  4.540 3.539  1.283  3.808  H71    IMC 31 
+IMC H72    2H5M H 0 1 N N N -7.379  1.965  3.789 3.616  0.578  2.175  H72    IMC 32 
+IMC H73    3H5M H 0 1 N N N -7.112  1.944  5.553 2.848  2.164  2.425  H73    IMC 33 
+IMC "H2'"  1H2* H 0 1 N N N -4.416  -3.753 5.518 -3.296 0.134  1.188  "H2'"  IMC 34 
+IMC "H2''" 2H2* H 0 0 N N N -5.330  -2.322 5.941 -2.075 1.296  1.796  "H2''" IMC 35 
+IMC "H3'"  H3*  H 0 1 N N N -7.410  -3.166 5.476 -1.437 1.937  -0.371 "H3'"  IMC 36 
+IMC "HO3'" *HO3 H 0 0 N Y N -6.719  -5.202 6.297 -3.758 2.038  -0.450 "HO3'" IMC 37 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IMC P     OP1    DOUB N N 1  
+IMC P     OP2    SING N N 2  
+IMC P     OP3    SING N N 3  
+IMC P     "O5'"  SING N N 4  
+IMC OP2   HOP2   SING N N 5  
+IMC OP3   HOP3   SING N N 6  
+IMC "O5'" "C5'"  SING N N 7  
+IMC "C5'" "C4'"  SING N N 8  
+IMC "C5'" "H5'"  SING N N 9  
+IMC "C5'" "H5''" SING N N 10 
+IMC "C4'" "O4'"  SING N N 11 
+IMC "C4'" "C3'"  SING N N 12 
+IMC "C4'" "H4'"  SING N N 13 
+IMC "O4'" "C1'"  SING N N 14 
+IMC "C1'" N1     SING N N 15 
+IMC "C1'" "C2'"  SING N N 16 
+IMC "C1'" "H1'"  SING N N 17 
+IMC N1    C6     SING N N 18 
+IMC N1    C2     SING N N 19 
+IMC C6    C5     DOUB N N 20 
+IMC C6    H6     SING N N 21 
+IMC C4    O4     DOUB N N 22 
+IMC C4    N3     SING N N 23 
+IMC C4    C5     SING N N 24 
+IMC N3    C2     DOUB N N 25 
+IMC C2    N2     SING N N 26 
+IMC N2    HN21   SING N N 27 
+IMC N2    HN22   SING N N 28 
+IMC C5    C5M    SING N N 29 
+IMC C5M   H71    SING N N 30 
+IMC C5M   H72    SING N N 31 
+IMC C5M   H73    SING N N 32 
+IMC "C2'" "C3'"  SING N N 33 
+IMC "C2'" "H2'"  SING N N 34 
+IMC "C2'" "H2''" SING N N 35 
+IMC "C3'" "O3'"  SING N N 36 
+IMC "C3'" "H3'"  SING N N 37 
+IMC "O3'" "HO3'" SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IMC SMILES           ACDLabs              10.04 "O=C1N=C(N(C=C1C)C2OC(C(O)C2)COP(=O)(O)O)N"                                                                                                       
+IMC SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)O2)C(=NC1=O)N"                                                                                        
+IMC SMILES           CACTVS               3.341 "CC1=CN([CH]2C[CH](O)[CH](CO[P](O)(O)=O)O2)C(=NC1=O)N"                                                                                            
+IMC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=NC1=O)N)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O"                                                                                          
+IMC SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=NC1=O)N)C2CC(C(O2)COP(=O)(O)O)O"                                                                                                       
+IMC InChI            InChI                1.03  "InChI=1S/C10H16N3O7P/c1-5-3-13(10(11)12-9(5)15)8-2-6(14)7(20-8)4-19-21(16,17)18/h3,6-8,14H,2,4H2,1H3,(H2,11,12,15)(H2,16,17,18)/t6-,7+,8+/m0/s1" 
+IMC InChIKey         InChI                1.03  LBQNUQWNLDITAW-XLPZGREQSA-N                                                                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IMC "SYSTEMATIC NAME" ACDLabs              10.04 "2-amino-1-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-5-methylpyrimidin-4(1H)-one"             
+IMC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(2-amino-5-methyl-4-oxo-pyrimidin-1-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IMC "Create component"  1999-07-08 RCSB 
+IMC "Modify descriptor" 2011-06-04 RCSB 
+# 

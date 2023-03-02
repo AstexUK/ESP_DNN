@@ -1,0 +1,127 @@
+data_QUS
+# 
+_chem_comp.id                                    QUS 
+_chem_comp.name                                  "(S)-2-AMINO-3-(3,5-DIOXO-[1,2,4]OXADIAZOLIDIN-2-YL)-PROPIONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H7 N3 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         QUISQUALATE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-09-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     QUS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1MM6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+QUS C01  C01  C 0 1 N N N 31.482 53.532 6.403  2.949  -0.301 0.087  C01  QUS 1  
+QUS C02  C02  C 0 1 N N S 31.224 53.701 4.904  1.499  -0.179 0.479  C02  QUS 2  
+QUS C03  C03  C 0 1 N N N 32.103 54.884 4.470  0.615  -0.483 -0.732 C03  QUS 3  
+QUS C04  C04  C 0 1 Y N N 33.519 53.780 2.649  -1.356 0.966  -0.252 C04  QUS 4  
+QUS C05  C05  C 0 1 Y N N 32.235 54.487 0.939  -2.796 -0.585 0.123  C05  QUS 5  
+QUS NP3  NP3  N 0 1 N N N 29.752 53.892 4.792  1.232  1.187  0.949  NP3  QUS 6  
+QUS N14  N14  N 0 1 Y N N 32.626 54.721 3.104  -0.788 -0.249 -0.384 N14  QUS 7  
+QUS N15  N15  N 0 1 Y N N 33.257 53.666 1.327  -2.654 0.759  0.069  N15  QUS 8  
+QUS O16  O16  O 0 1 N N N 30.511 53.513 7.189  3.593  0.691  -0.161 O16  QUS 9  
+QUS O17  O17  O 0 1 N N N 32.677 53.418 6.776  3.525  -1.511 0.014  O17  QUS 10 
+QUS O18  O18  O 0 1 N N N 34.339 53.216 3.345  -0.809 2.042  -0.402 O18  QUS 11 
+QUS O19  O19  O 0 1 N N N 31.723 54.657 -0.147 -3.815 -1.193 0.386  O19  QUS 12 
+QUS O20  O20  O 0 1 Y N N 31.806 55.166 2.029  -1.603 -1.120 -0.169 O20  QUS 13 
+QUS H02  H02  H 0 1 N N N 31.488 52.863 4.242  1.277  -0.887 1.278  H02  QUS 14 
+QUS H031 1H03 H 0 0 N N N 32.961 54.936 5.156  0.898  0.167  -1.560 H031 QUS 15 
+QUS H032 2H03 H 0 0 N N N 31.497 55.801 4.505  0.748  -1.524 -1.026 H032 QUS 16 
+QUS HP31 1HP3 H 0 0 N N N 29.422 54.410 5.581  1.450  1.806  0.182  HP31 QUS 17 
+QUS HP32 2HP3 H 0 0 N N N 29.301 53.000 4.767  0.237  1.253  1.101  HP32 QUS 18 
+QUS H15  H15  H 0 1 N N N 33.751 53.055 0.708  -3.335 1.431  0.230  H15  QUS 19 
+QUS H17  H17  H 0 1 N N N 32.706 53.319 7.720  4.455  -1.589 -0.238 H17  QUS 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+QUS C01 C02  SING N N 1  
+QUS C01 O16  DOUB N N 2  
+QUS C01 O17  SING N N 3  
+QUS C02 C03  SING N N 4  
+QUS C02 NP3  SING N N 5  
+QUS C02 H02  SING N N 6  
+QUS C03 N14  SING N N 7  
+QUS C03 H031 SING N N 8  
+QUS C03 H032 SING N N 9  
+QUS C04 N14  SING Y N 10 
+QUS C04 N15  SING Y N 11 
+QUS C04 O18  DOUB N N 12 
+QUS C05 N15  SING Y N 13 
+QUS C05 O19  DOUB N N 14 
+QUS C05 O20  SING Y N 15 
+QUS NP3 HP31 SING N N 16 
+QUS NP3 HP32 SING N N 17 
+QUS N14 O20  SING Y N 18 
+QUS N15 H15  SING N N 19 
+QUS O17 H17  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+QUS SMILES           ACDLabs              10.04 "O=C1NC(=O)ON1CC(N)C(=O)O"                                                                   
+QUS SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CN1OC(=O)NC1=O)C(O)=O"                                                              
+QUS SMILES           CACTVS               3.341 "N[CH](CN1OC(=O)NC1=O)C(O)=O"                                                                
+QUS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)N1C(=O)NC(=O)O1"                                                          
+QUS SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)N1C(=O)NC(=O)O1"                                                               
+QUS InChI            InChI                1.03  "InChI=1S/C5H7N3O5/c6-2(3(9)10)1-8-4(11)7-5(12)13-8/h2H,1,6H2,(H,9,10)(H,7,11,12)/t2-/m0/s1" 
+QUS InChIKey         InChI                1.03  ASNFTDCKZKHJSW-REOHCLBHSA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+QUS "SYSTEMATIC NAME" ACDLabs              10.04 "3-(3,5-dioxo-1,2,4-oxadiazolidin-2-yl)-L-alanine"                  
+QUS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(3,5-dioxo-1,2,4-oxadiazolidin-2-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+QUS "Create component"  2002-09-05 RCSB 
+QUS "Modify descriptor" 2011-06-04 RCSB 
+# 

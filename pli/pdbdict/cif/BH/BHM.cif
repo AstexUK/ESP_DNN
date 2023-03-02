@@ -1,0 +1,149 @@
+data_BHM
+# 
+_chem_comp.id                                    BHM 
+_chem_comp.name                                  "(R)-3-BROMO-2-HYDROXY-2-METHYL-N-[4-NITRO-3-(TRIFLUOROMETHYL)PHENYL]PROPANAMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H10 Br F3 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-09-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        371.107 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BHM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2AX9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BHM BRAI BRAI BR 0  0 N N N 30.748 1.562  6.284 5.743  0.141  0.351  BRAI BHM 1  
+BHM C13  C13  C  0  1 N N N 30.268 0.044  5.169 3.917  -0.516 0.667  C13  BHM 2  
+BHM C11  C11  C  0  1 N N R 29.797 0.524  3.794 2.988  0.013  -0.427 C11  BHM 3  
+BHM O11  O11  O  0  1 N N N 30.833 1.313  3.202 3.079  1.438  -0.482 O11  BHM 4  
+BHM C12  C12  C  0  1 N N N 29.475 -0.677 2.903 3.402  -0.577 -1.777 C12  BHM 5  
+BHM C10  C10  C  0  1 N N N 28.541 1.386  3.943 1.569  -0.388 -0.118 C10  BHM 6  
+BHM O10  O10  O  0  1 N N N 27.477 0.886  4.309 1.350  -1.364 0.568  O10  BHM 7  
+BHM N09  N09  N  0  1 N N N 28.728 2.680  3.691 0.542  0.337  -0.605 N09  BHM 8  
+BHM C06  C06  C  0  1 Y N N 27.787 3.622  3.746 -0.774 -0.098 -0.415 C06  BHM 9  
+BHM C05  C05  C  0  1 Y N N 26.454 3.345  4.038 -1.795 0.827  -0.245 C05  BHM 10 
+BHM C01  C01  C  0  1 Y N N 28.154 4.935  3.470 -1.061 -1.457 -0.391 C01  BHM 11 
+BHM C02  C02  C  0  1 Y N N 27.193 5.939  3.508 -2.361 -1.883 -0.203 C02  BHM 12 
+BHM C03  C03  C  0  1 Y N N 25.865 5.657  3.817 -3.377 -0.959 -0.040 C03  BHM 13 
+BHM N08  N08  N  1  1 N N N 25.039 6.703  3.874 -4.769 -1.419 0.160  N08  BHM 14 
+BHM O02  O02  O  0  1 N N N 23.697 6.611  4.329 -5.020 -2.611 0.181  O02  BHM 15 
+BHM O01  O01  O  -1 1 N N N 25.539 8.001  3.584 -5.665 -0.606 0.304  O01  BHM 16 
+BHM C04  C04  C  0  1 Y N N 25.474 4.339  4.070 -3.094 0.395  -0.064 C04  BHM 17 
+BHM C07  C07  C  0  1 N N N 24.008 3.923  4.290 -4.204 1.398  0.114  C07  BHM 18 
+BHM F01  F01  F  0  1 N N N 23.612 4.280  5.508 -3.677 2.693  0.053  F01  BHM 19 
+BHM F02  F02  F  0  1 N N N 23.182 4.462  3.397 -5.151 1.232  -0.903 F02  BHM 20 
+BHM F03  F03  F  0  1 N N N 23.834 2.609  4.182 -4.816 1.202  1.357  F03  BHM 21 
+BHM H131 1H13 H  0  0 N N N 31.100 -0.693 5.089 3.569  -0.167 1.639  H131 BHM 22 
+BHM H132 2H13 H  0  0 N N N 29.513 -0.612 5.661 3.915  -1.606 0.650  H132 BHM 23 
+BHM H11  H11  H  0  1 N N N 30.540 1.610  2.348 2.810  1.769  0.386  H11  BHM 24 
+BHM H121 1H12 H  0  0 N N N 29.131 -0.327 1.901 4.429  -0.287 -2.000 H121 BHM 25 
+BHM H122 2H12 H  0  0 N N N 30.334 -1.383 2.827 3.333  -1.664 -1.735 H122 BHM 26 
+BHM H123 3H12 H  0  0 N N N 28.739 -1.365 3.379 2.740  -0.200 -2.557 H123 BHM 27 
+BHM H09  H09  H  0  1 N N N 29.670 2.974  3.434 0.716  1.161  -1.086 H09  BHM 28 
+BHM H05  H05  H  0  1 N N N 26.164 2.302  4.251 -1.575 1.885  -0.264 H05  BHM 29 
+BHM H01  H01  H  0  1 N N N 29.200 5.178  3.222 -0.268 -2.179 -0.518 H01  BHM 30 
+BHM H02  H02  H  0  1 N N N 27.489 6.978  3.288 -2.585 -2.939 -0.185 H02  BHM 31 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BHM BRAI C13  SING N N 1  
+BHM C13  C11  SING N N 2  
+BHM C13  H131 SING N N 3  
+BHM C13  H132 SING N N 4  
+BHM C11  O11  SING N N 5  
+BHM C11  C12  SING N N 6  
+BHM C11  C10  SING N N 7  
+BHM O11  H11  SING N N 8  
+BHM C12  H121 SING N N 9  
+BHM C12  H122 SING N N 10 
+BHM C12  H123 SING N N 11 
+BHM C10  O10  DOUB N N 12 
+BHM C10  N09  SING N N 13 
+BHM N09  C06  SING N N 14 
+BHM N09  H09  SING N N 15 
+BHM C06  C05  DOUB Y N 16 
+BHM C06  C01  SING Y N 17 
+BHM C05  C04  SING Y N 18 
+BHM C05  H05  SING N N 19 
+BHM C01  C02  DOUB Y N 20 
+BHM C01  H01  SING N N 21 
+BHM C02  C03  SING Y N 22 
+BHM C02  H02  SING N N 23 
+BHM C03  N08  SING N N 24 
+BHM C03  C04  DOUB Y N 25 
+BHM N08  O02  DOUB N N 26 
+BHM N08  O01  SING N N 27 
+BHM C04  C07  SING N N 28 
+BHM C07  F01  SING N N 29 
+BHM C07  F02  SING N N 30 
+BHM C07  F03  SING N N 31 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BHM SMILES           ACDLabs              10.04 "O=C(Nc1cc(c(cc1)[N+]([O-])=O)C(F)(F)F)C(O)(C)CBr"                                                                       
+BHM SMILES_CANONICAL CACTVS               3.341 "C[C@](O)(CBr)C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+]([O-])=O"                                                                    
+BHM SMILES           CACTVS               3.341 "C[C](O)(CBr)C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+]([O-])=O"                                                                     
+BHM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@](CBr)(C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+](=O)[O-])O"                                                                    
+BHM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(CBr)(C(=O)Nc1ccc(c(c1)C(F)(F)F)[N+](=O)[O-])O"                                                                       
+BHM InChI            InChI                1.03  "InChI=1S/C11H10BrF3N2O4/c1-10(19,5-12)9(18)16-6-2-3-8(17(20)21)7(4-6)11(13,14)15/h2-4,19H,5H2,1H3,(H,16,18)/t10-/m0/s1" 
+BHM InChIKey         InChI                1.03  QDSWNDMHSBZXKX-JTQLQIEISA-N                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BHM "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-3-bromo-2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide" 
+BHM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-3-bromo-2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BHM "Create component"  2005-09-14 RCSB 
+BHM "Modify descriptor" 2011-06-04 RCSB 
+# 

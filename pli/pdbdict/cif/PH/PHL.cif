@@ -1,0 +1,135 @@
+data_PHL
+# 
+_chem_comp.id                                    PHL 
+_chem_comp.name                                  L-PHENYLALANINOL 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H13 N O" 
+_chem_comp.mon_nstd_parent_comp_id               PHE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        151.206 
+_chem_comp.one_letter_code                       F 
+_chem_comp.three_letter_code                     PHL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1JOH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PHL N   N   N 0 1 N N N -10.941 16.569 8.676  1.494  1.299  0.569  N   PHL 1  
+PHL CA  CA  C 0 1 N N S -11.446 17.174 9.928  1.603  -0.089 0.101  CA  PHL 2  
+PHL C   C   C 0 1 N N N -11.017 18.626 10.000 3.022  -0.343 -0.414 C   PHL 3  
+PHL O   O   O 0 1 N N N -11.698 19.267 11.032 3.948  -0.235 0.669  O   PHL 4  
+PHL CB  CB  C 0 1 N N N -10.894 16.353 11.096 0.600  -0.326 -1.030 CB  PHL 5  
+PHL CG  CG  C 0 1 Y N N -11.366 14.934 11.120 -0.802 -0.196 -0.494 CG  PHL 6  
+PHL CD1 CD1 C 0 1 Y N N -12.662 14.608 11.496 -1.434 1.033  -0.503 CD1 PHL 7  
+PHL CD2 CD2 C 0 1 Y N N -10.525 13.900 10.713 -1.458 -1.307 0.002  CD2 PHL 8  
+PHL CE1 CE1 C 0 1 Y N N -13.121 13.312 11.481 -2.720 1.152  -0.011 CE1 PHL 9  
+PHL CE2 CE2 C 0 1 Y N N -10.955 12.597 10.731 -2.744 -1.188 0.495  CE2 PHL 10 
+PHL CZ  CZ  C 0 1 Y N N -12.240 12.287 11.124 -3.374 0.042  0.490  CZ  PHL 11 
+PHL H   HN1 H 0 1 N N N -10.827 17.281 7.983  1.688  1.949  -0.178 H   PHL 12 
+PHL H2  HN2 H 0 1 N Y N -10.060 16.130 8.850  0.586  1.474  0.973  H2  PHL 13 
+PHL HA  HA  H 0 1 N N N -12.545 17.160 9.968  1.389  -0.769 0.925  HA  PHL 14 
+PHL HC1 H1  H 0 1 N N N -9.935  18.678 10.189 3.079  -1.344 -0.842 HC1 PHL 15 
+PHL HC2 H2  H 0 1 N N N -11.250 19.122 9.046  3.269  0.394  -1.178 HC2 PHL 16 
+PHL HO  HO  H 0 1 N N N -11.106 19.413 11.760 4.869  -0.385 0.416  HO  PHL 17 
+PHL HB2 HB1 H 0 1 N N N -9.797  16.345 11.017 0.758  0.412  -1.817 HB2 PHL 18 
+PHL HB3 HB2 H 0 1 N N N -11.256 16.827 12.020 0.742  -1.327 -1.437 HB3 PHL 19 
+PHL HD1 HD1 H 0 1 N N N -13.330 15.396 11.810 -0.923 1.900  -0.894 HD1 PHL 20 
+PHL HD2 HD2 H 0 1 N N N -9.523  14.127 10.380 -0.966 -2.269 0.005  HD2 PHL 21 
+PHL HE1 HE1 H 0 1 N N N -14.145 13.090 11.741 -3.214 2.113  -0.017 HE1 PHL 22 
+PHL HE2 HE2 H 0 1 N N N -10.281 11.807 10.435 -3.257 -2.056 0.882  HE2 PHL 23 
+PHL HZ  HZ  H 0 1 N N N -12.564 11.257 11.156 -4.379 0.136  0.875  HZ  PHL 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PHL N   CA  SING N N 1  
+PHL N   H   SING N N 2  
+PHL N   H2  SING N N 3  
+PHL CA  C   SING N N 4  
+PHL CA  CB  SING N N 5  
+PHL CA  HA  SING N N 6  
+PHL C   O   SING N N 7  
+PHL C   HC1 SING N N 8  
+PHL C   HC2 SING N N 9  
+PHL O   HO  SING N N 10 
+PHL CB  CG  SING N N 11 
+PHL CB  HB2 SING N N 12 
+PHL CB  HB3 SING N N 13 
+PHL CG  CD1 DOUB Y N 14 
+PHL CG  CD2 SING Y N 15 
+PHL CD1 CE1 SING Y N 16 
+PHL CD1 HD1 SING N N 17 
+PHL CD2 CE2 DOUB Y N 18 
+PHL CD2 HD2 SING N N 19 
+PHL CE1 CZ  DOUB Y N 20 
+PHL CE1 HE1 SING N N 21 
+PHL CE2 CZ  SING Y N 22 
+PHL CE2 HE2 SING N N 23 
+PHL CZ  HZ  SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PHL SMILES           ACDLabs              10.04 "OCC(N)Cc1ccccc1"                                                           
+PHL SMILES_CANONICAL CACTVS               3.341 "N[C@H](CO)Cc1ccccc1"                                                       
+PHL SMILES           CACTVS               3.341 "N[CH](CO)Cc1ccccc1"                                                        
+PHL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C[C@@H](CO)N"                                                    
+PHL SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CC(CO)N"                                                         
+PHL InChI            InChI                1.03  "InChI=1S/C9H13NO/c10-9(7-11)6-8-4-2-1-3-5-8/h1-5,9,11H,6-7,10H2/t9-/m0/s1" 
+PHL InChIKey         InChI                1.03  STVVMTBJNDTZBF-VIFPVBQESA-N                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PHL "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-amino-3-phenylpropan-1-ol"  
+PHL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-phenyl-propan-1-ol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PHL "Create component"  1999-07-08 RCSB 
+PHL "Modify descriptor" 2011-06-04 RCSB 
+# 

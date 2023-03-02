@@ -1,0 +1,144 @@
+data_WDT
+# 
+_chem_comp.id                                    WDT 
+_chem_comp.name                                  "2-nitro-5-(phenylsulfonyl)phenol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H9 N O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-09-19 
+_chem_comp.pdbx_modified_date                    2015-04-10 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        279.269 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     WDT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4WDT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+WDT C17 C1  C 0  1 Y N N -4.230 22.298 33.582 4.229  2.245  0.084  C17 WDT 1  
+WDT C14 C2  C 0  1 Y N N -5.247 23.051 33.014 3.874  1.606  1.258  C14 WDT 2  
+WDT C15 C3  C 0  1 Y N N -3.034 22.940 33.672 3.752  1.782  -1.127 C15 WDT 3  
+WDT C9  C4  C 0  1 Y N N -3.150 28.785 35.417 -2.035 -0.155 1.435  C9  WDT 4  
+WDT C10 C5  C 0  1 Y N N -5.085 24.343 32.577 3.041  0.504  1.219  C10 WDT 5  
+WDT C11 C6  C 0  1 Y N N -2.811 24.244 33.232 2.923  0.676  -1.166 C11 WDT 6  
+WDT C4  C7  C 0  1 Y N N -3.835 28.111 34.404 -0.739 -0.624 1.330  C4  WDT 7  
+WDT C3  C8  C 0  1 Y N N -1.717 27.664 33.233 -0.862 -0.454 -1.055 C3  WDT 8  
+WDT C12 C9  C 0  1 Y N N -1.784 28.915 35.334 -2.751 0.161  0.296  C12 WDT 9  
+WDT C8  C10 C 0  1 Y N N -1.091 28.353 34.239 -2.165 0.012  -0.953 C8  WDT 10 
+WDT C5  C11 C 0  1 Y N N -3.860 24.948 32.695 2.563  0.040  0.007  C5  WDT 11 
+WDT C1  C12 C 0  1 Y N N -3.083 27.556 33.368 -0.153 -0.773 0.087  C1  WDT 12 
+WDT N16 N1  N 1  1 N N N -1.160 29.538 36.448 -4.141 0.657  0.408  N16 WDT 13 
+WDT O19 O1  O -1 1 N N N -1.701 29.663 37.600 -4.771 0.935  -0.597 O19 WDT 14 
+WDT O18 O2  O 0  1 N N N 0.066  29.768 36.475 -4.654 0.787  1.504  O18 WDT 15 
+WDT O6  O3  O 0  1 N N N -2.949 26.462 30.935 1.630  -1.919 -1.344 O6  WDT 16 
+WDT O7  O4  O 0  1 N N N -5.160 27.127 32.139 1.757  -2.103 1.146  O7  WDT 17 
+WDT O13 O5  O 0  1 N N N 0.241  28.447 34.193 -2.865 0.327  -2.075 O13 WDT 18 
+WDT S2  S1  S 0  1 N N N -3.792 26.628 32.080 1.501  -1.365 -0.042 S2  WDT 19 
+WDT H1  H1  H 0  1 N N N -4.376 21.284 33.925 4.877  3.109  0.115  H1  WDT 20 
+WDT H2  H2  H 0  1 N N N -6.221 22.596 32.910 4.247  1.969  2.204  H2  WDT 21 
+WDT H3  H3  H 0  1 N N N -2.205 22.406 34.112 4.026  2.283  -2.043 H3  WDT 22 
+WDT H4  H4  H 0  1 N N N -3.688 29.200 36.257 -2.491 -0.040 2.407  H4  WDT 23 
+WDT H5  H5  H 0  1 N N N -5.917 24.879 32.143 2.760  0.007  2.136  H5  WDT 24 
+WDT H6  H6  H 0  1 N N N -1.831 24.692 33.312 2.549  0.314  -2.113 H6  WDT 25 
+WDT H7  H7  H 0  1 N N N -4.911 28.022 34.422 -0.183 -0.874 2.222  H7  WDT 26 
+WDT H8  H8  H 0  1 N N N -1.180 27.238 32.398 -0.404 -0.571 -2.026 H8  WDT 27 
+WDT H9  H9  H 0  1 N N N 0.552  28.922 34.955 -3.368 -0.411 -2.445 H9  WDT 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+WDT O6  S2  DOUB N N 1  
+WDT S2  O7  DOUB N N 2  
+WDT S2  C5  SING N N 3  
+WDT S2  C1  SING N N 4  
+WDT C10 C5  DOUB Y N 5  
+WDT C10 C14 SING Y N 6  
+WDT C5  C11 SING Y N 7  
+WDT C14 C17 DOUB Y N 8  
+WDT C11 C15 DOUB Y N 9  
+WDT C3  C1  DOUB Y N 10 
+WDT C3  C8  SING Y N 11 
+WDT C1  C4  SING Y N 12 
+WDT C17 C15 SING Y N 13 
+WDT O13 C8  SING N N 14 
+WDT C8  C12 DOUB Y N 15 
+WDT C4  C9  DOUB Y N 16 
+WDT C12 C9  SING Y N 17 
+WDT C12 N16 SING N N 18 
+WDT N16 O18 DOUB N N 19 
+WDT N16 O19 SING N N 20 
+WDT C17 H1  SING N N 21 
+WDT C14 H2  SING N N 22 
+WDT C15 H3  SING N N 23 
+WDT C9  H4  SING N N 24 
+WDT C10 H5  SING N N 25 
+WDT C11 H6  SING N N 26 
+WDT C4  H7  SING N N 27 
+WDT C3  H8  SING N N 28 
+WDT O13 H9  SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+WDT SMILES           ACDLabs              12.01 "O=S(=O)(c1ccccc1)c2cc(O)c([N+]([O-])=O)cc2"                                        
+WDT InChI            InChI                1.03  "InChI=1S/C12H9NO5S/c14-12-8-10(6-7-11(12)13(15)16)19(17,18)9-4-2-1-3-5-9/h1-8,14H" 
+WDT InChIKey         InChI                1.03  MPJBDZGASMKZSN-UHFFFAOYSA-N                                                         
+WDT SMILES_CANONICAL CACTVS               3.385 "Oc1cc(ccc1[N+]([O-])=O)[S](=O)(=O)c2ccccc2"                                        
+WDT SMILES           CACTVS               3.385 "Oc1cc(ccc1[N+]([O-])=O)[S](=O)(=O)c2ccccc2"                                        
+WDT SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1ccc(cc1)S(=O)(=O)c2ccc(c(c2)O)[N+](=O)[O-]"                                      
+WDT SMILES           "OpenEye OEToolkits" 1.9.2 "c1ccc(cc1)S(=O)(=O)c2ccc(c(c2)O)[N+](=O)[O-]"                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+WDT "SYSTEMATIC NAME" ACDLabs              12.01 "2-nitro-5-(phenylsulfonyl)phenol" 
+WDT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "2-nitro-5-(phenylsulfonyl)phenol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+WDT "Create component" 2014-09-19 PDBJ 
+WDT "Initial release"  2015-04-15 RCSB 
+# 

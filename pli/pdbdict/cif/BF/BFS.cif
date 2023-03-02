@@ -1,0 +1,154 @@
+data_BFS
+# 
+_chem_comp.id                                    BFS 
+_chem_comp.name                                  "N-[1-(4-BROMOPHENYL)ETHYL]-5-FLUORO SALICYLAMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H13 Br F N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        338.172 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BFS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4STD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BFS C1    C1    C  0 1 Y N N 120.566 100.898 9.548  -0.116 -0.107 -3.540 C1    BFS 1  
+BFS C2    C2    C  0 1 Y N N 121.520 99.962  9.955  -0.452 -0.583 -4.814 C2    BFS 2  
+BFS C3    C3    C  0 1 Y N N 121.261 98.599  9.795  0.516  -0.644 -5.804 C3    BFS 3  
+BFS C4    C4    C  0 1 Y N N 120.057 98.168  9.220  1.810  -0.247 -5.532 C4    BFS 4  
+BFS C5    C5    C  0 1 Y N N 119.099 99.106  8.823  2.150  0.219  -4.271 C5    BFS 5  
+BFS C6    C6    C  0 1 Y N N 119.350 100.463 8.992  1.196  0.291  -3.276 C6    BFS 6  
+BFS C     C     C  0 1 N N N 120.817 102.375 9.696  -1.140 -0.033 -2.481 C     BFS 7  
+BFS CE1   CE1   C  0 1 N N R 120.087 104.645 9.667  -1.828 0.492  -0.203 CE1   BFS 8  
+BFS CE2   CE2   C  0 1 N N N 119.151 105.332 10.690 -2.509 1.862  -0.247 CE2   BFS 9  
+BFS "C1'" "C1'" C  0 1 Y N N 119.917 105.297 8.294  -1.176 0.298  1.140  "C1'" BFS 10 
+BFS "C2'" "C2'" C  0 1 Y N N 120.792 106.309 7.863  -1.887 -0.279 2.176  "C2'" BFS 11 
+BFS "C3'" "C3'" C  0 1 Y N N 120.599 106.925 6.615  -1.289 -0.457 3.409  "C3'" BFS 12 
+BFS "C4'" "C4'" C  0 1 Y N N 119.520 106.525 5.804  0.020  -0.058 3.607  "C4'" BFS 13 
+BFS "C5'" "C5'" C  0 1 Y N N 118.668 105.503 6.227  0.730  0.519  2.570  "C5'" BFS 14 
+BFS "C6'" "C6'" C  0 1 Y N N 118.876 104.886 7.452  0.134  0.692  1.336  "C6'" BFS 15 
+BFS N     N     N  0 1 N N N 119.805 103.234 9.594  -0.811 0.419  -1.255 N     BFS 16 
+BFS O     O     O  0 1 N N N 121.967 102.770 9.908  -2.282 -0.381 -2.714 O     BFS 17 
+BFS O2    O2    O  0 1 N N N 122.729 100.396 10.516 -1.724 -0.973 -5.081 O2    BFS 18 
+BFS F5    F5    F  0 1 N N N 117.947 98.701  8.284  3.419  0.605  -4.016 F5    BFS 19 
+BFS BR4   BR4   BR 0 0 N N N 119.197 107.351 4.183  0.838  -0.303 5.294  BR4   BFS 20 
+BFS H3    H3    H  0 1 N N N 122.010 97.859  10.124 0.258  -1.006 -6.788 H3    BFS 21 
+BFS H4    H4    H  0 1 N N N 119.863 97.091  9.080  2.562  -0.301 -6.306 H4    BFS 22 
+BFS H6    H6    H  0 1 N N N 118.584 101.194 8.684  1.464  0.656  -2.295 H6    BFS 23 
+BFS HE1   HE1   H  0 1 N N N 121.143 104.771 9.999  -2.572 -0.287 -0.363 HE1   BFS 24 
+BFS HE21  1HE2  H  0 0 N N N 119.274 104.856 11.691 -1.765 2.643  -0.088 HE21  BFS 25 
+BFS HE22  2HE2  H  0 0 N N N 119.306 106.435 10.726 -2.981 2.003  -1.219 HE22  BFS 26 
+BFS HE23  3HE2  H  0 0 N N N 118.088 105.331 10.353 -3.266 1.917  0.535  HE23  BFS 27 
+BFS "H2'" "H2'" H  0 1 N N N 121.632 106.620 8.505  -2.909 -0.590 2.021  "H2'" BFS 28 
+BFS "H3'" "H3'" H  0 1 N N N 121.288 107.715 6.274  -1.844 -0.908 4.218  "H3'" BFS 29 
+BFS "H5'" "H5'" H  0 1 N N N 117.826 105.181 5.590  1.753  0.831  2.725  "H5'" BFS 30 
+BFS "H6'" "H6'" H  0 1 N N N 118.209 104.062 7.758  0.688  1.143  0.526  "H6'" BFS 31 
+BFS HN    HN    H  0 1 N N N 118.877 102.933 9.372  0.099  0.697  -1.069 HN    BFS 32 
+BFS HO2   HO2   H  0 1 N N N 123.377 99.759  10.792 -1.776 -1.917 -4.877 HO2   BFS 33 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BFS C1    C2    DOUB Y N 1  
+BFS C1    C6    SING Y N 2  
+BFS C1    C     SING N N 3  
+BFS C2    C3    SING Y N 4  
+BFS C2    O2    SING N N 5  
+BFS C3    C4    DOUB Y N 6  
+BFS C3    H3    SING N N 7  
+BFS C4    C5    SING Y N 8  
+BFS C4    H4    SING N N 9  
+BFS C5    C6    DOUB Y N 10 
+BFS C5    F5    SING N N 11 
+BFS C6    H6    SING N N 12 
+BFS C     N     SING N N 13 
+BFS C     O     DOUB N N 14 
+BFS CE1   CE2   SING N N 15 
+BFS CE1   "C1'" SING N N 16 
+BFS CE1   N     SING N N 17 
+BFS CE1   HE1   SING N N 18 
+BFS CE2   HE21  SING N N 19 
+BFS CE2   HE22  SING N N 20 
+BFS CE2   HE23  SING N N 21 
+BFS "C1'" "C2'" DOUB Y N 22 
+BFS "C1'" "C6'" SING Y N 23 
+BFS "C2'" "C3'" SING Y N 24 
+BFS "C2'" "H2'" SING N N 25 
+BFS "C3'" "C4'" DOUB Y N 26 
+BFS "C3'" "H3'" SING N N 27 
+BFS "C4'" "C5'" SING Y N 28 
+BFS "C4'" BR4   SING N N 29 
+BFS "C5'" "C6'" DOUB Y N 30 
+BFS "C5'" "H5'" SING N N 31 
+BFS "C6'" "H6'" SING N N 32 
+BFS N     HN    SING N N 33 
+BFS O2    HO2   SING N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BFS SMILES           ACDLabs              10.04 "Brc1ccc(cc1)C(NC(=O)c2cc(F)ccc2O)C"                                                                               
+BFS SMILES_CANONICAL CACTVS               3.341 "C[C@@H](NC(=O)c1cc(F)ccc1O)c2ccc(Br)cc2"                                                                          
+BFS SMILES           CACTVS               3.341 "C[CH](NC(=O)c1cc(F)ccc1O)c2ccc(Br)cc2"                                                                            
+BFS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H](c1ccc(cc1)Br)NC(=O)c2cc(ccc2O)F"                                                                           
+BFS SMILES           "OpenEye OEToolkits" 1.5.0 "CC(c1ccc(cc1)Br)NC(=O)c2cc(ccc2O)F"                                                                               
+BFS InChI            InChI                1.03  "InChI=1S/C15H13BrFNO2/c1-9(10-2-4-11(16)5-3-10)18-15(20)13-8-12(17)6-7-14(13)19/h2-9,19H,1H3,(H,18,20)/t9-/m1/s1" 
+BFS InChIKey         InChI                1.03  KFTNEILVDDUXGR-SECBINFHSA-N                                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BFS "SYSTEMATIC NAME" ACDLabs              10.04 "N-[(1R)-1-(4-bromophenyl)ethyl]-5-fluoro-2-hydroxybenzamide"  
+BFS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "N-[(1R)-1-(4-bromophenyl)ethyl]-5-fluoro-2-hydroxy-benzamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BFS "Create component"  1999-07-08 RCSB 
+BFS "Modify descriptor" 2011-06-04 RCSB 
+# 

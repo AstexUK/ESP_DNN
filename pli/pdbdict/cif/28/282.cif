@@ -1,0 +1,118 @@
+data_282
+# 
+_chem_comp.id                                    282 
+_chem_comp.name                                  3-methoxypyridine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-10-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        109.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     282 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2rbz 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+282 C1  C1  C 0 1 N N N 17.104 -2.796 2.744 -2.717 0.433  0.001  C1  282 1  
+282 O2  O2  O 0 1 N N N 16.048 -2.312 3.640 -1.782 -0.648 0.000  O2  282 2  
+282 C3  C3  C 0 1 Y N N 16.227 -2.900 4.832 -0.463 -0.323 0.000  C3  282 3  
+282 C4  C4  C 0 1 Y N N 17.509 -3.201 5.339 0.509  -1.318 -0.001 C4  282 4  
+282 C5  C5  C 0 1 Y N N 17.597 -3.826 6.601 1.842  -0.937 -0.000 C5  282 5  
+282 C6  C6  C 0 1 Y N N 16.413 -4.106 7.275 2.159  0.408  0.001  C6  282 6  
+282 N7  N7  N 0 1 Y N N 15.227 -3.763 6.734 1.213  1.327  0.002  N7  282 7  
+282 C8  C8  C 0 1 Y N N 15.112 -3.165 5.582 -0.066 1.006  -0.004 C8  282 8  
+282 H11 H11 H 0 1 N N N 16.697 -2.917 1.729 -2.566 1.044  -0.888 H11 282 9  
+282 H12 H12 H 0 1 N N N 17.929 -2.069 2.724 -3.732 0.035  0.001  H12 282 10 
+282 H13 H13 H 0 1 N N N 17.477 -3.765 3.107 -2.566 1.043  0.892  H13 282 11 
+282 H4  H4  H 0 1 N N N 18.399 -2.960 4.776 0.232  -2.362 -0.001 H4  282 12 
+282 H5  H5  H 0 1 N N N 18.555 -4.079 7.031 2.623  -1.683 -0.001 H5  282 13 
+282 H6  H6  H 0 1 N N N 16.444 -4.600 8.235 3.196  0.711  0.001  H6  282 14 
+282 H8  H8  H 0 1 N N N 14.136 -2.878 5.218 -0.812 1.787  -0.008 H8  282 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+282 C1 O2  SING N N 1  
+282 O2 C3  SING N N 2  
+282 C3 C4  DOUB Y N 3  
+282 C3 C8  SING Y N 4  
+282 C4 C5  SING Y N 5  
+282 C5 C6  DOUB Y N 6  
+282 C6 N7  SING Y N 7  
+282 N7 C8  DOUB Y N 8  
+282 C1 H11 SING N N 9  
+282 C1 H12 SING N N 10 
+282 C1 H13 SING N N 11 
+282 C4 H4  SING N N 12 
+282 C5 H5  SING N N 13 
+282 C6 H6  SING N N 14 
+282 C8 H8  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+282 SMILES           ACDLabs              10.04 "O(c1cccnc1)C"                               
+282 SMILES_CANONICAL CACTVS               3.341 COc1cccnc1                                   
+282 SMILES           CACTVS               3.341 COc1cccnc1                                   
+282 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 COc1cccnc1                                   
+282 SMILES           "OpenEye OEToolkits" 1.5.0 COc1cccnc1                                   
+282 InChI            InChI                1.03  InChI=1S/C6H7NO/c1-8-6-3-2-4-7-5-6/h2-5H,1H3 
+282 InChIKey         InChI                1.03  UMJSCPRVCHMLSP-UHFFFAOYSA-N                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+282 "SYSTEMATIC NAME" ACDLabs              10.04 3-methoxypyridine 
+282 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-methoxypyridine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+282 "Create component"     2007-10-24 RCSB 
+282 "Modify aromatic_flag" 2011-06-04 RCSB 
+282 "Modify descriptor"    2011-06-04 RCSB 
+# 

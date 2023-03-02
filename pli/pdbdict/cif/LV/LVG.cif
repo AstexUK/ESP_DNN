@@ -1,0 +1,114 @@
+data_LVG
+# 
+_chem_comp.id                                    LVG 
+_chem_comp.name                                  L-VINYLGLYCINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               GLY 
+_chem_comp.pdbx_synonyms                         "(2S)-2-AMINO-3-BUTENOIC ACID, (2S)-2-AMINOBUT-3-ENOIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-05-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.104 
+_chem_comp.one_letter_code                       G 
+_chem_comp.three_letter_code                     LVG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TDK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LVG N    N    N 0 1 N N N 100.565 285.728 224.619 1.781  0.472  -0.391 N    LVG 1  
+LVG CA   CA   C 0 1 N N S 99.297  285.884 223.922 0.313  0.441  -0.368 CA   LVG 2  
+LVG C    C    C 0 1 N N N 99.536  286.967 222.841 -0.159 0.008  0.995  C    LVG 3  
+LVG O    O    O 0 1 N N N 98.987  286.842 221.753 0.520  -0.736 1.661  O    LVG 4  
+LVG CB   CB   C 0 1 N N N 98.190  286.368 224.864 -0.184 -0.531 -1.405 CB   LVG 5  
+LVG OXT  OXT  O 0 1 N Y N 100.293 287.909 223.111 -1.334 0.449  1.469  OXT  LVG 6  
+LVG CG1  CG1  C 0 1 N N N 97.218  286.785 225.895 -0.961 -0.116 -2.375 CG1  LVG 7  
+LVG H    1HN  H 0 1 N N N 100.407 285.014 225.330 2.094  -0.463 -0.184 H    LVG 8  
+LVG H2   2HN  H 0 1 N Y N 100.934 286.602 224.993 2.053  0.664  -1.344 H2   LVG 9  
+LVG HA   HA   H 0 1 N N N 98.970  284.906 223.495 -0.074 1.436  -0.588 HA   LVG 10 
+LVG HB   HB   H 0 1 N N N 97.339  286.790 224.303 0.099  -1.572 -1.350 HB   LVG 11 
+LVG HXT  HXT  H 0 1 N Y N 100.439 288.573 222.447 -1.637 0.171  2.345  HXT  LVG 12 
+LVG HG11 1HG1 H 0 0 N N N 98.068  286.362 226.455 -1.318 -0.813 -3.118 HG11 LVG 13 
+LVG HG12 2HG1 H 0 0 N N N 96.421  287.133 226.573 -1.245 0.924  -2.430 HG12 LVG 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LVG N   CA   SING N N 1  
+LVG N   H    SING N N 2  
+LVG N   H2   SING N N 3  
+LVG CA  C    SING N N 4  
+LVG CA  CB   SING N N 5  
+LVG CA  HA   SING N N 6  
+LVG C   O    DOUB N N 7  
+LVG C   OXT  SING N N 8  
+LVG CB  CG1  DOUB N N 9  
+LVG CB  HB   SING N N 10 
+LVG OXT HXT  SING N N 11 
+LVG CG1 HG11 SING N N 12 
+LVG CG1 HG12 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LVG SMILES           ACDLabs              10.04 "O=C(O)C(\C=C)N"                                                
+LVG SMILES_CANONICAL CACTVS               3.341 "N[C@@H](C=C)C(O)=O"                                            
+LVG SMILES           CACTVS               3.341 "N[CH](C=C)C(O)=O"                                              
+LVG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C=C[C@@H](C(=O)O)N"                                            
+LVG SMILES           "OpenEye OEToolkits" 1.5.0 "C=CC(C(=O)O)N"                                                 
+LVG InChI            InChI                1.03  "InChI=1S/C4H7NO2/c1-2-3(5)4(6)7/h2-3H,1,5H2,(H,6,7)/t3-/m0/s1" 
+LVG InChIKey         InChI                1.03  RQVLGLPAZTUBKX-VKHMYHEASA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LVG "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-aminobut-3-enoic acid" 
+LVG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-aminobut-3-enoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LVG "Create component"  2004-05-27 RCSB 
+LVG "Modify descriptor" 2011-06-04 RCSB 
+# 

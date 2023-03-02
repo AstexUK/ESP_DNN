@@ -1,0 +1,134 @@
+data_ROB
+# 
+_chem_comp.id                                    ROB 
+_chem_comp.name                                  "1-DEOXY-RIBOFURANOSE-5'-PHOSPHATE" 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H11 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      N 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        214.110 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ROB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1R16 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ROB "C1'"  "C1'"  C 0 1 N N N 8.565 -2.336 10.557 2.904  1.473  -0.250 "C1'"  ROB 1  
+ROB "O1'"  "O1'"  O 0 1 N N N 7.464 -3.259 10.571 1.482  1.301  -0.367 "O1'"  ROB 2  
+ROB "C2'"  "C2'"  C 0 1 N N S 9.025 -2.515 8.993  3.468  0.197  0.406  "C2'"  ROB 3  
+ROB "O2'"  "O2'"  O 0 1 N N N 9.636 -1.334 8.492  4.353  -0.477 -0.491 "O2'"  ROB 4  
+ROB "C3'"  "C3'"  C 0 1 N N R 7.743 -2.954 8.165  2.216  -0.670 0.686  "C3'"  ROB 5  
+ROB "O3'"  "O3'"  O 0 1 N N N 8.205 -3.841 7.112  2.023  -1.637 -0.348 "O3'"  ROB 6  
+ROB "C4'"  "C4'"  C 0 1 N N R 6.892 -3.725 9.230  1.081  0.386  0.675  "C4'"  ROB 7  
+ROB "C5'"  "C5'"  C 0 1 N N N 7.026 -5.201 9.383  -0.259 -0.268 0.332  "C5'"  ROB 8  
+ROB "O5'"  "O5'"  O 0 1 N N N 6.150 -5.969 10.338 -1.289 0.723  0.340  "O5'"  ROB 9  
+ROB "P'"   "P'"   P 0 1 N N N 5.756 -7.644 9.954  -2.663 -0.031 -0.027 "P'"   ROB 10 
+ROB O1X    "O1P'" O 0 1 N N N 4.756 -8.319 10.921 -2.874 -1.157 0.910  O1X    ROB 11 
+ROB O2X    "O2P'" O 0 1 N N N 5.399 -7.378 8.473  -3.891 1.004  0.092  O2X    ROB 12 
+ROB O3X    "O3P'" O 0 1 N N N 7.122 -8.291 9.920  -2.581 -0.594 -1.533 O3X    ROB 13 
+ROB "H1'1" "1H1'" H 0 0 N N N 8.270 -1.306 10.806 3.123  2.338  0.375  "H1'1" ROB 14 
+ROB "H1'2" "2H1'" H 0 0 N N N 9.350 -2.528 11.303 3.344  1.606  -1.238 "H1'2" ROB 15 
+ROB "H2'"  "H2'"  H 0 1 N N N 9.796 -3.294 8.900  3.981  0.441  1.336  "H2'"  ROB 16 
+ROB "HO2'" "'HO2" H 0 0 N N N 9.772 -0.721 9.205  5.081  0.131  -0.676 "HO2'" ROB 17 
+ROB "H3'"  "H3'"  H 0 1 N N N 7.170 -2.140 7.696  2.288  -1.153 1.660  "H3'"  ROB 18 
+ROB "HO3'" "'HO3" H 0 0 N N N 8.306 -3.350 6.305  2.759  -2.261 -0.287 "HO3'" ROB 19 
+ROB "H4'"  "H4'"  H 0 1 N N N 5.855 -3.525 8.922  1.021  0.899  1.635  "H4'"  ROB 20 
+ROB "H5'1" "1H5'" H 0 0 N N N 6.824 -5.624 8.388  -0.199 -0.721 -0.658 "H5'1" ROB 21 
+ROB "H5'2" "2H5'" H 0 0 N N N 8.029 -5.314 9.821  -0.488 -1.036 1.070  "H5'2" ROB 22 
+ROB HOP2   2HOP   H 0 0 N N N 4.455 -7.323 8.379  -4.693 0.514  -0.135 HOP2   ROB 23 
+ROB HOP3   3HOP   H 0 0 N N N 7.386 -8.427 9.018  -2.443 0.170  -2.110 HOP3   ROB 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ROB "C1'" "O1'"  SING N N 1  
+ROB "C1'" "C2'"  SING N N 2  
+ROB "C1'" "H1'1" SING N N 3  
+ROB "C1'" "H1'2" SING N N 4  
+ROB "O1'" "C4'"  SING N N 5  
+ROB "C2'" "O2'"  SING N N 6  
+ROB "C2'" "C3'"  SING N N 7  
+ROB "C2'" "H2'"  SING N N 8  
+ROB "O2'" "HO2'" SING N N 9  
+ROB "C3'" "O3'"  SING N N 10 
+ROB "C3'" "C4'"  SING N N 11 
+ROB "C3'" "H3'"  SING N N 12 
+ROB "O3'" "HO3'" SING N N 13 
+ROB "C4'" "C5'"  SING N N 14 
+ROB "C4'" "H4'"  SING N N 15 
+ROB "C5'" "O5'"  SING N N 16 
+ROB "C5'" "H5'1" SING N N 17 
+ROB "C5'" "H5'2" SING N N 18 
+ROB "O5'" "P'"   SING N N 19 
+ROB "P'"  O1X    DOUB N N 20 
+ROB "P'"  O2X    SING N N 21 
+ROB "P'"  O3X    SING N N 22 
+ROB O2X   HOP2   SING N N 23 
+ROB O3X   HOP3   SING N N 24 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ROB SMILES           ACDLabs              10.04 "O=P(OCC1OCC(O)C1O)(O)O"                                                                            
+ROB InChI            InChI                1.02b "InChI=1/C5H11O7P/c6-3-1-11-4(5(3)7)2-12-13(8,9)10/h3-7H,1-2H2,(H2,8,9,10)/t3-,4+,5+/m0/s1/f/h8-9H" 
+ROB InChIKey         InChI                1.02b CYZZKTRFOOKUMT-JGQNVVOSDK                                                                           
+ROB SMILES_CANONICAL CACTVS               3.341 "O[C@H]1CO[C@H](CO[P](O)(O)=O)[C@@H]1O"                                                             
+ROB SMILES           CACTVS               3.341 "O[CH]1CO[CH](CO[P](O)(O)=O)[CH]1O"                                                                 
+ROB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H]([C@H](O1)COP(=O)(O)O)O)O"                                                           
+ROB SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C(O1)COP(=O)(O)O)O)O"                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ROB "SYSTEMATIC NAME" ACDLabs              10.04 1,4-anhydro-5-O-phosphono-D-xylitol                                
+ROB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4S)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ROB "Create component" 1999-07-08 RCSB 
+# 

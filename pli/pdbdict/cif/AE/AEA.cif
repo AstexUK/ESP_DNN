@@ -1,0 +1,128 @@
+data_AEA
+# 
+_chem_comp.id                                    AEA 
+_chem_comp.name                                  "(2-AMINO-2-CARBAMOYL-ETHYLSULFANYL)-ACETIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 N2 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        178.209 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     AEA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BZH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AEA N1   N1   N 0 1 N N N -6.016  -5.867 25.180 1.707  -0.307 -1.933 N1   AEA 1  
+AEA C1   C1   C 0 1 N N S -7.429  -5.726 25.343 0.396  0.355  -1.951 C1   AEA 2  
+AEA C3   C3   C 0 1 N N N -7.856  -5.935 26.821 -0.425 -0.105 -0.746 C3   AEA 3  
+AEA C2   C2   C 0 1 N N N -8.353  -6.310 24.336 -0.329 -0.002 -3.222 C2   AEA 4  
+AEA N2   N2   N 0 1 N N N -8.889  -7.643 24.473 -1.201 0.868  -3.768 N2   AEA 5  
+AEA S1   S1   S 0 1 N N N -7.370  -4.352 27.593 0.449  0.325  0.783  S1   AEA 6  
+AEA C4   C4   C 0 1 N N N -8.619  -3.314 26.742 -0.721 -0.321 2.008  C4   AEA 7  
+AEA O1   O1   O 0 1 N N N -10.973 -3.256 27.312 0.872  0.491  3.541  O1   AEA 8  
+AEA C5   C5   C 0 1 N N N -9.808  -3.251 27.675 -0.188 -0.067 3.395  C5   AEA 9  
+AEA O3   O3   O 0 1 N N N -8.708  -5.628 23.369 -0.130 -1.074 -3.753 O3   AEA 10 
+AEA O2   O2   O 0 1 N Y N -9.462  -3.185 29.071 -0.892 -0.463 4.467  O2   AEA 11 
+AEA HN11 1HN1 H 0 0 N N N -5.735  -5.729 24.209 2.171  -0.056 -2.793 HN11 AEA 12 
+AEA HN12 2HN1 H 0 0 N N N -5.686  -6.762 25.540 1.530  -1.300 -1.978 HN12 AEA 13 
+AEA H11  1H1  H 0 1 N N N -7.585  -4.656 25.069 0.535  1.436  -1.904 H11  AEA 14 
+AEA H31  1H3  H 0 1 N N N -8.923  -6.220 26.966 -1.397 0.386  -0.760 H31  AEA 15 
+AEA H32  2H3  H 0 1 N N N -7.434  -6.845 27.308 -0.564 -1.185 -0.793 H32  AEA 16 
+AEA HN21 1HN2 H 0 0 N N N -8.595  -8.206 25.271 -1.668 0.638  -4.586 HN21 AEA 17 
+AEA HN22 2HN2 H 0 0 N N N -9.523  -8.043 23.781 -1.360 1.726  -3.343 HN22 AEA 18 
+AEA H41  1H4  H 0 1 N N N -8.235  -2.311 26.440 -1.682 0.179  1.891  H41  AEA 19 
+AEA H42  2H4  H 0 1 N N N -8.874  -3.673 25.717 -0.849 -1.393 1.858  H42  AEA 20 
+AEA HO21 1HO2 H 0 0 N N N -10.208 -3.145 29.656 -0.550 -0.301 5.357  HO21 AEA 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AEA N1 C1   SING N N 1  
+AEA N1 HN11 SING N N 2  
+AEA N1 HN12 SING N N 3  
+AEA C1 C3   SING N N 4  
+AEA C1 C2   SING N N 5  
+AEA C1 H11  SING N N 6  
+AEA C3 S1   SING N N 7  
+AEA C3 H31  SING N N 8  
+AEA C3 H32  SING N N 9  
+AEA C2 N2   SING N N 10 
+AEA C2 O3   DOUB N N 11 
+AEA N2 HN21 SING N N 12 
+AEA N2 HN22 SING N N 13 
+AEA S1 C4   SING N N 14 
+AEA C4 C5   SING N N 15 
+AEA C4 H41  SING N N 16 
+AEA C4 H42  SING N N 17 
+AEA O1 C5   DOUB N N 18 
+AEA C5 O2   SING N N 19 
+AEA O2 HO21 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AEA SMILES           ACDLabs              10.04 "O=C(N)C(N)CSCC(=O)O"                                                                 
+AEA SMILES_CANONICAL CACTVS               3.341 "N[C@H](CSCC(O)=O)C(N)=O"                                                             
+AEA SMILES           CACTVS               3.341 "N[CH](CSCC(O)=O)C(N)=O"                                                              
+AEA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@H](C(=O)N)N)SCC(=O)O"                                                           
+AEA SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)N)N)SCC(=O)O"                                                               
+AEA InChI            InChI                1.03  "InChI=1S/C5H10N2O3S/c6-3(5(7)10)1-11-2-4(8)9/h3H,1-2,6H2,(H2,7,10)(H,8,9)/t3-/m1/s1" 
+AEA InChIKey         InChI                1.03  ZCLNAXHSEATOAW-GSVOUGTGSA-N                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AEA "SYSTEMATIC NAME" ACDLabs              10.04 "{[(2S)-2,3-diamino-3-oxopropyl]sulfanyl}acetic acid"    
+AEA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-[(2S)-2,3-diamino-3-oxo-propyl]sulfanylethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AEA "Create component"  1999-08-25 EBI  
+AEA "Modify descriptor" 2011-06-04 RCSB 
+# 

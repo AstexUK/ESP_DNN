@@ -1,0 +1,105 @@
+data_SEO
+# 
+_chem_comp.id                                    SEO 
+_chem_comp.name                                  2-MERCAPTOETHANOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAS 
+_chem_comp.formula                               "C2 H6 O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-SULFHYDRYL-ETHANOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      BME 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        78.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SEO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4FGF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SEO OB1  OB1  O 0 1 N N N 41.921 43.138 19.864 -0.125 0.000  2.357  OB1  SEO 1  
+SEO CB1  CB1  C 0 1 N N N 40.806 43.706 19.209 0.474  0.000  1.059  CB1  SEO 2  
+SEO CB   CB   C 0 1 N N N 41.060 43.744 17.692 -0.621 0.000  -0.007 CB   SEO 3  
+SEO SG   SG   S 0 1 N N N 39.496 43.657 16.772 0.138  0.000  -1.654 SG   SEO 4  
+SEO HO1  1HO  H 0 1 N N N 41.764 43.114 20.800 0.598  0.000  2.999  HO1  SEO 5  
+SEO HB11 1HB1 H 0 0 N N N 39.856 43.179 19.462 1.092  0.890  0.945  HB11 SEO 6  
+SEO HB12 2HB1 H 0 0 N N N 40.546 44.710 19.616 1.092  -0.890 0.945  HB12 SEO 7  
+SEO HB1  1HB  H 0 1 N N N 41.662 44.634 17.397 -1.240 -0.890 0.106  HB1  SEO 8  
+SEO HB2  2HB  H 0 1 N N N 41.770 42.946 17.373 -1.240 0.890  0.106  HB2  SEO 9  
+SEO HS   HS   H 0 1 N N N 39.652 43.680 15.835 -0.965 0.000  -2.422 HS   SEO 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SEO OB1 CB1  SING N N 1 
+SEO OB1 HO1  SING N N 2 
+SEO CB1 CB   SING N N 3 
+SEO CB1 HB11 SING N N 4 
+SEO CB1 HB12 SING N N 5 
+SEO CB  SG   SING N N 6 
+SEO CB  HB1  SING N N 7 
+SEO CB  HB2  SING N N 8 
+SEO SG  HS   SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SEO SMILES           ACDLabs              10.04 OCCS                                
+SEO InChI            InChI                1.02b InChI=1/C2H6OS/c3-1-2-4/h3-4H,1-2H2 
+SEO InChIKey         InChI                1.02b DGVVWUTYPXICAM-UHFFFAOYAT           
+SEO SMILES_CANONICAL CACTVS               3.341 OCCS                                
+SEO SMILES           CACTVS               3.341 OCCS                                
+SEO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CS)O"                            
+SEO SMILES           "OpenEye OEToolkits" 1.5.0 "C(CS)O"                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SEO "SYSTEMATIC NAME" ACDLabs              10.04 2-sulfanylethanol 
+SEO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-sulfanylethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SEO "Create component" 1999-07-08 RCSB 
+# 

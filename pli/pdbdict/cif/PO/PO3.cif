@@ -1,0 +1,93 @@
+data_PO3
+# 
+_chem_comp.id                                    PO3 
+_chem_comp.name                                  "PHOSPHITE ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "O3 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -3 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        78.972 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PO3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SHD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PO3 P  P  P -1 1 N N N 20.600 16.630 4.288 0.000  0.000  -0.500 P  PO3 1 
+PO3 O1 O1 O 0  1 N N N 21.419 17.062 3.109 -1.207 0.568  0.322  O1 PO3 2 
+PO3 O2 O2 O -1 1 N N N 21.059 15.356 4.954 1.095  0.761  0.322  O2 PO3 3 
+PO3 O3 O3 O -1 1 N N N 20.235 17.738 5.241 0.112  -1.329 0.322  O3 PO3 4 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PO3 P O1 DOUB N N 1 
+PO3 P O2 SING N N 2 
+PO3 P O3 SING N N 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PO3 SMILES           ACDLabs              10.04 "[O-][PH2-]([O-])=O"        
+PO3 SMILES_CANONICAL CACTVS               3.341 "[O-][P-]([O-])=O"          
+PO3 SMILES           CACTVS               3.341 "[O-][P-]([O-])=O"          
+PO3 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[O-][P-](=O)[O-]"          
+PO3 SMILES           "OpenEye OEToolkits" 1.5.0 "[O-][P-](=O)[O-]"          
+PO3 InChI            InChI                1.03  "InChI=1S/O3P/c1-4(2)3/q-3" 
+PO3 InChIKey         InChI                1.03  AQSJGOWTSHOLKH-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PO3 "SYSTEMATIC NAME" ACDLabs 10.04 "dihydrido(dioxido)oxophosphate(1-)" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PO3 "Create component"  1999-07-08 EBI  
+PO3 "Modify descriptor" 2011-06-04 RCSB 
+# 

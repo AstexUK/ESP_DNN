@@ -1,0 +1,196 @@
+data_STR
+# 
+_chem_comp.id                                    STR 
+_chem_comp.name                                  PROGESTERONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C21 H30 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        314.462 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     STR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1A28 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+STR C1   C1   C 0 1 N N N 36.722 34.750 39.821 1.622  -0.215 -2.831 C1   STR 1  
+STR C2   C2   C 0 1 N N N 37.383 34.885 38.411 1.589  0.203  -4.300 C2   STR 2  
+STR C3   C3   C 0 1 N N N 38.878 35.052 38.581 0.277  -0.285 -4.882 C3   STR 3  
+STR O3   O3   O 0 1 N N N 39.501 35.761 37.778 0.233  -0.907 -5.923 O3   STR 4  
+STR C4   C4   C 0 1 N N N 39.577 34.319 39.647 -0.934 0.032  -4.120 C4   STR 5  
+STR C5   C5   C 0 1 N N N 38.911 33.608 40.559 -0.850 0.322  -2.822 C5   STR 6  
+STR C6   C6   C 0 1 N N N 39.700 32.787 41.592 -2.136 0.659  -2.089 C6   STR 7  
+STR C7   C7   C 0 1 N N N 39.171 32.980 43.035 -2.195 -0.157 -0.797 C7   STR 8  
+STR C8   C8   C 0 1 N N S 37.627 32.810 43.155 -0.930 0.107  0.023  C8   STR 9  
+STR C9   C9   C 0 1 N N S 36.932 33.817 42.168 0.294  -0.418 -0.738 C9   STR 10 
+STR C10  C10  C 0 1 N N R 37.329 33.590 40.661 0.439  0.343  -2.060 C10  STR 11 
+STR C11  C11  C 0 1 N N N 35.390 33.811 42.356 1.583  -0.272 0.065  C11  STR 12 
+STR C12  C12  C 0 1 N N N 34.970 34.064 43.833 1.460  -0.913 1.457  C12  STR 13 
+STR C13  C13  C 0 1 N N S 35.601 33.021 44.767 0.262  -0.293 2.163  C13  STR 14 
+STR C14  C14  C 0 1 N N S 37.164 33.157 44.578 -1.008 -0.641 1.341  C14  STR 15 
+STR C15  C15  C 0 1 N N N 37.755 32.350 45.755 -2.125 -0.201 2.293  C15  STR 16 
+STR C16  C16  C 0 1 N N N 36.767 32.674 46.938 -1.617 -0.690 3.676  C16  STR 17 
+STR C17  C17  C 0 1 N N S 35.529 33.364 46.288 -0.076 -0.800 3.561  C17  STR 18 
+STR C18  C18  C 0 1 N N N 35.053 31.558 44.475 0.402  1.229  2.180  C18  STR 19 
+STR C19  C19  C 0 1 N N N 36.852 32.203 40.113 0.752  1.797  -1.700 C19  STR 20 
+STR C20  C20  C 0 1 N N N 34.178 33.098 46.985 0.587  0.060  4.605  C20  STR 21 
+STR O20  O20  O 0 1 N N N 34.028 32.147 47.721 0.013  1.027  5.044  O20  STR 22 
+STR C21  C21  C 0 1 N N N 33.060 34.033 46.751 1.968  -0.284 5.100  C21  STR 23 
+STR H11  1H1  H 0 1 N N N 36.769 35.714 40.378 1.604  -1.303 -2.771 H11  STR 24 
+STR H12  2H1  H 0 1 N N N 35.615 34.644 39.735 2.545  0.148  -2.378 H12  STR 25 
+STR H21  1H2  H 0 1 N N N 37.124 34.034 37.737 2.424  -0.251 -4.834 H21  STR 26 
+STR H22  2H2  H 0 1 N N N 36.930 35.705 37.806 1.646  1.289  -4.377 H22  STR 27 
+STR H4   H4   H 0 1 N N N 40.672 34.301 39.770 -1.896 0.032  -4.612 H4   STR 28 
+STR H61  1H6  H 0 1 N N N 39.721 31.707 41.314 -2.991 0.410  -2.718 H61  STR 29 
+STR H62  2H6  H 0 1 N N N 40.790 33.009 41.532 -2.153 1.722  -1.850 H62  STR 30 
+STR H71  1H7  H 0 1 N N N 39.700 32.301 43.744 -2.257 -1.218 -1.039 H71  STR 31 
+STR H72  2H7  H 0 1 N N N 39.493 33.964 43.446 -3.072 0.136  -0.220 H72  STR 32 
+STR H8   H8   H 0 1 N N N 37.359 31.754 42.915 -0.823 1.176  0.208  H8   STR 33 
+STR H9   H9   H 0 1 N N N 37.315 34.829 42.435 0.128  -1.474 -0.953 H9   STR 34 
+STR H111 1H11 H 0 0 N N N 34.898 34.538 41.668 2.397  -0.753 -0.476 H111 STR 35 
+STR H112 2H11 H 0 0 N N N 34.941 32.867 41.967 1.812  0.786  0.181  H112 STR 36 
+STR H121 1H12 H 0 0 N N N 35.207 35.104 44.156 1.274  -1.983 1.358  H121 STR 37 
+STR H122 2H12 H 0 0 N N N 33.861 34.101 43.945 2.375  -0.745 2.025  H122 STR 38 
+STR H14  H14  H 0 1 N N N 37.546 34.202 44.634 -1.062 -1.715 1.163  H14  STR 39 
+STR H151 1H15 H 0 0 N N N 37.895 31.263 45.550 -3.066 -0.686 2.034  H151 STR 40 
+STR H152 2H15 H 0 0 N N N 38.827 32.562 45.973 -2.234 0.883  2.284  H152 STR 41 
+STR H161 1H16 H 0 0 N N N 36.506 31.783 47.556 -2.045 -1.666 3.908  H161 STR 42 
+STR H162 2H16 H 0 0 N N N 37.232 33.273 47.754 -1.884 0.029  4.449  H162 STR 43 
+STR H17  H17  H 0 1 N N N 35.575 34.469 46.428 0.237  -1.838 3.674  H17  STR 44 
+STR H181 1H18 H 0 0 N N N 35.511 30.800 45.153 1.260  1.509  2.792  H181 STR 45 
+STR H182 2H18 H 0 0 N N N 33.939 31.524 44.522 0.547  1.592  1.163  H182 STR 46 
+STR H183 3H18 H 0 0 N N N 35.190 31.279 43.404 -0.501 1.673  2.599  H183 STR 47 
+STR H191 1H19 H 0 0 N N N 37.287 31.371 40.715 0.796  2.395  -2.610 H191 STR 48 
+STR H192 2H19 H 0 0 N N N 35.740 32.138 40.062 -0.029 2.185  -1.047 H192 STR 49 
+STR H193 3H19 H 0 0 N N N 37.076 32.088 39.026 1.712  1.845  -1.186 H193 STR 50 
+STR H211 1H21 H 0 0 N N N 32.083 33.840 47.254 2.280  0.446  5.845  H211 STR 51 
+STR H212 2H21 H 0 0 N N N 33.396 35.066 47.000 1.955  -1.278 5.548  H212 STR 52 
+STR H213 3H21 H 0 0 N N N 32.887 34.120 45.652 2.667  -0.271 4.264  H213 STR 53 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+STR C1  C2   SING N N 1  
+STR C1  C10  SING N N 2  
+STR C1  H11  SING N N 3  
+STR C1  H12  SING N N 4  
+STR C2  C3   SING N N 5  
+STR C2  H21  SING N N 6  
+STR C2  H22  SING N N 7  
+STR C3  O3   DOUB N N 8  
+STR C3  C4   SING N N 9  
+STR C4  C5   DOUB N N 10 
+STR C4  H4   SING N N 11 
+STR C5  C6   SING N N 12 
+STR C5  C10  SING N N 13 
+STR C6  C7   SING N N 14 
+STR C6  H61  SING N N 15 
+STR C6  H62  SING N N 16 
+STR C7  C8   SING N N 17 
+STR C7  H71  SING N N 18 
+STR C7  H72  SING N N 19 
+STR C8  C9   SING N N 20 
+STR C8  C14  SING N N 21 
+STR C8  H8   SING N N 22 
+STR C9  C10  SING N N 23 
+STR C9  C11  SING N N 24 
+STR C9  H9   SING N N 25 
+STR C10 C19  SING N N 26 
+STR C11 C12  SING N N 27 
+STR C11 H111 SING N N 28 
+STR C11 H112 SING N N 29 
+STR C12 C13  SING N N 30 
+STR C12 H121 SING N N 31 
+STR C12 H122 SING N N 32 
+STR C13 C14  SING N N 33 
+STR C13 C17  SING N N 34 
+STR C13 C18  SING N N 35 
+STR C14 C15  SING N N 36 
+STR C14 H14  SING N N 37 
+STR C15 C16  SING N N 38 
+STR C15 H151 SING N N 39 
+STR C15 H152 SING N N 40 
+STR C16 C17  SING N N 41 
+STR C16 H161 SING N N 42 
+STR C16 H162 SING N N 43 
+STR C17 C20  SING N N 44 
+STR C17 H17  SING N N 45 
+STR C18 H181 SING N N 46 
+STR C18 H182 SING N N 47 
+STR C18 H183 SING N N 48 
+STR C19 H191 SING N N 49 
+STR C19 H192 SING N N 50 
+STR C19 H193 SING N N 51 
+STR C20 O20  DOUB N N 52 
+STR C20 C21  SING N N 53 
+STR C21 H211 SING N N 54 
+STR C21 H212 SING N N 55 
+STR C21 H213 SING N N 56 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+STR SMILES           ACDLabs              10.04 "O=C4C=C2C(C1CCC3(C(C(=O)C)CCC3C1CC2)C)(C)CC4"                                                                                                      
+STR SMILES_CANONICAL CACTVS               3.341 "CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C"                                                                                   
+STR SMILES           CACTVS               3.341 "CC(=O)[CH]1CC[CH]2[CH]3CCC4=CC(=O)CC[C]4(C)[CH]3CC[C]12C"                                                                                          
+STR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"                                                                                  
+STR SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C"                                                                                                          
+STR InChI            InChI                1.03  "InChI=1S/C21H30O2/c1-13(22)17-6-7-18-16-5-4-14-12-15(23)8-10-20(14,2)19(16)9-11-21(17,18)3/h12,16-19H,4-11H2,1-3H3/t16-,17+,18-,19-,20-,21+/m0/s1" 
+STR InChIKey         InChI                1.03  RJKFOVLPORLFTN-LEKSSAKUSA-N                                                                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+STR "SYSTEMATIC NAME" ACDLabs              10.04 "(14beta,17alpha)-pregn-4-ene-3,20-dione"                                                                                    
+STR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(8S,9S,10R,13S,14S,17S)-17-ethanoyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+STR "Create component"  1999-07-08 EBI  
+STR "Modify descriptor" 2011-06-04 RCSB 
+# 

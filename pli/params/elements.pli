@@ -1,0 +1,77 @@
+# Copyright 2017 Astex Therapeutics Ltd.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+# elements.pli - contains element definitions
+
+#---------------------------------------------------------------------------------------------------------------------------
+# elements table
+#---------------------------------------------------------------------------------------------------------------------------
+#         AN   name      Rcov     Rvdw        metal valence #lps
+#---------------------------------------------------------------------------------------------------------------------------
+element    1   "H"       0.23     1.09          0      1     -1
+element    2   "HE"      1.50     1.40          0      0     -1
+element    3   "LI"      1.27     1.80          1      1     -1
+element    4   "BE"      0.96     1.40          0      2     -1
+element    5   "B"       0.90     1.70          0      3     -1
+element    6   "C"       0.76     1.78          0      4     -1
+element    7   "N"       0.69     1.65          0      3      1
+element    8   "O"       0.65     1.40          0      2      3
+element    9   "F"       0.56     1.38          0      1     -1
+element   10   "NE"      0.70     1.80          0      0     -1
+element   11   "NA"      1.70     1.80          1      1     -1
+element   12   "MG"      1.41     1.80          1      2     -1
+element   13   "AL"      1.20     1.80          1      6     -1
+element   14   "SI"      1.11     2.10          0      4     -1
+element   15   "P"       1.07     1.97          0      3     -1
+element   16   "S"       1.01     1.78          0      2      2
+element   17   "CL"      0.98     1.65          0      1     -1
+element   18   "AR"      0.70     1.80          0      0     -1
+element   19   "K"       2.17     1.80          1      1     -1
+element   20   "CA"      1.73     1.80          1      2     -1
+element   21   "SC"      1.38     1.80          1     -1     -1
+element   22   "TI"      1.38     1.80          1     -1     -1
+element   23   "V"       1.38     1.80          1     -1     -1
+element   24   "CR"      1.30     1.80          1     -1     -1
+element   25   "MN"      1.38     1.80          1     -1     -1
+element   26   "FE"      1.35     1.80          1     -1     -1
+element   27   "CO"      1.42     1.80          1     -1     -1
+element   28   "NI"      1.38     1.80          1     -1     -1
+element   29   "CU"      1.32     1.80          1     -1     -1
+element   30   "ZN"      1.30     1.80          1     -1     -1
+element   31   "GA"      1.38     1.80          1      3     -1
+element   32   "GE"      1.38     1.80          1      4     -1
+element   33   "AS"      1.38     1.80          0      3     -1
+element   34   "SE"      1.16     1.80          0      2     -1
+element   35   "BR"      1.15     1.84          0      1     -1
+element   36   "KR"      0.70     1.80          0      0     -1
+element   37   "RB"      1.38     1.80          1      1     -1
+element   38   "SR"      1.38     1.80          1      2     -1
+element   39   "Y"       1.38     1.80          1     -1     -1
+element   40   "ZR"      1.38     1.80          1     -1     -1
+element   42   "MO"      1.38     1.80          1     -1     -1
+element   48   "CD"      1.38     1.80          1     -1     -1
+element   53   "I"       1.34     1.93          0      1     -1
+element   55   "CS"      1.38     1.80          1      1     -1
+element   56   "BA"      1.38     1.80          1      2     -1
+element   63   "EU"      1.38     1.80          1     -1     -1
+element   70   "YB"      1.38     1.80          1     -1     -1
+element   74   "W"       1.38     1.80          1     -1     -1
+element   78   "PT"      1.38     1.80          1     -1     -1
+element   79   "AU"      1.38     1.80          1     -1     -1
+element   80   "HG"      1.38     1.80          1     -1     -1
+element   81   "TL"      1.38     1.80          1      3     -1
+element   82   "PB"      1.38     1.80          1      4     -1
+element   92   "U"       1.38     1.80          1     -1     -1
+element   -1   "DU"      1.00     1.60          1     -1     -1
+#---------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,116 @@
+data_1KA
+# 
+_chem_comp.id                                    1KA 
+_chem_comp.name                                  "(2-hydroxyethoxy)acetaldehyde" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-12-25 
+_chem_comp.pdbx_modified_date                    2013-02-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        104.105 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1KA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4I9B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1KA C1 C1 C 0 1 N N N -19.607 5.554 -23.775 -2.277 0.521  0.173  C1 1KA 1  
+1KA O1 O1 O 0 1 N N N -19.794 4.667 -22.685 -3.283 0.175  -0.399 O1 1KA 2  
+1KA C2 C2 C 0 1 N N N -20.472 5.181 -24.925 -1.191 -0.483 0.461  C2 1KA 3  
+1KA O2 O2 O 0 1 N N N -21.822 5.043 -24.506 0.046  -0.015 -0.080 O2 1KA 4  
+1KA C3 C3 C 0 1 N N N -22.555 4.136 -25.314 1.148  -0.898 0.139  C3 1KA 5  
+1KA C4 C4 C 0 1 N N N -23.796 4.784 -25.835 2.413  -0.299 -0.480 C4 1KA 6  
+1KA O4 O4 O 0 1 N N N -24.451 3.950 -26.774 2.753  0.908  0.206  O4 1KA 7  
+1KA H1 H1 H 0 1 N N N -18.925 6.391 -23.770 -2.154 1.551  0.474  H1 1KA 8  
+1KA H2 H2 H 0 1 N N N -20.124 4.226 -25.345 -1.090 -0.610 1.539  H2 1KA 9  
+1KA H3 H3 H 0 1 N N N -20.410 5.965 -25.694 -1.449 -1.439 0.005  H3 1KA 10 
+1KA H4 H4 H 0 1 N N N -22.831 3.257 -24.713 1.297  -1.034 1.210  H4 1KA 11 
+1KA H5 H5 H 0 1 N N N -21.929 3.819 -26.161 0.939  -1.862 -0.324 H5 1KA 12 
+1KA H6 H6 H 0 1 N N N -23.528 5.733 -26.323 3.233  -1.011 -0.391 H6 1KA 13 
+1KA H7 H7 H 0 1 N N N -24.477 4.983 -24.995 2.234  -0.081 -1.533 H7 1KA 14 
+1KA H8 H8 H 0 1 N N N -25.235 4.383 -27.090 3.547  1.343  -0.134 H8 1KA 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1KA O4 C4 SING N N 1  
+1KA C4 C3 SING N N 2  
+1KA C3 O2 SING N N 3  
+1KA C2 O2 SING N N 4  
+1KA C2 C1 SING N N 5  
+1KA C1 O1 DOUB N N 6  
+1KA C1 H1 SING N N 7  
+1KA C2 H2 SING N N 8  
+1KA C2 H3 SING N N 9  
+1KA C3 H4 SING N N 10 
+1KA C3 H5 SING N N 11 
+1KA C4 H6 SING N N 12 
+1KA C4 H7 SING N N 13 
+1KA O4 H8 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1KA SMILES           ACDLabs              12.01 O=CCOCCO                                   
+1KA InChI            InChI                1.03  InChI=1S/C4H8O3/c5-1-3-7-4-2-6/h1,6H,2-4H2 
+1KA InChIKey         InChI                1.03  DSGGHBUAHUMMHN-UHFFFAOYSA-N                
+1KA SMILES_CANONICAL CACTVS               3.370 OCCOCC=O                                   
+1KA SMILES           CACTVS               3.370 OCCOCC=O                                   
+1KA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C(COCC=O)O"                               
+1KA SMILES           "OpenEye OEToolkits" 1.7.6 "C(COCC=O)O"                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1KA "SYSTEMATIC NAME" ACDLabs              12.01 "(2-hydroxyethoxy)acetaldehyde" 
+1KA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-(2-hydroxyethyloxy)ethanal"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1KA "Create component" 2012-12-25 PDBJ 
+1KA "Initial release"  2013-02-15 RCSB 
+# 

@@ -1,0 +1,102 @@
+data_TS6
+# 
+_chem_comp.id                                    TS6 
+_chem_comp.name                                  Monothiophosphate 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H3 O3 P S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "phosphorothioic O,O,S-acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-08-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        114.061 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TS6 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3HL2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TS6 P    P    P 0 1 N N N 30.892 -38.993 -12.310 -0.393 -0.000 0.037  P    TS6 1 
+TS6 O1P  O1P  O 0 1 N N N 31.133 -37.982 -13.407 -0.878 -0.000 1.436  O1P  TS6 2 
+TS6 S2P  S2P  S 0 1 N N N 29.672 -40.377 -12.951 1.727  -0.000 0.025  S2P  TS6 3 
+TS6 O3P  O3P  O 0 1 N N N 32.197 -39.647 -11.913 -0.934 -1.314 -0.719 O3P  TS6 4 
+TS6 O4P  O4P  O 0 1 N N N 30.288 -38.300 -11.112 -0.934 1.315  -0.718 O4P  TS6 5 
+TS6 HS2P HS2P H 0 0 N N N 29.436 -39.986 -14.168 2.022  0.000  -1.288 HS2P TS6 6 
+TS6 HO3P HO3P H 0 0 N N N 32.904 -39.287 -12.436 -0.646 -2.146 -0.317 HO3P TS6 7 
+TS6 HO4P HO4P H 0 0 N N N 30.186 -37.374 -11.299 -0.646 2.146  -0.316 HO4P TS6 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TS6 O1P P    DOUB N N 1 
+TS6 S2P P    SING N N 2 
+TS6 P   O3P  SING N N 3 
+TS6 P   O4P  SING N N 4 
+TS6 S2P HS2P SING N N 5 
+TS6 O3P HO3P SING N N 6 
+TS6 O4P HO4P SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TS6 SMILES           ACDLabs              11.02 "O=P(O)(O)S"                               
+TS6 SMILES_CANONICAL CACTVS               3.352 "O[P](O)(S)=O"                             
+TS6 SMILES           CACTVS               3.352 "O[P](O)(S)=O"                             
+TS6 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "OP(=O)(O)S"                               
+TS6 SMILES           "OpenEye OEToolkits" 1.7.0 "OP(=O)(O)S"                               
+TS6 InChI            InChI                1.03  "InChI=1S/H3O3PS/c1-4(2,3)5/h(H3,1,2,3,5)" 
+TS6 InChIKey         InChI                1.03  RYYWUUFWQRZTIU-UHFFFAOYSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TS6 "SYSTEMATIC NAME" ACDLabs              11.02 "phosphorothioic O,O,S-acid" 
+TS6 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "sulfanylphosphonic acid"    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TS6 "Create component"  2009-08-31 RCSB 
+TS6 "Modify descriptor" 2011-06-04 RCSB 
+# 

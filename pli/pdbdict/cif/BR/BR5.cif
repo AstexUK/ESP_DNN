@@ -1,0 +1,122 @@
+data_BR5
+# 
+_chem_comp.id                                    BR5 
+_chem_comp.name                                  2-ETHOXYETHYLPHOSPHINATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 O3 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2003-05-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        137.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BR5 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PE8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BR5 CA1  CA1  C 0  1 N N N 37.559 37.717 -5.184 2.324 2.347  2.208  CA1  BR5 1  
+BR5 CB2  CB2  C 0  1 N N N 36.974 37.815 -6.497 1.388 1.231  1.794  CB2  BR5 2  
+BR5 O    O    O 0  1 N N N 36.017 38.838 -6.275 1.854 0.664  0.577  O    BR5 3  
+BR5 CZ2  CZ2  C 0  1 N N N 35.446 39.622 -7.276 1.012 -0.393 0.138  CZ2  BR5 4  
+BR5 CA2  CA2  C 0  1 N N N 34.451 40.728 -6.912 1.557 -0.951 -1.161 CA2  BR5 5  
+BR5 P    P    P 0  1 N N N 35.150 42.162 -6.184 1.628 0.296  -2.472 P    BR5 6  
+BR5 OP1  OP1  O -1 1 N N N 36.534 42.464 -6.761 2.265 -0.400 -3.666 OP1  BR5 7  
+BR5 OP2  OP2  O 0  1 N N N 34.228 43.348 -6.188 0.207 0.823  -2.612 OP2  BR5 8  
+BR5 HA11 1HA1 H 0  0 N N N 38.311 36.912 -5.358 1.994 2.807  3.143  HA11 BR5 9  
+BR5 HA12 2HA1 H 0  0 N N N 37.957 38.668 -4.760 3.343 1.967  2.342  HA12 BR5 10 
+BR5 HA13 3HA1 H 0  0 N N N 36.843 37.536 -4.348 2.372 3.118  1.432  HA13 BR5 11 
+BR5 HB21 1HB2 H 0  0 N N N 37.689 37.995 -7.332 0.377 1.618  1.638  HB21 BR5 12 
+BR5 HB22 2HB2 H 0  0 N N N 36.575 36.863 -6.920 1.360 0.450  2.560  HB22 BR5 13 
+BR5 HZ21 1HZ2 H 0  0 N N N 36.266 40.072 -7.881 0.999 -1.167 0.911  HZ21 BR5 14 
+BR5 HZ22 2HZ2 H 0  0 N N N 34.964 38.946 -8.020 0.000 0.000  0.000  HZ22 BR5 15 
+BR5 HA21 1HA2 H 0  0 N N N 33.848 41.009 -7.807 2.572 -1.336 -1.019 HA21 BR5 16 
+BR5 HA22 2HA2 H 0  0 N N N 33.648 40.318 -6.254 0.921 -1.768 -1.514 HA22 BR5 17 
+BR5 HP1  HP1  H 0  1 N N N 35.336 41.869 -4.807 2.487 1.295  -1.953 HP1  BR5 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BR5 CA1 CB2  SING N N 1  
+BR5 CA1 HA11 SING N N 2  
+BR5 CA1 HA12 SING N N 3  
+BR5 CA1 HA13 SING N N 4  
+BR5 CB2 O    SING N N 5  
+BR5 CB2 HB21 SING N N 6  
+BR5 CB2 HB22 SING N N 7  
+BR5 O   CZ2  SING N N 8  
+BR5 CZ2 CA2  SING N N 9  
+BR5 CZ2 HZ21 SING N N 10 
+BR5 CZ2 HZ22 SING N N 11 
+BR5 CA2 P    SING N N 12 
+BR5 CA2 HA21 SING N N 13 
+BR5 CA2 HA22 SING N N 14 
+BR5 P   OP1  SING N N 15 
+BR5 P   OP2  DOUB N N 16 
+BR5 HP1 P    SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BR5 SMILES           ACDLabs              10.04 "[O-]P(=O)CCOCC"                                               
+BR5 SMILES_CANONICAL CACTVS               3.341 "CCOCC[PH]([O-])=O"                                            
+BR5 SMILES           CACTVS               3.341 "CCOCC[PH]([O-])=O"                                            
+BR5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCOCC[P@H](=O)[O-]"                                           
+BR5 SMILES           "OpenEye OEToolkits" 1.5.0 "CCOCCP(=O)[O-]"                                               
+BR5 InChI            InChI                1.03  "InChI=1S/C4H11O3P/c1-2-7-3-4-8(5)6/h8H,2-4H2,1H3,(H,5,6)/p-1" 
+BR5 InChIKey         InChI                1.03  XCMXNBBWZYFHSD-UHFFFAOYSA-M                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BR5 "SYSTEMATIC NAME" ACDLabs              10.04 "(2-ethoxyethyl)phosphinate" 
+BR5 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-ethoxyethylphosphinate     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BR5 "Create component"  2003-05-27 RCSB 
+BR5 "Modify descriptor" 2011-06-04 RCSB 
+# 

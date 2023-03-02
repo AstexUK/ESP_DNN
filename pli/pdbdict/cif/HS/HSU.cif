@@ -1,0 +1,126 @@
+data_HSU
+# 
+_chem_comp.id                                    HSU 
+_chem_comp.name                                  beta-D-ribofuranose 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-01-16 
+_chem_comp.pdbx_modified_date                    2009-09-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      BDR 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HSU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1qxb 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HSU "O5'"  "O5'"  O 0 1 N N N 177.438 42.180 108.884 3.302  -0.402 -0.064 "O5'"  HSU 1  
+HSU "C5'"  "C5'"  C 0 1 N N N 176.079 41.832 109.210 2.251  0.337  0.562  "C5'"  HSU 2  
+HSU "C4'"  "C4'"  C 0 1 N N R 175.855 41.720 110.712 0.990  0.262  -0.301 "C4'"  HSU 3  
+HSU "O4'"  "O4'"  O 0 1 N N N 176.749 40.774 111.300 0.496  -1.088 -0.327 "O4'"  HSU 4  
+HSU "C3'"  "C3'"  C 0 1 N N S 176.140 43.113 111.280 -0.116 1.143  0.310  "C3'"  HSU 5  
+HSU "O3'"  "O3'"  O 0 1 N N N 174.933 43.789 111.663 -0.512 2.160  -0.613 "O3'"  HSU 6  
+HSU "C2'"  "C2'"  C 0 1 N N R 177.015 42.806 112.496 -1.284 0.161  0.568  "C2'"  HSU 7  
+HSU "O2'"  "O2'"  O 0 1 N N N 176.224 42.647 113.683 -2.537 0.756  0.223  "O2'"  HSU 8  
+HSU "C1'"  "C1'"  C 0 1 N N R 177.684 41.491 112.099 -0.944 -1.008 -0.391 "C1'"  HSU 9  
+HSU "HO3'" "HO3'" H 0 0 N N N 174.937 43.938 112.601 -1.207 2.744  -0.280 "HO3'" HSU 10 
+HSU "HO2'" "HO2'" H 0 0 N N N 176.794 42.612 114.442 -3.299 0.179  0.367  "HO2'" HSU 11 
+HSU "H5'"  "H5'"  H 0 1 N N N 175.414 42.614 108.815 2.045  -0.087 1.545  "H5'"  HSU 12 
+HSU "H5'A" "H5'A" H 0 0 N N N 175.865 40.850 108.762 2.555  1.378  0.672  "H5'A" HSU 13 
+HSU "H4'"  "H4'"  H 0 1 N N N 174.832 41.378 110.929 1.215  0.594  -1.314 "H4'"  HSU 14 
+HSU "H3'"  "H3'"  H 0 1 N N N 176.618 43.786 110.553 0.224  1.589  1.245  "H3'"  HSU 15 
+HSU "H2'"  "H2'"  H 0 1 N N N 177.729 43.609 112.733 -1.288 -0.175 1.605  "H2'"  HSU 16 
+HSU O5     O5     O 0 1 N N N 178.707 41.266 111.456 -1.536 -2.225 0.068  O5     HSU 17 
+HSU H8     H8     H 0 1 N N N 177.528 42.257 107.941 4.134  -0.398 0.429  H8     HSU 18 
+HSU "H1'"  "H1'"  H 0 1 N N N 178.011 41.274 113.127 -1.271 -0.780 -1.406 "H1'"  HSU 19 
+HSU H10    H10    H 0 1 N N N 178.494 41.208 110.532 -1.299 -3.001 -0.458 H10    HSU 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HSU "O5'" "C5'"  SING N N 1  
+HSU "C5'" "C4'"  SING N N 2  
+HSU "C5'" "H5'"  SING N N 3  
+HSU "C5'" "H5'A" SING N N 4  
+HSU "C4'" "O4'"  SING N N 5  
+HSU "C4'" "C3'"  SING N N 6  
+HSU "C4'" "H4'"  SING N N 7  
+HSU "O4'" "C1'"  SING N N 8  
+HSU "C3'" "O3'"  SING N N 9  
+HSU "C3'" "C2'"  SING N N 10 
+HSU "C3'" "H3'"  SING N N 11 
+HSU "O3'" "HO3'" SING N N 12 
+HSU "C2'" "O2'"  SING N N 13 
+HSU "C2'" "C1'"  SING N N 14 
+HSU "C2'" "H2'"  SING N N 15 
+HSU "O2'" "HO2'" SING N N 16 
+HSU "C1'" O5     SING N N 17 
+HSU "O5'" H8     SING N N 18 
+HSU "C1'" "H1'"  SING N N 19 
+HSU O5    H10    SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HSU SMILES           ACDLabs              10.04 "OC1C(OC(O)C1O)CO"                                                     
+HSU InChI            InChI                1.02b "InChI=1/C5H10O5/c6-1-2-3(7)4(8)5(9)10-2/h2-9H,1H2/t2-,3-,4-,5-/m1/s1" 
+HSU InChIKey         InChI                1.02b HMFHBZSHGGEWLO-TXICZTDVBF                                              
+HSU SMILES_CANONICAL CACTVS               3.341 "OC[C@H]1O[C@@H](O)[C@H](O)[C@@H]1O"                                   
+HSU SMILES           CACTVS               3.341 "OC[CH]1O[CH](O)[CH](O)[CH]1O"                                         
+HSU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@H]([C@@H](O1)O)O)O)O"                               
+HSU SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)O)O)O)O"                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HSU "SYSTEMATIC NAME" ACDLabs              10.04 beta-D-ribofuranose                                  
+HSU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3R,4S,5R)-5-(hydroxymethyl)oxolane-2,3,4-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HSU "Create component" 2009-01-16 RCSB 
+# 

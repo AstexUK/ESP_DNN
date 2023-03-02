@@ -1,0 +1,184 @@
+data_NMS
+# 
+_chem_comp.id                                    NMS 
+_chem_comp.name                                  "1-(O2-(2-METHYLAMINO-2-OXO-ETHYL)-O5-HYDROXYPHOSPHINYL-BETA-D-RIBOFURANOSYL)THYMINE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C13 H20 N3 O10 P" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-11-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        409.286 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     NMS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XUX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NMS P      P      P 0 1 N N N 24.347 7.107  44.844 2.787  0.324  -4.407 P      NMS 1  
+NMS OP2    O2P    O 0 1 N N N 25.634 7.706  45.123 1.198  0.588  -4.548 OP2    NMS 2  
+NMS OP1    O1P    O 0 1 N N N 24.202 5.719  44.444 3.659  1.172  -5.286 OP1    NMS 3  
+NMS "O5'"  O5*    O 0 1 N N N 23.371 7.252  46.059 3.063  0.476  -2.819 "O5'"  NMS 4  
+NMS N1     N1     N 0 1 N N N 19.861 6.186  47.423 0.452  2.524  0.177  N1     NMS 5  
+NMS C6     C6     C 0 1 N N N 20.607 5.637  46.417 0.309  2.663  -1.199 C6     NMS 6  
+NMS C2     C2     C 0 1 N N N 18.736 5.584  47.899 -0.300 3.336  1.055  C2     NMS 7  
+NMS O2     O2     O 0 1 N N N 18.044 6.030  48.794 -0.225 3.269  2.283  O2     NMS 8  
+NMS N3     N3     N 0 1 N N N 18.397 4.404  47.287 -1.159 4.248  0.431  N3     NMS 9  
+NMS C4     C4     C 0 1 N N N 19.091 3.792  46.274 -1.338 4.427  -0.932 C4     NMS 10 
+NMS O4     O4     O 0 1 N N N 18.675 2.758  45.834 -2.112 5.251  -1.413 O4     NMS 11 
+NMS C5     C5     C 0 1 N N N 20.274 4.492  45.826 -0.514 3.537  -1.792 C5     NMS 12 
+NMS C5M    C5M    C 0 1 N N N 21.106 3.906  44.720 -0.651 3.669  -3.275 C5M    NMS 13 
+NMS "C2'"  C2*    C 0 1 N N R 21.019 7.245  49.268 0.748  0.163  0.786  "C2'"  NMS 14 
+NMS "C5'"  C5*    C 0 1 N N N 23.250 8.536  46.647 2.282  -0.292 -1.921 "C5'"  NMS 15 
+NMS "C4'"  C4*    C 0 1 N N R 22.301 8.377  47.796 2.725  0.023  -0.498 "C4'"  NMS 16 
+NMS "O4'"  O4*    O 0 1 N N N 20.973 8.198  47.180 2.470  1.422  -0.246 "O4'"  NMS 17 
+NMS "C1'"  C1*    C 0 1 N N R 20.181 7.439  48.107 1.373  1.543  0.675  "C1'"  NMS 18 
+NMS "C3'"  C3*    C 0 1 N N R 22.392 7.188  48.685 1.940  -0.742 0.560  "C3'"  NMS 19 
+NMS "O3'"  O3*    O 0 1 N N N 23.399 7.338  49.660 2.742  -0.809 1.739  "O3'"  NMS 20 
+NMS "O6'"  "O6'"  O 0 1 N N N 20.733 8.289  50.152 0.137  -0.058 2.041  "O6'"  NMS 21 
+NMS "C7'"  "C7'"  C 0 1 N N N 19.378 8.070  50.609 -0.332 -1.396 2.174  "C7'"  NMS 22 
+NMS "C8'"  "C8'"  C 0 1 N N N 19.383 8.204  52.102 -0.980 -1.603 3.526  "C8'"  NMS 23 
+NMS "O8'"  "O8'"  O 0 1 N N N 18.409 8.058  52.794 -1.077 -0.708 4.360  "O8'"  NMS 24 
+NMS "N9'"  "N9'"  N 0 1 N N N 20.631 8.475  52.602 -1.433 -2.904 3.682  "N9'"  NMS 25 
+NMS C10    C10    C 0 1 N N N 20.725 8.653  54.053 -2.091 -3.371 4.881  C10    NMS 26 
+NMS OP3    O3P    O 0 1 N Y N ?      ?      ?      2.921  -1.270 -4.647 OP3    NMS 27 
+NMS HOP2   2HOP   H 0 0 N N N 25.729 8.614  45.385 0.799  0.616  -5.443 HOP2   NMS 28 
+NMS H6     H6     H 0 1 N N N 21.522 6.142  46.065 0.928  1.995  -1.790 H6     NMS 29 
+NMS HN3    HN3    H 0 1 N N N 17.551 3.939  47.616 -1.709 4.843  1.045  HN3    NMS 30 
+NMS H71    1H5M   H 0 1 N N N 22.152 3.807  45.094 -1.057 2.748  -3.690 H71    NMS 31 
+NMS H72    2H5M   H 0 1 N N N 20.827 2.947  44.225 0.324  3.866  -3.719 H72    NMS 32 
+NMS H73    3H5M   H 0 1 N N N 21.216 4.682  43.927 -1.320 4.497  -3.510 H73    NMS 33 
+NMS "H2'"  H2*    H 0 1 N N N 20.872 6.325  49.881 -0.000 0.004  -0.000 "H2'"  NMS 34 
+NMS "H5'"  1H5*   H 0 1 N N N 22.945 9.329  45.925 1.229  -0.035 -2.051 "H5'"  NMS 35 
+NMS "H5''" 2H5*   H 0 0 N N N 24.228 8.986  46.937 2.428  -1.352 -2.133 "H5''" NMS 36 
+NMS "H4'"  H4*    H 0 1 N N N 22.525 9.263  48.434 3.804  -0.139 -0.410 "H4'"  NMS 37 
+NMS "H1'"  H1*    H 0 1 N N N 19.229 7.921  48.430 1.754  1.910  1.633  "H1'"  NMS 38 
+NMS "H3'"  H3*    H 0 1 N N N 22.664 6.226  48.191 1.675  -1.764 0.277  "H3'"  NMS 39 
+NMS "HO3'" H3T    H 0 0 N Y N 24.273 7.302  49.289 3.447  -0.153 1.628  "HO3'" NMS 40 
+NMS "H7'1" "1H7'" H 0 0 N N N 18.952 7.101  50.260 0.521  -2.074 2.075  "H7'1" NMS 41 
+NMS "H7'2" "2H7'" H 0 0 N N N 18.637 8.740  50.114 -1.050 -1.607 1.376  "H7'2" NMS 42 
+NMS "H9'"  "H9'"  H 0 1 N N N 21.417 8.538  51.955 -1.295 -3.560 2.919  "H9'"  NMS 43 
+NMS H101   1H10   H 0 0 N N N 20.298 7.762  54.570 -2.796 -4.170 4.635  H101   NMS 44 
+NMS H102   2H10   H 0 0 N N N 21.740 8.873  54.460 -2.637 -2.552 5.356  H102   NMS 45 
+NMS H103   3H10   H 0 0 N N N 20.008 9.441  54.383 -1.354 -3.758 5.590  H103   NMS 46 
+NMS HOP3   3HOP   H 0 0 N N N -0.845 -0.393 -0.183 2.886  -1.617 -5.563 HOP3   NMS 47 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NMS P     OP2    SING N N 1  
+NMS P     OP1    DOUB N N 2  
+NMS P     "O5'"  SING N N 3  
+NMS P     OP3    SING N N 4  
+NMS OP2   HOP2   SING N N 5  
+NMS "O5'" "C5'"  SING N N 6  
+NMS N1    C6     SING N N 7  
+NMS N1    C2     SING N N 8  
+NMS N1    "C1'"  SING N N 9  
+NMS C6    C5     DOUB N N 10 
+NMS C6    H6     SING N N 11 
+NMS C2    O2     DOUB N N 12 
+NMS C2    N3     SING N N 13 
+NMS N3    C4     SING N N 14 
+NMS N3    HN3    SING N N 15 
+NMS C4    O4     DOUB N N 16 
+NMS C4    C5     SING N N 17 
+NMS C5    C5M    SING N N 18 
+NMS C5M   H71    SING N N 19 
+NMS C5M   H72    SING N N 20 
+NMS C5M   H73    SING N N 21 
+NMS "C2'" "C1'"  SING N N 22 
+NMS "C2'" "C3'"  SING N N 23 
+NMS "C2'" "O6'"  SING N N 24 
+NMS "C2'" "H2'"  SING N N 25 
+NMS "C5'" "C4'"  SING N N 26 
+NMS "C5'" "H5'"  SING N N 27 
+NMS "C5'" "H5''" SING N N 28 
+NMS "C4'" "O4'"  SING N N 29 
+NMS "C4'" "C3'"  SING N N 30 
+NMS "C4'" "H4'"  SING N N 31 
+NMS "O4'" "C1'"  SING N N 32 
+NMS "C1'" "H1'"  SING N N 33 
+NMS "C3'" "O3'"  SING N N 34 
+NMS "C3'" "H3'"  SING N N 35 
+NMS "O3'" "HO3'" SING N N 36 
+NMS "O6'" "C7'"  SING N N 37 
+NMS "C7'" "C8'"  SING N N 38 
+NMS "C7'" "H7'1" SING N N 39 
+NMS "C7'" "H7'2" SING N N 40 
+NMS "C8'" "O8'"  DOUB N N 41 
+NMS "C8'" "N9'"  SING N N 42 
+NMS "N9'" C10    SING N N 43 
+NMS "N9'" "H9'"  SING N N 44 
+NMS C10   H101   SING N N 45 
+NMS C10   H102   SING N N 46 
+NMS C10   H103   SING N N 47 
+NMS OP3   HOP3   SING N N 48 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NMS SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C(O)C2OCC(=O)NC)COP(=O)(O)O"                                                                                                                                       
+NMS SMILES_CANONICAL CACTVS               3.341 "CNC(=O)CO[C@@H]1[C@H](O)[C@@H](CO[P](O)(O)=O)O[C@H]1N2C=C(C)C(=O)NC2=O"                                                                                                                   
+NMS SMILES           CACTVS               3.341 "CNC(=O)CO[CH]1[CH](O)[CH](CO[P](O)(O)=O)O[CH]1N2C=C(C)C(=O)NC2=O"                                                                                                                         
+NMS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)OCC(=O)NC"                                                                                                                   
+NMS SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)OCC(=O)NC"                                                                                                                                     
+NMS InChI            InChI                1.03  "InChI=1S/C13H20N3O10P/c1-6-3-16(13(20)15-11(6)19)12-10(24-5-8(17)14-2)9(18)7(26-12)4-25-27(21,22)23/h3,7,9-10,12,18H,4-5H2,1-2H3,(H,14,17)(H,15,19,20)(H2,21,22,23)/t7-,9-,10-,12-/m1/s1" 
+NMS InChIKey         InChI                1.03  PQERMMDCFWNASH-UGKPPGOTSA-N                                                                                                                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NMS "SYSTEMATIC NAME" ACDLabs              10.04 
+;5-methyl-2'-O-[2-(methylamino)-2-oxoethyl]uridine 5'-(dihydrogen phosphate)
+;
+NMS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3R,4R,5R)-3-hydroxy-4-(2-methylamino-2-oxo-ethoxy)-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NMS "Create component"  2004-11-24 RCSB 
+NMS "Modify descriptor" 2011-06-04 RCSB 
+# 

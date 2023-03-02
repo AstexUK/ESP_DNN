@@ -1,0 +1,141 @@
+data_BCS
+# 
+_chem_comp.id                                    BCS 
+_chem_comp.name                                  BENZYLCYSTEINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C10 H13 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        211.281 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     BCS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        10GS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BCS N   N   N 0 1 N N N 11.726 7.642 27.628 1.487  0.988  2.713  N   BCS 1  
+BCS CA  CA  C 0 1 N N R 10.472 6.967 27.934 0.077  0.585  2.796  CA  BCS 2  
+BCS CB  CB  C 0 1 N N N 10.726 5.484 28.206 -0.242 -0.389 1.661  CB  BCS 3  
+BCS SG  SG  S 0 1 N N N 11.291 4.524 26.810 0.063  0.418  0.066  SG  BCS 4  
+BCS CD  CD  C 0 1 N N N 9.729  3.804 26.262 -0.385 -0.930 -1.061 CD  BCS 5  
+BCS CE  CE  C 0 1 Y N N 8.930  3.171 27.370 -0.205 -0.474 -2.486 CE  BCS 6  
+BCS CZ1 CZ1 C 0 1 Y N N 7.640  3.614 27.650 1.008  -0.658 -3.121 CZ1 BCS 7  
+BCS CZ2 CZ2 C 0 1 Y N N 9.464  2.135 28.133 -1.254 0.120  -3.160 CZ2 BCS 8  
+BCS CT1 CT1 C 0 1 Y N N 6.893  3.037 28.673 1.174  -0.240 -4.428 CT1 BCS 9  
+BCS CT2 CT2 C 0 1 Y N N 8.723  1.550 29.161 -1.087 0.542  -4.465 CT2 BCS 10 
+BCS CH  CH  C 0 1 Y N N 7.437  2.001 29.430 0.126  0.360  -5.101 CH  BCS 11 
+BCS C   C   C 0 1 N N N 9.834  7.550 29.180 -0.176 -0.085 4.121  C   BCS 12 
+BCS O   O   O 0 1 N N N 10.522 8.023 30.084 0.709  -0.696 4.668  O   BCS 13 
+BCS OXT OXT O 0 1 N Y N 8.512  7.468 29.229 -1.388 -0.003 4.693  OXT BCS 14 
+BCS H   1HN H 0 1 N N N 11.556 8.631 27.446 1.635  1.335  1.777  H   BCS 15 
+BCS H2  2HN H 0 1 N Y N 12.223 7.192 26.859 2.035  0.145  2.799  H2  BCS 16 
+BCS HA  HA  H 0 1 N N N 9.798  7.102 27.056 -0.558 1.467  2.707  HA  BCS 17 
+BCS HB2 1HB H 0 1 N N N 11.436 5.370 29.057 0.392  -1.270 1.749  HB2 BCS 18 
+BCS HB3 2HB H 0 1 N N N 9.813  5.016 28.644 -1.289 -0.688 1.722  HB3 BCS 19 
+BCS HD2 1HD H 0 1 N N N 9.116  4.561 25.719 0.254  -1.791 -0.870 HD2 BCS 20 
+BCS HD3 2HD H 0 1 N N N 9.900  3.075 25.435 -1.427 -1.208 -0.897 HD3 BCS 21 
+BCS HZ1 HZ1 H 0 1 N N N 7.204  4.432 27.053 1.827  -1.127 -2.596 HZ1 BCS 22 
+BCS HZ2 HZ2 H 0 1 N N N 10.484 1.774 27.920 -2.203 0.263  -2.663 HZ2 BCS 23 
+BCS HT1 HT1 H 0 1 N N N 5.872  3.399 28.883 2.123  -0.382 -4.925 HT1 BCS 24 
+BCS HT2 HT2 H 0 1 N N N 9.153  0.730 29.761 -1.906 1.011  -4.990 HT2 BCS 25 
+BCS HH  HH  H 0 1 N N N 6.850  1.538 30.241 0.256  0.686  -6.122 HH  BCS 26 
+BCS HXT HXT H 0 1 N Y N 8.112  7.833 30.009 -1.551 -0.434 5.544  HXT BCS 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BCS N   CA  SING N N 1  
+BCS N   H   SING N N 2  
+BCS N   H2  SING N N 3  
+BCS CA  CB  SING N N 4  
+BCS CA  C   SING N N 5  
+BCS CA  HA  SING N N 6  
+BCS CB  SG  SING N N 7  
+BCS CB  HB2 SING N N 8  
+BCS CB  HB3 SING N N 9  
+BCS SG  CD  SING N N 10 
+BCS CD  CE  SING N N 11 
+BCS CD  HD2 SING N N 12 
+BCS CD  HD3 SING N N 13 
+BCS CE  CZ1 DOUB Y N 14 
+BCS CE  CZ2 SING Y N 15 
+BCS CZ1 CT1 SING Y N 16 
+BCS CZ1 HZ1 SING N N 17 
+BCS CZ2 CT2 DOUB Y N 18 
+BCS CZ2 HZ2 SING N N 19 
+BCS CT1 CH  DOUB Y N 20 
+BCS CT1 HT1 SING N N 21 
+BCS CT2 CH  SING Y N 22 
+BCS CT2 HT2 SING N N 23 
+BCS CH  HH  SING N N 24 
+BCS C   O   DOUB N N 25 
+BCS C   OXT SING N N 26 
+BCS OXT HXT SING N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BCS SMILES           ACDLabs              10.04 "O=C(O)C(N)CSCc1ccccc1"                                                                        
+BCS SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CSCc1ccccc1)C(O)=O"                                                                   
+BCS SMILES           CACTVS               3.341 "N[CH](CSCc1ccccc1)C(O)=O"                                                                     
+BCS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CSC[C@@H](C(=O)O)N"                                                                 
+BCS SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CSCC(C(=O)O)N"                                                                      
+BCS InChI            InChI                1.03  "InChI=1S/C10H13NO2S/c11-9(10(12)13)7-14-6-8-4-2-1-3-5-8/h1-5,9H,6-7,11H2,(H,12,13)/t9-/m0/s1" 
+BCS InChIKey         InChI                1.03  GHBAYRBVXCRIHT-VIFPVBQESA-N                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BCS "SYSTEMATIC NAME" ACDLabs              10.04 S-benzyl-L-cysteine                            
+BCS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-benzylsulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BCS "Create component"  1999-07-08 RCSB 
+BCS "Modify descriptor" 2011-06-04 RCSB 
+# 

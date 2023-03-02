@@ -1,0 +1,120 @@
+data_00C
+# 
+_chem_comp.id                                    00C 
+_chem_comp.name                                  3-sulfo-D-alanine 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "D-Cysteine sulfinic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-12-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        169.156 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     00C 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3FII 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+00C N    N    N 0 1 N N N -18.541 -3.708 0.742 -0.914 1.644  0.474  N    00C 1  
+00C CA   CA   C 0 1 N N S -19.176 -3.615 2.094 -1.050 0.183  0.418  CA   00C 2  
+00C C    C    C 0 1 N N N -19.457 -5.037 2.546 -2.447 -0.175 -0.021 C    00C 3  
+00C O    O    O 0 1 N N N -18.588 -5.884 2.466 -3.125 0.639  -0.600 O    00C 4  
+00C CB   CB   C 0 1 N N N -18.263 -2.977 3.159 -0.040 -0.385 -0.581 CB   00C 5  
+00C SG   SG   S 0 1 N N N -17.838 -1.237 2.809 1.643  -0.083 0.023  SG   00C 6  
+00C OD2  OD2  O 0 1 N N N -19.104 -0.737 2.271 1.943  1.306  -0.010 OD2  00C 7  
+00C O3   O3   O 0 1 N N N -17.353 -0.776 4.117 1.905  -0.861 1.183  O3   00C 8  
+00C O4   O4   O 0 1 N Y N -20.744 -5.381 3.067 -2.936 -1.399 0.232  O4   00C 9  
+00C OD1  OD1  O 0 1 N N N -16.655 -0.778 1.708 2.544  -0.687 -1.044 OD1  00C 10 
+00C HN   HN   H 0 1 N N N -19.253 -3.729 0.040 -0.007 1.910  0.828  HN   00C 11 
+00C HNA  HNA  H 0 1 N N N -17.951 -2.914 0.596 -1.085 2.058  -0.430 HNA  00C 12 
+00C HA   HA   H 0 1 N N N -20.073 -2.985 2.002 -0.860 -0.238 1.406  HA   00C 13 
+00C HB   HB   H 0 1 N N N -18.787 -3.013 4.125 -0.200 -1.458 -0.689 HB   00C 14 
+00C HBA  HBA  H 0 1 N N N -17.322 -3.547 3.164 -0.172 0.101  -1.547 HBA  00C 15 
+00C H6   H6   H 0 1 N Y N -20.755 -6.301 3.303 -3.837 -1.582 -0.069 H6   00C 16 
+00C HOD1 HOD1 H 0 0 N N N -17.042 -0.691 0.845 3.489  -0.601 -0.857 HOD1 00C 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+00C N   CA   SING N N 1  
+00C CA  C    SING N N 2  
+00C CA  CB   SING N N 3  
+00C C   O4   SING N N 4  
+00C O   C    DOUB N N 5  
+00C SG  CB   SING N N 6  
+00C SG  O3   DOUB N N 7  
+00C SG  OD1  SING N N 8  
+00C OD2 SG   DOUB N N 9  
+00C N   HN   SING N N 10 
+00C N   HNA  SING N N 11 
+00C CA  HA   SING N N 12 
+00C CB  HB   SING N N 13 
+00C CB  HBA  SING N N 14 
+00C O4  H6   SING N N 15 
+00C OD1 HOD1 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+00C SMILES           ACDLabs              10.04 "O=C(O)C(N)CS(=O)(=O)O"                                                        
+00C SMILES_CANONICAL CACTVS               3.341 "N[C@H](C[S](O)(=O)=O)C(O)=O"                                                  
+00C SMILES           CACTVS               3.341 "N[CH](C[S](O)(=O)=O)C(O)=O"                                                   
+00C SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@H](C(=O)O)N)S(=O)(=O)O"                                                  
+00C SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)S(=O)(=O)O"                                                      
+00C InChI            InChI                1.03  "InChI=1S/C3H7NO5S/c4-2(3(5)6)1-10(7,8)9/h2H,1,4H2,(H,5,6)(H,7,8,9)/t2-/m1/s1" 
+00C InChIKey         InChI                1.03  XVOYSCVBGLVSOL-UWTATZPHSA-N                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+00C "SYSTEMATIC NAME" ACDLabs              10.04 3-sulfo-D-alanine                     
+00C "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-sulfo-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+00C "Create component"  2008-12-24 RCSB 
+00C "Modify descriptor" 2011-06-04 RCSB 
+# 

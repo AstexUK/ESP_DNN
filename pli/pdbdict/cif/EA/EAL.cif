@@ -1,0 +1,186 @@
+data_EAL
+# 
+_chem_comp.id                                    EAL 
+_chem_comp.name                                  "1-((2S)-2-{[(1S)-1-CARBOXY-3-PHENYLPROPYL]AMINO}PROPANOYL)-L-PROLINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C18 H24 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "ENALAPRILAT INHIBITOR" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-03-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        348.394 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EAL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1UZE 
+_chem_comp.pdbx_subcomponent_list                "PRO 2OP HMF" 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EAL O4   O4   O 0 1 N N N 38.804 33.684 41.705 -2.580 -1.228 -5.206 OXT  PRO 1  
+EAL O5   O5   O 0 1 N N N 40.674 32.586 42.127 -0.893 -1.806 -3.901 O    PRO 2  
+EAL N2   N2   N 0 1 N N N 41.757 34.874 43.435 -0.230 0.587  -3.000 N    PRO 3  
+EAL C5   C5   C 0 1 N N S 40.684 35.023 42.363 -1.363 0.502  -3.933 CA   PRO 4  
+EAL C6   C6   C 0 1 N N N 41.509 35.588 41.179 -1.002 1.352  -5.170 CB   PRO 5  
+EAL C7   C7   C 0 1 N N N 42.821 35.728 41.557 0.079  2.322  -4.624 CG   PRO 6  
+EAL C8   C8   C 0 1 N N N 43.094 35.308 42.933 0.823  1.417  -3.610 CD   PRO 7  
+EAL C9   C9   C 0 1 N N N 40.041 33.603 42.040 -1.594 -0.928 -4.345 C    PRO 8  
+EAL H4   H4   H 0 1 N N N 38.303 34.488 41.636 -2.728 -2.146 -5.470 H4   PRO 9  
+EAL H5   H5   H 0 1 N N N 39.901 35.749 42.683 -2.259 0.901  -3.458 H5   PRO 10 
+EAL H61  1H6  H 0 1 N N N 41.081 36.539 40.785 -1.871 1.906  -5.527 H61  PRO 11 
+EAL H62  2H6  H 0 1 N N N 41.401 34.969 40.258 -0.593 0.723  -5.960 H62  PRO 12 
+EAL H71  1H7  H 0 1 N N N 43.166 36.776 41.392 -0.377 3.176  -4.124 H71  PRO 13 
+EAL H72  2H7  H 0 1 N N N 43.492 35.194 40.845 0.748  2.649  -5.420 H72  PRO 14 
+EAL H8C1 1H8C H 0 0 N N N 43.896 34.540 43.031 1.315  2.025  -2.850 H8C1 PRO 15 
+EAL H8C2 2H8C H 0 0 N N N 43.595 36.081 43.561 1.551  0.789  -4.124 H8C2 PRO 16 
+EAL O1   O1   O 0 1 N N N 40.192 34.094 44.927 -1.096 -0.664 -1.386 O    2OP 17 
+EAL C1   C1   C 0 1 N N N 41.415 34.391 44.676 -0.164 -0.000 -1.789 C    2OP 18 
+EAL C2   C2   C 0 1 N N S 42.492 34.196 45.813 1.066  0.166  -0.936 CA   2OP 19 
+EAL C10  C10  C 0 1 N N N 43.074 32.775 45.712 2.282  -0.385 -1.682 CB   2OP 20 
+EAL HA   HA   H 0 1 N N N 43.311 34.941 45.678 1.219  1.224  -0.723 HA   2OP 21 
+EAL H101 1H10 H 0 0 N N N 43.835 32.637 46.515 2.129  -1.443 -1.894 HB1  2OP 22 
+EAL H102 2H10 H 0 0 N N N 43.482 32.554 44.698 2.412  0.158  -2.617 HB2  2OP 23 
+EAL H103 3H10 H 0 0 N N N 42.283 31.989 45.736 3.173  -0.264 -1.065 HB3  2OP 24 
+EAL N1   N1   N 0 1 N N N 41.771 34.472 47.118 0.891  -0.565 0.325  N    HMF 25 
+EAL C3   C3   C 0 1 N N N 42.207 36.664 47.530 3.069  -0.392 1.388  C    HMF 26 
+EAL C4   C4   C 0 1 N N S 41.198 35.509 47.485 1.666  0.155  1.343  CA   HMF 27 
+EAL O2   O2   O 0 1 N N N 43.285 36.522 48.186 3.298  -1.678 1.078  OXT  HMF 28 
+EAL O3   O3   O 0 1 N N N 41.988 37.694 46.909 3.988  0.326  1.702  O    HMF 29 
+EAL C14  C14  C 0 1 N N N 40.506 35.772 48.779 1.004  -0.025 2.710  CB   HMF 30 
+EAL C15  C15  C 0 1 N N N 39.303 36.665 49.029 -0.420 0.530  2.665  CG   HMF 31 
+EAL C16  C16  C 0 1 Y N N 38.747 36.791 50.411 -1.072 0.352  4.012  C1   HMF 32 
+EAL C17  C17  C 0 1 Y N N 38.524 35.600 51.257 -0.963 1.344  4.969  C2   HMF 33 
+EAL C18  C18  C 0 1 Y N N 37.971 35.745 52.595 -1.561 1.181  6.205  C3   HMF 34 
+EAL C19  C19  C 0 1 Y N N 37.630 37.081 53.111 -2.268 0.026  6.483  C4   HMF 35 
+EAL C20  C20  C 0 1 Y N N 37.850 38.274 52.274 -2.378 -0.964 5.525  C5   HMF 36 
+EAL C21  C21  C 0 1 Y N N 38.407 38.130 50.926 -1.784 -0.799 4.288  C6   HMF 37 
+EAL H1   H1   H 0 1 N N N 42.447 34.260 47.852 -0.080 -0.474 0.581  H1   HMF 38 
+EAL H2   H2   H 0 1 N N N 43.455 35.721 48.668 4.198  -2.029 1.107  H2   HMF 39 
+EAL HB   HB   H 0 1 N N N 40.467 35.763 46.682 1.697  1.215  1.092  HA   HMF 40 
+EAL H141 1H14 H 0 0 N N N 41.298 36.127 49.479 0.972  -1.085 2.961  HB2  HMF 41 
+EAL H142 2H14 H 0 0 N N N 40.229 34.771 49.183 1.579  0.510  3.466  HB3  HMF 42 
+EAL H151 1H15 H 0 0 N N N 38.481 36.352 48.344 -0.388 1.591  2.414  HG2  HMF 43 
+EAL H152 2H15 H 0 0 N N N 39.534 37.686 48.646 -0.995 -0.004 1.909  HG3  HMF 44 
+EAL H17  H17  H 0 1 N N N 38.778 34.598 50.873 -0.410 2.246  4.752  HC2  HMF 45 
+EAL H18  H18  H 0 1 N N N 37.807 34.853 53.223 -1.475 1.955  6.953  H3   HMF 46 
+EAL H19  H19  H 0 1 N N N 37.209 37.189 54.125 -2.735 -0.101 7.448  H4   HMF 47 
+EAL H20  H20  H 0 1 N N N 37.596 39.275 52.662 -2.930 -1.866 5.743  H5   HMF 48 
+EAL H21  H21  H 0 1 N N N 38.571 39.022 50.298 -1.869 -1.573 3.540  H6   HMF 49 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EAL O1  C1   DOUB N N 1  
+EAL O2  C3   SING N N 2  
+EAL O2  H2   SING N N 3  
+EAL O3  C3   DOUB N N 4  
+EAL O4  C9   SING N N 5  
+EAL O4  H4   SING N N 6  
+EAL O5  C9   DOUB N N 7  
+EAL N1  C2   SING N N 8  
+EAL N1  C4   SING N N 9  
+EAL N1  H1   SING N N 10 
+EAL N2  C1   SING N N 11 
+EAL N2  C5   SING N N 12 
+EAL N2  C8   SING N N 13 
+EAL C1  C2   SING N N 14 
+EAL C2  C10  SING N N 15 
+EAL C2  HA   SING N N 16 
+EAL C3  C4   SING N N 17 
+EAL C4  C14  SING N N 18 
+EAL C4  HB   SING N N 19 
+EAL C5  C6   SING N N 20 
+EAL C5  C9   SING N N 21 
+EAL C5  H5   SING N N 22 
+EAL C6  C7   SING N N 23 
+EAL C6  H61  SING N N 24 
+EAL C6  H62  SING N N 25 
+EAL C7  C8   SING N N 26 
+EAL C7  H71  SING N N 27 
+EAL C7  H72  SING N N 28 
+EAL C8  H8C1 SING N N 29 
+EAL C8  H8C2 SING N N 30 
+EAL C10 H101 SING N N 31 
+EAL C10 H102 SING N N 32 
+EAL C10 H103 SING N N 33 
+EAL C14 C15  SING N N 34 
+EAL C14 H141 SING N N 35 
+EAL C14 H142 SING N N 36 
+EAL C15 C16  SING N N 37 
+EAL C15 H151 SING N N 38 
+EAL C15 H152 SING N N 39 
+EAL C16 C17  DOUB Y N 40 
+EAL C16 C21  SING Y N 41 
+EAL C17 C18  SING Y N 42 
+EAL C17 H17  SING N N 43 
+EAL C18 C19  DOUB Y N 44 
+EAL C18 H18  SING N N 45 
+EAL C19 C20  SING Y N 46 
+EAL C19 H19  SING N N 47 
+EAL C20 C21  DOUB Y N 48 
+EAL C20 H20  SING N N 49 
+EAL C21 H21  SING N N 50 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EAL SMILES           ACDLabs              10.04 "O=C(O)C2N(C(=O)C(NC(C(=O)O)CCc1ccccc1)C)CCC2"                                                                                                                          
+EAL SMILES_CANONICAL CACTVS               3.341 "C[C@H](N[C@@H](CCc1ccccc1)C(O)=O)C(=O)N2CCC[C@H]2C(O)=O"                                                                                                               
+EAL SMILES           CACTVS               3.341 "C[CH](N[CH](CCc1ccccc1)C(O)=O)C(=O)N2CCC[CH]2C(O)=O"                                                                                                                   
+EAL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](C(=O)N1CCC[C@H]1C(=O)O)N[C@@H](CCc2ccccc2)C(=O)O"                                                                                                              
+EAL SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(=O)N1CCCC1C(=O)O)NC(CCc2ccccc2)C(=O)O"                                                                                                                            
+EAL InChI            InChI                1.03  "InChI=1S/C18H24N2O5/c1-12(16(21)20-11-5-8-15(20)18(24)25)19-14(17(22)23)10-9-13-6-3-2-4-7-13/h2-4,6-7,12,14-15,19H,5,8-11H2,1H3,(H,22,23)(H,24,25)/t12-,14-,15-/m0/s1" 
+EAL InChIKey         InChI                1.03  LZFZMUMEGBBDTC-QEJZJMRPSA-N                                                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EAL "SYSTEMATIC NAME" ACDLabs              10.04 "N-[(1S)-1-carboxy-3-phenylpropyl]-L-alanyl-L-proline"                                                    
+EAL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-1-[(2S)-2-[[(2S)-1-hydroxy-1-oxo-4-phenyl-butan-2-yl]amino]propanoyl]pyrrolidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EAL "Create component"  2004-03-11 EBI  
+EAL "Modify descriptor" 2011-06-04 RCSB 
+# 

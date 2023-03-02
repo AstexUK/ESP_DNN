@@ -1,0 +1,113 @@
+data_FQI
+# 
+_chem_comp.id                                    FQI 
+_chem_comp.name                                  5-CHLORO-2-THIOPHENECARBOXAMIDE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H4 Cl N O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-12-09 
+_chem_comp.pdbx_modified_date                    2015-08-21 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        161.609 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FQI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4UD9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FQI CL  CL  CL 0 0 N N N 126.349 -10.332 166.445 -3.145 -0.162 -0.002 CL  FQI 1  
+FQI C4  C4  C  0 1 Y N N 125.980 -11.785 165.626 -1.445 0.187  -0.001 C4  FQI 2  
+FQI C2  C2  C  0 1 Y N N 125.030 -13.783 165.077 0.450  1.473  0.002  C2  FQI 3  
+FQI C   C   C  0 1 N N N 126.189 -14.572 162.969 2.480  -0.015 -0.001 C   FQI 4  
+FQI O   O   O  0 1 N N N 126.834 -14.165 161.993 3.263  0.918  -0.002 O   FQI 5  
+FQI N   N   N  0 1 N N N 125.708 -15.806 163.078 2.942  -1.281 -0.002 N   FQI 6  
+FQI C1  C1  C  0 1 Y N N 125.929 -13.662 164.048 1.038  0.239  0.001  C1  FQI 7  
+FQI C3  C3  C  0 1 Y N N 125.057 -12.708 165.981 -0.923 1.421  0.002  C3  FQI 8  
+FQI S   S   S  0 1 Y N N 126.822 -12.181 164.185 -0.214 -0.995 0.002  S   FQI 9  
+FQI H3  H3  H  0 1 N N N 124.421 -12.628 166.850 -1.536 2.310  0.003  H3  FQI 10 
+FQI H2  H2  H  0 1 N N N 124.363 -14.626 165.182 1.010  2.397  0.001  H2  FQI 11 
+FQI HN1 HN1 H  0 1 N N N 125.860 -16.468 162.344 3.897  -1.449 -0.002 HN1 FQI 12 
+FQI HN2 HN2 H  0 1 N N N 125.194 -16.072 163.894 2.319  -2.025 -0.001 HN2 FQI 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FQI CL C4  SING N N 1  
+FQI C4 C3  DOUB Y N 2  
+FQI C4 S   SING Y N 3  
+FQI C3 C2  SING Y N 4  
+FQI C2 C1  DOUB Y N 5  
+FQI S  C1  SING Y N 6  
+FQI C1 C   SING N N 7  
+FQI C  O   DOUB N N 8  
+FQI C  N   SING N N 9  
+FQI C3 H3  SING N N 10 
+FQI C2 H2  SING N N 11 
+FQI N  HN1 SING N N 12 
+FQI N  HN2 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FQI SMILES           ACDLabs              12.01 "O=C(N)c1sc(Cl)cc1"                                      
+FQI InChI            InChI                1.03  "InChI=1S/C5H4ClNOS/c6-4-2-1-3(9-4)5(7)8/h1-2H,(H2,7,8)" 
+FQI InChIKey         InChI                1.03  OMOBWMBJNNCUFO-UHFFFAOYSA-N                              
+FQI SMILES_CANONICAL CACTVS               3.385 "NC(=O)c1sc(Cl)cc1"                                      
+FQI SMILES           CACTVS               3.385 "NC(=O)c1sc(Cl)cc1"                                      
+FQI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(sc1C(=O)N)Cl"                                      
+FQI SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(sc1C(=O)N)Cl"                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FQI "SYSTEMATIC NAME" ACDLabs              12.01 5-chlorothiophene-2-carboxamide    
+FQI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 5-chloranylthiophene-2-carboxamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FQI "Create component" 2014-12-09 EBI  
+FQI "Initial release"  2015-08-26 RCSB 
+# 

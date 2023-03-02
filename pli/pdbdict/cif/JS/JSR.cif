@@ -1,0 +1,202 @@
+data_JSR
+# 
+_chem_comp.id                                    JSR 
+_chem_comp.name                                  "6-{[(3R,4S)-4-(2-{[2-(3-fluorophenyl)ethyl]amino}ethoxy)pyrrolidin-3-yl]methyl}-4-methylpyridin-2-amine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C21 H29 F N4 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-06-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        372.480 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     JSR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3NLG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+JSR C1     C1     C 0 1 N N N 12.995 16.774 33.938 0.150  3.228  -0.619 C1     JSR 1  
+JSR O1     O1     O 0 1 N N N 12.201 15.735 33.347 -0.684 2.402  0.196  O1     JSR 2  
+JSR C2     C2     C 0 1 N N N 14.463 16.404 33.754 1.619  2.919  -0.323 C2     JSR 3  
+JSR N2     N2     N 0 1 N N N 15.112 15.868 34.952 1.921  1.540  -0.729 N2     JSR 4  
+JSR C3     C3     C 0 1 N N N 16.573 15.788 34.992 3.326  1.207  -0.458 C3     JSR 5  
+JSR C4     C4     C 0 1 N N N 17.194 14.864 36.045 3.602  -0.234 -0.894 C4     JSR 6  
+JSR "N1'"  "N1'"  N 0 1 N N N 11.401 13.777 35.472 -3.615 3.017  1.836  "N1'"  JSR 7  
+JSR C11    C11    C 0 1 Y N N 16.968 15.412 37.440 5.043  -0.575 -0.616 C11    JSR 8  
+JSR C12    C12    C 0 1 Y N N 17.140 16.777 37.706 5.402  -1.119 0.603  C12    JSR 9  
+JSR C13    C13    C 0 1 Y N N 16.916 17.287 38.988 6.727  -1.433 0.857  C13    JSR 10 
+JSR F13    F13    F 0 1 N N N 17.070 18.607 39.210 7.078  -1.965 2.048  F13    JSR 11 
+JSR C14    C14    C 0 1 Y N N 16.528 16.431 40.019 7.690  -1.202 -0.110 C14    JSR 12 
+JSR C15    C15    C 0 1 Y N N 16.365 15.070 39.756 7.329  -0.657 -1.328 C15    JSR 13 
+JSR C16    C16    C 0 1 Y N N 16.584 14.556 38.476 6.006  -0.349 -1.583 C16    JSR 14 
+JSR N1A    N1A    N 0 1 Y N N 6.875  12.814 32.554 -3.285 -1.577 0.221  N1A    JSR 15 
+JSR "C2'"  "C2'"  C 0 1 N N N 11.161 15.197 35.429 -2.609 3.678  0.975  "C2'"  JSR 16 
+JSR C2A    C2A    C 0 1 Y N N 8.213  12.990 32.361 -3.911 -0.732 -0.576 C2A    JSR 17 
+JSR "C3'"  "C3'"  C 0 1 N N S 10.943 15.418 33.948 -2.083 2.613  -0.004 "C3'"  JSR 18 
+JSR C3A    C3A    C 0 1 Y N N 8.858  12.201 31.385 -5.161 -1.028 -1.080 C3A    JSR 19 
+JSR "C4'"  "C4'"  C 0 1 N N R 10.406 14.103 33.373 -2.873 1.328  0.334  "C4'"  JSR 20 
+JSR C4A    C4A    C 0 1 Y N N 8.131  11.265 30.619 -5.764 -2.233 -0.740 C4A    JSR 21 
+JSR "C5'"  "C5'"  C 0 1 N N N 10.843 13.035 34.356 -4.137 1.875  1.044  "C5'"  JSR 22 
+JSR C5A    C5A    C 0 1 Y N N 6.766  11.121 30.859 -5.084 -3.098 0.098  C5A    JSR 23 
+JSR C6A    C6A    C 0 1 Y N N 6.163  11.916 31.826 -3.826 -2.734 0.568  C6A    JSR 24 
+JSR N6A    N6A    N 0 1 N N N 4.840  11.785 32.046 -3.131 -3.594 1.411  N6A    JSR 25 
+JSR C7A    C7A    C 0 1 N N N 8.881  14.068 33.226 -3.252 0.573  -0.942 C7A    JSR 26 
+JSR C8A    C8A    C 0 1 N N N 8.778  10.393 29.549 -7.128 -2.588 -1.271 C8A    JSR 27 
+JSR H1     H1     H 0 1 N N N 12.785 17.735 33.445 -0.058 3.029  -1.671 H1     JSR 28 
+JSR H1A    H1A    H 0 1 N N N 12.761 16.863 35.009 -0.052 4.276  -0.401 H1A    JSR 29 
+JSR H2     H2     H 0 1 N N N 14.520 15.636 32.969 2.255  3.609  -0.878 H2     JSR 30 
+JSR H2A    H2A    H 0 1 N N N 15.004 17.314 33.457 1.806  3.032  0.745  H2A    JSR 31 
+JSR HN2    HN2    H 0 1 N N N 14.841 16.461 35.710 1.301  0.885  -0.276 HN2    JSR 32 
+JSR H3     H3     H 0 1 N N N 16.902 15.421 34.008 3.974  1.885  -1.015 H3     JSR 33 
+JSR H3A    H3A    H 0 1 N N N 16.945 16.803 35.195 3.525  1.309  0.609  H3A    JSR 34 
+JSR H4     H4     H 0 1 N N N 16.729 13.870 35.970 2.955  -0.912 -0.337 H4     JSR 35 
+JSR H4A    H4A    H 0 1 N N N 18.276 14.786 35.861 3.404  -0.335 -1.961 H4A    JSR 36 
+JSR "HN1'" "HN1'" H 0 0 N N N 10.988 13.423 36.311 -4.356 3.656  2.081  "HN1'" JSR 37 
+JSR H12    H12    H 0 1 N N N 17.449 17.442 36.913 4.650  -1.299 1.356  H12    JSR 38 
+JSR H14    H14    H 0 1 N N N 16.355 16.818 41.012 8.723  -1.446 0.087  H14    JSR 39 
+JSR H15    H15    H 0 1 N N N 16.066 14.405 40.553 8.080  -0.477 -2.083 H15    JSR 40 
+JSR H16    H16    H 0 1 N N N 16.457 13.500 38.287 5.724  0.072  -2.537 H16    JSR 41 
+JSR "H2'"  "H2'"  H 0 1 N N N 10.286 15.490 36.027 -3.073 4.495  0.422  "H2'"  JSR 42 
+JSR "H2'A" "H2'A" H 0 0 N N N 12.013 15.776 35.816 -1.791 4.061  1.587  "H2'A" JSR 43 
+JSR "H3'"  "H3'"  H 0 1 N N N 10.236 16.239 33.756 -2.276 2.917  -1.033 "H3'"  JSR 44 
+JSR H3AA   H3AA   H 0 0 N N N 9.920  12.315 31.222 -5.666 -0.331 -1.732 H3AA   JSR 45 
+JSR "H4'"  "H4'"  H 0 1 N N N 10.797 13.960 32.355 -2.300 0.688  1.006  "H4'"  JSR 46 
+JSR "H5'"  "H5'"  H 0 1 N N N 11.593 12.366 33.909 -4.568 1.118  1.699  "H5'"  JSR 47 
+JSR "H5'A" "H5'A" H 0 0 N N N 9.991  12.417 34.676 -4.871 2.216  0.313  "H5'A" JSR 48 
+JSR H5A    H5A    H 0 1 N N N 6.185  10.402 30.301 -5.523 -4.042 0.383  H5A    JSR 49 
+JSR HN6A   HN6A   H 0 0 N N N 4.557  12.417 32.768 -3.523 -4.444 1.668  HN6A   JSR 50 
+JSR HN6B   HN6B   H 0 0 N N N 4.340  11.994 31.206 -2.253 -3.345 1.741  HN6B   JSR 51 
+JSR H7A    H7A    H 0 1 N N N 8.596  15.033 32.782 -2.354 0.376  -1.527 H7A    JSR 52 
+JSR H7AA   H7AA   H 0 0 N N N 8.481  13.934 34.242 -3.943 1.177  -1.529 H7AA   JSR 53 
+JSR H8A    H8A    H 0 1 N N N 9.131  9.455  30.003 -7.023 -3.122 -2.216 H8A    JSR 54 
+JSR H8AA   H8AA   H 0 0 N N N 8.040  10.166 28.766 -7.645 -3.223 -0.551 H8AA   JSR 55 
+JSR H8AB   H8AB   H 0 0 N N N 9.630  10.929 29.105 -7.705 -1.677 -1.431 H8AB   JSR 56 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+JSR O1    C1     SING N N 1  
+JSR C2    C1     SING N N 2  
+JSR C1    H1     SING N N 3  
+JSR C1    H1A    SING N N 4  
+JSR O1    "C3'"  SING N N 5  
+JSR C2    N2     SING N N 6  
+JSR C2    H2     SING N N 7  
+JSR C2    H2A    SING N N 8  
+JSR N2    C3     SING N N 9  
+JSR N2    HN2    SING N N 10 
+JSR C3    C4     SING N N 11 
+JSR C3    H3     SING N N 12 
+JSR C3    H3A    SING N N 13 
+JSR C4    C11    SING N N 14 
+JSR C4    H4     SING N N 15 
+JSR C4    H4A    SING N N 16 
+JSR "C5'" "N1'"  SING N N 17 
+JSR "C2'" "N1'"  SING N N 18 
+JSR "N1'" "HN1'" SING N N 19 
+JSR C11   C12    DOUB Y N 20 
+JSR C11   C16    SING Y N 21 
+JSR C12   C13    SING Y N 22 
+JSR C12   H12    SING N N 23 
+JSR C13   F13    SING N N 24 
+JSR C13   C14    DOUB Y N 25 
+JSR C15   C14    SING Y N 26 
+JSR C14   H14    SING N N 27 
+JSR C16   C15    DOUB Y N 28 
+JSR C15   H15    SING N N 29 
+JSR C16   H16    SING N N 30 
+JSR C6A   N1A    DOUB Y N 31 
+JSR C2A   N1A    SING Y N 32 
+JSR "C3'" "C2'"  SING N N 33 
+JSR "C2'" "H2'"  SING N N 34 
+JSR "C2'" "H2'A" SING N N 35 
+JSR C3A   C2A    DOUB Y N 36 
+JSR C2A   C7A    SING N N 37 
+JSR "C4'" "C3'"  SING N N 38 
+JSR "C3'" "H3'"  SING N N 39 
+JSR C4A   C3A    SING Y N 40 
+JSR C3A   H3AA   SING N N 41 
+JSR C7A   "C4'"  SING N N 42 
+JSR "C4'" "C5'"  SING N N 43 
+JSR "C4'" "H4'"  SING N N 44 
+JSR C8A   C4A    SING N N 45 
+JSR C4A   C5A    DOUB Y N 46 
+JSR "C5'" "H5'"  SING N N 47 
+JSR "C5'" "H5'A" SING N N 48 
+JSR C5A   C6A    SING Y N 49 
+JSR C5A   H5A    SING N N 50 
+JSR C6A   N6A    SING N N 51 
+JSR N6A   HN6A   SING N N 52 
+JSR N6A   HN6B   SING N N 53 
+JSR C7A   H7A    SING N N 54 
+JSR C7A   H7AA   SING N N 55 
+JSR C8A   H8A    SING N N 56 
+JSR C8A   H8AA   SING N N 57 
+JSR C8A   H8AB   SING N N 58 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+JSR SMILES           ACDLabs              12.01 "Fc1cccc(c1)CCNCCOC2C(CNC2)Cc3nc(N)cc(c3)C"                                                                                                                              
+JSR SMILES_CANONICAL CACTVS               3.370 "Cc1cc(N)nc(C[C@@H]2CNC[C@H]2OCCNCCc3cccc(F)c3)c1"                                                                                                                       
+JSR SMILES           CACTVS               3.370 "Cc1cc(N)nc(C[CH]2CNC[CH]2OCCNCCc3cccc(F)c3)c1"                                                                                                                          
+JSR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "Cc1cc(nc(c1)N)C[C@@H]2CNC[C@H]2OCCNCCc3cccc(c3)F"                                                                                                                       
+JSR SMILES           "OpenEye OEToolkits" 1.7.0 "Cc1cc(nc(c1)N)CC2CNCC2OCCNCCc3cccc(c3)F"                                                                                                                                
+JSR InChI            InChI                1.03  "InChI=1S/C21H29FN4O/c1-15-9-19(26-21(23)10-15)12-17-13-25-14-20(17)27-8-7-24-6-5-16-3-2-4-18(22)11-16/h2-4,9-11,17,20,24-25H,5-8,12-14H2,1H3,(H2,23,26)/t17-,20-/m1/s1" 
+JSR InChIKey         InChI                1.03  NESZTSPBRDBHCW-YLJYHZDGSA-N                                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+JSR "SYSTEMATIC NAME" ACDLabs              12.01 "6-{[(3R,4S)-4-(2-{[2-(3-fluorophenyl)ethyl]amino}ethoxy)pyrrolidin-3-yl]methyl}-4-methylpyridin-2-amine" 
+JSR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "6-[[(3R,4S)-4-[2-[2-(3-fluorophenyl)ethylamino]ethoxy]pyrrolidin-3-yl]methyl]-4-methyl-pyridin-2-amine"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+JSR "Create component"     2010-06-24 RCSB 
+JSR "Modify aromatic_flag" 2011-06-04 RCSB 
+JSR "Modify descriptor"    2011-06-04 RCSB 
+# 

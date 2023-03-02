@@ -1,0 +1,114 @@
+data_IRS
+# 
+_chem_comp.id                                    IRS 
+_chem_comp.name                                  2-methylprop-2-en-1-amine 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H9 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-11-10 
+_chem_comp.pdbx_modified_date                    2012-01-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        71.121 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IRS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3A2O 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IRS N1 N1 N 0 1 N N N 20.156 25.171 16.961 -1.813 -0.107 -0.465 N1 IRS 1  
+IRS C1 C1 C 0 1 N N N 20.701 25.169 15.594 -0.874 0.121  0.642  C1 IRS 2  
+IRS C2 C2 C 0 1 N N N 19.826 26.003 14.683 0.537  0.111  0.114  C2 IRS 3  
+IRS C3 C3 C 0 1 N N N 18.437 25.516 14.455 1.272  -1.195 -0.049 C3 IRS 4  
+IRS C4 C4 C 0 1 N N N 20.338 27.131 14.125 1.126  1.237  -0.204 C4 IRS 5  
+IRS H1 H1 H 0 1 N N N 20.741 24.618 17.554 -1.599 -0.966 -0.948 H1 IRS 6  
+IRS H2 H2 H 0 1 N N N 21.717 25.591 15.608 -1.083 1.087  1.102  H2 IRS 7  
+IRS H3 H3 H 0 1 N N N 20.734 24.136 15.218 -0.989 -0.668 1.385  H3 IRS 8  
+IRS H4 H4 H 0 1 N N N 17.912 26.207 13.780 1.089  -1.593 -1.047 H4 IRS 9  
+IRS H5 H5 H 0 1 N N N 18.470 24.515 14.001 2.341  -1.030 0.086  H5 IRS 10 
+IRS H6 H6 H 0 1 N N N 17.904 25.466 15.416 0.916  -1.907 0.696  H6 IRS 11 
+IRS H7 H7 H 0 1 N N N 19.727 27.735 13.471 0.599  2.173  -0.088 H7 IRS 12 
+IRS H8 H8 H 0 1 N N N 21.356 27.424 14.336 2.137  1.230  -0.583 H8 IRS 13 
+IRS H9 H9 H 0 1 N N N 20.124 26.109 17.306 -2.767 -0.105 -0.136 H9 IRS 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IRS N1 C1 SING N N 1  
+IRS N1 H1 SING N N 2  
+IRS C1 C2 SING N N 3  
+IRS C1 H2 SING N N 4  
+IRS C1 H3 SING N N 5  
+IRS C2 C3 SING N N 6  
+IRS C2 C4 DOUB N N 7  
+IRS C3 H4 SING N N 8  
+IRS C3 H5 SING N N 9  
+IRS C3 H6 SING N N 10 
+IRS C4 H7 SING N N 11 
+IRS C4 H8 SING N N 12 
+IRS N1 H9 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IRS SMILES           ACDLabs              12.01 "C=C(/C)CN"                              
+IRS SMILES_CANONICAL CACTVS               3.370 "CC(=C)CN"                               
+IRS SMILES           CACTVS               3.370 "CC(=C)CN"                               
+IRS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(=C)CN"                               
+IRS SMILES           "OpenEye OEToolkits" 1.7.0 "CC(=C)CN"                               
+IRS InChI            InChI                1.03  "InChI=1S/C4H9N/c1-4(2)3-5/h1,3,5H2,2H3" 
+IRS InChIKey         InChI                1.03  VXDHQYLFEYUMFY-UHFFFAOYSA-N              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IRS "SYSTEMATIC NAME" ACDLabs              12.01 2-methylprop-2-en-1-amine 
+IRS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 2-methylprop-2-en-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IRS "Create component"  2010-11-10 RCSB 
+IRS "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,122 @@
+data_4MN
+# 
+_chem_comp.id                                    4MN 
+_chem_comp.name                                  4-METHYLANILINE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H9 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-05-23 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        107.153 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4MN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4BP3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4MN N1   N1   N 0 1 N N N 27.477 21.757 36.371 2.773  -0.000 0.001  N1   4MN 1  
+4MN C5   C5   C 0 1 Y N N 28.353 22.625 36.932 1.376  -0.000 0.001  C5   4MN 2  
+4MN C6   C6   C 0 1 Y N N 28.119 23.477 38.017 0.680  1.202  -0.001 C6   4MN 3  
+4MN C4   C4   C 0 1 Y N N 29.631 22.696 36.448 0.680  -1.202 -0.002 C4   4MN 4  
+4MN C3   C3   C 0 1 Y N N 30.577 23.565 36.943 -0.701 -1.199 -0.001 C3   4MN 5  
+4MN C2   C2   C 0 1 Y N N 30.323 24.455 37.998 -1.391 -0.000 0.001  C2   4MN 6  
+4MN C1   C1   C 0 1 N N N 31.257 25.428 38.618 -2.898 -0.000 0.002  C1   4MN 7  
+4MN C7   C7   C 0 1 Y N N 29.079 24.379 38.508 -0.701 1.199  -0.001 C7   4MN 8  
+4MN H11N H11N H 0 0 N N N 27.920 21.280 35.612 3.258  0.840  -0.001 H11N 4MN 9  
+4MN H12N H12N H 0 0 N N N 27.183 21.091 37.056 3.258  -0.840 0.007  H12N 4MN 10 
+4MN H6   H6   H 0 1 N N N 27.154 23.440 38.501 1.218  2.138  -0.003 H6   4MN 11 
+4MN H4   H4   H 0 1 N N N 29.911 22.038 35.638 1.218  -2.138 -0.004 H4   4MN 12 
+4MN H7   H7   H 0 1 N N N 28.809 25.034 39.323 -1.243 2.133  -0.003 H7   4MN 13 
+4MN H3   H3   H 0 1 N N N 31.561 23.562 36.498 -1.243 -2.133 -0.004 H3   4MN 14 
+4MN H11C H11C H 0 0 N N N 31.178 26.395 38.099 -3.261 -0.002 1.029  H11C 4MN 15 
+4MN H12C H12C H 0 0 N N N 30.999 25.559 39.679 -3.261 0.891  -0.510 H12C 4MN 16 
+4MN H13C H13C H 0 0 N N N 32.287 25.051 38.535 -3.261 -0.889 -0.514 H13C 4MN 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4MN N1 C5   SING N N 1  
+4MN C5 C6   SING Y N 2  
+4MN C5 C4   DOUB Y N 3  
+4MN C6 C7   DOUB Y N 4  
+4MN C4 C3   SING Y N 5  
+4MN C3 C2   DOUB Y N 6  
+4MN C2 C1   SING N N 7  
+4MN C2 C7   SING Y N 8  
+4MN N1 H11N SING N N 9  
+4MN N1 H12N SING N N 10 
+4MN C6 H6   SING N N 11 
+4MN C4 H4   SING N N 12 
+4MN C7 H7   SING N N 13 
+4MN C3 H3   SING N N 14 
+4MN C1 H11C SING N N 15 
+4MN C1 H12C SING N N 16 
+4MN C1 H13C SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4MN SMILES           ACDLabs              12.01 "Nc1ccc(cc1)C"                                    
+4MN InChI            InChI                1.03  "InChI=1S/C7H9N/c1-6-2-4-7(8)5-3-6/h2-5H,8H2,1H3" 
+4MN InChIKey         InChI                1.03  RZXMPPFPUUCRFN-UHFFFAOYSA-N                       
+4MN SMILES_CANONICAL CACTVS               3.385 "Cc1ccc(N)cc1"                                    
+4MN SMILES           CACTVS               3.385 "Cc1ccc(N)cc1"                                    
+4MN SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "Cc1ccc(cc1)N"                                    
+4MN SMILES           "OpenEye OEToolkits" 1.9.2 "Cc1ccc(cc1)N"                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4MN "SYSTEMATIC NAME" ACDLabs              12.01 4-methylaniline 
+4MN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 4-methylaniline 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4MN "Create component"  2013-05-23 EBI  
+4MN "Initial release"   2014-06-25 RCSB 
+4MN "Modify descriptor" 2014-09-05 RCSB 
+# 

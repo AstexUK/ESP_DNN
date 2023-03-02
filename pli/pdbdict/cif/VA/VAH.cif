@@ -1,0 +1,126 @@
+data_VAH
+# 
+_chem_comp.id                                    VAH 
+_chem_comp.name                                  "(3R)-3-hydroxy-L-norvaline" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               VAL 
+_chem_comp.pdbx_synonyms                         L-3-Hydroxynorvaline 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-06-16 
+_chem_comp.pdbx_modified_date                    2011-06-10 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VAH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3AJR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VAH C    C    C 0 1 N N N 24.777 -1.329 -10.724 1.661  -0.179 0.123  C    VAH 1  
+VAH N    N    N 0 1 N N N 26.894 -2.051 -11.713 0.267  1.805  0.282  N    VAH 2  
+VAH O    O    O 0 1 N N N 23.613 -0.892 -10.819 2.227  0.369  -0.793 O    VAH 3  
+VAH CA   CA   C 0 1 N N S 25.526 -1.619 -12.027 0.374  0.390  0.663  CA   VAH 4  
+VAH CB   CB   C 0 1 N N R 24.804 -2.722 -12.804 -0.810 -0.386 0.082  CB   VAH 5  
+VAH CD1  CD1  C 0 1 N N N 23.976 -5.096 -12.789 -3.301 -0.576 0.054  CD1  VAH 6  
+VAH CG2  CG2  C 0 1 N N N 24.689 -4.010 -11.984 -2.118 0.269  0.530  CG2  VAH 7  
+VAH OG1  OG1  O 0 1 N N N 23.498 -2.270 -13.168 -0.735 -0.371 -1.345 OG1  VAH 8  
+VAH OXT  OXT  O 0 1 N Y N 25.402 -1.549 -9.660  2.176  -1.298 0.657  OXT  VAH 9  
+VAH H    H    H 0 1 N N N 27.387 -2.242 -12.562 1.002  2.350  0.707  H    VAH 10 
+VAH H2   H2   H 0 1 N Y N 27.365 -1.327 -11.210 0.272  1.911  -0.721 H2   VAH 11 
+VAH HA   HA   H 0 1 N N N 25.559 -0.708 -12.642 0.366  0.305  1.750  HA   VAH 12 
+VAH HB   HB   H 0 1 N N N 25.395 -2.946 -13.705 -0.779 -1.416 0.437  HB   VAH 13 
+VAH HD11 HD11 H 0 0 N N N 23.903 -6.012 -12.185 -3.283 -0.646 -1.033 HD1  VAH 14 
+VAH HD12 HD12 H 0 0 N N N 22.966 -4.751 -13.056 -3.229 -1.576 0.483  HD2  VAH 15 
+VAH HD13 HD13 H 0 0 N N N 24.546 -5.306 -13.706 -4.233 -0.110 0.374  HD3  VAH 16 
+VAH HG21 HG21 H 0 0 N N N 25.698 -4.361 -11.720 -2.135 0.339  1.618  HG1  VAH 17 
+VAH HG22 HG22 H 0 0 N N N 24.115 -3.804 -11.069 -2.190 1.269  0.101  HG2  VAH 18 
+VAH HOG1 HOG1 H 0 0 N N N 23.165 -1.687 -12.496 -0.757 0.515  -1.731 HOG1 VAH 19 
+VAH HXT  HXT  H 0 1 N Y N 24.851 -1.331 -8.918  3.001  -1.628 0.275  HXT  VAH 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VAH CA  C    SING N N 1  
+VAH O   C    DOUB N N 2  
+VAH C   OXT  SING N N 3  
+VAH CA  N    SING N N 4  
+VAH N   H    SING N N 5  
+VAH N   H2   SING N N 6  
+VAH CB  CA   SING N N 7  
+VAH CA  HA   SING N N 8  
+VAH OG1 CB   SING N N 9  
+VAH CB  CG2  SING N N 10 
+VAH CB  HB   SING N N 11 
+VAH CD1 CG2  SING N N 12 
+VAH CD1 HD11 SING N N 13 
+VAH CD1 HD12 SING N N 14 
+VAH CD1 HD13 SING N N 15 
+VAH CG2 HG21 SING N N 16 
+VAH CG2 HG22 SING N N 17 
+VAH OG1 HOG1 SING N N 18 
+VAH OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VAH SMILES           ACDLabs              12.01 "O=C(O)C(N)C(O)CC"                                                            
+VAH SMILES_CANONICAL CACTVS               3.370 "CC[C@@H](O)[C@H](N)C(O)=O"                                                   
+VAH SMILES           CACTVS               3.370 "CC[CH](O)[CH](N)C(O)=O"                                                      
+VAH SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC[C@H]([C@@H](C(=O)O)N)O"                                                   
+VAH SMILES           "OpenEye OEToolkits" 1.7.0 "CCC(C(C(=O)O)N)O"                                                            
+VAH InChI            InChI                1.03  "InChI=1S/C5H11NO3/c1-2-3(7)4(6)5(8)9/h3-4,7H,2,6H2,1H3,(H,8,9)/t3-,4+/m1/s1" 
+VAH InChIKey         InChI                1.03  LGVJIYCMHMKTPB-DMTCNVIQSA-N                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VAH "SYSTEMATIC NAME" ACDLabs              12.01 "(3R)-3-hydroxy-L-norvaline"                
+VAH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S,3R)-2-azanyl-3-hydroxy-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VAH "Create component"  2010-06-16 PDBJ 
+VAH "Modify descriptor" 2011-06-04 RCSB 
+# 

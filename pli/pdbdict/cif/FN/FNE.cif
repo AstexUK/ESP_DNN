@@ -1,0 +1,94 @@
+data_FNE
+# 
+_chem_comp.id                                    FNE 
+_chem_comp.name                                  "(MU-SULPHIDO)-BIS(MU-CYS,S)-[TRICARBONYLIRON-DI-(CYS,S)NICKEL(II)](FE-NI)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 Fe Ni O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-06-21 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        230.634 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FNE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1E3D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FNE NI NI NI 0 0 N N N 28.952 47.577 4.461 ? ? ? NI FNE 1 
+FNE FE FE FE 0 0 N N N 26.039 47.154 4.841 ? ? ? FE FNE 2 
+FNE C1 C1 C  0 1 N N N 24.949 45.925 5.686 ? ? ? C1 FNE 3 
+FNE C2 C2 C  0 1 N N N 24.982 48.575 5.420 ? ? ? C2 FNE 4 
+FNE C3 C3 C  0 1 N N N 25.087 47.044 3.285 ? ? ? C3 FNE 5 
+FNE O1 O1 O  0 1 N N N 23.998 45.476 6.048 ? ? ? O1 FNE 6 
+FNE O2 O2 O  0 1 N N N 24.314 49.485 5.364 ? ? ? O2 FNE 7 
+FNE O3 O3 O  0 1 N N N 24.822 46.959 2.192 ? ? ? O3 FNE 8 
+FNE S4 S4 S  0 1 N N N 27.411 48.677 3.968 ? ? ? S4 FNE 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FNE NI FE SING N N 1 
+FNE NI S4 SING N N 2 
+FNE FE C1 SING N N 3 
+FNE FE C2 SING N N 4 
+FNE FE C3 SING N N 5 
+FNE FE S4 SING N N 6 
+FNE C1 O1 TRIP N N 7 
+FNE C2 O2 TRIP N N 8 
+FNE C3 O3 TRIP N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FNE InChI            InChI                1.02b "InChI=1/3CO.Fe.Ni.S/c3*1-2;;;/rC3FeNiO3S/c6-1-4(2-7,3-8)5-9-4" 
+FNE InChIKey         InChI                1.02b RSNJUOPWNIKDNA-LMILJAESAR                                       
+FNE SMILES_CANONICAL CACTVS               3.341 "[Fe]1(|[Ni]S1)(|[C-]#[O+])(|[C-]#[O+])|[C-]#[O+]"              
+FNE SMILES           CACTVS               3.341 "[Fe]1(|[Ni]S1)(|[C-]#[O+])(|[C-]#[O+])|[C-]#[O+]"              
+FNE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(#O)[Fe]1(S[Ni]1)(C#O)C#O"                                    
+FNE SMILES           "OpenEye OEToolkits" 1.5.0 "C(#O)[Fe]1(S[Ni]1)(C#O)C#O"                                    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FNE "Create component" 2000-06-21 EBI 
+# 

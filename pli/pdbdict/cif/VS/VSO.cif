@@ -1,0 +1,106 @@
+data_VSO
+# 
+_chem_comp.id                                    VSO 
+_chem_comp.name                                  "VINYLSULPHONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H4 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-12-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        108.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VSO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VSO O1  O1  O 0 1 N N N 84.998 -7.620 7.951 -0.235 -1.171 1.154  O1  VSO 1  
+VSO S2  S2  S 0 1 N N N 85.691 -6.358 7.983 -0.002 0.099  0.350  S2  VSO 2  
+VSO C3  C3  C 0 1 N N N 86.719 -6.422 6.602 0.625  -0.381 -1.224 C3  VSO 3  
+VSO C4  C4  C 0 1 N N N 87.557 -5.401 6.353 -0.031 -0.069 -2.314 C4  VSO 4  
+VSO O8  O8  O 0 1 N N N 86.606 -6.203 9.081 -1.292 0.641  0.102  O8  VSO 5  
+VSO O9  O9  O 0 1 N N N 84.859 -5.210 7.734 1.063  0.777  0.999  O9  VSO 6  
+VSO HO1 HO1 H 0 1 N N N 84.431 -7.584 8.712 -0.578 -0.897 2.016  HO1 VSO 7  
+VSO H3  H3  H 0 1 N N N 86.851 -7.179 5.811 1.550  -0.934 -1.291 H3  VSO 8  
+VSO H41 1H4 H 0 1 N N N 87.424 -4.643 7.143 0.353  -0.364 -3.279 H41 VSO 9  
+VSO H42 2H4 H 0 1 N N N 88.215 -5.442 5.468 -0.956 0.483  -2.247 H42 VSO 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VSO O1 S2  SING N N 1 
+VSO O1 HO1 SING N N 2 
+VSO S2 C3  SING N N 3 
+VSO S2 O8  DOUB N N 4 
+VSO S2 O9  DOUB N N 5 
+VSO C3 C4  DOUB N N 6 
+VSO C3 H3  SING N N 7 
+VSO C4 H41 SING N N 8 
+VSO C4 H42 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VSO SMILES           ACDLabs              10.04 "O=S(=O)(O)\C=C"                                  
+VSO SMILES_CANONICAL CACTVS               3.341 "O[S](=O)(=O)C=C"                                 
+VSO SMILES           CACTVS               3.341 "O[S](=O)(=O)C=C"                                 
+VSO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C=CS(=O)(=O)O"                                   
+VSO SMILES           "OpenEye OEToolkits" 1.5.0 "C=CS(=O)(=O)O"                                   
+VSO InChI            InChI                1.03  "InChI=1S/C2H4O3S/c1-2-6(3,4)5/h2H,1H2,(H,3,4,5)" 
+VSO InChIKey         InChI                1.03  NLVXSWCKKBEXTG-UHFFFAOYSA-N                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VSO "SYSTEMATIC NAME" ACDLabs              10.04 "ethenesulfonic acid" 
+VSO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "ethenesulfonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VSO "Create component"  2003-12-17 RCSB 
+VSO "Modify descriptor" 2011-06-04 RCSB 
+# 

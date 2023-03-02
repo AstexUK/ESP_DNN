@@ -1,0 +1,121 @@
+data_5HY
+# 
+_chem_comp.id                                    5HY 
+_chem_comp.name                                  "[(4R)-2,5-dioxoimidazolidin-4-yl]acetic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Hydantoin-5-acetic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-03-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        158.112 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     5HY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3QVL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+5HY C    C    C 0 1 N N N 37.337 32.220 -19.798 1.256  -1.196 -0.137 C    5HY 1  
+5HY N    N    N 0 1 N N N 37.756 30.002 -19.351 0.523  1.031  -0.277 N    5HY 2  
+5HY O    O    O 0 1 N N N 37.446 33.416 -20.061 1.331  -2.406 -0.155 O    5HY 3  
+5HY CA   CA   C 0 1 N N R 38.487 31.226 -19.702 0.046  -0.349 -0.476 CA   5HY 4  
+5HY CB   CB   C 0 1 N N N 39.528 31.615 -18.629 -1.113 -0.660 0.473  CB   5HY 5  
+5HY CG   CG   C 0 1 N N N 38.972 31.995 -17.247 -2.337 0.104  0.038  CG   5HY 6  
+5HY OAB  OAB  O 0 1 N N N 35.577 29.463 -19.089 2.506  1.904  0.366  OAB  5HY 7  
+5HY NAF  NAF  N 0 1 N N N 36.188 31.584 -19.581 2.230  -0.326 0.196  NAF  5HY 8  
+5HY CAI  CAI  C 0 1 N N N 36.451 30.295 -19.332 1.807  0.941  0.114  CAI  5HY 9  
+5HY OD1  OD1  O 0 1 N N N 39.810 32.097 -16.327 -3.482 -0.015 0.728  OD1  5HY 10 
+5HY OD2  OD2  O 0 1 N N N 37.744 32.193 -17.127 -2.287 0.824  -0.932 OD2  5HY 11 
+5HY HN   HN   H 0 1 N N N 38.162 29.108 -19.160 0.012  1.845  -0.404 HN   5HY 12 
+5HY HA   HA   H 0 1 N N N 39.095 31.152 -20.616 -0.253 -0.505 -1.513 HA   5HY 13 
+5HY HB   HB   H 0 1 N N N 40.190 30.748 -18.487 -1.324 -1.729 0.449  HB   5HY 14 
+5HY HBA  HBA  H 0 1 N N N 40.079 32.487 -19.010 -0.841 -0.365 1.486  HBA  5HY 15 
+5HY HNAF HNAF H 0 0 N N N 35.279 32.000 -19.601 3.125  -0.586 0.461  HNAF 5HY 16 
+5HY HOD1 HOD1 H 0 0 N N N 39.370 32.348 -15.523 -4.240 0.495  0.411  HOD1 5HY 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+5HY O   C    DOUB N N 1  
+5HY C   CA   SING N N 2  
+5HY C   NAF  SING N N 3  
+5HY CA  N    SING N N 4  
+5HY N   CAI  SING N N 5  
+5HY N   HN   SING N N 6  
+5HY CA  CB   SING N N 7  
+5HY CA  HA   SING N N 8  
+5HY CB  CG   SING N N 9  
+5HY CB  HB   SING N N 10 
+5HY CB  HBA  SING N N 11 
+5HY CG  OD2  DOUB N N 12 
+5HY CG  OD1  SING N N 13 
+5HY CAI OAB  DOUB N N 14 
+5HY NAF CAI  SING N N 15 
+5HY NAF HNAF SING N N 16 
+5HY OD1 HOD1 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+5HY SMILES           ACDLabs              12.01 "O=C1NC(=O)NC1CC(=O)O"                                                                 
+5HY SMILES_CANONICAL CACTVS               3.370 "OC(=O)C[C@H]1NC(=O)NC1=O"                                                             
+5HY SMILES           CACTVS               3.370 "OC(=O)C[CH]1NC(=O)NC1=O"                                                              
+5HY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C([C@@H]1C(=O)NC(=O)N1)C(=O)O"                                                        
+5HY SMILES           "OpenEye OEToolkits" 1.7.0 "C(C1C(=O)NC(=O)N1)C(=O)O"                                                             
+5HY InChI            InChI                1.03  "InChI=1S/C5H6N2O4/c8-3(9)1-2-4(10)7-5(11)6-2/h2H,1H2,(H,8,9)(H2,6,7,10,11)/t2-/m1/s1" 
+5HY InChIKey         InChI                1.03  DQQLZADYSWBCOX-UWTATZPHSA-N                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+5HY "SYSTEMATIC NAME" ACDLabs              12.01 "[(4R)-2,5-dioxoimidazolidin-4-yl]acetic acid"     
+5HY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "2-[(4R)-2,5-dioxoimidazolidin-4-yl]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+5HY "Create component"  2011-03-21 RCSB 
+5HY "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,123 @@
+data_A13
+# 
+_chem_comp.id                                    A13 
+_chem_comp.name                                  "4-METHYL-6-(TRIFLUOROMETHYL)PYRIMIDIN-2-AMINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 F3 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-07-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        177.127 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     A13 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+A13 C1   C1   C 0 1 Y N N 3.797  34.489 51.046 1.758  -1.130 -0.002 C1   A13 1  
+A13 C2   C2   C 0 1 Y N N 2.332  34.181 50.750 0.373  -1.196 -0.002 C2   A13 2  
+A13 C3   C3   C 0 1 Y N N 2.118  33.495 49.439 -0.346 -0.011 -0.000 C3   A13 3  
+A13 N4   N4   N 0 1 Y N N 3.185  33.210 48.638 0.306  1.140  0.001  N4   A13 4  
+A13 C5   C5   C 0 1 Y N N 4.423  33.549 49.033 1.630  1.168  0.000  C5   A13 5  
+A13 N6   N6   N 0 1 Y N N 4.782  34.159 50.180 2.348  0.054  -0.001 N6   A13 6  
+A13 N7   N7   N 0 1 N N N 5.396  33.237 48.190 2.280  2.390  0.000  N7   A13 7  
+A13 C8   C8   C 0 1 N N N 4.192  35.171 52.328 2.581  -2.392 0.002  C8   A13 8  
+A13 C9   C9   C 0 1 N N N 0.720  33.118 48.998 -1.853 -0.034 0.000  C9   A13 9  
+A13 F10  F10  F 0 1 N N N 0.690  31.798 48.932 -2.319 -0.043 1.319  F10  A13 10 
+A13 F11  F11  F 0 1 N N N 0.512  33.656 47.811 -2.337 1.102  -0.658 F11  A13 11 
+A13 F12  F12  F 0 1 N N N -0.144 33.533 49.903 -2.302 -1.183 -0.661 F12  A13 12 
+A13 H2   H2   H 0 1 N N N 1.527  34.434 51.423 -0.134 -2.150 -0.003 H2   A13 13 
+A13 HN71 1HN7 H 0 0 N N N 5.024  33.158 47.265 1.766  3.212  0.001  HN71 A13 14 
+A13 HN72 2HN7 H 0 0 N N N 6.095  33.952 48.208 3.250  2.424  -0.000 HN72 A13 15 
+A13 H81  1H8  H 0 1 N N N 4.288  34.422 53.128 2.779  -2.701 -1.024 H81  A13 16 
+A13 H82  2H8  H 0 1 N N N 5.155  35.684 52.189 3.525  -2.208 0.515  H82  A13 17 
+A13 H83  3H8  H 0 1 N N N 3.421  35.905 52.605 2.034  -3.181 0.519  H83  A13 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+A13 C1 C2   DOUB Y N 1  
+A13 C1 N6   SING Y N 2  
+A13 C1 C8   SING N N 3  
+A13 C2 C3   SING Y N 4  
+A13 C2 H2   SING N N 5  
+A13 C3 N4   DOUB Y N 6  
+A13 C3 C9   SING N N 7  
+A13 N4 C5   SING Y N 8  
+A13 C5 N6   DOUB Y N 9  
+A13 C5 N7   SING N N 10 
+A13 N7 HN71 SING N N 11 
+A13 N7 HN72 SING N N 12 
+A13 C8 H81  SING N N 13 
+A13 C8 H82  SING N N 14 
+A13 C8 H83  SING N N 15 
+A13 C9 F10  SING N N 16 
+A13 C9 F11  SING N N 17 
+A13 C9 F12  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+A13 SMILES           ACDLabs              10.04 "FC(F)(F)c1nc(nc(c1)C)N"                                                
+A13 SMILES_CANONICAL CACTVS               3.341 "Cc1cc(nc(N)n1)C(F)(F)F"                                                
+A13 SMILES           CACTVS               3.341 "Cc1cc(nc(N)n1)C(F)(F)F"                                                
+A13 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1cc(nc(n1)N)C(F)(F)F"                                                
+A13 SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1cc(nc(n1)N)C(F)(F)F"                                                
+A13 InChI            InChI                1.03  "InChI=1S/C6H6F3N3/c1-3-2-4(6(7,8)9)12-5(10)11-3/h2H,1H3,(H2,10,11,12)" 
+A13 InChIKey         InChI                1.03  CNTCLEOUAMWZGS-UHFFFAOYSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+A13 "SYSTEMATIC NAME" ACDLabs              10.04 "4-methyl-6-(trifluoromethyl)pyrimidin-2-amine" 
+A13 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "4-methyl-6-(trifluoromethyl)pyrimidin-2-amine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+A13 "Create component"  2007-07-03 RCSB 
+A13 "Modify descriptor" 2011-06-04 RCSB 
+# 

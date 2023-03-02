@@ -1,0 +1,146 @@
+data_NEO
+# 
+_chem_comp.id                                    NEO 
+_chem_comp.name                                  NEOPTERIN 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H11 N5 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        253.215 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NEO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BR5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NEO N2   N2   N 0 1 Y N N 1.553  0.200  8.716 -1.229 0.019  3.453  N2   NEO 1  
+NEO C1   C1   C 0 1 Y N N 0.491  0.673  8.014 -1.451 0.328  2.155  C1   NEO 2  
+NEO C10  C10  C 0 1 Y N N 0.688  1.364  6.803 -0.298 0.282  1.238  C10  NEO 3  
+NEO N9   N9   N 0 1 Y N N -0.293 1.864  5.993 -0.420 0.566  -0.050 N9   NEO 4  
+NEO C8   C8   C 0 1 Y N N 0.018  2.566  4.847 0.639  0.510  -0.832 C8   NEO 5  
+NEO C7   C7   C 0 1 Y N N 1.397  2.751  4.525 1.882  0.158  -0.314 C7   NEO 6  
+NEO N6   N6   N 0 1 Y N N 2.365  2.224  5.316 2.021  -0.126 0.965  N6   NEO 7  
+NEO C5   C5   C 0 1 Y N N 2.046  1.541  6.430 0.960  -0.076 1.771  C5   NEO 8  
+NEO N4   N4   N 0 1 Y N N 3.047  1.066  7.159 1.061  -0.358 3.083  N4   NEO 9  
+NEO C3   C3   C 0 1 Y N N 2.827  0.395  8.291 0.023  -0.310 3.881  C3   NEO 10 
+NEO N13  N13  N 0 1 N N N 3.867  0.248  9.105 0.202  -0.611 5.206  N13  NEO 11 
+NEO C16  C16  C 0 1 N N R -1.143 3.122  3.979 0.504  0.832  -2.298 C16  NEO 12 
+NEO O21  O21  O 0 1 N N N -2.401 2.633  4.435 1.778  0.704  -2.933 O21  NEO 13 
+NEO C26  C26  C 0 1 N N R -1.283 4.645  3.828 -0.485 -0.138 -2.944 C26  NEO 14 
+NEO O22  O22  O 0 1 N N N -2.580 5.078  4.314 -0.009 -1.477 -2.792 O22  NEO 15 
+NEO C28  C28  C 0 1 N N N -1.077 5.164  2.355 -0.622 0.187  -4.432 C28  NEO 16 
+NEO O24  O24  O 0 1 N N N -0.052 4.446  1.622 -1.548 -0.718 -5.036 O24  NEO 17 
+NEO O11  O11  O 0 1 N N N -0.755 0.609  8.608 -2.561 0.630  1.758  O11  NEO 18 
+NEO HN2  HN2  H 0 1 N N N 1.390  -0.313 9.582 -1.964 0.038  4.086  HN2  NEO 19 
+NEO H7   H7   H 0 1 N N N 1.724  3.318  3.637 2.741  0.117  -0.967 H7   NEO 20 
+NEO H131 1H13 H 0 0 N N N 4.824  0.394  8.785 1.083  -0.853 5.533  H131 NEO 21 
+NEO H132 2H13 H 0 0 N N N 3.813  -0.684 9.513 -0.550 -0.579 5.817  H132 NEO 22 
+NEO H16  H16  H 0 1 N N N -0.850 2.747  2.970 0.141  1.853  -2.414 H16  NEO 23 
+NEO H21  H21  H 0 1 N N N -3.111 2.973  3.903 2.063  -0.210 -2.807 H21  NEO 24 
+NEO H26  H26  H 0 1 N N N -0.463 5.088  4.440 -1.457 -0.041 -2.460 H26  NEO 25 
+NEO H22  H22  H 0 1 N N N -2.666 6.019  4.220 0.850  -1.519 -3.233 H22  NEO 26 
+NEO H281 1H28 H 0 0 N N N -2.041 5.153  1.795 -0.986 1.208  -4.549 H281 NEO 27 
+NEO H282 2H28 H 0 0 N N N -0.870 6.259  2.349 0.349  0.090  -4.917 H282 NEO 28 
+NEO H24  H24  H 0 1 N N N 0.072  4.759  0.733 -1.604 -0.478 -5.971 H24  NEO 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NEO N2  C1   SING Y N 1  
+NEO N2  C3   SING Y N 2  
+NEO N2  HN2  SING N N 3  
+NEO C1  C10  SING Y N 4  
+NEO C1  O11  DOUB N N 5  
+NEO C10 N9   SING Y N 6  
+NEO C10 C5   DOUB Y N 7  
+NEO N9  C8   DOUB Y N 8  
+NEO C8  C7   SING Y N 9  
+NEO C8  C16  SING N N 10 
+NEO C7  N6   DOUB Y N 11 
+NEO C7  H7   SING N N 12 
+NEO N6  C5   SING Y N 13 
+NEO C5  N4   SING Y N 14 
+NEO N4  C3   DOUB Y N 15 
+NEO C3  N13  SING N N 16 
+NEO N13 H131 SING N N 17 
+NEO N13 H132 SING N N 18 
+NEO C16 O21  SING N N 19 
+NEO C16 C26  SING N N 20 
+NEO C16 H16  SING N N 21 
+NEO O21 H21  SING N N 22 
+NEO C26 O22  SING N N 23 
+NEO C26 C28  SING N N 24 
+NEO C26 H26  SING N N 25 
+NEO O22 H22  SING N N 26 
+NEO C28 O24  SING N N 27 
+NEO C28 H281 SING N N 28 
+NEO C28 H282 SING N N 29 
+NEO O24 H24  SING N N 30 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NEO SMILES           ACDLabs              10.04 "O=C1c2nc(cnc2N=C(N1)N)C(O)C(O)CO"                                                                                        
+NEO SMILES_CANONICAL CACTVS               3.341 "NC1=Nc2ncc(nc2C(=O)N1)[C@@H](O)[C@H](O)CO"                                                                               
+NEO SMILES           CACTVS               3.341 "NC1=Nc2ncc(nc2C(=O)N1)[CH](O)[CH](O)CO"                                                                                  
+NEO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(nc2c(n1)N=C(NC2=O)N)[C@H]([C@@H](CO)O)O"                                                                             
+NEO SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(nc2c(n1)N=C(NC2=O)N)C(C(CO)O)O"                                                                                      
+NEO InChI            InChI                1.03  "InChI=1S/C9H11N5O4/c10-9-13-7-5(8(18)14-9)12-3(1-11-7)6(17)4(16)2-15/h1,4,6,15-17H,2H2,(H3,10,11,13,14,18)/t4-,6-/m1/s1" 
+NEO InChIKey         InChI                1.03  BMQYVXCPAOLZOK-INEUFUBQSA-N                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NEO "SYSTEMATIC NAME" ACDLabs              10.04 "2-amino-6-[(1R,2R)-1,2,3-trihydroxypropyl]pteridin-4(3H)-one" 
+NEO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-amino-6-[(1R,2R)-1,2,3-trihydroxypropyl]-3H-pteridin-4-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NEO "Create component"  1999-07-08 EBI  
+NEO "Modify descriptor" 2011-06-04 RCSB 
+# 

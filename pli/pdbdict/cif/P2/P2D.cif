@@ -1,0 +1,116 @@
+data_P2D
+# 
+_chem_comp.id                                    P2D 
+_chem_comp.name                                  pentane-2,4-dione 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-11-27 
+_chem_comp.pdbx_modified_date                    2014-09-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        100.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     P2D 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3WL7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+P2D C1 C1 C 0 1 N N N 19.656 30.459 45.661 2.599  -0.682 -0.000 C1 P2D 1  
+P2D C2 C2 C 0 1 N N N 19.537 28.967 45.330 1.230  -0.051 -0.000 C2 P2D 2  
+P2D C3 C3 C 0 1 N N N 18.264 28.206 45.684 -0.000 -0.921 -0.000 C3 P2D 3  
+P2D C4 C4 C 0 1 N N N 18.297 26.769 45.159 -1.230 -0.051 -0.000 C4 P2D 4  
+P2D C5 C5 C 0 1 N N N 17.376 25.682 45.755 -2.599 -0.682 -0.000 C5 P2D 5  
+P2D O2 O2 O 0 1 N N N 20.484 28.384 44.784 1.120  1.151  0.000  O2 P2D 6  
+P2D O4 O4 O 0 1 N N N 19.048 26.469 44.230 -1.120 1.151  0.000  O4 P2D 7  
+P2D H1 H1 H 0 1 N N N 20.642 30.828 45.342 2.499  -1.767 -0.000 H1 P2D 8  
+P2D H2 H2 H 0 1 N N N 18.868 31.016 45.133 3.144  -0.367 -0.890 H2 P2D 9  
+P2D H3 H3 H 0 1 N N N 19.544 30.604 46.746 3.144  -0.367 0.890  H3 P2D 10 
+P2D H4 H4 H 0 1 N N N 17.403 28.727 45.241 -0.000 -1.551 -0.890 H4 P2D 11 
+P2D H5 H5 H 0 1 N N N 18.156 28.183 46.778 -0.000 -1.551 0.890  H5 P2D 12 
+P2D H6 H6 H 0 1 N N N 17.538 24.732 45.224 -2.929 -0.834 1.028  H6 P2D 13 
+P2D H7 H7 H 0 1 N N N 17.608 25.550 46.822 -3.302 -0.025 -0.514 H7 P2D 14 
+P2D H8 H8 H 0 1 N N N 16.326 25.990 45.643 -2.557 -1.642 -0.514 H8 P2D 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+P2D O4 C4 DOUB N N 1  
+P2D O2 C2 DOUB N N 2  
+P2D C4 C3 SING N N 3  
+P2D C4 C5 SING N N 4  
+P2D C2 C1 SING N N 5  
+P2D C2 C3 SING N N 6  
+P2D C1 H1 SING N N 7  
+P2D C1 H2 SING N N 8  
+P2D C1 H3 SING N N 9  
+P2D C3 H4 SING N N 10 
+P2D C3 H5 SING N N 11 
+P2D C5 H6 SING N N 12 
+P2D C5 H7 SING N N 13 
+P2D C5 H8 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+P2D SMILES           ACDLabs              12.01 "O=C(C)CC(=O)C"                             
+P2D InChI            InChI                1.03  "InChI=1S/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3" 
+P2D InChIKey         InChI                1.03  YRKCREAYFQTBPV-UHFFFAOYSA-N                 
+P2D SMILES_CANONICAL CACTVS               3.385 "CC(=O)CC(C)=O"                             
+P2D SMILES           CACTVS               3.385 "CC(=O)CC(C)=O"                             
+P2D SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(=O)CC(=O)C"                             
+P2D SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=O)CC(=O)C"                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+P2D "SYSTEMATIC NAME" ACDLabs              12.01 pentane-2,4-dione 
+P2D "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 pentane-2,4-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+P2D "Create component" 2013-11-27 PDBJ 
+P2D "Initial release"  2014-09-24 RCSB 
+# 

@@ -1,0 +1,128 @@
+data_YCM
+# 
+_chem_comp.id                                    YCM 
+_chem_comp.name                                  "S-(2-AMINO-2-OXOETHYL)-L-CYSTEINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N2 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         CYSTEINE-S-ACETAMIDE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-02-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        178.209 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     YCM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1L0Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+YCM N    N   N 0 1 N N N -6.736 0.559  23.412 3.035  -1.472 -0.440 N    YCM 1  
+YCM CA   CA  C 0 1 N N R -6.236 0.928  22.087 1.665  -1.164 -0.766 CA   YCM 2  
+YCM CB   CB  C 0 1 N N N -7.105 2.039  21.482 1.076  -0.107 0.172  CB   YCM 3  
+YCM SG   SG  S 0 1 N N N -8.858 1.643  21.390 1.832  1.542  -0.014 SG   YCM 4  
+YCM CD   CD  C 0 1 N N N -8.914 0.063  20.530 0.824  2.422  1.200  CD   YCM 5  
+YCM CE   CE  C 0 1 N N N -8.191 -0.044 19.214 1.261  3.865  1.246  CE   YCM 6  
+YCM OZ1  OZ1 O 0 1 N N N -7.020 -0.405 19.168 1.227  4.600  0.261  OZ1  YCM 7  
+YCM NZ2  NZ2 N 0 1 N N N -8.882 0.287  18.133 1.707  4.267  2.484  NZ2  YCM 8  
+YCM C    C   C 0 1 N N N -4.786 1.389  22.025 1.500  -0.794 -2.231 C    YCM 9  
+YCM O    O   O 0 1 N N N -4.251 1.566  20.932 2.436  -0.664 -3.010 O    YCM 10 
+YCM OXT  OXT O 0 1 N Y N ?      ?      ?      0.208  -0.605 -2.593 OXT  YCM 11 
+YCM H    H   H 0 1 N N N -6.158 -0.179 23.814 3.758  -1.236 -1.098 H    YCM 12 
+YCM H2   HN2 H 0 1 N Y N -7.722 0.300  23.388 3.225  -2.090 0.331  H2   YCM 13 
+YCM HA   HA  H 0 1 N N N -6.290 -0.023 21.508 1.117  -2.104 -0.627 HA   YCM 14 
+YCM HB2  1HB H 0 1 N N N -6.950 2.996  22.031 1.217  -0.414 1.214  HB2  YCM 15 
+YCM HB3  2HB H 0 1 N N N -6.719 2.331  20.477 0.000  0.000  0.000  HB3  YCM 16 
+YCM HD2  1HD H 0 1 N N N -8.552 -0.740 21.213 -0.230 2.382  0.908  HD2  YCM 17 
+YCM HD3  2HD H 0 1 N N N -9.977 -0.241 20.390 0.926  1.938  2.175  HD3  YCM 18 
+YCM HZ21 1HZ H 0 0 N N N -9.856 0.587  18.171 2.021  5.225  2.601  HZ21 YCM 19 
+YCM HZ22 2HZ H 0 0 N N N -8.392 0.214  17.241 1.735  3.644  3.285  HZ22 YCM 20 
+YCM HXT  HXT H 0 1 N Y N 0.904  0.287  -0.038 0.125  -0.356 -3.538 HXT  YCM 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+YCM N   CA   SING N N 1  
+YCM N   H    SING N N 2  
+YCM N   H2   SING N N 3  
+YCM CA  CB   SING N N 4  
+YCM CA  C    SING N N 5  
+YCM CA  HA   SING N N 6  
+YCM CB  SG   SING N N 7  
+YCM CB  HB2  SING N N 8  
+YCM CB  HB3  SING N N 9  
+YCM SG  CD   SING N N 10 
+YCM CD  CE   SING N N 11 
+YCM CD  HD2  SING N N 12 
+YCM CD  HD3  SING N N 13 
+YCM CE  OZ1  DOUB N N 14 
+YCM CE  NZ2  SING N N 15 
+YCM NZ2 HZ21 SING N N 16 
+YCM NZ2 HZ22 SING N N 17 
+YCM C   O    DOUB N N 18 
+YCM C   OXT  SING N N 19 
+YCM OXT HXT  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+YCM SMILES           ACDLabs              10.04 "O=C(O)C(N)CSCC(=O)N"                                                                 
+YCM SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CSCC(N)=O)C(O)=O"                                                            
+YCM SMILES           CACTVS               3.341 "N[CH](CSCC(N)=O)C(O)=O"                                                              
+YCM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)SCC(=O)N"                                                          
+YCM SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)SCC(=O)N"                                                               
+YCM InChI            InChI                1.03  "InChI=1S/C5H10N2O3S/c6-3(5(9)10)1-11-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)/t3-/m0/s1" 
+YCM InChIKey         InChI                1.03  VFKYKPOTSJWPIU-VKHMYHEASA-N                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+YCM "SYSTEMATIC NAME" ACDLabs              10.04 "S-(2-amino-2-oxoethyl)-L-cysteine"                           
+YCM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-(2-amino-2-oxo-ethyl)sulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+YCM "Create component"  2002-02-18 RCSB 
+YCM "Modify descriptor" 2011-06-04 RCSB 
+# 

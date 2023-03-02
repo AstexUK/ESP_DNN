@@ -1,0 +1,120 @@
+data_341
+# 
+_chem_comp.id                                    341 
+_chem_comp.name                                  "(3,5-difluorophenyl)methanol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 F2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-10-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        144.119 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     341 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3EON 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+341 C3   C3   C 0 1 Y N N -15.124 72.949 4.080 1.033  -1.199 0.005  C3   341 1  
+341 C4   C4   C 0 1 Y N N -15.187 72.370 2.809 -0.335 -1.197 -0.208 C4   341 2  
+341 C5   C5   C 0 1 Y N N -15.126 70.975 2.675 -1.017 0.001  -0.312 C5   341 3  
+341 C6   C6   C 0 1 Y N N -15.007 70.169 3.807 -0.334 1.198  -0.205 C6   341 4  
+341 C1   C1   C 0 1 Y N N -14.942 70.756 5.069 1.034  1.198  0.007  C1   341 5  
+341 C2   C2   C 0 1 Y N N -15.000 72.142 5.207 1.718  -0.001 0.112  C2   341 6  
+341 F8   F8   F 0 1 N N N -14.830 69.981 6.159 1.701  2.368  0.111  F8   341 7  
+341 C9   C9   C 0 1 N N N -15.209 70.308 1.320 -2.506 0.002  -0.544 C9   341 8  
+341 O10  O10  O 0 1 N N N -16.504 69.697 1.223 -3.184 0.000  0.714  O10  341 9  
+341 F7   F7   F 0 1 N N N -15.179 74.284 4.243 1.699  -2.370 0.112  F7   341 10 
+341 H4   H4   H 0 1 N N N -15.282 72.995 1.933 -0.870 -2.132 -0.292 H4   341 11 
+341 H6   H6   H 0 1 N N N -14.965 69.095 3.706 -0.868 2.133  -0.287 H6   341 12 
+341 H2   H2   H 0 1 N N N -14.949 72.590 6.189 2.785  -0.001 0.278  H2   341 13 
+341 H9   H9   H 0 1 N N N -15.080 71.053 0.521 -2.786 0.892  -1.107 H9   341 14 
+341 H9A  H9A  H 0 1 N N N -14.415 69.555 1.209 -2.787 -0.888 -1.109 H9A  341 15 
+341 HO10 HO10 H 0 0 N N N -16.857 69.562 2.095 -4.148 0.001  0.641  HO10 341 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+341 C3  C4   DOUB Y N 1  
+341 C3  C2   SING Y N 2  
+341 C3  F7   SING N N 3  
+341 C4  C5   SING Y N 4  
+341 C5  C6   DOUB Y N 5  
+341 C5  C9   SING N N 6  
+341 C6  C1   SING Y N 7  
+341 C1  C2   DOUB Y N 8  
+341 C1  F8   SING N N 9  
+341 C9  O10  SING N N 10 
+341 C4  H4   SING N N 11 
+341 C6  H6   SING N N 12 
+341 C2  H2   SING N N 13 
+341 C9  H9   SING N N 14 
+341 C9  H9A  SING N N 15 
+341 O10 HO10 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+341 SMILES           ACDLabs              10.04 "Fc1cc(cc(F)c1)CO"                                      
+341 SMILES_CANONICAL CACTVS               3.341 "OCc1cc(F)cc(F)c1"                                      
+341 SMILES           CACTVS               3.341 "OCc1cc(F)cc(F)c1"                                      
+341 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(cc(cc1F)F)CO"                                      
+341 SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(cc(cc1F)F)CO"                                      
+341 InChI            InChI                1.03  "InChI=1S/C7H6F2O/c8-6-1-5(4-10)2-7(9)3-6/h1-3,10H,4H2" 
+341 InChIKey         InChI                1.03  LOGIHEKXJKHXEC-UHFFFAOYSA-N                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+341 "SYSTEMATIC NAME" ACDLabs              10.04 "(3,5-difluorophenyl)methanol" 
+341 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(3,5-difluorophenyl)methanol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+341 "Create component"     2008-10-02 RCSB 
+341 "Modify aromatic_flag" 2011-06-04 RCSB 
+341 "Modify descriptor"    2011-06-04 RCSB 
+# 

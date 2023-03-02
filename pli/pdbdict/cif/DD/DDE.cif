@@ -1,0 +1,177 @@
+data_DDE
+# 
+_chem_comp.id                                    DDE 
+_chem_comp.name                                  "{3-[4-(2-AMINO-2-CARBOXY-ETHYL)-1H-IMIDAZOL-2-YL]-1-CARBAMOYL-PROPYL}-TRIMETHYL-AMMONIUM" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C13 H24 N5 O3" 
+_chem_comp.mon_nstd_parent_comp_id               HIS 
+_chem_comp.pdbx_synonyms                         "DIPHTHAMIDE; 2-(3-CARBOXYAMIDO-3-(TRIMETHYLAMMONIO)PROPYL)HISTIDINE" 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2004-07-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        298.361 
+_chem_comp.one_letter_code                       H 
+_chem_comp.three_letter_code                     DDE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1U2R 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DDE N    N    N 0 1 N N N 90.204 83.284 47.837 -0.602 5.138  -4.246 N    DDE 1  
+DDE CA   CA   C 0 1 N N S 91.170 82.432 47.137 -0.992 3.753  -4.156 CA   DDE 2  
+DDE C    C    C 0 1 N N N 90.548 81.039 46.963 -0.305 2.920  -5.228 C    DDE 3  
+DDE O    O    O 0 1 N N N 91.162 80.145 46.392 -0.055 3.350  -6.349 O    DDE 4  
+DDE CB   CB   C 0 1 N N N 92.511 82.391 47.855 -2.534 3.615  -4.237 CB   DDE 5  
+DDE CG   CG   C 0 1 Y N N 93.196 83.707 48.037 -3.025 2.236  -4.091 CG   DDE 6  
+DDE ND1  ND1  N 0 1 Y N N 93.689 84.363 46.941 -3.184 1.431  -5.191 ND1  DDE 7  
+DDE CD2  CD2  C 0 1 Y N N 93.417 84.444 49.117 -3.378 1.576  -2.938 CD2  DDE 8  
+DDE CE1  CE1  C 0 1 Y N N 94.224 85.522 47.375 -3.621 0.319  -4.693 CE1  DDE 9  
+DDE NE2  NE2  N 0 1 Y N N 94.049 85.593 48.762 -3.763 0.332  -3.350 NE2  DDE 10 
+DDE NAD  NAD  N 0 1 N N N 95.993 88.572 42.645 -1.585 0.496  -7.967 NAD  DDE 11 
+DDE CBI  CBI  C 0 1 N N N 95.265 87.726 43.391 -1.861 -0.835 -7.741 CBI  DDE 12 
+DDE OAG  OAG  O 0 1 N N N 95.303 86.470 43.411 -2.321 -1.588 -8.596 OAG  DDE 13 
+DDE CBW  CBW  C 0 1 N N R 94.261 88.380 44.352 -1.533 -1.277 -6.325 CBW  DDE 14 
+DDE NCB  NCB  N 1 1 N N N 94.162 89.913 44.374 -0.437 -2.286 -6.353 NCB  DDE 15 
+DDE CAB  CAB  C 0 1 N N N 93.109 90.318 45.364 -0.090 -2.745 -4.933 CAB  DDE 16 
+DDE CAC  CAC  C 0 1 N N N 95.339 90.665 44.845 -0.857 -3.515 -7.168 CAC  DDE 17 
+DDE CAA  CAA  C 0 1 N N N 93.712 90.493 43.103 0.825  -1.694 -6.990 CAA  DDE 18 
+DDE CAU  CAU  C 0 1 N N N 94.649 87.912 45.733 -2.773 -1.876 -5.649 CAU  DDE 19 
+DDE CAT  CAT  C 0 1 N N N 94.938 86.657 46.607 -3.964 -0.922 -5.479 CAT  DDE 20 
+DDE OXT  OXT  O 0 1 N Y N ?      ?      ?      0.020  1.661  -4.849 OXT  DDE 21 
+DDE H    1HN  H 0 1 N N N 90.617 84.209 47.952 -0.164 5.469  -5.089 H    DDE 22 
+DDE H2   2HN  H 0 1 N Y N 89.892 82.880 48.720 -0.585 5.695  -3.408 H2   DDE 23 
+DDE HA   HA   H 0 1 N N N 91.390 82.857 46.130 -0.624 3.394  -3.188 HA   DDE 24 
+DDE HB2  1HB  H 0 1 N N N 92.397 81.883 48.841 -2.989 4.264  -3.460 HB2  DDE 25 
+DDE HB3  2HB  H 0 1 N N N 93.194 81.676 47.340 -2.876 4.073  -5.191 HB3  DDE 26 
+DDE HD2  HD2  H 0 1 N N N 93.124 84.150 50.139 -3.391 1.865  -1.897 HD2  DDE 27 
+DDE HE2  HE2  H 0 1 N N N 94.329 86.341 49.395 -4.086 -0.420 -2.756 HE2  DDE 28 
+DDE HAD1 1HAD H 0 0 N N N 96.659 88.137 42.006 -1.203 1.101  -7.247 HAD1 DDE 29 
+DDE HAD2 2HAD H 0 0 N N N 95.962 89.591 42.628 -1.757 0.918  -8.873 HAD2 DDE 30 
+DDE HBW  HBW  H 0 1 N N N 93.253 88.068 43.990 -1.140 -0.420 -5.769 HBW  DDE 31 
+DDE HAB1 1HAB H 0 0 N N N 93.037 91.430 45.380 0.865  -3.272 -4.976 HAB1 DDE 32 
+DDE HAB2 2HAB H 0 0 N N N 92.126 89.831 45.162 -0.020 -1.857 -4.302 HAB2 DDE 33 
+DDE HAB3 3HAB H 0 0 N N N 93.290 89.889 46.377 -0.889 -3.407 -4.591 HAB3 DDE 34 
+DDE HAC1 1HAC H 0 0 N N N 95.267 91.777 44.861 0.051  -4.031 -7.486 HAC1 DDE 35 
+DDE HAC2 2HAC H 0 0 N N N 95.628 90.299 45.858 -1.464 -4.152 -6.522 HAC2 DDE 36 
+DDE HAC3 3HAC H 0 0 N N N 96.232 90.361 44.250 -1.431 -3.165 -8.028 HAC3 DDE 37 
+DDE HAA1 1HAA H 0 0 N N N 93.640 91.605 43.119 1.382  -1.174 -6.208 HAA1 DDE 38 
+DDE HAA2 2HAA H 0 0 N N N 94.361 90.152 42.263 1.408  -2.518 -7.405 HAA2 DDE 39 
+DDE HAA3 3HAA H 0 0 N N N 92.743 90.040 42.784 0.511  -1.002 -7.774 HAA3 DDE 40 
+DDE HAU3 1HAU H 0 0 N N N 95.590 88.488 45.886 -3.113 -2.745 -6.229 HAU3 DDE 41 
+DDE HAU2 2HAU H 0 0 N N N 93.862 88.410 46.345 -2.491 -2.274 -4.665 HAU2 DDE 42 
+DDE HAT2 1HAT H 0 0 N N N 95.581 87.091 47.407 -4.765 -1.458 -4.952 HAT2 DDE 43 
+DDE HAT3 2HAT H 0 0 N N N 95.615 86.076 45.938 -4.385 -0.658 -6.456 HAT3 DDE 44 
+DDE HXT  HXT  H 0 1 N Y N -0.384 -0.861 -0.107 0.467  1.126  -5.537 HXT  DDE 45 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DDE N   CA   SING N N 1  
+DDE N   H    SING N N 2  
+DDE N   H2   SING N N 3  
+DDE CA  C    SING N N 4  
+DDE CA  CB   SING N N 5  
+DDE CA  HA   SING N N 6  
+DDE C   O    DOUB N N 7  
+DDE C   OXT  SING N N 8  
+DDE CB  CG   SING N N 9  
+DDE CB  HB2  SING N N 10 
+DDE CB  HB3  SING N N 11 
+DDE CG  ND1  SING Y N 12 
+DDE CG  CD2  DOUB Y N 13 
+DDE ND1 CE1  DOUB Y N 14 
+DDE CD2 NE2  SING Y N 15 
+DDE CD2 HD2  SING N N 16 
+DDE CE1 NE2  SING Y N 17 
+DDE CE1 CAT  SING N N 18 
+DDE NE2 HE2  SING N N 19 
+DDE NAD CBI  SING N N 20 
+DDE NAD HAD1 SING N N 21 
+DDE NAD HAD2 SING N N 22 
+DDE CBI OAG  DOUB N N 23 
+DDE CBI CBW  SING N N 24 
+DDE CBW NCB  SING N N 25 
+DDE CBW CAU  SING N N 26 
+DDE CBW HBW  SING N N 27 
+DDE NCB CAB  SING N N 28 
+DDE NCB CAC  SING N N 29 
+DDE NCB CAA  SING N N 30 
+DDE CAB HAB1 SING N N 31 
+DDE CAB HAB2 SING N N 32 
+DDE CAB HAB3 SING N N 33 
+DDE CAC HAC1 SING N N 34 
+DDE CAC HAC2 SING N N 35 
+DDE CAC HAC3 SING N N 36 
+DDE CAA HAA1 SING N N 37 
+DDE CAA HAA2 SING N N 38 
+DDE CAA HAA3 SING N N 39 
+DDE CAU CAT  SING N N 40 
+DDE CAU HAU3 SING N N 41 
+DDE CAU HAU2 SING N N 42 
+DDE CAT HAT2 SING N N 43 
+DDE CAT HAT3 SING N N 44 
+DDE OXT HXT  SING N N 45 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DDE SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc1nc(nc1)CCC(C(=O)N)[N+](C)(C)C"                                                                                                      
+DDE SMILES_CANONICAL CACTVS               3.341 "C[N+](C)(C)[C@H](CCc1[nH]cc(C[C@H](N)C(O)=O)n1)C(N)=O"                                                                                           
+DDE SMILES           CACTVS               3.341 "C[N+](C)(C)[CH](CCc1[nH]cc(C[CH](N)C(O)=O)n1)C(N)=O"                                                                                             
+DDE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)[C@H](CCc1[nH]cc(n1)C[C@@H](C(=O)O)N)C(=O)N"                                                                                          
+DDE SMILES           "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)C(CCc1[nH]cc(n1)CC(C(=O)O)N)C(=O)N"                                                                                                   
+DDE InChI            InChI                1.03  "InChI=1S/C13H23N5O3/c1-18(2,3)10(12(15)19)4-5-11-16-7-8(17-11)6-9(14)13(20)21/h7,9-10H,4-6,14H2,1-3H3,(H3-,15,16,17,19,20,21)/p+1/t9-,10+/m0/s1" 
+DDE InChIKey         InChI                1.03  FOOBQHKMWYGHCE-VHSXEESVSA-O                                                                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DDE "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-1-amino-4-{4-[(2S)-2-amino-2-carboxyethyl]-1H-imidazol-2-yl}-N,N,N-trimethyl-1-oxobutan-2-aminium"         
+DDE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R)-1-amino-4-[4-[(2S)-2-amino-3-hydroxy-3-oxo-propyl]-1H-imidazol-2-yl]-1-oxo-butan-2-yl]-trimethyl-azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DDE "Create component"  2004-07-29 RCSB 
+DDE "Modify descriptor" 2011-06-04 RCSB 
+# 

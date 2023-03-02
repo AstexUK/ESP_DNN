@@ -1,0 +1,121 @@
+data_1MR
+# 
+_chem_comp.id                                    1MR 
+_chem_comp.name                                  N-METHYLANILINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H9 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-02-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        107.153 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1MR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1MR CAA  CAA  C 0 1 N N N 37.137 -23.926 -14.520 2.933  -1.090 4.899  CAA  1MR 1  
+1MR NAG  NAG  N 0 1 N N N 37.360 -23.735 -13.072 1.756  -1.099 4.085  NAG  1MR 2  
+1MR CAH  CAH  C 0 1 Y N N 37.474 -24.771 -12.243 1.800  -1.079 2.676  CAH  1MR 3  
+1MR CAE  CAE  C 0 1 Y N N 37.041 -24.636 -10.921 0.764  -0.484 1.955  CAE  1MR 4  
+1MR CAC  CAC  C 0 1 Y N N 37.154 -25.705 -10.034 0.807  -0.463 0.561  CAC  1MR 5  
+1MR CAB  CAB  C 0 1 Y N N 37.704 -26.906 -10.471 1.885  -1.036 -0.112 CAB  1MR 6  
+1MR CAD  CAD  C 0 1 Y N N 38.144 -27.047 -11.789 2.921  -1.631 0.608  CAD  1MR 7  
+1MR CAF  CAF  C 0 1 Y N N 38.032 -25.978 -12.676 2.878  -1.652 2.002  CAF  1MR 8  
+1MR HAA1 1HAA H 0 0 N N N 36.057 -23.973 -14.722 3.825  -1.052 4.269  HAA1 1MR 9  
+1MR HAA2 2HAA H 0 0 N N N 37.577 -23.083 -15.073 2.974  -1.993 5.514  HAA2 1MR 10 
+1MR HAA3 3HAA H 0 0 N N N 37.612 -24.864 -14.843 2.930  -0.217 5.558  HAA3 1MR 11 
+1MR HNAG HNAG H 0 0 N N N 38.221 -23.233 -12.996 0.849  -1.123 4.512  HNAG 1MR 12 
+1MR HAE  HAE  H 0 1 N N N 36.618 -23.701 -10.586 -0.081 -0.034 2.470  HAE  1MR 13 
+1MR HAC  HAC  H 0 1 N N N 36.817 -25.602 -9.013  -0.000 -0.000 0.000  HAC  1MR 14 
+1MR HAB  HAB  H 0 1 N N N 37.791 -27.736 -9.785  1.919  -1.020 -1.198 HAB  1MR 15 
+1MR HAD  HAD  H 0 1 N N N 38.570 -27.983 -12.120 3.761  -2.077 0.084  HAD  1MR 16 
+1MR HAF  HAF  H 0 1 N N N 38.375 -26.081 -13.695 3.691  -2.117 2.554  HAF  1MR 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1MR CAA NAG  SING N N 1  
+1MR CAA HAA1 SING N N 2  
+1MR CAA HAA2 SING N N 3  
+1MR CAA HAA3 SING N N 4  
+1MR NAG CAH  SING N N 5  
+1MR NAG HNAG SING N N 6  
+1MR CAH CAE  DOUB Y N 7  
+1MR CAH CAF  SING Y N 8  
+1MR CAE CAC  SING Y N 9  
+1MR CAE HAE  SING N N 10 
+1MR CAC CAB  DOUB Y N 11 
+1MR CAC HAC  SING N N 12 
+1MR CAB CAD  SING Y N 13 
+1MR CAB HAB  SING N N 14 
+1MR CAD CAF  DOUB Y N 15 
+1MR CAD HAD  SING N N 16 
+1MR CAF HAF  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1MR SMILES           ACDLabs              10.04 "N(c1ccccc1)C"                                
+1MR SMILES_CANONICAL CACTVS               3.341 CNc1ccccc1                                    
+1MR SMILES           CACTVS               3.341 CNc1ccccc1                                    
+1MR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CNc1ccccc1                                    
+1MR SMILES           "OpenEye OEToolkits" 1.5.0 CNc1ccccc1                                    
+1MR InChI            InChI                1.03  InChI=1S/C7H9N/c1-8-7-5-3-2-4-6-7/h2-6,8H,1H3 
+1MR InChIKey         InChI                1.03  AFBPFSWMIHJQDM-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1MR "SYSTEMATIC NAME" ACDLabs              10.04 N-methylaniline 
+1MR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 N-methylaniline 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1MR "Create component"  2007-02-13 RCSB 
+1MR "Modify descriptor" 2011-06-04 RCSB 
+# 

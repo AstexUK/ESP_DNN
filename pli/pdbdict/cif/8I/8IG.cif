@@ -1,0 +1,120 @@
+data_8IG
+# 
+_chem_comp.id                                    8IG 
+_chem_comp.name                                  8-IODO-GUANINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H4 I N5 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        277.023 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     8IG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C3X 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+8IG I    I    I 0 1 N N N 25.102 9.278 14.738 0.051  0.000  -2.652 I    8IG 1  
+8IG O6   O6   O 0 1 N N N 26.380 4.821 10.560 -2.545 0.001  2.748  O6   8IG 2  
+8IG C8   C8   C 0 1 Y N N 24.712 7.866 13.265 0.062  0.000  -0.557 C8   8IG 3  
+8IG N9   N9   N 0 1 Y N N 23.426 7.613 12.913 1.183  -0.000 0.222  N9   8IG 4  
+8IG N2   N2   N 0 1 N N N 21.710 4.619 9.807  1.447  0.000  5.020  N2   8IG 5  
+8IG N1   N1   N 0 1 N N N 24.073 4.720 10.182 -0.613 -0.004 3.874  N1   8IG 6  
+8IG C2   C2   C 0 1 N N N 22.739 5.192 10.475 0.749  0.000  3.838  C2   8IG 7  
+8IG N3   N3   N 0 1 N N N 22.442 6.154 11.378 1.414  0.000  2.705  N3   8IG 8  
+8IG C4   C4   C 0 1 Y N N 23.571 6.669 12.000 0.775  -0.000 1.529  C4   8IG 9  
+8IG C5   C5   C 0 1 Y N N 24.905 6.333 11.822 -0.623 0.000  1.499  C5   8IG 10 
+8IG C6   C6   C 0 1 N N N 25.236 5.284 10.853 -1.326 0.000  2.726  C6   8IG 11 
+8IG N7   N7   N 0 1 Y N N 25.657 7.132 12.664 -0.998 0.000  0.196  N7   8IG 12 
+8IG HN9  HN9  H 0 1 N N N 22.559 8.031 13.252 2.100  -0.000 -0.092 HN9  8IG 13 
+8IG HN21 1HN2 H 0 0 N N N 20.768 4.952 10.013 2.417  0.000  5.011  HN21 8IG 14 
+8IG HN22 2HN2 H 0 0 N N N 21.745 3.608 9.937  0.970  0.005  5.865  HN22 8IG 15 
+8IG HN11 1HN1 H 0 0 N N N 24.195 3.978 9.492  -1.073 -0.004 4.728  HN11 8IG 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+8IG I  C8   SING N N 1  
+8IG O6 C6   DOUB N N 2  
+8IG C8 N9   SING Y N 3  
+8IG C8 N7   DOUB Y N 4  
+8IG N9 C4   SING Y N 5  
+8IG N9 HN9  SING N N 6  
+8IG N2 C2   SING N N 7  
+8IG N2 HN21 SING N N 8  
+8IG N2 HN22 SING N N 9  
+8IG N1 C2   SING N N 10 
+8IG N1 C6   SING N N 11 
+8IG N1 HN11 SING N N 12 
+8IG C2 N3   DOUB N N 13 
+8IG N3 C4   SING N N 14 
+8IG C4 C5   DOUB Y N 15 
+8IG C5 C6   SING N N 16 
+8IG C5 N7   SING Y N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+8IG SMILES           ACDLabs              10.04 "Ic2nc1c(N=C(NC1=O)N)n2"                                                 
+8IG SMILES_CANONICAL CACTVS               3.341 "NC1=Nc2[nH]c(I)nc2C(=O)N1"                                              
+8IG SMILES           CACTVS               3.341 "NC1=Nc2[nH]c(I)nc2C(=O)N1"                                              
+8IG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c12c([nH]c(n1)I)N=C(NC2=O)N"                                            
+8IG SMILES           "OpenEye OEToolkits" 1.5.0 "c12c([nH]c(n1)I)N=C(NC2=O)N"                                            
+8IG InChI            InChI                1.03  "InChI=1S/C5H4IN5O/c6-4-8-1-2(9-4)10-5(7)11-3(1)12/h(H4,7,8,9,10,11,12)" 
+8IG InChIKey         InChI                1.03  SXGFECRAKVVEJT-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+8IG "SYSTEMATIC NAME" ACDLabs              10.04 2-amino-8-iodo-1,9-dihydro-6H-purin-6-one 
+8IG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-amino-8-iodo-1,9-dihydropurin-6-one     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+8IG "Create component"  1999-08-05 RCSB 
+8IG "Modify descriptor" 2011-06-04 RCSB 
+# 

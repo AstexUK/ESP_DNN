@@ -1,0 +1,121 @@
+data_FLM
+# 
+_chem_comp.id                                    FLM 
+_chem_comp.name                                  3-FLUORO-2-METHYL-ANILINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 F N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-03-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        125.144 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FLM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1OVJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FLM C1   C1   C 0 1 Y N N 27.253 7.122 4.261 0.681  -0.001 0.019  C1   FLM 1  
+FLM C2   C2   C 0 1 Y N N 27.505 6.606 2.999 0.028  -0.000 1.245  C2   FLM 2  
+FLM C3   C3   C 0 1 Y N N 26.398 6.441 5.137 -0.051 0.002  -1.152 C3   FLM 3  
+FLM C4   C4   C 0 1 N N N 27.970 8.415 4.604 2.188  -0.001 -0.032 C4   FLM 4  
+FLM C5   C5   C 0 1 Y N N 26.905 5.420 2.577 -1.360 0.000  1.288  C5   FLM 5  
+FLM N6   N6   N 0 1 N N N 28.382 7.347 2.226 0.765  0.001  2.431  N6   FLM 6  
+FLM C7   C7   C 0 1 Y N N 25.773 5.258 4.746 -1.436 -0.002 -1.104 C7   FLM 7  
+FLM F8   F8   F 0 1 N N N 26.128 6.896 6.339 0.582  0.001  -2.345 F8   FLM 8  
+FLM C9   C9   C 0 1 Y N N 26.058 4.768 3.473 -2.087 -0.000 0.114  C9   FLM 9  
+FLM HC41 1HC4 H 0 0 N N N 27.752 9.186 3.829 2.551  -1.029 -0.043 HC41 FLM 10 
+FLM HC42 2HC4 H 0 0 N N N 27.767 8.830 5.619 2.520  0.510  -0.934 HC42 FLM 11 
+FLM HC43 3HC4 H 0 0 N N N 29.068 8.290 4.458 2.581  0.513  0.844  HC43 FLM 12 
+FLM HC5  HC5  H 0 1 N N N 27.094 5.012 1.570 -1.870 0.001  2.240  HC5  FLM 13 
+FLM HN61 1HN6 H 0 0 N N N 29.258 7.491 2.728 0.308  0.002  3.286  HN61 FLM 14 
+FLM HN62 2HN6 H 0 0 N N N 28.567 6.967 1.298 1.735  0.001  2.399  HN62 FLM 15 
+FLM HC7  HC7  H 0 1 N N N 25.078 4.729 5.420 -2.007 -0.003 -2.021 HC7  FLM 16 
+FLM HC9  HC9  H 0 1 N N N 25.591 3.819 3.160 -3.167 0.000  0.148  HC9  FLM 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FLM C1 C2   DOUB Y N 1  
+FLM C1 C3   SING Y N 2  
+FLM C1 C4   SING N N 3  
+FLM C2 C5   SING Y N 4  
+FLM C2 N6   SING N N 5  
+FLM C3 C7   DOUB Y N 6  
+FLM C3 F8   SING N N 7  
+FLM C4 HC41 SING N N 8  
+FLM C4 HC42 SING N N 9  
+FLM C4 HC43 SING N N 10 
+FLM C5 C9   DOUB Y N 11 
+FLM C5 HC5  SING N N 12 
+FLM N6 HN61 SING N N 13 
+FLM N6 HN62 SING N N 14 
+FLM C7 C9   SING Y N 15 
+FLM C7 HC7  SING N N 16 
+FLM C9 HC9  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FLM SMILES           ACDLabs              10.04 "Fc1cccc(N)c1C"                                      
+FLM SMILES_CANONICAL CACTVS               3.341 "Cc1c(N)cccc1F"                                      
+FLM SMILES           CACTVS               3.341 "Cc1c(N)cccc1F"                                      
+FLM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(cccc1F)N"                                      
+FLM SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(cccc1F)N"                                      
+FLM InChI            InChI                1.03  "InChI=1S/C7H8FN/c1-5-6(8)3-2-4-7(5)9/h2-4H,9H2,1H3" 
+FLM InChIKey         InChI                1.03  SLDLVGFPFFLYBM-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FLM "SYSTEMATIC NAME" ACDLabs              10.04 3-fluoro-2-methylaniline  
+FLM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-fluoro-2-methyl-aniline 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FLM "Create component"  2003-03-27 RCSB 
+FLM "Modify descriptor" 2011-06-04 RCSB 
+# 

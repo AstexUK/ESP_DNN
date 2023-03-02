@@ -1,0 +1,142 @@
+data_ODI
+# 
+_chem_comp.id                                    ODI 
+_chem_comp.name                                  OCTANE-1,8-DIOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H18 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         1,8-OCTANEDIOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-04-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.227 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ODI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2DM5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ODI OAA  OAA  O 0 1 N N N 51.725 21.066 42.419 5.544  -0.303 0.000  OAA  ODI 1  
+ODI CAC  CAC  C 0 1 N N N 52.447 22.053 41.679 4.366  0.505  0.000  CAC  ODI 2  
+ODI CAE  CAE  C 0 1 N N N 51.989 22.057 40.219 3.129  -0.397 0.000  CAE  ODI 3  
+ODI CAG  CAG  C 0 1 N N N 51.160 23.302 39.904 1.867  0.469  0.000  CAG  ODI 4  
+ODI CAI  CAI  C 0 1 N N N 49.876 23.326 40.737 0.631  -0.433 0.000  CAI  ODI 5  
+ODI CAJ  CAJ  C 0 1 N N N 49.368 24.764 40.848 -0.631 0.433  0.000  CAJ  ODI 6  
+ODI CAH  CAH  C 0 1 N N N 47.858 24.842 40.626 -1.867 -0.469 0.000  CAH  ODI 7  
+ODI CAF  CAF  C 0 1 N N N 47.251 25.898 41.552 -3.129 0.397  0.000  CAF  ODI 8  
+ODI CAD  CAD  C 0 1 N N N 46.207 26.734 40.809 -4.366 -0.505 0.000  CAD  ODI 9  
+ODI OAB  OAB  O 0 1 N N N 46.073 28.000 41.458 -5.544 0.303  0.000  OAB  ODI 10 
+ODI HAA  HAA  H 0 1 N N N 51.565 20.310 41.867 6.298  0.302  0.000  HAA  ODI 11 
+ODI HAC1 1HAC H 0 0 N N N 53.521 21.818 41.719 4.356  1.134  0.890  HAC1 ODI 12 
+ODI HAC2 2HAC H 0 0 N N N 52.262 23.044 42.120 4.356  1.134  -0.890 HAC2 ODI 13 
+ODI HAE1 1HAE H 0 0 N N N 51.364 21.168 40.046 3.138  -1.026 -0.890 HAE1 ODI 14 
+ODI HAE2 2HAE H 0 0 N N N 52.875 22.044 39.567 3.138  -1.026 0.890  HAE2 ODI 15 
+ODI HAG1 1HAG H 0 0 N N N 50.889 23.285 38.838 1.858  1.098  0.890  HAG1 ODI 16 
+ODI HAG2 2HAG H 0 0 N N N 51.755 24.197 40.137 1.858  1.098  -0.890 HAG2 ODI 17 
+ODI HAI1 1HAI H 0 0 N N N 50.084 22.932 41.743 0.640  -1.062 -0.890 HAI1 ODI 18 
+ODI HAI2 2HAI H 0 0 N N N 49.111 22.703 40.250 0.640  -1.062 0.890  HAI2 ODI 19 
+ODI HAJ1 1HAJ H 0 0 N N N 49.864 25.368 40.074 -0.640 1.062  0.890  HAJ1 ODI 20 
+ODI HAJ2 2HAJ H 0 0 N N N 49.599 25.145 41.854 -0.640 1.062  -0.890 HAJ2 ODI 21 
+ODI HAH1 1HAH H 0 0 N N N 47.408 23.863 40.847 -1.858 -1.098 -0.890 HAH1 ODI 22 
+ODI HAH2 2HAH H 0 0 N N N 47.657 25.116 39.580 -1.858 -1.098 0.890  HAH2 ODI 23 
+ODI HAF1 1HAF H 0 0 N N N 48.053 26.564 41.903 -3.138 1.026  0.890  HAF1 ODI 24 
+ODI HAF2 2HAF H 0 0 N N N 46.769 25.395 42.403 -3.138 1.026  -0.890 HAF2 ODI 25 
+ODI HAD1 1HAD H 0 0 N N N 45.240 26.210 40.816 -4.356 -1.134 -0.890 HAD1 ODI 26 
+ODI HAD2 2HAD H 0 0 N N N 46.529 26.885 39.768 -4.356 -1.134 0.890  HAD2 ODI 27 
+ODI HAB  HAB  H 0 1 N N N 46.043 27.872 42.399 -6.298 -0.302 0.000  HAB  ODI 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ODI OAA CAC  SING N N 1  
+ODI OAA HAA  SING N N 2  
+ODI CAC CAE  SING N N 3  
+ODI CAC HAC1 SING N N 4  
+ODI CAC HAC2 SING N N 5  
+ODI CAE CAG  SING N N 6  
+ODI CAE HAE1 SING N N 7  
+ODI CAE HAE2 SING N N 8  
+ODI CAG CAI  SING N N 9  
+ODI CAG HAG1 SING N N 10 
+ODI CAG HAG2 SING N N 11 
+ODI CAI CAJ  SING N N 12 
+ODI CAI HAI1 SING N N 13 
+ODI CAI HAI2 SING N N 14 
+ODI CAJ CAH  SING N N 15 
+ODI CAJ HAJ1 SING N N 16 
+ODI CAJ HAJ2 SING N N 17 
+ODI CAH CAF  SING N N 18 
+ODI CAH HAH1 SING N N 19 
+ODI CAH HAH2 SING N N 20 
+ODI CAF CAD  SING N N 21 
+ODI CAF HAF1 SING N N 22 
+ODI CAF HAF2 SING N N 23 
+ODI CAD OAB  SING N N 24 
+ODI CAD HAD1 SING N N 25 
+ODI CAD HAD2 SING N N 26 
+ODI OAB HAB  SING N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ODI SMILES           ACDLabs              10.04 OCCCCCCCCO                                          
+ODI SMILES_CANONICAL CACTVS               3.341 OCCCCCCCCO                                          
+ODI SMILES           CACTVS               3.341 OCCCCCCCCO                                          
+ODI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CCCCO)CCCO"                                      
+ODI SMILES           "OpenEye OEToolkits" 1.5.0 "C(CCCCO)CCCO"                                      
+ODI InChI            InChI                1.03  InChI=1S/C8H18O2/c9-7-5-3-1-2-4-6-8-10/h9-10H,1-8H2 
+ODI InChIKey         InChI                1.03  OEIJHBUUFURJLI-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ODI "SYSTEMATIC NAME" ACDLabs              10.04 octane-1,8-diol 
+ODI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 octane-1,8-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ODI "Create component"  2006-04-23 RCSB 
+ODI "Modify descriptor" 2011-06-04 RCSB 
+# 

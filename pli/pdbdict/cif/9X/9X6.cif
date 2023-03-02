@@ -1,0 +1,119 @@
+data_9X6
+# 
+_chem_comp.id                                    9X6 
+_chem_comp.name                                  "thiodiglycolic acid" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "2-(2-hydroxy-2-oxoethylsulfanyl)ethanoic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-07-29 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.153 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     9X6 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4BZS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+9X6 C3   C3   C 0 1 N N N 34.166 -15.711 -36.642 -2.697 0.026  -0.001 C3   9X6 1  
+9X6 C4   C4   C 0 1 N N N 35.151 -15.296 -35.569 -1.420 0.826  0.000  C4   9X6 2  
+9X6 C2   C2   C 0 1 N N N 32.654 -14.739 -34.044 1.420  0.826  0.001  C2   9X6 3  
+9X6 C1   C1   C 0 1 N N N 32.312 -13.578 -34.955 2.697  0.026  0.000  C1   9X6 4  
+9X6 S2   S2   S 0 1 N N N 34.391 -15.078 -33.985 0.000  -0.304 -0.001 S2   9X6 5  
+9X6 O4   O4   O 0 1 N N N 34.246 -15.153 -37.755 -2.655 -1.181 0.003  O4   9X6 6  
+9X6 O3   O3   O 0 1 N N N 33.308 -16.583 -36.396 -3.883 0.656  -0.001 O3   9X6 7  
+9X6 O2   O2   O 0 1 N N N 32.413 -13.725 -36.185 3.883  0.656  0.001  O2   9X6 8  
+9X6 O1   O1   O 0 1 N N N 31.916 -12.504 -34.460 2.655  -1.181 -0.001 O1   9X6 9  
+9X6 H3   H3   H 0 1 N N N 32.770 -16.725 -37.166 -4.675 0.101  -0.001 H3   9X6 10 
+9X6 H41C H41C H 0 0 N N N 35.925 -16.073 -35.483 -1.384 1.455  -0.889 H41C 9X6 11 
+9X6 H42C H42C H 0 0 N N N 35.617 -14.346 -35.869 -1.384 1.453  0.891  H42C 9X6 12 
+9X6 H21C H21C H 0 0 N N N 32.133 -15.637 -34.408 1.384  1.453  0.891  H21C 9X6 13 
+9X6 H22C H22C H 0 0 N N N 32.308 -14.502 -33.027 1.384  1.455  -0.889 H22C 9X6 14 
+9X6 H2   H2   H 0 1 N N N 32.150 -12.924 -36.623 4.675  0.101  0.001  H2   9X6 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+9X6 O4 C3   DOUB N N 1  
+9X6 C3 O3   SING N N 2  
+9X6 C3 C4   SING N N 3  
+9X6 C4 S2   SING N N 4  
+9X6 S2 C2   SING N N 5  
+9X6 C2 C1   SING N N 6  
+9X6 C1 O1   DOUB N N 7  
+9X6 C1 O2   SING N N 8  
+9X6 O3 H3   SING N N 9  
+9X6 C4 H41C SING N N 10 
+9X6 C4 H42C SING N N 11 
+9X6 C2 H21C SING N N 12 
+9X6 C2 H22C SING N N 13 
+9X6 O2 H2   SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+9X6 SMILES           ACDLabs              12.01 "O=C(O)CSCC(=O)O"                                           
+9X6 InChI            InChI                1.03  "InChI=1S/C4H6O4S/c5-3(6)1-9-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)" 
+9X6 InChIKey         InChI                1.03  UVZICZIVKIMRNE-UHFFFAOYSA-N                                 
+9X6 SMILES_CANONICAL CACTVS               3.385 "OC(=O)CSCC(O)=O"                                           
+9X6 SMILES           CACTVS               3.385 "OC(=O)CSCC(O)=O"                                           
+9X6 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "C(C(=O)O)SCC(=O)O"                                         
+9X6 SMILES           "OpenEye OEToolkits" 1.9.2 "C(C(=O)O)SCC(=O)O"                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+9X6 "SYSTEMATIC NAME" ACDLabs              12.01 
+;2,2'-sulfanediyldiacetic acid
+;
+9X6 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "2-(2-hydroxy-2-oxoethylsulfanyl)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+9X6 "Create component"  2013-07-29 EBI  
+9X6 "Initial release"   2014-02-26 RCSB 
+9X6 "Modify descriptor" 2014-09-05 RCSB 
+# 

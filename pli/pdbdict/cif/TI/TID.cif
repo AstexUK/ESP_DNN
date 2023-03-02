@@ -1,0 +1,133 @@
+data_TID
+# 
+_chem_comp.id                                    TID 
+_chem_comp.name                                  "4-(5-amino-1,3,4-thiadiazol-2-yl)benzoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H7 N3 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-20 
+_chem_comp.pdbx_modified_date                    2012-03-30 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        221.236 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TID 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3AXW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TID C1   C1   C 0 1 Y N N 37.108 4.278  -12.330 0.756  1.317  -0.001 C1   TID 1  
+TID C2   C2   C 0 1 Y N N 36.472 5.230  -13.174 -0.026 0.158  0.001  C2   TID 2  
+TID C3   C3   C 0 1 Y N N 35.830 4.817  -14.357 0.586  -1.099 0.002  C3   TID 3  
+TID C4   C4   C 0 1 Y N N 35.767 3.445  -14.681 1.948  -1.195 0.002  C4   TID 4  
+TID C5   C5   C 0 1 Y N N 36.368 2.493  -13.827 2.731  -0.036 -0.000 C5   TID 5  
+TID C6   C6   C 0 1 Y N N 37.049 2.907  -12.650 2.118  1.222  -0.001 C6   TID 6  
+TID C13  C13  C 0 1 N N N 36.273 1.064  -14.179 4.202  -0.139 0.000  C13  TID 7  
+TID O15  O15  O 0 1 N N N 36.886 0.237  -13.493 4.734  -1.231 0.002  O15  TID 8  
+TID O17  O17  O 0 1 N N N 35.556 0.734  -15.139 4.956  0.978  -0.001 O17  TID 9  
+TID C19  C19  C 0 1 Y N N 36.540 6.583  -12.835 -1.499 0.261  0.001  C19  TID 10 
+TID N21  N21  N 0 1 Y N N 36.264 7.661  -13.609 -2.193 1.366  0.000  N21  TID 11 
+TID N22  N22  N 0 1 Y N N 36.453 8.873  -13.018 -3.449 1.240  0.001  N22  TID 12 
+TID C23  C23  C 0 1 Y N N 36.895 8.808  -11.715 -3.934 0.031  0.002  C23  TID 13 
+TID S24  S24  S 0 1 Y N N 37.044 7.171  -11.280 -2.636 -1.087 -0.004 S24  TID 14 
+TID N30  N30  N 0 1 N N N 37.244 9.829  -10.709 -5.279 -0.297 0.003  N30  TID 15 
+TID H1   H1   H 0 1 N N N 37.635 4.605  -11.446 0.282  2.288  -0.005 H1   TID 16 
+TID H3   H3   H 0 1 N N N 35.386 5.549  -15.016 -0.018 -1.994 0.003  H3   TID 17 
+TID H4   H4   H 0 1 N N N 35.261 3.123  -15.579 2.421  -2.166 0.003  H4   TID 18 
+TID H6   H6   H 0 1 N N N 37.517 2.177  -12.006 2.722  2.117  -0.002 H6   TID 19 
+TID HO17 HO17 H 0 0 N N N 35.570 -0.211 -15.235 5.916  0.860  -0.001 HO17 TID 20 
+TID HN30 HN30 H 0 0 N N N 37.118 10.740 -11.101 -5.949 0.404  0.002  HN30 TID 21 
+TID HN3A HN3A H 0 0 N N N 36.652 9.725  -9.910  -5.551 -1.228 0.004  HN3A TID 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TID C1  C2   DOUB Y N 1  
+TID C1  C6   SING Y N 2  
+TID C2  C3   SING Y N 3  
+TID C2  C19  SING Y N 4  
+TID C3  C4   DOUB Y N 5  
+TID C4  C5   SING Y N 6  
+TID C5  C6   DOUB Y N 7  
+TID C5  C13  SING N N 8  
+TID C13 O15  DOUB N N 9  
+TID C13 O17  SING N N 10 
+TID C19 N21  DOUB Y N 11 
+TID C19 S24  SING Y N 12 
+TID N21 N22  SING Y N 13 
+TID N22 C23  DOUB Y N 14 
+TID C23 S24  SING Y N 15 
+TID C23 N30  SING N N 16 
+TID C1  H1   SING N N 17 
+TID C3  H3   SING N N 18 
+TID C4  H4   SING N N 19 
+TID C6  H6   SING N N 20 
+TID O17 HO17 SING N N 21 
+TID N30 HN30 SING N N 22 
+TID N30 HN3A SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TID SMILES           ACDLabs              12.01 "O=C(O)c2ccc(c1nnc(s1)N)cc2"                                                            
+TID SMILES_CANONICAL CACTVS               3.370 "Nc1sc(nn1)c2ccc(cc2)C(O)=O"                                                            
+TID SMILES           CACTVS               3.370 "Nc1sc(nn1)c2ccc(cc2)C(O)=O"                                                            
+TID SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "c1cc(ccc1c2nnc(s2)N)C(=O)O"                                                            
+TID SMILES           "OpenEye OEToolkits" 1.7.2 "c1cc(ccc1c2nnc(s2)N)C(=O)O"                                                            
+TID InChI            InChI                1.03  "InChI=1S/C9H7N3O2S/c10-9-12-11-7(15-9)5-1-3-6(4-2-5)8(13)14/h1-4H,(H2,10,12)(H,13,14)" 
+TID InChIKey         InChI                1.03  LQHNMNCRCCSJQW-UHFFFAOYSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TID "SYSTEMATIC NAME" ACDLabs              12.01 "4-(5-amino-1,3,4-thiadiazol-2-yl)benzoic acid"  
+TID "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "4-(5-azanyl-1,3,4-thiadiazol-2-yl)benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TID "Create component"     2011-04-20 PDBJ 
+TID "Modify aromatic_flag" 2011-06-04 RCSB 
+TID "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,204 @@
+data_NHS
+# 
+_chem_comp.id                                    NHS 
+_chem_comp.name                                  "10-FORMYL-5,8,10-TRIDEAZAFOLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C23 H22 N4 O8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        482.443 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NHS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C2T 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NHS N1   N1   N 0 1 Y N N 22.645 1.378 22.684 -2.975 0.998  -4.657 N1   NHS 1  
+NHS C2   C2   C 0 1 Y N N 23.578 1.776 21.881 -3.972 0.943  -3.810 C2   NHS 2  
+NHS NA2  NA2  N 0 1 N N N 24.781 1.162 21.935 -5.155 1.548  -4.152 NA2  NHS 3  
+NHS N3   N3   N 0 1 Y N N 23.354 2.844 20.908 -3.889 0.316  -2.601 N3   NHS 4  
+NHS C4   C4   C 0 1 Y N N 22.156 3.516 20.813 -2.744 -0.298 -2.222 C4   NHS 5  
+NHS O4   O4   O 0 1 N N N 22.038 4.407 19.969 -2.658 -0.865 -1.148 O4   NHS 6  
+NHS C4A  C4A  C 0 1 Y N N 21.020 3.075 21.739 -1.608 -0.252 -3.152 C4A  NHS 7  
+NHS C5   C5   C 0 1 Y N N 19.744 3.691 21.761 -0.385 -0.850 -2.853 C5   NHS 8  
+NHS C6   C6   C 0 1 Y N N 18.761 3.224 22.661 0.638  -0.778 -3.756 C6   NHS 9  
+NHS C7   C7   C 0 1 Y N N 19.064 2.159 23.558 0.473  -0.115 -4.966 C7   NHS 10 
+NHS C8   C8   C 0 1 Y N N 20.336 1.544 23.564 -0.714 0.480  -5.284 C8   NHS 11 
+NHS C8A  C8A  C 0 1 Y N N 21.333 2.005 22.690 -1.780 0.423  -4.382 C8A  NHS 12 
+NHS C9   C9   C 0 1 N N N 17.386 3.873 22.697 1.962  -1.423 -3.435 C9   NHS 13 
+NHS C10  C10  C 0 1 N N S 17.076 5.229 23.490 2.898  -0.385 -2.814 C10  NHS 14 
+NHS C11  C11  C 0 1 Y N N 19.112 5.918 27.461 1.329  0.869  0.960  C11  NHS 15 
+NHS C12  C12  C 0 1 Y N N 18.674 4.617 27.068 1.525  1.799  -0.061 C12  NHS 16 
+NHS C13  C13  C 0 1 Y N N 18.044 4.395 25.823 2.032  1.388  -1.276 C13  NHS 17 
+NHS C14  C14  C 0 1 Y N N 17.826 5.466 24.903 2.345  0.056  -1.483 C14  NHS 18 
+NHS C15  C15  C 0 1 Y N N 18.271 6.780 25.297 2.149  -0.871 -0.476 C15  NHS 19 
+NHS C16  C16  C 0 1 Y N N 18.897 6.994 26.550 1.648  -0.472 0.745  C16  NHS 20 
+NHS C    C    C 0 1 N N N 19.390 6.382 32.193 0.787  1.303  2.265  C    NHS 21 
+NHS O    O    O 0 1 N N N 19.538 7.607 32.020 0.510  2.472  2.450  O    NHS 22 
+NHS N    N    N 0 1 N N N 19.540 5.247 29.818 0.599  0.402  3.250  N    NHS 23 
+NHS CA   CA   C 0 1 N N S 20.015 5.278 31.239 0.061  0.832  4.543  CA   NHS 24 
+NHS CB   CB   C 0 1 N N N 21.571 5.291 31.293 -0.732 -0.314 5.172  CB   NHS 25 
+NHS CG   CG   C 0 1 N N N 22.333 3.935 31.287 -1.884 -0.705 4.246  CG   NHS 26 
+NHS CD   CD   C 0 1 N N N 21.486 2.674 31.490 -2.666 -1.834 4.865  CD   NHS 27 
+NHS OE1  OE1  O 0 1 N N N 20.822 2.132 30.598 -2.335 -2.281 5.938  OE1  NHS 28 
+NHS OE2  OE2  O 0 1 N N N 21.555 2.214 32.766 -3.730 -2.345 4.226  OE2  NHS 29 
+NHS CT   CT   C 0 1 N N N 19.766 6.161 28.825 1.197  1.217  5.456  CT   NHS 30 
+NHS O1   O1   O 0 1 N N N 20.458 7.178 29.042 1.031  2.064  6.302  O1   NHS 31 
+NHS O2   O2   O 0 1 N N N 18.656 5.865 33.243 2.392  0.619  5.330  O2   NHS 32 
+NHS CA1  CA1  C 0 1 N N N 16.899 6.523 22.664 4.262  -0.995 -2.613 CA1  NHS 33 
+NHS OA1  OA1  O 0 1 N N N 16.085 7.314 23.141 5.362  -0.239 -2.751 OA1  NHS 34 
+NHS OA2  OA2  O 0 1 N N N 16.817 6.452 21.439 4.365  -2.165 -2.329 OA2  NHS 35 
+NHS HN21 1HN2 H 0 0 N N N 25.516 1.475 21.301 -5.237 2.003  -5.005 HN21 NHS 36 
+NHS HN22 2HN2 H 0 0 N N N 24.646 0.158 21.814 -5.909 1.517  -3.544 HN22 NHS 37 
+NHS HN3  HN3  H 0 1 N N N 24.079 3.138 20.254 -4.658 0.305  -2.010 HN3  NHS 38 
+NHS H5   H5   H 0 1 N N N 19.517 4.529 21.081 -0.248 -1.368 -1.915 H5   NHS 39 
+NHS H7   H7   H 0 1 N N N 18.295 1.802 24.264 1.295  -0.070 -5.664 H7   NHS 40 
+NHS H8   H8   H 0 1 N N N 20.550 0.706 24.249 -0.829 0.991  -6.228 H8   NHS 41 
+NHS H91  1H9  H 0 1 N N N 17.062 4.024 21.640 1.806  -2.240 -2.731 H91  NHS 42 
+NHS H92  2H9  H 0 1 N N N 16.665 3.103 23.060 2.407  -1.813 -4.351 H92  NHS 43 
+NHS H10  H10  H 0 1 N N N 16.034 4.966 23.789 2.979  0.474  -3.478 H10  NHS 44 
+NHS H12  H12  H 0 1 N N N 18.826 3.759 27.745 1.280  2.839  0.099  H12  NHS 45 
+NHS H13  H13  H 0 1 N N N 17.718 3.373 25.566 2.184  2.106  -2.068 H13  NHS 46 
+NHS H15  H15  H 0 1 N N N 18.129 7.642 24.623 2.396  -1.909 -0.644 H15  NHS 47 
+NHS H16  H16  H 0 1 N N N 19.221 8.012 26.820 1.498  -1.197 1.531  H16  NHS 48 
+NHS HN   HN   H 0 1 N N N 19.456 4.948 28.846 0.819  -0.530 3.102  HN   NHS 49 
+NHS HA   HA   H 0 1 N N N 19.682 5.091 32.286 -0.594 1.690  4.397  HA   NHS 50 
+NHS HB1  1HB  H 0 1 N N N 21.955 5.923 30.459 -0.076 -1.172 5.319  HB1  NHS 51 
+NHS HB2  2HB  H 0 1 N N N 21.895 5.882 32.180 -1.131 0.005  6.135  HB2  NHS 52 
+NHS HG1  1HG  H 0 1 N N N 22.925 3.841 30.347 -2.540 0.153  4.099  HG1  NHS 53 
+NHS HG2  2HG  H 0 1 N N N 23.152 3.961 32.042 -1.485 -1.025 3.283  HG2  NHS 54 
+NHS HOE2 2HOE H 0 0 N N N 21.030 1.432 32.891 -4.232 -3.069 4.623  HOE2 NHS 55 
+NHS HO2  HO2  H 0 1 N N N 18.564 6.189 32.355 3.120  0.866  5.915  HO2  NHS 56 
+NHS HXT  HXT  H 0 1 N N N 15.976 8.109 22.633 6.237  -0.630 -2.623 HXT  NHS 57 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NHS N1  C2   DOUB Y N 1  
+NHS N1  C8A  SING Y N 2  
+NHS C2  NA2  SING N N 3  
+NHS C2  N3   SING Y N 4  
+NHS NA2 HN21 SING N N 5  
+NHS NA2 HN22 SING N N 6  
+NHS N3  C4   SING Y N 7  
+NHS N3  HN3  SING N N 8  
+NHS C4  O4   DOUB N N 9  
+NHS C4  C4A  SING Y N 10 
+NHS C4A C5   DOUB Y N 11 
+NHS C4A C8A  SING Y N 12 
+NHS C5  C6   SING Y N 13 
+NHS C5  H5   SING N N 14 
+NHS C6  C7   DOUB Y N 15 
+NHS C6  C9   SING N N 16 
+NHS C7  C8   SING Y N 17 
+NHS C7  H7   SING N N 18 
+NHS C8  C8A  DOUB Y N 19 
+NHS C8  H8   SING N N 20 
+NHS C9  C10  SING N N 21 
+NHS C9  H91  SING N N 22 
+NHS C9  H92  SING N N 23 
+NHS C10 C14  SING N N 24 
+NHS C10 CA1  SING N N 25 
+NHS C10 H10  SING N N 26 
+NHS C11 C12  DOUB Y N 27 
+NHS C11 C16  SING Y N 28 
+NHS C11 C    SING N N 29 
+NHS C12 C13  SING Y N 30 
+NHS C12 H12  SING N N 31 
+NHS C13 C14  DOUB Y N 32 
+NHS C13 H13  SING N N 33 
+NHS C14 C15  SING Y N 34 
+NHS C15 C16  DOUB Y N 35 
+NHS C15 H15  SING N N 36 
+NHS C16 H16  SING N N 37 
+NHS C   O    DOUB N N 38 
+NHS C   N    SING N N 39 
+NHS N   CA   SING N N 40 
+NHS N   HN   SING N N 41 
+NHS CA  CB   SING N N 42 
+NHS CA  CT   SING N N 43 
+NHS CA  HA   SING N N 44 
+NHS CB  CG   SING N N 45 
+NHS CB  HB1  SING N N 46 
+NHS CB  HB2  SING N N 47 
+NHS CG  CD   SING N N 48 
+NHS CG  HG1  SING N N 49 
+NHS CG  HG2  SING N N 50 
+NHS CD  OE1  DOUB N N 51 
+NHS CD  OE2  SING N N 52 
+NHS OE2 HOE2 SING N N 53 
+NHS CT  O1   DOUB N N 54 
+NHS CT  O2   SING N N 55 
+NHS O2  HO2  SING N N 56 
+NHS CA1 OA1  SING N N 57 
+NHS CA1 OA2  DOUB N N 58 
+NHS OA1 HXT  SING N N 59 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NHS SMILES           ACDLabs              10.04 "O=C(O)C(NC(=O)c1ccc(cc1)C(C(=O)O)Cc3ccc2N=C(NC(=O)c2c3)N)CCC(=O)O" 
+NHS SMILES_CANONICAL CACTVS               3.341 "NC1=Nc2ccc(C[C@H](C(O)=O)c3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)cc2C(=O)N1" 
+NHS SMILES           CACTVS               3.341 "NC1=Nc2ccc(C[CH](C(O)=O)c3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O)cc2C(=O)N1" 
+NHS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1[C@H](Cc2ccc3c(c2)C(=O)NC(=N3)N)C(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)O" 
+NHS SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1C(Cc2ccc3c(c2)C(=O)NC(=N3)N)C(=O)O)C(=O)NC(CCC(=O)O)C(=O)O" 
+NHS InChI            InChI                1.03  
+"InChI=1S/C23H22N4O8/c24-23-26-16-6-1-11(10-15(16)20(31)27-23)9-14(21(32)33)12-2-4-13(5-3-12)19(30)25-17(22(34)35)7-8-18(28)29/h1-6,10,14,17H,7-9H2,(H,25,30)(H,28,29)(H,32,33)(H,34,35)(H3,24,26,27,31)/t14-,17-/m0/s1" 
+NHS InChIKey         InChI                1.03  DAOQLLQRJAXMGY-YOEHRIQHSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NHS "SYSTEMATIC NAME" ACDLabs              10.04 "N-({4-[(1S)-2-(2-amino-4-oxo-3,4-dihydroquinazolin-6-yl)-1-carboxyethyl]phenyl}carbonyl)-L-glutamic acid"                 
+NHS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[[4-[(2S)-3-(2-amino-4-oxo-3H-quinazolin-6-yl)-1-hydroxy-1-oxo-propan-2-yl]phenyl]carbonylamino]pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NHS "Create component"  1999-07-30 RCSB 
+NHS "Modify descriptor" 2011-06-04 RCSB 
+# 

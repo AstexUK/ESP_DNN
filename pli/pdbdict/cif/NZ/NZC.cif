@@ -1,0 +1,126 @@
+data_NZC
+# 
+_chem_comp.id                                    NZC 
+_chem_comp.name                                  N-methylidene-L-threonine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               THR 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-02-05 
+_chem_comp.pdbx_modified_date                    2015-05-29 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NZC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        5AGU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NZC N    N    N 0 1 N N N -24.985 62.264 -27.042 0.312  1.378  0.378  N    NZC 1  
+NZC O    O    O 0 1 N N N -27.101 61.912 -25.078 -1.950 0.104  0.744  O    NZC 2  
+NZC OG1  OG1  O 0 1 N N N -27.041 64.481 -27.299 1.175  -1.214 1.151  OG1  NZC 3  
+NZC C    C    C 0 1 N N N -26.422 62.934 -25.022 -1.270 -0.398 -0.118 C    NZC 4  
+NZC CA   CA   C 0 1 N N S -25.348 63.310 -26.028 0.069  0.201  -0.466 CA   NZC 5  
+NZC CB   CB   C 0 1 N N R -25.736 64.619 -26.734 1.169  -0.835 -0.227 CB   NZC 6  
+NZC CG2  CG2  C 0 1 N N N -24.747 64.943 -27.846 2.526  -0.232 -0.595 CG2  NZC 7  
+NZC C40  C40  C 0 1 N N N -26.102 61.698 -27.873 -0.263 2.587  -0.226 C40  NZC 8  
+NZC OXT  OXT  O 0 1 N Y N -26.584 63.816 -24.047 -1.705 -1.490 -0.766 OXT  NZC 9  
+NZC HG1  HG1  H 0 1 N N N -27.284 65.289 -27.736 1.336  -0.480 1.760  HG1  NZC 10 
+NZC HA   HA   H 0 1 N N N -24.437 63.525 -25.451 0.072  0.498  -1.515 HA   NZC 11 
+NZC HB   HB   H 0 1 N N N -25.725 65.435 -25.997 0.982  -1.713 -0.844 HB   NZC 12 
+NZC HG2  HG2  H 0 1 N N N -23.738 65.051 -27.420 3.294  -1.003 -0.539 HG2  NZC 13 
+NZC HG2A HG2A H 0 0 N N N -24.747 64.129 -28.586 2.484  0.166  -1.609 HG2A NZC 14 
+NZC HG2B HG2B H 0 0 N N N -25.041 65.883 -28.336 2.768  0.572  0.101  HG2B NZC 15 
+NZC H40  H40  H 0 1 N N N -25.698 60.948 -28.569 -1.339 2.458  -0.344 H40  NZC 16 
+NZC H40A H40A H 0 0 N N N -26.845 61.224 -27.215 -0.068 3.444  0.419  H40A NZC 17 
+NZC HOXT HOXT H 0 0 N Y N -27.269 63.518 -23.460 -2.569 -1.838 -0.508 HOXT NZC 18 
+NZC H40B H40B H 0 0 N N N -26.581 62.507 -28.444 0.191  2.757  -1.203 H40B NZC 19 
+NZC H    H    H 0 1 N N N -24.560 61.504 -26.551 1.298  1.497  0.556  H    NZC 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NZC C40 N    SING N N 1  
+NZC N   CA   SING N N 2  
+NZC O   C    DOUB N N 3  
+NZC OG1 CB   SING N N 4  
+NZC OG1 HG1  SING N N 5  
+NZC CA  C    SING N N 6  
+NZC C   OXT  SING N N 7  
+NZC CB  CA   SING N N 8  
+NZC CA  HA   SING N N 9  
+NZC CG2 CB   SING N N 10 
+NZC CB  HB   SING N N 11 
+NZC CG2 HG2  SING N N 12 
+NZC CG2 HG2A SING N N 13 
+NZC CG2 HG2B SING N N 14 
+NZC C40 H40  SING N N 15 
+NZC C40 H40A SING N N 16 
+NZC C40 H40B SING N N 17 
+NZC OXT HOXT SING N N 18 
+NZC N   H    SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NZC SMILES           ACDLabs              12.01 "O=C(O)C(NC)C(O)C"                                                          
+NZC InChI            InChI                1.03  "InChI=1S/C5H11NO3/c1-3(7)4(6-2)5(8)9/h3-4,6-7H,1-2H3,(H,8,9)/t3-,4+/m1/s1" 
+NZC InChIKey         InChI                1.03  CCAIIPMIAFGKSI-DMTCNVIQSA-N                                                 
+NZC SMILES_CANONICAL CACTVS               3.385 "CN[C@@H]([C@@H](C)O)C(O)=O"                                                
+NZC SMILES           CACTVS               3.385 "CN[CH]([CH](C)O)C(O)=O"                                                    
+NZC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@H]([C@@H](C(=O)O)NC)O"                                                 
+NZC SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C(C(=O)O)NC)O"                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NZC "SYSTEMATIC NAME" ACDLabs              12.01 N-methyl-L-threonine                               
+NZC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S,3R)-2-(methylamino)-3-oxidanyl-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NZC "Create component" 2015-02-05 EBI  
+NZC "Initial release"  2015-06-03 RCSB 
+# 

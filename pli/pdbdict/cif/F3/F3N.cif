@@ -1,0 +1,211 @@
+data_F3N
+# 
+_chem_comp.id                                    F3N 
+_chem_comp.name                                  
+;3'-deoxy-3'-(L-phenylalanylamino)adenosine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C19 H24 N7 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               A 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-05-18 
+_chem_comp.pdbx_modified_date                    2014-08-15 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        493.410 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     F3N 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4QCM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+F3N P      P      P 0 1 N N N 90.306 -48.358 0.151  0.054  5.181  0.164  P      F3N 1  
+F3N OP1    OP1    O 0 1 N N N 91.329 -49.290 -0.356 1.480  5.345  -0.197 OP1    F3N 2  
+F3N OP2    OP2    O 0 1 N N N 90.536 -46.895 0.095  -0.869 5.635  -1.075 OP2    F3N 3  
+F3N "C1'"  "C1'"  C 0 1 N N R 85.631 -48.344 1.028  -2.047 -0.282 0.468  "C1'"  F3N 4  
+F3N "C2'"  "C2'"  C 0 1 N N R 85.009 -48.577 -0.346 -1.059 -0.965 -0.504 "C2'"  F3N 5  
+F3N "O2'"  "O2'"  O 0 1 N N N 84.023 -49.606 -0.210 -0.575 -2.189 0.053  "O2'"  F3N 6  
+F3N "C3'"  "C3'"  C 0 1 N N S 86.176 -49.084 -1.152 0.091  0.056  -0.650 "C3'"  F3N 7  
+F3N "N3'"  "N3'"  N 0 1 N N N 85.779 -49.981 -2.252 1.352  -0.521 -0.175 "N3'"  F3N 8  
+F3N "C4'"  "C4'"  C 0 1 N N S 86.926 -49.907 -0.131 -0.337 1.235  0.251  "C4'"  F3N 9  
+F3N "O4'"  "O4'"  O 0 1 N N N 86.857 -49.122 1.076  -1.775 1.130  0.337  "O4'"  F3N 10 
+F3N "C5'"  "C5'"  C 0 1 N N N 88.386 -50.003 -0.544 0.063  2.566  -0.388 "C5'"  F3N 11 
+F3N "O5'"  "O5'"  O 0 1 N N N 88.915 -48.682 -0.568 -0.237 3.636  0.511  "O5'"  F3N 12 
+F3N N9     N9     N 0 1 Y N N 85.949 -46.909 1.236  -3.429 -0.574 0.079  N9     F3N 13 
+F3N C8     C8     C 0 1 Y N N 86.867 -46.175 0.586  -4.209 0.176  -0.751 C8     F3N 14 
+F3N N7     N7     N 0 1 Y N N 86.839 -44.938 1.050  -5.381 -0.376 -0.877 N7     F3N 15 
+F3N C6     C6     C 0 1 Y N N 85.499 -43.862 2.754  -6.403 -2.492 0.104  C6     F3N 16 
+F3N N6     N6     N 0 1 N N N 86.059 -42.655 2.625  -7.655 -2.406 -0.480 N6     F3N 17 
+F3N C5     C5     C 0 1 Y N N 85.922 -44.867 1.984  -5.427 -1.511 -0.139 C5     F3N 18 
+F3N C4     C4     C 0 1 Y N N 85.363 -46.067 2.108  -4.174 -1.654 0.479  C4     F3N 19 
+F3N N3     N3     N 0 1 Y N N 84.383 -46.274 3.007  -3.957 -2.705 1.263  N3     F3N 20 
+F3N C2     C2     C 0 1 Y N N 83.972 -45.257 3.778  -4.899 -3.603 1.458  C2     F3N 21 
+F3N N1     N1     N 0 1 Y N N 84.528 -44.047 3.648  -6.091 -3.513 0.896  N1     F3N 22 
+F3N C      C      C 0 1 N N N 86.547 -50.123 -3.349 2.118  -1.248 -1.013 C      F3N 23 
+F3N O      O      O 0 1 N N N 87.500 -49.401 -3.620 1.763  -1.425 -2.159 O      F3N 24 
+F3N CA     CA     C 0 1 N N S 86.195 -51.310 -4.237 3.414  -1.841 -0.525 CA     F3N 25 
+F3N N      N      N 0 1 N N N 86.433 -51.038 -5.679 3.814  -2.942 -1.412 N      F3N 26 
+F3N CB     CB     C 0 1 N N N 87.070 -52.461 -3.724 4.501  -0.763 -0.529 CB     F3N 27 
+F3N CG     CG     C 0 1 Y N N 86.706 -53.689 -4.260 5.764  -1.322 0.073  CG     F3N 28 
+F3N CD1    CD1    C 0 1 Y N N 87.519 -54.302 -5.207 5.985  -1.220 1.434  CD1    F3N 29 
+F3N CE1    CE1    C 0 1 Y N N 87.166 -55.541 -5.728 7.142  -1.737 1.987  CE1    F3N 30 
+F3N CZ     CZ     C 0 1 Y N N 86.006 -56.172 -5.297 8.077  -2.356 1.179  CZ     F3N 31 
+F3N CE2    CE2    C 0 1 Y N N 85.196 -55.563 -4.346 7.856  -2.459 -0.181 CE2    F3N 32 
+F3N CD2    CD2    C 0 1 Y N N 85.551 -54.326 -3.821 6.700  -1.941 -0.735 CD2    F3N 33 
+F3N OP3    OP3    O 0 1 N Y N 90.013 -48.736 1.676  -0.284 6.092  1.447  OP3    F3N 34 
+F3N HOP2   HOP2   H 0 0 N N N 91.386 -46.722 -0.293 -1.818 5.554  -0.909 HOP2   F3N 35 
+F3N "H1'"  "H1'"  H 0 1 N N N 84.932 -48.687 1.805  -1.864 -0.610 1.491  "H1'"  F3N 36 
+F3N "H2'"  "H2'"  H 0 1 N N N 84.600 -47.645 -0.764 -1.536 -1.148 -1.467 "H2'"  F3N 37 
+F3N "HO2'" "HO2'" H 0 0 N N N 83.291 -49.278 0.299  -1.266 -2.845 0.222  "HO2'" F3N 38 
+F3N "H3'"  "H3'"  H 0 1 N N N 86.795 -48.251 -1.516 0.184  0.380  -1.686 "H3'"  F3N 39 
+F3N H6     H6     H 0 1 N N N 84.923 -50.494 -2.182 1.636  -0.379 0.741  H6     F3N 40 
+F3N "H4'"  "H4'"  H 0 1 N N N 86.478 -50.905 -0.011 0.110  1.139  1.241  "H4'"  F3N 41 
+F3N "H5'"  "H5'"  H 0 1 N N N 88.464 -50.456 -1.543 1.131  2.560  -0.602 "H5'"  F3N 42 
+F3N "H5''" "H5''" H 0 0 N N N 88.941 -50.616 0.181  -0.493 2.705  -1.316 "H5''" F3N 43 
+F3N H8     H8     H 0 1 N N N 87.523 -46.538 -0.191 -3.900 1.092  -1.232 H8     F3N 44 
+F3N H61    H61    H 0 1 N N N 85.633 -42.019 3.269  -8.317 -3.095 -0.313 H61    F3N 45 
+F3N H62    H62    H 0 1 N N N 87.038 -42.720 2.818  -7.871 -1.656 -1.056 H62    F3N 46 
+F3N HA     HA     H 0 1 N N N 85.138 -51.571 -4.083 3.282  -2.220 0.488  HA     F3N 47 
+F3N H      H      H 0 1 N N N 85.847 -50.284 -5.978 3.143  -3.695 -1.377 H      F3N 48 
+F3N H2     H2     H 0 1 N N N 83.190 -45.415 4.506  -4.690 -4.445 2.101  H2     F3N 49 
+F3N HB3    HB3    H 0 1 N N N 86.977 -52.513 -2.629 4.696  -0.447 -1.554 HB3    F3N 50 
+F3N HB2    HB2    H 0 1 N N N 88.116 -52.255 -3.994 4.166  0.092  0.058  HB2    F3N 51 
+F3N HD1    HD1    H 0 1 N N N 88.425 -53.815 -5.538 5.254  -0.737 2.065  HD1    F3N 52 
+F3N HE1    HE1    H 0 1 N N N 87.794 -56.014 -6.469 7.315  -1.658 3.050  HE1    F3N 53 
+F3N HZ     HZ     H 0 1 N N N 85.734 -57.136 -5.701 8.981  -2.760 1.611  HZ     F3N 54 
+F3N HE2    HE2    H 0 1 N N N 84.291 -56.051 -4.015 8.587  -2.942 -0.812 HE2    F3N 55 
+F3N HD2    HD2    H 0 1 N N N 84.929 -53.859 -3.071 6.525  -2.024 -1.797 HD2    F3N 56 
+F3N HOP3   HOP3   H 0 0 N N N 90.555 -49.474 1.930  -0.132 7.037  1.310  HOP3   F3N 57 
+F3N H1     H1     H 0 1 N N N 87.392 -50.790 -5.818 3.943  -2.615 -2.358 H1     F3N 58 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+F3N CE1   CZ     DOUB Y N 1  
+F3N CE1   CD1    SING Y N 2  
+F3N N     CA     SING N N 3  
+F3N CZ    CE2    SING Y N 4  
+F3N CD1   CG     DOUB Y N 5  
+F3N CE2   CD2    DOUB Y N 6  
+F3N CG    CD2    SING Y N 7  
+F3N CG    CB     SING N N 8  
+F3N CA    CB     SING N N 9  
+F3N CA    C      SING N N 10 
+F3N O     C      DOUB N N 11 
+F3N C     "N3'"  SING N N 12 
+F3N "N3'" "C3'"  SING N N 13 
+F3N "C3'" "C2'"  SING N N 14 
+F3N "C3'" "C4'"  SING N N 15 
+F3N "O5'" "C5'"  SING N N 16 
+F3N "O5'" P      SING N N 17 
+F3N "C5'" "C4'"  SING N N 18 
+F3N OP1   P      DOUB N N 19 
+F3N "C2'" "O2'"  SING N N 20 
+F3N "C2'" "C1'"  SING N N 21 
+F3N "C4'" "O4'"  SING N N 22 
+F3N OP2   P      SING N N 23 
+F3N C8    N7     DOUB Y N 24 
+F3N C8    N9     SING Y N 25 
+F3N "C1'" "O4'"  SING N N 26 
+F3N "C1'" N9     SING N N 27 
+F3N N7    C5     SING Y N 28 
+F3N N9    C4     SING Y N 29 
+F3N C5    C4     DOUB Y N 30 
+F3N C5    C6     SING Y N 31 
+F3N C4    N3     SING Y N 32 
+F3N N6    C6     SING N N 33 
+F3N C6    N1     DOUB Y N 34 
+F3N N3    C2     DOUB Y N 35 
+F3N N1    C2     SING Y N 36 
+F3N P     OP3    SING N N 37 
+F3N OP2   HOP2   SING N N 38 
+F3N "C1'" "H1'"  SING N N 39 
+F3N "C2'" "H2'"  SING N N 40 
+F3N "O2'" "HO2'" SING N N 41 
+F3N "C3'" "H3'"  SING N N 42 
+F3N "N3'" H6     SING N N 43 
+F3N "C4'" "H4'"  SING N N 44 
+F3N "C5'" "H5'"  SING N N 45 
+F3N "C5'" "H5''" SING N N 46 
+F3N C8    H8     SING N N 47 
+F3N N6    H61    SING N N 48 
+F3N N6    H62    SING N N 49 
+F3N C2    H2     SING N N 50 
+F3N CA    HA     SING N N 51 
+F3N N     H      SING N N 52 
+F3N CB    HB3    SING N N 53 
+F3N CB    HB2    SING N N 54 
+F3N CD1   HD1    SING N N 55 
+F3N CE1   HE1    SING N N 56 
+F3N CZ    HZ     SING N N 57 
+F3N CE2   HE2    SING N N 58 
+F3N CD2   HD2    SING N N 59 
+F3N OP3   HOP3   SING N N 60 
+F3N N     H1     SING N N 61 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+F3N SMILES           ACDLabs              12.01 "O=P(O)(O)OCC4OC(n2cnc1c(ncnc12)N)C(O)C4NC(=O)C(N)Cc3ccccc3" 
+F3N InChI            InChI                1.03  
+"InChI=1S/C19H24N7O7P/c20-11(6-10-4-2-1-3-5-10)18(28)25-13-12(7-32-34(29,30)31)33-19(15(13)27)26-9-24-14-16(21)22-8-23-17(14)26/h1-5,8-9,11-13,15,19,27H,6-7,20H2,(H,25,28)(H2,21,22,23)(H2,29,30,31)/t11-,12+,13+,15+,19+/m0/s1" 
+F3N InChIKey         InChI                1.03  FGNMGARNYLAFLT-YCOMJZELSA-N 
+F3N SMILES_CANONICAL CACTVS               3.385 "N[C@@H](Cc1ccccc1)C(=O)N[C@H]2[C@@H](O)[C@@H](O[C@@H]2CO[P](O)(O)=O)n3cnc4c(N)ncnc34" 
+F3N SMILES           CACTVS               3.385 "N[CH](Cc1ccccc1)C(=O)N[CH]2[CH](O)[CH](O[CH]2CO[P](O)(O)=O)n3cnc4c(N)ncnc34" 
+F3N SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)C[C@@H](C(=O)N[C@@H]2[C@H](O[C@H]([C@@H]2O)n3cnc4c3ncnc4N)COP(=O)(O)O)N" 
+F3N SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)CC(C(=O)NC2C(OC(C2O)n3cnc4c3ncnc4N)COP(=O)(O)O)N" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+F3N "SYSTEMATIC NAME" ACDLabs              12.01 
+;3'-deoxy-3'-(L-phenylalanylamino)adenosine 5'-(dihydrogen phosphate)
+;
+F3N "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3-[[(2S)-2-azanyl-3-phenyl-propanoyl]amino]-4-oxidanyl-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+F3N "Create component" 2014-05-18 RCSB 
+F3N "Initial release"  2014-08-20 RCSB 
+# 

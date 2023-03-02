@@ -1,0 +1,94 @@
+data_NFV
+# 
+_chem_comp.id                                    NFV 
+_chem_comp.name                                  "NI-FE OXIDIZED ACTIVE CENTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 Fe N2 Ni O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        210.583 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NFV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3MYR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NFV FE FE FE 0 0 N N N -30.784 -23.515 -50.592 -0.694 -0.000 0.159  FE NFV 1 
+NFV NI NI NI 0 0 N N N -32.784 -21.632 -49.353 2.490  -0.000 0.177  NI NFV 2 
+NFV C1 C1 C  0 1 N N N -29.455 -23.605 -51.431 -2.281 -0.001 1.275  C1 NFV 3 
+NFV O1 O1 O  0 1 N N N -28.405 -23.743 -52.075 -3.377 -0.000 0.767  O1 NFV 4 
+NFV C2 C2 C  0 1 N N N -30.243 -25.078 -49.644 -0.691 -1.583 -0.962 C2 NFV 5 
+NFV N2 N2 N  0 1 N N N -29.881 -26.041 -49.058 -0.690 -2.511 -1.618 N2 NFV 6 
+NFV C3 C3 C  0 1 N N N -31.762 -24.519 -51.852 -0.691 1.585  -0.960 C3 NFV 7 
+NFV N3 N3 N  0 1 N N N -32.372 -25.120 -52.651 -0.690 2.513  -1.615 N3 NFV 8 
+NFV O4 O4 O  0 1 N N N -32.416 -23.476 -49.460 0.764  -0.001 1.197  O4 NFV 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NFV FE C2 SING N N 1 
+NFV FE O4 SING N N 2 
+NFV C1 FE SING N N 3 
+NFV O1 C1 TRIP N N 4 
+NFV C2 N2 TRIP N N 5 
+NFV C3 FE SING N N 6 
+NFV N3 C3 TRIP N N 7 
+NFV O4 NI SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NFV SMILES_CANONICAL CACTVS               3.370 "[Ni]O[Fe](|[C-]#[O+])(C#N)C#N"   
+NFV SMILES           CACTVS               3.370 "[Ni]O[Fe](|[C-]#[O+])(C#N)C#N"   
+NFV SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(#N)[Fe](C#N)(C#O)O[Ni]"        
+NFV SMILES           "OpenEye OEToolkits" 1.7.0 "C(#N)[Fe](C#N)(C#O)O[Ni]"        
+NFV InChI            InChI                1.03  InChI=1S/2CN.CO.Fe.Ni.O/c3*1-2;;; 
+NFV InChIKey         InChI                1.03  MPQMGFDSXFFIQL-UHFFFAOYSA-N       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NFV "Create component"  2010-07-14 RCSB 
+NFV "Modify descriptor" 2011-06-04 RCSB 
+# 

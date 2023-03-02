@@ -1,0 +1,210 @@
+data_I2C
+# 
+_chem_comp.id                                    I2C 
+_chem_comp.name                                  "5'-O-[(S)-hydroxy{[2-hydroxy-3,5-dimethyl-6-(2-oxoethyl)pyridin-4-yl]oxy}phosphoryl]guanosine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H23 N6 O10 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-11-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        526.394 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     I2C 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3F46 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+I2C O8     O8   O 0 1 N N N 21.765 6.663  23.503 8.728  -0.838 2.619  O8   I2C 1  
+I2C C8     C8   C 0 1 N N N 21.078 7.032  24.482 8.510  0.014  1.792  C8   I2C 2  
+I2C N1     N1   N 0 1 Y N N 19.510 7.561  26.505 6.771  1.567  -0.441 N1   I2C 3  
+I2C C2     C2   C 0 1 Y N N 18.573 7.677  27.469 5.684  2.273  -0.706 C2   I2C 4  
+I2C O2     O2   O 0 1 N N N 17.290 7.302  27.269 5.798  3.476  -1.322 O2   I2C 5  
+I2C C3     C3   C 0 1 Y N N 18.875 8.246  28.723 4.428  1.795  -0.359 C3   I2C 6  
+I2C C3M    C3M  C 0 1 N N N 17.802 8.426  29.765 3.193  2.603  -0.664 C3M  I2C 7  
+I2C C7     C7   C 0 1 N N N 21.825 7.666  25.663 7.980  -0.370 0.435  C7   I2C 8  
+I2C C6     C6   C 0 1 Y N N 20.791 7.893  26.771 6.709  0.391  0.157  C6   I2C 9  
+I2C C5     C5   C 0 1 Y N N 21.165 8.407  28.039 5.498  -0.149 0.532  C5   I2C 10 
+I2C C5M    C5M  C 0 1 N N N 22.608 8.783  28.321 5.440  -1.491 1.215  C5M  I2C 11 
+I2C C4     C4   C 0 1 Y N N 20.193 8.579  29.020 4.326  0.562  0.272  C4   I2C 12 
+I2C O3P    O3P  O 0 1 N N N 20.470 9.178  30.237 3.116  0.060  0.628  O3P  I2C 13 
+I2C P1     P1   P 0 1 N N S 20.494 8.534  31.666 2.362  -0.730 -0.554 P1   I2C 14 
+I2C O2P    O2P  O 0 1 N N N 19.751 7.220  31.574 3.197  -2.053 -0.934 O2P  I2C 15 
+I2C O1P    O1P  O 0 1 N N N 20.109 9.581  32.672 2.256  0.144  -1.744 O1P  I2C 16 
+I2C "O5'"  O5*  O 0 1 N N N 22.036 8.197  31.781 0.887  -1.150 -0.064 O5*  I2C 17 
+I2C "C5'"  C5*  C 0 1 N N N 22.962 9.206  32.249 -0.071 -1.774 -0.922 C5*  I2C 18 
+I2C "C4'"  C4*  C 0 1 N N R 23.837 8.628  33.356 -1.361 -2.036 -0.141 C4*  I2C 19 
+I2C "O4'"  O4*  O 0 1 N N N 25.018 9.435  33.558 -1.978 -0.787 0.215  O4*  I2C 20 
+I2C "C3'"  C3*  C 0 1 N N S 23.121 8.526  34.697 -2.361 -2.805 -1.025 C3*  I2C 21 
+I2C "O3'"  O3*  O 0 1 N N N 23.132 7.146  35.178 -2.692 -4.061 -0.430 O3*  I2C 22 
+I2C "C2'"  C2*  C 0 1 N N R 23.899 9.488  35.593 -3.606 -1.886 -1.078 C2*  I2C 23 
+I2C "O2'"  O2*  O 0 1 N N N 23.841 9.097  36.960 -4.809 -2.651 -0.974 O2*  I2C 24 
+I2C "C1'"  C1*  C 0 1 N N R 25.279 9.408  34.950 -3.406 -0.996 0.175  C1*  I2C 25 
+I2C N9A    N9A  N 0 1 Y N N 26.237 10.479 35.347 -4.110 0.279  0.020  N9A  I2C 26 
+I2C C4A    C4A  C 0 1 Y N N 27.537 10.205 35.387 -5.403 0.539  0.383  C4A  I2C 27 
+I2C N3A    N3A  N 0 1 N N N 28.237 9.058  35.103 -6.379 -0.186 0.943  N3A  I2C 28 
+I2C C2A    C2A  C 0 1 N N N 29.598 9.075  35.241 -7.560 0.337  1.186  C2A  I2C 29 
+I2C N2A    N2A  N 0 1 N N N 30.337 7.988  34.954 -8.529 -0.445 1.762  N2A  I2C 30 
+I2C N1A    N1A  N 0 1 N N N 30.227 10.203 35.673 -7.850 1.634  0.883  N1A  I2C 31 
+I2C C8A    C8A  C 0 1 Y N N 26.007 11.764 35.768 -3.593 1.427  -0.507 C8A  I2C 32 
+I2C N7A    N7A  N 0 1 Y N N 27.216 12.316 36.046 -4.495 2.364  -0.491 N7A  I2C 33 
+I2C C5A    C5A  C 0 1 Y N N 28.175 11.364 35.832 -5.639 1.877  0.049  C5A  I2C 34 
+I2C C6A    C6A  C 0 1 N N N 29.552 11.328 35.975 -6.915 2.427  0.315  C6A  I2C 35 
+I2C O6A    O6A  O 0 1 N N N 30.179 12.349 36.385 -7.164 3.589  0.041  O6A  I2C 36 
+I2C H8     H8   H 0 1 N N N 20.005 6.909  24.495 8.690  1.053  2.027  H8   I2C 37 
+I2C HO2    HO2  H 0 1 N N N 16.851 7.214  28.107 5.765  3.428  -2.288 HO2  I2C 38 
+I2C H3M    H3M  H 0 1 N N N 18.263 8.470  30.763 2.819  2.335  -1.652 H3M  I2C 39 
+I2C H3MA   H3MA H 0 0 N N N 17.257 9.362  29.572 2.428  2.393  0.083  H3MA I2C 40 
+I2C H3MB   H3MB H 0 0 N N N 17.103 7.578  29.721 3.439  3.664  -0.644 H3MB I2C 41 
+I2C H7     H7   H 0 1 N N N 22.623 6.996  26.015 8.722  -0.129 -0.327 H7   I2C 42 
+I2C H7A    H7A  H 0 1 N N N 22.298 8.614  25.366 7.774  -1.440 0.415  H7A  I2C 43 
+I2C H5M    H5M  H 0 1 N N N 23.156 8.874  27.372 5.617  -1.363 2.283  H5M  I2C 44 
+I2C H5MA   H5MA H 0 0 N N N 22.639 9.744  28.855 4.456  -1.935 1.061  H5MA I2C 45 
+I2C H5MB   H5MB H 0 0 N N N 23.075 8.003  28.941 6.204  -2.145 0.796  H5MB I2C 46 
+I2C HO2P   HO2P H 0 0 N N N 19.595 7.007  30.661 3.313  -2.670 -0.198 HO2P I2C 47 
+I2C "H5'"  H5*  H 0 1 N N N 23.599 9.533  31.414 -0.284 -1.119 -1.766 H5*  I2C 48 
+I2C "H5'A" H5*A H 0 0 N N N 22.397 10.064 32.642 0.331  -2.719 -1.287 H5*A I2C 49 
+I2C "H4'"  H4*  H 0 1 N N N 24.100 7.616  33.014 -1.140 -2.610 0.758  H4*  I2C 50 
+I2C "H3'"  H3*  H 0 1 N N N 22.055 8.794  34.659 -1.952 -2.954 -2.025 H3*  I2C 51 
+I2C "HO3'" HO3* H 0 0 N N N 23.134 6.552  34.437 -3.319 -4.588 -0.945 HO3* I2C 52 
+I2C "H2'"  H2*  H 0 1 N N N 23.517 10.518 35.644 -3.607 -1.284 -1.987 H2*  I2C 53 
+I2C "HO2'" HO2* H 0 0 N N N 23.828 8.149  37.018 -4.933 -3.288 -1.691 HO2* I2C 54 
+I2C "H1'"  H1*  H 0 1 N N N 25.794 8.497  35.290 -3.743 -1.515 1.072  H1*  I2C 55 
+I2C HN2A   HN2A H 0 0 N N N 31.306 8.180  35.112 -8.338 -1.370 1.984  HN2A I2C 56 
+I2C HN2B   HN2B H 0 0 N N N 29.971 7.116  34.630 -9.406 -0.074 1.948  HN2B I2C 57 
+I2C HN1A   HN1A H 0 0 N N N 31.222 10.195 35.769 -8.732 1.989  1.075  HN1A I2C 58 
+I2C H8A    H8A  H 0 1 N N N 25.045 12.246 35.861 -2.587 1.540  -0.882 H8A  I2C 59 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+I2C O8    C8     DOUB N N 1  
+I2C C8    C7     SING N N 2  
+I2C N1    C2     DOUB Y N 3  
+I2C N1    C6     SING Y N 4  
+I2C C2    O2     SING N N 5  
+I2C C2    C3     SING Y N 6  
+I2C C3    C3M    SING N N 7  
+I2C C3    C4     DOUB Y N 8  
+I2C C7    C6     SING N N 9  
+I2C C6    C5     DOUB Y N 10 
+I2C C5    C5M    SING N N 11 
+I2C C5    C4     SING Y N 12 
+I2C C4    O3P    SING N N 13 
+I2C O3P   P1     SING N N 14 
+I2C P1    O2P    SING N N 15 
+I2C P1    O1P    DOUB N N 16 
+I2C P1    "O5'"  SING N N 17 
+I2C "O5'" "C5'"  SING N N 18 
+I2C "C5'" "C4'"  SING N N 19 
+I2C "C4'" "O4'"  SING N N 20 
+I2C "C4'" "C3'"  SING N N 21 
+I2C "O4'" "C1'"  SING N N 22 
+I2C "C3'" "O3'"  SING N N 23 
+I2C "C3'" "C2'"  SING N N 24 
+I2C "C2'" "O2'"  SING N N 25 
+I2C "C2'" "C1'"  SING N N 26 
+I2C "C1'" N9A    SING N N 27 
+I2C N9A   C4A    SING Y N 28 
+I2C N9A   C8A    SING Y N 29 
+I2C C4A   N3A    SING N N 30 
+I2C C4A   C5A    DOUB Y N 31 
+I2C N3A   C2A    DOUB N N 32 
+I2C C2A   N2A    SING N N 33 
+I2C C2A   N1A    SING N N 34 
+I2C N1A   C6A    SING N N 35 
+I2C C8A   N7A    DOUB Y N 36 
+I2C N7A   C5A    SING Y N 37 
+I2C C5A   C6A    SING N N 38 
+I2C C6A   O6A    DOUB N N 39 
+I2C C8    H8     SING N N 40 
+I2C O2    HO2    SING N N 41 
+I2C C3M   H3M    SING N N 42 
+I2C C3M   H3MA   SING N N 43 
+I2C C3M   H3MB   SING N N 44 
+I2C C7    H7     SING N N 45 
+I2C C7    H7A    SING N N 46 
+I2C C5M   H5M    SING N N 47 
+I2C C5M   H5MA   SING N N 48 
+I2C C5M   H5MB   SING N N 49 
+I2C O2P   HO2P   SING N N 50 
+I2C "C5'" "H5'"  SING N N 51 
+I2C "C5'" "H5'A" SING N N 52 
+I2C "C4'" "H4'"  SING N N 53 
+I2C "C3'" "H3'"  SING N N 54 
+I2C "O3'" "HO3'" SING N N 55 
+I2C "C2'" "H2'"  SING N N 56 
+I2C "O2'" "HO2'" SING N N 57 
+I2C "C1'" "H1'"  SING N N 58 
+I2C N2A   HN2A   SING N N 59 
+I2C N2A   HN2B   SING N N 60 
+I2C N1A   HN1A   SING N N 61 
+I2C C8A   H8A    SING N N 62 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+I2C SMILES           ACDLabs              10.04 "O=CCc4nc(O)c(c(OP(=O)(O)OCC3OC(n2cnc1c2N=C(N)NC1=O)C(O)C3O)c4C)C" 
+I2C SMILES_CANONICAL CACTVS               3.341 "Cc1c(O)nc(CC=O)c(C)c1O[P@](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n3cnc4C(=O)NC(=Nc34)N" 
+I2C SMILES           CACTVS               3.341 "Cc1c(O)nc(CC=O)c(C)c1O[P](O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)n3cnc4C(=O)NC(=Nc34)N" 
+I2C SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(nc(c(c1O[P@@](=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3N=C(NC4=O)N)O)O)C)O)CC=O" 
+I2C SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(nc(c(c1OP(=O)(O)OCC2C(C(C(O2)n3cnc4c3N=C(NC4=O)N)O)O)C)O)CC=O" 
+I2C InChI            InChI                1.03  
+"InChI=1S/C19H23N6O10P/c1-7-9(3-4-26)22-16(29)8(2)14(7)35-36(31,32)33-5-10-12(27)13(28)18(34-10)25-6-21-11-15(25)23-19(20)24-17(11)30/h4,6,10,12-13,18,27-28H,3,5H2,1-2H3,(H,22,29)(H,31,32)(H3,20,23,24,30)/t10-,12-,13-,18-/m1/s1" 
+I2C InChIKey         InChI                1.03  FVDPDULUWMBTHF-IPKTUIKJSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+I2C "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-[(S)-hydroxy{[2-hydroxy-3,5-dimethyl-6-(2-oxoethyl)pyridin-4-yl]oxy}phosphoryl]guanosine"                                                          
+I2C "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl [2-hydroxy-3,5-dimethyl-6-(2-oxoethyl)pyridin-4-yl] hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+I2C "Create component"     2008-11-21 PDBJ 
+I2C "Modify aromatic_flag" 2011-06-04 RCSB 
+I2C "Modify descriptor"    2011-06-04 RCSB 
+# 

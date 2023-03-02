@@ -1,0 +1,143 @@
+data_FOS
+# 
+_chem_comp.id                                    FOS 
+_chem_comp.name                                  "[[N-(BENZYLOXYCARBONYL)AMINO]METHYL]PHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H12 N O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        245.169 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FOS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BLH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FOS C1   C1   C 0 1 Y N N 5.401 -7.936  -6.916  -0.168 -0.372 -3.210 C1   FOS 1  
+FOS C2   C2   C 0 1 Y N N 4.719 -7.047  -6.032  1.133  -0.659 -3.577 C2   FOS 2  
+FOS C3   C3   C 0 1 Y N N 5.507 -6.075  -5.348  1.610  -0.250 -4.808 C3   FOS 3  
+FOS C4   C4   C 0 1 Y N N 6.891 -6.061  -5.551  0.786  0.445  -5.672 C4   FOS 4  
+FOS C5   C5   C 0 1 Y N N 7.543 -6.931  -6.401  -0.515 0.731  -5.306 C5   FOS 5  
+FOS C6   C6   C 0 1 Y N N 6.802 -7.899  -7.094  -0.994 0.318  -4.077 C6   FOS 6  
+FOS C    C    C 0 1 N N N 4.601 -9.001  -7.625  -0.688 -0.818 -1.868 C    FOS 7  
+FOS O    O    O 0 1 N N N 3.289 -8.538  -7.935  -0.439 0.218  -0.883 O    FOS 8  
+FOS "C'" "C'" C 0 1 N N N 2.672 -9.077  -9.016  -0.821 0.039  0.394  "C'" FOS 9  
+FOS "O'" "O'" O 0 1 N N N 1.522 -8.809  -9.210  -1.375 -0.991 0.724  "O'" FOS 10 
+FOS N    N    N 0 1 N N N 3.316 -9.863  -9.891  -0.590 1.002  1.308  N    FOS 11 
+FOS CM   CM   C 0 1 N N N 2.550 -10.352 -11.000 -1.006 0.806  2.699  CM   FOS 12 
+FOS P    P    P 0 1 N N N 3.690 -10.216 -12.402 0.347  0.020  3.634  P    FOS 13 
+FOS O1P  O1P  O 0 1 N N N 4.034 -8.866  -12.799 0.669  -1.290 3.026  O1P  FOS 14 
+FOS O2P  O2P  O 0 1 N N N 5.005 -10.733 -12.271 -0.110 -0.194 5.162  O2P  FOS 15 
+FOS O3P  O3P  O 0 1 N Y N 2.804 -10.841 -13.587 1.649  0.966  3.591  O3P  FOS 16 
+FOS H2   H2   H 0 1 N N N 3.627 -7.108  -5.883  1.777  -1.203 -2.901 H2   FOS 17 
+FOS H3   H3   H 0 1 N N N 5.048 -5.338  -4.666  2.628  -0.473 -5.094 H3   FOS 18 
+FOS H4   H4   H 0 1 N N N 7.503 -5.320  -5.009  1.159  0.765  -6.634 H4   FOS 19 
+FOS H5   H5   H 0 1 N N N 8.636 -6.854  -6.524  -1.159 1.274  -5.981 H5   FOS 20 
+FOS H6   H6   H 0 1 N N N 7.309 -8.614  -7.763  -2.011 0.541  -3.791 H6   FOS 21 
+FOS H1   1H   H 0 1 N N N 5.129 -9.374  -8.533  -0.179 -1.734 -1.567 H1   FOS 22 
+FOS H2A  2H   H 0 1 N N N 4.573 -9.950  -7.041  -1.760 -1.004 -1.937 H2A  FOS 23 
+FOS HN   HN   H 0 1 N N N 4.301 -10.070 -9.727  -0.148 1.824  1.045  HN   FOS 24 
+FOS HM1  1HM  H 0 1 N N N 2.122 -11.371 -10.851 -1.888 0.166  2.729  HM1  FOS 25 
+FOS HM2  2HM  H 0 1 N N N 1.573 -9.835  -11.148 -1.243 1.771  3.147  HM2  FOS 26 
+FOS HOP2 2HOP H 0 0 N N N 5.602 -10.661 -13.006 0.632  -0.611 5.620  HOP2 FOS 27 
+FOS HOP3 3HOP H 0 0 N N N 3.401 -10.769 -14.322 1.396  1.807  3.995  HOP3 FOS 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FOS C1   C2   DOUB Y N 1  
+FOS C1   C6   SING Y N 2  
+FOS C1   C    SING N N 3  
+FOS C2   C3   SING Y N 4  
+FOS C2   H2   SING N N 5  
+FOS C3   C4   DOUB Y N 6  
+FOS C3   H3   SING N N 7  
+FOS C4   C5   SING Y N 8  
+FOS C4   H4   SING N N 9  
+FOS C5   C6   DOUB Y N 10 
+FOS C5   H5   SING N N 11 
+FOS C6   H6   SING N N 12 
+FOS C    O    SING N N 13 
+FOS C    H1   SING N N 14 
+FOS C    H2A  SING N N 15 
+FOS O    "C'" SING N N 16 
+FOS "C'" "O'" DOUB N N 17 
+FOS "C'" N    SING N N 18 
+FOS N    CM   SING N N 19 
+FOS N    HN   SING N N 20 
+FOS CM   P    SING N N 21 
+FOS CM   HM1  SING N N 22 
+FOS CM   HM2  SING N N 23 
+FOS P    O1P  DOUB N N 24 
+FOS P    O2P  SING N N 25 
+FOS P    O3P  SING N N 26 
+FOS O2P  HOP2 SING N N 27 
+FOS O3P  HOP3 SING N N 28 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FOS SMILES           ACDLabs              10.04 "O=P(O)(O)CNC(=O)OCc1ccccc1"                                                                      
+FOS SMILES_CANONICAL CACTVS               3.341 "O[P](O)(=O)CNC(=O)OCc1ccccc1"                                                                    
+FOS SMILES           CACTVS               3.341 "O[P](O)(=O)CNC(=O)OCc1ccccc1"                                                                    
+FOS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)COC(=O)NCP(=O)(O)O"                                                                    
+FOS SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)COC(=O)NCP(=O)(O)O"                                                                    
+FOS InChI            InChI                1.03  "InChI=1S/C9H12NO5P/c11-9(10-7-16(12,13)14)15-6-8-4-2-1-3-5-8/h1-5H,6-7H2,(H,10,11)(H2,12,13,14)" 
+FOS InChIKey         InChI                1.03  WUNKRZNFNIYEPN-UHFFFAOYSA-N                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FOS "SYSTEMATIC NAME" ACDLabs              10.04 "({[(benzyloxy)carbonyl]amino}methyl)phosphonic acid" 
+FOS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phenylmethoxycarbonylaminomethylphosphonic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FOS "Create component"  1999-07-08 RCSB 
+FOS "Modify descriptor" 2011-06-04 RCSB 
+# 

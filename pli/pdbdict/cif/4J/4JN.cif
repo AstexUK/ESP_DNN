@@ -1,0 +1,113 @@
+data_4JN
+# 
+_chem_comp.id                                    4JN 
+_chem_comp.name                                  6-bromopyridin-3-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H5 Br N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-03-23 
+_chem_comp.pdbx_modified_date                    2015-08-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        173.011 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     4JN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4YRN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+4JN C2 C1  C  0 1 Y N N 13.718 -8.394 32.771 0.558  1.217  0.000  C2 4JN 1  
+4JN C3 C2  C  0 1 Y N N 12.466 -7.908 33.113 -0.114 0.007  -0.000 C3 4JN 2  
+4JN C4 C3  C  0 1 Y N N 12.868 -8.012 35.343 1.865  -1.175 0.000  C4 4JN 3  
+4JN N1 N1  N  0 1 Y N N 12.029 -7.698 34.347 0.547  -1.135 0.000  N1 4JN 4  
+4JN C1 C4  C  0 1 Y N N 14.571 -8.698 33.820 1.943  1.221  0.000  C1 4JN 5  
+4JN BR BR1 BR 0 0 N N N 11.211 -7.561 31.725 -2.004 -0.009 -0.000 BR 4JN 6  
+4JN C  C5  C  0 1 Y N N 14.147 -8.518 35.143 2.609  -0.002 -0.000 C  4JN 7  
+4JN N  N2  N  0 1 N N N 14.962 -8.816 36.196 4.006  -0.049 -0.000 N  4JN 8  
+4JN H1 H1  H  0 1 N N N 14.013 -8.529 31.741 0.009  2.147  -0.004 H1 4JN 9  
+4JN H2 H2  H  0 1 N N N 12.532 -7.864 36.359 2.370  -2.129 0.000  H2 4JN 10 
+4JN H3 H3  H  0 1 N N N 15.563 -9.074 33.617 2.494  2.151  0.000  H3 4JN 11 
+4JN H4 H4  H  0 1 N N N 14.485 -8.622 37.053 4.519  0.774  0.000  H4 4JN 12 
+4JN H5 H5  H  0 1 N N N 15.208 -9.785 36.164 4.462  -0.905 -0.000 H5 4JN 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+4JN BR C3 SING N N 1  
+4JN C2 C3 DOUB Y N 2  
+4JN C2 C1 SING Y N 3  
+4JN C3 N1 SING Y N 4  
+4JN C1 C  DOUB Y N 5  
+4JN N1 C4 DOUB Y N 6  
+4JN C  C4 SING Y N 7  
+4JN C  N  SING N N 8  
+4JN C2 H1 SING N N 9  
+4JN C4 H2 SING N N 10 
+4JN C1 H3 SING N N 11 
+4JN N  H4 SING N N 12 
+4JN N  H5 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+4JN SMILES           ACDLabs              12.01 "c1c(ncc(c1)N)Br"                                
+4JN InChI            InChI                1.03  "InChI=1S/C5H5BrN2/c6-5-2-1-4(7)3-8-5/h1-3H,7H2" 
+4JN InChIKey         InChI                1.03  XTHKRYHULUJQHN-UHFFFAOYSA-N                      
+4JN SMILES_CANONICAL CACTVS               3.385 "Nc1ccc(Br)nc1"                                  
+4JN SMILES           CACTVS               3.385 "Nc1ccc(Br)nc1"                                  
+4JN SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1cc(ncc1N)Br"                                  
+4JN SMILES           "OpenEye OEToolkits" 1.9.2 "c1cc(ncc1N)Br"                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+4JN "SYSTEMATIC NAME" ACDLabs              12.01 6-bromopyridin-3-amine    
+4JN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 6-bromanylpyridin-3-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+4JN "Other modification" 2015-03-23 RCSB 
+4JN "Initial release"    2015-08-12 RCSB 
+# 

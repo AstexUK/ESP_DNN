@@ -1,0 +1,100 @@
+data_FSO
+# 
+_chem_comp.id                                    FSO 
+_chem_comp.name                                  "IRON/SULFUR/OXYGEN HYBRID CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe4 O3 S3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-05-04 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        367.573 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FSO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1E1D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FSO FE5 FE5 FE 0 0 N N R 53.874 30.062 12.877 ? ? ? FE5 FSO 1  
+FSO FE6 FE6 FE 0 0 N N S 53.397 27.397 12.998 ? ? ? FE6 FSO 2  
+FSO FE7 FE7 FE 0 0 N N N 53.547 30.967 16.502 ? ? ? FE7 FSO 3  
+FSO FE8 FE8 FE 0 0 N N N 51.508 29.051 14.731 ? ? ? FE8 FSO 4  
+FSO S5  S5  S  0 1 N N N 55.341 28.432 13.043 ? ? ? S5  FSO 5  
+FSO S6  S6  S  0 1 N N R 52.044 29.029 12.210 ? ? ? S6  FSO 6  
+FSO S7  S7  S  0 1 N N N 49.620 30.607 14.306 ? ? ? S7  FSO 7  
+FSO O8  O8  O  0 1 N N N 52.770 27.288 14.869 ? ? ? O8  FSO 8  
+FSO O9  O9  O  0 1 N N N 52.021 29.534 16.642 ? ? ? O9  FSO 9  
+FSO O10 O10 O  0 1 N N N 53.482 30.722 14.811 ? ? ? O10 FSO 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FSO FE5 FE8 SING N N 1  
+FSO FE5 S5  SING N N 2  
+FSO FE5 S6  SING N N 3  
+FSO FE5 O10 SING N N 4  
+FSO FE6 FE8 SING N N 5  
+FSO FE6 S5  SING N N 6  
+FSO FE6 S6  SING N N 7  
+FSO FE6 O8  SING N N 8  
+FSO FE7 O9  SING N N 9  
+FSO FE7 O10 SING N N 10 
+FSO FE8 S6  SING N N 11 
+FSO FE8 S7  SING N N 12 
+FSO FE8 O8  SING N N 13 
+FSO FE8 O9  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FSO InChI            InChI                1.02b "InChI=1/4Fe.3O.H2S.2S/h;;;;;;;1H2;;/q;;;+1;;;;;;/p-1/f4Fe.3O.HS.2S/h;;;;;;;1h;;/q;;;m;;;;-1;;/rFe4HO3S3/c8-4-2(5-1-6-4)9-3(4,7-4)10(2)4/h8H" 
+FSO InChIKey         InChI                1.02b NIIPGMCXXHQOSA-LVFFOBLJCB                                                                                                                     
+FSO SMILES_CANONICAL CACTVS               3.341 "S|[Fe]|1|234O[Fe]O[Fe]|5|1S[Fe]|2(O3)S4|5"                                                                                                   
+FSO SMILES           CACTVS               3.341 "S|[Fe]|1|234O[Fe]O[Fe]|5|1S[Fe]|2(O3)S4|5"                                                                                                   
+FSO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "O1[Fe]O[Fe]234([Fe@@]15[S@]2[Fe@@]3(O4)S5)[S]"                                                                                               
+FSO SMILES           "OpenEye OEToolkits" 1.5.0 "O1[Fe]O[Fe]234([Fe]15[S]2[Fe]3(O4)S5)[S]"                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FSO "Create component" 2000-05-04 EBI 
+# 

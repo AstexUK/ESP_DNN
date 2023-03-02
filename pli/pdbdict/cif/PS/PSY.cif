@@ -1,0 +1,128 @@
+data_PSY
+# 
+_chem_comp.id                                    PSY 
+_chem_comp.name                                  "phenyl ethenesulfonate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-12-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.212 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PSY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BM8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PSY C1  C1  C 0 1 Y N N 47.648 16.138 23.083 3.443  -0.430 -0.360 C1  PSY 1  
+PSY C2  C2  C 0 1 Y N N 46.523 15.680 23.819 2.615  -1.451 0.069  C2  PSY 2  
+PSY C3  C3  C 0 1 Y N N 47.711 17.521 22.747 3.004  0.881  -0.326 C3  PSY 3  
+PSY C4  C4  C 0 1 Y N N 45.486 16.580 24.210 1.344  -1.163 0.527  C4  PSY 4  
+PSY C5  C5  C 0 1 Y N N 46.685 18.427 23.131 1.736  1.174  0.137  C5  PSY 5  
+PSY C6  C6  C 0 1 Y N N 45.575 17.957 23.860 0.899  0.150  0.558  C6  PSY 6  
+PSY O1  O1  O 0 1 N N N 44.598 18.876 24.231 -0.349 0.436  1.014  O1  PSY 7  
+PSY S   S   S 0 1 N N N 43.337 19.398 23.364 -1.418 0.444  -0.070 S   PSY 8  
+PSY O2  O2  O 0 1 N N N 42.623 20.377 24.150 -2.599 0.951  0.535  O2  PSY 9  
+PSY O3  O3  O 0 1 N N N 43.778 20.033 22.148 -0.820 1.031  -1.218 O3  PSY 10 
+PSY C7  C7  C 0 1 N N N 42.374 18.378 23.035 -1.752 -1.235 -0.487 C7  PSY 11 
+PSY C8  C8  C 0 1 N N N 41.340 18.763 22.089 -2.932 -1.748 -0.243 C8  PSY 12 
+PSY H1  H1  H 0 1 N N N 48.433 15.458 22.787 4.437  -0.656 -0.718 H1  PSY 13 
+PSY H2  H2  H 0 1 N N N 46.451 14.636 24.087 2.962  -2.473 0.045  H2  PSY 14 
+PSY H3  H3  H 0 1 N N N 48.558 17.890 22.187 3.653  1.676  -0.661 H3  PSY 15 
+PSY H4  H4  H 0 1 N N N 44.637 16.217 24.770 0.697  -1.961 0.862  H4  PSY 16 
+PSY H5  H5  H 0 1 N N N 46.756 19.471 22.865 1.393  2.197  0.164  H5  PSY 17 
+PSY H7  H7  H 0 1 N N N 42.418 17.388 23.465 -0.983 -1.841 -0.943 H7  PSY 18 
+PSY H8  H8  H 0 1 N N N 40.704 17.902 21.947 -3.700 -1.141 0.214  H8  PSY 19 
+PSY H8A H8A H 0 1 N N N 41.228 19.728 21.617 -3.137 -2.777 -0.498 H8A PSY 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PSY C3 C1  DOUB Y N 1  
+PSY C1 C2  SING Y N 2  
+PSY C1 H1  SING N N 3  
+PSY C2 C4  DOUB Y N 4  
+PSY C2 H2  SING N N 5  
+PSY C3 C5  SING Y N 6  
+PSY C3 H3  SING N N 7  
+PSY C6 C4  SING Y N 8  
+PSY C4 H4  SING N N 9  
+PSY C5 C6  DOUB Y N 10 
+PSY C5 H5  SING N N 11 
+PSY C6 O1  SING N N 12 
+PSY S  O1  SING N N 13 
+PSY O3 S   DOUB N N 14 
+PSY C7 S   SING N N 15 
+PSY S  O2  DOUB N N 16 
+PSY C8 C7  DOUB N N 17 
+PSY C7 H7  SING N N 18 
+PSY C8 H8  SING N N 19 
+PSY C8 H8A SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PSY SMILES           ACDLabs              10.04 "O=S(=O)(Oc1ccccc1)\C=C"                                   
+PSY SMILES_CANONICAL CACTVS               3.341 "C=C[S](=O)(=O)Oc1ccccc1"                                  
+PSY SMILES           CACTVS               3.341 "C=C[S](=O)(=O)Oc1ccccc1"                                  
+PSY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C=CS(=O)(=O)Oc1ccccc1"                                    
+PSY SMILES           "OpenEye OEToolkits" 1.5.0 "C=CS(=O)(=O)Oc1ccccc1"                                    
+PSY InChI            InChI                1.03  "InChI=1S/C8H8O3S/c1-2-12(9,10)11-8-6-4-3-5-7-8/h2-7H,1H2" 
+PSY InChIKey         InChI                1.03  CILDJVVXNMDAGY-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PSY "SYSTEMATIC NAME" ACDLabs              10.04 "phenyl ethenesulfonate" 
+PSY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phenyl ethenesulfonate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PSY "Create component"     2007-12-14 RCSB 
+PSY "Modify aromatic_flag" 2011-06-04 RCSB 
+PSY "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,103 @@
+data_OSM
+# 
+_chem_comp.id                                    OSM 
+_chem_comp.name                                  "1-(OXIDOSULFANYL)METHANAMINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H5 N O S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-03-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        79.122 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OSM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2GJ1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OSM O   O   O 0 1 N N N 7.948 2.964 26.137 -1.743 -0.409 0.025  O   OSM 1 
+OSM S   S   S 0 1 N N S 6.870 2.541 27.205 -0.579 0.407  0.029  S   OSM 2 
+OSM C   C   C 0 1 N N N 5.930 3.926 27.888 0.897  -0.646 -0.032 C   OSM 3 
+OSM N   N   N 0 1 N N N 5.295 3.476 29.119 2.100  0.196  -0.028 N   OSM 4 
+OSM HS  HS  H 0 1 N N N 6.031 1.731 26.630 -0.601 0.851  -1.241 HS  OSM 5 
+OSM H1  1H  H 0 1 N N N 5.170 4.263 27.168 0.877  -1.248 -0.941 H1  OSM 6 
+OSM H2  2H  H 0 1 N N N 6.604 4.769 28.100 0.910  -1.303 0.838  H2  OSM 7 
+OSM HN1 1HN H 0 1 N N N 4.615 4.150 29.409 2.131  0.654  0.871  HN1 OSM 8 
+OSM HN2 2HN H 0 1 N N N 5.987 3.373 29.833 2.892  -0.428 -0.062 HN2 OSM 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OSM O S   DOUB N N 1 
+OSM S C   SING N N 2 
+OSM S HS  SING N N 3 
+OSM C N   SING N N 4 
+OSM C H1  SING N N 5 
+OSM C H2  SING N N 6 
+OSM N HN1 SING N N 7 
+OSM N HN2 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OSM SMILES           ACDLabs              10.04 O=SCN                              
+OSM SMILES_CANONICAL CACTVS               3.341 "NC[S@H]=O"                        
+OSM SMILES           CACTVS               3.341 "NC[SH]=O"                         
+OSM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(N)[S@@H]=O"                     
+OSM SMILES           "OpenEye OEToolkits" 1.5.0 "C(N)S=O"                          
+OSM InChI            InChI                1.03  InChI=1S/CH5NOS/c2-1-4-3/h4H,1-2H2 
+OSM InChIKey         InChI                1.03  KONFWJXIYYGXOO-UHFFFAOYSA-N        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OSM "SYSTEMATIC NAME" ACDLabs 10.04 "1-(oxidosulfanyl)methanamine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OSM "Create component"  2006-03-31 RCSB 
+OSM "Modify descriptor" 2011-06-04 RCSB 
+# 

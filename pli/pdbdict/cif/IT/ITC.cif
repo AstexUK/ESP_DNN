@@ -1,0 +1,203 @@
+data_ITC
+# 
+_chem_comp.id                                    ITC 
+_chem_comp.name                                  ISO-7-CHLORTETRACYCLINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C22 H23 Cl N2 O8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(4S,4AS,6S,8AS)-6-[(1S)-7-CHLORO-4-HYDROXY-1-METHYL-3-OXO-1,3-DIHYDRO-2-BENZOFURAN-1-YL]-4-(DIMETHYLAMINO)-3,8A-DIHYDROXY-1,8-DIOXO-1,4,4A,5,6,7,8,8A-OCTAHYDRONAPHTHALENE-2-CARBOXAMIDE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-03-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        478.880 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ITC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2X9D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ITC C1     C1     C  0 1 N N N 20.334 34.708 33.807 -2.144 0.837  -1.060 C1     ITC 1  
+ITC O1     O1     O  0 1 N N N 19.772 35.312 32.867 -1.617 1.698  -1.734 O1     ITC 2  
+ITC C2     C2     C  0 1 N N N 19.587 33.806 34.667 -3.146 1.179  -0.049 C2     ITC 3  
+ITC "C2'"  "C2'"  C  0 1 N N N 18.318 33.189 34.212 -3.719 2.534  -0.013 "C2'"  ITC 4  
+ITC "O2'"  "O2'"  O  0 1 N N N 17.749 32.364 34.920 -4.566 2.858  -0.823 "O2'"  ITC 5  
+ITC "N2'"  "N2'"  N  0 1 N N N 17.721 33.612 33.095 -3.306 3.416  0.919  "N2'"  ITC 6  
+ITC C3     C3     C  0 1 N N N 20.099 33.524 35.906 -3.553 0.239  0.866  C3     ITC 7  
+ITC O3     O3     O  0 1 N N N 19.466 32.659 36.702 -4.461 0.587  1.789  O3     ITC 8  
+ITC C4     C4     C  0 1 N N S 21.319 34.185 36.504 -3.019 -1.163 0.870  C4     ITC 9  
+ITC N4     N4     N  0 1 N N N 22.125 33.218 37.280 -3.979 -2.044 0.191  N4     ITC 10 
+ITC "C4'"  "C4'"  C  0 1 N N N 23.100 32.429 36.507 -3.576 -3.452 0.309  "C4'"  ITC 11 
+ITC C4D    C4D    C  0 1 N N N 22.723 33.936 38.399 -5.338 -1.840 0.710  C4D    ITC 12 
+ITC C4A    C4A    C  0 1 N N S 22.119 35.099 35.533 -1.674 -1.250 0.158  C4A    ITC 13 
+ITC C5     C5     C  0 1 N N N 21.793 36.574 35.848 -0.598 -0.517 0.956  C5     ITC 14 
+ITC C5A    C5A    C  0 1 N N S 22.514 37.565 34.930 0.767  -0.732 0.298  C5A    ITC 15 
+ITC C6     C6     C  0 1 N N S 22.240 39.060 35.213 1.852  -0.059 1.141  C6     ITC 16 
+ITC O6     O6     O  0 1 N N N 20.868 39.387 34.943 1.609  1.373  1.214  O6     ITC 17 
+ITC "C6'"  "C6'"  C  0 1 N N N 22.496 39.514 36.655 1.873  -0.661 2.547  "C6'"  ITC 18 
+ITC C6A    C6A    C  0 1 Y N N 23.000 39.880 34.199 3.198  -0.228 0.483  C6A    ITC 19 
+ITC C7     C7     C  0 1 Y N N 24.380 39.987 33.952 3.953  -1.327 0.147  C7     ITC 20 
+ITC CL7    CL7    CL 0 0 N N N 25.579 39.121 34.913 3.361  -2.923 0.489  CL7    ITC 21 
+ITC C8     C8     C  0 1 Y N N 24.852 40.813 32.924 5.187  -1.162 -0.465 C8     ITC 22 
+ITC C9     C9     C  0 1 Y N N 23.936 41.506 32.126 5.665  0.104  -0.741 C9     ITC 23 
+ITC C10    C10    C  0 1 Y N N 22.565 41.372 32.371 4.915  1.222  -0.408 C10    ITC 24 
+ITC O10    O10    O  0 1 N N N 21.685 42.015 31.620 5.386  2.464  -0.679 O10    ITC 25 
+ITC C6B    C6B    C  0 1 Y N N 22.127 40.568 33.415 3.667  1.061  0.212  C6B    ITC 26 
+ITC O11    O11    O  0 1 N N N 19.710 40.780 33.208 2.755  3.230  0.591  O11    ITC 27 
+ITC C5B    C5B    C  0 1 N N N 22.159 37.167 33.517 0.761  -0.122 -1.107 C5B    ITC 28 
+ITC C12    C12    C  0 1 N N N 22.485 35.880 33.232 -0.409 -0.690 -1.880 C12    ITC 29 
+ITC O12    O12    O  0 1 N N N 23.402 35.594 32.338 -0.254 -1.181 -2.973 O12    ITC 30 
+ITC C4B    C4B    C  0 1 N N S 21.849 34.801 34.054 -1.787 -0.625 -1.245 C4B    ITC 31 
+ITC O4B    O4B    O  0 1 N N N 22.485 33.562 33.764 -2.773 -1.297 -2.031 O4B    ITC 32 
+ITC C11    C11    C  0 1 N N N 20.743 40.295 33.807 2.657  2.022  0.678  C11    ITC 33 
+ITC "H2'1" "H2'1" H  0 0 N N N 18.278 34.314 32.651 -2.579 3.184  1.518  "H2'1" ITC 34 
+ITC "H2'2" "H2'2" H  0 0 N N N 16.844 33.275 32.752 -3.734 4.284  0.989  "H2'2" ITC 35 
+ITC H3     H3     H  0 1 N N N 19.316 31.847 36.232 -4.843 1.473  1.718  H3     ITC 36 
+ITC H4     H4     H  0 1 N N N 20.949 34.924 37.231 -2.898 -1.495 1.901  H4     ITC 37 
+ITC H4A    H4A    H  0 1 N N N 23.187 34.893 35.695 -1.391 -2.297 0.050  H4A    ITC 38 
+ITC "H4'1" "H4'1" H  0 0 N N N 22.699 32.232 35.502 -3.530 -3.729 1.362  "H4'1" ITC 39 
+ITC "H4'2" "H4'2" H  0 0 N N N 24.042 32.991 36.422 -4.303 -4.082 -0.201 "H4'2" ITC 40 
+ITC "H4'3" "H4'3" H  0 0 N N N 23.288 31.474 37.020 -2.594 -3.588 -0.145 "H4'3" ITC 41 
+ITC H4D1   H4D1   H  0 0 N N N 22.874 33.244 39.241 -5.691 -0.849 0.425  H4D1   ITC 42 
+ITC H4D2   H4D2   H  0 0 N N N 23.692 34.354 38.090 -6.003 -2.597 0.293  H4D2   ITC 43 
+ITC H4D3   H4D3   H  0 0 N N N 22.054 34.752 38.710 -5.328 -1.924 1.797  H4D3   ITC 44 
+ITC H51C   H51C   H  0 0 N N N 20.709 36.720 35.727 -0.825 0.549  0.979  H51C   ITC 45 
+ITC H52C   H52C   H  0 0 N N N 22.133 36.772 36.875 -0.574 -0.904 1.975  H52C   ITC 46 
+ITC H5A    H5A    H  0 1 N N N 23.596 37.496 35.117 0.972  -1.800 0.228  H5A    ITC 47 
+ITC H5B1   H5B1   H  0 0 N N N 21.073 37.286 33.386 0.660  0.961  -1.035 H5B1   ITC 48 
+ITC H5B2   H5B2   H  0 0 N N N 22.733 37.813 32.836 1.691  -0.371 -1.618 H5B2   ITC 49 
+ITC "H6'1" "H6'1" H  0 0 N N N 22.557 38.634 37.312 2.081  -1.729 2.482  "H6'1" ITC 50 
+ITC "H6'2" "H6'2" H  0 0 N N N 23.443 40.072 36.701 2.648  -0.175 3.139  "H6'2" ITC 51 
+ITC "H6'3" "H6'3" H  0 0 N N N 21.671 40.162 36.987 0.904  -0.508 3.022  "H6'3" ITC 52 
+ITC H8     H8     H  0 1 N N N 25.913 40.914 32.749 5.777  -2.028 -0.727 H8     ITC 53 
+ITC H9     H9     H  0 1 N N N 24.285 42.141 31.325 6.626  0.224  -1.217 H9     ITC 54 
+ITC H10    H10    H  0 1 N N N 20.893 42.169 32.121 5.132  2.799  -1.551 H10    ITC 55 
+ITC H4B    H4B    H  0 1 N N N 22.627 33.490 32.827 -2.836 -0.976 -2.941 H4B    ITC 56 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ITC C1    O1     DOUB N N 1  
+ITC C1    C2     SING N N 2  
+ITC C1    C4B    SING N N 3  
+ITC C2    "C2'"  SING N N 4  
+ITC C2    C3     DOUB N N 5  
+ITC "C2'" "O2'"  DOUB N N 6  
+ITC "C2'" "N2'"  SING N N 7  
+ITC C3    O3     SING N N 8  
+ITC C3    C4     SING N N 9  
+ITC C4    N4     SING N N 10 
+ITC C4    C4A    SING N N 11 
+ITC N4    "C4'"  SING N N 12 
+ITC N4    C4D    SING N N 13 
+ITC C4A   C5     SING N N 14 
+ITC C4A   C4B    SING N N 15 
+ITC C5    C5A    SING N N 16 
+ITC C5A   C6     SING N N 17 
+ITC C5A   C5B    SING N N 18 
+ITC C6    O6     SING N N 19 
+ITC C6    "C6'"  SING N N 20 
+ITC C6    C6A    SING N N 21 
+ITC O6    C11    SING N N 22 
+ITC C6A   C7     SING Y N 23 
+ITC C6A   C6B    DOUB Y N 24 
+ITC C7    CL7    SING N N 25 
+ITC C7    C8     DOUB Y N 26 
+ITC C8    C9     SING Y N 27 
+ITC C9    C10    DOUB Y N 28 
+ITC C10   O10    SING N N 29 
+ITC C10   C6B    SING Y N 30 
+ITC C6B   C11    SING N N 31 
+ITC O11   C11    DOUB N N 32 
+ITC C5B   C12    SING N N 33 
+ITC C12   O12    DOUB N N 34 
+ITC C12   C4B    SING N N 35 
+ITC C4B   O4B    SING N N 36 
+ITC "N2'" "H2'1" SING N N 37 
+ITC "N2'" "H2'2" SING N N 38 
+ITC O3    H3     SING N N 39 
+ITC C4    H4     SING N N 40 
+ITC C4A   H4A    SING N N 41 
+ITC "C4'" "H4'1" SING N N 42 
+ITC "C4'" "H4'2" SING N N 43 
+ITC "C4'" "H4'3" SING N N 44 
+ITC C4D   H4D1   SING N N 45 
+ITC C4D   H4D2   SING N N 46 
+ITC C4D   H4D3   SING N N 47 
+ITC C5    H51C   SING N N 48 
+ITC C5    H52C   SING N N 49 
+ITC C5A   H5A    SING N N 50 
+ITC C5B   H5B1   SING N N 51 
+ITC C5B   H5B2   SING N N 52 
+ITC "C6'" "H6'1" SING N N 53 
+ITC "C6'" "H6'2" SING N N 54 
+ITC "C6'" "H6'3" SING N N 55 
+ITC C8    H8     SING N N 56 
+ITC C9    H9     SING N N 57 
+ITC O10   H10    SING N N 58 
+ITC O4B   H4B    SING N N 59 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ITC SMILES           ACDLabs              10.04 "O=C3CC(C2(OC(=O)c1c(O)ccc(Cl)c12)C)CC4C3(O)C(=O)C(C(=O)N)=C(O)C4N(C)C"                                                                                                                            
+ITC SMILES_CANONICAL CACTVS               3.352 "CN(C)[C@H]1[C@@H]2C[C@@H](CC(=O)[C@]2(O)C(=O)C(=C1O)C(N)=O)[C@]3(C)OC(=O)c4c(O)ccc(Cl)c34"                                                                                                        
+ITC SMILES           CACTVS               3.352 "CN(C)[CH]1[CH]2C[CH](CC(=O)[C]2(O)C(=O)C(=C1O)C(N)=O)[C]3(C)OC(=O)c4c(O)ccc(Cl)c34"                                                                                                               
+ITC SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C[C@@]1(c2c(ccc(c2C(=O)O1)O)Cl)[C@H]3C[C@H]4[C@@H](C(=C(C(=O)[C@]4(C(=O)C3)O)C(=O)N)O)N(C)C"                                                                                                      
+ITC SMILES           "OpenEye OEToolkits" 1.6.1 "CC1(c2c(ccc(c2C(=O)O1)O)Cl)C3CC4C(C(=C(C(=O)C4(C(=O)C3)O)C(=O)N)O)N(C)C"                                                                                                                          
+ITC InChI            InChI                1.03  "InChI=1S/C22H23ClN2O8/c1-21(15-10(23)4-5-11(26)13(15)20(31)33-21)8-6-9-16(25(2)3)17(28)14(19(24)30)18(29)22(9,32)12(27)7-8/h4-5,8-9,16,26,28,32H,6-7H2,1-3H3,(H2,24,30)/t8-,9-,16-,21-,22-/m0/s1" 
+ITC InChIKey         InChI                1.03  GFSLIMZISCAANG-AXVXPIMKSA-N                                                                                                                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ITC "SYSTEMATIC NAME" ACDLabs              10.04 "(4S,4aS,6S,8aS)-6-[(1S)-7-chloro-4-hydroxy-1-methyl-3-oxo-1,3-dihydro-2-benzofuran-1-yl]-4-(dimethylamino)-3,8a-dihydroxy-1,8-dioxo-1,4,4a,5,6,7,8,8a-octahydronaphthalene-2-carboxamide" 
+ITC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(4S,4aS,6S,8aS)-6-[(1S)-7-chloro-4-hydroxy-1-methyl-3-oxo-2-benzofuran-1-yl]-4-dimethylamino-3,8a-dihydroxy-1,8-dioxo-4a,5,6,7-tetrahydro-4H-naphthalene-2-carboxamide"                   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ITC "Create component"     2010-03-15 EBI  
+ITC "Modify aromatic_flag" 2011-06-04 RCSB 
+ITC "Modify descriptor"    2011-06-04 RCSB 
+# 

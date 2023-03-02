@@ -1,0 +1,120 @@
+data_MPI
+# 
+_chem_comp.id                                    MPI 
+_chem_comp.name                                  "IMIDAZO[1,2-A]PYRIDINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H7 N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        119.144 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MPI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AEM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MPI N1  N1  N 1 1 Y N N 31.823 93.341 47.216 0.235  0.670  0.000  N1  MPI 1  
+MPI C2  C2  C 0 1 Y N N 32.328 93.257 48.496 0.245  -0.665 -0.005 C2  MPI 2  
+MPI C3  C3  C 0 1 Y N N 31.598 93.729 49.595 -0.951 -1.383 0.001  C3  MPI 3  
+MPI C4  C4  C 0 1 Y N N 30.357 94.277 49.348 -2.147 -0.695 0.001  C4  MPI 4  
+MPI C5  C5  C 0 1 Y N N 29.850 94.359 48.026 -2.115 0.698  0.000  C5  MPI 5  
+MPI C6  C6  C 0 1 Y N N 30.587 93.889 46.972 -0.917 1.346  0.000  C6  MPI 6  
+MPI N7  N7  N 0 1 Y N N 33.550 92.674 48.387 1.559  -1.080 0.001  N7  MPI 7  
+MPI C8  C8  C 0 1 Y N N 33.817 92.394 47.062 2.340  0.049  0.001  C8  MPI 8  
+MPI C9  C9  C 0 1 Y N N 32.752 92.802 46.324 1.523  1.110  0.000  C9  MPI 9  
+MPI H3  H3  H 0 1 N N N 32.011 93.654 50.595 -0.941 -2.462 0.001  H3  MPI 10 
+MPI H4  H4  H 0 1 N N N 29.761 94.652 50.173 -3.088 -1.225 0.001  H4  MPI 11 
+MPI H5  H5  H 0 1 N N N 28.874 94.791 47.836 -3.037 1.262  0.000  H5  MPI 12 
+MPI H6  H6  H 0 1 N N N 30.270 93.916 45.937 -0.898 2.426  -0.001 H6  MPI 13 
+MPI HN7 HN7 H 0 1 N N N 34.165 92.479 49.167 1.872  -1.998 0.001  HN7 MPI 14 
+MPI H8  H8  H 0 1 N N N 34.739 91.925 46.751 3.420  0.076  0.001  H8  MPI 15 
+MPI H9  H9  H 0 1 N N N 32.567 92.764 45.263 1.835  2.144  0.000  H9  MPI 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MPI N1 C2  SING Y N 1  
+MPI N1 C6  DOUB Y N 2  
+MPI N1 C9  SING Y N 3  
+MPI C2 C3  DOUB Y N 4  
+MPI C2 N7  SING Y N 5  
+MPI C3 C4  SING Y N 6  
+MPI C3 H3  SING N N 7  
+MPI C4 C5  DOUB Y N 8  
+MPI C4 H4  SING N N 9  
+MPI C5 C6  SING Y N 10 
+MPI C5 H5  SING N N 11 
+MPI C6 H6  SING N N 12 
+MPI N7 C8  SING Y N 13 
+MPI N7 HN7 SING N N 14 
+MPI C8 C9  DOUB Y N 15 
+MPI C8 H8  SING N N 16 
+MPI C9 H9  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MPI SMILES           ACDLabs              10.04 "c1cccc2[n+]1ccn2"                                 
+MPI SMILES_CANONICAL CACTVS               3.341 "[nH]1cc[n+]2ccccc12"                              
+MPI SMILES           CACTVS               3.341 "[nH]1cc[n+]2ccccc12"                              
+MPI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc[n+]2cc[nH]c2c1"                              
+MPI SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc[n+]2cc[nH]c2c1"                              
+MPI InChI            InChI                1.03  "InChI=1S/C7H6N2/c1-2-5-9-6-4-8-7(9)3-1/h1-6H/p+1" 
+MPI InChIKey         InChI                1.03  UTCSSFWDNNEEBH-UHFFFAOYSA-O                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MPI "SYSTEMATIC NAME" ACDLabs              10.04 "1H-imidazo[1,2-a]pyridin-4-ium" 
+MPI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1H-imidazo[1,2-a]pyridin-4-ium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MPI "Create component"  1999-07-08 EBI  
+MPI "Modify descriptor" 2011-06-04 RCSB 
+# 

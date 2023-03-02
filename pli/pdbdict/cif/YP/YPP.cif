@@ -1,0 +1,223 @@
+data_YPP
+# 
+_chem_comp.id                                    YPP 
+_chem_comp.name                                  "Hydrolyzed piperacillin" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C23 H29 N5 O8 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(2R,4S)-2-[(R)-carboxy{[(2R)-2-{[(4-ethyl-2,3-dioxopiperazin-1-yl)carbonyl]amino}-2-phenylacetyl]amino}methyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-01-06 
+_chem_comp.pdbx_modified_date                    2011-12-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        535.570 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     YPP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3Q07 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+YPP C    C    C 0 1 N N N -4.368  -16.170 14.501 -2.279 -2.675 -1.156 C    YPP 1  
+YPP N    N    N 0 1 N N N -6.191  -16.473 12.856 -1.395 -0.479 -0.623 N    YPP 2  
+YPP O    O    O 0 1 N N N -3.855  -16.443 15.610 -1.859 -2.531 -2.280 O    YPP 3  
+YPP CA   CA   C 0 1 N N R -5.582  -17.008 14.085 -2.381 -1.490 -0.231 CA   YPP 4  
+YPP CB   CB   C 0 1 N N R -5.188  -18.481 13.944 -3.786 -0.892 -0.321 CB   YPP 5  
+YPP NAE  NAE  N 0 1 N N N -4.220  -18.686 12.798 -3.952 0.238  0.636  NAE  YPP 6  
+YPP CAG  CAG  C 0 1 N N S -4.931  -19.303 11.612 -5.371 0.503  0.893  CAG  YPP 7  
+YPP CAH  CAH  C 0 1 N N N -6.002  -20.286 12.069 -6.240 -0.767 0.822  CAH  YPP 8  
+YPP SAI  SAI  S 0 1 N N N -6.606  -19.534 13.557 -5.051 -2.071 0.310  SAI  YPP 9  
+YPP CAJ  CAJ  C 0 1 N N N -3.913  -20.021 10.729 -5.872 1.493  -0.127 CAJ  YPP 10 
+YPP OAK  OAK  O 0 1 N N N -2.739  -20.068 11.148 -5.255 1.671  -1.151 OAK  YPP 11 
+YPP OAL  OAL  O 0 1 N N N -4.334  -20.512 9.659  -7.005 2.177  0.102  OAL  YPP 12 
+YPP CAM  CAM  C 0 1 N N N -7.113  -20.412 11.027 -6.836 -1.089 2.193  CAM  YPP 13 
+YPP CAN  CAN  C 0 1 N N N -5.382  -21.653 12.374 -7.345 -0.606 -0.224 CAN  YPP 14 
+YPP CAP  CAP  C 0 1 N N N -7.516  -16.317 12.753 -0.129 -0.562 -0.168 CAP  YPP 15 
+YPP OAQ  OAQ  O 0 1 N N N -8.310  -16.599 13.648 0.194  -1.473 0.565  OAQ  YPP 16 
+YPP CAR  CAR  C 0 1 N N R -8.008  -15.705 11.441 0.886  0.477  -0.570 CAR  YPP 17 
+YPP CAS  CAS  C 0 1 Y N N -8.039  -16.748 10.313 0.422  1.836  -0.112 CAS  YPP 18 
+YPP CAT  CAT  C 0 1 Y N N -7.097  -16.690 9.291  -0.183 2.698  -1.007 CAT  YPP 19 
+YPP CAU  CAU  C 0 1 Y N N -7.131  -17.619 8.257  -0.608 3.944  -0.586 CAU  YPP 20 
+YPP CAV  CAV  C 0 1 Y N N -8.113  -18.603 8.237  -0.429 4.328  0.730  CAV  YPP 21 
+YPP CAW  CAW  C 0 1 Y N N -9.067  -18.653 9.249  0.175  3.465  1.625  CAW  YPP 22 
+YPP CAX  CAX  C 0 1 Y N N -9.031  -17.723 10.285 0.597  2.217  1.206  CAX  YPP 23 
+YPP NAY  NAY  N 0 1 N N N -9.359  -15.137 11.622 2.176  0.166  0.051  NAY  YPP 24 
+YPP CAZ  CAZ  C 0 1 N N N -9.839  -14.242 10.768 3.319  0.604  -0.514 CAZ  YPP 25 
+YPP OBA  OBA  O 0 1 N N N -9.186  -13.843 9.804  3.276  1.330  -1.487 OBA  YPP 26 
+YPP NBB  NBB  N 0 1 N N N -11.068 -13.737 10.929 4.509  0.236  0.001  NBB  YPP 27 
+YPP CBC  CBC  C 0 1 N N N -11.463 -12.577 10.090 4.559  -0.548 1.235  CBC  YPP 28 
+YPP CBD  CBD  C 0 1 N N N -12.409 -11.669 10.866 5.684  -1.577 1.170  CBD  YPP 29 
+YPP NBE  NBE  N 0 1 N N N -13.525 -12.475 11.400 6.944  -0.937 0.793  NBE  YPP 30 
+YPP CBF  CBF  C 0 1 N N N -13.263 -13.715 11.981 6.953  0.061  -0.114 CBF  YPP 31 
+YPP OBG  OBG  O 0 1 N N N -14.146 -14.289 12.622 8.002  0.522  -0.511 OBG  YPP 32 
+YPP CBH  CBH  C 0 1 N N N -12.006 -14.302 11.831 5.649  0.586  -0.626 CBH  YPP 33 
+YPP OBI  OBI  O 0 1 N N N -11.730 -15.316 12.471 5.620  1.322  -1.591 OBI  YPP 34 
+YPP CBJ  CBJ  C 0 1 N N N -14.912 -11.968 11.331 8.200  -1.380 1.403  CBJ  YPP 35 
+YPP CBK  CBK  C 0 1 N N N -15.191 -11.012 12.493 8.811  -2.499 0.556  CBK  YPP 36 
+YPP OXT  OXT  O 0 1 N N N -3.985  -15.281 13.706 -2.661 -3.891 -0.733 OXT  YPP 37 
+YPP HN   HN   H 0 1 N N N -5.605  -16.222 12.086 -1.653 0.249  -1.209 HN   YPP 38 
+YPP HA   HA   H 0 1 N N N -6.347  -16.946 14.873 -2.187 -1.810 0.792  HA   YPP 39 
+YPP HB   HB   H 0 1 N N N -4.744  -18.750 14.914 -4.014 -0.580 -1.341 HB   YPP 40 
+YPP HNAE HNAE H 0 0 N N N -3.838  -17.802 12.529 -3.456 0.058  1.496  HNAE YPP 41 
+YPP HAG  HAG  H 0 1 N N N -5.422  -18.502 11.040 -5.472 0.943  1.885  HAG  YPP 42 
+YPP HAM  HAM  H 0 1 N N N -7.870  -21.126 11.382 -7.455 -0.256 2.525  HAM  YPP 43 
+YPP HAMA HAMA H 0 0 N N N -7.581  -19.429 10.870 -7.446 -1.990 2.122  HAMA YPP 44 
+YPP HAMB HAMB H 0 0 N N N -6.687  -20.771 10.079 -6.031 -1.252 2.910  HAMB YPP 45 
+YPP HAN  HAN  H 0 1 N N N -6.169  -22.348 12.702 -6.897 -0.429 -1.202 HAN  YPP 46 
+YPP HANA HANA H 0 0 N N N -4.899  -22.047 11.467 -7.948 -1.513 -0.258 HANA YPP 47 
+YPP HANB HANB H 0 0 N N N -4.632  -21.546 13.172 -7.978 0.240  0.044  HANB YPP 48 
+YPP HAR  HAR  H 0 1 N N N -7.304  -14.908 11.158 0.995  0.477  -1.655 HAR  YPP 49 
+YPP HAT  HAT  H 0 1 N N N -6.338  -15.922 9.301  -0.323 2.398  -2.035 HAT  YPP 50 
+YPP HAU  HAU  H 0 1 N N N -6.394  -17.576 7.469  -1.080 4.618  -1.286 HAU  YPP 51 
+YPP HAV  HAV  H 0 1 N N N -8.135  -19.328 7.437  -0.760 5.302  1.058  HAV  YPP 52 
+YPP HAW  HAW  H 0 1 N N N -9.835  -19.412 9.231  0.316  3.765  2.653  HAW  YPP 53 
+YPP HAX  HAX  H 0 1 N N N -9.774  -17.759 11.068 1.065  1.542  1.906  HAX  YPP 54 
+YPP HNAY HNAY H 0 0 N N N -9.919  -15.430 12.397 2.207  -0.355 0.868  HNAY YPP 55 
+YPP HBC  HBC  H 0 1 N N N -10.564 -12.009 9.809  4.731  0.121  2.079  HBC  YPP 56 
+YPP HBCA HBCA H 0 0 N N N -11.970 -12.940 9.184  3.608  -1.063 1.373  HBCA YPP 57 
+YPP HBD  HBD  H 0 1 N N N -11.866 -11.195 11.697 5.798  -2.047 2.147  HBD  YPP 58 
+YPP HBDA HBDA H 0 0 N N N -12.804 -10.890 10.197 5.432  -2.339 0.432  HBDA YPP 59 
+YPP HBJ  HBJ  H 0 1 N N N -15.053 -11.432 10.381 8.896  -0.543 1.453  HBJ  YPP 60 
+YPP HBJA HBJA H 0 0 N N N -15.609 -12.817 11.387 8.005  -1.751 2.409  HBJA YPP 61 
+YPP HBK  HBK  H 0 1 N N N -16.226 -10.645 12.426 9.006  -2.128 -0.450 HBK  YPP 62 
+YPP HBKA HBKA H 0 0 N N N -15.051 -11.543 13.446 9.745  -2.829 1.010  HBKA YPP 63 
+YPP HBKB HBKB H 0 0 N N N -14.496 -10.161 12.442 8.116  -3.337 0.506  HBKB YPP 64 
+YPP HAL  HAL  H 0 1 N N N -3.617  -20.935 9.201  -7.287 2.800  -0.581 HAL  YPP 65 
+YPP HXT  HXT  H 0 1 N N N -3.232  -14.832 14.072 -2.582 -4.620 -1.364 HXT  YPP 66 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+YPP C   O    DOUB N N 1  
+YPP C   CA   SING N N 2  
+YPP C   OXT  SING N N 3  
+YPP N   CA   SING N N 4  
+YPP N   CAP  SING N N 5  
+YPP CA  CB   SING N N 6  
+YPP CB  NAE  SING N N 7  
+YPP CB  SAI  SING N N 8  
+YPP NAE CAG  SING N N 9  
+YPP CAG CAH  SING N N 10 
+YPP CAG CAJ  SING N N 11 
+YPP CAH SAI  SING N N 12 
+YPP CAH CAM  SING N N 13 
+YPP CAH CAN  SING N N 14 
+YPP CAJ OAK  DOUB N N 15 
+YPP CAJ OAL  SING N N 16 
+YPP CAP OAQ  DOUB N N 17 
+YPP CAP CAR  SING N N 18 
+YPP CAR CAS  SING N N 19 
+YPP CAR NAY  SING N N 20 
+YPP CAS CAT  DOUB Y N 21 
+YPP CAS CAX  SING Y N 22 
+YPP CAT CAU  SING Y N 23 
+YPP CAU CAV  DOUB Y N 24 
+YPP CAV CAW  SING Y N 25 
+YPP CAW CAX  DOUB Y N 26 
+YPP NAY CAZ  SING N N 27 
+YPP CAZ OBA  DOUB N N 28 
+YPP CAZ NBB  SING N N 29 
+YPP NBB CBC  SING N N 30 
+YPP NBB CBH  SING N N 31 
+YPP CBC CBD  SING N N 32 
+YPP CBD NBE  SING N N 33 
+YPP NBE CBF  SING N N 34 
+YPP NBE CBJ  SING N N 35 
+YPP CBF OBG  DOUB N N 36 
+YPP CBF CBH  SING N N 37 
+YPP CBH OBI  DOUB N N 38 
+YPP CBJ CBK  SING N N 39 
+YPP N   HN   SING N N 40 
+YPP CA  HA   SING N N 41 
+YPP CB  HB   SING N N 42 
+YPP NAE HNAE SING N N 43 
+YPP CAG HAG  SING N N 44 
+YPP CAM HAM  SING N N 45 
+YPP CAM HAMA SING N N 46 
+YPP CAM HAMB SING N N 47 
+YPP CAN HAN  SING N N 48 
+YPP CAN HANA SING N N 49 
+YPP CAN HANB SING N N 50 
+YPP CAR HAR  SING N N 51 
+YPP CAT HAT  SING N N 52 
+YPP CAU HAU  SING N N 53 
+YPP CAV HAV  SING N N 54 
+YPP CAW HAW  SING N N 55 
+YPP CAX HAX  SING N N 56 
+YPP NAY HNAY SING N N 57 
+YPP CBC HBC  SING N N 58 
+YPP CBC HBCA SING N N 59 
+YPP CBD HBD  SING N N 60 
+YPP CBD HBDA SING N N 61 
+YPP CBJ HBJ  SING N N 62 
+YPP CBJ HBJA SING N N 63 
+YPP CBK HBK  SING N N 64 
+YPP CBK HBKA SING N N 65 
+YPP CBK HBKB SING N N 66 
+YPP OAL HAL  SING N N 67 
+YPP OXT HXT  SING N N 68 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+YPP SMILES           ACDLabs              12.01 "O=C(NC(C(=O)O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NC(=O)N3C(=O)C(=O)N(CC)CC3" 
+YPP SMILES_CANONICAL CACTVS               3.370 "CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]([C@@H]2N[C@@H](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O" 
+YPP SMILES           CACTVS               3.370 "CCN1CCN(C(=O)N[CH](C(=O)N[CH]([CH]2N[CH](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O" 
+YPP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CCN1CCN(C(=O)C1=O)C(=O)N[C@H](c2ccccc2)C(=O)N[C@@H]([C@@H]3N[C@H](C(S3)(C)C)C(=O)O)C(=O)O" 
+YPP SMILES           "OpenEye OEToolkits" 1.7.0 "CCN1CCN(C(=O)C1=O)C(=O)NC(c2ccccc2)C(=O)NC(C3NC(C(S3)(C)C)C(=O)O)C(=O)O" 
+YPP InChI            InChI                1.03  
+"InChI=1S/C23H29N5O8S/c1-4-27-10-11-28(19(31)18(27)30)22(36)25-13(12-8-6-5-7-9-12)16(29)24-14(20(32)33)17-26-15(21(34)35)23(2,3)37-17/h5-9,13-15,17,26H,4,10-11H2,1-3H3,(H,24,29)(H,25,36)(H,32,33)(H,34,35)/t13-,14+,15+,17-/m1/s1" 
+YPP InChIKey         InChI                1.03  OKSUEATVFIVTFV-WBTNSWJXSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+YPP "SYSTEMATIC NAME" ACDLabs              12.01 "(2R,4S)-2-[(R)-carboxy{[(2R)-2-{[(4-ethyl-2,3-dioxopiperazin-1-yl)carbonyl]amino}-2-phenylacetyl]amino}methyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid"               
+YPP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2R,4S)-2-[(1R)-1-[[(2R)-2-[(4-ethyl-2,3-dioxo-piperazin-1-yl)carbonylamino]-2-phenyl-ethanoyl]amino]-2-hydroxy-2-oxo-ethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+YPP "Create component"     2011-01-06 PDBJ 
+YPP "Modify aromatic_flag" 2011-06-04 RCSB 
+YPP "Modify descriptor"    2011-06-04 RCSB 
+# 

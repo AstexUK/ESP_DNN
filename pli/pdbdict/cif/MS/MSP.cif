@@ -1,0 +1,201 @@
+data_MSP
+# 
+_chem_comp.id                                    MSP 
+_chem_comp.name                                  "5'-O-[(L-METHIONYL)-SULPHAMOYL]ADENOSINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C15 H25 N7 O7 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-05-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        479.532 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     MSP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MSP N2     N2   N 0 1 N N N 9.013  19.440 14.591 2.610  2.144  0.622  N2     MSP 1  
+MSP CA     CA   C 0 1 N N S 10.380 19.828 14.210 3.170  0.937  0.000  CA     MSP 2  
+MSP CB     CB   C 0 1 N N N 10.550 20.173 12.712 4.697  0.977  0.094  CB     MSP 3  
+MSP CG     CG   C 0 1 N N N 9.997  19.131 11.725 5.228  2.145  -0.739 CG     MSP 4  
+MSP SD     SD   S 0 1 N N N 10.303 19.702 10.047 7.038  2.193  -0.629 SD     MSP 5  
+MSP CE     CE   C 0 1 N N N 9.746  18.262 9.110  7.380  3.631  -1.679 CE     MSP 6  
+MSP C9     C9   C 0 1 N N N 10.798 21.049 15.049 2.655  -0.283 0.718  C9     MSP 7  
+MSP N8     N8   N 0 1 N N N 9.738  21.686 15.620 2.690  -1.487 0.113  N8     MSP 8  
+MSP S1     S1   S 0 1 N N N 10.052 23.004 16.499 2.124  -2.828 0.902  S1     MSP 9  
+MSP O1S    O1S  O 0 1 N N N 8.715  23.464 16.781 2.250  -3.901 -0.021 O1S    MSP 10 
+MSP O2S    O2S  O 0 1 N N N 10.883 22.673 17.615 2.703  -2.786 2.199  O2S    MSP 11 
+MSP "O5'"  O5*  O 0 1 N N N 10.781 24.071 15.598 0.628  -2.636 1.110  "O5'"  MSP 12 
+MSP "C5'"  C5*  C 0 1 N N N 10.150 24.590 14.422 0.003  -2.853 -0.157 "C5'"  MSP 13 
+MSP "C4'"  C4*  C 0 1 N N R 11.101 25.589 13.755 -1.510 -2.674 -0.017 "C4'"  MSP 14 
+MSP "O4'"  O4*  O 0 1 N N N 11.218 26.680 14.654 -1.814 -1.301 0.283  "O4'"  MSP 15 
+MSP "C3'"  C3*  C 0 1 N N S 12.524 25.016 13.576 -2.204 -3.020 -1.348 "C3'"  MSP 16 
+MSP "O3'"  O3*  O 0 1 N N N 12.891 25.175 12.207 -3.122 -4.101 -1.175 "O3'"  MSP 17 
+MSP "C2'"  C2*  C 0 1 N N R 13.374 25.862 14.512 -2.960 -1.720 -1.727 "C2'"  MSP 18 
+MSP "O2'"  O2*  O 0 1 N N N 14.694 25.994 14.020 -4.256 -2.020 -2.251 "O2'"  MSP 19 
+MSP "C1'"  C1*  C 0 1 N N R 12.558 27.147 14.664 -3.070 -0.998 -0.360 "C1'"  MSP 20 
+MSP N9     N9   N 0 1 N N N 12.846 27.808 15.949 -3.218 0.447  -0.547 N9     MSP 21 
+MSP C8     C8   C 0 1 N N N 12.598 27.390 17.218 -2.329 1.307  -1.167 C8     MSP 22 
+MSP N7     N7   N 0 1 N N N 13.008 28.259 18.164 -2.651 2.555  -1.012 N7     MSP 23 
+MSP C5     C5   C 0 1 N N N 13.572 29.312 17.470 -3.739 2.688  -0.233 C5     MSP 24 
+MSP C6     C6   C 0 1 N N N 14.168 30.508 17.808 -4.318 3.727  0.404  C6     MSP 25 
+MSP N6     N6   N 0 1 N N N 14.322 30.867 19.092 -3.897 5.047  0.280  N6     MSP 26 
+MSP N1     N1   N 0 1 N N N 14.633 31.359 16.855 -5.404 3.315  1.215  N1     MSP 27 
+MSP C2     C2   C 0 1 N N N 14.504 31.037 15.541 -5.222 2.133  1.911  C2     MSP 28 
+MSP N3     N3   N 0 1 N N N 13.928 29.885 15.113 -4.693 1.107  1.294  N3     MSP 29 
+MSP C4     C4   C 0 1 N N R 13.471 29.034 16.078 -4.343 1.286  -0.122 C4     MSP 30 
+MSP O1     O1   O 0 1 N N N 11.984 21.356 15.068 2.208  -0.183 1.842  O1     MSP 31 
+MSP HN21   1HN2 H 0 0 N N N 8.686  18.669 14.009 2.911  2.141  1.585  HN21   MSP 32 
+MSP HN22   2HN2 H 0 0 N N N 8.901  19.213 15.579 3.059  2.933  0.181  HN22   MSP 33 
+MSP HA     HA   H 0 1 N N N 11.026 18.940 14.404 2.871  0.896  -1.047 HA     MSP 34 
+MSP HB1    1HB  H 0 1 N N N 11.622 20.380 12.487 5.109  0.043  -0.287 HB1    MSP 35 
+MSP HB2    2HB  H 0 1 N N N 10.107 21.174 12.498 4.994  1.108  1.134  HB2    MSP 36 
+MSP HG1    1HG  H 0 1 N N N 8.921  18.901 11.907 4.816  3.080  -0.359 HG1    MSP 37 
+MSP HG2    2HG  H 0 1 N N N 10.407 18.111 11.909 4.931  2.015  -1.780 HG2    MSP 38 
+MSP HE1    1HE  H 0 1 N N N 8.707  17.918 9.323  7.003  3.445  -2.685 HE1    MSP 39 
+MSP HE2    2HE  H 0 1 N N N 9.936  18.616 8.070  6.888  4.511  -1.264 HE2    MSP 40 
+MSP HE3    3HE  H 0 1 N N N 10.221 17.292 9.386  8.456  3.803  -1.721 HE3    MSP 41 
+MSP HN8    HN8  H 0 1 N N N 8.842  21.242 15.419 3.047  -1.567 -0.786 HN8    MSP 42 
+MSP "H5'1" 1H5* H 0 0 N N N 9.148  25.031 14.635 0.389  -2.134 -0.880 "H5'1" MSP 43 
+MSP "H5'2" 2H5* H 0 0 N N N 9.819  23.785 13.725 0.219  -3.865 -0.500 "H5'2" MSP 44 
+MSP "H4'"  H4*  H 0 1 N N N 10.697 25.857 12.751 -1.887 -3.319 0.777  "H4'"  MSP 45 
+MSP "H3'"  H3*  H 0 1 N N N 12.634 23.932 13.815 -1.465 -3.268 -2.110 "H3'"  MSP 46 
+MSP H2     H2   H 0 1 N Y N 13.766 24.823 12.097 -3.566 -4.230 -2.024 H2     MSP 47 
+MSP H1     H1   H 0 1 N N N 13.560 25.422 15.520 -2.384 -1.126 -2.436 H1     MSP 48 
+MSP "H2'"  H2*  H 0 1 N N N 15.225 26.522 14.605 -4.118 -2.466 -3.098 "H2'"  MSP 49 
+MSP "H1'"  H1*  H 0 1 N N N 12.782 27.896 13.869 -3.904 -1.397 0.218  "H1'"  MSP 50 
+MSP H8     H8   H 0 1 N N N 12.108 26.432 17.459 -1.462 0.975  -1.719 H8     MSP 51 
+MSP HN61   1HN6 H 0 0 N N N 14.821 30.118 19.572 -3.145 5.265  -0.293 HN61   MSP 52 
+MSP HN62   2HN6 H 0 0 N N N 14.763 31.752 19.342 -4.356 5.750  0.766  HN62   MSP 53 
+MSP HN1    HN1  H 0 1 N N N 15.616 31.553 17.046 -6.224 3.830  1.279  HN1    MSP 54 
+MSP H3     H3   H 0 1 N N N 14.885 31.745 14.786 -5.513 2.057  2.948  H3     MSP 55 
+MSP H4     H4   H 0 1 N N N 13.735 29.423 15.067 -5.216 1.166  -0.764 H4     MSP 56 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MSP N2    CA     SING N N 1  
+MSP N2    HN21   SING N N 2  
+MSP N2    HN22   SING N N 3  
+MSP CA    CB     SING N N 4  
+MSP CA    C9     SING N N 5  
+MSP CA    HA     SING N N 6  
+MSP CB    CG     SING N N 7  
+MSP CB    HB1    SING N N 8  
+MSP CB    HB2    SING N N 9  
+MSP CG    SD     SING N N 10 
+MSP CG    HG1    SING N N 11 
+MSP CG    HG2    SING N N 12 
+MSP SD    CE     SING N N 13 
+MSP CE    HE1    SING N N 14 
+MSP CE    HE2    SING N N 15 
+MSP CE    HE3    SING N N 16 
+MSP C9    N8     SING N N 17 
+MSP C9    O1     DOUB N N 18 
+MSP N8    S1     SING N N 19 
+MSP N8    HN8    SING N N 20 
+MSP S1    O1S    DOUB N N 21 
+MSP S1    O2S    DOUB N N 22 
+MSP S1    "O5'"  SING N N 23 
+MSP "O5'" "C5'"  SING N N 24 
+MSP "C5'" "C4'"  SING N N 25 
+MSP "C5'" "H5'1" SING N N 26 
+MSP "C5'" "H5'2" SING N N 27 
+MSP "C4'" "O4'"  SING N N 28 
+MSP "C4'" "C3'"  SING N N 29 
+MSP "C4'" "H4'"  SING N N 30 
+MSP "O4'" "C1'"  SING N N 31 
+MSP "C3'" "O3'"  SING N N 32 
+MSP "C3'" "C2'"  SING N N 33 
+MSP "C3'" "H3'"  SING N N 34 
+MSP "O3'" H2     SING N N 35 
+MSP "C2'" "O2'"  SING N N 36 
+MSP "C2'" "C1'"  SING N N 37 
+MSP "C2'" H1     SING N N 38 
+MSP "O2'" "H2'"  SING N N 39 
+MSP "C1'" N9     SING N N 40 
+MSP "C1'" "H1'"  SING N N 41 
+MSP N9    C8     SING N N 42 
+MSP N9    C4     SING N N 43 
+MSP C8    N7     DOUB N N 44 
+MSP C8    H8     SING N N 45 
+MSP N7    C5     SING N N 46 
+MSP C5    C6     DOUB N N 47 
+MSP C5    C4     SING N N 48 
+MSP C6    N6     SING N N 49 
+MSP C6    N1     SING N N 50 
+MSP N6    HN61   SING N N 51 
+MSP N6    HN62   SING N N 52 
+MSP N1    C2     SING N N 53 
+MSP N1    HN1    SING N N 54 
+MSP C2    N3     DOUB N N 55 
+MSP C2    H3     SING N N 56 
+MSP N3    C4     SING N N 57 
+MSP C4    H4     SING N N 58 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MSP SMILES           ACDLabs              10.04 "O=C(NS(=O)(=O)OCC3OC(N2C=NC1=C(N)NC=NC12)C(O)C3O)C(N)CCSC"                                                                                                                                                 
+MSP SMILES_CANONICAL CACTVS               3.341 "CSCC[C@H](N)C(=O)N[S](=O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N2C=NC3=C(N)NC=N[C@H]23"                                                                                                                      
+MSP SMILES           CACTVS               3.341 "CSCC[CH](N)C(=O)N[S](=O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O)N2C=NC3=C(N)NC=N[CH]23"                                                                                                                             
+MSP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CSCC[C@@H](C(=O)NS(=O)(=O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(NC=NC32)N)O)O)N"                                                                                                                        
+MSP SMILES           "OpenEye OEToolkits" 1.5.0 "CSCCC(C(=O)NS(=O)(=O)OCC1C(C(C(O1)N2C=NC3=C(NC=NC32)N)O)O)N"                                                                                                                                               
+MSP InChI            InChI                1.03  "InChI=1S/C15H25N7O7S2/c1-30-3-2-7(16)14(25)21-31(26,27)28-4-8-10(23)11(24)15(29-8)22-6-20-9-12(17)18-5-19-13(9)22/h5-8,10-11,13,15,23-24H,2-4,16-17H2,1H3,(H,18,19)(H,21,25)/t7-,8+,10+,11+,13?,15+/m0/s1" 
+MSP InChIKey         InChI                1.03  SQDXXTAOGLOMRP-VOLIQSIHSA-N                                                                                                                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MSP "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-(L-methionylsulfamoyl)adenosine"                                                                                                  
+MSP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(6-amino-1,4-dihydropurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl N-[(2S)-2-amino-4-methylsulfanyl-butanoyl]sulfamate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MSP "Create component"  2003-05-30 RCSB 
+MSP "Modify descriptor" 2011-06-04 RCSB 
+# 

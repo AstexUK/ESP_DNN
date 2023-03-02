@@ -1,0 +1,122 @@
+data_JIM
+# 
+_chem_comp.id                                    JIM 
+_chem_comp.name                                  "(2R)-2,3-dihydroxypropyl acetate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(1R)-1-glycerol acetate" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-11-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     JIM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KQ0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+JIM OAA  OAA  O 0 1 N N N 21.635 -3.667 6.419 -3.704 0.134  0.380  OAA  JIM 1  
+JIM CAB  CAB  C 0 1 N N N 22.644 -3.120 5.549 -2.481 0.755  -0.021 CAB  JIM 2  
+JIM CAC  CAC  C 0 1 N N R 23.905 -2.739 6.329 -1.317 -0.207 0.223  CAC  JIM 3  
+JIM CAD  CAD  C 0 1 N N N 24.467 -1.351 5.965 0.003  0.501  -0.088 CAD  JIM 4  
+JIM OAE  OAE  O 0 1 N N N 25.808 -1.539 5.455 1.112  -0.370 0.256  OAE  JIM 5  
+JIM CAF  CAF  C 0 1 N N N 26.886 -0.563 5.359 2.349  0.105  0.042  CAF  JIM 6  
+JIM OAG  OAG  O 0 1 N N N 27.974 -0.969 4.950 2.500  1.212  -0.418 OAG  JIM 7  
+JIM OAH  OAH  O 0 1 N N N 24.898 -3.702 5.965 -1.457 -1.349 -0.624 OAH  JIM 8  
+JIM CAI  CAI  C 0 1 N N N 26.700 0.870  5.761 3.550  -0.743 0.374  CAI  JIM 9  
+JIM HOAA HOAA H 0 0 N N N 20.866 -3.894 5.909 -4.487 0.688  0.253  HOAA JIM 10 
+JIM HAB  HAB  H 0 1 N N N 22.908 -3.874 4.793 -2.531 1.004  -1.081 HAB  JIM 11 
+JIM HABA HABA H 0 0 N N N 22.242 -2.220 5.061 -2.329 1.665  0.559  HABA JIM 12 
+JIM HAC  HAC  H 0 1 N N N 23.653 -2.716 7.400 -1.321 -0.525 1.266  HAC  JIM 13 
+JIM HAD  HAD  H 0 1 N N N 23.835 -0.877 5.199 0.045  0.741  -1.151 HAD  JIM 14 
+JIM HADA HADA H 0 0 N N N 24.489 -0.707 6.857 0.069  1.420  0.494  HADA JIM 15 
+JIM HOAH HOAH H 0 0 N N N 25.708 -3.512 6.424 -1.461 -1.140 -1.568 HOAH JIM 16 
+JIM HAI  HAI  H 0 1 N N N 27.645 1.415  5.624 3.826  -1.340 -0.495 HAI  JIM 17 
+JIM HAIA HAIA H 0 0 N N N 25.919 1.328  5.136 4.384  -0.099 0.652  HAIA JIM 18 
+JIM HAIB HAIB H 0 0 N N N 26.399 0.918  6.818 3.309  -1.404 1.207  HAIB JIM 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+JIM CAB OAA  SING N N 1  
+JIM OAA HOAA SING N N 2  
+JIM CAB CAC  SING N N 3  
+JIM CAB HAB  SING N N 4  
+JIM CAB HABA SING N N 5  
+JIM CAD CAC  SING N N 6  
+JIM OAH CAC  SING N N 7  
+JIM CAC HAC  SING N N 8  
+JIM OAE CAD  SING N N 9  
+JIM CAD HAD  SING N N 10 
+JIM CAD HADA SING N N 11 
+JIM CAF OAE  SING N N 12 
+JIM OAG CAF  DOUB N N 13 
+JIM CAF CAI  SING N N 14 
+JIM OAH HOAH SING N N 15 
+JIM CAI HAI  SING N N 16 
+JIM CAI HAIA SING N N 17 
+JIM CAI HAIB SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+JIM SMILES_CANONICAL CACTVS               3.352 "CC(=O)OC[C@H](O)CO"                                              
+JIM SMILES           CACTVS               3.352 "CC(=O)OC[CH](O)CO"                                               
+JIM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(=O)OC[C@@H](CO)O"                                             
+JIM SMILES           "OpenEye OEToolkits" 1.7.0 "CC(=O)OCC(CO)O"                                                  
+JIM InChI            InChI                1.03  "InChI=1S/C5H10O4/c1-4(7)9-3-5(8)2-6/h5-6,8H,2-3H2,1H3/t5-/m1/s1" 
+JIM InChIKey         InChI                1.03  KMZHZAAOEWVPSE-RXMQYKEDSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+JIM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "[(2R)-2,3-dihydroxypropyl] ethanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+JIM "Create component"  2009-11-19 RCSB 
+JIM "Modify descriptor" 2011-06-04 RCSB 
+# 

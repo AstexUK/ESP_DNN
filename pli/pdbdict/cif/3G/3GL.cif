@@ -1,0 +1,126 @@
+data_3GL
+# 
+_chem_comp.id                                    3GL 
+_chem_comp.name                                  "(2S,4S)-2-amino-4-hydroxy-pentanedioic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O5" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         4-HYDROXY-GLUTAMIC-ACID 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-11-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.129 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3GL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZJP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3GL N    N    N 0 1 N N N 127.802 83.614 112.343 1.326  0.899  1.589  N    3GL 1  
+3GL CA   CA   C 0 1 N N S 128.473 84.411 113.268 1.257  -0.141 0.554  CA   3GL 2  
+3GL C    C    C 0 1 N N N 128.744 83.775 114.455 2.487  -0.069 -0.314 C    3GL 3  
+3GL CB   CB   C 0 1 N N N 127.689 85.750 113.503 0.011  0.079  -0.307 CB   3GL 4  
+3GL CG   CG   C 0 1 N N S 127.458 86.557 112.239 -1.242 -0.117 0.549  CG   3GL 5  
+3GL OH   OH   O 0 1 N N N 128.567 86.867 111.506 -1.316 -1.478 0.979  OH   3GL 6  
+3GL CD   CD   C 0 1 N N N 126.504 87.850 112.609 -2.464 0.219  -0.266 CD   3GL 7  
+3GL OE1  OE1  O 0 1 N Y N 126.885 88.903 112.391 -2.661 1.476  -0.693 OE1  3GL 8  
+3GL OE2  OE2  O 0 1 N N N 125.691 87.642 113.352 -3.267 -0.643 -0.534 OE2  3GL 9  
+3GL O    O    O 0 1 N N N 129.785 83.838 114.815 3.145  0.944  -0.345 O    3GL 10 
+3GL OXT  OXT  O 0 1 N Y N 127.905 83.099 115.213 2.850  -1.129 -1.052 OXT  3GL 11 
+3GL HN1  HN1  H 0 1 N N N 127.641 84.137 111.506 1.377  1.818  1.176  HN1  3GL 12 
+3GL HN2  HN2  H 0 1 N N N 128.357 82.810 112.132 0.545  0.830  2.224  HN2  3GL 13 
+3GL HA   HA   H 0 1 N N N 129.456 84.639 112.829 1.203  -1.122 1.027  HA   3GL 14 
+3GL HB1C HB1C H 0 0 N N N 126.707 85.499 113.931 0.022  1.093  -0.709 HB1C 3GL 15 
+3GL HB2C HB2C H 0 0 N N N 128.304 86.370 114.173 0.006  -0.637 -1.129 HB2C 3GL 16 
+3GL HG   HG   H 0 1 N N N 126.931 85.903 111.529 -1.194 0.538  1.419  HG   3GL 17 
+3GL HH   HH   H 0 1 N N N 128.331 86.939 110.589 -1.361 -2.117 0.256  HH   3GL 18 
+3GL HE1  HE1  H 0 1 N N N 126.411 89.529 112.926 -3.459 1.644  -1.212 HE1  3GL 19 
+3GL HXT  HXT  H 0 1 N N N 128.364 82.767 115.976 3.647  -1.035 -1.593 HXT  3GL 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3GL N   CA   SING N N 1  
+3GL CA  C    SING N N 2  
+3GL CA  CB   SING N N 3  
+3GL C   O    DOUB N N 4  
+3GL CB  CG   SING N N 5  
+3GL CG  OH   SING N N 6  
+3GL CG  CD   SING N N 7  
+3GL CD  OE1  SING N N 8  
+3GL CD  OE2  DOUB N N 9  
+3GL C   OXT  SING N N 10 
+3GL N   HN1  SING N N 11 
+3GL N   HN2  SING N N 12 
+3GL CA  HA   SING N N 13 
+3GL CB  HB1C SING N N 14 
+3GL CB  HB2C SING N N 15 
+3GL CG  HG   SING N N 16 
+3GL OH  HH   SING N N 17 
+3GL OE1 HE1  SING N N 18 
+3GL OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3GL SMILES           ACDLabs              10.04 "O=C(O)C(N)CC(O)C(=O)O"                                                                 
+3GL SMILES_CANONICAL CACTVS               3.352 "N[C@@H](C[C@H](O)C(O)=O)C(O)=O"                                                        
+3GL SMILES           CACTVS               3.352 "N[CH](C[CH](O)C(O)=O)C(O)=O"                                                           
+3GL SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C([C@@H](C(=O)O)N)[C@@H](C(=O)O)O"                                                     
+3GL SMILES           "OpenEye OEToolkits" 1.6.1 "C(C(C(=O)O)N)C(C(=O)O)O"                                                               
+3GL InChI            InChI                1.03  "InChI=1S/C5H9NO5/c6-2(4(8)9)1-3(7)5(10)11/h2-3,7H,1,6H2,(H,8,9)(H,10,11)/t2-,3-/m0/s1" 
+3GL InChIKey         InChI                1.03  HBDWQSHEVMSFGY-HRFVKAFMSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3GL "SYSTEMATIC NAME" ACDLabs              10.04 "(2S,4S)-2-amino-4-hydroxypentanedioic acid (non-preferred name)" 
+3GL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S,4S)-2-amino-4-hydroxy-pentanedioic acid"                     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3GL "Create component"  2010-11-03 EBI  
+3GL "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,168 @@
+data_G32
+# 
+_chem_comp.id                                    G32 
+_chem_comp.name                                  "O6-METHYL-2'-DEOXY-GUANOSINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C11 H16 N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1994-04-30 
+_chem_comp.pdbx_modified_date                    2009-01-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      6OG 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        361.248 
+_chem_comp.one_letter_code                       G 
+_chem_comp.three_letter_code                     G32 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+G32 O3P    O3P  O 0 1 N Y N 7.858  27.073 -1.632 -6.089 0.082  -0.494 O3P    G32 1  
+G32 P      P    P 0 1 N N N 9.250  27.162 -1.116 -5.250 -0.844 0.299  P      G32 2  
+G32 O1P    O1P  O 0 1 N N N 9.811  28.554 -1.232 -4.814 -2.093 -0.618 O1P    G32 3  
+G32 O2P    O2P  O 0 1 N N N 9.142  26.697 0.400  -6.088 -1.375 1.567  O2P    G32 4  
+G32 "O5'"  O5*  O 0 1 N N N 10.251 26.090 -1.780 -3.934 -0.070 0.812  "O5'"  G32 5  
+G32 "C5'"  C5*  C 0 1 N N N 11.565 25.924 -1.161 -3.299 0.476  -0.346 "C5'"  G32 6  
+G32 "C4'"  C4*  C 0 1 N N R 12.527 25.682 -2.290 -2.035 1.228  0.073  "C4'"  G32 7  
+G32 "O4'"  O4*  O 0 1 N N N 12.736 24.327 -2.580 -1.010 0.306  0.509  "O4'"  G32 8  
+G32 "C3'"  C3*  C 0 1 N N S 12.072 26.293 -3.651 -1.392 1.938  -1.146 "C3'"  G32 9  
+G32 "O3'"  O3*  O 0 1 N N N 13.176 26.810 -4.335 -1.975 3.226  -1.353 "O3'"  G32 10 
+G32 "C2'"  C2*  C 0 1 N N N 11.266 25.148 -4.232 0.087  2.065  -0.705 "C2'"  G32 11 
+G32 "C1'"  C1*  C 0 1 N N R 12.035 23.934 -3.780 0.247  0.994  0.391  "C1'"  G32 12 
+G32 N9     N9   N 0 1 Y N N 11.155 22.777 -3.535 1.299  0.047  0.012  N9     G32 13 
+G32 C8     C8   C 0 1 Y N N 9.793  22.717 -3.458 1.120  -1.147 -0.623 C8     G32 14 
+G32 N7     N7   N 0 1 Y N N 9.326  21.503 -3.232 2.269  -1.730 -0.804 N7     G32 15 
+G32 C5     C5   C 0 1 Y N N 10.472 20.718 -3.135 3.257  -0.948 -0.303 C5     G32 16 
+G32 C6     C6   C 0 1 Y N N 10.638 19.335 -2.877 4.652  -1.063 -0.210 C6     G32 17 
+G32 O6     O6   O 0 1 N N N 9.620  18.364 -2.638 5.291  -2.150 -0.705 O6     G32 18 
+G32 N1     N1   N 0 1 Y N N 11.937 18.918 -2.851 5.333  -0.082 0.368  N1     G32 19 
+G32 C2     C2   C 0 1 Y N N 12.980 19.772 -3.064 4.717  0.987  0.856  C2     G32 20 
+G32 N2     N2   N 0 1 N N N 14.193 19.206 -3.013 5.474  1.984  1.449  N2     G32 21 
+G32 N3     N3   N 0 1 Y N N 12.877 21.078 -3.296 3.403  1.134  0.794  N3     G32 22 
+G32 C4     C4   C 0 1 Y N N 11.598 21.483 -3.322 2.645  0.199  0.232  C4     G32 23 
+G32 C6M    C6M  C 0 1 N N N 8.270  18.805 -2.471 6.685  -1.957 -0.459 C6M    G32 24 
+G32 H1P    H1P  H 0 1 N N N 10.700 28.611 -0.902 -4.271 -2.671 -0.065 H1P    G32 25 
+G32 H2P    H2P  H 0 1 N N N 10.031 26.754 0.730  -6.865 -1.832 1.217  H2P    G32 26 
+G32 "H5'1" 1H5* H 0 0 N N N 11.591 25.131 -0.377 -3.982 1.163  -0.845 "H5'1" G32 27 
+G32 "H5'2" 2H5* H 0 0 N N N 11.857 26.775 -0.502 -3.032 -0.331 -1.029 "H5'2" G32 28 
+G32 "H4'"  H4*  H 0 1 N N N 13.508 26.135 -2.015 -2.261 1.948  0.860  "H4'"  G32 29 
+G32 "H3'"  H3*  H 0 1 N N N 11.373 27.135 -3.436 -1.479 1.325  -2.043 "H3'"  G32 30 
+G32 HA     HA   H 0 1 N N N 12.899 27.182 -5.164 -1.472 3.650  -2.062 HA     G32 31 
+G32 "H2'1" 1H2* H 0 0 N N N 11.095 25.209 -5.332 0.280  3.058  -0.299 "H2'1" G32 32 
+G32 "H2'2" 2H2* H 0 0 N N N 10.187 25.148 -3.951 0.753  1.858  -1.542 "H2'2" G32 33 
+G32 "H1'"  H1*  H 0 1 N N N 12.780 23.664 -4.564 0.500  1.469  1.339  "H1'"  G32 34 
+G32 H8     H8   H 0 1 N N N 9.143  23.601 -3.574 0.166  -1.548 -0.930 H8     G32 35 
+G32 H2N1   1H2N H 0 0 N N N 14.972 19.844 -3.172 6.438  1.893  1.503  H2N1   G32 36 
+G32 H2N2   2H2N H 0 0 N N N 14.272 18.205 -2.835 5.040  2.772  1.811  H2N2   G32 37 
+G32 H6M1   1H6M H 0 0 N N N 7.475  18.046 -2.284 7.021  -1.050 -0.961 H6M1   G32 38 
+G32 H6M2   2H6M H 0 0 N N N 7.980  19.420 -3.355 6.856  -1.863 0.613  H6M2   G32 39 
+G32 H6M3   3H6M H 0 0 N N N 8.238  19.567 -1.658 7.244  -2.812 -0.842 H6M3   G32 40 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+G32 O3P   P      DOUB N N 1  
+G32 P     O1P    SING N N 2  
+G32 P     O2P    SING N N 3  
+G32 P     "O5'"  SING N N 4  
+G32 O1P   H1P    SING N N 5  
+G32 O2P   H2P    SING N N 6  
+G32 "O5'" "C5'"  SING N N 7  
+G32 "C5'" "C4'"  SING N N 8  
+G32 "C5'" "H5'1" SING N N 9  
+G32 "C5'" "H5'2" SING N N 10 
+G32 "C4'" "O4'"  SING N N 11 
+G32 "C4'" "C3'"  SING N N 12 
+G32 "C4'" "H4'"  SING N N 13 
+G32 "O4'" "C1'"  SING N N 14 
+G32 "C3'" "O3'"  SING N N 15 
+G32 "C3'" "C2'"  SING N N 16 
+G32 "C3'" "H3'"  SING N N 17 
+G32 "O3'" HA     SING N N 18 
+G32 "C2'" "C1'"  SING N N 19 
+G32 "C2'" "H2'1" SING N N 20 
+G32 "C2'" "H2'2" SING N N 21 
+G32 "C1'" N9     SING N N 22 
+G32 "C1'" "H1'"  SING N N 23 
+G32 N9    C8     SING Y N 24 
+G32 N9    C4     SING Y N 25 
+G32 C8    N7     DOUB Y N 26 
+G32 C8    H8     SING N N 27 
+G32 N7    C5     SING Y N 28 
+G32 C5    C6     DOUB Y N 29 
+G32 C5    C4     SING Y N 30 
+G32 C6    O6     SING N N 31 
+G32 C6    N1     SING Y N 32 
+G32 O6    C6M    SING N N 33 
+G32 N1    C2     DOUB Y N 34 
+G32 C2    N2     SING N N 35 
+G32 C2    N3     SING Y N 36 
+G32 N2    H2N1   SING N N 37 
+G32 N2    H2N2   SING N N 38 
+G32 N3    C4     DOUB Y N 39 
+G32 C6M   H6M1   SING N N 40 
+G32 C6M   H6M2   SING N N 41 
+G32 C6M   H6M3   SING N N 42 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+G32 SMILES           ACDLabs              10.04 "O=P(O)(O)OCC3OC(n2cnc1c2nc(nc1OC)N)CC3O"                                                                                                                                 
+G32 InChI            InChI                1.02b "InChI=1/C11H16N5O7P/c1-21-10-8-9(14-11(12)15-10)16(4-13-8)7-2-5(17)6(23-7)3-22-24(18,19)20/h4-7,17H,2-3H2,1H3,(H2,12,14,15)(H2,18,19,20)/t5-,6+,7+/m0/s1/f/h18-19H,12H2" 
+G32 InChIKey         InChI                1.02b GFRAHVJOXXMIDI-XSXBNAMCDE                                                                                                                                                 
+G32 SMILES_CANONICAL CACTVS               3.341 "COc1nc(N)nc2n(cnc12)[C@H]3C[C@H](O)[C@@H](CO[P](O)(O)=O)O3"                                                                                                              
+G32 SMILES           CACTVS               3.341 "COc1nc(N)nc2n(cnc12)[CH]3C[CH](O)[CH](CO[P](O)(O)=O)O3"                                                                                                                  
+G32 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COc1c2c(nc(n1)N)n(cn2)[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O"                                                                                                              
+G32 SMILES           "OpenEye OEToolkits" 1.5.0 "COc1c2c(nc(n1)N)n(cn2)C3CC(C(O3)COP(=O)(O)O)O"                                                                                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+G32 "SYSTEMATIC NAME" ACDLabs              10.04 "9-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-6-methoxy-9H-purin-2-amine"             
+G32 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(2-amino-6-methoxy-purin-9-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+G32 "Create component" 1994-04-30 RCSB 
+# 

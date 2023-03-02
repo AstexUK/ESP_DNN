@@ -1,0 +1,111 @@
+data_IUR
+# 
+_chem_comp.id                                    IUR 
+_chem_comp.name                                  5-IODOURACIL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H3 I N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-01-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        237.983 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IUR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GTE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IUR N1 N1 N 0 1 N N N 64.962 40.954 50.424 1.361  0.001  2.389  N1 IUR 1  
+IUR C2 C2 C 0 1 N N N 65.498 42.119 49.871 0.212  -0.000 3.089  C2 IUR 2  
+IUR O2 O2 O 0 1 N N N 66.374 42.843 50.360 0.250  -0.000 4.304  O2 IUR 3  
+IUR N3 N3 N 0 1 N N N 64.960 42.463 48.643 -0.979 -0.002 2.463  N3 IUR 4  
+IUR C4 C4 C 0 1 N N N 63.991 41.835 47.899 -1.039 0.003  1.116  C4 IUR 5  
+IUR O4 O4 O 0 1 N N N 63.620 42.287 46.807 -2.117 0.001  0.549  O4 IUR 6  
+IUR C5 C5 C 0 1 N N N 63.496 40.666 48.514 0.162  -0.000 0.367  C5 IUR 7  
+IUR C6 C6 C 0 1 N N N 63.982 40.258 49.740 1.343  0.001  1.020  C6 IUR 8  
+IUR I5 I5 I 0 1 N N N 62.012 39.591 47.504 0.107  -0.000 -1.727 I5 IUR 9  
+IUR H1 H1 H 0 1 N N N 65.292 40.618 51.329 2.209  0.002  2.859  H1 IUR 10 
+IUR H3 H3 H 0 1 N N N 65.341 43.313 48.227 -1.798 -0.004 2.983  H3 IUR 11 
+IUR H6 H6 H 0 1 N N N 63.572 39.339 50.193 2.270  0.002  0.466  H6 IUR 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IUR N1 C2 SING N N 1  
+IUR N1 C6 SING N N 2  
+IUR N1 H1 SING N N 3  
+IUR C2 O2 DOUB N N 4  
+IUR C2 N3 SING N N 5  
+IUR N3 C4 SING N N 6  
+IUR N3 H3 SING N N 7  
+IUR C4 O4 DOUB N N 8  
+IUR C4 C5 SING N N 9  
+IUR C5 C6 DOUB N N 10 
+IUR C5 I5 SING N N 11 
+IUR C6 H6 SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IUR SMILES           ACDLabs              10.04 "IC1=CNC(=O)NC1=O"                                         
+IUR SMILES_CANONICAL CACTVS               3.341 "IC1=CNC(=O)NC1=O"                                         
+IUR SMILES           CACTVS               3.341 "IC1=CNC(=O)NC1=O"                                         
+IUR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=C(C(=O)NC(=O)N1)I"                                     
+IUR SMILES           "OpenEye OEToolkits" 1.5.0 "C1=C(C(=O)NC(=O)N1)I"                                     
+IUR InChI            InChI                1.03  "InChI=1S/C4H3IN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)" 
+IUR InChIKey         InChI                1.03  KSNXJLQDQOIRIP-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IUR "SYSTEMATIC NAME" ACDLabs              10.04 "5-iodopyrimidine-2,4(1H,3H)-dione" 
+IUR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 5-iodo-1H-pyrimidine-2,4-dione      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IUR "Create component"  2002-01-15 EBI  
+IUR "Modify descriptor" 2011-06-04 RCSB 
+# 

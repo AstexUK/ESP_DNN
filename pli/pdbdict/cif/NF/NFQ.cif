@@ -1,0 +1,124 @@
+data_NFQ
+# 
+_chem_comp.id                                    NFQ 
+_chem_comp.name                                  "N-[(E)-iminomethyl]-L-aspartic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         N-formimino-L-Aspartate 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-04-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        160.128 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NFQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3MDW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NFQ C    C    C 0 1 N N N 9.375  -10.670 -20.984 1.490  -1.061 -0.000 C    NFQ 1  
+NFQ N    N    N 0 1 N N N 11.518 -11.830 -21.409 0.402  0.976  -0.746 N    NFQ 2  
+NFQ O1   O1   O 0 1 N N N 9.710  -10.665 -19.780 1.594  -2.185 0.726  O1   NFQ 3  
+NFQ O2   O2   O 0 1 N N N 8.303  -10.114 -21.328 2.366  -0.760 -0.776 O2   NFQ 4  
+NFQ CA   CA   C 0 1 N N S 10.313 -11.260 -22.063 0.278  -0.179 0.148  CA   NFQ 5  
+NFQ CB   CB   C 0 1 N N N 9.543  -12.303 -22.907 -0.979 -0.972 -0.217 CB   NFQ 6  
+NFQ CF   CF   C 0 1 N N N 12.698 -12.202 -22.216 1.097  2.085  -0.339 CF   NFQ 7  
+NFQ NF   NF   N 0 1 N N N 13.800 -12.464 -21.667 1.642  2.112  0.833  NF   NFQ 8  
+NFQ CG   CG   C 0 1 N N N 9.018  -11.797 -24.263 -2.200 -0.130 0.048  CG   NFQ 9  
+NFQ OD1  OD1  O 0 1 N N N 9.760  -11.110 -25.007 -2.077 0.991  0.484  OD1  NFQ 10 
+NFQ OD2  OD2  O 0 1 N N N 7.849  -12.129 -24.588 -3.423 -0.623 -0.200 OD2  NFQ 11 
+NFQ HN   HN   H 0 1 N N N 11.531 -11.963 -20.418 -0.007 0.955  -1.625 HN   NFQ 12 
+NFQ HO1  HO1  H 0 1 N N N 9.053  -10.207 -19.270 2.388  -2.721 0.594  HO1  NFQ 13 
+NFQ HA   HA   H 0 1 N N N 10.653 -10.473 -22.752 0.203  0.166  1.179  HA   NFQ 14 
+NFQ HB   HB   H 0 1 N N N 10.229 -13.139 -23.108 -0.945 -1.241 -1.272 HB   NFQ 15 
+NFQ HBA  HBA  H 0 1 N N N 8.675  -12.631 -22.317 -1.024 -1.878 0.388  HBA  NFQ 16 
+NFQ HF   HF   H 0 1 N N N 12.614 -12.250 -23.292 1.189  2.936  -0.998 HF   NFQ 17 
+NFQ HNF  HNF  H 0 1 N N N 14.505 -12.699 -22.336 2.134  2.897  1.121  HNF  NFQ 18 
+NFQ HOD2 HOD2 H 0 0 N N N 7.649  -11.782 -25.449 -4.175 -0.046 -0.014 HOD2 NFQ 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NFQ CA  C    SING N N 1  
+NFQ O2  C    DOUB N N 2  
+NFQ C   O1   SING N N 3  
+NFQ CF  N    SING N N 4  
+NFQ CA  N    SING N N 5  
+NFQ N   HN   SING N N 6  
+NFQ O1  HO1  SING N N 7  
+NFQ CB  CA   SING N N 8  
+NFQ CA  HA   SING N N 9  
+NFQ CG  CB   SING N N 10 
+NFQ CB  HB   SING N N 11 
+NFQ CB  HBA  SING N N 12 
+NFQ CF  NF   DOUB N N 13 
+NFQ CF  HF   SING N N 14 
+NFQ NF  HNF  SING N N 15 
+NFQ OD1 CG   DOUB N N 16 
+NFQ OD2 CG   SING N N 17 
+NFQ OD2 HOD2 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NFQ SMILES           ACDLabs              12.01 "O=C(O)C(NC=[N@H])CC(=O)O"                                                                
+NFQ SMILES_CANONICAL CACTVS               3.370 "OC(=O)C[C@H](NC=N)C(O)=O"                                                                
+NFQ SMILES           CACTVS               3.370 "OC(=O)C[CH](NC=N)C(O)=O"                                                                 
+NFQ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "[H]/N=C/N[C@@H](CC(=O)O)C(=O)O"                                                          
+NFQ SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(C(=O)O)NC=N)C(=O)O"                                                                  
+NFQ InChI            InChI                1.03  "InChI=1S/C5H8N2O4/c6-2-7-3(5(10)11)1-4(8)9/h2-3H,1H2,(H2,6,7)(H,8,9)(H,10,11)/t3-/m0/s1" 
+NFQ InChIKey         InChI                1.03  XTPIFIMCFHNJOH-VKHMYHEASA-N                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NFQ "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(E)-iminomethyl]-L-aspartic acid"    
+NFQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-2-methanimidamidobutanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NFQ "Create component"  2010-04-12 RCSB 
+NFQ "Modify descriptor" 2011-06-04 RCSB 
+# 

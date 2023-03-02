@@ -1,0 +1,116 @@
+data_CC8
+# 
+_chem_comp.id                                    CC8 
+_chem_comp.name                                  "(2S)-2-METHYL-3-SULFANYLPROPANOIC ACID" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-09-22 
+_chem_comp.pdbx_modified_date                    2012-01-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        120.170 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CC8 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2X8Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CC8 O1   O1   O 0 1 N N N 29.550 2.809 -42.540 -1.718 -1.341 -0.359 O1   CC8 1  
+CC8 C4   C4   C 0 1 N N N 29.013 3.741 -43.218 -1.577 -0.227 0.088  C4   CC8 2  
+CC8 C2   C2   C 0 1 N N S 27.492 3.742 -43.396 -0.193 0.341  0.271  C2   CC8 3  
+CC8 C1   C1   C 0 1 N N N 27.006 2.288 -43.391 0.845  -0.688 -0.182 C1   CC8 4  
+CC8 S    S    S 0 1 N N N 27.107 1.462 -44.980 2.510  -0.064 0.175  S    CC8 5  
+CC8 C3   C3   C 0 1 N N N 26.897 4.580 -42.253 -0.049 1.613  -0.566 C3   CC8 6  
+CC8 OXT  OXT  O 0 1 N Y N 29.796 4.706 -43.749 -2.652 0.506  0.416  OXT  CC8 7  
+CC8 H2   H2   H 0 1 N N N 27.173 4.188 -44.349 -0.034 0.579  1.323  H2   CC8 8  
+CC8 HXT  HXT  H 0 1 N N N 30.703 4.538 -43.523 -3.519 0.100  0.277  HXT  CC8 9  
+CC8 H11C H11C H 0 0 N N N 27.631 1.727 -42.680 0.686  -1.624 0.353  H11C CC8 10 
+CC8 H12C H12C H 0 0 N N N 25.941 2.313 -43.116 0.743  -0.859 -1.253 H12C CC8 11 
+CC8 H31C H31C H 0 0 N N N 26.755 3.944 -41.367 -0.789 2.346  -0.243 H31C CC8 12 
+CC8 H32C H32C H 0 0 N N N 27.583 5.404 -42.007 0.951  2.025  -0.434 H32C CC8 13 
+CC8 H33C H33C H 0 0 N N N 25.927 4.992 -42.568 -0.208 1.376  -1.618 H33C CC8 14 
+CC8 H    H    H 0 1 N N N 27.131 2.349 -45.930 3.306  -1.053 -0.268 H    CC8 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CC8 O1  C4   DOUB N N 1  
+CC8 C4  C2   SING N N 2  
+CC8 C4  OXT  SING N N 3  
+CC8 C2  C1   SING N N 4  
+CC8 C2  C3   SING N N 5  
+CC8 C1  S    SING N N 6  
+CC8 C2  H2   SING N N 7  
+CC8 OXT HXT  SING N N 8  
+CC8 C1  H11C SING N N 9  
+CC8 C1  H12C SING N N 10 
+CC8 C3  H31C SING N N 11 
+CC8 C3  H32C SING N N 12 
+CC8 C3  H33C SING N N 13 
+CC8 S   H    SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CC8 SMILES           ACDLabs              10.04 "O=C(O)C(C)CS"                                                    
+CC8 SMILES_CANONICAL CACTVS               3.352 "C[C@H](CS)C(O)=O"                                                
+CC8 SMILES           CACTVS               3.352 "C[CH](CS)C(O)=O"                                                 
+CC8 SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C[C@H](CS)C(=O)O"                                                
+CC8 SMILES           "OpenEye OEToolkits" 1.6.1 "CC(CS)C(=O)O"                                                    
+CC8 InChI            InChI                1.03  "InChI=1S/C4H8O2S/c1-3(2-7)4(5)6/h3,7H,2H2,1H3,(H,5,6)/t3-/m1/s1" 
+CC8 InChIKey         InChI                1.03  MHRDCHHESNJQIS-GSVOUGTGSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CC8 "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-methyl-3-sulfanylpropanoic acid"  
+CC8 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-2-methyl-3-sulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CC8 "Modify internal type" 2011-03-22 EBI  
+CC8 "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,192 @@
+data_TLO
+# 
+_chem_comp.id                                    TLO 
+_chem_comp.name                                  "5'-O-[(S)-hydroxy{[(S)-hydroxy(phenoxy)phosphoryl]oxy}phosphoryl]thymidine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H20 N2 O11 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "thymidine diphosphate phenol" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-10-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        478.284 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TLO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3PFG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TLO N1     N1     N 0 1 N N N -4.972  5.207  35.692 4.821  -0.504 0.437  N1     TLO 1  
+TLO C2     C2     C 0 1 N N N -3.884  5.847  36.170 4.856  -0.682 -0.896 C2     TLO 2  
+TLO O2     O2     O 0 1 N N N -3.785  7.106  36.098 4.281  0.107  -1.621 O2     TLO 3  
+TLO N3     N3     N 0 1 N N N -2.869  5.168  36.776 5.519  -1.720 -1.438 N3     TLO 4  
+TLO C4     C4     C 0 1 N N N -2.947  3.806  36.856 6.162  -2.603 -0.648 C4     TLO 5  
+TLO O4     O4     O 0 1 N N N -1.961  3.253  37.380 6.763  -3.542 -1.138 O4     TLO 6  
+TLO C5     C5     C 0 1 N N N -4.059  3.108  36.354 6.133  -2.428 0.757  C5     TLO 7  
+TLO C6     C6     C 0 1 N N N -5.057  3.859  35.752 5.460  -1.377 1.274  C6     TLO 8  
+TLO PA     PA     P 0 1 N N N -9.358  1.816  32.709 -1.481 1.662  -0.484 PA     TLO 9  
+TLO PB     PB     P 0 1 N N N -7.760  2.499  30.318 -3.863 -0.084 -0.242 PB     TLO 10 
+TLO CG     CG     C 0 1 Y N N -7.376  0.326  28.949 -5.884 -1.122 0.786  CG     TLO 11 
+TLO CZ     CZ     C 0 1 Y N N -5.780  -1.843 28.416 -8.384 -2.171 0.234  CZ     TLO 12 
+TLO "C1'"  "C1'"  C 0 1 N N R -6.015  5.933  34.963 4.096  0.639  0.998  "C1'"  TLO 13 
+TLO O1A    O1A    O 0 1 N N N -9.073  0.749  33.750 -2.074 3.153  -0.351 O1A    TLO 14 
+TLO O1B    O1B    O 0 1 N N N -6.299  2.738  30.328 -3.534 -1.331 -1.206 O1B    TLO 15 
+TLO "C2'"  "C2'"  C 0 1 N N N -5.933  5.607  33.454 4.716  1.965  0.502  "C2'"  TLO 16 
+TLO O2A    O2A    O 0 1 N N N -10.606 1.699  31.858 -1.328 1.318  -1.916 O2A    TLO 17 
+TLO O2B    O2B    O 0 1 N N N -8.670  3.709  30.151 -4.700 0.895  -0.971 O2B    TLO 18 
+TLO "C3'"  "C3'"  C 0 1 N N S -7.389  5.598  33.006 3.499  2.895  0.298  "C3'"  TLO 19 
+TLO "O3'"  "O3'"  O 0 1 N N N -7.808  6.984  32.817 3.594  4.037  1.152  "O3'"  TLO 20 
+TLO O3A    O3A    O 0 1 N N N -8.074  1.797  31.740 -2.489 0.619  0.214  O3A    TLO 21 
+TLO O3B    O3B    O 0 1 N N N -8.186  1.390  29.247 -4.657 -0.606 1.058  O3B    TLO 22 
+TLO "C4'"  "C4'"  C 0 1 N N R -8.106  5.163  34.246 2.288  2.022  0.696  "C4'"  TLO 23 
+TLO "O4'"  "O4'"  O 0 1 N N N -7.271  5.478  35.366 2.737  0.662  0.510  "O4'"  TLO 24 
+TLO "C5'"  "C5'"  C 0 1 N N N -8.262  3.661  34.241 1.095  2.318  -0.215 "C5'"  TLO 25 
+TLO "O5'"  "O5'"  O 0 1 N N N -9.294  3.308  33.278 -0.045 1.588  0.241  "O5'"  TLO 26 
+TLO C5M    C5M    C 0 1 N N N -4.093  1.586  36.515 6.843  -3.401 1.662  C5M    TLO 27 
+TLO CD1    CD1    C 0 1 Y N N -7.414  -0.803 29.778 -6.024 -2.474 0.508  CD1    TLO 28 
+TLO CD2    CD2    C 0 1 Y N N -6.546  0.386  27.851 -7.001 -0.298 0.792  CD2    TLO 29 
+TLO CE1    CE1    C 0 1 Y N N -6.609  -1.902 29.529 -7.273 -2.996 0.233  CE1    TLO 30 
+TLO CE2    CE2    C 0 1 Y N N -5.750  -0.719 27.603 -8.248 -0.825 0.516  CE2    TLO 31 
+TLO HN3    HN3    H 0 1 N N N -2.083  5.657  37.154 5.534  -1.833 -2.402 HN3    TLO 32 
+TLO H6     H6     H 0 1 N N N -5.914  3.360  35.325 5.428  -1.227 2.343  H6     TLO 33 
+TLO HZ     HZ     H 0 1 N N N -5.148  -2.686 28.179 -9.359 -2.581 0.018  HZ     TLO 34 
+TLO "H1'"  "H1'"  H 0 1 N N N -5.875  7.006  35.160 4.108  0.598  2.087  "H1'"  TLO 35 
+TLO HO1A   HO1A   H 0 0 N N N -9.764  0.097  33.733 -2.200 3.446  0.562  HO1A   TLO 36 
+TLO HO1B   HO1B   H 0 0 N N N -6.129  3.667  30.223 -2.987 -2.014 -0.793 HO1B   TLO 37 
+TLO "H2'"  "H2'"  H 0 1 N N N -5.350  6.365  32.910 5.390  2.376  1.253  "H2'"  TLO 38 
+TLO "H2'A" "H2'A" H 0 0 N N N -5.453  4.633  33.279 5.243  1.811  -0.440 "H2'A" TLO 39 
+TLO "H3'"  "H3'"  H 0 1 N N N -7.562  4.994  32.103 3.423  3.202  -0.745 "H3'"  TLO 40 
+TLO "HO3'" "HO3'" H 0 0 N N N -8.715  7.006  32.537 4.371  4.589  0.985  "HO3'" TLO 41 
+TLO "H4'"  "H4'"  H 0 1 N N N -9.087  5.658  34.297 2.023  2.194  1.739  "H4'"  TLO 42 
+TLO "H5'"  "H5'"  H 0 1 N N N -7.310  3.188  33.957 0.877  3.386  -0.191 "H5'"  TLO 43 
+TLO "H5'A" "H5'A" H 0 0 N N N -8.553  3.313  35.243 1.334  2.019  -1.235 "H5'A" TLO 44 
+TLO H5M    H5M    H 0 1 N N N -5.020  1.191  36.074 7.323  -4.173 1.061  H5M    TLO 45 
+TLO H5MA   H5MA   H 0 0 N N N -3.226  1.144  36.002 7.597  -2.871 2.244  H5MA   TLO 46 
+TLO H5MB   H5MB   H 0 0 N N N -4.057  1.330  37.584 6.122  -3.862 2.337  H5MB   TLO 47 
+TLO HD1    HD1    H 0 1 N N N -8.083  -0.816 30.626 -5.157 -3.118 0.506  HD1    TLO 48 
+TLO HD2    HD2    H 0 1 N N N -6.518  1.256  27.212 -6.895 0.754  1.013  HD2    TLO 49 
+TLO HE1    HE1    H 0 1 N N N -6.625  -2.769 30.173 -7.382 -4.047 0.012  HE1    TLO 50 
+TLO HE2    HE2    H 0 1 N N N -5.086  -0.706 26.751 -9.116 -0.183 0.516  HE2    TLO 51 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TLO "C1'" N1     SING N N 1  
+TLO N1    C6     SING N N 2  
+TLO N1    C2     SING N N 3  
+TLO O2    C2     DOUB N N 4  
+TLO C2    N3     SING N N 5  
+TLO N3    C4     SING N N 6  
+TLO N3    HN3    SING N N 7  
+TLO C5    C4     SING N N 8  
+TLO C4    O4     DOUB N N 9  
+TLO C6    C5     DOUB N N 10 
+TLO C5    C5M    SING N N 11 
+TLO C6    H6     SING N N 12 
+TLO O3A   PA     SING N N 13 
+TLO O2A   PA     DOUB N N 14 
+TLO PA    "O5'"  SING N N 15 
+TLO PA    O1A    SING N N 16 
+TLO O3B   PB     SING N N 17 
+TLO O2B   PB     DOUB N N 18 
+TLO PB    O1B    SING N N 19 
+TLO PB    O3A    SING N N 20 
+TLO CD2   CG     DOUB Y N 21 
+TLO CG    O3B    SING N N 22 
+TLO CG    CD1    SING Y N 23 
+TLO CE2   CZ     DOUB Y N 24 
+TLO CZ    CE1    SING Y N 25 
+TLO CZ    HZ     SING N N 26 
+TLO "C2'" "C1'"  SING N N 27 
+TLO "C1'" "O4'"  SING N N 28 
+TLO "C1'" "H1'"  SING N N 29 
+TLO O1A   HO1A   SING N N 30 
+TLO O1B   HO1B   SING N N 31 
+TLO "C3'" "C2'"  SING N N 32 
+TLO "C2'" "H2'"  SING N N 33 
+TLO "C2'" "H2'A" SING N N 34 
+TLO "O3'" "C3'"  SING N N 35 
+TLO "C3'" "C4'"  SING N N 36 
+TLO "C3'" "H3'"  SING N N 37 
+TLO "O3'" "HO3'" SING N N 38 
+TLO "C5'" "C4'"  SING N N 39 
+TLO "C4'" "O4'"  SING N N 40 
+TLO "C4'" "H4'"  SING N N 41 
+TLO "O5'" "C5'"  SING N N 42 
+TLO "C5'" "H5'"  SING N N 43 
+TLO "C5'" "H5'A" SING N N 44 
+TLO C5M   H5M    SING N N 45 
+TLO C5M   H5MA   SING N N 46 
+TLO C5M   H5MB   SING N N 47 
+TLO CE1   CD1    DOUB Y N 48 
+TLO CD1   HD1    SING N N 49 
+TLO CE2   CD2    SING Y N 50 
+TLO CD2   HD2    SING N N 51 
+TLO CE1   HE1    SING N N 52 
+TLO CE2   HE2    SING N N 53 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TLO SMILES           ACDLabs              12.01 "O=P(Oc1ccccc1)(O)OP(=O)(O)OCC3OC(N2C(=O)NC(=O)C(=C2)C)CC3O"                                                                                                                                        
+TLO SMILES_CANONICAL CACTVS               3.370 "CC1=CN([C@H]2C[C@H](O)[C@@H](CO[P](O)(=O)O[P](O)(=O)Oc3ccccc3)O2)C(=O)NC1=O"                                                                                                                       
+TLO SMILES           CACTVS               3.370 "CC1=CN([CH]2C[CH](O)[CH](CO[P](O)(=O)O[P](O)(=O)Oc3ccccc3)O2)C(=O)NC1=O"                                                                                                                           
+TLO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[P@](=O)(O)O[P@@](=O)(O)Oc3ccccc3)O"                                                                                                                    
+TLO SMILES           "OpenEye OEToolkits" 1.7.0 "CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)Oc3ccccc3)O"                                                                                                                                        
+TLO InChI            InChI                1.03  "InChI=1S/C16H20N2O11P2/c1-10-8-18(16(21)17-15(10)20)14-7-12(19)13(27-14)9-26-30(22,23)29-31(24,25)28-11-5-3-2-4-6-11/h2-6,8,12-14,19H,7,9H2,1H3,(H,22,23)(H,24,25)(H,17,20,21)/t12-,13+,14+/m0/s1" 
+TLO InChIKey         InChI                1.03  BANJVYKYIQPYKP-BFHYXJOUSA-N                                                                                                                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TLO "SYSTEMATIC NAME" ACDLabs              12.01 "5'-O-[(S)-hydroxy{[(S)-hydroxy(phenoxy)phosphoryl]oxy}phosphoryl]thymidine"                                                     
+TLO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[hydroxy-[[(2R,3S,5R)-3-hydroxy-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)oxolan-2-yl]methoxy]phosphoryl] phenyl hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TLO "Create component"     2010-10-29 RCSB 
+TLO "Modify aromatic_flag" 2011-06-04 RCSB 
+TLO "Modify descriptor"    2011-06-04 RCSB 
+# 

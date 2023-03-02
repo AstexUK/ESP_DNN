@@ -1,0 +1,114 @@
+data_GOL
+# 
+_chem_comp.id                                    GOL 
+_chem_comp.name                                  GLYCEROL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "GLYCERIN; PROPANE-1,2,3-TRIOL" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         CRY 
+_chem_comp.formula_weight                        92.094 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GOL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BXO 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GOL C1  C1  C 0 1 N N N 29.490 2.376 31.160 -1.249 -0.665 0.295  C1  GOL 1  
+GOL O1  O1  O 0 1 N N N 28.524 1.609 30.767 -2.413 -0.087 -0.300 O1  GOL 2  
+GOL C2  C2  C 0 1 N N N 30.249 2.850 29.893 0.000  0.034  -0.245 C2  GOL 3  
+GOL O2  O2  O 0 1 N N N 29.526 4.021 29.804 0.000  1.400  0.174  O2  GOL 4  
+GOL C3  C3  C 0 1 N N N 31.780 2.780 29.785 1.249  -0.665 0.295  C3  GOL 5  
+GOL O3  O3  O 0 1 N N N 32.215 4.129 29.472 2.413  -0.087 -0.300 O3  GOL 6  
+GOL H11 H11 H 0 1 N N N 29.089 3.241 31.708 -1.295 -0.543 1.377  H11 GOL 7  
+GOL H12 H12 H 0 1 N N N 30.169 1.821 31.824 -1.206 -1.727 0.051  H12 GOL 8  
+GOL HO1 HO1 H 0 1 N N N 28.037 1.300 31.522 -3.244 -0.483 -0.003 HO1 GOL 9  
+GOL H2  H2  H 0 1 N N N 30.271 2.201 29.005 -0.000 -0.012 -1.334 H2  GOL 10 
+GOL HO2 HO2 H 0 1 N N N 29.825 4.522 29.054 0.000  1.517  1.134  HO2 GOL 11 
+GOL H31 H31 H 0 1 N N N 32.222 2.438 30.733 1.295  -0.543 1.377  H31 GOL 12 
+GOL H32 H32 H 0 1 N N N 32.083 2.080 28.993 1.206  -1.727 0.051  H32 GOL 13 
+GOL HO3 HO3 H 0 1 N N N 33.162 4.147 29.393 3.244  -0.483 -0.003 HO3 GOL 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GOL C1 O1  SING N N 1  
+GOL C1 C2  SING N N 2  
+GOL C1 H11 SING N N 3  
+GOL C1 H12 SING N N 4  
+GOL O1 HO1 SING N N 5  
+GOL C2 O2  SING N N 6  
+GOL C2 C3  SING N N 7  
+GOL C2 H2  SING N N 8  
+GOL O2 HO2 SING N N 9  
+GOL C3 O3  SING N N 10 
+GOL C3 H31 SING N N 11 
+GOL C3 H32 SING N N 12 
+GOL O3 HO3 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GOL SMILES           ACDLabs              12.01 "OCC(O)CO"                                 
+GOL SMILES_CANONICAL CACTVS               3.370 "OCC(O)CO"                                 
+GOL SMILES           CACTVS               3.370 "OCC(O)CO"                                 
+GOL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(C(CO)O)O"                               
+GOL SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(CO)O)O"                               
+GOL InChI            InChI                1.03  "InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2" 
+GOL InChIKey         InChI                1.03  PEDCQBHIVMGVHV-UHFFFAOYSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GOL "SYSTEMATIC NAME" ACDLabs              12.01 propane-1,2,3-triol 
+GOL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 propane-1,2,3-triol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GOL "Create component"  1999-07-08 EBI  
+GOL "Modify descriptor" 2011-06-04 RCSB 
+# 

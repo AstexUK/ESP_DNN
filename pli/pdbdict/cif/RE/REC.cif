@@ -1,0 +1,181 @@
+data_REC
+# 
+_chem_comp.id                                    REC 
+_chem_comp.name                                  CEPHALOSPORIN 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             ? 
+_chem_comp.formula                               "C15 H21 N3 O7 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(2R)-2-[(R)-{[(6R)-6-amino-6-carboxyhexanoyl]amino}(carboxy)methyl]-5-methylidene-5,6-dihydro-2H-1,3-thiazine-4-carboxylic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-11-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        387.408 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     REC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2VGJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+REC O14  O14  O 0 1 N N N -4.090 -3.039 41.284 -4.385 -3.823 -0.052 O14  REC 1  
+REC C13  C13  C 0 1 N N N -2.979 -3.061 40.723 -3.534 -2.970 0.088  C13  REC 2  
+REC O15  O15  O 0 1 N N N -2.361 -4.155 40.574 -2.242 -3.324 0.221  O15  REC 3  
+REC C4   C4   C 0 1 N N N -2.406 -1.803 40.227 -3.917 -1.533 0.105  C4   REC 4  
+REC N5   N5   N 0 1 N N N -1.494 -1.945 39.345 -2.997 -0.695 0.387  N5   REC 5  
+REC C3   C3   C 0 1 N N N -2.844 -0.456 40.658 -5.315 -1.215 -0.209 C3   REC 6  
+REC C16  C16  C 0 1 N N N -3.592 -0.251 41.770 -6.114 -2.142 -0.729 C16  REC 7  
+REC C2   C2   C 0 1 N N N -2.435 0.748  39.806 -5.838 0.181  0.065  C2   REC 8  
+REC S1   S1   S 0 1 N N N -0.749 0.637  39.286 -4.537 1.342  -0.465 S1   REC 9  
+REC C6   C6   C 0 1 N N R -0.439 -1.038 38.848 -3.112 0.751  0.491  C6   REC 10 
+REC C7   C7   C 0 1 N N R -0.364 -1.239 37.319 -1.836 1.400  -0.050 C7   REC 11 
+REC C8   C8   C 0 1 N N N -0.492 -2.709 36.988 -1.900 2.890  0.169  C8   REC 12 
+REC O9   O9   O 0 1 N N N -1.420 -3.177 36.363 -1.060 3.438  0.843  O9   REC 13 
+REC N10  N10  N 0 1 N N N -1.499 -0.604 36.653 -0.674 0.852  0.654  N10  REC 14 
+REC C11  C11  C 0 1 N N N -1.482 0.458  35.831 0.537  0.860  0.062  C11  REC 15 
+REC O12  O12  O 0 1 N N N -0.501 1.140  35.527 0.664  1.321  -1.053 O12  REC 16 
+REC CA1  CA1  C 0 1 N N N -2.841 0.828  35.302 1.733  0.297  0.785  CA1  REC 17 
+REC CB1  CB1  C 0 1 N N N -2.770 1.270  33.852 2.973  0.427  -0.101 CB1  REC 18 
+REC CG1  CG1  C 0 1 N N N -3.659 2.476  33.560 4.187  -0.145 0.634  CG1  REC 19 
+REC CD1  CD1  C 0 1 N N N -3.346 2.925  32.126 5.428  -0.015 -0.253 CD1  REC 20 
+REC CE1  CE1  C 0 1 N N R -4.447 3.672  31.337 6.642  -0.587 0.482  CE1  REC 21 
+REC NZ1  NZ1  N 0 1 N N N -3.853 4.283  30.137 6.457  -2.030 0.682  NZ1  REC 22 
+REC CZ1  CZ1  C 0 1 N N N -5.544 2.775  30.870 7.883  -0.348 -0.338 CZ1  REC 23 
+REC OH1  OH1  O 0 1 N N N -5.460 2.322  29.738 8.342  -1.239 -1.014 OH1  REC 24 
+REC O    O    O 0 1 N N N -6.526 2.523  31.570 8.480  0.854  -0.318 O    REC 25 
+REC OXT  OXT  O 0 1 N Y N 0.495  -3.579 37.362 -2.889 3.608  -0.385 OXT  REC 26 
+REC H15  H15  H 0 1 N N N -2.876 -4.863 40.942 -2.042 -4.270 0.199  H15  REC 27 
+REC H6   H6   H 0 1 N N N 0.529  -1.277 39.313 -3.239 1.028  1.537  H6   REC 28 
+REC H161 1H16 H 0 0 N N N -3.782 0.807  41.873 -5.709 -3.097 -1.030 H161 REC 29 
+REC H162 2H16 H 0 0 N N N -3.941 -1.020 42.443 -7.168 -1.940 -0.849 H162 REC 30 
+REC H2C1 1H2C H 0 0 N N N -3.078 0.785  38.914 -6.750 0.357  -0.506 H2C1 REC 31 
+REC H2C2 2H2C H 0 0 N N N -2.548 1.656  40.416 -6.035 0.303  1.130  H2C2 REC 32 
+REC H7   H7   H 0 1 N N N 0.593  -0.811 36.987 -1.747 1.193  -1.116 H7   REC 33 
+REC H10  H10  H 0 1 N N N -2.396 -1.009 36.831 -0.776 0.484  1.545  H10  REC 34 
+REC HOT  HOT  H 0 1 N N N 0.281  -4.452 37.055 -2.888 4.560  -0.217 HOT  REC 35 
+REC HA11 1HA1 H 0 0 N N N -3.501 -0.049 35.374 1.890  0.848  1.713  HA11 REC 36 
+REC HA12 2HA1 H 0 0 N N N -3.231 1.664  35.901 1.558  -0.755 1.013  HA12 REC 37 
+REC HB11 1HB1 H 0 0 N N N -1.729 1.542  33.622 2.817  -0.124 -1.028 HB11 REC 38 
+REC HB12 2HB1 H 0 0 N N N -3.125 0.435  33.230 3.148  1.479  -0.328 HB12 REC 39 
+REC HG11 1HG1 H 0 0 N N N -4.720 2.200  33.651 4.344  0.406  1.561  HG11 REC 40 
+REC HG12 2HG1 H 0 0 N N N -3.466 3.288  34.276 4.012  -1.197 0.861  HG12 REC 41 
+REC HD11 1HD1 H 0 0 N N N -2.486 3.608  32.190 5.271  -0.566 -1.180 HD11 REC 42 
+REC HD12 2HD1 H 0 0 N N N -3.192 1.989  31.569 5.603  1.037  -0.480 HD12 REC 43 
+REC HE1  HE1  H 0 1 N N N -4.871 4.418  32.026 6.746  -0.096 1.449  HE1  REC 44 
+REC HZ11 1HZ1 H 0 0 N N N -3.718 5.262  30.293 6.359  -2.508 -0.201 HZ11 REC 45 
+REC HZ12 2HZ1 H 0 0 N N N -2.971 3.852  29.945 7.216  -2.420 1.222  HZ12 REC 46 
+REC H    H    H 0 1 N N N -7.125 1.966  31.087 9.274  0.960  -0.861 H    REC 47 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+REC O14 C13  DOUB N N 1  
+REC C13 O15  SING N N 2  
+REC C13 C4   SING N N 3  
+REC C4  N5   DOUB N N 4  
+REC C4  C3   SING N N 5  
+REC N5  C6   SING N N 6  
+REC C3  C16  DOUB N N 7  
+REC C3  C2   SING N N 8  
+REC C2  S1   SING N N 9  
+REC S1  C6   SING N N 10 
+REC C6  C7   SING N N 11 
+REC C7  C8   SING N N 12 
+REC C7  N10  SING N N 13 
+REC C8  O9   DOUB N N 14 
+REC C8  OXT  SING N N 15 
+REC N10 C11  SING N N 16 
+REC C11 O12  DOUB N N 17 
+REC C11 CA1  SING N N 18 
+REC CA1 CB1  SING N N 19 
+REC CB1 CG1  SING N N 20 
+REC CG1 CD1  SING N N 21 
+REC CD1 CE1  SING N N 22 
+REC CE1 NZ1  SING N N 23 
+REC CE1 CZ1  SING N N 24 
+REC CZ1 OH1  DOUB N N 25 
+REC CZ1 O    SING N N 26 
+REC O15 H15  SING N N 27 
+REC C6  H6   SING N N 28 
+REC C16 H161 SING N N 29 
+REC C16 H162 SING N N 30 
+REC C2  H2C1 SING N N 31 
+REC C2  H2C2 SING N N 32 
+REC C7  H7   SING N N 33 
+REC N10 H10  SING N N 34 
+REC OXT HOT  SING N N 35 
+REC CA1 HA11 SING N N 36 
+REC CA1 HA12 SING N N 37 
+REC CB1 HB11 SING N N 38 
+REC CB1 HB12 SING N N 39 
+REC CG1 HG11 SING N N 40 
+REC CG1 HG12 SING N N 41 
+REC CD1 HD11 SING N N 42 
+REC CD1 HD12 SING N N 43 
+REC CE1 HE1  SING N N 44 
+REC NZ1 HZ11 SING N N 45 
+REC NZ1 HZ12 SING N N 46 
+REC O   H    SING N N 47 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+REC SMILES           ACDLabs              10.04 "O=C(O)C(N)CCCCC(=O)NC(C(=O)O)C1N=C(\C(=C)CS1)C(=O)O"                                                                                                                    
+REC SMILES_CANONICAL CACTVS               3.341 "N[C@H](CCCCC(=O)N[C@@H]([C@H]1SCC(=C)C(=N1)C(O)=O)C(O)=O)C(O)=O"                                                                                                        
+REC SMILES           CACTVS               3.341 "N[CH](CCCCC(=O)N[CH]([CH]1SCC(=C)C(=N1)C(O)=O)C(O)=O)C(O)=O"                                                                                                            
+REC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C=C1CS[C@@H](N=C1C(=O)O)[C@@H](C(=O)O)NC(=O)CCCC[C@H](C(=O)O)N"                                                                                                         
+REC SMILES           "OpenEye OEToolkits" 1.5.0 "C=C1CSC(N=C1C(=O)O)C(C(=O)O)NC(=O)CCCCC(C(=O)O)N"                                                                                                                       
+REC InChI            InChI                1.03  "InChI=1S/C15H21N3O7S/c1-7-6-26-12(18-10(7)14(22)23)11(15(24)25)17-9(19)5-3-2-4-8(16)13(20)21/h8,11-12H,1-6,16H2,(H,17,19)(H,20,21)(H,22,23)(H,24,25)/t8-,11+,12-/m1/s1" 
+REC InChIKey         InChI                1.03  JGKXEMYIHDYWCZ-JFUSQASVSA-N                                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+REC "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2-[(R)-{[(6R)-6-amino-6-carboxyhexanoyl]amino}(carboxy)methyl]-5-methylidene-5,6-dihydro-2H-1,3-thiazine-4-carboxylic acid"       
+REC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-[(1R)-1-[[(6R)-6-amino-7-hydroxy-7-oxo-heptanoyl]amino]-2-hydroxy-2-oxo-ethyl]-5-methylidene-2H-1,3-thiazine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+REC "Create component"  2007-11-14 EBI  
+REC "Modify descriptor" 2011-06-04 RCSB 
+# 

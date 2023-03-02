@@ -1,0 +1,129 @@
+data_6CS
+# 
+_chem_comp.id                                    6CS 
+_chem_comp.name                                  "(4S,5S)-5-HYDROXY-2-METHYL-1,4,5,6-TETRAHYDROPYRIMIDINE-4-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-06-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        158.155 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     6CS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+6CS O    O    O 0 1 N N N 15.655 24.220 32.783 1.486  -1.825 0.711  O    6CS 1  
+6CS C    C    C 0 1 N N N 16.376 23.653 31.940 1.655  -0.864 -0.001 C    6CS 2  
+6CS OXT  OXT  O 0 1 N N N 16.588 24.077 30.781 2.898  -0.489 -0.339 OXT  6CS 3  
+6CS CA   CA   C 0 1 N N S 17.045 22.311 32.350 0.468  -0.089 -0.515 CA   6CS 4  
+6CS N    N    N 0 1 N N N 18.196 22.015 31.468 -0.724 -0.925 -0.433 N    6CS 5  
+6CS CAI  CAI  C 0 1 N N N 19.285 21.247 31.920 -1.879 -0.491 -0.084 CAI  6CS 6  
+6CS CAA  CAA  C 0 1 N N N 20.445 20.961 30.983 -3.036 -1.456 -0.052 CAA  6CS 7  
+6CS NAG  NAG  N 0 1 N N N 19.338 20.747 33.229 -2.101 0.816  0.261  NAG  6CS 8  
+6CS CG2  CG2  C 0 1 N N N 18.235 20.994 34.175 -1.060 1.813  -0.034 CG2  6CS 9  
+6CS CB   CB   C 0 1 N N S 17.471 22.280 33.838 0.294  1.180  0.322  CB   6CS 10 
+6CS OG1  OG1  O 0 1 N N N 16.318 22.272 34.669 1.347  2.100  0.027  OG1  6CS 11 
+6CS HXT  HXT  H 0 1 N N N 16.116 24.891 30.650 3.627  -1.019 0.011  HXT  6CS 12 
+6CS HA   HA   H 0 1 N N N 16.285 21.526 32.226 0.642  0.187  -1.555 HA   6CS 13 
+6CS HN   HN   H 0 1 N N N 20.133 20.217 33.524 -2.929 1.079  0.692  HN   6CS 14 
+6CS HAA1 1HAA H 0 0 N N N 20.074 20.892 29.950 -2.692 -2.446 -0.351 HAA1 6CS 15 
+6CS HAA2 2HAA H 0 0 N N N 21.182 21.774 31.054 -3.443 -1.502 0.958  HAA2 6CS 16 
+6CS HAA3 3HAA H 0 0 N N N 20.919 20.010 31.267 -3.811 -1.117 -0.740 HAA3 6CS 17 
+6CS HG21 1HG2 H 0 0 N N N 17.535 20.146 34.130 -1.082 2.069  -1.093 HG21 6CS 18 
+6CS HG22 2HG2 H 0 0 N N N 18.665 21.105 35.181 -1.222 2.707  0.568  HG22 6CS 19 
+6CS HB   HB   H 0 1 N N N 18.102 23.165 34.006 0.313  0.927  1.382  HB   6CS 20 
+6CS HOG1 HOG1 H 0 0 N N N 16.584 22.270 35.581 1.297  2.928  0.525  HOG1 6CS 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+6CS O   C    DOUB N N 1  
+6CS C   OXT  SING N N 2  
+6CS C   CA   SING N N 3  
+6CS OXT HXT  SING N N 4  
+6CS CA  N    SING N N 5  
+6CS CA  CB   SING N N 6  
+6CS CA  HA   SING N N 7  
+6CS N   CAI  DOUB N N 8  
+6CS CAI CAA  SING N N 9  
+6CS CAI NAG  SING N N 10 
+6CS CAA HAA1 SING N N 11 
+6CS CAA HAA2 SING N N 12 
+6CS CAA HAA3 SING N N 13 
+6CS NAG CG2  SING N N 14 
+6CS NAG HN   SING N N 15 
+6CS CG2 CB   SING N N 16 
+6CS CG2 HG21 SING N N 17 
+6CS CG2 HG22 SING N N 18 
+6CS CB  OG1  SING N N 19 
+6CS CB  HB   SING N N 20 
+6CS OG1 HOG1 SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+6CS SMILES           ACDLabs              10.04 "O=C(O)C1N=C(NCC1O)C"                                                                         
+6CS SMILES_CANONICAL CACTVS               3.341 "CC1=N[C@@H]([C@@H](O)CN1)C(O)=O"                                                             
+6CS SMILES           CACTVS               3.341 "CC1=N[CH]([CH](O)CN1)C(O)=O"                                                                 
+6CS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=N[C@@H]([C@H](CN1)O)C(=O)O"                                                              
+6CS SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=NC(C(CN1)O)C(=O)O"                                                                       
+6CS InChI            InChI                1.03  "InChI=1S/C6H10N2O3/c1-3-7-2-4(9)5(8-3)6(10)11/h4-5,9H,2H2,1H3,(H,7,8)(H,10,11)/t4-,5-/m0/s1" 
+6CS InChIKey         InChI                1.03  KIIBBJKLKFTNQO-WHFBIAKZSA-N                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+6CS "SYSTEMATIC NAME" ACDLabs              10.04 "(4S,5S)-5-hydroxy-2-methyl-1,4,5,6-tetrahydropyrimidine-4-carboxylic acid" 
+6CS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(4S,5S)-5-hydroxy-2-methyl-1,4,5,6-tetrahydropyrimidine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+6CS "Create component"  2007-06-15 RCSB 
+6CS "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,77 @@
+data_YB2
+# 
+_chem_comp.id                                    YB2 
+_chem_comp.name                                  "YTTERBIUM (II) ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               Yb 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     2007-07-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        173.040 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     YB2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+_chem_comp_atom.comp_id                    YB2 
+_chem_comp_atom.atom_id                    YB 
+_chem_comp_atom.alt_atom_id                YB 
+_chem_comp_atom.type_symbol                YB 
+_chem_comp_atom.charge                     2 
+_chem_comp_atom.pdbx_align                 0 
+_chem_comp_atom.pdbx_aromatic_flag         N 
+_chem_comp_atom.pdbx_leaving_atom_flag     N 
+_chem_comp_atom.pdbx_stereo_config         N 
+_chem_comp_atom.model_Cartn_x              13.354 
+_chem_comp_atom.model_Cartn_y              13.861 
+_chem_comp_atom.model_Cartn_z              1.925 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal   0.000 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal   0.000 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal   0.000 
+_chem_comp_atom.pdbx_component_atom_id     YB 
+_chem_comp_atom.pdbx_component_comp_id     YB2 
+_chem_comp_atom.pdbx_ordinal               1 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+YB2 SMILES           ACDLabs              10.04 "[Yb+2]"                    
+YB2 SMILES_CANONICAL CACTVS               3.341 "[Yb++]"                    
+YB2 SMILES           CACTVS               3.341 "[Yb++]"                    
+YB2 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[Yb+2]"                    
+YB2 SMILES           "OpenEye OEToolkits" 1.5.0 "[Yb+2]"                    
+YB2 InChI            InChI                1.03  InChI=1S/Yb/q+2             
+YB2 InChIKey         InChI                1.03  SVJLBBSKJLMTRQ-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+YB2 "SYSTEMATIC NAME" ACDLabs              10.04 "ytterbium(2+)"        
+YB2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "ytterbium(+2) cation" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+YB2 "Create component"  2007-07-09 RCSB 
+YB2 "Modify descriptor" 2011-06-04 RCSB 
+# 

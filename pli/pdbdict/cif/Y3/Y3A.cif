@@ -1,0 +1,203 @@
+data_Y3A
+# 
+_chem_comp.id                                    Y3A 
+_chem_comp.name                                  "N-[(benzyloxy)carbonyl]glycyl-N-[(2S,3R)-4-chloro-3-hydroxy-1-phenylbutan-2-yl]glycinamide" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C22 H26 Cl N3 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Z-Gly-Gly-Phe-Chloromethyl ketone (bound form)" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-01-28 
+_chem_comp.pdbx_modified_date                    2014-09-29 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        447.912 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     Y3A 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4HXF 
+_chem_comp.pdbx_subcomponent_list                "PHQ GLY GLY HPH 0QE" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+Y3A C23  C23  C  0 1 N N N -20.314 -32.847 -22.987 4.783  -0.497 0.831  C1  PHQ 1  
+Y3A O41  O41  O  0 1 N N N -20.482 -33.520 -23.991 4.742  -1.018 1.928  O1  PHQ 2  
+Y3A O5   O5   O  0 1 N N N -19.158 -32.022 -23.154 5.971  -0.208 0.268  O2  PHQ 3  
+Y3A C16  C16  C  0 1 N N N -18.888 -30.792 -23.830 7.161  -0.547 1.027  C2  PHQ 4  
+Y3A C20  C20  C  0 1 Y N N ?       ?       ?       8.387  -0.153 0.244  C3  PHQ 5  
+Y3A C19  C19  C  0 1 Y N N ?       ?       ?       8.965  -1.052 -0.633 C4  PHQ 6  
+Y3A C18  C18  C  0 1 Y N N ?       ?       ?       10.086 -0.689 -1.355 C5  PHQ 7  
+Y3A C17  C17  C  0 1 Y N N ?       ?       ?       10.629 0.573  -1.201 C6  PHQ 8  
+Y3A C22  C22  C  0 1 Y N N ?       ?       ?       10.051 1.472  -0.325 C7  PHQ 9  
+Y3A C21  C21  C  0 1 Y N N ?       ?       ?       8.930  1.109  0.398  C8  PHQ 10 
+Y3A N31  N31  N  0 1 N N N -20.120 -33.734 -21.830 3.640  -0.213 0.176  N   GLY 11 
+Y3A C14  C14  C  0 1 N N N -20.790 -35.041 -21.785 2.347  -0.533 0.787  CA  GLY 12 
+Y3A C13  C13  C  0 1 N N N -20.601 -35.962 -20.565 1.236  -0.118 -0.143 C   GLY 13 
+Y3A O31  O31  O  0 1 N N N -21.010 -37.066 -20.246 1.498  0.395  -1.210 O   GLY 14 
+Y3A N3   N3   N  0 1 N N N -19.732 -35.543 -19.456 -0.049 -0.316 0.212  N   GLY 15 
+Y3A CA3  CA3  C  0 1 N N N -19.923 -36.748 -18.626 -1.129 0.087  -0.692 CA  GLY 16 
+Y3A C3   C3   C  0 1 N N N -19.092 -36.499 -17.363 -2.459 -0.242 -0.063 C   GLY 17 
+Y3A O3   O3   O  0 1 N N N -18.706 -35.434 -16.926 -2.500 -0.762 1.031  O   GLY 18 
+Y3A C4   C4   C  0 1 N N R -16.168 -37.644 -16.057 -5.255 -1.734 -0.410 C   HPH 19 
+Y3A O4   O4   O  0 1 N N N -15.970 -38.751 -16.859 -4.249 -2.595 0.126  O   HPH 20 
+Y3A CA4  CA4  C  0 1 N N S -17.612 -37.659 -15.588 -4.895 -0.278 -0.108 CA  HPH 21 
+Y3A N4   N4   N  0 1 N N N -18.435 -37.795 -16.819 -3.602 0.042  -0.718 N   HPH 22 
+Y3A CB4  CB4  C  0 1 N N N -18.060 -38.932 -14.811 -5.972 0.644  -0.682 CB  HPH 23 
+Y3A CG4  CG4  C  0 1 Y N N -19.492 -38.907 -14.389 -5.682 2.067  -0.279 CG  HPH 24 
+Y3A CD1  CD1  C  0 1 Y N N -20.048 -37.988 -13.486 -4.895 2.867  -1.086 CD1 HPH 25 
+Y3A CD2  CD2  C  0 1 Y N N -20.343 -39.900 -14.854 -6.208 2.574  0.894  CD2 HPH 26 
+Y3A CE1  CE1  C  0 1 Y N N -21.375 -38.012 -13.098 -4.629 4.172  -0.717 CE1 HPH 27 
+Y3A CE2  CE2  C  0 1 Y N N -21.679 -39.936 -14.482 -5.942 3.880  1.263  CE2 HPH 28 
+Y3A CZ4  CZ4  C  0 1 Y N N -22.189 -38.994 -13.644 -5.150 4.678  0.459  CZ  HPH 29 
+Y3A C15  C15  C  0 1 N N N -15.584 -36.229 -16.425 -6.605 -2.068 0.228  C1  0QE 30 
+Y3A CL1  CL1  CL 0 0 N Y N -15.290 -35.415 -14.810 -7.100 -3.734 -0.250 CL1 0QE 31 
+Y3A H21  H21  H  0 1 N N N -18.228 -31.013 -24.682 7.150  -0.013 1.977  H21 PHQ 32 
+Y3A H22  H22  H  0 1 N N N -19.844 -30.393 -24.201 7.179  -1.621 1.214  H22 PHQ 33 
+Y3A H25  H25  H  0 1 N N N ?       ?       ?       8.541  -2.038 -0.753 H41 PHQ 34 
+Y3A H24  H24  H  0 1 N N N ?       ?       ?       10.538 -1.391 -2.040 H51 PHQ 35 
+Y3A H23  H23  H  0 1 N N N ?       ?       ?       11.506 0.857  -1.765 H61 PHQ 36 
+Y3A H27  H27  H  0 1 N N N ?       ?       ?       10.475 2.458  -0.204 H71 PHQ 37 
+Y3A H26  H26  H  0 1 N N N ?       ?       ?       8.475  1.813  1.079  H81 PHQ 38 
+Y3A H20  H20  H  0 1 N N N -19.532 -33.448 -21.074 3.673  0.203  -0.699 H   GLY 39 
+Y3A H18  H18  H  0 1 N N N -20.446 -35.605 -22.665 2.287  -1.606 0.969  HA2 GLY 40 
+Y3A H19  H19  H  0 1 N N N -21.869 -34.848 -21.873 2.250  0.002  1.732  HA3 GLY 41 
+Y3A HN3  HN3  H  0 1 N N N -19.190 -34.715 -19.312 -0.258 -0.726 1.066  H   GLY 42 
+Y3A HA3  HA3  H  0 1 N N N -20.985 -36.876 -18.370 -1.069 1.160  -0.874 HA2 GLY 43 
+Y3A HA3A HA3A H  0 0 N N N -19.563 -37.642 -19.155 -1.031 -0.448 -1.636 HA3 GLY 44 
+Y3A HO4  HO4  H  0 1 N N N -15.071 -38.764 -17.166 -3.365 -2.439 -0.234 HO  HPH 45 
+Y3A HA4  HA4  H  0 1 N N N -17.862 -36.748 -15.025 -4.832 -0.136 0.971  HA  HPH 46 
+Y3A HN4  HN4  H  0 1 N N N -18.559 -38.677 -17.273 -3.569 0.458  -1.594 H   HPH 47 
+Y3A HB4  HB4  H  0 1 N N N -17.905 -39.807 -15.459 -5.974 0.567  -1.769 HB2 HPH 48 
+Y3A HB4A HB4A H  0 0 N N N -17.435 -39.027 -13.911 -6.947 0.349  -0.295 HB3 HPH 49 
+Y3A HD1  HD1  H  0 1 N N N -19.407 -37.223 -13.073 -4.487 2.472  -2.005 HD1 HPH 50 
+Y3A HD2  HD2  H  0 1 N N N -19.958 -40.659 -15.518 -6.827 1.951  1.522  HD2 HPH 51 
+Y3A HE1  HE1  H  0 1 N N N -21.764 -37.291 -12.394 -4.013 4.797  -1.347 HE1 HPH 52 
+Y3A HE2  HE2  H  0 1 N N N -22.319 -40.719 -14.861 -6.354 4.276  2.180  HE2 HPH 53 
+Y3A HZ4  HZ4  H  0 1 N N N -23.241 -39.011 -13.400 -4.942 5.698  0.748  HZ  HPH 54 
+Y3A H4   H4   H  0 1 N N N -15.617 -37.887 -15.136 -5.318 -1.876 -1.489 HC  HPH 55 
+Y3A H15  H15  H  0 1 N N N -14.643 -36.331 -16.985 -6.518 -2.011 1.313  H   0QE 56 
+Y3A H15A H15A H  0 0 N N N -16.306 -35.655 -17.023 -7.355 -1.354 -0.114 HA  0QE 57 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+Y3A N3  CA3  SING N N 1  
+Y3A CA3 C3   SING N N 2  
+Y3A C3  O3   DOUB N N 3  
+Y3A C3  N4   SING N N 4  
+Y3A C4  O4   SING N N 5  
+Y3A C4  CA4  SING N N 6  
+Y3A C4  C15  SING N N 7  
+Y3A CA4 N4   SING N N 8  
+Y3A CA4 CB4  SING N N 9  
+Y3A CB4 CG4  SING N N 10 
+Y3A CG4 CD1  DOUB Y N 11 
+Y3A CG4 CD2  SING Y N 12 
+Y3A CD1 CE1  SING Y N 13 
+Y3A CD2 CE2  DOUB Y N 14 
+Y3A CE1 CZ4  DOUB Y N 15 
+Y3A CE2 CZ4  SING Y N 16 
+Y3A N3  C13  SING N N 17 
+Y3A C13 C14  SING N N 18 
+Y3A C13 O31  DOUB N N 19 
+Y3A C14 N31  SING N N 20 
+Y3A N31 C23  SING N N 21 
+Y3A C23 O41  DOUB N N 22 
+Y3A C23 O5   SING N N 23 
+Y3A O5  C16  SING N N 24 
+Y3A C17 C18  SING Y N 25 
+Y3A C18 C19  DOUB Y N 26 
+Y3A C19 C20  SING Y N 27 
+Y3A C20 C21  DOUB Y N 28 
+Y3A C21 C22  SING Y N 29 
+Y3A C17 C22  DOUB Y N 30 
+Y3A C20 C16  SING N N 31 
+Y3A N3  HN3  SING N N 32 
+Y3A CA3 HA3  SING N N 33 
+Y3A CA3 HA3A SING N N 34 
+Y3A C4  H4   SING N N 35 
+Y3A O4  HO4  SING N N 36 
+Y3A CA4 HA4  SING N N 37 
+Y3A N4  HN4  SING N N 38 
+Y3A CB4 HB4  SING N N 39 
+Y3A CB4 HB4A SING N N 40 
+Y3A CD1 HD1  SING N N 41 
+Y3A CD2 HD2  SING N N 42 
+Y3A CE1 HE1  SING N N 43 
+Y3A CE2 HE2  SING N N 44 
+Y3A CZ4 HZ4  SING N N 45 
+Y3A C15 H15  SING N N 46 
+Y3A C15 H15A SING N N 47 
+Y3A C15 CL1  SING N N 48 
+Y3A C14 H18  SING N N 49 
+Y3A C14 H19  SING N N 50 
+Y3A N31 H20  SING N N 51 
+Y3A C16 H21  SING N N 52 
+Y3A C16 H22  SING N N 53 
+Y3A C17 H23  SING N N 54 
+Y3A C18 H24  SING N N 55 
+Y3A C19 H25  SING N N 56 
+Y3A C21 H26  SING N N 57 
+Y3A C22 H27  SING N N 58 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+Y3A SMILES           ACDLabs              12.01 "ClCC(O)C(NC(=O)CNC(=O)CNC(=O)OCc1ccccc1)Cc2ccccc2"                                                                                                                                   
+Y3A InChI            InChI                1.03  "InChI=1S/C22H26ClN3O5/c23-12-19(27)18(11-16-7-3-1-4-8-16)26-21(29)14-24-20(28)13-25-22(30)31-15-17-9-5-2-6-10-17/h1-10,18-19,27H,11-15H2,(H,24,28)(H,25,30)(H,26,29)/t18-,19-/m0/s1" 
+Y3A InChIKey         InChI                1.03  WLEADEPGUSFGIL-OALUTQOASA-N                                                                                                                                                           
+Y3A SMILES_CANONICAL CACTVS               3.385 "O[C@@H](CCl)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)OCc2ccccc2"                                                                                                                          
+Y3A SMILES           CACTVS               3.385 "O[CH](CCl)[CH](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)OCc2ccccc2"                                                                                                                             
+Y3A SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)C[C@@H]([C@H](CCl)O)NC(=O)CNC(=O)CNC(=O)OCc2ccccc2"                                                                                                                        
+Y3A SMILES           "OpenEye OEToolkits" 1.7.6 "c1ccc(cc1)CC(C(CCl)O)NC(=O)CNC(=O)CNC(=O)OCc2ccccc2"                                                                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+Y3A "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(benzyloxy)carbonyl]glycyl-N-[(2S,3R)-4-chloro-3-hydroxy-1-phenylbutan-2-yl]glycinamide"                                                       
+Y3A "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(phenylmethyl) N-[2-[[2-[[(2S,3R)-4-chloranyl-3-oxidanyl-1-phenyl-butan-2-yl]amino]-2-oxidanylidene-ethyl]amino]-2-oxidanylidene-ethyl]carbamate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+Y3A "Create component"   2013-01-28 RCSB 
+Y3A "Initial release"    2013-05-08 RCSB 
+Y3A "Other modification" 2014-09-28 RCSB 
+# 

@@ -1,0 +1,92 @@
+data_F3S
+# 
+_chem_comp.id                                    F3S 
+_chem_comp.name                                  "FE3-S4 CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe3 S4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         FS3 
+_chem_comp.formula_weight                        295.795 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     F3S 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1FXD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+F3S FE1 FE1 FE 0 0 N N N 9.970 0.183  2.543 -0.468 -1.707 0.040  FE1 F3S 1 
+F3S FE3 FE3 FE 0 0 N N N 8.234 0.467  4.591 1.712  0.448  0.040  FE3 F3S 2 
+F3S FE4 FE4 FE 0 0 N N N 7.501 -1.030 2.358 -1.244 1.259  0.040  FE4 F3S 3 
+F3S S1  S1  S  0 1 N N N 9.574 2.048  3.697 1.718  -1.738 0.350  S1  F3S 4 
+F3S S2  S2  S  0 1 N N N 8.567 0.118  0.689 -2.364 -0.618 0.350  S2  F3S 5 
+F3S S3  S3  S  0 1 N N N 9.167 -1.539 3.882 0.000  0.000  -1.256 S3  F3S 6 
+F3S S4  S4  S  0 1 N N N 6.287 0.494  3.416 0.647  2.357  0.350  S4  F3S 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+F3S FE1 S1 SING N N 1 
+F3S FE1 S2 SING N N 2 
+F3S FE1 S3 SING N N 3 
+F3S FE3 S1 SING N N 4 
+F3S FE3 S3 SING N N 5 
+F3S FE3 S4 SING N N 6 
+F3S FE4 S2 SING N N 7 
+F3S FE4 S3 SING N N 8 
+F3S FE4 S4 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+F3S InChI            InChI                1.02b "InChI=1/3Fe.4S/rFe3S4/c4-1-5-3-6-2(4)7(1)3" 
+F3S InChIKey         InChI                1.02b FCXHZBQOKRZXKS-MZMDZPPWAW                    
+F3S SMILES_CANONICAL CACTVS               3.341 "S1[Fe]|2S[Fe]3S|2[Fe]1S3"                   
+F3S SMILES           CACTVS               3.341 "S1[Fe]|2S[Fe]3S|2[Fe]1S3"                   
+F3S SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "S1[Fe]2S[Fe]3[S]2[Fe]1S3"                   
+F3S SMILES           "OpenEye OEToolkits" 1.5.0 "S1[Fe]2S[Fe]3[S]2[Fe]1S3"                   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+F3S "Create component" 1999-07-08 RCSB 
+# 

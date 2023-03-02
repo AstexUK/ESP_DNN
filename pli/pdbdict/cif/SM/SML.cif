@@ -1,0 +1,123 @@
+data_SML
+# 
+_chem_comp.id                                    SML 
+_chem_comp.name                                  "PHENYL METHYL SULFONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-10-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        156.202 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SML 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1D6W 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SML C32  C32  C 0 1 N N N 18.337 -17.969 24.759 -0.002 -1.645 1.937  C32  SML 1  
+SML S33  S33  S 0 1 N N N 18.841 -17.180 26.281 0.000  0.104  1.459  S33  SML 2  
+SML O34  O34  O 0 1 N N N 17.672 -16.395 26.725 -1.242 0.729  1.751  O34  SML 3  
+SML O35  O35  O 0 1 N N N 19.261 -18.234 27.191 1.244  0.725  1.751  O35  SML 4  
+SML C36  C36  C 0 1 Y N N 20.165 -16.075 25.862 0.000  0.039  -0.301 C36  SML 5  
+SML C37  C37  C 0 1 Y N N 20.181 -14.756 26.330 -1.197 0.016  -0.992 C37  SML 6  
+SML C38  C38  C 0 1 Y N N 21.200 -13.893 25.943 -1.197 -0.034 -2.373 C38  SML 7  
+SML C39  C39  C 0 1 Y N N 22.210 -14.325 25.101 -0.000 -0.061 -3.064 C39  SML 8  
+SML C40  C40  C 0 1 Y N N 22.226 -15.630 24.634 1.197  -0.037 -2.373 C40  SML 9  
+SML C41  C41  C 0 1 Y N N 21.207 -16.498 25.015 1.197  0.018  -0.992 C41  SML 10 
+SML H321 1H32 H 0 0 N N N 19.219 -18.561 24.423 0.886  -2.132 1.537  H321 SML 11 
+SML H322 2H32 H 0 0 N N N 17.403 -18.570 24.854 -0.002 -1.724 3.024  H322 SML 12 
+SML H323 3H32 H 0 0 N N N 17.957 -17.257 23.989 -0.893 -2.129 1.537  H323 SML 13 
+SML H371 1H37 H 0 0 N N N 19.387 -14.395 27.006 -2.132 0.037  -0.452 H371 SML 14 
+SML H381 1H38 H 0 0 N N N 21.207 -12.852 26.308 -2.132 -0.053 -2.913 H381 SML 15 
+SML H391 1H39 H 0 0 N N N 23.007 -13.624 24.800 -0.000 -0.102 -4.143 H391 SML 16 
+SML H401 1H40 H 0 0 N N N 23.037 -15.972 23.969 2.132  -0.058 -2.913 H401 SML 17 
+SML H411 1H41 H 0 0 N N N 21.225 -17.535 24.640 2.132  0.037  -0.452 H411 SML 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SML C32 S33  SING N N 1  
+SML C32 H321 SING N N 2  
+SML C32 H322 SING N N 3  
+SML C32 H323 SING N N 4  
+SML S33 O34  DOUB N N 5  
+SML S33 O35  DOUB N N 6  
+SML S33 C36  SING N N 7  
+SML C36 C37  DOUB Y N 8  
+SML C36 C41  SING Y N 9  
+SML C37 C38  SING Y N 10 
+SML C37 H371 SING N N 11 
+SML C38 C39  DOUB Y N 12 
+SML C38 H381 SING N N 13 
+SML C39 C40  SING Y N 14 
+SML C39 H391 SING N N 15 
+SML C40 C41  DOUB Y N 16 
+SML C40 H401 SING N N 17 
+SML C41 H411 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SML SMILES           ACDLabs              10.04 "methyl phenyl sulfone"                              
+SML SMILES_CANONICAL CACTVS               3.341 "C[S](=O)(=O)c1ccccc1"                               
+SML SMILES           CACTVS               3.341 "C[S](=O)(=O)c1ccccc1"                               
+SML SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CS(=O)(=O)c1ccccc1"                                 
+SML SMILES           "OpenEye OEToolkits" 1.5.0 "CS(=O)(=O)c1ccccc1"                                 
+SML InChI            InChI                1.03  "InChI=1S/C7H8O2S/c1-10(8,9)7-5-3-2-4-6-7/h2-6H,1H3" 
+SML InChIKey         InChI                1.03  JCDWETOKTFWTHA-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SML "SYSTEMATIC NAME" ACDLabs              10.04 "(methylsulfonyl)benzene" 
+SML "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 methylsulfonylbenzene     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SML "Create component"  1999-10-19 RCSB 
+SML "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,123 @@
+data_MOR
+# 
+_chem_comp.id                                    MOR 
+_chem_comp.name                                  "morpholine-4-carboxylic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        131.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MOR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EPN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MOR O1  O1  O 0 1 N N N 0.971  23.037 20.296 -2.418 0.063  0.041  O1  MOR 1  
+MOR C2  C2  C 0 1 N N N 2.080  23.127 19.303 -1.750 -1.158 0.367  C2  MOR 2  
+MOR C3  C3  C 0 1 N N N 2.949  24.256 19.719 -0.471 -1.273 -0.469 C3  MOR 3  
+MOR N4  N4  N 0 1 N N N 2.143  25.457 19.859 0.308  -0.036 -0.296 N4  MOR 4  
+MOR C5  C5  C 0 1 N N N 0.835  25.422 20.392 -0.382 1.249  -0.492 C5  MOR 5  
+MOR C6  C6  C 0 1 N N N 0.056  24.152 20.155 -1.666 1.240  0.345  C6  MOR 6  
+MOR C   C   C 0 1 N N N 2.579  26.706 19.507 1.615  -0.079 0.031  C   MOR 7  
+MOR O   O   O 0 1 N N N 1.795  27.670 19.712 2.167  -1.150 0.189  O   MOR 8  
+MOR H21 H21 H 0 1 N N N 2.655  22.189 19.288 -1.495 -1.162 1.426  H21 MOR 9  
+MOR H22 H22 H 0 1 N N N 1.676  23.308 18.296 -2.406 -2.001 0.147  H22 MOR 10 
+MOR H31 H31 H 0 1 N N N 3.425  24.018 20.682 0.116  -2.126 -0.128 H31 MOR 11 
+MOR H32 H32 H 0 1 N N N 3.726  24.421 18.958 -0.729 -1.400 -1.520 H32 MOR 12 
+MOR H51 H51 H 0 1 N N N 0.921  25.555 21.481 0.263  2.065  -0.166 H51 MOR 13 
+MOR H52 H52 H 0 1 N N N 0.270  26.244 19.928 -0.631 1.375  -1.545 H52 MOR 14 
+MOR H61 H61 H 0 1 N N N -0.376 24.159 19.144 -2.260 2.123  0.109  H61 MOR 15 
+MOR H62 H62 H 0 1 N N N -0.758 24.067 20.890 -1.410 1.245  1.405  H62 MOR 16 
+MOR O3  O3  O 0 1 N Y N 3.872  26.907 18.930 2.309  1.065  0.184  O3  MOR 17 
+MOR H9  H9  H 0 1 N Y N 4.000  27.831 18.752 3.243  0.983  0.419  H9  MOR 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MOR O1 C2  SING N N 1  
+MOR O1 C6  SING N N 2  
+MOR C2 C3  SING N N 3  
+MOR C2 H21 SING N N 4  
+MOR C2 H22 SING N N 5  
+MOR C3 N4  SING N N 6  
+MOR C3 H31 SING N N 7  
+MOR C3 H32 SING N N 8  
+MOR N4 C5  SING N N 9  
+MOR N4 C   SING N N 10 
+MOR C5 C6  SING N N 11 
+MOR C5 H51 SING N N 12 
+MOR C5 H52 SING N N 13 
+MOR C6 H61 SING N N 14 
+MOR C6 H62 SING N N 15 
+MOR C  O   DOUB N N 16 
+MOR C  O3  SING N N 17 
+MOR O3 H9  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MOR SMILES           ACDLabs              12.01 "O=C(O)N1CCOCC1"                                       
+MOR SMILES_CANONICAL CACTVS               3.370 "OC(=O)N1CCOCC1"                                       
+MOR SMILES           CACTVS               3.370 "OC(=O)N1CCOCC1"                                       
+MOR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1COCCN1C(=O)O"                                       
+MOR SMILES           "OpenEye OEToolkits" 1.7.0 "C1COCCN1C(=O)O"                                       
+MOR InChI            InChI                1.03  "InChI=1S/C5H9NO3/c7-5(8)6-1-3-9-4-2-6/h1-4H2,(H,7,8)" 
+MOR InChIKey         InChI                1.03  STUHQDIOZQUPGP-UHFFFAOYSA-N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MOR "SYSTEMATIC NAME" ACDLabs              12.01 "morpholine-4-carboxylic acid" 
+MOR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "morpholine-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MOR "Create component"  1999-07-08 RCSB 
+MOR "Modify descriptor" 2011-06-04 RCSB 
+# 

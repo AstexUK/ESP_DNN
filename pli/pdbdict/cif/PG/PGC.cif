@@ -1,0 +1,117 @@
+data_PGC
+# 
+_chem_comp.id                                    PGC 
+_chem_comp.name                                  O-PHOSPHOGLYCOLOHYDROXAMATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6 N O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-03 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      PGH 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        171.046 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PGC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PGC C1   C1   C 0 1 N N N 7.213 70.311 131.488 -0.148 0.007  1.936  C1   PGC 1  
+PGC C2   C2   C 0 1 N N N 6.179 69.711 130.555 0.419  -0.056 0.542  C2   PGC 2  
+PGC N2   N2   N 0 1 N N N 8.146 69.371 131.887 0.673  -0.059 3.003  N2   PGC 3  
+PGC O2   O2   O 0 1 N N N 9.221 70.087 132.330 0.139  0.001  4.313  O2   PGC 4  
+PGC O1   O1   O 0 1 N N N 7.057 71.340 132.162 -1.344 0.120  2.099  O1   PGC 5  
+PGC O1P  O1P  O 0 1 N N N 4.937 69.438 131.170 -0.642 0.034  -0.409 O1P  PGC 6  
+PGC O2P  O2P  O 0 1 N N N 4.191 67.214 130.761 0.757  -1.323 -2.011 O2P  PGC 7  
+PGC O3P  O3P  O 0 1 N N N 3.746 69.067 128.998 -1.113 0.056  -2.995 O3P  PGC 8  
+PGC O4P  O4P  O 0 1 N N N 2.522 69.034 131.326 1.064  1.181  -2.046 O4P  PGC 9  
+PGC P    P    P 0 1 N N N 3.810 68.645 130.466 0.032  -0.041 -1.868 P    PGC 10 
+PGC H21  1H2  H 0 1 N N N 6.037 70.359 129.659 1.112  0.771  0.393  H21  PGC 11 
+PGC H22  2H2  H 0 1 N N N 6.581 68.794 130.063 0.947  -1.000 0.408  H22  PGC 12 
+PGC HN   HN   H 0 1 N N N 8.058 68.355 131.860 1.630  -0.149 2.872  HN   PGC 13 
+PGC HO2  HO2  H 0 1 N N N 9.861 69.441 132.604 0.887  -0.063 4.922  HO2  PGC 14 
+PGC HOP3 3HOP H 0 0 N N N 3.054 68.580 128.565 -0.667 0.007  -3.852 HOP3 PGC 15 
+PGC HOP4 4HOP H 0 0 N N N 1.830 68.547 130.893 0.553  1.996  -1.946 HOP4 PGC 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PGC C1  C2   SING N N 1  
+PGC C1  N2   SING N N 2  
+PGC C1  O1   DOUB N N 3  
+PGC C2  O1P  SING N N 4  
+PGC C2  H21  SING N N 5  
+PGC C2  H22  SING N N 6  
+PGC N2  O2   SING N N 7  
+PGC N2  HN   SING N N 8  
+PGC O2  HO2  SING N N 9  
+PGC O1P P    SING N N 10 
+PGC O2P P    DOUB N N 11 
+PGC O3P P    SING N N 12 
+PGC O3P HOP3 SING N N 13 
+PGC O4P P    SING N N 14 
+PGC O4P HOP4 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PGC SMILES           ACDLabs              10.04 "O=P(O)(O)OCC(=O)NO"                                                         
+PGC InChI            InChI                1.02b "InChI=1/C2H6NO6P/c4-2(3-5)1-9-10(6,7)8/h5H,1H2,(H,3,4)(H2,6,7,8)/f/h3,6-7H" 
+PGC InChIKey         InChI                1.02b BAXHHWZKQZIJID-UXQYJXSCCI                                                    
+PGC SMILES_CANONICAL CACTVS               3.341 "ONC(=O)CO[P](O)(O)=O"                                                       
+PGC SMILES           CACTVS               3.341 "ONC(=O)CO[P](O)(O)=O"                                                       
+PGC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)NO)OP(=O)(O)O"                                                       
+PGC SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)NO)OP(=O)(O)O"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PGC "SYSTEMATIC NAME" ACDLabs              10.04 "2-(hydroxyamino)-2-oxoethyl dihydrogen phosphate"    
+PGC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[2-(hydroxyamino)-2-oxo-ethyl] dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PGC "Create component" 1999-08-03 RCSB 
+# 

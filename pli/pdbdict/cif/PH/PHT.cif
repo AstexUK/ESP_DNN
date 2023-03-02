@@ -1,0 +1,123 @@
+data_PHT
+# 
+_chem_comp.id                                    PHT 
+_chem_comp.name                                  "PHTHALIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        166.131 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PHT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QPR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PHT O8  O8  O 0 1 N N N 9.041  20.568 6.476 0.760  0.941  1.994  O8  PHT 1  
+PHT O9  O9  O 0 1 N N N 8.422  21.410 4.492 2.127  -0.778 1.676  O9  PHT 2  
+PHT C10 C10 C 0 1 N N N 9.434  23.111 8.301 -1.607 -0.097 0.616  C10 PHT 3  
+PHT O11 O11 O 0 1 N N N 10.077 22.710 9.281 -1.241 -0.183 1.771  O11 PHT 4  
+PHT O12 O12 O 0 1 N N N 8.240  23.219 8.419 -2.922 -0.059 0.328  O12 PHT 5  
+PHT C7  C7  C 0 1 N N N 9.065  21.521 5.576 1.213  0.108  1.235  C7  PHT 6  
+PHT C1  C1  C 0 1 Y N N 10.903 24.599 7.021 -1.021 -0.069 -1.802 C1  PHT 7  
+PHT C2  C2  C 0 1 Y N N 10.075 23.476 7.013 -0.609 -0.036 -0.472 C2  PHT 8  
+PHT C3  C3  C 0 1 Y N N 9.907  22.779 5.800 0.761  0.066  -0.171 C3  PHT 9  
+PHT C4  C4  C 0 1 Y N N 10.572 23.271 4.648 1.690  0.123  -1.207 C4  PHT 10 
+PHT C5  C5  C 0 1 Y N N 11.500 24.260 4.747 1.263  0.083  -2.521 C5  PHT 11 
+PHT C6  C6  C 0 1 Y N N 11.592 24.975 5.940 -0.084 -0.012 -2.817 C6  PHT 12 
+PHT H9  H9  H 0 1 N N N 8.439  22.100 3.839 2.422  -0.750 2.596  H9  PHT 13 
+PHT H12 H12 H 0 1 N N N 7.746  23.526 7.667 -3.575 -0.099 1.040  H12 PHT 14 
+PHT H1  H1  H 0 1 N N N 11.018 25.219 7.925 -2.071 -0.144 -2.040 H1  PHT 15 
+PHT H4  H4  H 0 1 N N N 10.360 22.871 3.642 2.744  0.198  -0.983 H4  PHT 16 
+PHT H5  H5  H 0 1 N N N 12.156 24.475 3.887 1.987  0.128  -3.321 H5  PHT 17 
+PHT H6  H6  H 0 1 N N N 12.231 25.868 6.031 -0.406 -0.042 -3.847 H6  PHT 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PHT O8  C7  DOUB N N 1  
+PHT O9  C7  SING N N 2  
+PHT O9  H9  SING N N 3  
+PHT C10 O11 DOUB N N 4  
+PHT C10 O12 SING N N 5  
+PHT C10 C2  SING N N 6  
+PHT O12 H12 SING N N 7  
+PHT C7  C3  SING N N 8  
+PHT C1  C2  DOUB Y N 9  
+PHT C1  C6  SING Y N 10 
+PHT C1  H1  SING N N 11 
+PHT C2  C3  SING Y N 12 
+PHT C3  C4  DOUB Y N 13 
+PHT C4  C5  SING Y N 14 
+PHT C4  H4  SING N N 15 
+PHT C5  C6  DOUB Y N 16 
+PHT C5  H5  SING N N 17 
+PHT C6  H6  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PHT SMILES           ACDLabs              10.04 "O=C(O)c1ccccc1C(=O)O"                                                  
+PHT SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1ccccc1C(O)=O"                                                  
+PHT SMILES           CACTVS               3.341 "OC(=O)c1ccccc1C(O)=O"                                                  
+PHT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(c(c1)C(=O)O)C(=O)O"                                              
+PHT SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(c(c1)C(=O)O)C(=O)O"                                              
+PHT InChI            InChI                1.03  "InChI=1S/C8H6O4/c9-7(10)5-3-1-2-4-6(5)8(11)12/h1-4H,(H,9,10)(H,11,12)" 
+PHT InChIKey         InChI                1.03  XNGIFLGASWRNHJ-UHFFFAOYSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PHT "SYSTEMATIC NAME" ACDLabs              10.04 "benzene-1,2-dicarboxylic acid" 
+PHT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phthalic acid"                 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PHT "Create component"  1999-07-08 EBI  
+PHT "Modify descriptor" 2011-06-04 RCSB 
+# 

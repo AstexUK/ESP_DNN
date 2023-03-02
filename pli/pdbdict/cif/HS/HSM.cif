@@ -1,0 +1,121 @@
+data_HSM
+# 
+_chem_comp.id                                    HSM 
+_chem_comp.name                                  HISTAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        111.145 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HSM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AVN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HSM N   N   N 0 1 N N N 0.472  5.105 9.736  0.001  0.132  3.420  N   HSM 1  
+HSM CA  CA  C 0 1 N N N -0.646 5.919 10.239 -0.277 0.432  2.009  CA  HSM 2  
+HSM CB  CB  C 0 1 N N N -1.970 5.583 9.567  0.480  -0.554 1.118  CB  HSM 3  
+HSM CG  CG  C 0 1 Y N N -3.141 4.946 10.236 0.194  -0.246 -0.328 CG  HSM 4  
+HSM ND1 ND1 N 0 1 Y N N -3.480 3.627 10.041 -1.011 -0.265 -0.914 ND1 HSM 5  
+HSM CD2 CD2 C 0 1 Y N N -4.083 5.415 11.087 1.106  0.089  -1.261 CD2 HSM 6  
+HSM CE1 CE1 C 0 1 Y N N -4.545 3.288 10.731 -0.883 0.053  -2.173 CE1 HSM 7  
+HSM NE2 NE2 N 0 1 Y N N -4.926 4.363 11.383 0.423  0.280  -2.431 NE2 HSM 8  
+HSM H1  1H  H 0 1 N N N 1.359  5.330 10.186 -0.405 -0.771 3.610  H1  HSM 9  
+HSM H2  2H  H 0 1 N N N 0.548  5.177 8.721  -0.516 0.804  3.966  H2  HSM 10 
+HSM HA1 1HA H 0 1 N N N -0.729 5.840 11.348 -1.347 0.341  1.823  HA1 HSM 11 
+HSM HA2 2HA H 0 1 N N N -0.418 7.007 10.151 0.045  1.448  1.782  HA2 HSM 12 
+HSM HB1 1HB H 0 1 N N N -2.341 6.527 9.105  1.550  -0.463 1.305  HB1 HSM 13 
+HSM HB2 2HB H 0 1 N N N -1.726 4.950 8.681  0.157  -1.570 1.345  HB2 HSM 14 
+HSM HD2 HD2 H 0 1 N N N -4.150 6.449 11.464 2.171  0.190  -1.113 HD2 HSM 15 
+HSM HE1 HE1 H 0 1 N N N -5.025 2.295 10.757 -1.687 0.121  -2.891 HE1 HSM 16 
+HSM HE2 HE2 H 0 1 N N N -5.732 4.378 12.007 0.805  0.531  -3.287 HE2 HSM 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HSM N   CA  SING N N 1  
+HSM N   H1  SING N N 2  
+HSM N   H2  SING N N 3  
+HSM CA  CB  SING N N 4  
+HSM CA  HA1 SING N N 5  
+HSM CA  HA2 SING N N 6  
+HSM CB  CG  SING N N 7  
+HSM CB  HB1 SING N N 8  
+HSM CB  HB2 SING N N 9  
+HSM CG  ND1 SING Y N 10 
+HSM CG  CD2 DOUB Y N 11 
+HSM ND1 CE1 DOUB Y N 12 
+HSM CD2 NE2 SING Y N 13 
+HSM CD2 HD2 SING N N 14 
+HSM CE1 NE2 SING Y N 15 
+HSM CE1 HE1 SING N N 16 
+HSM NE2 HE2 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HSM SMILES           ACDLabs              10.04 "n1c(cnc1)CCN"                                             
+HSM SMILES_CANONICAL CACTVS               3.341 "NCCc1c[nH]cn1"                                            
+HSM SMILES           CACTVS               3.341 "NCCc1c[nH]cn1"                                            
+HSM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(nc[nH]1)CCN"                                          
+HSM SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(nc[nH]1)CCN"                                          
+HSM InChI            InChI                1.03  "InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)" 
+HSM InChIKey         InChI                1.03  NTYJJOPFIAHURM-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HSM "SYSTEMATIC NAME" ACDLabs              10.04 "2-(1H-imidazol-4-yl)ethanamine" 
+HSM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(1H-imidazol-4-yl)ethanamine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HSM "Create component"  1999-07-08 RCSB 
+HSM "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,149 @@
+data_PFL
+# 
+_chem_comp.id                                    PFL 
+_chem_comp.name                                  "2,6-BIS(1-METHYLETHYL)PHENOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H18 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "2,6-DIISOPROPYLPHENOL; PROPOFOL" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-08-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        178.271 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PFL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1E7A 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PFL O1   O1   O 0 1 N N N 9.498  3.652  -12.754 -1.930 0.037  0.000  O1   PFL 1  
+PFL C1   C1   C 0 1 Y N N 9.985  2.495  -13.407 -0.571 0.011  0.000  C1   PFL 2  
+PFL C2   C2   C 0 1 Y N N 11.217 1.912  -12.958 0.123  0.003  1.200  C2   PFL 3  
+PFL C6   C6   C 0 1 Y N N 9.238  1.959  -14.492 0.123  0.003  -1.200 C6   PFL 4  
+PFL C3   C3   C 0 1 Y N N 11.671 0.748  -13.642 1.504  -0.022 1.198  C3   PFL 5  
+PFL C7   C7   C 0 1 N N N 11.996 2.525  -11.787 -0.627 0.018  2.507  C7   PFL 6  
+PFL C4   C4   C 0 1 Y N N 10.954 0.203  -14.706 2.194  -0.036 0.000  C4   PFL 7  
+PFL C5   C5   C 0 1 Y N N 9.769  0.787  -15.124 1.504  -0.023 -1.198 C5   PFL 8  
+PFL C10  C10  C 0 1 N N N 7.911  2.608  -14.959 -0.627 0.018  -2.507 C10  PFL 9  
+PFL C8   C8   C 0 1 N N N 12.793 3.707  -12.254 -0.281 -1.238 3.308  C8   PFL 10 
+PFL C9   C9   C 0 1 N N N 12.968 1.572  -11.118 -0.233 1.259  3.309  C9   PFL 11 
+PFL C11  C11  C 0 1 N N N 6.991  1.603  -15.578 -0.232 1.260  -3.308 C11  PFL 12 
+PFL C12  C12  C 0 1 N N N 8.179  3.710  -15.938 -0.281 -1.237 -3.308 C12  PFL 13 
+PFL HO1  HO1  H 0 1 N N N 8.682  4.037  -13.051 -2.227 -0.882 -0.004 HO1  PFL 14 
+PFL HC3  HC3  H 0 1 N N N 12.608 0.252  -13.337 2.046  -0.032 2.132  HC3  PFL 15 
+PFL HC7  HC7  H 0 1 N N N 11.215 2.807  -11.042 -1.699 0.038  2.309  HC7  PFL 16 
+PFL HC4  HC4  H 0 1 N N N 11.327 -0.697 -15.221 3.274  -0.056 0.000  HC4  PFL 17 
+PFL HC5  HC5  H 0 1 N N N 9.242  0.313  -15.969 2.046  -0.033 -2.132 HC5  PFL 18 
+PFL H10  H10  H 0 1 N N N 7.413  3.027  -14.053 -1.699 0.039  -2.309 H10  PFL 19 
+PFL H81  1H8  H 0 1 N N N 13.359 4.152  -11.403 -0.824 -1.227 4.253  H81  PFL 20 
+PFL H82  2H8  H 0 1 N N N 13.461 3.446  -13.107 -0.562 -2.122 2.737  H82  PFL 21 
+PFL H83  3H8  H 0 1 N N N 12.154 4.461  -12.769 0.790  -1.258 3.506  H83  PFL 22 
+PFL H91  1H9  H 0 1 N N N 13.534 2.017  -10.267 0.838  1.239  3.506  H91  PFL 23 
+PFL H92  2H9  H 0 1 N N N 12.442 0.643  -10.793 -0.480 2.154  2.737  H92  PFL 24 
+PFL H93  3H9  H 0 1 N N N 13.669 1.140  -11.869 -0.776 1.270  4.253  H93  PFL 25 
+PFL H111 1H11 H 0 0 N N N 6.036  2.070  -15.914 -0.776 1.270  -4.253 H111 PFL 26 
+PFL H112 2H11 H 0 0 N N N 7.489  1.053  -16.410 -0.479 2.155  -2.737 H112 PFL 27 
+PFL H113 3H11 H 0 0 N N N 6.804  0.745  -14.890 0.839  1.239  -3.506 H113 PFL 28 
+PFL H121 1H12 H 0 0 N N N 7.224  4.177  -16.274 0.790  -1.258 -3.506 H121 PFL 29 
+PFL H122 2H12 H 0 0 N N N 8.887  4.466  -15.526 -0.563 -2.122 -2.737 H122 PFL 30 
+PFL H123 3H12 H 0 0 N N N 8.793  3.358  -16.799 -0.825 -1.227 -4.253 H123 PFL 31 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PFL O1  C1   SING N N 1  
+PFL O1  HO1  SING N N 2  
+PFL C1  C2   DOUB Y N 3  
+PFL C1  C6   SING Y N 4  
+PFL C2  C3   SING Y N 5  
+PFL C2  C7   SING N N 6  
+PFL C6  C5   DOUB Y N 7  
+PFL C6  C10  SING N N 8  
+PFL C3  C4   DOUB Y N 9  
+PFL C3  HC3  SING N N 10 
+PFL C7  C8   SING N N 11 
+PFL C7  C9   SING N N 12 
+PFL C7  HC7  SING N N 13 
+PFL C4  C5   SING Y N 14 
+PFL C4  HC4  SING N N 15 
+PFL C5  HC5  SING N N 16 
+PFL C10 C11  SING N N 17 
+PFL C10 C12  SING N N 18 
+PFL C10 H10  SING N N 19 
+PFL C8  H81  SING N N 20 
+PFL C8  H82  SING N N 21 
+PFL C8  H83  SING N N 22 
+PFL C9  H91  SING N N 23 
+PFL C9  H92  SING N N 24 
+PFL C9  H93  SING N N 25 
+PFL C11 H111 SING N N 26 
+PFL C11 H112 SING N N 27 
+PFL C11 H113 SING N N 28 
+PFL C12 H121 SING N N 29 
+PFL C12 H122 SING N N 30 
+PFL C12 H123 SING N N 31 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PFL SMILES           ACDLabs              10.04 "Oc1c(cccc1C(C)C)C(C)C"                                             
+PFL SMILES_CANONICAL CACTVS               3.341 "CC(C)c1cccc(C(C)C)c1O"                                             
+PFL SMILES           CACTVS               3.341 "CC(C)c1cccc(C(C)C)c1O"                                             
+PFL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)c1cccc(c1O)C(C)C"                                             
+PFL SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)c1cccc(c1O)C(C)C"                                             
+PFL InChI            InChI                1.03  "InChI=1S/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H3" 
+PFL InChIKey         InChI                1.03  OLBCVFGFOZPWHH-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PFL "SYSTEMATIC NAME" ACDLabs              10.04 "2,6-bis(1-methylethyl)phenol" 
+PFL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2,6-di(propan-2-yl)phenol"    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PFL "Create component"  2000-08-29 EBI  
+PFL "Modify descriptor" 2011-06-04 RCSB 
+# 

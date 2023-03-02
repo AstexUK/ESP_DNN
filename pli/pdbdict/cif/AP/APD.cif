@@ -1,0 +1,139 @@
+data_APD
+# 
+_chem_comp.id                                    APD 
+_chem_comp.name                                  3-METHYLPHENYLALANINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H13 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-09-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        179.216 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     APD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GMY 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+APD C    C    C 0 1 N N N 31.265 35.384 35.826 0.305  0.058  -3.040 C    APD 1  
+APD O    O    O 0 1 N N N 30.881 34.430 36.500 -0.634 -0.171 -3.764 O    APD 2  
+APD CA   CA   C 0 1 N N S 31.370 35.248 34.324 0.073  0.414  -1.595 CA   APD 3  
+APD N    N    N 0 1 N N N 31.847 33.924 33.979 -1.218 1.102  -1.461 N    APD 4  
+APD CB   CB   C 0 1 N N N 30.019 35.506 33.661 0.061  -0.860 -0.750 CB   APD 5  
+APD CG   CG   C 0 1 Y N N 30.134 35.485 32.151 -0.169 -0.504 0.695  CG   APD 6  
+APD CD1  CD1  C 0 1 Y N N 30.472 36.643 31.438 -1.457 -0.439 1.193  CD1  APD 7  
+APD CD2  CD2  C 0 1 Y N N 29.964 34.296 31.448 0.905  -0.238 1.522  CD2  APD 8  
+APD CE1  CE1  C 0 1 Y N N 30.645 36.606 30.049 -1.670 -0.112 2.519  CE1  APD 9  
+APD CE2  CE2  C 0 1 Y N N 30.130 34.234 30.062 0.693  0.083  2.849  CE2  APD 10 
+APD CZ   CZ   C 0 1 Y N N 30.474 35.399 29.372 -0.595 0.149  3.347  CZ   APD 11 
+APD C5   C5   C 0 1 N N N 29.945 32.936 29.336 1.865  0.368  3.753  C5   APD 12 
+APD OXT  OXT  O 0 1 N Y N 31.605 36.569 36.333 1.555  -0.004 -3.524 OXT  APD 13 
+APD HA   HA   H 0 1 N N N 32.102 36.000 33.948 0.871  1.071  -1.250 HA   APD 14 
+APD HN1  1HN  H 0 1 N N N 31.918 33.832 32.966 -1.923 0.460  -1.790 HN1  APD 15 
+APD HN2  2HN  H 0 1 N N N 31.270 33.190 34.390 -1.378 1.228  -0.473 HN2  APD 16 
+APD HBC1 1HBC H 0 0 N N N 29.560 36.455 34.023 1.020  -1.370 -0.849 HBC1 APD 17 
+APD HBC2 2HBC H 0 0 N N N 29.243 34.792 34.022 -0.736 -1.517 -1.095 HBC2 APD 18 
+APD HD1  HD1  H 0 1 N N N 30.604 37.596 31.978 -2.297 -0.644 0.546  HD1  APD 19 
+APD HD2  HD2  H 0 1 N N N 29.691 33.380 31.999 1.911  -0.289 1.133  HD2  APD 20 
+APD HE1  HE1  H 0 1 N N N 30.914 37.522 29.496 -2.676 -0.061 2.908  HE1  APD 21 
+APD HZ   HZ   H 0 1 N N N 30.612 35.364 28.278 -0.761 0.404  4.383  HZ   APD 22 
+APD H5C1 1H5C H 0 0 N N N 29.670 32.006 29.887 2.194  -0.557 4.223  H5C1 APD 23 
+APD H5C2 2H5C H 0 0 N N N 30.871 32.731 28.750 2.682  0.788  3.166  H5C2 APD 24 
+APD H5C3 3H5C H 0 0 N N N 29.194 33.095 28.527 1.566  1.080  4.522  H5C3 APD 25 
+APD HXT  HXT  H 0 1 N N N 31.901 37.306 35.812 1.704  -0.233 -4.452 HXT  APD 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+APD C   O    DOUB N N 1  
+APD C   CA   SING N N 2  
+APD C   OXT  SING N N 3  
+APD CA  N    SING N N 4  
+APD CA  CB   SING N N 5  
+APD CA  HA   SING N N 6  
+APD N   HN1  SING N N 7  
+APD N   HN2  SING N N 8  
+APD CB  CG   SING N N 9  
+APD CB  HBC1 SING N N 10 
+APD CB  HBC2 SING N N 11 
+APD CG  CD1  DOUB Y N 12 
+APD CG  CD2  SING Y N 13 
+APD CD1 CE1  SING Y N 14 
+APD CD1 HD1  SING N N 15 
+APD CD2 CE2  DOUB Y N 16 
+APD CD2 HD2  SING N N 17 
+APD CE1 CZ   DOUB Y N 18 
+APD CE1 HE1  SING N N 19 
+APD CE2 CZ   SING Y N 20 
+APD CE2 C5   SING N N 21 
+APD CZ  HZ   SING N N 22 
+APD C5  H5C1 SING N N 23 
+APD C5  H5C2 SING N N 24 
+APD C5  H5C3 SING N N 25 
+APD OXT HXT  SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+APD SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc1cccc(c1)C"                                                                     
+APD SMILES_CANONICAL CACTVS               3.341 "Cc1cccc(C[C@H](N)C(O)=O)c1"                                                                 
+APD SMILES           CACTVS               3.341 "Cc1cccc(C[CH](N)C(O)=O)c1"                                                                  
+APD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1cccc(c1)C[C@@H](C(=O)O)N"                                                                
+APD SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1cccc(c1)CC(C(=O)O)N"                                                                     
+APD InChI            InChI                1.03  "InChI=1S/C10H13NO2/c1-7-3-2-4-8(5-7)6-9(11)10(12)13/h2-5,9H,6,11H2,1H3,(H,12,13)/t9-/m0/s1" 
+APD InChIKey         InChI                1.03  JZRBSTONIYRNRI-VIFPVBQESA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+APD "SYSTEMATIC NAME" ACDLabs              10.04 3-methyl-L-phenylalanine                        
+APD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(3-methylphenyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+APD "Create component"  2001-09-28 EBI  
+APD "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,138 @@
+data_L2O
+# 
+_chem_comp.id                                    L2O 
+_chem_comp.name                                  "(2S,3R)-3-amino-2-hydroxy-5-methylhexanoic acid" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H15 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-10-09 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        161.199 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     L2O 
+_chem_comp.pdbx_model_coordinates_details        "not provided" 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BLL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+L2O N   N   N 0 1 N N N 62.132 54.057 16.417 -0.049 -0.071 1.504  N   L2O 1  
+L2O C1  C1  C 0 1 N N R 62.618 53.556 17.698 0.141  -0.210 0.054  C1  L2O 2  
+L2O C2  C2  C 0 1 N N N 62.264 54.632 18.626 1.409  0.535  -0.368 C2  L2O 3  
+L2O C3  C3  C 0 1 N N N 61.391 54.244 19.774 2.629  -0.136 0.266  C3  L2O 4  
+L2O C4  C4  C 0 1 N N N 59.924 54.518 19.420 2.784  -1.550 -0.297 C4  L2O 5  
+L2O C5  C5  C 0 1 N N N 61.579 52.737 19.994 3.883  0.680  -0.053 C5  L2O 6  
+L2O C6  C6  C 0 1 N N S 64.125 53.296 17.625 -1.066 0.382  -0.678 C6  L2O 7  
+L2O O1  O1  O 0 1 N N N 64.508 52.903 16.334 -1.125 1.789  -0.438 O1  L2O 8  
+L2O C   C   C 0 1 N N N 64.510 52.226 18.673 -2.328 -0.267 -0.172 C   L2O 9  
+L2O O   O   O 0 1 N N N 63.861 51.286 19.038 -3.150 0.390  0.422  O   L2O 10 
+L2O OXT OXT O 0 1 N Y N 65.734 52.481 19.188 -2.540 -1.576 -0.381 OXT L2O 11 
+L2O H   H   H 0 1 N N N 62.327 53.387 15.701 -0.142 0.899  1.765  H   L2O 12 
+L2O H2  H2  H 0 1 N Y N 61.145 54.209 16.472 -0.844 -0.607 1.817  H2  L2O 13 
+L2O H3  H3  H 0 1 N N N 62.184 52.594 18.007 0.238  -1.265 -0.200 H3  L2O 14 
+L2O H4  H4  H 0 1 N N N 63.202 55.026 19.045 1.502  0.507  -1.454 H4  L2O 15 
+L2O H5  H5  H 0 1 N N N 61.727 55.399 18.049 1.350  1.571  -0.035 H5  L2O 16 
+L2O H6  H6  H 0 1 N N N 61.654 54.817 20.676 2.494  -0.188 1.347  H6  L2O 17 
+L2O H7  H7  H 0 1 N N N 59.282 54.232 20.266 1.890  -2.132 -0.069 H7  L2O 18 
+L2O H8  H8  H 0 1 N N N 59.792 55.589 19.206 2.918  -1.498 -1.377 H8  L2O 19 
+L2O H9  H9  H 0 1 N N N 59.645 53.930 18.533 3.653  -2.028 0.155  H9  L2O 20 
+L2O H10 H10 H 0 1 N N N 60.951 52.407 20.835 3.773  1.688  0.348  H10 L2O 21 
+L2O H11 H11 H 0 1 N N N 61.286 52.194 19.083 4.752  0.203  0.399  H11 L2O 22 
+L2O H12 H12 H 0 1 N N N 62.635 52.529 20.222 4.018  0.732  -1.133 H12 L2O 23 
+L2O HXT HXT H 0 1 N Y N 65.949 51.821 19.837 -3.364 -1.948 -0.038 HXT L2O 24 
+L2O H14 H14 H 0 1 N N N 65.445 52.748 16.315 -1.213 2.026  0.496  H14 L2O 25 
+L2O H15 H15 H 0 1 N N N 64.662 54.229 17.852 -0.967 0.200  -1.748 H15 L2O 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+L2O N   C1  SING N N 1  
+L2O N   H   SING N N 2  
+L2O N   H2  SING N N 3  
+L2O C1  C2  SING N N 4  
+L2O C1  C6  SING N N 5  
+L2O C1  H3  SING N N 6  
+L2O C2  C3  SING N N 7  
+L2O C2  H4  SING N N 8  
+L2O C2  H5  SING N N 9  
+L2O C3  C4  SING N N 10 
+L2O C3  C5  SING N N 11 
+L2O C3  H6  SING N N 12 
+L2O C4  H7  SING N N 13 
+L2O C4  H8  SING N N 14 
+L2O C4  H9  SING N N 15 
+L2O C5  H10 SING N N 16 
+L2O C5  H11 SING N N 17 
+L2O C5  H12 SING N N 18 
+L2O C6  C   SING N N 19 
+L2O C6  O1  SING N N 20 
+L2O C6  H15 SING N N 21 
+L2O O1  H14 SING N N 22 
+L2O C   O   DOUB N N 23 
+L2O C   OXT SING N N 24 
+L2O OXT HXT SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+L2O SMILES           ACDLabs              12.01 "O=C(O)C(O)C(N)CC(C)C"                                                                  
+L2O SMILES_CANONICAL CACTVS               3.370 "CC(C)C[C@@H](N)[C@H](O)C(O)=O"                                                         
+L2O SMILES           CACTVS               3.370 "CC(C)C[CH](N)[CH](O)C(O)=O"                                                            
+L2O SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)C[C@H]([C@@H](C(=O)O)O)N"                                                         
+L2O SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)CC(C(C(=O)O)O)N"                                                                  
+L2O InChI            InChI                1.03  "InChI=1S/C7H15NO3/c1-4(2)3-5(8)6(9)7(10)11/h4-6,9H,3,8H2,1-2H3,(H,10,11)/t5-,6+/m1/s1" 
+L2O InChIKey         InChI                1.03  GZLMFCWSEKVVGO-RITPCOANSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+L2O "SYSTEMATIC NAME" ACDLabs              12.01 "(2S,3R)-3-amino-2-hydroxy-5-methylhexanoic acid"   
+L2O "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S,3R)-3-azanyl-2-hydroxy-5-methyl-hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+L2O "Create component"  2010-10-09 RCSB 
+L2O "Modify descriptor" 2011-06-04 RCSB 
+# 

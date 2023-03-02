@@ -1,0 +1,126 @@
+data_BET
+# 
+_chem_comp.id                                    BET 
+_chem_comp.name                                  "TRIMETHYL GLYCINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H12 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        118.154 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BET 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1RCI 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BET N   N   N 1 1 N N N -0.067 36.152 32.976 -1.076 -0.083 0.001  N   BET 1  
+BET CA  CA  C 0 1 N N N 0.170  36.639 31.701 0.112  -0.940 -0.113 CA  BET 2  
+BET C   C   C 0 1 N N N 0.391  35.512 30.682 1.354  -0.091 -0.030 C   BET 3  
+BET O1  O1  O 0 1 N N N -0.528 35.278 29.864 1.261  1.114  0.004  O1  BET 4  
+BET O2  O2  O 0 1 N N N 1.573  35.245 30.371 2.563  -0.672 0.006  O2  BET 5  
+BET C1  C1  C 0 1 N N N -0.208 37.209 33.841 -1.112 0.857  -1.127 C1  BET 6  
+BET C2  C2  C 0 1 N N N -1.231 35.426 32.969 -1.019 0.668  1.262  C2  BET 7  
+BET C3  C3  C 0 1 N N N 0.983  35.373 33.374 -2.285 -0.917 -0.018 C3  BET 8  
+BET HA1 1HA H 0 1 N N N -0.645 37.325 31.373 0.114  -1.667 0.699  HA1 BET 9  
+BET HA2 2HA H 0 1 N N N 1.020  37.359 31.696 0.092  -1.463 -1.069 HA2 BET 10 
+BET HO2 HO2 H 0 1 N N N 1.709  34.547 29.740 3.360  -0.127 0.059  HO2 BET 11 
+BET H11 1H1 H 0 1 N N N -0.398 36.817 34.867 -0.290 1.566  -1.035 H11 BET 12 
+BET H12 2H1 H 0 1 N N N 0.663  37.903 33.807 -1.013 0.306  -2.062 H12 BET 13 
+BET H13 3H1 H 0 1 N N N -0.993 37.927 33.508 -2.059 1.396  -1.121 H13 BET 14 
+BET H21 1H2 H 0 1 N N N -1.421 35.034 33.995 -1.962 1.193  1.415  H21 BET 15 
+BET H22 2H2 H 0 1 N N N -2.093 36.010 32.571 -0.851 -0.023 2.089  H22 BET 16 
+BET H23 3H2 H 0 1 N N N -1.222 34.617 32.201 -0.204 1.389  1.219  H23 BET 17 
+BET H31 1H3 H 0 1 N N N 0.792  34.981 34.400 -2.328 -1.475 -0.954 H31 BET 18 
+BET H32 2H3 H 0 1 N N N 1.199  34.556 32.646 -2.259 -1.615 0.819  H32 BET 19 
+BET H33 3H3 H 0 1 N N N 1.956  35.912 33.304 -3.167 -0.282 0.066  H33 BET 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BET N  CA  SING N N 1  
+BET N  C1  SING N N 2  
+BET N  C2  SING N N 3  
+BET N  C3  SING N N 4  
+BET CA C   SING N N 5  
+BET CA HA1 SING N N 6  
+BET CA HA2 SING N N 7  
+BET C  O1  DOUB N N 8  
+BET C  O2  SING N N 9  
+BET O2 HO2 SING N N 10 
+BET C1 H11 SING N N 11 
+BET C1 H12 SING N N 12 
+BET C1 H13 SING N N 13 
+BET C2 H21 SING N N 14 
+BET C2 H22 SING N N 15 
+BET C2 H23 SING N N 16 
+BET C3 H31 SING N N 17 
+BET C3 H32 SING N N 18 
+BET C3 H33 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BET SMILES           ACDLabs              10.04 "O=C(O)C[N+](C)(C)C"                                
+BET SMILES_CANONICAL CACTVS               3.341 "C[N+](C)(C)CC(O)=O"                                
+BET SMILES           CACTVS               3.341 "C[N+](C)(C)CC(O)=O"                                
+BET SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)CC(=O)O"                                
+BET SMILES           "OpenEye OEToolkits" 1.5.0 "C[N+](C)(C)CC(=O)O"                                
+BET InChI            InChI                1.03  "InChI=1S/C5H11NO2/c1-6(2,3)4-5(7)8/h4H2,1-3H3/p+1" 
+BET InChIKey         InChI                1.03  KWIUHFFTVRNATP-UHFFFAOYSA-O                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BET "SYSTEMATIC NAME" ACDLabs              10.04 carboxy-N,N,N-trimethylmethanaminium 
+BET "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 carboxymethyl-trimethyl-azanium      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BET "Create component"  1999-07-08 RCSB 
+BET "Modify descriptor" 2011-06-04 RCSB 
+# 

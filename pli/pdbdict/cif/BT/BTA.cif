@@ -1,0 +1,123 @@
+data_BTA
+# 
+_chem_comp.id                                    BTA 
+_chem_comp.name                                  4-DEMETHYL-LEUCINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H11 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               LEU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2009-01-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      NVA 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        117.146 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     BTA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1ZNM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BTA N   N   N 0 1 N N N 16.751 8.235  6.188 -1.741 0.351  -0.140 N   BTA 1  
+BTA CA  CA  C 0 1 N N S 17.031 9.684  5.988 -0.286 0.521  -0.257 CA  BTA 2  
+BTA CB  CB  C 0 1 N N N 18.536 9.767  5.863 0.406  -0.225 0.884  CB  BTA 3  
+BTA CG  CG  C 0 1 N N N 18.921 11.235 5.697 -0.067 0.339  2.225  CG  BTA 4  
+BTA CD  CD  C 0 1 N N N 18.456 11.747 4.325 0.626  -0.406 3.366  CD  BTA 5  
+BTA C   C   C 0 1 N N N 16.428 10.207 4.697 0.179  -0.035 -1.577 C   BTA 6  
+BTA O   O   O 0 1 N N N 15.427 9.716  4.212 -0.413 -0.955 -2.088 O   BTA 7  
+BTA OXT OXT O 0 1 N Y N 17.060 11.199 4.120 1.254  0.490  -2.185 OXT BTA 8  
+BTA HN1 1HN H 0 1 N N N 16.487 7.907  7.074 -1.993 0.640  0.793  HN1 BTA 9  
+BTA HN2 2HN H 0 1 N N N 17.256 7.817  6.969 -1.923 -0.639 -0.196 HN2 BTA 10 
+BTA HA  HA  H 0 1 N N N 16.699 10.264 6.833 -0.038 1.581  -0.201 HA  BTA 11 
+BTA HB1 1HB H 0 1 N N N 18.855 9.211  4.989 1.485  -0.099 0.798  HB1 BTA 12 
+BTA HB2 2HB H 0 1 N N N 18.999 9.355  6.745 0.158  -1.285 0.829  HB2 BTA 13 
+BTA HG1 1HG H 0 1 N N N 19.994 11.334 5.770 -1.146 0.214  2.311  HG1 BTA 14 
+BTA HG2 2HG H 0 1 N N N 18.453 11.818 6.477 0.180  1.399  2.280  HG2 BTA 15 
+BTA HD1 1HD H 0 1 N N N 19.268 11.669 3.617 0.288  -0.004 4.321  HD1 BTA 16 
+BTA HD2 2HD H 0 1 N N N 18.842 11.116 3.490 0.378  -1.466 3.311  HD2 BTA 17 
+BTA HD3 3HD H 0 1 N N N 17.365 11.579 4.163 1.705  -0.281 3.280  HD3 BTA 18 
+BTA HXT HXT H 0 1 N Y N 16.682 11.526 3.312 1.553  0.133  -3.033 HXT BTA 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BTA N   CA  SING N N 1  
+BTA N   HN1 SING N N 2  
+BTA N   HN2 SING N N 3  
+BTA CA  CB  SING N N 4  
+BTA CA  C   SING N N 5  
+BTA CA  HA  SING N N 6  
+BTA CB  CG  SING N N 7  
+BTA CB  HB1 SING N N 8  
+BTA CB  HB2 SING N N 9  
+BTA CG  CD  SING N N 10 
+BTA CG  HG1 SING N N 11 
+BTA CG  HG2 SING N N 12 
+BTA CD  HD1 SING N N 13 
+BTA CD  HD2 SING N N 14 
+BTA CD  HD3 SING N N 15 
+BTA C   O   DOUB N N 16 
+BTA C   OXT SING N N 17 
+BTA OXT HXT SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BTA SMILES           ACDLabs              10.04 "O=C(O)C(N)CCC"                                                             
+BTA InChI            InChI                1.02b "InChI=1/C5H11NO2/c1-2-3-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m0/s1/f/h7H" 
+BTA InChIKey         InChI                1.02b SNDPXSYFESPGGJ-XWEZEGGSDX                                                   
+BTA SMILES_CANONICAL CACTVS               3.341 "CCC[C@H](N)C(O)=O"                                                         
+BTA SMILES           CACTVS               3.341 "CCC[CH](N)C(O)=O"                                                          
+BTA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCC[C@@H](C(=O)O)N"                                                        
+BTA SMILES           "OpenEye OEToolkits" 1.5.0 "CCCC(C(=O)O)N"                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BTA "SYSTEMATIC NAME" ACDLabs              10.04 L-norvaline                  
+BTA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-aminopentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BTA "Create component" 1999-07-08 RCSB 
+# 

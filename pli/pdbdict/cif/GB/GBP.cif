@@ -1,0 +1,195 @@
+data_GBP
+# 
+_chem_comp.id                                    GBP 
+_chem_comp.name                                  "S-(N-HYDROXY-N-BROMOPHENYLCARBAMOYL)GLUTATHIONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C17 H23 Br N4 O8 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        523.356 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GBP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QH5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GBP C    C    C  0 1 N N N 27.140 47.038 60.878 4.374  -0.039 6.058  C    GBP 1  
+GBP OT1  OT1  O  0 1 N N N 27.407 47.659 61.940 5.273  0.957  6.049  OT1  GBP 2  
+GBP OT2  OT2  O  0 1 N N N 26.979 47.636 59.785 4.127  -0.619 7.089  OT2  GBP 3  
+GBP N    N    N  0 1 N N N 28.149 44.845 60.180 3.344  -1.865 4.830  N    GBP 4  
+GBP CA   CA   C  0 1 N N S 26.999 45.486 60.865 3.673  -0.434 4.784  CA   GBP 5  
+GBP CB   CB   C  0 1 N N N 26.858 44.817 62.259 2.387  0.379  4.635  CB   GBP 6  
+GBP CB2  CB2  C  0 1 N N N 23.765 40.788 63.655 -1.927 1.572  0.495  CB2  GBP 7  
+GBP SG2  SG2  S  0 1 N N N 24.903 40.411 62.262 -0.555 2.458  -0.295 SG2  GBP 8  
+GBP CG   CG   C  0 1 N N N 25.645 45.211 63.151 1.676  -0.021 3.341  CG   GBP 9  
+GBP CD   CD   C  0 1 N N N 24.354 44.388 63.029 0.409  0.780  3.195  CD   GBP 10 
+GBP OE   OE   O  0 1 N N N 23.381 44.874 62.439 0.104  1.593  4.042  OE   GBP 11 
+GBP N2   N2   N  0 1 N N N 24.355 43.170 63.578 -0.386 0.594  2.123  N2   GBP 12 
+GBP CA2  CA2  C  0 1 N N R 23.215 42.228 63.508 -1.617 1.374  1.980  CA2  GBP 13 
+GBP C2   C2   C  0 1 N N N 22.119 42.465 64.618 -2.757 0.638  2.637  C2   GBP 14 
+GBP O2   O2   O  0 1 N N N 21.071 41.810 64.582 -3.681 1.258  3.120  O2   GBP 15 
+GBP N3   N3   N  0 1 N N N 22.477 43.285 65.617 -2.749 -0.707 2.687  N3   GBP 16 
+GBP CA3  CA3  C  0 1 N N N 21.677 43.493 66.841 -3.857 -1.423 3.326  CA3  GBP 17 
+GBP C3   C3   C  0 1 N N N 21.340 44.944 67.176 -3.607 -2.907 3.248  C3   GBP 18 
+GBP O31  O31  O  0 1 N N N 21.720 45.837 66.388 -2.607 -3.324 2.714  O31  GBP 19 
+GBP O32  O32  O  0 1 N N N 20.693 45.180 68.211 -4.496 -3.765 3.772  O32  GBP 20 
+GBP NE2  NE2  N  0 1 N N N 24.505 40.113 59.521 -1.456 1.184  -2.480 NE2  GBP 21 
+GBP OF2  OF2  O  0 1 N N N 25.829 40.195 59.532 -2.533 0.448  -1.930 OF2  GBP 22 
+GBP CD2  CD2  C  0 1 N N S 23.951 40.271 60.735 -1.173 2.539  -1.998 CD2  GBP 23 
+GBP OZ1  OZ1  O  0 1 N N N 22.741 40.219 60.938 -2.371 3.317  -2.035 OZ1  GBP 24 
+GBP CG2  CG2  C  0 1 Y N N 23.856 39.902 58.227 -0.663 0.619  -3.482 CG2  GBP 25 
+GBP CL1  CL1  C  0 1 Y N N 22.626 40.498 57.912 -1.022 -0.595 -4.051 CL1  GBP 26 
+GBP CL2  CL2  C  0 1 Y N N 24.500 39.089 57.282 0.482  1.274  -3.915 CL2  GBP 27 
+GBP CM1  CM1  C  0 1 Y N N 22.032 40.300 56.668 -0.236 -1.152 -5.041 CM1  GBP 28 
+GBP CM2  CM2  C  0 1 Y N N 23.909 38.894 56.039 1.267  0.710  -4.902 CM2  GBP 29 
+GBP CZ   CZ   C  0 1 Y N N 22.689 39.488 55.748 0.907  -0.499 -5.466 CZ   GBP 30 
+GBP BR   BR   BR 0 0 N N N 21.893 39.204 54.066 1.980  -1.264 -6.822 BR   GBP 31 
+GBP HOT1 1HOT H  0 0 N N N 27.528 47.206 62.766 5.722  1.211  6.866  HOT1 GBP 32 
+GBP H11N 1NH1 H  0 0 N N N 28.056 43.829 60.171 2.741  -1.999 5.627  H11N GBP 33 
+GBP H12N 2NH1 H  0 0 N N N 29.037 45.136 60.587 2.789  -2.062 4.010  H12N GBP 34 
+GBP HA1  1HA  H  0 1 N N N 26.042 45.321 60.316 4.327  -0.239 3.934  HA1  GBP 35 
+GBP HB1  1HB  H  0 1 N N N 26.870 43.709 62.132 1.733  0.184  5.485  HB1  GBP 36 
+GBP HB2  2HB  H  0 1 N N N 27.799 44.977 62.835 2.631  1.441  4.601  HB2  GBP 37 
+GBP HB21 1HB2 H  0 0 N N N 22.948 40.034 63.744 -2.055 0.601  0.018  HB21 GBP 38 
+GBP HB22 2HB2 H  0 0 N N N 24.247 40.622 64.646 -2.843 2.153  0.389  HB22 GBP 39 
+GBP HG1  1HG  H  0 1 N N N 25.967 45.224 64.218 2.330  0.173  2.492  HG1  GBP 40 
+GBP HG2  2HG  H  0 1 N N N 25.406 46.287 62.985 1.432  -1.083 3.375  HG2  GBP 41 
+GBP HN21 1HN2 H  0 0 N N N 25.232 42.957 64.053 -0.142 -0.055 1.445  HN21 GBP 42 
+GBP HA2  HA2  H  0 1 N N N 22.714 42.394 62.525 -1.490 2.346  2.457  HA2  GBP 43 
+GBP HN3  HN3  H  0 1 N N N 23.365 43.754 65.444 -2.010 -1.203 2.301  HN3  GBP 44 
+GBP HA31 1HA3 H  0 0 N N N 20.741 42.887 66.790 -3.930 -1.121 4.370  HA31 GBP 45 
+GBP HA32 2HA3 H  0 0 N N N 22.180 43.009 67.710 -4.788 -1.184 2.812  HA32 GBP 46 
+GBP HO31 1HO3 H  0 0 N N N 20.483 46.082 68.419 -4.336 -4.718 3.722  HO31 GBP 47 
+GBP HOF2 HOF2 H  0 0 N N N 26.220 40.083 58.673 -3.001 1.044  -1.329 HOF2 GBP 48 
+GBP HD2  HD2  H  0 1 N N N 24.306 40.912 59.894 -0.420 3.001  -2.636 HD2  GBP 49 
+GBP HOZ1 HOZ1 H  0 0 N N N 22.239 40.145 60.134 -2.964 2.948  -1.367 HOZ1 GBP 50 
+GBP HL1  HL1  H  0 1 N N N 22.116 41.133 58.655 -1.914 -1.105 -3.719 HL1  GBP 51 
+GBP HL2  HL2  H  0 1 N N N 25.464 38.606 57.514 0.763  2.219  -3.475 HL2  GBP 52 
+GBP HM1  HM1  H  0 1 N N N 21.067 40.773 56.418 -0.514 -2.097 -5.483 HM1  GBP 53 
+GBP HM2  HM2  H  0 1 N N N 24.409 38.266 55.282 2.160  1.217  -5.236 HM2  GBP 54 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GBP C   OT1  SING N N 1  
+GBP C   OT2  DOUB N N 2  
+GBP C   CA   SING N N 3  
+GBP OT1 HOT1 SING N N 4  
+GBP N   CA   SING N N 5  
+GBP N   H11N SING N N 6  
+GBP N   H12N SING N N 7  
+GBP CA  CB   SING N N 8  
+GBP CA  HA1  SING N N 9  
+GBP CB  CG   SING N N 10 
+GBP CB  HB1  SING N N 11 
+GBP CB  HB2  SING N N 12 
+GBP CB2 SG2  SING N N 13 
+GBP CB2 CA2  SING N N 14 
+GBP CB2 HB21 SING N N 15 
+GBP CB2 HB22 SING N N 16 
+GBP SG2 CD2  SING N N 17 
+GBP CG  CD   SING N N 18 
+GBP CG  HG1  SING N N 19 
+GBP CG  HG2  SING N N 20 
+GBP CD  OE   DOUB N N 21 
+GBP CD  N2   SING N N 22 
+GBP N2  CA2  SING N N 23 
+GBP N2  HN21 SING N N 24 
+GBP CA2 C2   SING N N 25 
+GBP CA2 HA2  SING N N 26 
+GBP C2  O2   DOUB N N 27 
+GBP C2  N3   SING N N 28 
+GBP N3  CA3  SING N N 29 
+GBP N3  HN3  SING N N 30 
+GBP CA3 C3   SING N N 31 
+GBP CA3 HA31 SING N N 32 
+GBP CA3 HA32 SING N N 33 
+GBP C3  O31  DOUB N N 34 
+GBP C3  O32  SING N N 35 
+GBP O32 HO31 SING N N 36 
+GBP NE2 OF2  SING N N 37 
+GBP NE2 CD2  SING N N 38 
+GBP NE2 CG2  SING N N 39 
+GBP OF2 HOF2 SING N N 40 
+GBP CD2 OZ1  SING N N 41 
+GBP CD2 HD2  SING N N 42 
+GBP OZ1 HOZ1 SING N N 43 
+GBP CG2 CL1  DOUB Y N 44 
+GBP CG2 CL2  SING Y N 45 
+GBP CL1 CM1  SING Y N 46 
+GBP CL1 HL1  SING N N 47 
+GBP CL2 CM2  DOUB Y N 48 
+GBP CL2 HL2  SING N N 49 
+GBP CM1 CZ   DOUB Y N 50 
+GBP CM1 HM1  SING N N 51 
+GBP CM2 CZ   SING Y N 52 
+GBP CM2 HM2  SING N N 53 
+GBP CZ  BR   SING N N 54 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GBP SMILES           ACDLabs              10.04 "Brc1ccc(N(O)C(O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)cc1"                                                                                                                                            
+GBP SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCC(=O)N[C@@H](CS[C@H](O)N(O)c1ccc(Br)cc1)C(=O)NCC(O)=O)C(O)=O"                                                                                                                              
+GBP SMILES           CACTVS               3.341 "N[CH](CCC(=O)N[CH](CS[CH](O)N(O)c1ccc(Br)cc1)C(=O)NCC(O)=O)C(O)=O"                                                                                                                                   
+GBP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1N(C(O)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N)O)Br"                                                                                                                                  
+GBP SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1N(C(O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O)Br"                                                                                                                                            
+GBP InChI            InChI                1.03  "InChI=1S/C17H23BrN4O8S/c18-9-1-3-10(4-2-9)22(30)17(29)31-8-12(15(26)20-7-14(24)25)21-13(23)6-5-11(19)16(27)28/h1-4,11-12,17,29-30H,5-8,19H2,(H,20,26)(H,21,23)(H,24,25)(H,27,28)/t11-,12-,17-/m0/s1" 
+GBP InChIKey         InChI                1.03  OGZMPQOWGQBWAV-PRXAMGSTSA-N                                                                                                                                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GBP "SYSTEMATIC NAME" ACDLabs              10.04 "L-gamma-glutamyl-S-[(S)-[(4-bromophenyl)(hydroxy)amino](hydroxy)methyl]-L-cysteinylglycine"                                                            
+GBP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-5-[[(2R)-3-[[(4-bromophenyl)-hydroxy-amino]-hydroxy-methyl]sulfanyl-1-(carboxymethylamino)-1-oxo-propan-2-yl]amino]-5-oxo-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GBP "Create component"  1999-07-08 RCSB 
+GBP "Modify descriptor" 2011-06-04 RCSB 
+# 

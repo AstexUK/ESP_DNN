@@ -1,0 +1,124 @@
+data_OCH
+# 
+_chem_comp.id                                    OCH 
+_chem_comp.name                                  "QUINOLIN-2(1H)-ONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         2-OXOQUINOLINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-03-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OCH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1Z03 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OCH O1  O1  O 0 1 N N N -8.718 24.357 32.341 -3.193 0.678  -0.001 O1  OCH 1  
+OCH N2  N2  N 0 1 Y N N -8.003 26.342 33.320 -1.017 1.073  0.000  N2  OCH 2  
+OCH C3  C3  C 0 1 Y N N -7.675 27.129 34.453 0.278  0.602  0.000  C3  OCH 3  
+OCH C4  C4  C 0 1 Y N N -7.223 28.493 34.308 1.359  1.478  0.001  C4  OCH 4  
+OCH C5  C5  C 0 1 Y N N -6.910 29.211 35.462 2.644  0.979  0.001  C5  OCH 5  
+OCH C6  C6  C 0 1 Y N N -7.030 28.611 36.755 2.872  -0.390 0.000  C6  OCH 6  
+OCH C7  C7  C 0 1 Y N N -7.468 27.296 36.898 1.827  -1.269 -0.001 C7  OCH 7  
+OCH C8  C8  C 0 1 Y N N -7.795 26.524 35.777 0.514  -0.786 0.000  C8  OCH 8  
+OCH C9  C9  C 0 1 Y N N -8.264 25.111 35.899 -0.630 -1.700 -0.001 C9  OCH 9  
+OCH C10 C10 C 0 1 Y N N -8.570 24.382 34.815 -1.880 -1.173 0.004  C10 OCH 10 
+OCH C1  C1  C 0 1 Y N N -8.460 24.962 33.382 -2.061 0.226  -0.001 C1  OCH 11 
+OCH HN2 HN2 H 0 1 N N N -7.904 26.793 32.410 -1.178 2.030  0.000  HN2 OCH 12 
+OCH H4  H4  H 0 1 N N N -7.117 28.981 33.324 1.192  2.545  0.000  H4  OCH 13 
+OCH H5  H5  H 0 1 N N N -6.567 30.253 35.352 3.481  1.661  0.001  H5  OCH 14 
+OCH H6  H6  H 0 1 N N N -6.777 29.178 37.666 3.885  -0.764 0.000  H6  OCH 15 
+OCH H7  H7  H 0 1 N N N -7.556 26.862 37.908 2.012  -2.333 -0.002 H7  OCH 16 
+OCH H9  H9  H 0 1 N N N -8.392 24.570 36.851 -0.482 -2.769 -0.003 H9  OCH 17 
+OCH H10 H10 H 0 1 N N N -8.893 23.363 35.086 -2.739 -1.827 0.004  H10 OCH 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OCH O1  C1  DOUB N N 1  
+OCH N2  C3  SING Y N 2  
+OCH N2  C1  SING Y N 3  
+OCH N2  HN2 SING N N 4  
+OCH C3  C4  SING Y N 5  
+OCH C3  C8  DOUB Y N 6  
+OCH C4  C5  DOUB Y N 7  
+OCH C4  H4  SING N N 8  
+OCH C5  C6  SING Y N 9  
+OCH C5  H5  SING N N 10 
+OCH C6  C7  DOUB Y N 11 
+OCH C6  H6  SING N N 12 
+OCH C7  C8  SING Y N 13 
+OCH C7  H7  SING N N 14 
+OCH C8  C9  SING Y N 15 
+OCH C9  C10 DOUB Y N 16 
+OCH C9  H9  SING N N 17 
+OCH C10 C1  SING Y N 18 
+OCH C10 H10 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OCH SMILES           ACDLabs              10.04 "O=C2C=Cc1c(cccc1)N2"                                          
+OCH SMILES_CANONICAL CACTVS               3.341 O=C1Nc2ccccc2C=C1                                              
+OCH SMILES           CACTVS               3.341 O=C1Nc2ccccc2C=C1                                              
+OCH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C=CC(=O)N2"                                        
+OCH SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C=CC(=O)N2"                                        
+OCH InChI            InChI                1.03  "InChI=1S/C9H7NO/c11-9-6-5-7-3-1-2-4-8(7)10-9/h1-6H,(H,10,11)" 
+OCH InChIKey         InChI                1.03  LISFMEBWQUVKPJ-UHFFFAOYSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OCH "SYSTEMATIC NAME" ACDLabs              10.04 "quinolin-2(1H)-one" 
+OCH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1H-quinolin-2-one    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OCH "Create component"  2005-03-17 RCSB 
+OCH "Modify descriptor" 2011-06-04 RCSB 
+# 

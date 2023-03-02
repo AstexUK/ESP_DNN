@@ -1,0 +1,127 @@
+data_2HC
+# 
+_chem_comp.id                                    2HC 
+_chem_comp.name                                  "(2E)-3-(2-HYDROXYPHENYL)ACRYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H8 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "TRANS-2-HYDROXYCINNAMIC ACID; O-COUMARIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-12-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        164.158 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2HC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1V5Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2HC CA  CA  C 0 1 N N N 65.263 -0.708 20.919 -0.504 0.001  1.645  CA  2HC 1  
+2HC C   C   C 0 1 N N N 63.844 -0.769 20.250 -0.079 -0.001 2.997  C   2HC 2  
+2HC O   O   O 0 1 N N N 63.529 -1.863 19.798 -0.990 0.010  3.992  O   2HC 3  
+2HC OXT OXT O 0 1 N N N 63.226 0.299  20.267 1.108  -0.014 3.261  OXT 2HC 4  
+2HC CB  CB  C 0 1 N N N 65.689 0.608  21.504 0.408  -0.010 0.649  CB  2HC 5  
+2HC CG  CG  C 0 1 Y N N 67.061 0.756  22.178 -0.033 -0.007 -0.751 CG  2HC 6  
+2HC CD1 CD1 C 0 1 Y N N 67.973 -0.355 22.240 -1.398 0.007  -1.060 CD1 2HC 7  
+2HC CE1 CE1 C 0 1 Y N N 69.206 -0.245 22.839 -1.804 0.010  -2.376 CE1 2HC 8  
+2HC CZ  CZ  C 0 1 Y N N 69.633 0.946  23.432 -0.867 -0.002 -3.397 CZ  2HC 9  
+2HC CE2 CE2 C 0 1 Y N N 68.755 2.141  23.411 0.483  -0.017 -3.108 CE2 2HC 10 
+2HC CD2 CD2 C 0 1 Y N N 67.401 1.987  22.730 0.912  -0.014 -1.790 CD2 2HC 11 
+2HC OH  OH  O 0 1 N N N 66.472 3.084  22.658 2.238  -0.028 -1.504 OH  2HC 12 
+2HC HA  HA  H 0 1 N N N 65.947 -1.572 20.977 -1.559 0.013  1.411  HA  2HC 13 
+2HC HO  HO  H 0 1 N N N 62.670 -1.900 19.393 -0.497 0.006  4.823  HO  2HC 14 
+2HC HB  HB  H 0 1 N N N 64.996 1.464  21.439 1.462  -0.022 0.883  HB  2HC 15 
+2HC HD1 HD1 H 0 1 N N N 67.715 -1.337 21.808 -2.131 0.017  -0.267 HD1 2HC 16 
+2HC HE1 HE1 H 0 1 N N N 69.865 -1.129 22.844 -2.857 0.022  -2.613 HE1 2HC 17 
+2HC HZ  HZ  H 0 1 N N N 70.631 0.943  23.902 -1.195 -0.000 -4.426 HZ  2HC 18 
+2HC HE2 HE2 H 0 1 N N N 69.088 3.086  23.873 1.206  -0.027 -3.910 HE2 2HC 19 
+2HC HOH HOH H 0 1 N N N 66.704 3.925  23.035 2.523  0.894  -1.452 HOH 2HC 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2HC CA  C   SING N N 1  
+2HC CA  CB  DOUB N E 2  
+2HC CA  HA  SING N N 3  
+2HC C   O   SING N N 4  
+2HC C   OXT DOUB N N 5  
+2HC O   HO  SING N N 6  
+2HC CB  CG  SING N N 7  
+2HC CB  HB  SING N N 8  
+2HC CG  CD1 DOUB Y N 9  
+2HC CG  CD2 SING Y N 10 
+2HC CD1 CE1 SING Y N 11 
+2HC CD1 HD1 SING N N 12 
+2HC CE1 CZ  DOUB Y N 13 
+2HC CE1 HE1 SING N N 14 
+2HC CZ  CE2 SING Y N 15 
+2HC CZ  HZ  SING N N 16 
+2HC CE2 CD2 DOUB Y N 17 
+2HC CE2 HE2 SING N N 18 
+2HC CD2 OH  SING N N 19 
+2HC OH  HOH SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2HC SMILES           ACDLabs              10.04 "O=C(O)/C=C/c1ccccc1O"                                                   
+2HC SMILES_CANONICAL CACTVS               3.341 "OC(=O)\C=C\c1ccccc1O"                                                   
+2HC SMILES           CACTVS               3.341 "OC(=O)C=Cc1ccccc1O"                                                     
+2HC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(c(c1)\C=C\C(=O)O)O"                                               
+2HC SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(c(c1)C=CC(=O)O)O"                                                 
+2HC InChI            InChI                1.03  "InChI=1S/C9H8O3/c10-8-4-2-1-3-7(8)5-6-9(11)12/h1-6,10H,(H,11,12)/b6-5+" 
+2HC InChIKey         InChI                1.03  PMOWTIHVNWZYFI-AATRIKPKSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2HC "SYSTEMATIC NAME" ACDLabs              10.04 "(2E)-3-(2-hydroxyphenyl)prop-2-enoic acid" 
+2HC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(E)-3-(2-hydroxyphenyl)prop-2-enoic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2HC "Create component"  2003-12-22 RCSB 
+2HC "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,112 @@
+data_LGA
+# 
+_chem_comp.id                                    LGA 
+_chem_comp.name                                  PYRIMIDIN-2-AMINE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             ? 
+_chem_comp.formula                               "C4 H5 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        95.103 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LGA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2JJC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LGA N2   N2   N 0 1 N N N 61.824 33.405 26.112 61.824 33.405 26.112 N2   LGA 1  
+LGA C1   C1   C 0 1 Y N N 62.829 33.829 25.352 62.829 33.829 25.352 C1   LGA 2  
+LGA N1   N1   N 0 1 Y N N 64.085 33.668 25.836 64.085 33.668 25.836 N1   LGA 3  
+LGA C4   C4   C 0 1 Y N N 65.074 34.109 25.055 65.074 34.109 25.055 C4   LGA 4  
+LGA C5   C5   C 0 1 Y N N 64.836 34.697 23.837 64.836 34.697 23.837 C5   LGA 5  
+LGA C3   C3   C 0 1 Y N N 63.533 34.821 23.417 63.533 34.821 23.417 C3   LGA 6  
+LGA N7   N7   N 0 1 Y N N 62.510 34.385 24.149 62.510 34.385 24.149 N7   LGA 7  
+LGA H2N1 1H2N H 0 0 N N N 62.140 33.299 27.055 62.140 33.299 27.055 H2N1 LGA 8  
+LGA H2N2 2H2N H 0 0 N N N 61.080 34.073 26.084 61.080 34.073 26.083 H2N2 LGA 9  
+LGA H4   H4   H 0 1 N N N 66.094 34.000 25.392 66.094 34.000 25.392 H4   LGA 10 
+LGA H5   H5   H 0 1 N N N 65.652 35.053 23.225 65.651 35.053 23.225 H5   LGA 11 
+LGA H3   H3   H 0 1 N N N 63.333 35.287 22.463 63.333 35.287 22.463 H3   LGA 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LGA N2 C1   SING N N 1  
+LGA C1 N1   SING Y N 2  
+LGA C1 N7   DOUB Y N 3  
+LGA N1 C4   DOUB Y N 4  
+LGA C4 C5   SING Y N 5  
+LGA C5 C3   DOUB Y N 6  
+LGA C3 N7   SING Y N 7  
+LGA N2 H2N1 SING N N 8  
+LGA N2 H2N2 SING N N 9  
+LGA C4 H4   SING N N 10 
+LGA C5 H5   SING N N 11 
+LGA C3 H3   SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LGA SMILES           ACDLabs              10.04 n1cccnc1N                                           
+LGA SMILES_CANONICAL CACTVS               3.341 Nc1ncccn1                                           
+LGA SMILES           CACTVS               3.341 Nc1ncccn1                                           
+LGA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cnc(nc1)N"                                       
+LGA SMILES           "OpenEye OEToolkits" 1.5.0 "c1cnc(nc1)N"                                       
+LGA InChI            InChI                1.03  "InChI=1S/C4H5N3/c5-4-6-2-1-3-7-4/h1-3H,(H2,5,6,7)" 
+LGA InChIKey         InChI                1.03  LJXQPZWIHJMPQQ-UHFFFAOYSA-N                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LGA "SYSTEMATIC NAME" ACDLabs              10.04 pyrimidin-2-amine 
+LGA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 pyrimidin-2-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LGA "Create component"     2008-03-31 EBI  
+LGA "Modify aromatic_flag" 2011-06-04 RCSB 
+LGA "Modify descriptor"    2011-06-04 RCSB 
+# 

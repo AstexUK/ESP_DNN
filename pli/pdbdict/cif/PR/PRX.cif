@@ -1,0 +1,183 @@
+data_PRX
+# 
+_chem_comp.id                                    PRX 
+_chem_comp.name                                  
+;ADENOSINE-5'-MONOPHOSPHATE-PROPYL ESTER
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H20 N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "ADENOSINE-5'-PROPYLPHOSPHATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-02-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        389.301 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PRX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PG4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PRX "O2'"  O2*  O 0 1 N N N 75.834 125.742 85.435 -2.867 -0.675 -2.728 "O2'"  PRX 1  
+PRX "C2'"  C2*  C 0 1 N N R 76.098 125.535 84.061 -1.956 -0.736 -1.629 "C2'"  PRX 2  
+PRX "C1'"  C1*  C 0 1 N N R 76.146 123.947 83.781 -0.924 0.417  -1.701 "C1'"  PRX 3  
+PRX "O4'"  O4*  O 0 1 N N N 74.805 123.556 83.382 -0.514 0.589  -0.327 "O4'"  PRX 4  
+PRX "C4'"  C4*  C 0 1 N N R 73.932 124.744 83.213 -1.693 0.451  0.482  "C4'"  PRX 5  
+PRX "C5'"  C5*  C 0 1 N N N 73.061 124.590 81.950 -1.335 -0.207 1.815  "C5'"  PRX 6  
+PRX "O5'"  O5*  O 0 1 N N N 72.096 123.543 82.256 -0.410 0.620  2.523  "O5'"  PRX 7  
+PRX P      P    P 0 1 N N R 71.026 123.099 81.110 -0.078 -0.130 3.908  P      PRX 8  
+PRX O1P    O1P  O 0 1 N N N 70.200 124.309 80.952 0.516  -1.454 3.621  O1P    PRX 9  
+PRX O2P    O2P  O 0 1 N N N 70.282 121.943 81.686 -1.435 -0.323 4.753  O2P    PRX 10 
+PRX O3P    O3P  O 0 1 N N N 71.836 122.742 79.870 0.963  0.752  4.761  O3P    PRX 11 
+PRX C1P    C1P  C 0 1 N N N 72.701 121.564 79.750 1.216  0.037  5.972  C1P    PRX 12 
+PRX C2P    C2P  C 0 1 N N N 73.562 121.492 78.507 2.205  0.826  6.833  C2P    PRX 13 
+PRX C3P    C3P  C 0 1 N N N 74.540 122.638 78.457 2.476  0.059  8.129  C3P    PRX 14 
+PRX "C3'"  C3*  C 0 1 N N S 74.932 126.064 83.102 -2.685 -0.438 -0.292 "C3'"  PRX 15 
+PRX "O3'"  O3*  O 0 1 N N N 74.121 127.230 83.595 -3.909 0.258  -0.533 "O3'"  PRX 16 
+PRX N9     N9   N 0 1 Y N N 77.094 123.637 82.674 0.217  0.041  -2.537 N9     PRX 17 
+PRX C8     C8   C 0 1 Y N N 76.802 123.237 81.362 1.323  -0.644 -2.131 C8     PRX 18 
+PRX N7     N7   N 0 1 Y N N 77.843 123.006 80.536 2.138  -0.807 -3.132 N7     PRX 19 
+PRX C5     C5   C 0 1 Y N N 78.884 123.289 81.413 1.609  -0.237 -4.242 C5     PRX 20 
+PRX C4     C4   C 0 1 Y N N 78.450 123.675 82.713 0.367  0.308  -3.874 C4     PRX 21 
+PRX N3     N3   N 0 1 Y N N 79.208 124.016 83.788 -0.358 0.937  -4.793 N3     PRX 22 
+PRX C2     C2   C 0 1 Y N N 80.530 123.956 83.520 0.071  1.040  -6.033 C2     PRX 23 
+PRX N1     N1   N 0 1 Y N N 81.065 123.602 82.336 1.228  0.538  -6.426 N1     PRX 24 
+PRX C6     C6   C 0 1 Y N N 80.294 123.251 81.226 2.024  -0.102 -5.577 C6     PRX 25 
+PRX N6     N6   N 0 1 N N N 80.795 122.884 79.998 3.234  -0.625 -5.998 N6     PRX 26 
+PRX "H2'"  H2*  H 0 1 N N N 75.805 126.677 85.599 -3.479 -1.417 -2.625 "H2'"  PRX 27 
+PRX H1     H1   H 0 1 N N N 77.047 126.079 83.848 -1.456 -1.704 -1.593 H1     PRX 28 
+PRX "H1'"  H1*  H 0 1 N N N 76.487 123.400 84.690 -1.392 1.327  -2.078 "H1'"  PRX 29 
+PRX "H4'"  H4*  H 0 1 N N N 73.233 124.861 84.074 -2.137 1.431  0.661  "H4'"  PRX 30 
+PRX "H5'1" 1H5* H 0 0 N N N 72.591 125.543 81.613 -0.881 -1.181 1.629  "H5'1" PRX 31 
+PRX "H5'2" 2H5* H 0 0 N N N 73.650 124.395 81.023 -2.238 -0.336 2.412  "H5'2" PRX 32 
+PRX H2P    H2P  H 0 1 N N N 69.658 121.684 81.017 -1.790 0.561  4.918  H2P    PRX 33 
+PRX H1P1   1H1P H 0 0 N N N 73.341 121.471 80.658 0.282  -0.094 6.518  H1P1   PRX 34 
+PRX H1P2   2H1P H 0 0 N N N 72.089 120.636 79.839 1.639  -0.939 5.735  H1P2   PRX 35 
+PRX H2P1   1H2P H 0 0 N N N 74.078 120.507 78.421 3.138  0.957  6.286  H2P1   PRX 36 
+PRX H2P2   2H2P H 0 0 N N N 72.942 121.440 77.581 1.781  1.802  7.070  H2P2   PRX 37 
+PRX H3P1   1H3P H 0 0 N N N 75.174 122.585 77.541 3.180  0.622  8.743  H3P1   PRX 38 
+PRX H3P2   2H3P H 0 0 N N N 74.023 123.622 78.542 1.542  -0.071 8.676  H3P2   PRX 39 
+PRX H3P3   3H3P H 0 0 N N N 75.159 122.690 79.382 2.899  -0.916 7.893  H3P3   PRX 40 
+PRX "H3'"  H3*  H 0 1 N N N 75.338 126.409 82.122 -2.874 -1.362 0.253  "H3'"  PRX 41 
+PRX H2     H2   H 0 1 N N N 73.428 127.544 83.025 -4.461 -0.325 -1.071 H2     PRX 42 
+PRX H8     H8   H 0 1 N N N 75.773 123.106 80.986 1.497  -1.000 -1.126 H8     PRX 43 
+PRX H3     H3   H 0 1 N N N 81.228 124.216 84.332 -0.544 1.553  -6.756 H3     PRX 44 
+PRX HN61   1HN6 H 0 0 N N N 81.805 122.856 79.863 3.510  -0.525 -6.923 HN61   PRX 45 
+PRX HN62   2HN6 H 0 0 N N N 80.385 123.485 79.283 3.807  -1.091 -5.369 HN62   PRX 46 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PRX "O2'" "C2'"  SING N N 1  
+PRX "O2'" "H2'"  SING N N 2  
+PRX "C2'" "C1'"  SING N N 3  
+PRX "C2'" "C3'"  SING N N 4  
+PRX "C2'" H1     SING N N 5  
+PRX "C1'" "O4'"  SING N N 6  
+PRX "C1'" N9     SING N N 7  
+PRX "C1'" "H1'"  SING N N 8  
+PRX "O4'" "C4'"  SING N N 9  
+PRX "C4'" "C5'"  SING N N 10 
+PRX "C4'" "C3'"  SING N N 11 
+PRX "C4'" "H4'"  SING N N 12 
+PRX "C5'" "O5'"  SING N N 13 
+PRX "C5'" "H5'1" SING N N 14 
+PRX "C5'" "H5'2" SING N N 15 
+PRX "O5'" P      SING N N 16 
+PRX P     O1P    DOUB N N 17 
+PRX P     O2P    SING N N 18 
+PRX P     O3P    SING N N 19 
+PRX O2P   H2P    SING N N 20 
+PRX O3P   C1P    SING N N 21 
+PRX C1P   C2P    SING N N 22 
+PRX C1P   H1P1   SING N N 23 
+PRX C1P   H1P2   SING N N 24 
+PRX C2P   C3P    SING N N 25 
+PRX C2P   H2P1   SING N N 26 
+PRX C2P   H2P2   SING N N 27 
+PRX C3P   H3P1   SING N N 28 
+PRX C3P   H3P2   SING N N 29 
+PRX C3P   H3P3   SING N N 30 
+PRX "C3'" "O3'"  SING N N 31 
+PRX "C3'" "H3'"  SING N N 32 
+PRX "O3'" H2     SING N N 33 
+PRX N9    C8     SING Y N 34 
+PRX N9    C4     SING Y N 35 
+PRX C8    N7     DOUB Y N 36 
+PRX C8    H8     SING N N 37 
+PRX N7    C5     SING Y N 38 
+PRX C5    C4     DOUB Y N 39 
+PRX C5    C6     SING Y N 40 
+PRX C4    N3     SING Y N 41 
+PRX N3    C2     DOUB Y N 42 
+PRX C2    N1     SING Y N 43 
+PRX C2    H3     SING N N 44 
+PRX N1    C6     DOUB Y N 45 
+PRX C6    N6     SING N N 46 
+PRX N6    HN61   SING N N 47 
+PRX N6    HN62   SING N N 48 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PRX SMILES           ACDLabs              10.04 "O=P(O)(OCCC)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O"                                                                                                                                 
+PRX SMILES_CANONICAL CACTVS               3.341 "CCCO[P@](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23"                                                                                                             
+PRX SMILES           CACTVS               3.341 "CCCO[P](O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O)n2cnc3c(N)ncnc23"                                                                                                                   
+PRX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCO[P@@](=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)O"                                                                                                           
+PRX SMILES           "OpenEye OEToolkits" 1.5.0 "CCCOP(=O)(O)OCC1C(C(C(O1)n2cnc3c2ncnc3N)O)O"                                                                                                                                 
+PRX InChI            InChI                1.03  "InChI=1S/C13H20N5O7P/c1-2-3-23-26(21,22)24-4-7-9(19)10(20)13(25-7)18-6-17-8-11(14)15-5-16-12(8)18/h5-7,9-10,13,19-20H,2-4H2,1H3,(H,21,22)(H2,14,15,16)/t7-,9-,10-,13-/m1/s1" 
+PRX InChIKey         InChI                1.03  XAMXMSZRQHPMRX-QYVSTXNMSA-N                                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PRX "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-[(R)-hydroxy(propoxy)phosphoryl]adenosine"                                                  
+PRX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl propyl hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PRX "Create component"  2003-02-18 RCSB 
+PRX "Modify descriptor" 2011-06-04 RCSB 
+# 

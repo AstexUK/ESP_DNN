@@ -1,0 +1,122 @@
+data_ICE
+# 
+_chem_comp.id                                    ICE 
+_chem_comp.name                                  "iron-sulfur-molybdenum cluster with interstitial carbon" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C Fe7 Mo S8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-06-10 
+_chem_comp.pdbx_modified_date                    2014-09-26 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        755.386 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ICE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4TKV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ICE FE1 FE1 FE 0 0 N N N 35.753 7.581 -12.182 35.753 7.581 -12.182 FE1 ICE 1  
+ICE MO1 MO1 MO 0 0 N N N 38.496 5.661 -6.039  38.496 5.661 -6.039  MO1 ICE 2  
+ICE FE2 FE2 FE 0 0 N N N 37.274 5.788 -10.921 37.274 5.788 -10.921 FE2 ICE 3  
+ICE FE3 FE3 FE 0 0 N N N 35.212 6.916 -9.661  35.212 6.916 -9.661  FE3 ICE 4  
+ICE FE4 FE4 FE 0 0 N N R 37.369 8.343 -10.209 37.369 8.343 -10.209 FE4 ICE 5  
+ICE FE5 FE5 FE 0 0 N N N 38.418 7.624 -7.927  38.418 7.624 -7.927  FE5 ICE 6  
+ICE FE6 FE6 FE 0 0 N N N 38.247 5.097 -8.634  38.247 5.097 -8.634  FE6 ICE 7  
+ICE FE7 FE7 FE 0 0 N N N 36.259 6.217 -7.399  36.259 6.217 -7.399  FE7 ICE 8  
+ICE CX  CX  C  0 1 N N N 37.113 6.680 -9.123  37.113 6.680 -9.123  CX  ICE 9  
+ICE S1A S1A S  0 1 N N N 38.056 7.476 -12.210 38.056 7.476 -12.210 S1A ICE 10 
+ICE S1B S1B S  0 1 N N N 40.057 6.076 -7.757  40.057 6.076 -7.757  S1B ICE 11 
+ICE S2A S2A S  0 1 N N N 35.107 5.531 -11.453 35.107 5.531 -11.453 S2A ICE 12 
+ICE S3A S3A S  0 1 N N N 38.808 9.571 -9.009  38.808 9.571 -9.009  S3A ICE 13 
+ICE S3B S3B S  0 1 N N N 37.015 4.121 -7.066  37.015 4.121 -7.066  S3B ICE 14 
+ICE S4A S4A S  0 1 N N N 35.200 9.011 -10.483 35.200 9.011 -10.483 S4A ICE 15 
+ICE S4B S4B S  0 1 N N N 37.233 7.647 -6.007  37.233 7.647 -6.007  S4B ICE 16 
+ICE S5A S5A S  0 1 N N N 34.095 6.479 -7.782  34.095 6.479 -7.782  S5A ICE 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ICE FE1 S1A SING N N 1  
+ICE FE1 S2A SING N N 2  
+ICE FE1 S4A SING N N 3  
+ICE FE2 CX  SING N N 4  
+ICE FE2 S1A SING N N 5  
+ICE FE2 S2A SING N N 6  
+ICE FE3 CX  SING N N 7  
+ICE FE3 S2A SING N N 8  
+ICE FE3 S4A SING N N 9  
+ICE FE3 S5A SING N N 10 
+ICE FE4 CX  SING N N 11 
+ICE FE4 S1A SING N N 12 
+ICE FE4 S3A SING N N 13 
+ICE FE4 S4A SING N N 14 
+ICE FE5 CX  SING N N 15 
+ICE FE5 S1B SING N N 16 
+ICE FE5 S3A SING N N 17 
+ICE FE5 S4B SING N N 18 
+ICE FE6 CX  SING N N 19 
+ICE FE6 S1B SING N N 20 
+ICE FE6 S3B SING N N 21 
+ICE FE7 CX  SING N N 22 
+ICE FE7 S3B SING N N 23 
+ICE FE7 S4B SING N N 24 
+ICE FE7 S5A SING N N 25 
+ICE MO1 S1B SING N N 26 
+ICE MO1 S3B SING N N 27 
+ICE MO1 S4B SING N N 28 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ICE InChI            InChI                1.03  InChI=1S/C.7Fe.Mo.8S                                                                       
+ICE InChIKey         InChI                1.03  BJBPMDQXUSSDMI-UHFFFAOYSA-N                                                                
+ICE SMILES_CANONICAL CACTVS               3.385 "S1|2[Fe]|3S4|[Fe]15S[Fe]67S8|[Fe]9S%10|[Mo]8S6|[Fe]%10%11S[Fe@]4%12S|3[Fe]|2[C]579%11%12" 
+ICE SMILES           CACTVS               3.385 "S1|2[Fe]|3S4|[Fe]15S[Fe]67S8|[Fe]9S%10|[Mo]8S6|[Fe]%10%11S[Fe]4%12S|3[Fe]|2[C]579%11%12"  
+ICE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C12345[Fe]6[S]7[Fe]18S[Fe]29[S]1[Fe]3[S]2[Fe]4([S]9[Mo]12)S[Fe]51[S]6[Fe]7[S]81"          
+ICE SMILES           "OpenEye OEToolkits" 1.7.6 "C12345[Fe]6[S]7[Fe]18S[Fe]29[S]1[Fe]3[S]2[Fe]4([S]9[Mo]12)S[Fe]51[S]6[Fe]7[S]81"          
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ICE "Create component" 2014-06-10 RCSB 
+ICE "Initial release"  2014-10-01 RCSB 
+# 

@@ -1,0 +1,124 @@
+data_CFN
+# 
+_chem_comp.id                                    CFN 
+_chem_comp.name                                  "FE(7)-MO-S(9)-N CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe7 Mo N S9" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-07-23 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        789.447 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CFN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1M1N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CFN S3A S3A S  0 1 N N N ?      ?     ?      0.000  0.000 0.000  S3A CFN 1  
+CFN FE4 FE4 FE 0 0 N N N ?      ?     ?      0.000  0.000 0.000  FE4 CFN 2  
+CFN S1A S1A S  0 1 N N N ?      ?     ?      0.000  0.000 0.000  S1A CFN 3  
+CFN S4A S4A S  0 1 N N N ?      ?     ?      0.000  0.000 0.000  S4A CFN 4  
+CFN FE3 FE3 FE 0 0 N N N ?      ?     ?      0.000  0.000 0.000  FE3 CFN 5  
+CFN S2A S2A S  0 1 N N N 91.976 5.732 66.372 91.976 5.732 66.372 S2A CFN 6  
+CFN FE7 FE7 FE 0 0 N N N 88.585 6.411 68.878 88.585 6.411 68.878 FE7 CFN 7  
+CFN S4B S4B S  0 1 N N N 87.632 7.809 70.296 87.632 7.809 70.296 S4B CFN 8  
+CFN MO1 MO1 MO 0 0 N N N 88.096 5.840 71.458 88.096 5.840 71.458 MO1 CFN 9  
+CFN S1B S1B S  0 1 N N N 90.244 6.245 72.299 90.244 6.245 72.299 S1B CFN 10 
+CFN FE6 FE6 FE 0 0 N N N 90.438 5.277 70.295 90.438 5.277 70.295 FE6 CFN 11 
+CFN FE2 FE2 FE 0 0 N N N 92.236 5.970 68.589 92.236 5.970 68.589 FE2 CFN 12 
+CFN FE1 FE1 FE 0 0 N N N 92.888 7.768 66.726 92.888 7.768 66.726 FE1 CFN 13 
+CFN FE5 FE5 FE 0 0 N N N 89.833 7.804 70.712 89.833 7.804 70.712 FE5 CFN 14 
+CFN S2B S2B S  0 1 N N N 92.240 4.151 69.853 92.240 4.151 69.853 S2B CFN 15 
+CFN S3B S3B S  0 1 N N N 88.530 4.322 69.710 88.530 4.322 69.710 S3B CFN 16 
+CFN S5A S5A S  0 1 N N N 88.185 6.689 66.713 88.185 6.689 66.713 S5A CFN 17 
+CFN NX  NX  N  0 1 N N N 90.533 6.899 69.034 90.533 6.899 69.034 NX  CFN 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CFN S3A FE4 SING N N 1  
+CFN S3A FE5 SING N N 2  
+CFN FE4 S1A SING N N 3  
+CFN FE4 S4A SING N N 4  
+CFN FE4 NX  SING N N 5  
+CFN S1A FE2 SING N N 6  
+CFN S1A FE1 SING N N 7  
+CFN S4A FE3 SING N N 8  
+CFN S4A FE1 SING N N 9  
+CFN FE3 S2A SING N N 10 
+CFN FE3 S5A SING N N 11 
+CFN FE3 NX  SING N N 12 
+CFN S2A FE2 SING N N 13 
+CFN S2A FE1 SING N N 14 
+CFN FE7 S4B SING N N 15 
+CFN FE7 S3B SING N N 16 
+CFN FE7 S5A SING N N 17 
+CFN FE7 NX  SING N N 18 
+CFN S4B MO1 SING N N 19 
+CFN S4B FE5 SING N N 20 
+CFN MO1 S1B SING N N 21 
+CFN MO1 S3B SING N N 22 
+CFN S1B FE6 SING N N 23 
+CFN S1B FE5 SING N N 24 
+CFN FE6 S2B SING N N 25 
+CFN FE6 S3B SING N N 26 
+CFN FE6 NX  SING N N 27 
+CFN FE2 S2B SING N N 28 
+CFN FE2 NX  SING N N 29 
+CFN FE5 NX  SING N N 30 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CFN InChI            InChI                1.02b "InChI=1/7Fe.Mo.N.9S/rFe7MoNS9/c10-2-9-3-11-6(9)16-5(9,10)17-7(9,18(6)8(16)17)12-4(9)14(2)1(13(2)3)15(3)4"      
+CFN InChIKey         InChI                1.02b OSSJGSCTDHHOOW-ILOHOYSMAU                                                                                       
+CFN SMILES_CANONICAL CACTVS               3.341 "[N-5]|1|2|3|4|5|[Fe]6|7S[Fe]|8|1S9|[Fe]%10|2S[Fe]%11|3|S6[Mo]%12|S%11[Fe]|4(S[Fe]%13|5|S%10[Fe]9S|8%13)S|7%12" 
+CFN SMILES           CACTVS               3.341 "[N-5]|1|2|3|4|5|[Fe]6|7S[Fe]|8|1S9|[Fe]%10|2S[Fe]%11|3|S6[Mo]%12|S%11[Fe]|4(S[Fe]%13|5|S%10[Fe]9S|8%13)S|7%12" 
+CFN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "N12345[Fe]67S[Fe]18[S]9[Fe]21S[Fe]32[S]6[Fe]3[S]7[Fe]4([S]23)S[Fe]52[S]8[Mo]9[S]12"                            
+CFN SMILES           "OpenEye OEToolkits" 1.5.0 "N12345[Fe]67S[Fe]18[S]9[Fe]21S[Fe]32[S]6[Fe]3[S]7[Fe]4([S]23)S[Fe]52[S]8[Mo]9[S]12"                            
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CFN "Create component" 2002-07-23 RCSB 
+# 

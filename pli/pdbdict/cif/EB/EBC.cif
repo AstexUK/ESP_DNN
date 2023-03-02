@@ -1,0 +1,130 @@
+data_EBC
+# 
+_chem_comp.id                                    EBC 
+_chem_comp.name                                  "N,N'-ethane-1,2-diylbis(2-iodoacetamide)" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H10 I2 N2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-05-07 
+_chem_comp.pdbx_modified_date                    2012-06-22 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        395.965 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EBC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4ETP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EBC O10 O10 O 0 1 N N N 17.007 -41.396 -33.797 3.259  -1.100 0.008  O10 EBC 1  
+EBC C2  C2  C 0 1 N N N 17.397 -42.507 -33.467 3.048  0.094  0.008  C2  EBC 2  
+EBC C1  C1  C 0 1 N N N 17.116 -43.066 -32.104 4.201  1.064  0.004  C1  EBC 3  
+EBC N3  N3  N 0 1 N N N 18.101 -43.307 -34.271 1.781  0.554  0.007  N3  EBC 4  
+EBC C4  C4  C 0 1 N N N 18.344 -43.020 -35.674 0.659  -0.388 0.005  C4  EBC 5  
+EBC C5  C5  C 0 1 N N N 19.799 -42.648 -35.936 -0.659 0.388  0.004  C5  EBC 6  
+EBC N6  N6  N 0 1 N N N 20.136 -41.346 -35.388 -1.781 -0.554 0.003  N6  EBC 7  
+EBC C7  C7  C 0 1 N N N 20.832 -41.215 -34.260 -3.048 -0.094 0.001  C7  EBC 8  
+EBC O9  O9  O 0 1 N N N 20.373 -41.517 -33.170 -3.259 1.100  0.002  O9  EBC 9  
+EBC C8  C8  C 0 1 N N N 22.223 -40.670 -34.402 -4.201 -1.064 -0.000 C8  EBC 10 
+EBC H1  H1  H 0 1 N N N 17.535 -44.081 -32.034 4.152  1.691  0.893  H1  EBC 11 
+EBC I2  I2  I 0 1 N N N 16.061 -43.107 -31.931 6.064  -0.033 -0.003 I2  EBC 12 
+EBC H3  H3  H 0 1 N N N 17.584 -42.423 -31.344 4.146  1.690  -0.887 H3  EBC 13 
+EBC H4  H4  H 0 1 N N N 18.481 -44.148 -33.887 1.612  1.509  0.007  H4  EBC 14 
+EBC H5  H5  H 0 1 N N N 17.702 -42.181 -35.982 0.713  -1.015 -0.885 H5  EBC 15 
+EBC H6  H6  H 0 1 N N N 18.093 -43.911 -36.268 0.711  -1.016 0.895  H6  EBC 16 
+EBC H7  H7  H 0 1 N N N 20.448 -43.406 -35.474 -0.712 1.015  0.894  H7  EBC 17 
+EBC H8  H8  H 0 1 N N N 19.971 -42.631 -37.022 -0.711 1.016  -0.886 H8  EBC 18 
+EBC H9  H9  H 0 1 N N N 19.837 -40.524 -35.872 -1.612 -1.509 0.002  H9  EBC 19 
+EBC H10 H10 H 0 1 N N N 22.436 -40.491 -35.466 -4.150 -1.691 0.890  H10 EBC 20 
+EBC I   I   I 0 1 N Y N 22.935 -41.366 -34.012 -6.064 0.033  -0.002 I   EBC 21 
+EBC H12 H12 H 0 1 N N N 22.300 -39.723 -33.848 -4.148 -1.690 -0.891 H12 EBC 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EBC C5  C4  SING N N 1  
+EBC C5  N6  SING N N 2  
+EBC C4  N3  SING N N 3  
+EBC N6  C7  SING N N 4  
+EBC C8  C7  SING N N 5  
+EBC N3  C2  SING N N 6  
+EBC C7  O9  DOUB N N 7  
+EBC O10 C2  DOUB N N 8  
+EBC C2  C1  SING N N 9  
+EBC C1  H1  SING N N 10 
+EBC C1  I2  SING N N 11 
+EBC C1  H3  SING N N 12 
+EBC N3  H4  SING N N 13 
+EBC C4  H5  SING N N 14 
+EBC C4  H6  SING N N 15 
+EBC C5  H7  SING N N 16 
+EBC C5  H8  SING N N 17 
+EBC N6  H9  SING N N 18 
+EBC C8  H10 SING N N 19 
+EBC C8  I   SING N N 20 
+EBC C8  H12 SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EBC SMILES           ACDLabs              12.01 "O=C(NCCNC(=O)CI)CI"                                                        
+EBC InChI            InChI                1.03  "InChI=1S/C6H10I2N2O2/c7-3-5(11)9-1-2-10-6(12)4-8/h1-4H2,(H,9,11)(H,10,12)" 
+EBC InChIKey         InChI                1.03  RLFPCLMBTQOMLI-UHFFFAOYSA-N                                                 
+EBC SMILES_CANONICAL CACTVS               3.370 "ICC(=O)NCCNC(=O)CI"                                                        
+EBC SMILES           CACTVS               3.370 "ICC(=O)NCCNC(=O)CI"                                                        
+EBC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C(CNC(=O)CI)NC(=O)CI"                                                      
+EBC SMILES           "OpenEye OEToolkits" 1.7.6 "C(CNC(=O)CI)NC(=O)CI"                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EBC "SYSTEMATIC NAME" ACDLabs              12.01 "N,N'-ethane-1,2-diylbis(2-iodoacetamide)"                
+EBC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-iodanyl-N-[2-(2-iodanylethanoylamino)ethyl]ethanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EBC "Create component" 2012-05-07 RCSB 
+EBC "Modify name"      2012-05-07 RCSB 
+# 

@@ -1,0 +1,126 @@
+data_HC1
+# 
+_chem_comp.id                                    HC1 
+_chem_comp.name                                  "2 IRON/2 SULFUR/5 CARBONYL/2 WATER INORGANIC CLUSTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 Fe2 O7 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-23 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        355.933 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HC1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1FEH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HC1 FE1  FE1  FE 0 0 N N N 17.397 88.464 75.993 ? ? ? FE1  HC1 1  
+HC1 FE2  FE2  FE 0 0 N N N 15.234 88.071 77.413 ? ? ? FE2  HC1 2  
+HC1 S1   S1   S  0 1 N N N 16.119 86.504 75.949 ? ? ? S1   HC1 3  
+HC1 S2   S2   S  0 1 N N N 15.344 89.429 75.514 ? ? ? S2   HC1 4  
+HC1 O1   O1   O  0 1 N N N 14.329 87.413 74.141 ? ? ? O1   HC1 5  
+HC1 O2   O2   O  0 1 N N N 12.890 87.321 76.747 ? ? ? O2   HC1 6  
+HC1 O3   O3   O  0 1 N N N 18.778 91.101 76.048 ? ? ? O3   HC1 7  
+HC1 O4   O4   O  0 1 N N N 19.605 86.860 76.956 ? ? ? O4   HC1 8  
+HC1 O5   O5   O  0 1 N N N 17.540 89.028 78.992 ? ? ? O5   HC1 9  
+HC1 O6   O6   O  0 1 N N N 14.237 90.462 78.904 ? ? ? O6   HC1 10 
+HC1 O7   O7   O  0 1 N N N 15.263 86.239 79.742 ? ? ? O7   HC1 11 
+HC1 C3   C3   C  0 1 N N N 18.271 90.102 76.025 ? ? ? C3   HC1 12 
+HC1 C4   C4   C  0 1 N N N 18.766 87.521 76.553 ? ? ? C4   HC1 13 
+HC1 C5   C5   C  0 1 N N N 17.058 88.737 78.047 ? ? ? C5   HC1 14 
+HC1 C6   C6   C  0 1 N N N 14.601 89.533 78.379 ? ? ? C6   HC1 15 
+HC1 C7   C7   C  0 1 N N N 15.257 86.944 78.856 ? ? ? C7   HC1 16 
+HC1 HO11 1HO1 H  0 0 N N N 15.114 87.556 73.626 ? ? ? HO11 HC1 17 
+HC1 HO12 2HO1 H  0 0 N N N 13.811 86.623 74.238 ? ? ? HO12 HC1 18 
+HC1 HO21 1HO2 H  0 0 N N N 12.105 87.178 77.263 ? ? ? HO21 HC1 19 
+HC1 HO22 2HO2 H  0 0 N N N 12.619 87.998 76.138 ? ? ? HO22 HC1 20 
+HC1 H33  3H3  H  0 1 N N N 18.820 91.058 76.039 ? ? ? H33  HC1 21 
+HC1 H44  4H4  H  0 1 N N N 19.708 87.020 76.832 ? ? ? H44  HC1 22 
+HC1 H66  6H6  H  0 1 N N N 14.201 90.325 79.034 ? ? ? H66  HC1 23 
+HC1 H77  7H7  H  0 1 N N N 15.284 86.278 79.735 ? ? ? H77  HC1 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HC1 FE1 FE2  SING N N 1  
+HC1 FE1 S1   SING N N 2  
+HC1 FE1 S2   SING N N 3  
+HC1 FE1 O1   SING N N 4  
+HC1 FE1 C3   SING N N 5  
+HC1 FE1 C4   SING N N 6  
+HC1 FE1 C5   SING N N 7  
+HC1 FE2 S1   SING N N 8  
+HC1 FE2 S2   SING N N 9  
+HC1 FE2 O2   SING N N 10 
+HC1 FE2 C5   SING N N 11 
+HC1 FE2 C6   SING N N 12 
+HC1 FE2 C7   SING N N 13 
+HC1 O1  HO11 SING N N 14 
+HC1 O1  HO12 SING N N 15 
+HC1 O2  HO21 SING N N 16 
+HC1 O2  HO22 SING N N 17 
+HC1 O3  C3   DOUB N N 18 
+HC1 O4  C4   DOUB N N 19 
+HC1 O5  C5   DOUB N N 20 
+HC1 O6  C6   DOUB N N 21 
+HC1 O7  C7   DOUB N N 22 
+HC1 C3  H33  SING N N 23 
+HC1 C4  H44  SING N N 24 
+HC1 C6  H66  SING N N 25 
+HC1 C7  H77  SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HC1 InChI            InChI                1.02b "InChI=1/4CHO.CO.2Fe.2H2O.2S/c5*1-2;;;;;;/h4*1H;;;;2*1H2;;/rC5H8Fe2O7S2/c8-1-6(13,2-9)5(12)7(6,14,3-10,4-11,15-6)16-6/h1-4H,13-14H2" 
+HC1 InChIKey         InChI                1.02b DXKOXSKJHMBSFW-WPRITKAGAV                                                                                                            
+HC1 SMILES_CANONICAL CACTVS               3.341 "O|[Fe]|123(S[Fe]|1(|O)(S2)(C=O)(C=O)C3=O)(C=O)C=O"                                                                                  
+HC1 SMILES           CACTVS               3.341 "O|[Fe]|123(S[Fe]|1(|O)(S2)(C=O)(C=O)C3=O)(C=O)C=O"                                                                                  
+HC1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=O)[Fe]123(C(=O)[Fe]1(S2)(S3)(C=O)(C=O)[OH2])(C=O)[OH2]"                                                                          
+HC1 SMILES           "OpenEye OEToolkits" 1.5.0 "C(=O)[Fe]123(C(=O)[Fe]1(S2)(S3)(C=O)(C=O)[OH2])(C=O)[OH2]"                                                                          
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HC1 "Create component" 1999-08-23 RCSB 
+# 

@@ -1,0 +1,189 @@
+data_1VP
+# 
+_chem_comp.id                                    1VP 
+_chem_comp.name                                  "N-(phenylacetyl)glycyl-N~6~-acetyl-L-lysine" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C18 H25 N3 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-06-21 
+_chem_comp.pdbx_modified_date                    2013-07-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        363.408 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1VP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4L8A 
+_chem_comp.pdbx_subcomponent_list                "PAC GLY ALY" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1VP C5  C5  C 0 1 N N N 13.734 -0.483  -9.346  -3.619 0.056  -0.165 C1    PAC 1  
+1VP C4  C4  C 0 1 N N N 12.605 -0.043  -8.406  -4.828 0.029  -1.064 C2    PAC 2  
+1VP C3  C3  C 0 1 Y N N 12.999 0.979   -7.328  -5.930 0.851  -0.448 "C1'" PAC 3  
+1VP C16 C16 C 0 1 Y N N 14.306 1.105   -6.869  -6.032 2.199  -0.738 "C2'" PAC 4  
+1VP C17 C17 C 0 1 Y N N 14.641 2.031   -5.886  -7.043 2.953  -0.173 "C3'" PAC 5  
+1VP C   C   C 0 1 Y N N 13.682 2.863   -5.339  -7.953 2.360  0.682  "C4'" PAC 6  
+1VP C1  C1  C 0 1 Y N N 12.376 2.755   -5.790  -7.852 1.012  0.972  "C5'" PAC 7  
+1VP C2  C2  C 0 1 Y N N 12.040 1.819   -6.773  -6.843 0.256  0.403  "C6'" PAC 8  
+1VP O   O   O 0 1 N N N 14.753 0.198   -9.411  -3.649 0.681  0.874  O1    PAC 9  
+1VP N   N   N 0 1 N N N 13.552 -1.596  -10.110 -2.505 -0.619 -0.513 N     GLY 10 
+1VP C6  C6  C 0 1 N N N 14.538 -2.071  -11.106 -1.330 -0.593 0.361  CA    GLY 11 
+1VP C7  C7  C 0 1 N N N 14.918 -3.545  -10.998 -0.230 -1.421 -0.252 C     GLY 12 
+1VP O1  O1  O 0 1 N N N 15.585 -4.135  -11.855 -0.410 -1.978 -1.314 O     GLY 13 
+1VP O2  O2  O 0 1 N N N 17.462 -9.265  -8.209  6.264  3.925  -0.678 OH    ALY 14 
+1VP C13 C13 C 0 1 N N N 18.115 -8.817  -9.174  6.951  3.200  0.009  CH    ALY 15 
+1VP C14 C14 C 0 1 N N N 18.357 -9.554  -10.478 8.285  3.683  0.516  CH3   ALY 16 
+1VP N2  N2  N 0 1 N N N 18.643 -7.590  -9.108  6.521  1.961  0.320  NZ    ALY 17 
+1VP C12 C12 C 0 1 N N N 18.520 -6.771  -7.919  5.224  1.490  -0.172 CE    ALY 18 
+1VP C11 C11 C 0 1 N N N 18.008 -5.354  -8.180  4.979  0.063  0.320  CD    ALY 19 
+1VP C10 C10 C 0 1 N N N 16.484 -5.267  -8.248  3.624  -0.428 -0.194 CG    ALY 20 
+1VP C9  C9  C 0 1 N N N 15.945 -6.108  -9.409  3.378  -1.856 0.299  CB    ALY 21 
+1VP C8  C8  C 0 1 N N S 14.541 -5.641  -9.802  2.024  -2.347 -0.215 CA    ALY 22 
+1VP N1  N1  N 0 1 N N N 14.425 -4.186  -9.960  0.954  -1.542 0.380  N     ALY 23 
+1VP C15 C15 C 0 1 N N N 13.518 -6.186  -8.847  1.836  -3.793 0.166  C     ALY 24 
+1VP O3  O3  O 0 1 N N N 13.429 -7.363  -8.608  0.905  -4.118 0.863  O     ALY 25 
+1VP O4  O4  O 0 1 N N N 12.660 -5.373  -8.268  2.704  -4.720 -0.270 OXT   ALY 26 
+1VP H19 H19 H 0 1 N N N 11.808 0.402   -9.020  -4.566 0.443  -2.038 H21   PAC 27 
+1VP H20 H20 H 0 1 N N N 12.219 -0.939  -7.898  -5.167 -1.000 -1.186 H22   PAC 28 
+1VP H23 H23 H 0 1 N N N 15.076 0.472   -7.284  -5.321 2.663  -1.406 "H2'" PAC 29 
+1VP H24 H24 H 0 1 N N N 15.664 2.101   -5.546  -7.122 4.006  -0.399 "H3'" PAC 30 
+1VP H25 H25 H 0 1 N N N 13.945 3.582   -4.577  -8.743 2.949  1.124  "H4'" PAC 31 
+1VP H22 H22 H 0 1 N N N 11.612 3.399   -5.379  -8.562 0.548  1.640  "H5'" PAC 32 
+1VP H21 H21 H 0 1 N N N 11.016 1.747   -7.108  -6.766 -0.798 0.626  "H6'" PAC 33 
+1VP H18 H18 H 0 1 N N N 12.708 -2.119  -9.992  -2.482 -1.123 -1.342 H     GLY 34 
+1VP H16 H16 H 0 1 N N N 15.455 -1.474  -10.988 -0.988 0.435  0.479  HA2   GLY 35 
+1VP H17 H17 H 0 1 N N N 14.117 -1.901  -12.108 -1.593 -1.003 1.336  HA3   GLY 36 
+1VP H12 H12 H 0 1 N N N 17.869 -10.539 -10.439 9.074  3.030  0.143  HH31  ALY 37 
+1VP H13 H13 H 0 1 N N N 17.939 -8.971  -11.312 8.460  4.701  0.165  HH32  ALY 38 
+1VP H14 H14 H 0 1 N N N 19.439 -9.686  -10.629 8.287  3.670  1.606  HH33  ALY 39 
+1VP H11 H11 H 0 1 N N N 19.135 -7.228  -9.900  7.071  1.380  0.870  HZ    ALY 40 
+1VP H9  H9  H 0 1 N N N 17.822 -7.268  -7.229  4.435  2.144  0.201  HE3   ALY 41 
+1VP H10 H10 H 0 1 N N N 19.511 -6.698  -7.447  5.222  1.504  -1.262 HE2   ALY 42 
+1VP H7  H7  H 0 1 N N N 18.421 -5.004  -9.137  5.767  -0.591 -0.052 HD3   ALY 43 
+1VP H8  H8  H 0 1 N N N 18.360 -4.700  -7.368  4.980  0.049  1.410  HD2   ALY 44 
+1VP H5  H5  H 0 1 N N N 16.188 -4.218  -8.395  2.835  0.225  0.179  HG3   ALY 45 
+1VP H6  H6  H 0 1 N N N 16.059 -5.639  -7.304  3.622  -0.415 -1.284 HG2   ALY 46 
+1VP H3  H3  H 0 1 N N N 15.903 -7.164  -9.102  4.167  -2.510 -0.074 HB3   ALY 47 
+1VP H4  H4  H 0 1 N N N 16.617 -6.004  -10.274 3.380  -1.870 1.389  HB2   ALY 48 
+1VP H2  H2  H 0 1 N N N 14.328 -6.091  -10.783 1.990  -2.250 -1.301 HCA   ALY 49 
+1VP H15 H15 H 0 1 N N N 13.953 -3.662  -9.251  1.099  -1.097 1.230  H     ALY 50 
+1VP H1  H1  H 0 1 N N N 12.069 -5.874  -7.719  2.542  -5.634 0.000  HXT   ALY 51 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1VP O1  C7  DOUB N N 1  
+1VP C6  C7  SING N N 2  
+1VP C6  N   SING N N 3  
+1VP C7  N1  SING N N 4  
+1VP C14 C13 SING N N 5  
+1VP N   C5  SING N N 6  
+1VP N1  C8  SING N N 7  
+1VP C8  C9  SING N N 8  
+1VP C8  C15 SING N N 9  
+1VP O   C5  DOUB N N 10 
+1VP C9  C10 SING N N 11 
+1VP C5  C4  SING N N 12 
+1VP C13 N2  SING N N 13 
+1VP C13 O2  DOUB N N 14 
+1VP N2  C12 SING N N 15 
+1VP C15 O3  DOUB N N 16 
+1VP C15 O4  SING N N 17 
+1VP C4  C3  SING N N 18 
+1VP C10 C11 SING N N 19 
+1VP C11 C12 SING N N 20 
+1VP C3  C16 DOUB Y N 21 
+1VP C3  C2  SING Y N 22 
+1VP C16 C17 SING Y N 23 
+1VP C2  C1  DOUB Y N 24 
+1VP C17 C   DOUB Y N 25 
+1VP C1  C   SING Y N 26 
+1VP O4  H1  SING N N 27 
+1VP C8  H2  SING N N 28 
+1VP C9  H3  SING N N 29 
+1VP C9  H4  SING N N 30 
+1VP C10 H5  SING N N 31 
+1VP C10 H6  SING N N 32 
+1VP C11 H7  SING N N 33 
+1VP C11 H8  SING N N 34 
+1VP C12 H9  SING N N 35 
+1VP C12 H10 SING N N 36 
+1VP N2  H11 SING N N 37 
+1VP C14 H12 SING N N 38 
+1VP C14 H13 SING N N 39 
+1VP C14 H14 SING N N 40 
+1VP N1  H15 SING N N 41 
+1VP C6  H16 SING N N 42 
+1VP C6  H17 SING N N 43 
+1VP N   H18 SING N N 44 
+1VP C4  H19 SING N N 45 
+1VP C4  H20 SING N N 46 
+1VP C2  H21 SING N N 47 
+1VP C1  H22 SING N N 48 
+1VP C16 H23 SING N N 49 
+1VP C17 H24 SING N N 50 
+1VP C   H25 SING N N 51 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1VP SMILES           ACDLabs              12.01 "O=C(NCC(=O)NC(C(=O)O)CCCCNC(=O)C)Cc1ccccc1"                                                                                                                               
+1VP InChI            InChI                1.03  "InChI=1S/C18H25N3O5/c1-13(22)19-10-6-5-9-15(18(25)26)21-17(24)12-20-16(23)11-14-7-3-2-4-8-14/h2-4,7-8,15H,5-6,9-12H2,1H3,(H,19,22)(H,20,23)(H,21,24)(H,25,26)/t15-/m0/s1" 
+1VP InChIKey         InChI                1.03  VCECDMBCQWWZKG-HNNXBMFYSA-N                                                                                                                                                
+1VP SMILES_CANONICAL CACTVS               3.385 "CC(=O)NCCCC[C@H](NC(=O)CNC(=O)Cc1ccccc1)C(O)=O"                                                                                                                           
+1VP SMILES           CACTVS               3.385 "CC(=O)NCCCC[CH](NC(=O)CNC(=O)Cc1ccccc1)C(O)=O"                                                                                                                            
+1VP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(=O)NCCCC[C@@H](C(=O)O)NC(=O)CNC(=O)Cc1ccccc1"                                                                                                                          
+1VP SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=O)NCCCCC(C(=O)O)NC(=O)CNC(=O)Cc1ccccc1"                                                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1VP "SYSTEMATIC NAME" ACDLabs              12.01 "N-(phenylacetyl)glycyl-N~6~-acetyl-L-lysine"                              
+1VP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-6-acetamido-2-[2-(2-phenylethanoylamino)ethanoylamino]hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1VP "Create component" 2013-06-21 RCSB 
+1VP "Initial release"  2013-07-10 RCSB 
+# 

@@ -1,0 +1,123 @@
+data_ZDV
+# 
+_chem_comp.id                                    ZDV 
+_chem_comp.name                                  "1-(3-fluorophenyl)methanamine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 F N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-11-15 
+_chem_comp.pdbx_modified_date                    2012-01-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        125.144 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ZDV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2ZDV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ZDV C1  C1  C 0 1 Y N N 12.632 -11.615 21.577 -0.583 1.444  0.114  C1  ZDV 1  
+ZDV C2  C2  C 0 1 Y N N 13.519 -10.539 21.424 -0.863 0.103  0.300  C2  ZDV 2  
+ZDV C3  C3  C 0 1 N N N 14.543 -10.576 20.292 -2.278 -0.342 0.567  C3  ZDV 3  
+ZDV N9  N9  N 0 1 N N N 15.861 -10.756 20.896 -2.949 -0.630 -0.707 N9  ZDV 4  
+ZDV C18 C18 C 0 1 Y N N 13.428 -9.470  22.315 0.155  -0.831 0.241  C18 ZDV 5  
+ZDV C19 C19 C 0 1 Y N N 12.486 -9.455  23.339 1.455  -0.422 -0.005 C19 ZDV 6  
+ZDV F7  F7  F 0 1 N N N 12.403 -8.420  24.197 2.450  -1.334 -0.064 F7  ZDV 7  
+ZDV C20 C20 C 0 1 Y N N 11.611 -10.534 23.480 1.734  0.922  -0.190 C20 ZDV 8  
+ZDV C21 C21 C 0 1 Y N N 11.687 -11.614 22.595 0.715  1.853  -0.131 C21 ZDV 9  
+ZDV H1  H1  H 0 1 N N N 12.684 -12.452 20.897 -1.380 2.172  0.156  H1  ZDV 10 
+ZDV H3  H3  H 0 1 N N N 14.323 -11.410 19.609 -2.266 -1.240 1.183  H3  ZDV 11 
+ZDV H3A H3A H 0 1 N N N 14.513 -9.635  19.724 -2.815 0.450  1.089  H3A ZDV 12 
+ZDV HN9 HN9 H 0 1 N N N 16.556 -10.784 20.178 -2.434 -1.316 -1.240 HN9 ZDV 13 
+ZDV H18 H18 H 0 1 N N N 14.104 -8.635  22.208 -0.064 -1.878 0.386  H18 ZDV 14 
+ZDV H20 H20 H 0 1 N N N 10.876 -10.534 24.272 2.747  1.242  -0.381 H20 ZDV 15 
+ZDV H21 H21 H 0 1 N N N 11.010 -12.448 22.703 0.932  2.901  -0.276 H21 ZDV 16 
+ZDV H2  H2  H 0 1 N N N 16.051 -9.993  21.514 -3.900 -0.931 -0.555 H2  ZDV 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ZDV C1  C2  DOUB Y N 1  
+ZDV C1  C21 SING Y N 2  
+ZDV C2  C3  SING N N 3  
+ZDV C2  C18 SING Y N 4  
+ZDV C3  N9  SING N N 5  
+ZDV C18 C19 DOUB Y N 6  
+ZDV C19 F7  SING N N 7  
+ZDV C19 C20 SING Y N 8  
+ZDV C20 C21 DOUB Y N 9  
+ZDV C1  H1  SING N N 10 
+ZDV C3  H3  SING N N 11 
+ZDV C3  H3A SING N N 12 
+ZDV N9  HN9 SING N N 13 
+ZDV C18 H18 SING N N 14 
+ZDV C20 H20 SING N N 15 
+ZDV C21 H21 SING N N 16 
+ZDV N9  H2  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ZDV SMILES           ACDLabs              12.01 "Fc1cc(ccc1)CN"                                    
+ZDV SMILES_CANONICAL CACTVS               3.370 "NCc1cccc(F)c1"                                    
+ZDV SMILES           CACTVS               3.370 "NCc1cccc(F)c1"                                    
+ZDV SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc(cc(c1)F)CN"                                  
+ZDV SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc(cc(c1)F)CN"                                  
+ZDV InChI            InChI                1.03  "InChI=1S/C7H8FN/c8-7-3-1-2-6(4-7)5-9/h1-4H,5,9H2" 
+ZDV InChIKey         InChI                1.03  QVSVMNXRLWSNGS-UHFFFAOYSA-N                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ZDV "SYSTEMATIC NAME" ACDLabs              12.01 "1-(3-fluorophenyl)methanamine" 
+ZDV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(3-fluorophenyl)methanamine"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ZDV "Create component"     2010-11-15 RCSB 
+ZDV "Other modification"   2010-11-15 RCSB 
+ZDV "Modify aromatic_flag" 2011-06-04 RCSB 
+ZDV "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,125 @@
+data_ADK
+# 
+_chem_comp.id                                    ADK 
+_chem_comp.name                                  3-METHYL-3H-PURIN-6-YLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 N5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         3-METHYLADENINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-05-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.153 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ADK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P7M 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ADK N9   N9   N 0 1 Y N N 140.191 20.145 -8.460 -1.756 0.000  1.076  N9   ADK 1  
+ADK C4   C4   C 0 1 Y N N 140.829 20.919 -7.516 -0.486 -0.004 0.700  C4   ADK 2  
+ADK N3   N3   N 0 1 Y N N 140.838 22.255 -7.443 0.723  0.000  1.354  N3   ADK 3  
+ADK C2   C2   C 0 1 Y N N 141.535 22.710 -6.429 1.864  0.000  0.646  C2   ADK 4  
+ADK N1   N1   N 0 1 Y N N 142.198 21.990 -5.529 1.877  0.000  -0.661 N1   ADK 5  
+ADK C6   C6   C 0 1 Y N N 142.191 20.647 -5.603 0.750  0.000  -1.379 C6   ADK 6  
+ADK N6   N6   N 0 1 N N N 142.846 19.946 -4.679 0.800  -0.000 -2.751 N6   ADK 7  
+ADK C5   C5   C 0 1 Y N N 141.468 20.059 -6.656 -0.486 0.000  -0.712 C5   ADK 8  
+ADK N7   N7   N 0 1 Y N N 141.245 18.738 -7.030 -1.774 0.000  -1.092 N7   ADK 9  
+ADK C8   C8   C 0 1 Y N N 140.503 18.881 -8.077 -2.522 0.000  -0.009 C8   ADK 10 
+ADK C3A  C3A  C 0 1 N N N 140.138 23.140 -8.387 0.766  0.000  2.819  C3A  ADK 11 
+ADK HC2  HC2  H 0 1 N N N 141.573 23.788 -6.318 2.806  0.000  1.176  HC2  ADK 12 
+ADK HN61 1HN6 H 0 0 N N N 142.840 18.939 -4.709 1.657  -0.000 -3.205 HN61 ADK 13 
+ADK HN62 2HN6 H 0 0 N N N 143.344 20.425 -3.942 -0.021 -0.000 -3.266 HN62 ADK 14 
+ADK H8   H8   H 0 1 N N N 140.144 18.017 -8.636 -3.602 0.001  -0.003 H8   ADK 15 
+ADK H3A1 1H3A H 0 0 N N N 139.055 23.069 -8.309 1.804  0.000  3.151  H3A1 ADK 16 
+ADK H3A2 2H3A H 0 0 N N N 140.384 22.926 -9.427 0.264  0.890  3.197  H3A2 ADK 17 
+ADK H3A3 3H3A H 0 0 N N N 140.385 24.193 -8.227 0.263  -0.889 3.197  H3A3 ADK 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ADK N9  C4   DOUB Y N 1  
+ADK N9  C8   SING Y N 2  
+ADK C4  N3   SING Y N 3  
+ADK C4  C5   SING Y N 4  
+ADK N3  C2   SING Y N 5  
+ADK N3  C3A  SING N N 6  
+ADK C2  N1   DOUB Y N 7  
+ADK C2  HC2  SING N N 8  
+ADK N1  C6   SING Y N 9  
+ADK C6  N6   SING N N 10 
+ADK C6  C5   DOUB Y N 11 
+ADK N6  HN61 SING N N 12 
+ADK N6  HN62 SING N N 13 
+ADK C5  N7   SING Y N 14 
+ADK N7  C8   DOUB Y N 15 
+ADK C8  H8   SING N N 16 
+ADK C3A H3A1 SING N N 17 
+ADK C3A H3A2 SING N N 18 
+ADK C3A H3A3 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ADK SMILES           ACDLabs              10.04 "N=1C2=C(N=CN(C2=NC=1)C)N"                                    
+ADK SMILES_CANONICAL CACTVS               3.341 "Cn1cnc(N)c2ncnc12"                                           
+ADK SMILES           CACTVS               3.341 "Cn1cnc(N)c2ncnc12"                                           
+ADK SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cn1cnc(c-2ncnc12)N"                                          
+ADK SMILES           "OpenEye OEToolkits" 1.5.0 "Cn1cnc(c-2ncnc12)N"                                          
+ADK InChI            InChI                1.03  "InChI=1S/C6H7N5/c1-11-3-10-5(7)4-6(11)9-2-8-4/h2-3H,7H2,1H3" 
+ADK InChIKey         InChI                1.03  FSASIHFSFGAIJM-UHFFFAOYSA-N                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ADK "SYSTEMATIC NAME" ACDLabs              10.04 3-methyl-3H-purin-6-amine 
+ADK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3-methylpurin-6-amine     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ADK "Create component"     2003-05-06 RCSB 
+ADK "Modify aromatic_flag" 2011-06-04 RCSB 
+ADK "Modify descriptor"    2011-06-04 RCSB 
+# 

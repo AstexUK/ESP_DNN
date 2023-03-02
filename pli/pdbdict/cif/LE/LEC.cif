@@ -1,0 +1,173 @@
+data_LEC
+# 
+_chem_comp.id                                    LEC 
+_chem_comp.name                                  "N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]ethanamide" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C14 H18 N2 O8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-11-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        342.301 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LEC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3F64 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LEC C8    C8    C 0  1 N N N 35.896 50.209 14.033 -2.186 4.464  0.722  C8    LEC 1  
+LEC C7    C7    C 0  1 N N N 36.933 49.805 15.065 -2.078 3.139  0.012  C7    LEC 2  
+LEC O7    O7    O 0  1 N N N 36.939 50.318 16.206 -1.631 3.089  -1.114 O7    LEC 3  
+LEC N2    N2    N 0  1 N N N 37.779 48.848 14.654 -2.478 2.010  0.629  N2    LEC 4  
+LEC C2    C2    C 0  1 N N R 37.764 48.230 13.307 -2.374 0.722  -0.061 C2    LEC 5  
+LEC C3    C3    C 0  1 N N R 37.685 46.687 13.439 -3.401 -0.255 0.519  C3    LEC 6  
+LEC O3    O3    O 0  1 N N N 36.361 46.300 13.867 -4.720 0.238  0.274  O3    LEC 7  
+LEC C4    C4    C 0  1 N N S 38.071 45.939 12.134 -3.230 -1.620 -0.155 C4    LEC 8  
+LEC O4    O4    O 0  1 N N N 38.184 44.522 12.386 -4.135 -2.558 0.430  O4    LEC 9  
+LEC C5    C5    C 0  1 N N R 39.386 46.478 11.543 -1.791 -2.103 0.047  C5    LEC 10 
+LEC C6    C6    C 0  1 N N N 39.783 45.770 10.214 -1.596 -3.437 -0.675 C6    LEC 11 
+LEC O6    O6    O 0  1 N N N 38.874 46.114 9.169  -0.290 -3.945 -0.391 O6    LEC 12 
+LEC O5    O5    O 0  1 N N N 39.330 47.920 11.326 -0.886 -1.135 -0.488 O5    LEC 13 
+LEC C1    C1    C 0  1 N N S 39.022 48.704 12.535 -0.968 0.148  0.137  C1    LEC 14 
+LEC O1    O1    O 0  1 N N N 38.751 50.066 12.130 -0.007 1.027  -0.451 O1    LEC 15 
+LEC "C1'" "C1'" C 0  1 Y N N 39.778 50.848 11.652 1.304  0.717  -0.273 "C1'" LEC 16 
+LEC "C2'" "C2'" C 0  1 Y N N 40.670 50.393 10.687 2.290  1.527  -0.817 "C2'" LEC 17 
+LEC "C3'" "C3'" C 0  1 Y N N 41.691 51.210 10.186 3.622  1.209  -0.634 "C3'" LEC 18 
+LEC "C4'" "C4'" C 0  1 Y N N 41.818 52.516 10.647 3.972  0.086  0.091  "C4'" LEC 19 
+LEC "N1'" "N1'" N 1  1 N N N 42.784 53.340 10.202 5.400  -0.252 0.287  "N1'" LEC 20 
+LEC "O2'" "O2'" O -1 1 N N N 43.814 52.918 9.345  6.265  0.460  -0.191 "O2'" LEC 21 
+LEC "O1'" "O1'" O 0  1 N N N 42.792 54.667 10.628 5.710  -1.242 0.925  "O1'" LEC 22 
+LEC "C5'" "C5'" C 0  1 Y N N 40.922 52.971 11.609 2.991  -0.723 0.635  "C5'" LEC 23 
+LEC "C6'" "C6'" C 0  1 Y N N 39.908 52.156 12.101 1.658  -0.407 0.459  "C6'" LEC 24 
+LEC H8    H8    H 0  1 N N N 34.914 50.307 14.518 -1.817 5.256  0.070  H8    LEC 25 
+LEC H8A   H8A   H 0  1 N N N 36.181 51.172 13.585 -3.228 4.657  0.974  H8A   LEC 26 
+LEC H8B   H8B   H 0  1 N N N 35.842 49.441 13.248 -1.590 4.437  1.634  H8B   LEC 27 
+LEC HN2   HN2   H 0  1 N N N 38.469 48.529 15.303 -2.836 2.050  1.530  HN2   LEC 28 
+LEC H2    H2    H 0  1 N N N 36.877 48.543 12.736 -2.564 0.862  -1.125 H2    LEC 29 
+LEC H3    H3    H 0  1 N N N 38.427 46.392 14.195 -3.244 -0.355 1.593  H3    LEC 30 
+LEC HO3   HO3   H 0  1 N N N 36.346 46.215 14.813 -5.423 -0.333 0.615  HO3   LEC 31 
+LEC H4    H4    H 0  1 N N N 37.273 46.114 11.398 -3.439 -1.528 -1.221 H4    LEC 32 
+LEC HO4   HO4   H 0  1 N N N 38.209 44.054 11.560 -4.081 -3.446 0.050  HO4   LEC 33 
+LEC H5    H5    H 0  1 N N N 40.160 46.256 12.293 -1.598 -2.233 1.111  H5    LEC 34 
+LEC H6    H6    H 0  1 N N N 40.797 46.086 9.927  -2.345 -4.150 -0.331 H6    LEC 35 
+LEC H6A   H6A   H 0  1 N N N 39.750 44.681 10.369 -1.702 -3.288 -1.750 H6A   LEC 36 
+LEC HO6   HO6   H 0  1 N N N 37.996 46.190 9.525  -0.097 -4.792 -0.817 HO6   LEC 37 
+LEC H1    H1    H 0  1 N N N 39.892 48.590 13.199 -0.763 0.047  1.203  H1    LEC 38 
+LEC "H2'" "H2'" H 0  1 N N N 40.573 49.384 10.315 2.016  2.405  -1.384 "H2'" LEC 39 
+LEC "H3'" "H3'" H 0  1 N N N 42.377 50.828 9.445  4.390  1.839  -1.058 "H3'" LEC 40 
+LEC "H5'" "H5'" H 0  1 N N N 41.016 53.980 11.982 3.268  -1.601 1.200  "H5'" LEC 41 
+LEC "H6'" "H6'" H 0  1 N N N 39.218 52.542 12.836 0.892  -1.037 0.887  "H6'" LEC 42 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LEC C8    C7    SING N N 1  
+LEC C7    O7    DOUB N N 2  
+LEC C7    N2    SING N N 3  
+LEC N2    C2    SING N N 4  
+LEC C2    C3    SING N N 5  
+LEC C2    C1    SING N N 6  
+LEC C3    O3    SING N N 7  
+LEC C3    C4    SING N N 8  
+LEC C4    O4    SING N N 9  
+LEC C4    C5    SING N N 10 
+LEC C5    C6    SING N N 11 
+LEC C5    O5    SING N N 12 
+LEC C6    O6    SING N N 13 
+LEC O5    C1    SING N N 14 
+LEC C1    O1    SING N N 15 
+LEC O1    "C1'" SING N N 16 
+LEC "C1'" "C2'" DOUB Y N 17 
+LEC "C1'" "C6'" SING Y N 18 
+LEC "C2'" "C3'" SING Y N 19 
+LEC "C3'" "C4'" DOUB Y N 20 
+LEC "C4'" "N1'" SING N N 21 
+LEC "C4'" "C5'" SING Y N 22 
+LEC "N1'" "O2'" SING N N 23 
+LEC "N1'" "O1'" DOUB N N 24 
+LEC "C5'" "C6'" DOUB Y N 25 
+LEC C8    H8    SING N N 26 
+LEC C8    H8A   SING N N 27 
+LEC C8    H8B   SING N N 28 
+LEC N2    HN2   SING N N 29 
+LEC C2    H2    SING N N 30 
+LEC C3    H3    SING N N 31 
+LEC O3    HO3   SING N N 32 
+LEC C4    H4    SING N N 33 
+LEC O4    HO4   SING N N 34 
+LEC C5    H5    SING N N 35 
+LEC C6    H6    SING N N 36 
+LEC C6    H6A   SING N N 37 
+LEC O6    HO6   SING N N 38 
+LEC C1    H1    SING N N 39 
+LEC "C2'" "H2'" SING N N 40 
+LEC "C3'" "H3'" SING N N 41 
+LEC "C5'" "H5'" SING N N 42 
+LEC "C6'" "H6'" SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LEC SMILES           ACDLabs              10.04 "[O-][N+](=O)c2ccc(OC1OC(C(O)C(O)C1NC(=O)C)CO)cc2"                                                                                                           
+LEC SMILES_CANONICAL CACTVS               3.341 "CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc2ccc(cc2)[N+]([O-])=O"                                                                                    
+LEC SMILES           CACTVS               3.341 "CC(=O)N[CH]1[CH](O)[CH](O)[CH](CO)O[CH]1Oc2ccc(cc2)[N+]([O-])=O"                                                                                            
+LEC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1Oc2ccc(cc2)[N+](=O)[O-])CO)O)O"                                                                                     
+LEC SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)NC1C(C(C(OC1Oc2ccc(cc2)[N+](=O)[O-])CO)O)O"                                                                                                           
+LEC InChI            InChI                1.03  "InChI=1S/C14H18N2O8/c1-7(18)15-11-13(20)12(19)10(6-17)24-14(11)23-9-4-2-8(3-5-9)16(21)22/h2-5,10-14,17,19-20H,6H2,1H3,(H,15,18)/t10-,11-,12-,13-,14-/m1/s1" 
+LEC InChIKey         InChI                1.03  OMRLTNCLYHKQCK-DHGKCCLASA-N                                                                                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LEC "SYSTEMATIC NAME" ACDLabs              10.04 "4-nitrophenyl 2-(acetylamino)-2-deoxy-beta-D-glucopyranoside"                               
+LEC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]ethanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LEC "Create component"     2008-11-07 PDBJ 
+LEC "Modify aromatic_flag" 2011-06-04 RCSB 
+LEC "Modify descriptor"    2011-06-04 RCSB 
+# 

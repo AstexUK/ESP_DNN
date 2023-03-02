@@ -1,0 +1,110 @@
+data_PIS
+# 
+_chem_comp.id                                    PIS 
+_chem_comp.name                                  "TRIHYDROGEN THIODIPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H3 O6 P2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         THIOPYROPHOSPHATE 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2004-06-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        193.033 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PIS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TUU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PIS P1  P1  P 0  1 N N N 71.529 10.080 20.064 1.409  -0.010 -0.076 P1  PIS 1  
+PIS O1  O1  O 0  1 N N N 70.074 9.684  20.501 0.223  0.674  -0.923 O1  PIS 2  
+PIS P2  P2  P 0  1 N N S 68.778 10.547 21.065 -1.135 0.450  -0.088 P2  PIS 3  
+PIS S1  S1  S -1 1 N N N 67.669 9.535  21.302 -1.483 -1.627 0.151  S1  PIS 4  
+PIS O2  O2  O 0  1 N N N 72.347 10.978 20.863 1.771  0.919  1.188  O2  PIS 5  
+PIS O3  O3  O 0  1 N N N 72.197 9.126  19.115 2.709  -0.177 -1.011 O3  PIS 6  
+PIS O4  O4  O 0  1 N N N 69.191 11.248 22.311 -2.369 1.114  -0.882 O4  PIS 7  
+PIS O5  O5  O 0  1 N N N 71.795 9.065  21.154 0.970  -1.341 0.400  O5  PIS 8  
+PIS O6  O6  O 0  1 N N N 68.294 11.528 19.967 -1.006 1.085  1.243  O6  PIS 9  
+PIS HO2 HO2 H 0  1 N N N 72.525 10.579 21.706 2.051  1.774  0.834  HO2 PIS 10 
+PIS HO3 HO3 H 0  1 N N N 72.338 9.556  18.280 3.394  -0.589 -0.466 HO3 PIS 11 
+PIS HO4 HO4 H 0  1 N N N 69.279 10.617 23.016 -3.160 0.958  -0.349 HO4 PIS 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PIS P1 O1  SING N N 1  
+PIS P1 O2  SING N N 2  
+PIS P1 O3  SING N N 3  
+PIS P1 O5  DOUB N N 4  
+PIS O1 P2  SING N N 5  
+PIS P2 S1  SING N N 6  
+PIS P2 O4  SING N N 7  
+PIS P2 O6  DOUB N N 8  
+PIS O2 HO2 SING N N 9  
+PIS O3 HO3 SING N N 10 
+PIS O4 HO4 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PIS SMILES           ACDLabs              10.04 "[S-]P(=O)(O)OP(=O)(O)O"                                        
+PIS SMILES_CANONICAL CACTVS               3.341 "O[P](O)(=O)O[P@](O)([S-])=O"                                   
+PIS SMILES           CACTVS               3.341 "O[P](O)(=O)O[P](O)([S-])=O"                                    
+PIS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "OP(=O)(O)O[P@](=O)(O)[S-]"                                     
+PIS SMILES           "OpenEye OEToolkits" 1.5.0 "OP(=O)(O)OP(=O)(O)[S-]"                                        
+PIS InChI            InChI                1.03  "InChI=1S/H4O6P2S/c1-7(2,3)6-8(4,5)9/h(H2,1,2,3)(H2,4,5,9)/p-1" 
+PIS InChIKey         InChI                1.03  HWTUHTNZLQJJEV-UHFFFAOYSA-M                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PIS "SYSTEMATIC NAME" ACDLabs              10.04 "trihydrogen thiodiphosphate"          
+PIS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "phosphonooxy-sulfido-phosphinic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PIS "Create component"  2004-06-29 RCSB 
+PIS "Modify descriptor" 2011-06-04 RCSB 
+# 

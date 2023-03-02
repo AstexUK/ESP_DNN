@@ -1,0 +1,126 @@
+data_ASZ
+# 
+_chem_comp.id                                    ASZ 
+_chem_comp.name                                  "2-(DIMETHYLAMINO)ETHANESULFONIC ACID" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H11 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-05-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        153.200 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ASZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XE5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ASZ OAC  OAC  O 0 1 N N N 15.040 14.290 -2.114 -1.697 -0.326 -1.417 OAC  ASZ 1  
+ASZ SAI  SAI  S 0 1 N N N 13.896 13.355 -2.025 -1.535 0.072  -0.063 SAI  ASZ 2  
+ASZ OAE  OAE  O 0 1 N N N 12.794 13.968 -2.807 -1.857 1.391  0.356  OAE  ASZ 3  
+ASZ OAD  OAD  O 0 1 N N N 14.294 12.041 -2.628 -2.505 -0.813 0.707  OAD  ASZ 4  
+ASZ CAG  CAG  C 0 1 N N N 13.483 13.215 -0.396 0.102  -0.409 0.552  CAG  ASZ 5  
+ASZ CAF  CAF  C 0 1 N N N 12.115 13.818 0.004  1.176  0.420  -0.155 CAF  ASZ 6  
+ASZ NAH  NAH  N 0 1 N N N 11.616 13.448 1.375  2.503  0.030  0.343  NAH  ASZ 7  
+ASZ CAB  CAB  C 0 1 N N N 12.555 12.681 2.225  2.822  -1.352 -0.038 CAB  ASZ 8  
+ASZ CAA  CAA  C 0 1 N N N 11.165 14.605 2.172  3.537  0.959  -0.132 CAA  ASZ 9  
+ASZ HAD  HAD  H 0 1 N N N 14.378 12.137 -3.569 -3.434 -0.667 0.482  HAD  ASZ 10 
+ASZ HAG1 HAG1 H 0 0 N N N 13.454 12.142 -0.154 0.154  -0.232 1.626  HAG1 ASZ 11 
+ASZ HAG2 HAG2 H 0 0 N N N 14.241 13.787 0.159  0.269  -1.467 0.350  HAG2 ASZ 12 
+ASZ HAF1 HAF1 H 0 0 N N N 12.215 14.913 -0.026 1.125  0.242  -1.229 HAF1 ASZ 13 
+ASZ HAF2 HAF2 H 0 0 N N N 11.382 13.408 -0.707 1.009  1.478  0.047  HAF2 ASZ 14 
+ASZ HAB1 HAB1 H 0 0 N N N 13.484 12.491 1.667  2.816  -1.441 -1.125 HAB1 ASZ 15 
+ASZ HAB2 HAB2 H 0 0 N N N 12.784 13.259 3.132  3.809  -1.615 0.343  HAB2 ASZ 16 
+ASZ HAB3 HAB3 H 0 0 N N N 12.094 11.723 2.507  2.078  -2.027 0.385  HAB3 ASZ 17 
+ASZ HAA1 HAA1 H 0 0 N N N 11.053 14.305 3.224  3.312  1.965  0.223  HAA1 ASZ 18 
+ASZ HAA2 HAA2 H 0 0 N N N 11.908 15.413 2.099  4.509  0.647  0.251  HAA2 ASZ 19 
+ASZ HAA3 HAA3 H 0 0 N N N 10.198 14.960 1.787  3.557  0.955  -1.222 HAA3 ASZ 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ASZ OAC SAI  DOUB N N 1  
+ASZ SAI OAE  DOUB N N 2  
+ASZ SAI OAD  SING N N 3  
+ASZ SAI CAG  SING N N 4  
+ASZ CAG CAF  SING N N 5  
+ASZ CAF NAH  SING N N 6  
+ASZ NAH CAB  SING N N 7  
+ASZ NAH CAA  SING N N 8  
+ASZ OAD HAD  SING N N 9  
+ASZ CAG HAG1 SING N N 10 
+ASZ CAG HAG2 SING N N 11 
+ASZ CAF HAF1 SING N N 12 
+ASZ CAF HAF2 SING N N 13 
+ASZ CAB HAB1 SING N N 14 
+ASZ CAB HAB2 SING N N 15 
+ASZ CAB HAB3 SING N N 16 
+ASZ CAA HAA1 SING N N 17 
+ASZ CAA HAA2 SING N N 18 
+ASZ CAA HAA3 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ASZ SMILES           ACDLabs              10.04 "O=S(=O)(O)CCN(C)C"                                            
+ASZ SMILES_CANONICAL CACTVS               3.352 "CN(C)CC[S](O)(=O)=O"                                          
+ASZ SMILES           CACTVS               3.352 "CN(C)CC[S](O)(=O)=O"                                          
+ASZ SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "CN(C)CCS(=O)(=O)O"                                            
+ASZ SMILES           "OpenEye OEToolkits" 1.6.1 "CN(C)CCS(=O)(=O)O"                                            
+ASZ InChI            InChI                1.03  "InChI=1S/C4H11NO3S/c1-5(2)3-4-9(6,7)8/h3-4H2,1-2H3,(H,6,7,8)" 
+ASZ InChIKey         InChI                1.03  CFAFEJHONLMPQY-UHFFFAOYSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ASZ "SYSTEMATIC NAME" ACDLabs              10.04 "2-(dimethylamino)ethanesulfonic acid" 
+ASZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "2-dimethylaminoethanesulfonic acid"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ASZ "Create component"  2010-05-11 EBI  
+ASZ "Modify descriptor" 2011-06-04 RCSB 
+# 

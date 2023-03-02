@@ -1,0 +1,157 @@
+data_NOC
+# 
+_chem_comp.id                                    NOC 
+_chem_comp.name                                  "3-(6-AMINO-PURIN-9-YL)-5-HYDROXYMETHYL-CYCLOPENTANE-1,2-DIOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H15 N5 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         NEPLANOCIN 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-04-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        265.269 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NOC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1LI4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NOC "C6'"  C6*  C 0 1 N N N 42.970 -18.880 104.403 -3.990 1.443  0.828  "C6'"  NOC 1  
+NOC "O6'"  O6*  O 0 1 N N N 42.773 -20.043 105.278 -5.341 0.999  0.683  "O6'"  NOC 2  
+NOC "C5'"  C5*  C 0 1 N N N 44.940 -19.713 103.169 -1.607 0.685  1.089  "C5'"  NOC 3  
+NOC "C4'"  C4*  C 0 1 N N S 44.337 -18.810 104.019 -3.052 0.235  0.809  "C4'"  NOC 4  
+NOC "C3'"  C3*  C 0 1 N N S 45.303 -17.847 104.579 -3.048 -0.410 -0.593 "C3'"  NOC 5  
+NOC "O3'"  O3*  O 0 1 N N N 45.087 -16.826 105.188 -3.925 -1.537 -0.627 "O3'"  NOC 6  
+NOC "C2'"  C2*  C 0 1 N N S 46.479 -17.987 103.665 -1.578 -0.854 -0.805 "C2'"  NOC 7  
+NOC "O2'"  O2*  O 0 1 N N N 47.654 -17.686 104.402 -1.278 -0.964 -2.198 "O2'"  NOC 8  
+NOC "C1'"  C1*  C 0 1 N N R 46.428 -19.482 103.152 -0.776 0.298  -0.152 "C1'"  NOC 9  
+NOC N9     N9   N 0 1 Y N N 47.150 -19.896 101.959 0.555  -0.165 0.247  N9     NOC 10 
+NOC C8     C8   C 0 1 Y N N 47.033 -19.364 100.676 0.830  -1.208 1.081  C8     NOC 11 
+NOC N7     N7   N 0 1 Y N N 47.797 -19.954 99.824  2.118  -1.341 1.216  N7     NOC 12 
+NOC C5     C5   C 0 1 Y N N 48.481 -20.942 100.541 2.749  -0.398 0.476  C5     NOC 13 
+NOC C6     C6   C 0 1 Y N N 49.473 -21.939 100.216 4.093  -0.058 0.246  C6     NOC 14 
+NOC N6     N6   N 0 1 N N N 49.987 -22.092 98.954  5.116  -0.776 0.840  N6     NOC 15 
+NOC N1     N1   N 0 1 Y N N 49.889 -22.751 101.283 4.359  0.965  -0.559 N1     NOC 16 
+NOC C2     C2   C 0 1 Y N N 49.406 -22.610 102.502 3.389  1.656  -1.130 C2     NOC 17 
+NOC N3     N3   N 0 1 Y N N 48.482 -21.717 102.928 2.117  1.377  -0.939 N3     NOC 18 
+NOC C4     C4   C 0 1 Y N N 48.043 -20.892 101.905 1.754  0.372  -0.150 C4     NOC 19 
+NOC "H6'1" 1H6* H 0 0 N N N 42.613 -17.933 104.871 -3.882 1.972  1.775  "H6'1" NOC 20 
+NOC "H6'2" 2H6* H 0 0 N N N 42.284 -18.890 103.524 -3.738 2.113  0.007  "H6'2" NOC 21 
+NOC "HO6'" HO6* H 0 0 N N N 41.860 -20.090 105.535 -5.898 1.789  0.700  "HO6'" NOC 22 
+NOC "H5'1" 1H5* H 0 0 N N N 44.499 -19.684 102.145 -1.221 0.174  1.971  "H5'1" NOC 23 
+NOC "H5'2" 2H5* H 0 0 N N N 44.682 -20.767 103.426 -1.575 1.764  1.238  "H5'2" NOC 24 
+NOC "HC4'" HC4* H 0 0 N N N 43.326 -18.416 103.760 -3.367 -0.495 1.554  "HC4'" NOC 25 
+NOC "HC3'" HC3* H 0 0 N N N 45.410 -18.067 105.667 -3.337 0.320  -1.349 "HC3'" NOC 26 
+NOC "HO3'" HO3* H 0 0 N N N 45.709 -16.205 105.549 -3.882 -1.898 -1.523 "HO3'" NOC 27 
+NOC "HC2'" HC2* H 0 0 N N N 46.469 -17.294 102.792 -1.382 -1.797 -0.294 "HC2'" NOC 28 
+NOC "HO2'" HO2* H 0 0 N N N 48.401 -17.775 103.822 -1.867 -1.641 -2.558 "HO2'" NOC 29 
+NOC "HC1'" HC1* H 0 0 N N N 47.039 -20.157 103.796 -0.696 1.143  -0.836 "HC1'" NOC 30 
+NOC HC8    HC8  H 0 1 N N N 46.381 -18.534 100.357 0.089  -1.831 1.558  HC8    NOC 31 
+NOC HN61   1HN6 H 0 0 N N N 50.355 -21.187 98.662  6.040  -0.535 0.671  HN61   NOC 32 
+NOC HN62   2HN6 H 0 0 N N N 50.688 -22.796 98.724  4.909  -1.519 1.430  HN62   NOC 33 
+NOC HC2    HC2  H 0 1 N N N 49.819 -23.314 103.244 3.650  2.480  -1.777 HC2    NOC 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NOC "C6'" "O6'"  SING N N 1  
+NOC "C6'" "C4'"  SING N N 2  
+NOC "C6'" "H6'1" SING N N 3  
+NOC "C6'" "H6'2" SING N N 4  
+NOC "O6'" "HO6'" SING N N 5  
+NOC "C5'" "C4'"  SING N N 6  
+NOC "C5'" "C1'"  SING N N 7  
+NOC "C5'" "H5'1" SING N N 8  
+NOC "C5'" "H5'2" SING N N 9  
+NOC "C4'" "C3'"  SING N N 10 
+NOC "C4'" "HC4'" SING N N 11 
+NOC "C3'" "O3'"  SING N N 12 
+NOC "C3'" "C2'"  SING N N 13 
+NOC "C3'" "HC3'" SING N N 14 
+NOC "O3'" "HO3'" SING N N 15 
+NOC "C2'" "O2'"  SING N N 16 
+NOC "C2'" "C1'"  SING N N 17 
+NOC "C2'" "HC2'" SING N N 18 
+NOC "O2'" "HO2'" SING N N 19 
+NOC "C1'" N9     SING N N 20 
+NOC "C1'" "HC1'" SING N N 21 
+NOC N9    C8     SING Y N 22 
+NOC N9    C4     SING Y N 23 
+NOC C8    N7     DOUB Y N 24 
+NOC C8    HC8    SING N N 25 
+NOC N7    C5     SING Y N 26 
+NOC C5    C6     DOUB Y N 27 
+NOC C5    C4     SING Y N 28 
+NOC C6    N6     SING N N 29 
+NOC C6    N1     SING Y N 30 
+NOC N6    HN61   SING N N 31 
+NOC N6    HN62   SING N N 32 
+NOC N1    C2     DOUB Y N 33 
+NOC C2    N3     SING Y N 34 
+NOC C2    HC2    SING N N 35 
+NOC N3    C4     DOUB Y N 36 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NOC SMILES           ACDLabs              10.04 "n1c(c2ncn(c2nc1)C3CC(CO)C(O)C3O)N"                                                                                                  
+NOC SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3C[C@@H](CO)[C@H](O)[C@H]3O"                                                                                  
+NOC SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3C[CH](CO)[CH](O)[CH]3O"                                                                                        
+NOC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@@H]3CC([C@@H]([C@H]3O)O)CO)N"                                                                                  
+NOC SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3CC(C(C3O)O)CO)N"                                                                                                
+NOC InChI            InChI                1.03  "InChI=1S/C11H15N5O3/c12-10-7-11(14-3-13-10)16(4-15-7)6-1-5(2-17)8(18)9(6)19/h3-6,8-9,17-19H,1-2H2,(H2,12,13,14)/t5-,6+,8-,9-/m0/s1" 
+NOC InChIKey         InChI                1.03  UGRNVLGKAGREKS-FAYXRDSDSA-N                                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NOC "SYSTEMATIC NAME" ACDLabs              10.04 "(1S,2S,3R,5S)-3-(6-amino-9H-purin-9-yl)-5-(hydroxymethyl)cyclopentane-1,2-diol" 
+NOC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1S,2S,3R)-3-(6-aminopurin-9-yl)-5-(hydroxymethyl)cyclopentane-1,2-diol"        
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NOC "Create component"  2002-04-23 RCSB 
+NOC "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,137 @@
+data_DPQ
+# 
+_chem_comp.id                                    DPQ 
+_chem_comp.name                                  "(S)-2-AMINO-3-(4-HYDROXY-3-OXOCYCLOHEXA-1,4-DIENYL)PROPANOIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H11 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               TYR 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-05-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        197.188 
+_chem_comp.one_letter_code                       Y 
+_chem_comp.three_letter_code                     DPQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DPQ OE2  OE2  O 0 1 N N N -2.932 -1.264 24.926 3.216  1.709  0.548  OE2  DPQ 1  
+DPQ N    N    N 0 1 N N N -0.630 3.280  25.764 -1.595 1.167  -1.145 N    DPQ 2  
+DPQ CA   CA   C 0 1 N N S -1.299 3.255  27.067 -1.957 -0.052 -0.409 CA   DPQ 3  
+DPQ C    C    C 0 1 N N N -1.089 4.510  27.904 -3.438 -0.048 -0.129 C    DPQ 4  
+DPQ O    O    O 0 1 N N N 0.000  5.081  27.932 -4.057 0.989  -0.165 O    DPQ 5  
+DPQ CB   CB   C 0 1 N N N -0.924 2.097  28.034 -1.188 -0.096 0.913  CB   DPQ 6  
+DPQ CG   CG   C 0 1 N N N -1.022 0.720  27.390 0.287  -0.223 0.632  CG   DPQ 7  
+DPQ CD1  CD1  C 0 1 N N N -0.044 -0.353 27.808 0.854  -1.589 0.407  CD1  DPQ 8  
+DPQ CD2  CD2  C 0 1 N N N -1.994 0.408  26.420 1.020  0.882  0.592  CD2  DPQ 9  
+DPQ CE1  CE1  C 0 1 N N N -0.108 -1.730 27.191 2.203  -1.564 -0.241 CE1  DPQ 10 
+DPQ CE2  CE2  C 0 1 N N N -2.064 -0.968 25.800 2.463  0.785  0.305  CE2  DPQ 11 
+DPQ CZ   CZ   C 0 1 N N N -1.083 -2.015 26.225 2.963  -0.472 -0.287 CZ   DPQ 12 
+DPQ OH   OH   O 0 1 N N N -1.149 -3.133 25.708 4.186  -0.513 -0.879 OH   DPQ 13 
+DPQ OXT  OXT  O 0 1 N Y N -2.146 4.913  28.604 -4.069 -1.197 0.161  OXT  DPQ 14 
+DPQ H    H    H 0 1 N N N -1.316 3.286  25.037 -2.040 1.188  -2.050 H    DPQ 15 
+DPQ HN2  HN2  H 0 1 N N N -0.065 4.102  25.695 -1.821 1.993  -0.612 HN2  DPQ 16 
+DPQ HA   HA   H 0 1 N N N -2.335 3.136  26.717 -1.702 -0.927 -1.007 HA   DPQ 17 
+DPQ HB1  1HB  H 0 1 N N N 0.114  2.248  28.366 -1.374 0.821  1.472  HB1  DPQ 18 
+DPQ HB2  2HB  H 0 1 N N N -1.640 2.121  28.868 -1.522 -0.952 1.499  HB2  DPQ 19 
+DPQ HD11 1HD1 H 0 0 N N N 0.956  0.039  27.569 0.936  -2.098 1.367  HD11 DPQ 20 
+DPQ HD12 2HD1 H 0 0 N N N -0.300 -0.534 28.862 0.170  -2.152 -0.229 HD12 DPQ 21 
+DPQ HE1  HE1  H 0 1 N N N 0.595  -2.492 27.493 2.576  -2.472 -0.691 HE1  DPQ 22 
+DPQ HH   HH   H 0 1 N N N -1.166 -3.045 24.762 4.660  0.330  -0.861 HH   DPQ 23 
+DPQ HD2  HD2  H 0 1 N N N -2.701 1.165  26.114 0.564  1.845  0.767  HD2  DPQ 24 
+DPQ HXT  HXT  H 0 1 N Y N -1.918 5.686  29.106 -5.019 -1.145 0.333  HXT  DPQ 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DPQ OE2 CE2  DOUB N N 1  
+DPQ N   CA   SING N N 2  
+DPQ N   H    SING N N 3  
+DPQ N   HN2  SING N N 4  
+DPQ CA  C    SING N N 5  
+DPQ CA  CB   SING N N 6  
+DPQ CA  HA   SING N N 7  
+DPQ C   O    DOUB N N 8  
+DPQ C   OXT  SING N N 9  
+DPQ CB  CG   SING N N 10 
+DPQ CB  HB1  SING N N 11 
+DPQ CB  HB2  SING N N 12 
+DPQ CG  CD1  SING N N 13 
+DPQ CG  CD2  DOUB N N 14 
+DPQ CD1 CE1  SING N N 15 
+DPQ CD1 HD11 SING N N 16 
+DPQ CD1 HD12 SING N N 17 
+DPQ CD2 CE2  SING N N 18 
+DPQ CD2 HD2  SING N N 19 
+DPQ CE1 CZ   DOUB N N 20 
+DPQ CE1 HE1  SING N N 21 
+DPQ CE2 CZ   SING N N 22 
+DPQ CZ  OH   SING N N 23 
+DPQ OH  HH   SING N N 24 
+DPQ OXT HXT  SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DPQ SMILES           ACDLabs              10.04 "O=C1C=C(CC(C(=O)O)N)CC=C1O"                                                                    
+DPQ SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC1=CC(=O)C(=CC1)O)C(O)=O"                                                             
+DPQ SMILES           CACTVS               3.341 "N[CH](CC1=CC(=O)C(=CC1)O)C(O)=O"                                                               
+DPQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1C=C(C(=O)C=C1C[C@@H](C(=O)O)N)O"                                                             
+DPQ SMILES           "OpenEye OEToolkits" 1.5.0 "C1C=C(C(=O)C=C1CC(C(=O)O)N)O"                                                                  
+DPQ InChI            InChI                1.03  "InChI=1S/C9H11NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h2,4,6,11H,1,3,10H2,(H,13,14)/t6-/m0/s1" 
+DPQ InChIKey         InChI                1.03  WVLZCYURJPAARZ-LURJTMIESA-N                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DPQ "SYSTEMATIC NAME" ACDLabs              10.04 "3-(4-hydroxy-3-oxocyclohexa-1,4-dien-1-yl)-L-alanine"                  
+DPQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(4-hydroxy-3-oxo-1-cyclohexa-1,4-dienyl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DPQ "Create component"  2007-05-11 EBI  
+DPQ "Modify descriptor" 2011-06-04 RCSB 
+# 

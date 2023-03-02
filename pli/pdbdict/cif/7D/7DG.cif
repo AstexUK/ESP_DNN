@@ -1,0 +1,122 @@
+data_7DG
+# 
+_chem_comp.id                                    7DG 
+_chem_comp.name                                  7-DEAZAGUANINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 N4 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.138 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     7DG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IL3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+7DG N9   N9   N 0 1 N N N -1.079 0.558 7.842  1.539  -0.000 -1.769 N9   7DG 1  
+7DG C8   C8   C 0 1 N N N -1.690 0.959 6.711  0.750  -0.000 -2.786 C8   7DG 2  
+7DG C7   C7   C 0 1 N N N -0.753 1.491 5.821  -0.671 0.000  -2.259 C7   7DG 3  
+7DG C5   C5   C 0 1 N N N 0.478  1.389 6.469  -0.479 0.000  -0.762 C5   7DG 4  
+7DG C6   C6   C 0 1 N N N 1.792  1.736 6.128  -1.339 0.001  0.331  C6   7DG 5  
+7DG O6   O6   O 0 1 N N N 2.099  2.252 5.077  -2.550 0.001  0.174  O6   7DG 6  
+7DG N1   N1   N 0 1 N N N 2.765  1.472 7.039  -0.802 -0.004 1.573  N1   7DG 7  
+7DG C2   C2   C 0 1 N N N 2.499  0.897 8.245  0.549  0.000  1.724  C2   7DG 8  
+7DG N2   N2   N 0 1 N N N 3.465  0.636 9.143  1.076  0.000  2.988  N2   7DG 9  
+7DG N3   N3   N 0 1 N N N 1.236  0.564 8.595  1.365  0.000  0.694  N3   7DG 10 
+7DG C4   C4   C 0 1 N N N 0.236  0.806 7.715  0.897  0.000  -0.567 C4   7DG 11 
+7DG H8   H8   H 0 1 N N N -2.776 0.867 6.541  1.046  -0.001 -3.825 H8   7DG 12 
+7DG H71  1H7  H 0 1 N N N -0.770 1.012 4.813  -1.201 -0.896 -2.579 H71  7DG 13 
+7DG H72  2H7  H 0 1 N N N -0.995 2.524 5.480  -1.201 0.897  -2.580 H72  7DG 14 
+7DG HN1  HN1  H 0 1 N N N 3.728  1.714 6.809  -1.379 -0.004 2.353  HN1  7DG 15 
+7DG HN21 1HN2 H 0 0 N N N 3.265  0.205 10.046 2.038  0.000  3.113  HN21 7DG 16 
+7DG HN22 2HN2 H 0 0 N N N 3.967  1.505 9.318  0.488  0.005  3.759  HN22 7DG 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+7DG N9 C8   DOUB N N 1  
+7DG N9 C4   SING N N 2  
+7DG C8 C7   SING N N 3  
+7DG C8 H8   SING N N 4  
+7DG C7 C5   SING N N 5  
+7DG C7 H71  SING N N 6  
+7DG C7 H72  SING N N 7  
+7DG C5 C6   SING N N 8  
+7DG C5 C4   DOUB N N 9  
+7DG C6 O6   DOUB N N 10 
+7DG C6 N1   SING N N 11 
+7DG N1 C2   SING N N 12 
+7DG N1 HN1  SING N N 13 
+7DG C2 N2   SING N N 14 
+7DG C2 N3   DOUB N N 15 
+7DG N2 HN21 SING N N 16 
+7DG N2 HN22 SING N N 17 
+7DG N3 C4   SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+7DG SMILES           ACDLabs              10.04 "O=C2C1=C(N=CC1)N=C(N2)N"                                              
+7DG SMILES_CANONICAL CACTVS               3.341 "NC1=NC2=C(CC=N2)C(=O)N1"                                              
+7DG SMILES           CACTVS               3.341 "NC1=NC2=C(CC=N2)C(=O)N1"                                              
+7DG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1C=NC2=C1C(=O)NC(=N2)N"                                              
+7DG SMILES           "OpenEye OEToolkits" 1.5.0 "C1C=NC2=C1C(=O)NC(=N2)N"                                              
+7DG InChI            InChI                1.03  "InChI=1S/C6H6N4O/c7-6-9-4-3(1-2-8-4)5(11)10-6/h2H,1H2,(H3,7,9,10,11)" 
+7DG InChIKey         InChI                1.03  LOSIULRWFAEMFL-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+7DG "SYSTEMATIC NAME" ACDLabs              10.04 "2-amino-3,5-dihydro-4H-pyrrolo[2,3-d]pyrimidin-4-one" 
+7DG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-amino-3,5-dihydropyrrolo[3,2-e]pyrimidin-4-one"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+7DG "Create component"  2001-05-08 RCSB 
+7DG "Modify descriptor" 2011-06-04 RCSB 
+# 

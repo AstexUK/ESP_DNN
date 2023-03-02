@@ -1,0 +1,122 @@
+data_TLD
+# 
+_chem_comp.id                                    TLD 
+_chem_comp.name                                  4-methylbenzene-1,2-dithiol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Toluene-3,4-dithiol 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-09-25 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        156.268 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TLD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2Z94 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TLD C1   C1   C 0 1 Y N N 18.501 -6.013 26.112 0.488  -1.698 -0.005 C1   TLD 1  
+TLD C2   C2   C 0 1 Y N N 17.774 -5.473 24.926 -0.504 -0.729 -0.019 C2   TLD 2  
+TLD C3   C3   C 0 1 Y N N 17.925 -4.135 24.566 -0.153 0.622  -0.021 C3   TLD 3  
+TLD C4   C4   C 0 1 Y N N 18.810 -3.255 25.375 1.185  0.987  -0.009 C4   TLD 4  
+TLD C5   C5   C 0 1 Y N N 19.465 -3.765 26.460 2.167  0.013  0.004  C5   TLD 5  
+TLD C6   C6   C 0 1 Y N N 19.301 -5.204 26.846 1.819  -1.325 0.006  C6   TLD 6  
+TLD C13  C13  C 0 1 N N N 20.353 -2.875 27.282 3.620  0.412  0.016  C13  TLD 7  
+TLD S15  S15  S 0 1 N N N 16.718 -6.595 23.998 -2.201 -1.202 -0.034 S15  TLD 8  
+TLD S17  S17  S 0 1 N N N 17.064 -3.426 23.155 -1.407 1.860  -0.038 S17  TLD 9  
+TLD H1   H1   H 0 1 N N N 18.389 -7.052 26.386 0.220  -2.745 0.001  H1   TLD 10 
+TLD H4   H4   H 0 1 N N N 18.934 -2.217 25.106 1.460  2.031  -0.011 H4   TLD 11 
+TLD H6   H6   H 0 1 N N N 19.820 -5.595 27.708 2.590  -2.081 0.017  H6   TLD 12 
+TLD H131 1H13 H 0 0 N N N 20.570 -3.361 28.245 3.961  0.512  1.047  H131 TLD 13 
+TLD H132 2H13 H 0 0 N N N 21.294 -2.696 26.741 4.211  -0.352 -0.489 H132 TLD 14 
+TLD H133 3H13 H 0 0 N N N 19.845 -1.916 27.462 3.740  1.364  -0.501 H133 TLD 15 
+TLD HS15 HS15 H 0 0 N N N 16.463 -6.085 22.830 -2.506 -1.278 1.274  HS15 TLD 16 
+TLD HS17 HS17 H 0 0 N N N 15.810 -3.255 23.453 -1.635 2.079  1.269  HS17 TLD 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TLD C1  C2   DOUB Y N 1  
+TLD C1  C6   SING Y N 2  
+TLD C2  C3   SING Y N 3  
+TLD C2  S15  SING N N 4  
+TLD C3  C4   DOUB Y N 5  
+TLD C3  S17  SING N N 6  
+TLD C4  C5   SING Y N 7  
+TLD C5  C6   DOUB Y N 8  
+TLD C5  C13  SING N N 9  
+TLD C1  H1   SING N N 10 
+TLD C4  H4   SING N N 11 
+TLD C6  H6   SING N N 12 
+TLD C13 H131 SING N N 13 
+TLD C13 H132 SING N N 14 
+TLD C13 H133 SING N N 15 
+TLD S15 HS15 SING N N 16 
+TLD S17 HS17 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TLD SMILES           ACDLabs              10.04 "Sc1ccc(cc1S)C"                                      
+TLD SMILES_CANONICAL CACTVS               3.341 "Cc1ccc(S)c(S)c1"                                    
+TLD SMILES           CACTVS               3.341 "Cc1ccc(S)c(S)c1"                                    
+TLD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1ccc(c(c1)S)S"                                    
+TLD SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1ccc(c(c1)S)S"                                    
+TLD InChI            InChI                1.03  "InChI=1S/C7H8S2/c1-5-2-3-6(8)7(9)4-5/h2-4,8-9H,1H3" 
+TLD InChIKey         InChI                1.03  NIAAGQAEVGMHPM-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TLD "SYSTEMATIC NAME" ACDLabs              10.04 4-methylbenzene-1,2-dithiol 
+TLD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-methylbenzene-1,2-dithiol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TLD "Create component"     2007-09-25 RCSB 
+TLD "Modify aromatic_flag" 2011-06-04 RCSB 
+TLD "Modify descriptor"    2011-06-04 RCSB 
+# 

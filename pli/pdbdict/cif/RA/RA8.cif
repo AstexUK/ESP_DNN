@@ -1,0 +1,235 @@
+data_RA8
+# 
+_chem_comp.id                                    RA8 
+_chem_comp.name                                  "N-(BENZYLSULFONYL)-L-LEUCYL-N-(4-{[AMINO(IMINO)METHYL]AMINO}BUTYL)-L-PROLINAMIDE" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C23 H38 N6 O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "1-GUANIDINO-4-(N-PHENYLMETHANESULFONYL-L-LEUCYL-L-PROLYLAMINO)BUTANE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-02-03 
+_chem_comp.pdbx_modified_date                    2012-05-31 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        494.651 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RA8 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1YPL 
+_chem_comp.pdbx_subcomponent_list                "PMS LEU PRO AG2" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RA8 C27  C27  C 0 1 N N N 18.593 -15.568 26.362 4.546   1.147  -0.438 C    PMS 1  
+RA8 S26  S26  S 0 1 N N N 17.854 -16.682 25.150 4.247   0.451  1.211  S    PMS 2  
+RA8 C30  C30  C 0 1 Y N N 19.836 -14.898 25.795 5.989   1.565  -0.553 C1   PMS 3  
+RA8 C31  C31  C 0 1 Y N N 20.965 -15.649 25.456 6.934   0.667  -1.014 C2   PMS 4  
+RA8 C32  C32  C 0 1 Y N N 22.096 -15.016 24.934 8.258   1.050  -1.120 C3   PMS 5  
+RA8 C33  C33  C 0 1 Y N N 22.100 -13.628 24.755 8.637   2.331  -0.764 C4   PMS 6  
+RA8 C34  C34  C 0 1 Y N N 20.960 -12.888 25.087 7.692   3.229  -0.303 C5   PMS 7  
+RA8 C35  C35  C 0 1 Y N N 19.838 -13.513 25.621 6.368   2.847  -0.202 C6   PMS 8  
+RA8 O15  O15  O 0 1 N N N 16.712 -17.262 25.825 4.343   1.462  2.204  O2S  PMS 9  
+RA8 O29  O29  O 0 1 N N N 18.890 -17.516 24.586 4.927   -0.789 1.359  O1S  PMS 10 
+RA8 N25  N25  N 0 1 N N N 17.387 -15.709 24.098 2.643   0.038  1.200  N    LEU 11 
+RA8 C19  C19  C 0 1 N N S 17.890 -15.341 22.823 2.148   -0.955 0.244  CA   LEU 12 
+RA8 C18  C18  C 0 1 N N N 17.873 -13.960 22.730 0.783   -0.544 -0.245 C    LEU 13 
+RA8 O24  O24  O 0 1 N N N 16.811 -13.401 22.966 0.157   0.308  0.349  O    LEU 14 
+RA8 C20  C20  C 0 1 N N N 17.383 -16.175 21.641 2.056   -2.320 0.928  CB   LEU 15 
+RA8 C21  C21  C 0 1 N N N 17.540 -17.688 21.880 1.256   -2.188 2.225  CG   LEU 16 
+RA8 C22  C22  C 0 1 N N N 17.516 -18.420 20.532 1.512   -3.410 3.110  CD1  LEU 17 
+RA8 C23  C23  C 0 1 N N N 16.364 -18.186 22.753 -0.236  -2.099 1.898  CD2  LEU 18 
+RA8 N16  N16  N 0 1 N N N 18.631 -13.427 21.740 0.257   -1.125 -1.342 N    PRO 19 
+RA8 C11  C11  C 0 1 N N S 18.407 -12.060 21.295 -1.003  -0.741 -1.994 CA   PRO 20 
+RA8 C5   C5   C 0 1 N N N 17.085 -11.983 20.570 -2.153  -0.930 -1.037 C    PRO 21 
+RA8 O12  O12  O 0 1 N N N 16.745 -12.906 19.838 -2.048  -1.703 -0.109 O    PRO 22 
+RA8 C13  C13  C 0 1 N N N 19.678 -11.868 20.265 -1.184  -1.661 -3.220 CB   PRO 23 
+RA8 C14  C14  C 0 1 N N N 20.776 -12.913 20.584 0.264   -2.133 -3.516 CG   PRO 24 
+RA8 C17  C17  C 0 1 N N N 20.122 -13.952 21.536 0.851   -2.250 -2.087 CD   PRO 25 
+RA8 N10  N10  N 0 1 N N N 16.441 -10.631 20.515 -3.297  -0.240 -1.214 N    AG2 26 
+RA8 C9   C9   C 0 1 N N N 15.126 -10.724 19.856 -4.414  -0.424 -0.285 CA   AG2 27 
+RA8 C8   C8   C 0 1 N N N 14.140 -9.929  20.752 -5.582  0.469  -0.708 CB   AG2 28 
+RA8 C7   C7   C 0 1 N N N 13.407 -10.915 21.670 -6.749  0.277  0.263  CG   AG2 29 
+RA8 C6   C6   C 0 1 N N N 12.327 -10.148 22.476 -7.917  1.170  -0.161 CD   AG2 30 
+RA8 N4   N4   N 0 1 N N N 11.637 -11.139 23.254 -9.034  0.986  0.769  NE   AG2 31 
+RA8 C2   C2   C 0 1 N N N 10.773 -10.753 24.089 -10.202 1.689  0.589  CZ   AG2 32 
+RA8 N1   N1   N 0 1 N N N 10.595 -9.571  24.535 -10.314 2.520  -0.409 NH1  AG2 33 
+RA8 N3   N3   N 0 1 N N N 10.175 -11.704 24.707 -11.250 1.517  1.461  NH2  AG2 34 
+RA8 H271 H271 H 0 0 N N N 17.860 -14.794 26.631 4.324   0.396  -1.195 H2A  PMS 35 
+RA8 H272 H272 H 0 0 N N N 18.873 -16.145 27.255 3.903   2.015  -0.587 H1   PMS 36 
+RA8 H31  H31  H 0 1 N N N 20.963 -16.720 25.598 6.637   -0.334 -1.292 H2   PMS 37 
+RA8 H32  H32  H 0 1 N N N 22.967 -15.598 24.669 8.996   0.349  -1.480 H3   PMS 38 
+RA8 H33  H33  H 0 1 N N N 22.976 -13.132 24.364 9.672   2.630  -0.845 H4   PMS 39 
+RA8 H34  H34  H 0 1 N N N 20.951 -11.820 24.927 7.989   4.229  -0.024 H5   PMS 40 
+RA8 H35  H35  H 0 1 N N N 18.973 -12.930 25.900 5.629   3.549  0.155  H6   PMS 41 
+RA8 H25  H25  H 0 1 N N N 17.405 -14.839 24.591 2.032   0.454  1.828  H    LEU 42 
+RA8 H19  H19  H 0 1 N N N 18.946 -15.635 22.732 2.833   -1.018 -0.602 HA   LEU 43 
+RA8 H201 H201 H 0 0 N N N 16.316 -15.954 21.490 1.557   -3.026 0.264  HB2  LEU 44 
+RA8 H202 H202 H 0 0 N N N 17.962 -15.901 20.747 3.059   -2.682 1.155  HB3  LEU 45 
+RA8 H21  H21  H 0 1 N N N 18.494 -17.887 22.390 1.566   -1.286 2.753  HG   LEU 46 
+RA8 H221 H221 H 0 0 N N N 17.628 -19.501 20.699 2.575   -3.473 3.343  HD11 LEU 47 
+RA8 H222 H222 H 0 0 N N N 16.559 -18.225 20.026 0.942   -3.315 4.034  HD12 LEU 48 
+RA8 H223 H223 H 0 0 N N N 18.344 -18.059 19.904 1.202   -4.312 2.582  HD13 LEU 49 
+RA8 H231 H231 H 0 0 N N N 16.469 -19.267 22.928 -0.488  -2.847 1.146  HD21 LEU 50 
+RA8 H232 H232 H 0 0 N N N 16.373 -17.656 23.717 -0.818  -2.282 2.801  HD22 LEU 51 
+RA8 H233 H233 H 0 0 N N N 15.414 -17.989 22.235 -0.465  -1.106 1.513  HD23 LEU 52 
+RA8 H11  H11  H 0 1 N N N 18.358 -11.297 22.086 -0.954  0.300  -2.312 HA   PRO 53 
+RA8 H131 H131 H 0 0 N N N 19.332 -12.007 19.230 -1.824  -2.508 -2.975 HB2  PRO 54 
+RA8 H132 H132 H 0 0 N N N 20.093 -10.856 20.383 -1.588  -1.102 -4.064 HB3  PRO 55 
+RA8 H141 H141 H 0 0 N N N 21.638 -12.432 21.070 0.805   -1.390 -4.102 HG2  PRO 56 
+RA8 H142 H142 H 0 0 N N N 21.126 -13.400 19.662 0.264   -3.100 -4.018 HG3  PRO 57 
+RA8 H171 H171 H 0 0 N N N 20.659 -14.004 22.495 1.937   -2.155 -2.115 HD2  PRO 58 
+RA8 H172 H172 H 0 0 N N N 20.131 -14.958 21.091 0.563   -3.198 -1.635 HD3  PRO 59 
+RA8 H10  H10  H 0 1 N N N 16.844 -9.789  20.873 -3.381  0.378  -1.957 HN1  AG2 60 
+RA8 H91  H91  H 0 1 N N N 14.810 -11.774 19.769 -4.097  -0.154 0.723  HA1  AG2 61 
+RA8 H92  H92  H 0 1 N N N 15.167 -10.291 18.846 -4.731  -1.467 -0.299 HA2  AG2 62 
+RA8 H81  H81  H 0 1 N N N 13.412 -9.397  20.122 -5.899  0.199  -1.715 HB1  AG2 63 
+RA8 H82  H82  H 0 1 N N N 14.696 -9.199  21.359 -5.266  1.512  -0.694 HB2  AG2 64 
+RA8 H71  H71  H 0 1 N N N 14.125 -11.378 22.363 -6.432  0.547  1.270  HG1  AG2 65 
+RA8 H72  H72  H 0 1 N N N 12.929 -11.698 21.064 -7.065  -0.766 0.249  HG2  AG2 66 
+RA8 H61  H61  H 0 1 N N N 11.630 -9.632  21.799 -8.234  0.900  -1.168 HD1  AG2 67 
+RA8 H62  H62  H 0 1 N N N 12.792 -9.396  23.130 -7.601  2.213  -0.147 HD2  AG2 68 
+RA8 HN4  HN4  H 0 1 N N N 11.837 -12.112 23.137 -8.950  0.368  1.512  HE1  AG2 69 
+RA8 HN1  HN1  H 0 1 N N N 11.244 -8.920  24.141 -9.575  2.642  -1.025 HH11 AG2 70 
+RA8 HN31 HN31 H 0 0 N N N 10.410 -12.655 24.508 -12.074 2.013  1.334  HH21 AG2 71 
+RA8 HN32 HN32 H 0 0 N N N 9.474  -11.494 25.388 -11.166 0.899  2.204  HH22 AG2 72 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RA8 N1  C2   DOUB N N 1  
+RA8 N1  HN1  SING N N 2  
+RA8 C2  N3   SING N N 3  
+RA8 C2  N4   SING N N 4  
+RA8 N3  HN31 SING N N 5  
+RA8 N3  HN32 SING N N 6  
+RA8 N4  C6   SING N N 7  
+RA8 N4  HN4  SING N N 8  
+RA8 C6  C7   SING N N 9  
+RA8 C6  H61  SING N N 10 
+RA8 C6  H62  SING N N 11 
+RA8 C7  C8   SING N N 12 
+RA8 C7  H71  SING N N 13 
+RA8 C7  H72  SING N N 14 
+RA8 C8  C9   SING N N 15 
+RA8 C8  H81  SING N N 16 
+RA8 C8  H82  SING N N 17 
+RA8 C9  N10  SING N N 18 
+RA8 C9  H91  SING N N 19 
+RA8 C9  H92  SING N N 20 
+RA8 N10 C5   SING N N 21 
+RA8 N10 H10  SING N N 22 
+RA8 C5  O12  DOUB N N 23 
+RA8 C5  C11  SING N N 24 
+RA8 C11 N16  SING N N 25 
+RA8 C11 C13  SING N N 26 
+RA8 C11 H11  SING N N 27 
+RA8 N16 C18  SING N N 28 
+RA8 N16 C17  SING N N 29 
+RA8 C18 O24  DOUB N N 30 
+RA8 C18 C19  SING N N 31 
+RA8 C19 N25  SING N N 32 
+RA8 C19 C20  SING N N 33 
+RA8 C19 H19  SING N N 34 
+RA8 N25 S26  SING N N 35 
+RA8 N25 H25  SING N N 36 
+RA8 S26 O15  DOUB N N 37 
+RA8 S26 O29  DOUB N N 38 
+RA8 S26 C27  SING N N 39 
+RA8 C27 C30  SING N N 40 
+RA8 C27 H271 SING N N 41 
+RA8 C27 H272 SING N N 42 
+RA8 C20 C21  SING N N 43 
+RA8 C20 H201 SING N N 44 
+RA8 C20 H202 SING N N 45 
+RA8 C21 C23  SING N N 46 
+RA8 C21 C22  SING N N 47 
+RA8 C21 H21  SING N N 48 
+RA8 C23 H231 SING N N 49 
+RA8 C23 H232 SING N N 50 
+RA8 C23 H233 SING N N 51 
+RA8 C22 H221 SING N N 52 
+RA8 C22 H222 SING N N 53 
+RA8 C22 H223 SING N N 54 
+RA8 C17 C14  SING N N 55 
+RA8 C17 H171 SING N N 56 
+RA8 C17 H172 SING N N 57 
+RA8 C13 C14  SING N N 58 
+RA8 C13 H131 SING N N 59 
+RA8 C13 H132 SING N N 60 
+RA8 C14 H141 SING N N 61 
+RA8 C14 H142 SING N N 62 
+RA8 C30 C31  DOUB Y N 63 
+RA8 C30 C35  SING Y N 64 
+RA8 C31 C32  SING Y N 65 
+RA8 C31 H31  SING N N 66 
+RA8 C32 C33  DOUB Y N 67 
+RA8 C32 H32  SING N N 68 
+RA8 C33 C34  SING Y N 69 
+RA8 C33 H33  SING N N 70 
+RA8 C34 C35  DOUB Y N 71 
+RA8 C34 H34  SING N N 72 
+RA8 C35 H35  SING N N 73 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RA8 SMILES           ACDLabs              12.01 "O=C(NCCCCNC(=[N@H])N)C2N(C(=O)C(NS(=O)(=O)Cc1ccccc1)CC(C)C)CCC2"                                                                                                                                         
+RA8 InChI            InChI                1.03  "InChI=1S/C23H38N6O4S/c1-17(2)15-19(28-34(32,33)16-18-9-4-3-5-10-18)22(31)29-14-8-11-20(29)21(30)26-12-6-7-13-27-23(24)25/h3-5,9-10,17,19-20,28H,6-8,11-16H2,1-2H3,(H,26,30)(H4,24,25,27)/t19-,20-/m0/s1" 
+RA8 InChIKey         InChI                1.03  DSVCYWOHJLRGMK-PMACEKPBSA-N                                                                                                                                                                               
+RA8 SMILES_CANONICAL CACTVS               3.385 "CC(C)C[C@H](N[S](=O)(=O)Cc1ccccc1)C(=O)N2CCC[C@H]2C(=O)NCCCCNC(N)=N"                                                                                                                                     
+RA8 SMILES           CACTVS               3.385 "CC(C)C[CH](N[S](=O)(=O)Cc1ccccc1)C(=O)N2CCC[CH]2C(=O)NCCCCNC(N)=N"                                                                                                                                       
+RA8 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "[H]/N=C(/N)\NCCCCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CC(C)C)NS(=O)(=O)Cc2ccccc2"                                                                                                                                
+RA8 SMILES           "OpenEye OEToolkits" 1.7.5 "CC(C)CC(C(=O)N1CCCC1C(=O)NCCCCNC(=N)N)NS(=O)(=O)Cc2ccccc2"                                                                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RA8 "SYSTEMATIC NAME" ACDLabs              12.01 "N-(benzylsulfonyl)-L-leucyl-N-(4-carbamimidamidobutyl)-L-prolinamide"                                              
+RA8 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-N-(4-carbamimidamidobutyl)-1-[(2S)-4-methyl-2-(phenylmethylsulfonylamino)pentanoyl]pyrrolidine-2-carboxamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RA8 "Create component"         2005-02-03 RCSB 
+RA8 "Modify subcomponent list" 2011-02-24 RCSB 
+RA8 "Modify descriptor"        2011-06-04 RCSB 
+RA8 "Modify descriptor"        2012-01-05 RCSB 
+RA8 "Modify subcomponent list" 2012-05-31 RCSB 
+# 

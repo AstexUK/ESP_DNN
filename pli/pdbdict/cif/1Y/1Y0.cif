@@ -1,0 +1,265 @@
+data_1Y0
+# 
+_chem_comp.id                                    1Y0 
+_chem_comp.name                                  
+;
+
+(4S,6aR,7aS)-5-{(2S)-2-cyclohexyl-2-[(N-methyl-L-alanyl)amino]acetyl}-N-[(4R)-3,4-dihydro-2H-chromen-4-yl]octahydro-1H-cyclopropa[4,5]pyrrolo[1,2-a]pyrazine-4-carboxamide
+
+;
+_chem_comp.type                                  PEPTIDE-LIKE 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C30 H43 N5 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-07-30 
+_chem_comp.pdbx_modified_date                    2013-08-23 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        537.694 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1Y0 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4LGE 
+_chem_comp.pdbx_subcomponent_list                "MAA CHG 1XW 1XY" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1Y0 N2  N2  N 0 1 N N N -22.955 6.451  -10.469 7.030  -0.725 1.153  N   MAA 1  
+1Y0 C1  C1  C 0 1 N N N -24.410 6.274  -10.276 7.996  -1.753 1.566  CM  MAA 2  
+1Y0 C3  C3  C 0 1 N N S -22.547 7.826  -10.813 5.670  -1.079 1.578  CA  MAA 3  
+1Y0 C5  C5  C 0 1 N N N -21.027 7.966  -10.711 5.448  -0.615 3.019  CB  MAA 4  
+1Y0 C6  C6  C 0 1 N N N -23.008 8.205  -12.194 4.670  -0.406 0.674  C   MAA 5  
+1Y0 O7  O7  O 0 1 N N N -23.322 7.335  -13.011 5.053  0.300  -0.235 O   MAA 6  
+1Y0 N8  N8  N 0 1 N N N -23.120 9.498  -12.480 3.350  -0.588 0.875  N   CHG 7  
+1Y0 C9  C9  C 0 1 N N S -23.571 10.007 -13.770 2.378  0.066  -0.004 CA  CHG 8  
+1Y0 C17 C17 C 0 1 N N N -22.485 10.938 -14.289 1.071  0.234  0.728  C   CHG 9  
+1Y0 O18 O18 O 0 1 N N N -21.639 11.382 -13.496 0.827  -0.452 1.698  O   CHG 10 
+1Y0 C11 C11 C 0 1 N N N -24.930 10.783 -13.685 2.157  -0.793 -1.251 C1  CHG 11 
+1Y0 C12 C12 C 0 1 N N N -24.729 12.080 -12.863 1.754  -2.208 -0.829 C2  CHG 12 
+1Y0 C13 C13 C 0 1 N N N -26.088 12.805 -12.713 1.534  -3.068 -2.076 C3  CHG 13 
+1Y0 C14 C14 C 0 1 N N N -27.095 11.873 -12.035 2.828  -3.127 -2.890 C4  CHG 14 
+1Y0 C15 C15 C 0 1 N N N -27.333 10.618 -12.904 3.230  -1.712 -3.311 C5  CHG 15 
+1Y0 C16 C16 C 0 1 N N N -26.009 9.844  -13.107 3.451  -0.853 -2.065 C6  CHG 16 
+1Y0 N19 N19 N 0 1 N N N -22.365 11.243 -15.597 0.174  1.146  0.305  N19 1XW 17 
+1Y0 C20 C20 C 0 1 N N N -23.380 10.810 -16.631 0.415  1.904  -0.939 C20 1XW 18 
+1Y0 C21 C21 C 0 1 N N R -22.718 10.615 -17.986 0.209  3.379  -0.601 C21 1XW 19 
+1Y0 C23 C23 C 0 1 N N N -23.715 10.430 -19.158 0.196  4.282  -1.848 C23 1XW 20 
+1Y0 C24 C24 C 0 1 N N S -22.855 10.913 -20.359 -0.649 5.493  -1.363 C24 1XW 21 
+1Y0 C26 C26 C 0 1 N N N -21.390 10.454 -20.435 -0.407 5.998  0.063  C26 1XW 22 
+1Y0 C27 C27 C 0 1 N N S -21.746 11.819 -19.773 -1.490 4.949  -0.184 C27 1XW 23 
+1Y0 N28 N28 N 0 1 N N N -22.031 11.895 -18.340 -1.174 3.519  -0.073 N28 1XW 24 
+1Y0 C29 C29 C 0 1 N N N -20.864 12.061 -17.477 -1.290 2.920  1.250  C29 1XW 25 
+1Y0 C30 C30 C 0 1 N N S -21.324 12.201 -16.005 -1.053 1.389  1.075  C30 1XW 26 
+1Y0 C32 C32 C 0 1 N N N -21.818 13.590 -15.690 -2.211 0.786  0.322  C32 1XW 27 
+1Y0 O33 O33 O 0 1 N N N -23.018 13.820 -15.515 -2.109 0.557  -0.864 O33 1XW 28 
+1Y0 N34 N34 N 0 1 N N N -20.863 14.520 -15.581 -3.359 0.501  0.967  N34 1XY 29 
+1Y0 C35 C35 C 0 1 N N R -21.144 15.911 -15.208 -4.484 -0.085 0.235  C35 1XY 30 
+1Y0 C37 C37 C 0 1 N N N -21.557 16.671 -16.484 -5.793 0.257  0.953  C37 1XY 31 
+1Y0 C38 C38 C 0 1 N N N -20.327 17.233 -17.220 -6.912 -0.601 0.349  C38 1XY 32 
+1Y0 O39 O39 O 0 1 N N N -19.570 18.064 -16.305 -6.635 -1.971 0.640  O39 1XY 33 
+1Y0 C40 C40 C 0 1 Y N N -19.222 17.534 -15.087 -5.387 -2.437 0.372  C40 1XY 34 
+1Y0 C41 C41 C 0 1 Y N N -18.102 18.054 -14.415 -5.193 -3.813 0.301  C41 1XY 35 
+1Y0 C42 C42 C 0 1 Y N N -17.712 17.538 -13.178 -3.939 -4.325 0.036  C42 1XY 36 
+1Y0 C43 C43 C 0 1 Y N N -18.398 16.490 -12.610 -2.871 -3.468 -0.159 C43 1XY 37 
+1Y0 C44 C44 C 0 1 Y N N -19.503 15.984 -13.273 -3.060 -2.102 -0.091 C44 1XY 38 
+1Y0 C45 C45 C 0 1 Y N N -19.922 16.497 -14.504 -4.317 -1.582 0.173  C45 1XY 39 
+1Y0 H1  H1  H 0 1 N N N -22.662 5.844  -11.208 7.070  -0.572 0.157  H   MAA 40 
+1Y0 H3  H3  H 0 1 N N N -24.622 5.224  -10.024 7.982  -1.848 2.652  HM1 MAA 41 
+1Y0 H4  H4  H 0 1 N N N -24.753 6.924  -9.457  7.726  -2.707 1.114  HM2 MAA 42 
+1Y0 H5  H5  H 0 1 N N N -24.938 6.542  -11.203 8.995  -1.465 1.239  HM3 MAA 43 
+1Y0 H6  H6  H 0 1 N N N -23.003 8.521  -10.092 5.541  -2.160 1.521  HA  MAA 44 
+1Y0 H7  H7  H 0 1 N N N -20.700 7.687  -9.699  5.576  0.466  3.076  HB1 MAA 45 
+1Y0 H8  H8  H 0 1 N N N -20.548 7.304  -11.447 4.438  -0.878 3.334  HB2 MAA 46 
+1Y0 H9  H9  H 0 1 N N N -20.740 9.008  -10.915 6.171  -1.102 3.673  HB3 MAA 47 
+1Y0 H10 H10 H 0 1 N N N -22.881 10.160 -11.770 3.043  -1.153 1.602  HN  CHG 48 
+1Y0 H11 H11 H 0 1 N N N -23.693 9.173  -14.477 2.756  1.045  -0.300 HA  CHG 49 
+1Y0 H12 H12 H 0 1 N N N -25.227 11.064 -14.706 1.365  -0.356 -1.858 H1  CHG 50 
+1Y0 H21 H21 H 0 1 N N N -24.335 11.827 -11.867 2.546  -2.646 -0.222 H2  CHG 51 
+1Y0 H22 H22 H 0 1 N N N -24.017 12.738 -13.383 0.832  -2.166 -0.249 H2A CHG 52 
+1Y0 H19 H19 H 0 1 N N N -25.955 13.709 -12.100 1.247  -4.076 -1.776 H3  CHG 53 
+1Y0 H20 H20 H 0 1 N N N -26.463 13.088 -13.707 0.742  -2.630 -2.683 H3A CHG 54 
+1Y0 H17 H17 H 0 1 N N N -28.048 12.406 -11.898 3.620  -3.565 -2.282 H4  CHG 55 
+1Y0 H18 H18 H 0 1 N N N -26.702 11.566 -11.054 2.671  -3.740 -3.778 H4A CHG 56 
+1Y0 H15 H15 H 0 1 N N N -27.727 10.925 -13.884 4.152  -1.755 -3.891 H5  CHG 57 
+1Y0 H16 H16 H 0 1 N N N -28.062 9.964  -12.404 2.438  -1.275 -3.919 H5A CHG 58 
+1Y0 H13 H13 H 0 1 N N N -26.178 9.011  -13.805 3.738  0.155  -2.365 H6  CHG 59 
+1Y0 H14 H14 H 0 1 N N N -25.667 9.448  -12.139 4.243  -1.290 -1.457 H6A CHG 60 
+1Y0 H23 H23 H 0 1 N N N -24.159 11.582 -16.718 1.435  1.740  -1.285 H23 1XW 61 
+1Y0 H24 H24 H 0 1 N N N -23.837 9.862  -16.313 -0.294 1.594  -1.708 H24 1XW 62 
+1Y0 H25 H25 H 0 1 N N N -22.005 9.778  -17.955 0.947  3.721  0.125  H25 1XW 63 
+1Y0 H26 H26 H 0 1 N N N -24.612 11.053 -19.027 1.206  4.594  -2.114 H26 1XW 64 
+1Y0 H27 H27 H 0 1 N N N -24.013 9.377  -19.272 -0.288 3.780  -2.687 H27 1XW 65 
+1Y0 H28 H28 H 0 1 N N N -23.365 11.227 -21.282 -1.064 6.155  -2.122 H28 1XW 66 
+1Y0 H29 H29 H 0 1 N N N -21.043 9.615  -19.814 0.504  5.671  0.564  H29 1XW 67 
+1Y0 H30 H30 H 0 1 N N N -20.870 10.432 -21.404 -0.734 7.011  0.298  H30 1XW 68 
+1Y0 H31 H31 H 0 1 N N N -21.488 12.735 -20.324 -2.533 5.242  -0.062 H31 1XW 69 
+1Y0 H33 H33 H 0 1 N N N -20.209 11.183 -17.574 -0.532 3.339  1.913  H33 1XW 70 
+1Y0 H34 H34 H 0 1 N N N -20.313 12.965 -17.776 -2.283 3.111  1.656  H34 1XW 71 
+1Y0 H35 H35 H 0 1 N N N -20.439 12.020 -15.377 -0.975 0.920  2.056  H35 1XW 72 
+1Y0 H36 H36 H 0 1 N N N -19.916 14.256 -15.762 -3.441 0.684  1.916  H36 1XY 73 
+1Y0 H37 H37 H 0 1 N N N -21.991 15.932 -14.507 -4.510 0.319  -0.776 H37 1XY 74 
+1Y0 H38 H38 H 0 1 N N N -22.221 17.503 -16.207 -5.696 0.041  2.016  H38 1XY 75 
+1Y0 H39 H39 H 0 1 N N N -22.093 15.983 -17.154 -6.023 1.314  0.812  H39 1XY 76 
+1Y0 H40 H40 H 0 1 N N N -19.697 16.403 -17.572 -7.869 -0.318 0.789  H40 1XY 77 
+1Y0 H41 H41 H 0 1 N N N -20.655 17.835 -18.080 -6.946 -0.454 -0.730 H41 1XY 78 
+1Y0 H42 H42 H 0 1 N N N -17.538 18.860 -14.860 -6.027 -4.483 0.453  H42 1XY 79 
+1Y0 H43 H43 H 0 1 N N N -16.864 17.965 -12.663 -3.792 -5.393 -0.019 H43 1XY 80 
+1Y0 H44 H44 H 0 1 N N N -18.081 16.071 -11.667 -1.889 -3.868 -0.365 H44 1XY 81 
+1Y0 H45 H45 H 0 1 N N N -20.056 15.171 -12.827 -2.225 -1.435 -0.244 H45 1XY 82 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1Y0 C26 C24 SING N N 1  
+1Y0 C26 C27 SING N N 2  
+1Y0 C24 C27 SING N N 3  
+1Y0 C24 C23 SING N N 4  
+1Y0 C27 N28 SING N N 5  
+1Y0 C23 C21 SING N N 6  
+1Y0 N28 C21 SING N N 7  
+1Y0 N28 C29 SING N N 8  
+1Y0 C21 C20 SING N N 9  
+1Y0 C29 C30 SING N N 10 
+1Y0 C38 C37 SING N N 11 
+1Y0 C38 O39 SING N N 12 
+1Y0 C20 N19 SING N N 13 
+1Y0 C37 C35 SING N N 14 
+1Y0 O39 C40 SING N N 15 
+1Y0 C30 C32 SING N N 16 
+1Y0 C30 N19 SING N N 17 
+1Y0 C32 N34 SING N N 18 
+1Y0 C32 O33 DOUB N N 19 
+1Y0 N19 C17 SING N N 20 
+1Y0 N34 C35 SING N N 21 
+1Y0 C35 C45 SING N N 22 
+1Y0 C40 C45 DOUB Y N 23 
+1Y0 C40 C41 SING Y N 24 
+1Y0 C45 C44 SING Y N 25 
+1Y0 C41 C42 DOUB Y N 26 
+1Y0 C17 C9  SING N N 27 
+1Y0 C17 O18 DOUB N N 28 
+1Y0 C9  C11 SING N N 29 
+1Y0 C9  N8  SING N N 30 
+1Y0 C11 C16 SING N N 31 
+1Y0 C11 C12 SING N N 32 
+1Y0 C44 C43 DOUB Y N 33 
+1Y0 C42 C43 SING Y N 34 
+1Y0 C16 C15 SING N N 35 
+1Y0 O7  C6  DOUB N N 36 
+1Y0 C15 C14 SING N N 37 
+1Y0 C12 C13 SING N N 38 
+1Y0 C13 C14 SING N N 39 
+1Y0 N8  C6  SING N N 40 
+1Y0 C6  C3  SING N N 41 
+1Y0 C3  C5  SING N N 42 
+1Y0 C3  N2  SING N N 43 
+1Y0 N2  C1  SING N N 44 
+1Y0 N2  H1  SING N N 45 
+1Y0 C1  H3  SING N N 46 
+1Y0 C1  H4  SING N N 47 
+1Y0 C1  H5  SING N N 48 
+1Y0 C3  H6  SING N N 49 
+1Y0 C5  H7  SING N N 50 
+1Y0 C5  H8  SING N N 51 
+1Y0 C5  H9  SING N N 52 
+1Y0 N8  H10 SING N N 53 
+1Y0 C9  H11 SING N N 54 
+1Y0 C11 H12 SING N N 55 
+1Y0 C16 H13 SING N N 56 
+1Y0 C16 H14 SING N N 57 
+1Y0 C15 H15 SING N N 58 
+1Y0 C15 H16 SING N N 59 
+1Y0 C14 H17 SING N N 60 
+1Y0 C14 H18 SING N N 61 
+1Y0 C13 H19 SING N N 62 
+1Y0 C13 H20 SING N N 63 
+1Y0 C12 H21 SING N N 64 
+1Y0 C12 H22 SING N N 65 
+1Y0 C20 H23 SING N N 66 
+1Y0 C20 H24 SING N N 67 
+1Y0 C21 H25 SING N N 68 
+1Y0 C23 H26 SING N N 69 
+1Y0 C23 H27 SING N N 70 
+1Y0 C24 H28 SING N N 71 
+1Y0 C26 H29 SING N N 72 
+1Y0 C26 H30 SING N N 73 
+1Y0 C27 H31 SING N N 74 
+1Y0 C29 H33 SING N N 75 
+1Y0 C29 H34 SING N N 76 
+1Y0 C30 H35 SING N N 77 
+1Y0 N34 H36 SING N N 78 
+1Y0 C35 H37 SING N N 79 
+1Y0 C37 H38 SING N N 80 
+1Y0 C37 H39 SING N N 81 
+1Y0 C38 H40 SING N N 82 
+1Y0 C38 H41 SING N N 83 
+1Y0 C41 H42 SING N N 84 
+1Y0 C42 H43 SING N N 85 
+1Y0 C43 H44 SING N N 86 
+1Y0 C44 H45 SING N N 87 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1Y0 SMILES           ACDLabs              12.01 "O=C(NC(C(=O)N3CC2N(C1CC1C2)CC3C(=O)NC4c5c(OCC4)cccc5)C6CCCCC6)C(NC)C" 
+1Y0 InChI            InChI                1.03  
+"InChI=1S/C30H43N5O4/c1-18(31-2)28(36)33-27(19-8-4-3-5-9-19)30(38)35-16-21-14-20-15-24(20)34(21)17-25(35)29(37)32-23-12-13-39-26-11-7-6-10-22(23)26/h6-7,10-11,18-21,23-25,27,31H,3-5,8-9,12-17H2,1-2H3,(H,32,37)(H,33,36)/t18-,20+,21+,23+,24-,25-,27-/m0/s1" 
+1Y0 InChIKey         InChI                1.03  OGTGKCOHYGILPQ-BBAYRLSSSA-N 
+1Y0 SMILES_CANONICAL CACTVS               3.385 "CN[C@@H](C)C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H]3C[C@@H]4C[C@@H]4N3C[C@H]2C(=O)N[C@@H]5CCOc6ccccc56" 
+1Y0 SMILES           CACTVS               3.385 "CN[CH](C)C(=O)N[CH](C1CCCCC1)C(=O)N2C[CH]3C[CH]4C[CH]4N3C[CH]2C(=O)N[CH]5CCOc6ccccc56" 
+1Y0 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@@H](C(=O)N[C@@H](C1CCCCC1)C(=O)N2C[C@H]3C[C@@H]4C[C@@H]4N3C[C@H]2C(=O)N[C@@H]5CCOc6c5cccc6)NC" 
+1Y0 SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C(=O)NC(C1CCCCC1)C(=O)N2CC3CC4CC4N3CC2C(=O)NC5CCOc6c5cccc6)NC" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1Y0 "SYSTEMATIC NAME" ACDLabs              12.01 "(1aS,4S,6aR,7aS)-5-{(2S)-2-cyclohexyl-2-[(N-methyl-L-alanyl)amino]acetyl}-N-[(4R)-3,4-dihydro-2H-chromen-4-yl]octahydro-1H-cyclopropa[4,5]pyrrolo[1,2-a]pyrazine-4-carboxamide" 
+1Y0 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 
+"(1aS,4S,6aR,7aS)-5-[(2S)-2-cyclohexyl-2-[[(2S)-2-(methylamino)propanoyl]amino]ethanoyl]-N-[(4R)-3,4-dihydro-2H-chromen-4-yl]-1,1a,3,4,6,6a,7,7a-octahydrocyclopropa[3,4]pyrrolo[3,5-b]pyrazine-4-carboxamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1Y0 "Create component"         2013-07-30 RCSB 
+1Y0 "Modify name"              2013-08-22 RCSB 
+1Y0 "Modify component comp_id" 2013-08-22 RCSB 
+1Y0 "Initial release"          2013-08-28 RCSB 
+# 

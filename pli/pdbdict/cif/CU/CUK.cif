@@ -1,0 +1,97 @@
+data_CUK
+# 
+_chem_comp.id                                    CUK 
+_chem_comp.name                                  "[4Cu:2S] cluster" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Cu4 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-06-17 
+_chem_comp.pdbx_modified_date                    2011-08-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        318.314 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CUK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3SBP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CUK S1  S1  S  0 1 N N N -45.827 36.136 1.692 -0.313 -0.086 0.546  S1  CUK 1 
+CUK CU1 CU1 CU 0 0 N N N -46.031 38.455 2.032 0.439  1.483  -0.230 CU1 CUK 2 
+CUK S2  S2  S  0 1 N N N -47.905 38.283 3.636 1.909  0.428  -0.823 S2  CUK 3 
+CUK CU2 CU2 CU 0 0 N N N -44.499 36.977 0.170 -2.059 0.586  0.214  CU2 CUK 4 
+CUK CU3 CU3 CU 0 0 N N N -43.932 36.473 2.796 -0.687 -1.598 -0.542 CU3 CUK 5 
+CUK CU4 CU4 CU 0 0 N N N -47.243 35.745 3.672 1.502  -0.644 0.698  CU4 CUK 6 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CUK CU2 S1  SING N N 1 
+CUK S1  CU1 SING N N 2 
+CUK S1  CU3 SING N N 3 
+CUK S1  CU4 SING N N 4 
+CUK CU1 S2  SING N N 5 
+CUK S2  CU4 SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CUK InChI            InChI                1.03  InChI=1S/4Cu.2S             
+CUK InChIKey         InChI                1.03  PDBAWKBNXYUXTL-UHFFFAOYSA-N 
+CUK SMILES_CANONICAL CACTVS               3.370 "[Cu][S]1([Cu])[Cu]S[Cu]1"  
+CUK SMILES           CACTVS               3.370 "[Cu][S]1([Cu])[Cu]S[Cu]1"  
+CUK SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "S1[Cu]S([Cu]1)([Cu])[Cu]"  
+CUK SMILES           "OpenEye OEToolkits" 1.7.2 "S1[Cu]S([Cu]1)([Cu])[Cu]"  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CUK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(1-cuprio-1$l^{4},3-dithia-2$l^{2},4$l^{2}-dicupracyclobut-1-yl)copper" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CUK "Create component"   2011-06-17 RCSB 
+CUK "Other modification" 2011-08-04 RCSB 
+# 

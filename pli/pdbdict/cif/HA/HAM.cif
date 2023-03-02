@@ -1,0 +1,199 @@
+data_HAM
+# 
+_chem_comp.id                                    HAM 
+_chem_comp.name                                  "HISTIDYL-ADENOSINE MONOPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H21 N8 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        484.361 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HAM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KMM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HAM P      P    P 0  1 N N N 13.859 -22.140 -13.896 -2.115 -1.879 0.316  P      HAM 1  
+HAM O1P    O1P  O 0  1 N N N 14.615 -23.350 -13.483 -2.474 -3.363 0.079  O1P    HAM 2  
+HAM O2P    O2P  O -1 1 N N N 13.013 -21.482 -12.883 -1.912 -1.633 1.828  O2P    HAM 3  
+HAM O3P    O3P  O 0  1 N N N 12.952 -22.491 -15.255 -3.311 -0.945 -0.223 O3P    HAM 4  
+HAM "O5'"  O5*  O 0  1 N N N 14.952 -21.062 -14.356 -0.758 -1.522 -0.473 "O5'"  HAM 5  
+HAM "C5'"  C5*  C 0  1 N N N 15.606 -21.152 -15.629 0.284  -2.294 0.127  "C5'"  HAM 6  
+HAM "C4'"  C4*  C 0  1 N N R 17.031 -20.672 -15.522 1.608  -2.001 -0.580 "C4'"  HAM 7  
+HAM "O4'"  O4*  O 0  1 N N N 17.024 -19.271 -15.149 2.013  -0.635 -0.343 "O4'"  HAM 8  
+HAM "C3'"  C3*  C 0  1 N N S 17.847 -21.363 -14.441 2.743  -2.860 0.020  "C3'"  HAM 9  
+HAM "O3'"  O3*  O 0  1 N N N 18.451 -22.549 -14.952 2.979  -4.014 -0.789 "O3'"  HAM 10 
+HAM "C2'"  C2*  C 0  1 N N R 18.875 -20.301 -14.058 3.974  -1.923 0.002  "C2'"  HAM 11 
+HAM "O2'"  O2*  O 0  1 N N N 19.990 -20.248 -14.924 5.009  -2.472 -0.817 "O2'"  HAM 12 
+HAM "C1'"  C1*  C 0  1 N N R 18.060 -19.016 -14.211 3.434  -0.609 -0.604 "C1'"  HAM 13 
+HAM N9     N9   N 0  1 Y N N 17.447 -18.524 -12.979 4.051  0.547  0.050  N9     HAM 14 
+HAM C8     C8   C 0  1 Y N N 16.229 -18.878 -12.447 3.549  1.234  1.115  C8     HAM 15 
+HAM N7     N7   N 0  1 Y N N 15.928 -18.245 -11.338 4.356  2.203  1.439  N7     HAM 16 
+HAM C5     C5   C 0  1 Y N N 17.025 -17.423 -11.115 5.427  2.194  0.610  C5     HAM 17 
+HAM C6     C6   C 0  1 Y N N 17.319 -16.490 -10.099 6.582  2.984  0.479  C6     HAM 18 
+HAM N6     N6   N 0  1 N N N 16.517 -16.238 -9.070  6.815  4.044  1.337  N6     HAM 19 
+HAM N1     N1   N 0  1 Y N N 18.490 -15.822 -10.182 7.447  2.686  -0.485 N1     HAM 20 
+HAM C2     C2   C 0  1 Y N N 19.311 -16.085 -11.215 7.232  1.676  -1.309 C2     HAM 21 
+HAM N3     N3   N 0  1 Y N N 19.148 -16.941 -12.227 6.162  0.913  -1.227 N3     HAM 22 
+HAM C4     C4   C 0  1 Y N N 17.971 -17.585 -12.117 5.242  1.135  -0.295 C4     HAM 23 
+HAM C      C    C 0  1 N N N 12.442 -21.549 -16.022 -4.518 -0.995 0.362  C      HAM 24 
+HAM O      O    O 0  1 N N N 12.471 -20.314 -15.802 -4.708 -1.742 1.293  O      HAM 25 
+HAM CA     CA   C 0  1 N N S 11.582 -21.860 -17.307 -5.637 -0.121 -0.143 CA     HAM 26 
+HAM N      N    N 1  1 N N N 10.830 -20.642 -17.745 -6.926 -0.671 0.298  N      HAM 27 
+HAM CB     CB   C 0  1 N N N 12.416 -22.351 -18.504 -5.469 1.294  0.413  CB     HAM 28 
+HAM CG     CG   C 0  1 Y N N 11.643 -22.460 -19.803 -6.515 2.197  -0.187 CG     HAM 29 
+HAM CD2    CD2  C 0  1 Y N N 11.202 -21.474 -20.625 -7.394 2.955  0.496  CD2    HAM 30 
+HAM ND1    ND1  N 0  1 Y N N 11.399 -23.684 -20.407 -6.731 2.392  -1.497 ND1    HAM 31 
+HAM CE1    CE1  C 0  1 Y N N 10.826 -23.419 -21.570 -7.715 3.236  -1.650 CE1    HAM 32 
+HAM NE2    NE2  N 0  1 Y N N 10.685 -22.104 -21.758 -8.155 3.614  -0.431 NE2    HAM 33 
+HAM "H5'1" 1H5* H 0  0 N N N 15.545 -22.180 -16.055 0.049  -3.355 0.035  "H5'1" HAM 34 
+HAM "H5'2" 2H5* H 0  0 N N N 15.043 -20.609 -16.424 0.369  -2.032 1.181  "H5'2" HAM 35 
+HAM "H4'"  H4*  H 0  1 N N N 17.488 -20.886 -16.515 1.516  -2.189 -1.650 "H4'"  HAM 36 
+HAM "H3'"  H3*  H 0  1 N N N 17.247 -21.703 -13.564 2.500  -3.154 1.041  "H3'"  HAM 37 
+HAM "HO3'" *HO3 H 0  0 N N N 18.960 -22.980 -14.276 3.694  -4.510 -0.367 "HO3'" HAM 38 
+HAM "H2'"  H2*  H 0  1 N N N 19.311 -20.491 -13.049 4.339  -1.753 1.015  "H2'"  HAM 39 
+HAM "HO2'" *HO2 H 0  0 N N N 20.570 -19.564 -14.599 5.260  -3.317 -0.420 "HO2'" HAM 40 
+HAM "H1'"  H1*  H 0  1 N N N 18.773 -18.224 -14.538 3.621  -0.581 -1.678 "H1'"  HAM 41 
+HAM H8     H8   H 0  1 N N N 15.538 -19.620 -12.881 2.619  1.009  1.615  H8     HAM 42 
+HAM HN61   1HN6 H 0  0 N N N 15.635 -16.723 -8.987  7.618  4.580  1.239  HN61   HAM 43 
+HAM HN62   2HN6 H 0  0 N N N 16.777 -15.549 -8.378  6.174  4.255  2.034  HN62   HAM 44 
+HAM H2     H2   H 0  1 N N N 20.255 -15.515 -11.235 7.961  1.469  -2.078 H2     HAM 45 
+HAM HA     HA   H 0  1 N N N 10.889 -22.679 -17.004 -5.610 -0.089 -1.232 HA     HAM 46 
+HAM HN1    1HN  H 0  1 N N N 11.284 -19.813 -17.280 -7.675 -0.086 -0.039 HN1    HAM 47 
+HAM HN2    2HN  H 0  1 N N N 9.853  -20.722 -17.434 -7.036 -1.605 -0.068 HN2    HAM 48 
+HAM HN3    3HN  H 0  1 N N N 10.896 -20.549 -18.757 -6.951 -0.701 1.307  HN3    HAM 49 
+HAM HB1    1HB  H 0  1 N N N 13.316 -21.707 -18.640 -5.585 1.275  1.497  HB1    HAM 50 
+HAM HB2    2HB  H 0  1 N N N 12.909 -23.321 -18.262 -4.477 1.669  0.160  HB2    HAM 51 
+HAM HD2    HD2  H 0  1 N N N 11.252 -20.392 -20.416 -7.481 3.028  1.570  HD2    HAM 52 
+HAM HE1    HE1  H 0  1 N N N 10.507 -24.192 -22.288 -8.109 3.578  -2.596 HE1    HAM 53 
+HAM HE2    HE2  H 0  1 N N N 10.292 -21.665 -22.542 -8.876 4.236  -0.247 HE2    HAM 54 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HAM P     O1P    DOUB N N 1  
+HAM P     O2P    SING N N 2  
+HAM P     O3P    SING N N 3  
+HAM P     "O5'"  SING N N 4  
+HAM O3P   C      SING N N 5  
+HAM "O5'" "C5'"  SING N N 6  
+HAM "C5'" "C4'"  SING N N 7  
+HAM "C5'" "H5'1" SING N N 8  
+HAM "C5'" "H5'2" SING N N 9  
+HAM "C4'" "O4'"  SING N N 10 
+HAM "C4'" "C3'"  SING N N 11 
+HAM "C4'" "H4'"  SING N N 12 
+HAM "O4'" "C1'"  SING N N 13 
+HAM "C3'" "O3'"  SING N N 14 
+HAM "C3'" "C2'"  SING N N 15 
+HAM "C3'" "H3'"  SING N N 16 
+HAM "O3'" "HO3'" SING N N 17 
+HAM "C2'" "O2'"  SING N N 18 
+HAM "C2'" "C1'"  SING N N 19 
+HAM "C2'" "H2'"  SING N N 20 
+HAM "O2'" "HO2'" SING N N 21 
+HAM "C1'" N9     SING N N 22 
+HAM "C1'" "H1'"  SING N N 23 
+HAM N9    C8     SING Y N 24 
+HAM N9    C4     SING Y N 25 
+HAM C8    N7     DOUB Y N 26 
+HAM C8    H8     SING N N 27 
+HAM N7    C5     SING Y N 28 
+HAM C5    C6     SING Y N 29 
+HAM C5    C4     DOUB Y N 30 
+HAM C6    N6     SING N N 31 
+HAM C6    N1     DOUB Y N 32 
+HAM N6    HN61   SING N N 33 
+HAM N6    HN62   SING N N 34 
+HAM N1    C2     SING Y N 35 
+HAM C2    N3     DOUB Y N 36 
+HAM C2    H2     SING N N 37 
+HAM N3    C4     SING Y N 38 
+HAM C     O      DOUB N N 39 
+HAM C     CA     SING N N 40 
+HAM CA    N      SING N N 41 
+HAM CA    CB     SING N N 42 
+HAM CA    HA     SING N N 43 
+HAM N     HN1    SING N N 44 
+HAM N     HN2    SING N N 45 
+HAM N     HN3    SING N N 46 
+HAM CB    CG     SING N N 47 
+HAM CB    HB1    SING N N 48 
+HAM CB    HB2    SING N N 49 
+HAM CG    CD2    DOUB Y N 50 
+HAM CG    ND1    SING Y N 51 
+HAM CD2   NE2    SING Y N 52 
+HAM CD2   HD2    SING N N 53 
+HAM ND1   CE1    DOUB Y N 54 
+HAM CE1   NE2    SING Y N 55 
+HAM CE1   HE1    SING N N 56 
+HAM NE2   HE2    SING N N 57 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HAM SMILES           ACDLabs              10.04 "[O-]P(=O)(OC(=O)C([NH3+])Cc1ncnc1)OCC4OC(n3cnc2c(ncnc23)N)C(O)C4O" 
+HAM SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P]([O-])(=O)OC(=O)[C@@H]([NH3+])Cc4c[nH]cn4)[C@@H](O)[C@H]3O" 
+HAM SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P]([O-])(=O)OC(=O)[CH]([NH3+])Cc4c[nH]cn4)[CH](O)[CH]3O" 
+HAM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(nc[nH]1)C[C@@H](C(=O)O[P@](=O)([O-])OC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3ncnc4N)O)O)[NH3+]" 
+HAM SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(nc[nH]1)CC(C(=O)OP(=O)([O-])OCC2C(C(C(O2)n3cnc4c3ncnc4N)O)O)[NH3+]" 
+HAM InChI            InChI                1.03  
+"InChI=1S/C16H21N8O8P/c17-8(1-7-2-19-4-20-7)16(27)32-33(28,29)30-3-9-11(25)12(26)15(31-9)24-6-23-10-13(18)21-5-22-14(10)24/h2,4-6,8-9,11-12,15,25-26H,1,3,17H2,(H,19,20)(H,28,29)(H2,18,21,22)/t8-,9+,11+,12+,15+/m0/s1" 
+HAM InChIKey         InChI                1.03  XTFBSLZFYLGYAT-OPYVMVOTSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HAM "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-({[(2S)-2-ammonio-3-(1H-imidazol-4-yl)propanoyl]oxy}phosphinato)adenosine"                                                   
+HAM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methyl [(2S)-2-azaniumyl-3-(1H-imidazol-4-yl)propanoyl] phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HAM "Create component"  1999-07-08 RCSB 
+HAM "Modify descriptor" 2011-06-04 RCSB 
+# 

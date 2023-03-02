@@ -1,0 +1,115 @@
+data_02A
+# 
+_chem_comp.id                                    02A 
+_chem_comp.name                                  "(2S)-azetidine-2-carboxylic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-02-25 
+_chem_comp.pdbx_modified_date                    2012-01-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.104 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     02A 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XM1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+02A N25  N25  N 0 1 N N N 10.277 -12.486 14.217 1.237  0.910  -0.280 N25  02A 1  
+02A C28  C28  C 0 1 N N S 10.293 -11.117 14.835 0.304  -0.210 -0.501 C28  02A 2  
+02A C29  C29  C 0 1 N N N 11.592 -11.103 15.772 -1.105 0.085  -0.053 C29  02A 3  
+02A O30  O30  O 0 1 N N N 11.510 -11.910 16.734 -1.370 1.156  0.441  O30  02A 4  
+02A C27  C27  C 0 1 N N N 9.068  -11.512 15.508 1.115  -1.015 0.523  C27  02A 5  
+02A C26  C26  C 0 1 N N N 9.047  -12.946 14.871 2.259  -0.087 0.090  C26  02A 6  
+02A H28  H28  H 0 1 N N N 10.328 -10.151 14.311 0.348  -0.619 -1.510 H28  02A 7  
+02A H271 H271 H 0 0 N N N 9.115  -11.493 16.607 0.795  -0.876 1.556  H271 02A 8  
+02A H272 H272 H 0 0 N N N 8.191  -10.889 15.278 1.263  -2.061 0.253  H272 02A 9  
+02A H261 H261 H 0 0 N N N 8.189  -13.249 14.253 2.825  -0.465 -0.762 H261 02A 10 
+02A H262 H262 H 0 0 N N N 9.083  -13.828 15.527 2.897  0.230  0.914  H262 02A 11 
+02A H2   H2   H 0 1 N Y N 10.231 -12.482 13.218 1.472  1.362  -1.151 H2   02A 12 
+02A OXT  OXT  O 0 1 N Y N ?      ?       ?      -2.064 -0.841 -0.202 OXT  02A 13 
+02A HXT  HXT  H 0 1 N Y N ?      ?       ?      -2.952 -0.606 0.100  HXT  02A 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+02A N25 C28  SING N N 1  
+02A N25 C26  SING N N 2  
+02A C28 C29  SING N N 3  
+02A C28 C27  SING N N 4  
+02A C28 H28  SING N N 5  
+02A C29 O30  DOUB N N 6  
+02A C27 C26  SING N N 7  
+02A C27 H271 SING N N 8  
+02A C27 H272 SING N N 9  
+02A C26 H261 SING N N 10 
+02A C26 H262 SING N N 11 
+02A N25 H2   SING N N 12 
+02A C29 OXT  SING N N 13 
+02A OXT HXT  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+02A SMILES           ACDLabs              12.01 "O=C(O)C1NCC1"                                                    
+02A SMILES_CANONICAL CACTVS               3.370 "OC(=O)[C@@H]1CCN1"                                               
+02A SMILES           CACTVS               3.370 "OC(=O)[CH]1CCN1"                                                 
+02A SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1CN[C@@H]1C(=O)O"                                               
+02A SMILES           "OpenEye OEToolkits" 1.7.0 "C1CNC1C(=O)O"                                                    
+02A InChI            InChI                1.03  "InChI=1S/C4H7NO2/c6-4(7)3-1-2-5-3/h3,5H,1-2H2,(H,6,7)/t3-/m0/s1" 
+02A InChIKey         InChI                1.03  IADUEWIQBXOCDZ-VKHMYHEASA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+02A "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-azetidine-2-carboxylic acid" 
+02A "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-azetidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+02A "Create component"  2011-02-25 RCSB 
+02A "Modify descriptor" 2011-06-04 RCSB 
+# 

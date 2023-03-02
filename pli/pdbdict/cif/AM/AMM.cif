@@ -1,0 +1,150 @@
+data_AMM
+# 
+_chem_comp.id                                    AMM 
+_chem_comp.name                                  "(2S)-2-{[(AMINOMETHYL)(DIHYDROXY)SILYL]METHYL}-4-METHYLPENTANAL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H19 N O3 Si" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-01-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        205.327 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AMM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AMM N    N    N  0 1 N N N 33.856 39.440 -6.562 -1.439 -0.833 -1.110 N    AMM 1  
+AMM CA   CA   C  0 1 N N N 34.960 40.293 -7.015 -0.184 -0.116 -0.936 CA   AMM 2  
+AMM SI   SI   SI 0 0 N N N 35.117 41.794 -6.031 1.235  -1.358 -0.994 SI   AMM 3  
+AMM O1   O1   O  0 1 N N N 36.570 42.432 -6.486 2.690  -0.551 -0.794 O1   AMM 4  
+AMM O2   O2   O  0 1 N N N 33.830 42.805 -6.339 1.260  -2.134 -2.479 O2   AMM 5  
+AMM CH2  CH2  C  0 1 N N N 35.128 41.465 -4.202 1.001  -2.604 0.385  CH2  AMM 6  
+AMM CE   CE   C  0 1 N N S 36.407 42.019 -3.549 0.861  -2.046 1.816  CE   AMM 7  
+AMM C    C    C  0 1 N N N 37.707 41.252 -3.833 2.170  -1.368 2.172  C    AMM 8  
+AMM O    O    O  0 1 N N N 38.874 41.775 -3.845 3.241  -1.963 2.235  O    AMM 9  
+AMM CB   CB   C  0 1 N N N 36.208 41.886 -2.060 0.567  -3.151 2.850  CB   AMM 10 
+AMM CG   CG   C  0 1 N N N 37.379 42.479 -1.218 0.378  -2.654 4.300  CG   AMM 11 
+AMM CD1  CD1  C  0 1 N N N 37.560 44.015 -1.375 -0.737 -1.615 4.421  CD1  AMM 12 
+AMM CD2  CD2  C  0 1 N N N 37.111 42.087 0.246  1.692  -2.060 4.816  CD2  AMM 13 
+AMM HN1  1HN  H  0 1 N N N 32.977 39.958 -6.538 -1.495 -1.211 -2.055 HN1  AMM 14 
+AMM HN2  2HN  H  0 1 N N N 33.767 38.590 -7.119 -2.215 -0.176 -1.028 HN2  AMM 15 
+AMM HA1  1HA  H  0 1 N N N 34.864 40.532 -8.100 -0.182 0.397  0.031  HA1  AMM 16 
+AMM HA2  2HA  H  0 1 N N N 35.920 39.727 -7.041 -0.069 0.637  -1.722 HA2  AMM 17 
+AMM HO1  HO1  H  0 1 N N N 36.653 43.224 -5.967 3.505  -1.081 -0.807 HO1  AMM 18 
+AMM HO2  HO2  H  0 1 N N N 33.913 43.597 -5.820 1.381  -1.590 -3.276 HO2  AMM 19 
+AMM HH21 1HH2 H  0 0 N N N 34.988 40.382 -3.978 1.827  -3.326 0.350  HH21 AMM 20 
+AMM HH22 2HH2 H  0 0 N N N 34.210 41.860 -3.708 0.097  -3.176 0.137  HH22 AMM 21 
+AMM HE   HE   H  0 1 N N N 36.534 43.048 -3.960 0.075  -1.283 1.836  HE   AMM 22 
+AMM H    H    H  0 1 N N N 37.818 40.178 -4.059 2.113  -0.285 2.380  H    AMM 23 
+AMM HB1  1HB  H  0 1 N N N 36.021 40.823 -1.781 1.378  -3.890 2.840  HB1  AMM 24 
+AMM HB2  2HB  H  0 1 N N N 35.235 42.333 -1.751 -0.343 -3.688 2.547  HB2  AMM 25 
+AMM HG   HG   H  0 1 N N N 38.343 42.058 -1.588 0.127  -3.505 4.945  HG   AMM 26 
+AMM HD11 1HD1 H  0 0 N N N 36.607 44.546 -1.147 -1.715 -2.050 4.196  HD11 AMM 27 
+AMM HD12 2HD1 H  0 0 N N N 38.397 44.439 -0.773 -0.789 -1.218 5.441  HD12 AMM 28 
+AMM HD13 3HD1 H  0 0 N N N 37.675 44.287 -2.450 -0.572 -0.773 3.740  HD13 AMM 29 
+AMM HD21 1HD2 H  0 0 N N N 36.976 40.990 0.391  1.998  -1.193 4.220  HD21 AMM 30 
+AMM HD22 2HD2 H  0 0 N N N 37.948 42.511 0.848  2.497  -2.802 4.774  HD22 AMM 31 
+AMM HD23 3HD2 H  0 0 N N N 36.104 42.401 0.609  1.591  -1.738 5.857  HD23 AMM 32 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AMM N   CA   SING N N 1  
+AMM N   HN1  SING N N 2  
+AMM N   HN2  SING N N 3  
+AMM CA  SI   SING N N 4  
+AMM CA  HA1  SING N N 5  
+AMM CA  HA2  SING N N 6  
+AMM SI  O1   SING N N 7  
+AMM SI  O2   SING N N 8  
+AMM SI  CH2  SING N N 9  
+AMM O1  HO1  SING N N 10 
+AMM O2  HO2  SING N N 11 
+AMM CH2 CE   SING N N 12 
+AMM CH2 HH21 SING N N 13 
+AMM CH2 HH22 SING N N 14 
+AMM CE  C    SING N N 15 
+AMM CE  CB   SING N N 16 
+AMM CE  HE   SING N N 17 
+AMM C   O    DOUB N N 18 
+AMM C   H    SING N N 19 
+AMM CB  CG   SING N N 20 
+AMM CB  HB1  SING N N 21 
+AMM CB  HB2  SING N N 22 
+AMM CG  CD1  SING N N 23 
+AMM CG  CD2  SING N N 24 
+AMM CG  HG   SING N N 25 
+AMM CD1 HD11 SING N N 26 
+AMM CD1 HD12 SING N N 27 
+AMM CD1 HD13 SING N N 28 
+AMM CD2 HD21 SING N N 29 
+AMM CD2 HD22 SING N N 30 
+AMM CD2 HD23 SING N N 31 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AMM SMILES           ACDLabs              10.04 "O=CC(CC(C)C)C[Si](O)(O)CN"                                                                  
+AMM SMILES_CANONICAL CACTVS               3.341 "CC(C)C[C@H](C[Si](O)(O)CN)C=O"                                                              
+AMM SMILES           CACTVS               3.341 "CC(C)C[CH](C[Si](O)(O)CN)C=O"                                                               
+AMM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)C[C@H](C[Si](CN)(O)O)C=O"                                                              
+AMM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C[Si](CN)(O)O)C=O"                                                                  
+AMM InChI            InChI                1.03  "InChI=1S/C8H19NO3Si/c1-7(2)3-8(4-10)5-13(11,12)6-9/h4,7-8,11-12H,3,5-6,9H2,1-2H3/t8-/m0/s1" 
+AMM InChIKey         InChI                1.03  ZZKRIEGAOOCWBS-QMMMGPOBSA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AMM "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-{[(aminomethyl)(dihydroxy)silyl]methyl}-4-methylpentanal" 
+AMM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[(aminomethyl-dihydroxy-silyl)methyl]-4-methyl-pentanal"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AMM "Create component"  2005-01-14 RCSB 
+AMM "Modify descriptor" 2011-06-04 RCSB 
+# 

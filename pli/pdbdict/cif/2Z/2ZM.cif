@@ -1,0 +1,122 @@
+data_2ZM
+# 
+_chem_comp.id                                    2ZM 
+_chem_comp.name                                  5-nitro-1H-benzimidazole 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 N3 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-09-20 
+_chem_comp.pdbx_modified_date                    2014-02-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2ZM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4MSA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2ZM O1  O1  O -1 1 N N N 4.323 -28.004 -29.582 2.939  1.372  0.002  O1  2ZM 1  
+2ZM N2  N2  N 1  1 N N N 4.426 -28.714 -30.575 2.564  0.214  -0.002 N2  2ZM 2  
+2ZM O3  O3  O 0  1 N N N 4.749 -29.888 -30.432 3.380  -0.691 -0.003 O3  2ZM 3  
+2ZM C4  C4  C 0  1 Y N N 4.199 -28.195 -31.800 1.116  -0.096 -0.001 C4  2ZM 4  
+2ZM C5  C5  C 0  1 Y N N 3.509 -26.982 -31.911 0.697  -1.419 0.000  C5  2ZM 5  
+2ZM C6  C6  C 0  1 Y N N 3.253 -26.385 -33.140 -0.647 -1.725 0.002  C6  2ZM 6  
+2ZM C7  C7  C 0  1 Y N N 3.724 -27.068 -34.260 -1.586 -0.702 0.003  C7  2ZM 7  
+2ZM N8  N8  N 0  1 Y N N 3.627 -26.762 -35.567 -2.966 -0.664 -0.001 N8  2ZM 8  
+2ZM C9  C9  C 0  1 Y N N 4.232 -27.748 -36.268 -3.334 0.646  -0.004 C9  2ZM 9  
+2ZM N10 N10 N 0  1 Y N N 4.716 -28.680 -35.421 -2.279 1.407  -0.002 N10 2ZM 10 
+2ZM C11 C11 C 0  1 Y N N 4.408 -28.286 -34.164 -1.161 0.637  0.002  C11 2ZM 11 
+2ZM C12 C12 C 0  1 Y N N 4.671 -28.883 -32.928 0.207  0.924  0.005  C12 2ZM 12 
+2ZM H1  H1  H 0  1 N N N 3.164 -26.494 -31.012 1.428  -2.213 -0.000 H1  2ZM 13 
+2ZM H2  H2  H 0  1 N N N 2.721 -25.449 -33.222 -0.969 -2.756 0.002  H2  2ZM 14 
+2ZM H3  H3  H 0  1 N N N 3.186 -25.951 -35.951 -3.563 -1.429 -0.002 H3  2ZM 15 
+2ZM H4  H4  H 0  1 N N N 4.315 -27.784 -37.344 -4.354 1.002  -0.008 H4  2ZM 16 
+2ZM H6  H6  H 0  1 N N N 5.206 -29.818 -32.846 0.544  1.950  0.005  H6  2ZM 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2ZM C9  N8  SING Y N 1  
+2ZM C9  N10 DOUB Y N 2  
+2ZM N8  C7  SING Y N 3  
+2ZM N10 C11 SING Y N 4  
+2ZM C7  C11 DOUB Y N 5  
+2ZM C7  C6  SING Y N 6  
+2ZM C11 C12 SING Y N 7  
+2ZM C6  C5  DOUB Y N 8  
+2ZM C12 C4  DOUB Y N 9  
+2ZM C5  C4  SING Y N 10 
+2ZM C4  N2  SING N N 11 
+2ZM N2  O3  DOUB N N 12 
+2ZM N2  O1  SING N N 13 
+2ZM C5  H1  SING N N 14 
+2ZM C6  H2  SING N N 15 
+2ZM N8  H3  SING N N 16 
+2ZM C9  H4  SING N N 17 
+2ZM C12 H6  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2ZM SMILES           ACDLabs              12.01 "[O-][N+](=O)c1cc2ncnc2cc1"                                       
+2ZM InChI            InChI                1.03  "InChI=1S/C7H5N3O2/c11-10(12)5-1-2-6-7(3-5)9-4-8-6/h1-4H,(H,8,9)" 
+2ZM InChIKey         InChI                1.03  XPAZGLFMMUODDK-UHFFFAOYSA-N                                       
+2ZM SMILES_CANONICAL CACTVS               3.385 "[O-][N+](=O)c1ccc2[nH]cnc2c1"                                    
+2ZM SMILES           CACTVS               3.385 "[O-][N+](=O)c1ccc2[nH]cnc2c1"                                    
+2ZM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1[N+](=O)[O-])nc[nH]2"                                  
+2ZM SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1[N+](=O)[O-])nc[nH]2"                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2ZM "SYSTEMATIC NAME" ACDLabs              12.01 5-nitro-1H-benzimidazole 
+2ZM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 5-nitro-1H-benzimidazole 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2ZM "Create component" 2013-09-20 RCSB 
+2ZM "Initial release"  2014-02-19 RCSB 
+# 

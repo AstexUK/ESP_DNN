@@ -1,0 +1,120 @@
+data_SD3
+# 
+_chem_comp.id                                    SD3 
+_chem_comp.name                                  N-hydroxy-D-asparagine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-12-31 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        148.117 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SD3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3L6S 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SD3 C    C    C 0 1 N N N -1.597 -1.606 3.681  -2.325 -0.218 0.021  C    SD3 1  
+SD3 N    N    N 0 1 N N N -2.829 -1.819 1.655  -0.849 1.709  -0.094 N    SD3 2  
+SD3 O    O    O 0 1 N N N -1.563 -2.784 4.020  -2.797 -1.299 0.662  O    SD3 3  
+SD3 CA   CA   C 0 1 N N R -1.631 -1.230 2.276  -0.952 0.311  0.346  CA   SD3 4  
+SD3 CB   CB   C 0 1 N N N -0.341 -1.673 1.526  0.102  -0.530 -0.377 CB   SD3 5  
+SD3 CG   CG   C 0 1 N N N -0.313 -1.246 0.137  1.478  -0.081 0.043  CG   SD3 6  
+SD3 OAD  OAD  O 0 1 N N N 1.236  0.209  -0.481 3.862  -0.261 -0.075 OAD  SD3 7  
+SD3 OD1  OD1  O 0 1 N N N -0.636 -2.013 -0.759 1.603  0.823  0.842  OD1  SD3 8  
+SD3 ND2  ND2  N 0 1 N N N 0.032  -0.052 -0.184 2.569  -0.683 -0.469 ND2  SD3 9  
+SD3 OXT  OXT  O 0 1 N N N -1.603 -0.757 4.560  -3.000 0.329  -0.819 OXT  SD3 10 
+SD3 HN   HN   H 0 1 N N N -2.862 -1.566 0.688  0.040  2.106  0.170  HN   SD3 11 
+SD3 HNA  HNA  H 0 1 N N N -2.792 -2.815 1.738  -0.999 1.787  -1.088 HNA  SD3 12 
+SD3 HA   HA   H 0 1 N N N -1.676 -0.133 2.204  -0.786 0.255  1.422  HA   SD3 13 
+SD3 HB   HB   H 0 1 N N N 0.526  -1.232 2.040  -0.032 -1.581 -0.119 HB   SD3 14 
+SD3 HBA  HBA  H 0 1 N N N -0.288 -2.771 1.550  -0.008 -0.404 -1.454 HBA  SD3 15 
+SD3 HOAD HOAD H 0 0 N N N 1.625  -0.540 -0.917 4.581  -0.752 -0.495 HOAD SD3 16 
+SD3 HND2 HND2 H 0 0 N N N -0.653 0.676  -0.200 2.469  -1.406 -1.108 HND2 SD3 17 
+SD3 H8   H8   H 0 1 N N N -1.546 -2.841 4.968  -3.683 -1.601 0.420  H8   SD3 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SD3 C   O    SING N N 1  
+SD3 C   CA   SING N N 2  
+SD3 C   OXT  DOUB N N 3  
+SD3 N   CA   SING N N 4  
+SD3 N   HN   SING N N 5  
+SD3 N   HNA  SING N N 6  
+SD3 CA  CB   SING N N 7  
+SD3 CA  HA   SING N N 8  
+SD3 CB  CG   SING N N 9  
+SD3 CB  HB   SING N N 10 
+SD3 CB  HBA  SING N N 11 
+SD3 CG  OD1  DOUB N N 12 
+SD3 CG  ND2  SING N N 13 
+SD3 OAD ND2  SING N N 14 
+SD3 OAD HOAD SING N N 15 
+SD3 ND2 HND2 SING N N 16 
+SD3 O   H8   SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SD3 SMILES_CANONICAL CACTVS               3.352 "N[C@H](CC(=O)NO)C(O)=O"                                                        
+SD3 SMILES           CACTVS               3.352 "N[CH](CC(=O)NO)C(O)=O"                                                         
+SD3 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C([C@H](C(=O)O)N)C(=O)NO"                                                      
+SD3 SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(C(=O)O)N)C(=O)NO"                                                          
+SD3 InChI            InChI                1.03  "InChI=1S/C4H8N2O4/c5-2(4(8)9)1-3(7)6-10/h2,10H,1,5H2,(H,6,7)(H,8,9)/t2-/m1/s1" 
+SD3 InChIKey         InChI                1.03  ZBYVTTSIVDYQSO-UWTATZPHSA-N                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SD3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2R)-2-azanyl-4-(hydroxyamino)-4-oxo-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SD3 "Create component"  2009-12-31 RCSB 
+SD3 "Modify descriptor" 2011-06-04 RCSB 
+# 

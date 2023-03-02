@@ -1,0 +1,114 @@
+data_EAP
+# 
+_chem_comp.id                                    EAP 
+_chem_comp.name                                  2-AMINO-VINYL-PHOSPHATE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6 N O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        139.047 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EAP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QFF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EAP O1   O1   O 0 1 N Y N 56.895 60.844 59.084 -0.379 1.479  -1.090 O1   EAP 1  
+EAP O2   O2   O 0 1 N N N 57.228 58.451 59.210 0.866  -0.279 -2.404 O2   EAP 2  
+EAP O3   O3   O 0 1 N N N 58.794 59.983 60.358 -1.352 -0.848 -1.114 O3   EAP 3  
+EAP O4   O4   O 0 1 N N N 56.538 59.672 61.178 0.840  -0.295 0.224  O4   EAP 4  
+EAP P    P    P 0 1 N N N 57.386 59.726 59.952 -0.014 0.045  -1.095 P    EAP 5  
+EAP C1   C1   C 0 1 N N N 56.735 60.850 61.981 0.049  -0.002 1.292  C1   EAP 6  
+EAP C2   C2   C 0 1 N N N 55.482 61.149 62.783 0.501  -0.188 2.521  C2   EAP 7  
+EAP N3   N3   N 0 1 N N N 55.797 61.340 64.057 -0.312 0.112  3.619  N3   EAP 8  
+EAP HO2  HO2  H 0 1 N N N 57.539 57.742 59.760 0.318  -0.061 -3.170 HO2  EAP 9  
+EAP HO3  HO3  H 0 1 N N N 59.105 59.274 60.908 -1.070 -1.773 -1.117 HO3  EAP 10 
+EAP H11  1H1  H 0 1 N N N 57.678 61.421 61.981 -0.947 0.381  1.136  H11  EAP 11 
+EAP H21  1H2  H 0 1 N N N 54.428 61.221 62.465 1.498  -0.572 2.677  H21  EAP 12 
+EAP HN31 1HN3 H 0 0 N N N 54.954 61.541 64.596 0.018  -0.023 4.520  HN31 EAP 13 
+EAP HN32 2HN3 H 0 0 N N N 56.507 62.063 64.171 -1.207 0.461  3.478  HN32 EAP 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EAP O1 P    DOUB N N 1  
+EAP O2 P    SING N N 2  
+EAP O2 HO2  SING N N 3  
+EAP O3 P    SING N N 4  
+EAP O3 HO3  SING N N 5  
+EAP O4 P    SING N N 6  
+EAP O4 C1   SING N N 7  
+EAP C1 C2   DOUB N E 8  
+EAP C1 H11  SING N N 9  
+EAP C2 N3   SING N N 10 
+EAP C2 H21  SING N N 11 
+EAP N3 HN31 SING N N 12 
+EAP N3 HN32 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EAP SMILES           ACDLabs              10.04 "O=P(O\C=C\N)(O)O"                                              
+EAP SMILES_CANONICAL CACTVS               3.341 "N/C=C/O[P](O)(O)=O"                                            
+EAP SMILES           CACTVS               3.341 "NC=CO[P](O)(O)=O"                                              
+EAP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(=COP(=O)(O)O)N"                                              
+EAP SMILES           "OpenEye OEToolkits" 1.5.0 "C(=COP(=O)(O)O)N"                                              
+EAP InChI            InChI                1.03  "InChI=1S/C2H6NO4P/c3-1-2-7-8(4,5)6/h1-2H,3H2,(H2,4,5,6)/b2-1+" 
+EAP InChIKey         InChI                1.03  KYMLMTPYCDIFEC-OWOJBTEDSA-N                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EAP "SYSTEMATIC NAME" ACDLabs              10.04 "(E)-2-aminoethenyl dihydrogen phosphate" 
+EAP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-aminoethenyl dihydrogen phosphate"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EAP "Create component"  1999-07-08 EBI  
+EAP "Modify descriptor" 2011-06-04 RCSB 
+# 

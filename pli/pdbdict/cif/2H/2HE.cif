@@ -1,0 +1,114 @@
+data_2HE
+# 
+_chem_comp.id                                    2HE 
+_chem_comp.name                                  "(2-hydroxyethyl)phosphonic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H7 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-02-23 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        126.048 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2HE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GBF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2HE O3  O3  O 0 1 N N N 17.339 30.684 31.100 -1.948 -1.027 0.544  O3  2HE 1  
+2HE P   P   P 0 1 N N N 17.111 29.678 29.998 -0.833 -0.019 -0.034 P   2HE 2  
+2HE O1  O1  O 0 1 N N N 16.057 30.137 29.000 -0.936 0.037  -1.509 O1  2HE 3  
+2HE O2  O2  O 0 1 N N N 18.447 29.165 29.432 -1.071 1.451  0.577  O2  2HE 4  
+2HE CA  CA  C 0 1 N N N 16.306 28.270 30.820 0.825  -0.613 0.438  CA  2HE 5  
+2HE CB  CB  C 0 1 N N N 17.239 27.605 31.835 1.888  0.273  -0.215 CB  2HE 6  
+2HE O4  O4  O 0 1 N N N 18.180 26.748 31.173 3.188  -0.192 0.155  O4  2HE 7  
+2HE HO3 HO3 H 0 1 N N N 17.387 30.234 31.935 -2.857 -0.772 0.331  HO3 2HE 8  
+2HE HO2 HO2 H 0 1 N N N 18.373 29.059 28.491 -1.018 1.490  1.542  HO2 2HE 9  
+2HE HA  HA  H 0 1 N N N 15.410 28.631 31.346 0.931  -0.570 1.521  HA  2HE 10 
+2HE HAA HAA H 0 1 N N N 16.042 27.527 30.054 0.952  -1.641 0.100  HAA 2HE 11 
+2HE HB  HB  H 0 1 N N N 17.787 28.385 32.384 1.781  0.230  -1.299 HB  2HE 12 
+2HE HBA HBA H 0 1 N N N 16.636 27.000 32.528 1.761  1.302  0.123  HBA 2HE 13 
+2HE HO4 HO4 H 0 1 N N N 17.873 26.559 30.294 3.912  0.324  -0.224 HO4 2HE 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2HE P  O3  SING N N 1  
+2HE O3 HO3 SING N N 2  
+2HE O1 P   DOUB N N 3  
+2HE O2 P   SING N N 4  
+2HE P  CA  SING N N 5  
+2HE O2 HO2 SING N N 6  
+2HE CA CB  SING N N 7  
+2HE CA HA  SING N N 8  
+2HE CA HAA SING N N 9  
+2HE O4 CB  SING N N 10 
+2HE CB HB  SING N N 11 
+2HE CB HBA SING N N 12 
+2HE O4 HO4 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2HE SMILES           ACDLabs              10.04 "O=P(O)(O)CCO"                                         
+2HE SMILES_CANONICAL CACTVS               3.341 "OCC[P](O)(O)=O"                                       
+2HE SMILES           CACTVS               3.341 "OCC[P](O)(O)=O"                                       
+2HE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CP(=O)(O)O)O"                                       
+2HE SMILES           "OpenEye OEToolkits" 1.5.0 "C(CP(=O)(O)O)O"                                       
+2HE InChI            InChI                1.03  "InChI=1S/C2H7O4P/c3-1-2-7(4,5)6/h3H,1-2H2,(H2,4,5,6)" 
+2HE InChIKey         InChI                1.03  SEHJHHHUIGULEI-UHFFFAOYSA-N                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2HE "SYSTEMATIC NAME" ACDLabs              10.04 "(2-hydroxyethyl)phosphonic acid" 
+2HE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-hydroxyethylphosphonic acid"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2HE "Create component"  2009-02-23 RCSB 
+2HE "Modify descriptor" 2011-06-04 RCSB 
+# 

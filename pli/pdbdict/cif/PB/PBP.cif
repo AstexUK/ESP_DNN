@@ -1,0 +1,121 @@
+data_PBP
+# 
+_chem_comp.id                                    PBP 
+_chem_comp.name                                  "1-(4-BROMO-PHENYL)-ETHANONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H7 Br O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        199.045 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PBP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BK9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PBP CH  CH  C  0 1 N N N 21.015 56.343 -3.322 1.222  -0.001 4.219  CH  PBP 1  
+PBP CG  CG  C  0 1 Y N N 20.963 58.736 -2.327 -0.048 -0.000 1.975  CG  PBP 2  
+PBP CD1 CD1 C  0 1 Y N N 20.822 59.578 -1.237 -1.247 0.000  1.254  CD1 PBP 3  
+PBP CE1 CE1 C  0 1 Y N N 20.577 60.923 -1.425 -1.218 0.000  -0.123 CE1 PBP 4  
+PBP CD2 CD2 C  0 1 Y N N 20.859 59.279 -3.596 1.171  0.004  1.291  CD2 PBP 5  
+PBP CE2 CE2 C  0 1 Y N N 20.612 60.626 -3.788 1.184  -0.001 -0.087 CE2 PBP 6  
+PBP CZ  CZ  C  0 1 Y N N 20.466 61.469 -2.702 -0.006 -0.000 -0.794 CZ  PBP 7  
+PBP BR  BR  BR 0 0 N N N 20.030 63.303 -2.942 0.021  -0.000 -2.685 BR  PBP 8  
+PBP CR  CR  C  0 1 N N N 21.008 57.352 -2.168 -0.071 -0.000 3.446  CR  PBP 9  
+PBP O   O   O  0 1 N N N 21.009 56.899 -1.024 -1.130 0.000  4.036  O   PBP 10 
+PBP HH1 1HH H  0 1 N N N 21.051 55.235 -3.194 1.006  -0.001 5.288  HH1 PBP 11 
+PBP HH2 2HH H  0 1 N N N 20.123 56.567 -3.953 1.797  -0.891 3.965  HH2 PBP 12 
+PBP HH3 3HH H  0 1 N N N 21.864 56.619 -3.988 1.798  0.888  3.965  HH3 PBP 13 
+PBP HD1 HD1 H  0 1 N N N 20.905 59.175 -0.213 -2.193 0.000  1.776  HD1 PBP 14 
+PBP HE1 HE1 H  0 1 N N N 20.468 61.572 -0.540 -2.143 0.000  -0.681 HE1 PBP 15 
+PBP HD2 HD2 H  0 1 N N N 20.975 58.622 -4.474 2.100  0.004  1.841  HD2 PBP 16 
+PBP HE2 HE2 H  0 1 N N N 20.531 61.029 -4.811 2.125  -0.002 -0.616 HE2 PBP 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PBP CH  CR  SING N N 1  
+PBP CH  HH1 SING N N 2  
+PBP CH  HH2 SING N N 3  
+PBP CH  HH3 SING N N 4  
+PBP CG  CD1 DOUB Y N 5  
+PBP CG  CD2 SING Y N 6  
+PBP CG  CR  SING N N 7  
+PBP CD1 CE1 SING Y N 8  
+PBP CD1 HD1 SING N N 9  
+PBP CE1 CZ  DOUB Y N 10 
+PBP CE1 HE1 SING N N 11 
+PBP CD2 CE2 DOUB Y N 12 
+PBP CD2 HD2 SING N N 13 
+PBP CE2 CZ  SING Y N 14 
+PBP CE2 HE2 SING N N 15 
+PBP CZ  BR  SING N N 16 
+PBP CR  O   DOUB N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PBP SMILES           ACDLabs              10.04 "O=C(c1ccc(Br)cc1)C"                                 
+PBP SMILES_CANONICAL CACTVS               3.341 "CC(=O)c1ccc(Br)cc1"                                 
+PBP SMILES           CACTVS               3.341 "CC(=O)c1ccc(Br)cc1"                                 
+PBP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)c1ccc(cc1)Br"                                 
+PBP SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)c1ccc(cc1)Br"                                 
+PBP InChI            InChI                1.03  "InChI=1S/C8H7BrO/c1-6(10)7-2-4-8(9)5-3-7/h2-5H,1H3" 
+PBP InChIKey         InChI                1.03  WYECURVXVYPVAT-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PBP "SYSTEMATIC NAME" ACDLabs              10.04 "1-(4-bromophenyl)ethanone" 
+PBP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1-(4-bromophenyl)ethanone" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PBP "Create component"  1999-07-08 RCSB 
+PBP "Modify descriptor" 2011-06-04 RCSB 
+# 

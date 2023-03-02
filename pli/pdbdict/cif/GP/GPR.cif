@@ -1,0 +1,215 @@
+data_GPR
+# 
+_chem_comp.id                                    GPR 
+_chem_comp.name                                  "(9R,10R)-9-(S-GLUTATHIONYL)-10-HYDROXY-9,10-DIHYDROPHENANTHRENE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C24 H27 N3 O7 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         CYP 
+_chem_comp.formula_weight                        501.552 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GPR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GST 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GPR N1   N1   N 0 1 N N N 18.342 14.617 13.583 -1.936 1.959  5.059  N1   GPR 1  
+GPR CA1  CA1  C 0 1 N N S 18.548 14.184 12.145 -2.758 0.790  4.722  CA1  GPR 2  
+GPR C1   C1   C 0 1 N N N 17.540 13.134 11.727 -3.427 0.270  5.969  C1   GPR 3  
+GPR O11  O11  O 0 1 N N N 17.347 12.727 10.615 -2.890 0.403  7.043  O11  GPR 4  
+GPR O12  O12  O 0 1 N N N 16.876 12.595 12.813 -4.619 -0.340 5.886  O12  GPR 5  
+GPR CB1  CB1  C 0 1 N N N 19.950 13.406 12.120 -1.869 -0.303 4.127  CB1  GPR 6  
+GPR CG1  CG1  C 0 1 N N N 20.826 14.161 11.169 -1.190 0.224  2.861  CG1  GPR 7  
+GPR CD1  CD1  C 0 1 N N N 22.205 13.514 11.085 -0.314 -0.853 2.275  CD1  GPR 8  
+GPR OE1  OE1  O 0 1 N N N 22.906 13.583 12.095 -0.240 -1.936 2.816  OE1  GPR 9  
+GPR N2   N2   N 0 1 N N N 22.397 12.806 9.954  0.386  -0.612 1.149  N2   GPR 10 
+GPR CA2  CA2  C 0 1 N N R 23.725 12.100 9.834  1.237  -1.660 0.579  CA2  GPR 11 
+GPR C2   C2   C 0 1 N N N 24.442 12.688 8.567  2.622  -1.555 1.163  C2   GPR 12 
+GPR O2   O2   O 0 1 N N N 25.359 11.992 8.144  3.305  -2.549 1.287  O2   GPR 13 
+GPR CB2  CB2  C 0 1 N N N 23.456 10.567 9.582  1.310  -1.487 -0.939 CB2  GPR 14 
+GPR SG2  SG2  S 0 1 N N N 22.663 9.951  11.084 -0.356 -1.613 -1.642 SG2  GPR 15 
+GPR N3   N3   N 0 1 N N N 23.969 13.750 8.059  3.102  -0.356 1.549  N3   GPR 16 
+GPR CA3  CA3  C 0 1 N N N 24.338 14.306 6.705  4.449  -0.254 2.117  CA3  GPR 17 
+GPR C3   C3   C 0 1 N N N 25.199 15.524 6.963  4.740  1.183  2.463  C3   GPR 18 
+GPR O31  O31  O 0 1 N N N 25.447 16.033 8.065  3.909  2.035  2.256  O31  GPR 19 
+GPR O32  O32  O 0 1 N N N 25.799 16.188 5.965  5.924  1.517  3.001  O32  GPR 20 
+GPR CA4  CA4  C 0 1 N N R 24.144 9.881  11.878 0.024  -1.378 -3.400 CA4  GPR 21 
+GPR CB4  CB4  C 0 1 Y N N 24.762 8.548  11.645 0.683  -0.038 -3.589 CB4  GPR 22 
+GPR CG4  CG4  C 0 1 Y N N 25.760 8.398  10.627 2.060  0.062  -3.621 CG4  GPR 23 
+GPR CD4  CD4  C 0 1 Y N N 26.349 7.144  10.415 2.660  1.300  -3.763 CD4  GPR 24 
+GPR CE4  CE4  C 0 1 Y N N 25.969 6.070  11.226 1.889  2.444  -3.865 CE4  GPR 25 
+GPR CZ4  CZ4  C 0 1 Y N N 25.002 6.213  12.210 0.511  2.354  -3.838 CZ4  GPR 26 
+GPR CH4  CH4  C 0 1 Y N N 24.380 7.426  12.446 -0.096 1.109  -3.722 CH4  GPR 27 
+GPR CH5  CH5  C 0 1 Y N N 23.386 7.669  13.542 -1.573 0.980  -3.706 CH5  GPR 28 
+GPR CZ5  CZ5  C 0 1 Y N N 22.742 6.582  14.217 -2.385 2.085  -3.480 CZ5  GPR 29 
+GPR CE5  CE5  C 0 1 Y N N 21.925 6.845  15.284 -3.758 1.936  -3.466 CE5  GPR 30 
+GPR CD5  CD5  C 0 1 Y N N 21.694 8.147  15.760 -4.322 0.691  -3.677 CD5  GPR 31 
+GPR CG5  CG5  C 0 1 Y N N 22.313 9.219  15.092 -3.518 -0.409 -3.912 CG5  GPR 32 
+GPR CB5  CB5  C 0 1 Y N N 23.154 8.960  14.010 -2.144 -0.271 -3.935 CB5  GPR 33 
+GPR CA5  CA5  C 0 1 N N R 23.824 10.166 13.353 -1.266 -1.461 -4.210 CA5  GPR 34 
+GPR O5   O5   O 0 1 N N N 25.146 10.220 14.043 -0.946 -1.498 -5.602 O5   GPR 35 
+GPR HN11 1HN1 H 0 0 N N N 19.020 15.324 13.864 -1.430 2.209  4.223  HN11 GPR 36 
+GPR HN12 2HN1 H 0 0 N N N 18.352 13.818 14.217 -1.250 1.649  5.731  HN12 GPR 37 
+GPR HA1  HA1  H 0 1 N N N 18.475 15.080 11.485 -3.517 1.076  3.995  HA1  GPR 38 
+GPR HO2  HO2  H 0 1 N N N 16.243 11.936 12.550 -5.048 -0.674 6.686  HO2  GPR 39 
+GPR HB11 1HB1 H 0 0 N N N 20.402 13.272 13.130 -1.109 -0.590 4.854  HB11 GPR 40 
+GPR HB12 2HB1 H 0 0 N N N 19.853 12.323 11.871 -2.479 -1.171 3.877  HB12 GPR 41 
+GPR HG11 1HG1 H 0 0 N N N 20.354 14.264 10.163 -1.949 0.510  2.134  HG11 GPR 42 
+GPR HG12 2HG1 H 0 0 N N N 20.890 15.242 11.434 -0.580 1.092  3.111  HG12 GPR 43 
+GPR HN2  HN2  H 0 1 N N N 21.635 12.804 9.275  0.327  0.253  0.717  HN2  GPR 44 
+GPR HA2  HA2  H 0 1 N N N 24.340 12.234 10.753 0.817  -2.638 0.814  HA2  GPR 45 
+GPR HB21 1HB2 H 0 0 N N N 22.872 10.363 8.654  1.730  -0.509 -1.174 HB21 GPR 46 
+GPR HB22 2HB2 H 0 0 N N N 24.369 9.995  9.293  1.943  -2.266 -1.363 HB22 GPR 47 
+GPR HN3  HN3  H 0 1 N N N 23.306 14.148 8.724  2.556  0.439  1.450  HN3  GPR 48 
+GPR HA31 1HA3 H 0 0 N N N 24.821 13.556 6.036  4.510  -0.864 3.018  HA31 GPR 49 
+GPR HA32 2HA3 H 0 0 N N N 23.454 14.518 6.058  5.178  -0.607 1.388  HA32 GPR 50 
+GPR HO3  HO3  H 0 1 N N N 26.339 16.952 6.126  6.111  2.439  3.223  HO3  GPR 51 
+GPR HA4  HA4  H 0 1 N N N 24.890 10.622 11.510 0.705  -2.163 -3.728 HA4  GPR 52 
+GPR HG4  HG4  H 0 1 N N N 26.076 9.251  10.003 2.668  -0.825 -3.535 HG4  GPR 53 
+GPR HD4  HD4  H 0 1 N N N 27.101 7.004  9.620  3.737  1.374  -3.796 HD4  GPR 54 
+GPR HE4  HE4  H 0 1 N N N 26.444 5.084  11.085 2.365  3.408  -3.964 HE4  GPR 55 
+GPR HZ4  HZ4  H 0 1 N N N 24.720 5.339  12.821 -0.091 3.247  -3.908 HZ4  GPR 56 
+GPR HZ5  HZ5  H 0 1 N N N 22.876 5.530  13.911 -1.944 3.057  -3.316 HZ5  GPR 57 
+GPR HE5  HE5  H 0 1 N N N 21.439 5.984  15.773 -4.391 2.793  -3.290 HE5  GPR 58 
+GPR HD5  HD5  H 0 1 N N N 21.044 8.322  16.634 -5.396 0.577  -3.658 HD5  GPR 59 
+GPR HG5  HG5  H 0 1 N N N 22.139 10.259 15.415 -3.965 -1.378 -4.078 HG5  GPR 60 
+GPR HA5  HA5  H 0 1 N N N 23.186 11.078 13.419 -1.800 -2.372 -3.940 HA5  GPR 61 
+GPR HO5  HO5  H 0 1 N N N 24.948 10.396 14.955 -1.785 -1.550 -6.080 HO5  GPR 62 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GPR N1  CA1  SING N N 1  
+GPR N1  HN11 SING N N 2  
+GPR N1  HN12 SING N N 3  
+GPR CA1 C1   SING N N 4  
+GPR CA1 CB1  SING N N 5  
+GPR CA1 HA1  SING N N 6  
+GPR C1  O11  DOUB N N 7  
+GPR C1  O12  SING N N 8  
+GPR O12 HO2  SING N N 9  
+GPR CB1 CG1  SING N N 10 
+GPR CB1 HB11 SING N N 11 
+GPR CB1 HB12 SING N N 12 
+GPR CG1 CD1  SING N N 13 
+GPR CG1 HG11 SING N N 14 
+GPR CG1 HG12 SING N N 15 
+GPR CD1 OE1  DOUB N N 16 
+GPR CD1 N2   SING N N 17 
+GPR N2  CA2  SING N N 18 
+GPR N2  HN2  SING N N 19 
+GPR CA2 C2   SING N N 20 
+GPR CA2 CB2  SING N N 21 
+GPR CA2 HA2  SING N N 22 
+GPR C2  O2   DOUB N N 23 
+GPR C2  N3   SING N N 24 
+GPR CB2 SG2  SING N N 25 
+GPR CB2 HB21 SING N N 26 
+GPR CB2 HB22 SING N N 27 
+GPR SG2 CA4  SING N N 28 
+GPR N3  CA3  SING N N 29 
+GPR N3  HN3  SING N N 30 
+GPR CA3 C3   SING N N 31 
+GPR CA3 HA31 SING N N 32 
+GPR CA3 HA32 SING N N 33 
+GPR C3  O31  DOUB N N 34 
+GPR C3  O32  SING N N 35 
+GPR O32 HO3  SING N N 36 
+GPR CA4 CB4  SING N N 37 
+GPR CA4 CA5  SING N N 38 
+GPR CA4 HA4  SING N N 39 
+GPR CB4 CG4  DOUB Y N 40 
+GPR CB4 CH4  SING Y N 41 
+GPR CG4 CD4  SING Y N 42 
+GPR CG4 HG4  SING N N 43 
+GPR CD4 CE4  DOUB Y N 44 
+GPR CD4 HD4  SING N N 45 
+GPR CE4 CZ4  SING Y N 46 
+GPR CE4 HE4  SING N N 47 
+GPR CZ4 CH4  DOUB Y N 48 
+GPR CZ4 HZ4  SING N N 49 
+GPR CH4 CH5  SING Y N 50 
+GPR CH5 CZ5  SING Y N 51 
+GPR CH5 CB5  DOUB Y N 52 
+GPR CZ5 CE5  DOUB Y N 53 
+GPR CZ5 HZ5  SING N N 54 
+GPR CE5 CD5  SING Y N 55 
+GPR CE5 HE5  SING N N 56 
+GPR CD5 CG5  DOUB Y N 57 
+GPR CD5 HD5  SING N N 58 
+GPR CG5 CB5  SING Y N 59 
+GPR CG5 HG5  SING N N 60 
+GPR CB5 CA5  SING N N 61 
+GPR CA5 O5   SING N N 62 
+GPR CA5 HA5  SING N N 63 
+GPR O5  HO5  SING N N 64 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GPR SMILES           ACDLabs              10.04 "O=C(O)C(N)CCC(=O)NC(C(=O)NCC(=O)O)CSC3c1ccccc1c2c(cccc2)C3O" 
+GPR SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCC(=O)N[C@@H](CS[C@H]1[C@H](O)c2ccccc2c3ccccc13)C(=O)NCC(O)=O)C(O)=O" 
+GPR SMILES           CACTVS               3.341 "N[CH](CCC(=O)N[CH](CS[CH]1[CH](O)c2ccccc2c3ccccc13)C(=O)NCC(O)=O)C(O)=O" 
+GPR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)-c3ccccc3[C@H]([C@@H]2O)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N" 
+GPR SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)-c3ccccc3C(C2O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N" 
+GPR InChI            InChI                1.03  
+"InChI=1S/C24H27N3O7S/c25-17(24(33)34)9-10-19(28)27-18(23(32)26-11-20(29)30)12-35-22-16-8-4-2-6-14(16)13-5-1-3-7-15(13)21(22)31/h1-8,17-18,21-22,31H,9-12,25H2,(H,26,32)(H,27,28)(H,29,30)(H,33,34)/t17-,18-,21+,22+/m0/s1" 
+GPR InChIKey         InChI                1.03  JNNIZILNBMPOAC-MOXQZVSFSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GPR "SYSTEMATIC NAME" ACDLabs              10.04 "L-gamma-glutamyl-S-[(9R,10R)-10-hydroxy-9,10-dihydrophenanthren-9-yl]-L-cysteinylglycine"                                                                  
+GPR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-[[(9R,10R)-10-hydroxy-9,10-dihydrophenanthren-9-yl]sulfanyl]-1-oxo-propan-2-yl]amino]-5-oxo-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GPR "Create component"     1999-07-08 RCSB 
+GPR "Modify aromatic_flag" 2011-06-04 RCSB 
+GPR "Modify descriptor"    2011-06-04 RCSB 
+# 

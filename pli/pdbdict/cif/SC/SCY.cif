@@ -1,0 +1,124 @@
+data_SCY
+# 
+_chem_comp.id                                    SCY 
+_chem_comp.name                                  S-ACETYL-CYSTEINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.195 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     SCY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QFL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SCY N   N   N 0 1 N N N 23.142 -11.341 8.918  -1.790 -0.366 -1.376 N   SCY 1  
+SCY CA  CA  C 0 1 N N R 24.392 -11.916 8.473  -0.519 0.370  -1.351 CA  SCY 2  
+SCY CB  CB  C 0 1 N N N 24.413 -13.486 8.741  0.267  -0.012 -0.096 CB  SCY 3  
+SCY SG  SG  S 0 1 N N N 24.324 -13.618 10.533 -0.701 0.406  1.374  SG  SCY 4  
+SCY CD  CD  C 0 1 N N N 22.632 -14.322 10.566 0.378  -0.110 2.598  CD  SCY 5  
+SCY OCD OCD O 0 1 N N N 22.483 -15.453 10.187 1.449  -0.595 2.297  OCD SCY 6  
+SCY CE  CE  C 0 1 N N N 21.438 -13.488 11.075 -0.000 0.038  4.049  CE  SCY 7  
+SCY C   C   C 0 1 N N N 24.627 -11.759 7.003  0.287  0.021  -2.576 C   SCY 8  
+SCY O   O   O 0 1 N N N 25.761 -11.895 6.554  0.174  -1.069 -3.083 O   SCY 9  
+SCY OXT OXT O 0 1 N Y N 23.655 -11.407 6.168  1.130  0.922  -3.103 OXT SCY 10 
+SCY H   H   H 0 1 N N N 23.128 -10.335 8.746  -2.247 -0.184 -0.495 H   SCY 11 
+SCY H2  HN2 H 0 1 N Y N 22.950 -11.561 9.895  -1.556 -1.348 -1.384 H2  SCY 12 
+SCY HA  HA  H 0 1 N N N 25.177 -11.369 9.045  -0.720 1.441  -1.341 HA  SCY 13 
+SCY HB2 1HB H 0 1 N N N 23.622 -14.055 8.198  1.210  0.534  -0.078 HB2 SCY 14 
+SCY HB3 2HB H 0 1 N N N 25.279 -14.018 8.283  0.468  -1.083 -0.106 HB3 SCY 15 
+SCY HE1 1HE H 0 1 N N N 20.408 -13.916 11.095 0.805  -0.341 4.676  HE1 SCY 16 
+SCY HE2 2HE H 0 1 N N N 21.681 -13.122 12.099 -0.169 1.091  4.274  HE2 SCY 17 
+SCY HE3 3HE H 0 1 N N N 21.406 -12.536 10.494 -0.911 -0.526 4.246  HE3 SCY 18 
+SCY HXT HXT H 0 1 N Y N 23.804 -11.307 5.235  1.648  0.699  -3.888 HXT SCY 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SCY N   CA  SING N N 1  
+SCY N   H   SING N N 2  
+SCY N   H2  SING N N 3  
+SCY CA  CB  SING N N 4  
+SCY CA  C   SING N N 5  
+SCY CA  HA  SING N N 6  
+SCY CB  SG  SING N N 7  
+SCY CB  HB2 SING N N 8  
+SCY CB  HB3 SING N N 9  
+SCY SG  CD  SING N N 10 
+SCY CD  OCD DOUB N N 11 
+SCY CD  CE  SING N N 12 
+SCY CE  HE1 SING N N 13 
+SCY CE  HE2 SING N N 14 
+SCY CE  HE3 SING N N 15 
+SCY C   O   DOUB N N 16 
+SCY C   OXT SING N N 17 
+SCY OXT HXT SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SCY SMILES           ACDLabs              10.04 "O=C(O)C(N)CSC(=O)C"                                                      
+SCY SMILES_CANONICAL CACTVS               3.341 "CC(=O)SC[C@H](N)C(O)=O"                                                  
+SCY SMILES           CACTVS               3.341 "CC(=O)SC[CH](N)C(O)=O"                                                   
+SCY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)SC[C@@H](C(=O)O)N"                                                 
+SCY SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)SCC(C(=O)O)N"                                                      
+SCY InChI            InChI                1.03  "InChI=1S/C5H9NO3S/c1-3(7)10-2-4(6)5(8)9/h4H,2,6H2,1H3,(H,8,9)/t4-/m0/s1" 
+SCY InChIKey         InChI                1.03  XCIRMLHOFVDUDP-BYPYZUCNSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SCY "SYSTEMATIC NAME" ACDLabs              10.04 S-acetyl-L-cysteine                              
+SCY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-ethanoylsulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SCY "Create component"  1999-07-08 EBI  
+SCY "Modify descriptor" 2011-06-04 RCSB 
+# 

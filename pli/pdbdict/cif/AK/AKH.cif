@@ -1,0 +1,126 @@
+data_AKH
+# 
+_chem_comp.id                                    AKH 
+_chem_comp.name                                  "1-BENZOFURAN-7-CARBOXYLIC ACID" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-02-07 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AKH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4AHS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AKH C6  C6  C 0 1 Y N N -9.831  23.512 -3.179 -1.577 1.845  0.000  C6  AKH 1  
+AKH C5  C5  C 0 1 Y N N -9.044  24.266 -2.328 -1.655 0.453  0.000  C5  AKH 2  
+AKH C1  C1  C 0 1 Y N N -9.451  25.553 -1.652 -2.762 -0.512 0.000  C1  AKH 3  
+AKH C2  C2  C 0 1 Y N N -8.100  25.890 -1.036 -2.197 -1.727 0.000  C2  AKH 4  
+AKH C7  C7  C 0 1 Y N N -9.295  22.356 -3.698 -0.345 2.466  0.000  C7  AKH 5  
+AKH C8  C8  C 0 1 Y N N -8.015  21.956 -3.355 0.818  1.717  -0.000 C8  AKH 6  
+AKH C9  C9  C 0 1 Y N N -7.205  22.693 -2.487 0.763  0.324  -0.000 C9  AKH 7  
+AKH C10 C10 C 0 1 N N N -5.795  22.211 -2.168 2.007  -0.468 -0.000 C10 AKH 8  
+AKH O11 O11 O 0 1 N N N -5.116  22.779 -1.227 3.202  0.155  0.000  O11 AKH 9  
+AKH C4  C4  C 0 1 Y N N -7.754  23.880 -1.994 -0.484 -0.321 -0.000 C4  AKH 10 
+AKH O12 O12 O 0 1 N N N -5.350  21.273 -2.913 1.955  -1.681 -0.000 O12 AKH 11 
+AKH O3  O3  O 0 1 Y N N -7.137  24.788 -1.127 -0.857 -1.614 -0.000 O3  AKH 12 
+AKH H6  H6  H 0 1 N N N -10.835 23.821 -3.429 -2.480 2.437  -0.004 H6  AKH 13 
+AKH H7A H7A H 0 1 N N N -9.879  21.755 -4.380 -0.288 3.544  -0.000 H7A AKH 14 
+AKH H1  H1  H 0 1 N N N -10.399 26.070 -1.617 -3.818 -0.288 0.001  H1  AKH 15 
+AKH H2  H2  H 0 1 N N N -7.874  26.842 -0.579 -2.739 -2.661 0.000  H2  AKH 16 
+AKH H4  H4  H 0 1 N N N -7.628  21.039 -3.774 1.776  2.215  -0.001 H4  AKH 17 
+AKH H11 H11 H 0 1 N N N -4.250  22.391 -1.183 3.990  -0.405 0.000  H11 AKH 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AKH C6  C5  SING Y N 1  
+AKH C6  C7  DOUB Y N 2  
+AKH C5  C1  SING Y N 3  
+AKH C5  C4  DOUB Y N 4  
+AKH C1  C2  DOUB Y N 5  
+AKH C2  O3  SING Y N 6  
+AKH C7  C8  SING Y N 7  
+AKH C8  C9  DOUB Y N 8  
+AKH C9  C10 SING N N 9  
+AKH C9  C4  SING Y N 10 
+AKH C10 O11 SING N N 11 
+AKH C10 O12 DOUB N N 12 
+AKH C6  H6  SING N N 13 
+AKH C7  H7A SING N N 14 
+AKH C1  H1  SING N N 15 
+AKH C2  H2  SING N N 16 
+AKH C8  H4  SING N N 17 
+AKH O11 H11 SING N N 18 
+AKH O3  C4  SING Y N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AKH SMILES           ACDLabs              12.01 "O=C(O)c2cccc1c2occ1"                                             
+AKH InChI            InChI                1.03  "InChI=1S/C9H6O3/c10-9(11)7-3-1-2-6-4-5-12-8(6)7/h1-5H,(H,10,11)" 
+AKH InChIKey         InChI                1.03  QMHILIQFOBNARN-UHFFFAOYSA-N                                       
+AKH SMILES_CANONICAL CACTVS               3.385 "OC(=O)c1cccc2ccoc12"                                             
+AKH SMILES           CACTVS               3.385 "OC(=O)c1cccc2ccoc12"                                             
+AKH SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1cc2ccoc2c(c1)C(=O)O"                                           
+AKH SMILES           "OpenEye OEToolkits" 1.9.2 "c1cc2ccoc2c(c1)C(=O)O"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AKH "SYSTEMATIC NAME" ACDLabs              12.01 "1-benzofuran-7-carboxylic acid" 
+AKH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "1-benzofuran-7-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AKH "Create component"         2012-02-07 EBI  
+AKH "Other modification"       2012-12-14 RCSB 
+AKH "Modify component atom id" 2013-06-17 EBI  
+AKH "Modify descriptor"        2014-09-05 RCSB 
+# 

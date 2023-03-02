@@ -1,0 +1,227 @@
+data_HWU
+# 
+_chem_comp.id                                    HWU 
+_chem_comp.name                                  
+"(2R,3R,4R,5R,6R)-3-(acetylamino)-4,5-dihydroxy-6-(hydroxymethyl)tetrahydro-2H-thiopyran-2-yl [(2R,3S,4R,5R)-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl dihydrogen diphosphate" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C17 H27 N3 O16 P2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "URIDINE DIPHOSPHO-5-THIO-N-ACETYLGALACTOSAMINE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-04-30 
+_chem_comp.pdbx_modified_date                    2014-05-23 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        623.419 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HWU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        4D0Z 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HWU N1     N1     N 0 1 N N N 38.331 -94.694 33.682 5.577  1.090  -0.278 N1     HWU 1  
+HWU C2     C2     C 0 1 N N N 38.147 -94.278 34.993 6.126  2.071  -1.017 C2     HWU 2  
+HWU O2     O2     O 0 1 N N N 39.095 -94.279 35.817 6.361  1.875  -2.194 O2     HWU 3  
+HWU N3     N3     N 0 1 N N N 36.932 -93.856 35.448 6.419  3.266  -0.472 N3     HWU 4  
+HWU C4     C4     C 0 1 N N N 35.876 -93.827 34.575 6.164  3.500  0.831  C4     HWU 5  
+HWU O4     O4     O 0 1 N N N 34.741 -93.461 34.946 6.428  4.581  1.325  O4     HWU 6  
+HWU C5     C5     C 0 1 N N N 36.038 -94.233 33.241 5.586  2.476  1.620  C5     HWU 7  
+HWU C6     C6     C 0 1 N N N 37.284 -94.651 32.819 5.303  1.286  1.048  C6     HWU 8  
+HWU PA     PA     P 0 1 N N N 39.236 -96.417 28.298 0.290  -2.665 0.863  PA     HWU 9  
+HWU PB     PB     P 0 1 N N N 39.860 -95.417 25.694 -2.461 -1.571 1.004  PB     HWU 10 
+HWU "C1'"  "C1'"  C 0 1 N N R 40.896 -92.814 25.134 -4.450 0.148  0.526  "C1'"  HWU 11 
+HWU "O1'"  "O1'"  O 0 1 N N N 40.215 -93.829 25.942 -3.201 -0.430 0.142  "O1'"  HWU 12 
+HWU O1A    O1A    O 0 1 N N N 37.905 -96.902 28.782 0.533  -2.335 2.285  O1A    HWU 13 
+HWU C1B    C1B    C 0 1 N N R 39.652 -95.172 33.224 5.264  -0.199 -0.900 C1B    HWU 14 
+HWU O1B    O1B    O 0 1 N N N 38.889 -95.415 24.571 -2.276 -1.098 2.394  O1B    HWU 15 
+HWU "C2'"  "C2'"  C 0 1 N N R 42.237 -92.530 25.868 -5.224 0.575  -0.725 "C2'"  HWU 16 
+HWU "N2'"  "N2'"  N 0 1 N N N 43.078 -93.728 25.790 -5.537 -0.608 -1.530 "N2'"  HWU 17 
+HWU "O2'"  "O2'"  O 0 1 N N N 39.698 -97.655 33.552 7.392  -1.420 -0.959 "O2'"  HWU 18 
+HWU O2A    O2A    O 0 1 N N N 40.430 -97.354 28.171 0.072  -4.253 0.711  O2A    HWU 19 
+HWU C2B    C2B    C 0 1 N N R 39.619 -96.578 32.594 6.134  -1.326 -0.288 C2B    HWU 20 
+HWU O2B    O2B    O 0 1 N N N 41.134 -96.190 25.613 -3.359 -2.907 1.007  O2B    HWU 21 
+HWU "C3'"  "C3'"  C 0 1 N N R 41.944 -92.129 27.339 -4.383 1.543  -1.552 "C3'"  HWU 22 
+HWU "O3'"  "O3'"  O 0 1 N N N 43.123 -92.070 28.168 -5.000 1.731  -2.827 "O3'"  HWU 23 
+HWU O3A    O3A    O 0 1 N N N 38.891 -95.698 26.899 -1.025 -1.891 0.350  O3A    HWU 24 
+HWU C3B    C3B    C 0 1 N N S 40.808 -96.471 31.646 5.270  -2.583 -0.555 C3B    HWU 25 
+HWU O3B    O3B    O 0 1 N N N 42.031 -96.758 32.310 5.722  -3.260 -1.730 O3B    HWU 26 
+HWU "C4'"  "C4'"  C 0 1 N N R 41.153 -90.792 27.298 -4.263 2.891  -0.848 "C4'"  HWU 27 
+HWU "O4'"  "O4'"  O 0 1 N N N 41.980 -89.686 26.886 -5.561 3.335  -0.447 "O4'"  HWU 28 
+HWU C4B    C4B    C 0 1 N N R 40.759 -95.007 31.166 3.849  -2.027 -0.767 C4B    HWU 29 
+HWU O4B    O4B    O 0 1 N N N 40.283 -94.274 32.283 3.915  -0.604 -0.581 O4B    HWU 30 
+HWU "C5'"  "C5'"  C 0 1 N N R 39.920 -90.931 26.364 -3.368 2.758  0.387  "C5'"  HWU 31 
+HWU "S5'"  "S5'"  S 0 1 N N N 40.172 -91.513 24.986 -4.152 1.613  1.560  "S5'"  HWU 32 
+HWU C5B    C5B    C 0 1 N N N 39.566 -94.799 30.230 2.892  -2.641 0.257  C5B    HWU 33 
+HWU O5B    O5B    O 0 1 N N N 39.905 -95.115 28.953 1.558  -2.211 -0.019 O5B    HWU 34 
+HWU "C6'"  "C6'"  C 0 1 N N N 39.171 -89.601 26.407 -3.196 4.128  1.046  "C6'"  HWU 35 
+HWU "O6'"  "O6'"  O 0 1 N N N 38.546 -89.447 27.698 -2.689 5.058  0.086  "O6'"  HWU 36 
+HWU "C7'"  "C7'"  C 0 1 N N N 44.301 -93.705 25.222 -6.636 -1.338 -1.256 "C7'"  HWU 37 
+HWU "O7'"  "O7'"  O 0 1 N N N 44.846 -92.707 24.764 -7.366 -1.016 -0.342 "O7'"  HWU 38 
+HWU "C8'"  "C8'"  C 0 1 N N N 45.025 -95.020 25.171 -6.959 -2.555 -2.085 "C8'"  HWU 39 
+HWU HO2A   HO2A   H 0 0 N N N 40.176 -98.229 28.439 -0.093 -4.542 -0.197 HO2A   HWU 40 
+HWU H6     H6     H 0 1 N N N 37.428 -94.947 31.790 4.861  0.494  1.634  H6     HWU 41 
+HWU H1B    H1B    H 0 1 N N N 40.301 -95.240 34.109 5.406  -0.147 -1.980 H1B    HWU 42 
+HWU H3     H3     H 0 1 N N N 36.814 -93.573 36.400 6.815  3.962  -1.019 H3     HWU 43 
+HWU H5     H5     H 0 1 N N N 35.202 -94.219 32.557 5.375  2.644  2.666  H5     HWU 44 
+HWU H2B    H2B    H 0 1 N N N 41.183 -96.634 24.774 -3.522 -3.274 0.127  H2B    HWU 45 
+HWU "H2'"  "H2'"  H 0 1 N N N 42.740 -91.689 25.368 -6.150 1.066  -0.427 "H2'"  HWU 46 
+HWU HA     HA     H 0 1 N N N 38.699 -96.674 31.999 6.275  -1.171 0.781  HA     HWU 47 
+HWU HB     HB     H 0 1 N N N 42.735 -94.587 26.169 -4.953 -0.865 -2.261 HB     HWU 48 
+HWU "H3'"  "H3'"  H 0 1 N N N 41.267 -92.891 27.752 -3.387 1.123  -1.693 "H3'"  HWU 49 
+HWU HC     HC     H 0 1 N N N 39.672 -98.488 33.096 7.972  -2.112 -0.611 HC     HWU 50 
+HWU H3B    H3B    H 0 1 N N N 40.657 -97.142 30.787 5.296  -3.253 0.304  H3B    HWU 51 
+HWU HD     HD     H 0 1 N N N 42.878 -91.821 29.051 -4.521 2.336  -3.410 HD     HWU 52 
+HWU "H4'"  "H4'"  H 0 1 N N N 40.778 -90.598 28.314 -3.827 3.619  -1.532 "H4'"  HWU 53 
+HWU HE     HE     H 0 1 N N N 42.751 -96.683 31.695 6.633  -3.580 -1.673 HE     HWU 54 
+HWU H4B    H4B    H 0 1 N N N 41.712 -94.657 30.743 3.509  -2.254 -1.777 H4B    HWU 55 
+HWU HF     HF     H 0 1 N N N 41.462 -88.890 26.874 -5.574 4.226  -0.073 HF     HWU 56 
+HWU H5B1   H5B1   H 0 0 N N N 38.735 -95.442 30.554 2.943  -3.729 0.196  H5B1   HWU 57 
+HWU H5B2   H5B2   H 0 0 N N N 39.252 -93.746 30.272 3.178  -2.321 1.259  H5B2   HWU 58 
+HWU "H6'1" "H6'1" H 0 0 N N N 39.879 -88.775 26.241 -4.160 4.477  1.416  "H6'1" HWU 59 
+HWU "H6'2" "H6'2" H 0 0 N N N 38.401 -89.588 25.622 -2.496 4.047  1.877  "H6'2" HWU 60 
+HWU "H6'"  "H6'"  H 0 1 N N N 38.079 -88.620 27.728 -2.555 5.950  0.435  "H6'"  HWU 61 
+HWU "H8'1" "H8'1" H 0 0 N N N 46.007 -94.880 24.696 -6.195 -2.684 -2.852 "H8'1" HWU 62 
+HWU "H8'2" "H8'2" H 0 0 N N N 45.163 -95.402 26.193 -6.982 -3.435 -1.443 "H8'2" HWU 63 
+HWU "H8'3" "H8'3" H 0 0 N N N 44.434 -95.741 24.587 -7.932 -2.424 -2.558 "H8'3" HWU 64 
+HWU "H1'"  "H1'"  H 0 1 N N N ?      ?       ?      ?      ?      ?      "H1'"  HWU 65 
+HWU "H5'"  "H5'"  H 0 1 N N N 39.260 -91.652 26.869 -2.393 2.368  0.092  "H5'"  HWU 66 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HWU N1    C2     SING N N 1  
+HWU N1    C6     SING N N 2  
+HWU N1    C1B    SING N N 3  
+HWU C2    O2     DOUB N N 4  
+HWU C2    N3     SING N N 5  
+HWU N3    C4     SING N N 6  
+HWU C4    O4     DOUB N N 7  
+HWU C4    C5     SING N N 8  
+HWU C5    C6     DOUB N N 9  
+HWU PA    O1A    DOUB N N 10 
+HWU PA    O2A    SING N N 11 
+HWU PA    O3A    SING N N 12 
+HWU PA    O5B    SING N N 13 
+HWU PB    "O1'"  SING N N 14 
+HWU PB    O1B    DOUB N N 15 
+HWU PB    O2B    SING N N 16 
+HWU PB    O3A    SING N N 17 
+HWU "C1'" "O1'"  SING N N 18 
+HWU "C1'" "C2'"  SING N N 19 
+HWU "C1'" "S5'"  SING N N 20 
+HWU C1B   C2B    SING N N 21 
+HWU C1B   O4B    SING N N 22 
+HWU "C2'" "N2'"  SING N N 23 
+HWU "C2'" "C3'"  SING N N 24 
+HWU "N2'" "C7'"  SING N N 25 
+HWU "C8'" "C7'"  SING N N 26 
+HWU "O2'" C2B    SING N N 27 
+HWU C2B   C3B    SING N N 28 
+HWU "C3'" "O3'"  SING N N 29 
+HWU "C3'" "C4'"  SING N N 30 
+HWU C3B   O3B    SING N N 31 
+HWU C3B   C4B    SING N N 32 
+HWU "C4'" "O4'"  SING N N 33 
+HWU "C4'" "C5'"  SING N N 34 
+HWU C4B   O4B    SING N N 35 
+HWU C4B   C5B    SING N N 36 
+HWU "C5'" "S5'"  SING N N 37 
+HWU "C5'" "C6'"  SING N N 38 
+HWU C5B   O5B    SING N N 39 
+HWU "C6'" "O6'"  SING N N 40 
+HWU "C7'" "O7'"  DOUB N N 41 
+HWU O2A   HO2A   SING N N 42 
+HWU C6    H6     SING N N 43 
+HWU C1B   H1B    SING N N 44 
+HWU N3    H3     SING N N 45 
+HWU C5    H5     SING N N 46 
+HWU O2B   H2B    SING N N 47 
+HWU "C2'" "H2'"  SING N N 48 
+HWU C2B   HA     SING N N 49 
+HWU "N2'" HB     SING N N 50 
+HWU "C3'" "H3'"  SING N N 51 
+HWU "O2'" HC     SING N N 52 
+HWU C3B   H3B    SING N N 53 
+HWU "O3'" HD     SING N N 54 
+HWU "C4'" "H4'"  SING N N 55 
+HWU O3B   HE     SING N N 56 
+HWU C4B   H4B    SING N N 57 
+HWU "O4'" HF     SING N N 58 
+HWU C5B   H5B1   SING N N 59 
+HWU C5B   H5B2   SING N N 60 
+HWU "C6'" "H6'1" SING N N 61 
+HWU "C6'" "H6'2" SING N N 62 
+HWU "O6'" "H6'"  SING N N 63 
+HWU "C8'" "H8'1" SING N N 64 
+HWU "C8'" "H8'2" SING N N 65 
+HWU "C8'" "H8'3" SING N N 66 
+HWU "C1'" "H1'"  SING N N 67 
+HWU "C5'" "H5'"  SING N N 68 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HWU SMILES           ACDLabs              12.01 "O=C1C=CN(C(=O)N1)C2OC(C(O)C2O)COP(=O)(OP(=O)(OC3SC(C(O)C(O)C3NC(=O)C)CO)O)O" 
+HWU InChI            InChI                1.03  
+;InChI=1S/C17H27N3O16P2S/c1-6(22)18-10-13(26)12(25)8(4-21)39-16(10)35-38(31,32)36-37(29,30)33-5-7-11(24)14(27)15(34-7)20-3-2-9(23)19-17(20)28/h2-3,7-8,10-16,21,24-27H,4-5H2,1H3,(H,18,22)(H,29,30)(H,31,32)(H,19,23,28)/t7-,8-,10-,11-,12+,13-,14-,15-,16?/m1/s1
+;
+HWU InChIKey         InChI                1.03  JPRVHSQHWXZSNC-KZEZZKTRSA-N 
+HWU SMILES_CANONICAL CACTVS               3.385 "CC(=O)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)S[C@H]1O[P](O)(=O)O[P](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O" 
+HWU SMILES           CACTVS               3.385 "CC(=O)N[CH]1[CH](O)[CH](O)[CH](CO)S[CH]1O[P](O)(=O)O[P](O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)N3C=CC(=O)NC3=O" 
+HWU SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(=O)N[C@@H]1[C@H]([C@H]([C@H](S[C@@H]1OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)CO)O)O" 
+HWU SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=O)NC1C(C(C(SC1OP(=O)(O)OP(=O)(O)OCC2C(C(C(O2)N3C=CC(=O)NC3=O)O)O)CO)O)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HWU "SYSTEMATIC NAME" ACDLabs              12.01 
+"(2R,3R,4R,5R,6R)-3-(acetylamino)-4,5-dihydroxy-6-(hydroxymethyl)tetrahydro-2H-thiopyran-2-yl [(2R,3S,4R,5R)-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl dihydrogen diphosphate (non-preferred name)" 
+HWU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 
+"[(2S,3R,4R,5R,6R)-3-acetamido-6-(hydroxymethyl)-4,5-bis(oxidanyl)thian-2-yl] [[(2R,3S,4R,5R)-5-[2,4-bis(oxidanylidene)pyrimidin-1-yl]-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] hydrogen phosphate"                           
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HWU "Create component" 2014-04-30 EBI  
+HWU "Create component" 2014-05-20 EBI  
+HWU "Initial release"  2014-05-28 RCSB 
+# 

@@ -1,0 +1,174 @@
+data_EUR
+# 
+_chem_comp.id                                    EUR 
+_chem_comp.name                                  "4-chloranyl-N-[[4-chloranyl-3-(3-chloranyl-5-cyano-phenoxy)-2-fluoranyl-phenyl]methyl]-2-(hydroxymethyl)-1H-imidazole-5-carboxamide" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C19 H12 Cl3 F N4 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-14 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        469.681 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EUR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2YNH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EUR O01  O01  O  0 1 N N N -5.802  71.547 12.008 -2.923 3.642  -1.671 O01  EUR 1  
+EUR C02  C02  C  0 1 N N N -5.731  71.858 13.390 -4.259 3.521  -1.178 C02  EUR 2  
+EUR C03  C03  C  0 1 Y N N -5.732  70.552 14.123 -4.448 2.154  -0.571 C03  EUR 3  
+EUR N04  N04  N  0 1 Y N N -5.412  70.406 15.395 -5.553 1.712  -0.028 N04  EUR 4  
+EUR C05  C05  C  0 1 Y N N -5.546  69.081 15.657 -5.373 0.465  0.409  C05  EUR 5  
+EUR CL1  CL1  CL 0 0 N N N -5.198  68.475 17.246 -6.561 -0.526 1.197  CL1  EUR 6  
+EUR C07  C07  C  0 1 Y N N -5.930  68.383 14.522 -4.083 0.105  0.123  C07  EUR 7  
+EUR N08  N08  N  0 1 Y N N -6.065  69.370 13.552 -3.509 1.194  -0.508 N08  EUR 8  
+EUR C09  C09  C  0 1 N N N -6.239  66.974 14.307 -3.442 -1.179 0.421  C09  EUR 9  
+EUR O10  O10  O  0 1 N N N -6.774  66.565 13.277 -4.071 -2.058 0.980  O10  EUR 10 
+EUR N11  N11  N  0 1 N N N -5.906  66.154 15.373 -2.155 -1.385 0.076  N11  EUR 11 
+EUR C12  C12  C  0 1 N N N -6.237  64.734 15.364 -1.514 -2.668 0.374  C12  EUR 12 
+EUR C13  C13  C  0 1 Y N N -7.744  64.754 15.512 -0.087 -2.641 -0.110 C13  EUR 13 
+EUR C14  C14  C  0 1 Y N N -8.606  64.355 14.489 0.246  -3.240 -1.311 C14  EUR 14 
+EUR C15  C15  C  0 1 Y N N -9.986  64.414 14.641 1.554  -3.218 -1.758 C15  EUR 15 
+EUR C16  C16  C  0 1 Y N N -10.500 64.910 15.834 2.533  -2.595 -1.006 C16  EUR 16 
+EUR CL2  CL2  CL 0 0 N N N -12.199 65.036 16.120 4.175  -2.568 -1.570 CL2  EUR 17 
+EUR C18  C18  C  0 1 Y N N -9.679  65.332 16.865 2.203  -1.993 0.199  C18  EUR 18 
+EUR O19  O19  O  0 1 N N N -10.248 65.810 18.018 3.164  -1.381 0.941  O19  EUR 19 
+EUR C20  C20  C  0 1 Y N N -10.124 65.227 19.256 3.400  -0.062 0.715  C20  EUR 20 
+EUR C21  C21  C  0 1 Y N N -10.192 63.837 19.321 2.670  0.619  -0.251 C21  EUR 21 
+EUR C22  C22  C  0 1 Y N N -10.083 63.228 20.563 2.907  1.961  -0.486 C22  EUR 22 
+EUR CL3  CL3  CL 0 0 N N N -10.166 61.489 20.640 1.989  2.803  -1.695 CL3  EUR 23 
+EUR C24  C24  C  0 1 Y N N -9.913  63.942 21.740 3.871  2.634  0.239  C24  EUR 24 
+EUR C25  C25  C  0 1 Y N N -9.859  65.331 21.641 4.610  1.957  1.212  C25  EUR 25 
+EUR C28  C28  C  0 1 Y N N -9.964  65.983 20.408 4.366  0.604  1.451  C28  EUR 26 
+EUR C26  C26  C  0 1 N N N -9.687  66.129 22.812 5.611  2.651  1.965  C26  EUR 27 
+EUR N27  N27  N  0 1 N N N -9.549  66.807 23.743 6.405  3.201  2.563  N27  EUR 28 
+EUR C29  C29  C  0 1 Y N N -8.310  65.260 16.678 0.887  -2.012 0.644  C29  EUR 29 
+EUR F30  F30  F  0 1 N N N -7.536  65.678 17.702 0.560  -1.422 1.814  F30  EUR 30 
+EUR H01  H01  H  0 1 N N N -5.804  72.351 11.502 -2.730 4.499  -2.076 H01  EUR 31 
+EUR H021 H021 H  0 0 N N N -4.807  72.414 13.607 -4.437 4.283  -0.420 H021 EUR 32 
+EUR H022 H022 H  0 0 N N N -6.601  72.461 13.688 -4.963 3.654  -2.000 H022 EUR 33 
+EUR H08  H08  H  0 1 N N N -6.355  69.232 12.605 -2.599 1.253  -0.840 H08  EUR 34 
+EUR H11  H11  H  0 1 N N N -5.430  66.543 16.162 -1.654 -0.684 -0.369 H11  EUR 35 
+EUR H121 H121 H  0 0 N N N -5.936  64.261 14.418 -1.529 -2.841 1.450  H121 EUR 36 
+EUR H122 H122 H  0 0 N N N -5.761  64.208 16.205 -2.054 -3.470 -0.130 H122 EUR 37 
+EUR H14  H14  H  0 1 N N N -8.192  63.993 13.560 -0.517 -3.727 -1.901 H14  EUR 38 
+EUR H15  H15  H  0 1 N N N -10.644 64.082 13.851 1.811  -3.687 -2.697 H15  EUR 39 
+EUR H21  H21  H  0 1 N N N -10.326 63.248 18.426 1.914  0.098  -0.820 H21  EUR 40 
+EUR H28  H28  H  0 1 N N N -9.921  67.061 20.354 4.932  0.077  2.204  H28  EUR 41 
+EUR H24  H24  H  0 1 N N N -9.826  63.442 22.693 4.054  3.682  0.053  H24  EUR 42 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EUR O01 C02  SING N N 1  
+EUR C02 C03  SING N N 2  
+EUR C03 N04  DOUB Y N 3  
+EUR C03 N08  SING Y N 4  
+EUR N04 C05  SING Y N 5  
+EUR C05 CL1  SING N N 6  
+EUR C05 C07  DOUB Y N 7  
+EUR C07 N08  SING Y N 8  
+EUR C07 C09  SING N N 9  
+EUR C09 O10  DOUB N N 10 
+EUR C09 N11  SING N N 11 
+EUR N11 C12  SING N N 12 
+EUR C12 C13  SING N N 13 
+EUR C13 C14  SING Y N 14 
+EUR C13 C29  DOUB Y N 15 
+EUR C14 C15  DOUB Y N 16 
+EUR C15 C16  SING Y N 17 
+EUR C16 CL2  SING N N 18 
+EUR C16 C18  DOUB Y N 19 
+EUR C18 O19  SING N N 20 
+EUR C18 C29  SING Y N 21 
+EUR O19 C20  SING N N 22 
+EUR C20 C21  SING Y N 23 
+EUR C20 C28  DOUB Y N 24 
+EUR C21 C22  DOUB Y N 25 
+EUR C22 CL3  SING N N 26 
+EUR C22 C24  SING Y N 27 
+EUR C24 C25  DOUB Y N 28 
+EUR C25 C28  SING Y N 29 
+EUR C25 C26  SING N N 30 
+EUR C26 N27  TRIP N N 31 
+EUR C29 F30  SING N N 32 
+EUR O01 H01  SING N N 33 
+EUR C02 H021 SING N N 34 
+EUR C02 H022 SING N N 35 
+EUR N08 H08  SING N N 36 
+EUR N11 H11  SING N N 37 
+EUR C12 H121 SING N N 38 
+EUR C12 H122 SING N N 39 
+EUR C14 H14  SING N N 40 
+EUR C15 H15  SING N N 41 
+EUR C21 H21  SING N N 42 
+EUR C28 H28  SING N N 43 
+EUR C24 H24  SING N N 44 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EUR SMILES           ACDLabs              12.01 "Clc3nc(nc3C(=O)NCc2ccc(Cl)c(Oc1cc(C#N)cc(Cl)c1)c2F)CO"                                                                                                
+EUR InChI            InChI                1.03  "InChI=1S/C19H12Cl3FN4O3/c20-11-3-9(6-24)4-12(5-11)30-17-13(21)2-1-10(15(17)23)7-25-19(29)16-18(22)27-14(8-28)26-16/h1-5,28H,7-8H2,(H,25,29)(H,26,27)" 
+EUR InChIKey         InChI                1.03  AASNTQJUPFQRBO-UHFFFAOYSA-N                                                                                                                            
+EUR SMILES_CANONICAL CACTVS               3.385 "OCc1[nH]c(C(=O)NCc2ccc(Cl)c(Oc3cc(Cl)cc(c3)C#N)c2F)c(Cl)n1"                                                                                           
+EUR SMILES           CACTVS               3.385 "OCc1[nH]c(C(=O)NCc2ccc(Cl)c(Oc3cc(Cl)cc(c3)C#N)c2F)c(Cl)n1"                                                                                           
+EUR SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1cc(c(c(c1CNC(=O)c2c(nc([nH]2)CO)Cl)F)Oc3cc(cc(c3)Cl)C#N)Cl"                                                                                         
+EUR SMILES           "OpenEye OEToolkits" 1.9.2 "c1cc(c(c(c1CNC(=O)c2c(nc([nH]2)CO)Cl)F)Oc3cc(cc(c3)Cl)C#N)Cl"                                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EUR "SYSTEMATIC NAME" ACDLabs              12.01 "4-chloro-N-[4-chloro-3-(3-chloro-5-cyanophenoxy)-2-fluorobenzyl]-2-(hydroxymethyl)-1H-imidazole-5-carboxamide"                       
+EUR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "4-chloranyl-N-[[4-chloranyl-3-(3-chloranyl-5-cyano-phenoxy)-2-fluoranyl-phenyl]methyl]-2-(hydroxymethyl)-1H-imidazole-5-carboxamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EUR "Create component"  2012-10-14 EBI  
+EUR "Initial release"   2013-01-04 RCSB 
+EUR "Modify descriptor" 2014-09-05 RCSB 
+# 

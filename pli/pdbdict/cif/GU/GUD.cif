@@ -1,0 +1,212 @@
+data_GUD
+# 
+_chem_comp.id                                    GUD 
+_chem_comp.name                                  "GLUCOSE-URIDINE-C1,5'-DIPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H24 N2 O17 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2013-05-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      UPG 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        566.302 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GUD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GUQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GUD N1     N1     N 0 1 N N N -4.733 -9.420  156.165 5.466  -1.053 0.221  N1     GUD 1  
+GUD C2     C2     C 0 1 N N N -5.970 -9.810  156.641 6.090  -2.024 0.911  C2     GUD 2  
+GUD N3     N3     N 0 1 N N N -6.456 -10.923 155.992 6.631  -3.083 0.280  N3     GUD 3  
+GUD C4     C4     C 0 1 N N N -5.846 -11.617 154.932 6.555  -3.186 -1.062 C4     GUD 4  
+GUD C5     C5     C 0 1 N N N -4.580 -11.121 154.540 5.900  -2.171 -1.801 C5     GUD 5  
+GUD C6     C6     C 0 1 N N N -4.088 -10.073 155.135 5.367  -1.120 -1.142 C6     GUD 6  
+GUD O2     O2     O 0 1 N N N -6.585 -9.263  157.547 6.167  -1.945 2.122  O2     GUD 7  
+GUD O4     O4     O 0 1 N N N -6.411 -12.559 154.433 7.045  -4.143 -1.634 O4     GUD 8  
+GUD C1D    "C1'A" C 0 1 N N R -4.024 -8.304  156.754 4.881  0.085  0.936  C1D    GUD 9  
+GUD C2D    "C2'A" C 0 1 N N R -2.702 -8.739  157.420 5.612  1.399  0.561  C2D    GUD 10 
+GUD O2D    "O2'A" O 0 1 N N N -2.840 -9.323  158.777 6.761  1.597  1.386  O2D    GUD 11 
+GUD C3D    "C3'A" C 0 1 N N S -1.962 -7.363  157.408 4.530  2.467  0.854  C3D    GUD 12 
+GUD C4D    "C4'A" C 0 1 N N R -2.714 -6.538  156.297 3.206  1.679  0.828  C4D    GUD 13 
+GUD O4D    "O4'A" O 0 1 N N N -3.599 -7.495  155.701 3.525  0.317  0.500  O4D    GUD 14 
+GUD O3D    "O3'A" O 0 1 N N N -1.951 -6.735  158.702 4.740  3.051  2.141  O3D    GUD 15 
+GUD C5D    "C5'A" C 0 1 N N N -1.905 -5.789  155.206 2.272  2.266  -0.233 C5D    GUD 16 
+GUD O5D    "O5'A" O 0 1 N N N -1.339 -4.639  155.858 1.006  1.606  -0.170 O5D    GUD 17 
+GUD PA     PA     P 0 1 N N N 0.178  -4.063  155.662 -0.221 1.970  -1.146 PA     GUD 18 
+GUD O1A    O1A    O 0 1 N N N 0.580  -4.209  154.222 -0.516 3.418  -1.049 O1A    GUD 19 
+GUD O2A    O2A    O 0 1 N N N 0.228  -2.636  156.017 0.172  1.604  -2.663 O2A    GUD 20 
+GUD O3A    O3A    O 0 1 N N N 1.271  -4.794  156.655 -1.522 1.128  -0.710 O3A    GUD 21 
+GUD PB     PB     P 0 1 N N N 1.222  -5.651  157.970 -3.092 1.239  -1.048 PB     GUD 22 
+GUD O1B    O1B    O 0 1 N N N 0.142  -5.259  158.918 -3.493 2.663  -1.065 O1B    GUD 23 
+GUD O2B    O2B    O 0 1 N N N 1.260  -7.109  157.650 -3.378 0.584  -2.491 O2B    GUD 24 
+GUD O3B    O3B    O 0 1 N N N 2.592  -5.315  158.792 -3.940 0.456  0.074  O3B    GUD 25 
+GUD "C1'"  "C1'"  C 0 1 N N R 3.228  -4.068  158.478 -5.368 0.457  0.113  "C1'"  GUD 26 
+GUD "C2'"  "C2'"  C 0 1 N N R 4.670  -4.143  158.952 -5.840 0.319  1.563  "C2'"  GUD 27 
+GUD "C3'"  "C3'"  C 0 1 N N S 4.620  -4.483  160.430 -5.361 -1.025 2.121  "C3'"  GUD 28 
+GUD "C4'"  "C4'"  C 0 1 N N S 3.963  -3.403  161.211 -5.888 -2.152 1.229  "C4'"  GUD 29 
+GUD "C5'"  "C5'"  C 0 1 N N R 2.546  -3.148  160.611 -5.415 -1.919 -0.208 "C5'"  GUD 30 
+GUD "C6'"  "C6'"  C 0 1 N N N 1.874  -1.873  161.191 -5.986 -3.009 -1.117 "C6'"  GUD 31 
+GUD "O2'"  "O2'"  O 0 1 N N N 5.330  -5.264  158.293 -5.295 1.383  2.346  "O2'"  GUD 32 
+GUD "O3'"  "O3'"  O 0 1 N N N 5.925  -4.709  161.006 -5.859 -1.194 3.450  "O3'"  GUD 33 
+GUD "O4'"  "O4'"  O 0 1 N N N 3.889  -3.847  162.601 -5.388 -3.406 1.699  "O4'"  GUD 34 
+GUD "O5'"  "O5'"  O 0 1 N N N 2.570  -3.012  159.150 -5.867 -0.639 -0.655 "O5'"  GUD 35 
+GUD "O6'"  "O6'"  O 0 1 N N N 2.551  -0.670  160.742 -5.452 -2.859 -2.434 "O6'"  GUD 36 
+GUD HN3    HN3    H 0 1 N N N -7.337 -11.275 156.308 7.078  -3.774 0.793  HN3    GUD 37 
+GUD H5     H5     H 0 1 N N N -4.025 -11.609 153.752 5.830  -2.236 -2.876 H5     GUD 38 
+GUD H6     H6     H 0 1 N N N -3.130 -9.697  154.807 4.864  -0.336 -1.689 H6     GUD 39 
+GUD H1D    "H1'A" H 0 1 N N N -4.652 -7.760  157.475 4.918  -0.081 2.013  H1D    GUD 40 
+GUD H2D    "H2'A" H 0 1 N N N -2.172 -9.439  156.757 5.887  1.403  -0.494 H2D    GUD 41 
+GUD "HO2'" "HO2'" H 0 0 N N N -1.982 -9.561  159.109 7.252  2.407  1.189  "HO2'" GUD 42 
+GUD H3D    "H3'A" H 0 1 N N N -0.930 -7.531  157.067 4.532  3.235  0.081  H3D    GUD 43 
+GUD H4D    "H4'A" H 0 1 N N N -3.320 -5.784  156.820 2.730  1.722  1.808  H4D    GUD 44 
+GUD "HO3'" "HO3'" H 0 0 N N N -1.178 -6.189  158.783 5.586  3.510  2.232  "HO3'" GUD 45 
+GUD "H5'1" "H5'1" H 0 0 N N N -1.108 -6.435  154.809 2.136  3.331  -0.048 "H5'1" GUD 46 
+GUD "H5'2" "H5'2" H 0 0 N N N -2.567 -5.477  154.385 2.709  2.121  -1.221 "H5'2" GUD 47 
+GUD HOA2   HOA2   H 0 0 N N N 0.502  -2.130  155.261 0.378  0.669  -2.801 HOA2   GUD 48 
+GUD HOB2   HOB2   H 0 0 N N N 0.566  -7.555  158.121 -3.138 -0.351 -2.553 HOB2   GUD 49 
+GUD "H1'"  "H1'"  H 0 1 N N N 3.216  -3.899  157.391 -5.742 1.393  -0.303 "H1'"  GUD 50 
+GUD "H2'"  "H2'"  H 0 1 N N N 5.196  -3.192  158.779 -6.929 0.361  1.597  "H2'"  GUD 51 
+GUD "H3'"  "H3'"  H 0 1 N N N 4.022  -5.399  160.543 -4.272 -1.047 2.133  "H3'"  GUD 52 
+GUD "H4'"  "H4'"  H 0 1 N N N 4.553  -2.477  161.138 -6.978 -2.160 1.257  "H4'"  GUD 53 
+GUD "H5'"  "H5'"  H 0 1 N N N 1.913  -4.008  160.875 -4.326 -1.952 -0.242 "H5'"  GUD 54 
+GUD "H6'1" "H6'1" H 0 0 N N N 0.825  -1.839  160.861 -5.715 -3.989 -0.724 "H6'1" GUD 55 
+GUD "H6'2" "H6'2" H 0 0 N N N 1.911  -1.916  162.290 -7.072 -2.919 -1.153 "H6'2" GUD 56 
+GUD HO2A   HO2A   H 0 0 N N N 6.232  -5.317  158.585 -5.553 2.265  2.045  HO2A   GUD 57 
+GUD HO3A   HO3A   H 0 0 N N N 5.833  -4.917  161.928 -5.570 -0.510 4.069  HO3A   GUD 58 
+GUD "HO4'" "HO4'" H 0 0 N N N 3.472  -3.175  163.127 -5.646 -3.617 2.606  "HO4'" GUD 59 
+GUD "HO6'" "HO6'" H 0 0 N N N 2.121  0.092   161.111 -5.772 -3.518 -3.066 "HO6'" GUD 60 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GUD N1    C2     SING N N 1  
+GUD N1    C6     SING N N 2  
+GUD N1    C1D    SING N N 3  
+GUD C2    N3     SING N N 4  
+GUD C2    O2     DOUB N N 5  
+GUD N3    C4     SING N N 6  
+GUD N3    HN3    SING N N 7  
+GUD C4    C5     SING N N 8  
+GUD C4    O4     DOUB N N 9  
+GUD C5    C6     DOUB N N 10 
+GUD C5    H5     SING N N 11 
+GUD C6    H6     SING N N 12 
+GUD C1D   C2D    SING N N 13 
+GUD C1D   O4D    SING N N 14 
+GUD C1D   H1D    SING N N 15 
+GUD C2D   O2D    SING N N 16 
+GUD C2D   C3D    SING N N 17 
+GUD C2D   H2D    SING N N 18 
+GUD O2D   "HO2'" SING N N 19 
+GUD C3D   C4D    SING N N 20 
+GUD C3D   O3D    SING N N 21 
+GUD C3D   H3D    SING N N 22 
+GUD C4D   O4D    SING N N 23 
+GUD C4D   C5D    SING N N 24 
+GUD C4D   H4D    SING N N 25 
+GUD O3D   "HO3'" SING N N 26 
+GUD C5D   O5D    SING N N 27 
+GUD C5D   "H5'1" SING N N 28 
+GUD C5D   "H5'2" SING N N 29 
+GUD O5D   PA     SING N N 30 
+GUD PA    O1A    DOUB N N 31 
+GUD PA    O2A    SING N N 32 
+GUD PA    O3A    SING N N 33 
+GUD O2A   HOA2   SING N N 34 
+GUD O3A   PB     SING N N 35 
+GUD PB    O1B    DOUB N N 36 
+GUD PB    O2B    SING N N 37 
+GUD PB    O3B    SING N N 38 
+GUD O2B   HOB2   SING N N 39 
+GUD O3B   "C1'"  SING N N 40 
+GUD "C1'" "C2'"  SING N N 41 
+GUD "C1'" "O5'"  SING N N 42 
+GUD "C1'" "H1'"  SING N N 43 
+GUD "C2'" "C3'"  SING N N 44 
+GUD "C2'" "O2'"  SING N N 45 
+GUD "C2'" "H2'"  SING N N 46 
+GUD "C3'" "C4'"  SING N N 47 
+GUD "C3'" "O3'"  SING N N 48 
+GUD "C3'" "H3'"  SING N N 49 
+GUD "C4'" "C5'"  SING N N 50 
+GUD "C4'" "O4'"  SING N N 51 
+GUD "C4'" "H4'"  SING N N 52 
+GUD "C5'" "C6'"  SING N N 53 
+GUD "C5'" "O5'"  SING N N 54 
+GUD "C5'" "H5'"  SING N N 55 
+GUD "C6'" "O6'"  SING N N 56 
+GUD "C6'" "H6'1" SING N N 57 
+GUD "C6'" "H6'2" SING N N 58 
+GUD "O2'" HO2A   SING N N 59 
+GUD "O3'" HO3A   SING N N 60 
+GUD "O4'" "HO4'" SING N N 61 
+GUD "O6'" "HO6'" SING N N 62 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GUD SMILES           ACDLabs              12.01 "O=C1C=CN(C(=O)N1)C2OC(C(O)C2O)COP(=O)(OP(=O)(OC3OC(C(O)C(O)C3O)CO)O)O" 
+GUD InChI            InChI                1.03  
+"InChI=1S/C15H24N2O17P2/c18-3-5-8(20)10(22)12(24)14(32-5)33-36(28,29)34-35(26,27)30-4-6-9(21)11(23)13(31-6)17-2-1-7(19)16-15(17)25/h1-2,5-6,8-14,18,20-24H,3-4H2,(H,26,27)(H,28,29)(H,16,19,25)/t5-,6-,8-,9-,10+,11-,12-,13-,14-/m1/s1" 
+GUD InChIKey         InChI                1.03  HSCJRCZFDFQWRP-JZMIEXBBSA-N 
+GUD SMILES_CANONICAL CACTVS               3.370 "OC[C@H]1O[C@H](O[P](O)(=O)O[P](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O)[C@H](O)[C@@H](O)[C@@H]1O" 
+GUD SMILES           CACTVS               3.370 "OC[CH]1O[CH](O[P](O)(=O)O[P](O)(=O)OC[CH]2O[CH]([CH](O)[CH]2O)N3C=CC(=O)NC3=O)[CH](O)[CH](O)[CH]1O" 
+GUD SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@@](=O)(O)O[P@@](=O)(O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O" 
+GUD SMILES           "OpenEye OEToolkits" 1.7.6 "C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)CO)O)O)O)O)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GUD "SYSTEMATIC NAME" ACDLabs              12.01 
+"[(2R,3S,4R,5R)-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl dihydrogen diphosphate (non-preferred name)" 
+GUD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[[(2R,3S,4R,5R)-5-[2,4-bis(oxidanylidene)pyrimidin-1-yl]-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] [(2R,3R,4S,5S,6R)-6-(hydroxymethyl)-3,4,5-tris(oxidanyl)oxan-2-yl] hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GUD "Create component"   1999-07-08 RCSB 
+GUD "Modify descriptor"  2011-06-04 RCSB 
+GUD "Obsolete component" 2013-05-07 RCSB 
+# 

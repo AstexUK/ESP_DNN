@@ -1,0 +1,112 @@
+data_MH6
+# 
+_chem_comp.id                                    MH6 
+_chem_comp.name                                  "3-hydroxy-2-iminopropanoic acid" 
+_chem_comp.type                                  "PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H5 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-11 
+_chem_comp.pdbx_modified_date                    2011-11-17 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        103.077 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MH6 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3CF5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MH6 N   N   N 0 1 N N N 124.189 77.662 120.804 0.513  1.510  0.000  N   MH6 1  
+MH6 CA  CA  C 0 1 N N N 123.616 77.333 121.903 0.233  0.260  0.000  CA  MH6 2  
+MH6 C   C   C 0 1 N N N 124.556 76.990 123.054 -1.181 -0.183 -0.000 C   MH6 3  
+MH6 CB  CB  C 0 1 N N N 122.176 77.289 122.190 1.343  -0.760 0.000  CB  MH6 4  
+MH6 OG  OG  O 0 1 N Y N 121.320 77.484 120.947 2.605  -0.091 0.000  OG  MH6 5  
+MH6 O   O   O 0 1 N N N 124.416 75.896 123.742 -1.446 -1.368 -0.000 O   MH6 6  
+MH6 OXT OXT O 0 1 N Y N 125.831 77.952 123.463 -2.172 0.729  -0.000 OXT MH6 7  
+MH6 H   HN  H 0 1 N Y N 123.527 77.908 120.095 1.438  1.800  0.000  H   MH6 8  
+MH6 HB2 HB2 H 0 1 N N N 121.939 76.306 122.624 1.262  -1.384 0.890  HB2 MH6 9  
+MH6 HB3 HB3 H 0 1 N N N 121.940 78.093 122.903 1.262  -1.384 -0.890 HB3 MH6 10 
+MH6 HXT HXT H 0 1 N Y N 126.311 77.555 124.180 -3.079 0.391  -0.000 HXT MH6 11 
+MH6 HG  HG  H 0 1 N N N 120.401 77.447 121.186 3.366  -0.687 0.000  HG  MH6 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MH6 N   CA  DOUB N N 1  
+MH6 CA  C   SING N N 2  
+MH6 CA  CB  SING N N 3  
+MH6 C   O   DOUB N N 4  
+MH6 C   OXT SING N N 5  
+MH6 CB  OG  SING N N 6  
+MH6 N   H   SING N N 7  
+MH6 CB  HB2 SING N N 8  
+MH6 CB  HB3 SING N N 9  
+MH6 OXT HXT SING N N 10 
+MH6 OG  HG  SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MH6 SMILES           ACDLabs              12.01 "O=C(O)C(=[N@H])CO"                                       
+MH6 SMILES_CANONICAL CACTVS               3.370 "OCC(=N)C(O)=O"                                           
+MH6 SMILES           CACTVS               3.370 "OCC(=N)C(O)=O"                                           
+MH6 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "[H]/N=C(\CO)/C(=O)O"                                     
+MH6 SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(=N)C(=O)O)O"                                         
+MH6 InChI            InChI                1.03  "InChI=1S/C3H5NO3/c4-2(1-5)3(6)7/h4-5H,1H2,(H,6,7)/b4-2+" 
+MH6 InChIKey         InChI                1.03  MUHXUPVPXJXCGV-DUXPYHPUSA-N                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MH6 "SYSTEMATIC NAME" ACDLabs              12.01 "(2E)-3-hydroxy-2-iminopropanoic acid" 
+MH6 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "3-hydroxy-2-imino-propanoic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MH6 "Other modification" 2008-03-11 EBI  
+MH6 "Other modification" 2011-01-04 RCSB 
+MH6 "Other modification" 2011-01-20 RCSB 
+MH6 "Modify descriptor"  2011-06-04 RCSB 
+# 

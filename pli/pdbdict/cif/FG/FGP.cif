@@ -1,0 +1,127 @@
+data_FGP
+# 
+_chem_comp.id                                    FGP 
+_chem_comp.name                                  "2-AMINO-3-HYDROXY-3-PHOSPHONOOXY-PROPIONIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H8 N O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-10-28 
+_chem_comp.pdbx_modified_date                    2013-09-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        201.072 
+_chem_comp.one_letter_code                       S 
+_chem_comp.three_letter_code                     FGP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1N2K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FGP N    N    N 0 1 N N N 20.215 37.144 -18.722 1.406  1.841  0.576  N    FGP 1  
+FGP CA   CA   C 0 1 N N S 20.935 38.052 -19.613 1.652  0.395  0.647  CA   FGP 2  
+FGP CB   CB   C 0 1 N N S 21.610 37.284 -20.747 0.475  -0.354 0.018  CB   FGP 3  
+FGP OG1  OG1  O 0 1 N N N 22.386 38.187 -21.543 0.659  -1.760 0.190  OG1  FGP 4  
+FGP OG2  OG2  O 0 1 N N N 22.451 36.263 -20.201 -0.740 0.049  0.653  OG2  FGP 5  
+FGP C    C    C 0 1 N N N 20.133 39.202 -20.225 2.917  0.063  -0.103 C    FGP 6  
+FGP O    O    O 0 1 N N N 20.432 40.368 -19.973 3.351  0.834  -0.926 O    FGP 7  
+FGP P    P    P 0 1 N N N 22.071 34.739 -20.458 -2.161 0.068  -0.104 P    FGP 8  
+FGP O1P  O1P  O 0 1 N N N 20.718 34.451 -19.870 -2.055 0.890  -1.330 O1P  FGP 9  
+FGP O2P  O2P  O 0 1 N N N 22.037 34.471 -21.933 -2.578 -1.436 -0.500 O2P  FGP 10 
+FGP O3P  O3P  O 0 1 N N N 23.100 33.860 -19.815 -3.279 0.697  0.869  O3P  FGP 11 
+FGP OXT  OXT  O 0 1 N Y N ?      ?      ?       3.561  -1.089 0.144  OXT  FGP 12 
+FGP HN1  HN1  H 0 1 N N N 19.782 37.669 -17.989 2.139  2.356  1.042  HN1  FGP 13 
+FGP HN2  HN2  H 0 1 N Y N 19.514 36.655 -19.240 1.304  2.145  -0.381 HN2  FGP 14 
+FGP HA   HA   H 0 1 N N N 21.742 38.514 -19.025 1.759  0.095  1.689  HA   FGP 15 
+FGP HB   HB   H 0 1 N N N 20.827 36.824 -21.368 0.424  -0.122 -1.046 HB   FGP 16 
+FGP HOG  HOG  H 0 1 N N N 22.805 37.708 -22.248 0.714  -2.040 1.114  HOG  FGP 17 
+FGP HO2P HO2P H 0 0 N N N 21.169 34.177 -22.182 -2.665 -2.032 0.256  HO2P FGP 18 
+FGP HO3P HO3P H 0 0 N N N 22.682 33.303 -19.169 -4.162 0.739  0.478  HO3P FGP 19 
+FGP HXT  HXT  H 0 1 N Y N ?      ?      ?       4.367  -1.258 -0.362 HXT  FGP 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FGP N   CA   SING N N 1  
+FGP N   HN1  SING N N 2  
+FGP N   HN2  SING N N 3  
+FGP CA  CB   SING N N 4  
+FGP CA  C    SING N N 5  
+FGP CA  HA   SING N N 6  
+FGP CB  OG1  SING N N 7  
+FGP CB  OG2  SING N N 8  
+FGP CB  HB   SING N N 9  
+FGP OG1 HOG  SING N N 10 
+FGP OG2 P    SING N N 11 
+FGP C   O    DOUB N N 12 
+FGP C   OXT  SING N N 13 
+FGP P   O1P  DOUB N N 14 
+FGP P   O2P  SING N N 15 
+FGP P   O3P  SING N N 16 
+FGP O2P HO2P SING N N 17 
+FGP O3P HO3P SING N N 18 
+FGP OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FGP SMILES           ACDLabs              12.01 "O=P(OC(O)C(N)C(=O)O)(O)O"                                                                  
+FGP InChI            InChI                1.03  "InChI=1S/C3H8NO7P/c4-1(2(5)6)3(7)11-12(8,9)10/h1,3,7H,4H2,(H,5,6)(H2,8,9,10)/t1-,3+/m1/s1" 
+FGP InChIKey         InChI                1.03  JVLKWZAWYDOHCD-GPKNORDASA-N                                                                 
+FGP SMILES_CANONICAL CACTVS               3.385 "N[C@@H]([C@@H](O)O[P](O)(O)=O)C(O)=O"                                                      
+FGP SMILES           CACTVS               3.385 "N[CH]([CH](O)O[P](O)(O)=O)C(O)=O"                                                          
+FGP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[C@H]([C@@H](O)OP(=O)(O)O)(C(=O)O)N"                                                       
+FGP SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(O)OP(=O)(O)O)(C(=O)O)N"                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FGP "SYSTEMATIC NAME" ACDLabs              12.01 "(3S)-3-(phosphonooxy)-L-serine"                            
+FGP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S,3S)-2-azanyl-3-oxidanyl-3-phosphonooxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FGP "Create component"         2002-10-28 RCSB 
+FGP "Modify descriptor"        2011-06-04 RCSB 
+FGP "Modify leaving atom flag" 2013-09-13 RCSB 
+# 

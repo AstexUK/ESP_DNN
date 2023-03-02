@@ -1,0 +1,114 @@
+data_BUQ
+# 
+_chem_comp.id                                    BUQ 
+_chem_comp.name                                  4-HYDROXY-2-BUTANONE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-10-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        88.105 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BUQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1D7J 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BUQ C1   C1   C 0 1 N N N 60.801 -6.061 -1.886 -0.758 0.000  2.369  C1   BUQ 1  
+BUQ C2   C2   C 0 1 N N N 60.614 -5.579 -0.464 0.041  0.000  1.092  C2   BUQ 2  
+BUQ O2   O2   O 0 1 N N N 60.498 -6.421 0.429  1.248  0.000  1.136  O2   BUQ 3  
+BUQ C3   C3   C 0 1 N N N 60.561 -4.093 -0.143 -0.664 0.000  -0.238 C3   BUQ 4  
+BUQ C4   C4   C 0 1 N N N 60.224 -3.229 -1.358 0.371  0.000  -1.365 C4   BUQ 5  
+BUQ O5   O5   O 0 1 N N N 59.076 -3.571 -2.124 -0.298 0.000  -2.627 O5   BUQ 6  
+BUQ H11  1H1  H 0 1 N N N 60.905 -5.299 -2.693 -1.386 -0.890 2.405  H11  BUQ 7  
+BUQ H12  2H1  H 0 1 N N N 61.674 -6.752 -1.923 -0.080 0.000  3.223  H12  BUQ 8  
+BUQ H13  3H1  H 0 1 N N N 59.968 -6.754 -2.146 -1.386 0.890  2.405  H13  BUQ 9  
+BUQ H31  1H3  H 0 1 N N N 59.854 -3.892 0.695  -1.288 -0.890 -0.318 H31  BUQ 10 
+BUQ H32  2H3  H 0 1 N N N 61.510 -3.755 0.333  -1.288 0.890  -0.318 H32  BUQ 11 
+BUQ H41  1H4  H 0 1 N N N 60.145 -2.163 -1.038 0.995  0.890  -1.284 H41  BUQ 12 
+BUQ H42  2H4  H 0 1 N N N 61.111 -3.183 -2.031 0.995  -0.890 -1.284 H42  BUQ 13 
+BUQ HO51 1HO5 H 0 0 N N N 58.866 -3.034 -2.879 0.388  0.000  -3.308 HO51 BUQ 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BUQ C1 C2   SING N N 1  
+BUQ C1 H11  SING N N 2  
+BUQ C1 H12  SING N N 3  
+BUQ C1 H13  SING N N 4  
+BUQ C2 O2   DOUB N N 5  
+BUQ C2 C3   SING N N 6  
+BUQ C3 C4   SING N N 7  
+BUQ C3 H31  SING N N 8  
+BUQ C3 H32  SING N N 9  
+BUQ C4 O5   SING N N 10 
+BUQ C4 H41  SING N N 11 
+BUQ C4 H42  SING N N 12 
+BUQ O5 HO51 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BUQ SMILES           ACDLabs              10.04 "O=C(C)CCO"                                  
+BUQ SMILES_CANONICAL CACTVS               3.341 "CC(=O)CCO"                                  
+BUQ SMILES           CACTVS               3.341 "CC(=O)CCO"                                  
+BUQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)CCO"                                  
+BUQ SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)CCO"                                  
+BUQ InChI            InChI                1.03  "InChI=1S/C4H8O2/c1-4(6)2-3-5/h5H,2-3H2,1H3" 
+BUQ InChIKey         InChI                1.03  LVSQXDHWDCMMRJ-UHFFFAOYSA-N                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BUQ "SYSTEMATIC NAME" ACDLabs              10.04 4-hydroxybutan-2-one 
+BUQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-hydroxybutan-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BUQ "Create component"  1999-10-19 EBI  
+BUQ "Modify descriptor" 2011-06-04 RCSB 
+# 

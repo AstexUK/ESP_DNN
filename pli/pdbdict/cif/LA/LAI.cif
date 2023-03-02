@@ -1,0 +1,124 @@
+data_LAI
+# 
+_chem_comp.id                                    LAI 
+_chem_comp.name                                  L-arabinose 
+_chem_comp.type                                  L-saccharide 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-01-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LAI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3LBC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LAI O1   O1   O 0 1 N N N -7.376 -78.028 -21.550 3.543  0.198  0.430  O1   LAI 1  
+LAI C2   C2   C 0 1 N N N -6.370 -77.083 -21.913 2.367  0.685  -0.219 C2   LAI 2  
+LAI C4   C4   C 0 1 N N S -7.034 -75.871 -22.581 1.194  -0.250 0.081  C4   LAI 3  
+LAI C6   C6   C 0 1 N N S -6.310 -74.578 -23.016 -0.090 0.336  -0.509 C6   LAI 4  
+LAI C8   C8   C 0 1 N N R -7.376 -73.612 -23.595 -1.263 -0.599 -0.208 C8   LAI 5  
+LAI C10  C10  C 0 1 N N N -6.989 -72.258 -24.126 -2.545 0.036  -0.681 C10  LAI 6  
+LAI O14  O14  O 0 1 N N N -7.579 -76.307 -23.843 1.444  -1.531 -0.501 O14  LAI 7  
+LAI O16  O16  O 0 1 N N N -5.665 -73.977 -21.878 -0.340 1.617  0.073  O16  LAI 8  
+LAI O18  O18  O 0 1 N N N -8.421 -73.461 -22.616 -1.338 -0.832 1.200  O18  LAI 9  
+LAI O20  O20  O 0 1 N N N -7.176 -71.237 -23.441 -3.432 0.265  0.106  O20  LAI 10 
+LAI HO1  HO1  H 0 1 N N N -6.970 -78.780 -21.136 4.328  0.743  0.283  HO1  LAI 11 
+LAI H2   H2   H 0 1 N N N -5.829 -76.757 -21.013 2.138  1.685  0.147  H2   LAI 12 
+LAI H2A  H2A  H 0 1 N N N -5.663 -77.549 -22.615 2.536  0.722  -1.296 H2A  LAI 13 
+LAI H4   H4   H 0 1 N N N -7.655 -75.569 -21.725 1.082  -0.357 1.160  H4   LAI 14 
+LAI H6   H6   H 0 1 N N N -5.543 -74.798 -23.773 0.022  0.443  -1.588 H6   LAI 15 
+LAI H8   H8   H 0 1 N N N -7.667 -74.119 -24.527 -1.114 -1.547 -0.726 H8   LAI 16 
+LAI H10  H10  H 0 1 N N N -6.546 -72.173 -25.107 -2.671 0.285  -1.724 H10  LAI 17 
+LAI HO14 HO14 H 0 0 N N N -7.997 -75.573 -24.278 1.555  -1.512 -1.461 HO14 LAI 18 
+LAI HO16 HO16 H 0 0 N N N -5.221 -73.182 -22.149 -0.451 1.598  1.033  HO16 LAI 19 
+LAI HO18 HO18 H 0 0 N N N -8.519 -72.542 -22.396 -1.470 -0.030 1.724  HO18 LAI 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LAI O1  C2   SING N N 1  
+LAI C2  C4   SING N N 2  
+LAI C4  C6   SING N N 3  
+LAI C4  O14  SING N N 4  
+LAI C6  C8   SING N N 5  
+LAI C6  O16  SING N N 6  
+LAI C8  C10  SING N N 7  
+LAI C8  O18  SING N N 8  
+LAI C10 O20  DOUB N N 9  
+LAI O1  HO1  SING N N 10 
+LAI C2  H2   SING N N 11 
+LAI C2  H2A  SING N N 12 
+LAI C4  H4   SING N N 13 
+LAI C6  H6   SING N N 14 
+LAI C8  H8   SING N N 15 
+LAI C10 H10  SING N N 16 
+LAI O14 HO14 SING N N 17 
+LAI O16 HO16 SING N N 18 
+LAI O18 HO18 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LAI SMILES_CANONICAL CACTVS               3.352 "OC[C@H](O)[C@H](O)[C@@H](O)C=O"                                          
+LAI SMILES           CACTVS               3.352 "OC[CH](O)[CH](O)[CH](O)C=O"                                              
+LAI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C([C@@H]([C@@H]([C@H](C=O)O)O)O)O"                                       
+LAI SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(C(C(C=O)O)O)O)O"                                                     
+LAI InChI            InChI                1.03  "InChI=1S/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h1,3-5,7-10H,2H2/t3-,4-,5+/m0/s1" 
+LAI InChIKey         InChI                1.03  PYMYPHUHKUWMLA-VAYJURFESA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LAI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2R,3S,4S)-2,3,4,5-tetrahydroxypentanal" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LAI "Create component"  2010-01-27 PDBJ 
+LAI "Modify descriptor" 2011-06-04 RCSB 
+# 

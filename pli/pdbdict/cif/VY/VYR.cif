@@ -1,0 +1,242 @@
+data_VYR
+# 
+_chem_comp.id                                    VYR 
+_chem_comp.name                                  "N-[(S)-1-[5-(5-Chloro-thiophen-2-yl)-isoxazol-3-ylmethyl]-2-(4-methoxy-piperidin-1-yl)-2-oxo-ethyl]-2-ethyl-3-(3-oxo-morpholin-4-yl)-benzenesulfonamide" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C28 H33 Cl N4 O7 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-06-19 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        637.167 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VYR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4BTT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VYR C34  C34  C  0 1 Y N N 33.396 -21.636 -42.105 -6.950 0.335  -1.191 C34  VYR 1  
+VYR C35  C35  C  0 1 Y N N 32.211 -21.020 -42.249 -8.176 -0.268 -1.023 C35  VYR 2  
+VYR C36  C36  C  0 1 Y N N 31.248 -21.799 -42.734 -8.345 -0.898 0.146  C36  VYR 3  
+VYR CL   CL   CL 0 0 N N N 29.640 -21.261 -43.058 -9.785 -1.741 0.624  CL   VYR 4  
+VYR S37  S37  S  0 1 Y N N 31.854 -23.352 -42.936 -6.892 -0.748 1.124  S37  VYR 5  
+VYR C33  C33  C  0 1 Y N N 33.400 -22.939 -42.404 -6.101 0.191  -0.136 C33  VYR 6  
+VYR C31  C31  C  0 1 Y N N 34.474 -23.812 -42.303 -4.738 0.735  -0.061 C31  VYR 7  
+VYR C32  C32  C  0 1 Y N N 34.535 -25.009 -41.728 -3.855 0.610  0.983  C32  VYR 8  
+VYR O30  O30  O  0 1 Y N N 35.711 -23.464 -42.743 -4.099 1.451  -1.005 O30  VYR 9  
+VYR N29  N29  N  0 1 Y N N 36.541 -24.546 -42.428 -2.985 1.755  -0.649 N29  VYR 10 
+VYR C28  C28  C  0 1 Y N N 35.789 -25.461 -41.822 -2.713 1.305  0.544  C28  VYR 11 
+VYR C27  C27  C  0 1 N N N 36.302 -26.808 -41.307 -1.424 1.489  1.303  C27  VYR 12 
+VYR C17  C17  C  0 1 N N S 36.674 -26.825 -39.809 -0.255 0.990  0.452  C17  VYR 13 
+VYR C18  C18  C  0 1 N N N 36.804 -25.424 -39.152 1.042  1.263  1.170  C18  VYR 14 
+VYR O43  O43  O  0 1 N N N 35.786 -24.877 -38.721 1.616  0.365  1.748  O43  VYR 15 
+VYR N19  N19  N  0 1 N N N 38.006 -24.831 -38.949 1.563  2.506  1.170  N19  VYR 16 
+VYR C20  C20  C  0 1 N N N 38.089 -23.504 -38.257 2.766  2.814  1.955  C20  VYR 17 
+VYR C21  C21  C  0 1 N N N 38.747 -22.446 -39.163 3.809  3.451  1.032  C21  VYR 18 
+VYR C22  C22  C  0 1 N N N 39.901 -23.002 -40.058 3.190  4.662  0.329  C22  VYR 19 
+VYR O25  O25  O  0 1 N N N 41.179 -22.412 -39.753 4.170  5.278  -0.509 O25  VYR 20 
+VYR C26  C26  C  0 1 N N N 41.561 -21.490 -40.790 3.994  6.687  -0.669 C26  VYR 21 
+VYR C23  C23  C  0 1 N N N 40.003 -24.519 -40.419 2.003  4.208  -0.523 C23  VYR 22 
+VYR C24  C24  C  0 1 N N N 39.298 -25.441 -39.405 0.943  3.578  0.379  C24  VYR 23 
+VYR N16  N16  N  0 1 N N N 35.708 -27.659 -39.069 -0.394 -0.451 0.228  N16  VYR 24 
+VYR S15  S15  S  0 1 N N N 36.425 -28.570 -37.900 0.031  -1.107 -1.231 S15  VYR 25 
+VYR O40  O40  O  0 1 N N N 35.406 -29.499 -37.308 -0.194 -2.506 -1.123 O40  VYR 26 
+VYR O41  O41  O  0 1 N N N 37.506 -29.418 -38.510 -0.577 -0.297 -2.228 O41  VYR 27 
+VYR C9   C9   C  0 1 Y N N 37.118 -27.518 -36.636 1.771  -0.896 -1.411 C9   VYR 28 
+VYR C8   C8   C  0 1 Y N N 36.328 -26.676 -35.811 2.637  -1.554 -0.560 C8   VYR 29 
+VYR C13  C13  C  0 1 N N N 34.788 -26.630 -35.938 2.095  -2.453 0.521  C13  VYR 30 
+VYR C14  C14  C  0 1 N N N 34.104 -27.536 -34.914 2.081  -3.899 0.023  C14  VYR 31 
+VYR C10  C10  C  0 1 Y N N 38.513 -27.525 -36.521 2.268  -0.076 -2.407 C10  VYR 32 
+VYR C11  C11  C  0 1 Y N N 39.165 -26.726 -35.587 3.633  0.092  -2.552 C11  VYR 33 
+VYR C12  C12  C  0 1 Y N N 38.407 -25.902 -34.760 4.504  -0.559 -1.701 C12  VYR 34 
+VYR C7   C7   C  0 1 Y N N 37.011 -25.865 -34.870 4.008  -1.388 -0.703 C7   VYR 35 
+VYR N3   N3   N  0 1 N N N 36.325 -25.011 -33.970 4.889  -2.053 0.158  N3   VYR 36 
+VYR C2   C2   C  0 1 N N N 35.978 -23.617 -34.407 5.189  -1.453 1.456  C2   VYR 37 
+VYR C1   C1   C  0 1 N N N 35.055 -22.872 -33.418 5.773  -2.509 2.396  C1   VYR 38 
+VYR O6   O6   O  0 1 N N N 34.495 -23.623 -32.301 6.822  -3.204 1.711  O6   VYR 39 
+VYR C5   C5   C  0 1 N N N 35.392 -24.615 -31.757 6.344  -4.017 0.636  C5   VYR 40 
+VYR C4   C4   C  0 1 N N N 36.057 -25.458 -32.645 5.419  -3.217 -0.237 C4   VYR 41 
+VYR O39  O39  O  0 1 N N N 36.346 -26.599 -32.283 5.146  -3.639 -1.341 O39  VYR 42 
+VYR H34  H34  H  0 1 N N N 34.282 -21.116 -41.772 -6.681 0.873  -2.088 H34  VYR 43 
+VYR H35  H35  H  0 1 N N N 32.054 -19.983 -41.993 -8.947 -0.233 -1.779 H35  VYR 44 
+VYR H32  H32  H  0 1 N N N 33.710 -25.529 -41.263 -4.003 0.099  1.923  H32  VYR 45 
+VYR H271 H271 H  0 0 N N N 35.517 -27.560 -41.474 -1.283 2.546  1.529  H271 VYR 46 
+VYR H272 H272 H  0 0 N N N 37.198 -27.078 -41.886 -1.466 0.922  2.233  H272 VYR 47 
+VYR H17  H17  H  0 1 N N N 37.660 -27.306 -39.730 -0.256 1.508  -0.507 H17  VYR 48 
+VYR H16  H16  H  0 1 N N N 35.031 -27.061 -38.639 -0.736 -1.021 0.935  H16  VYR 49 
+VYR H201 H201 H  0 0 N N N 37.074 -23.171 -37.995 2.512  3.510  2.755  H201 VYR 50 
+VYR H202 H202 H  0 0 N N N 38.687 -23.614 -37.340 3.168  1.895  2.382  H202 VYR 51 
+VYR H241 H241 H  0 0 N N N 39.954 -25.591 -38.535 0.143  3.163  -0.235 H241 VYR 52 
+VYR H242 H242 H  0 0 N N N 39.092 -26.411 -39.880 0.537  4.337  1.047  H242 VYR 53 
+VYR H211 H211 H  0 0 N N N 37.972 -22.024 -39.820 4.668  3.772  1.620  H211 VYR 54 
+VYR H212 H212 H  0 0 N N N 39.158 -21.651 -38.524 4.128  2.722  0.287  H212 VYR 55 
+VYR H22  H22  H  0 1 N N N 39.658 -22.558 -41.034 2.848  5.379  1.076  H22  VYR 56 
+VYR H231 H231 H  0 0 N N N 39.545 -24.673 -41.407 1.577  5.067  -1.041 H231 VYR 57 
+VYR H232 H232 H  0 0 N N N 41.067 -24.796 -40.461 2.340  3.472  -1.253 H232 VYR 58 
+VYR H261 H261 H  0 0 N N N 42.538 -21.047 -40.546 4.777  7.079  -1.319 H261 VYR 59 
+VYR H262 H262 H  0 0 N N N 41.631 -22.025 -41.749 3.020  6.883  -1.116 H262 VYR 60 
+VYR H263 H263 H  0 0 N N N 40.806 -20.694 -40.869 4.052  7.174  0.304  H263 VYR 61 
+VYR H10  H10  H  0 1 N N N 39.095 -28.163 -37.170 1.588  0.434  -3.074 H10  VYR 62 
+VYR H131 H131 H  0 0 N N N 34.449 -25.596 -35.780 2.728  -2.380 1.406  H131 VYR 63 
+VYR H132 H132 H  0 0 N N N 34.505 -26.959 -36.949 1.080  -2.145 0.774  H132 VYR 64 
+VYR H141 H141 H  0 0 N N N 33.013 -27.473 -35.039 3.104  -4.242 -0.129 H141 VYR 65 
+VYR H142 H142 H  0 0 N N N 34.431 -28.575 -35.067 1.592  -4.534 0.763  H142 VYR 66 
+VYR H143 H143 H  0 0 N N N 34.376 -27.212 -33.899 1.536  -3.954 -0.919 H143 VYR 67 
+VYR H11  H11  H  0 1 N N N 40.242 -26.745 -35.505 4.018  0.732  -3.332 H11  VYR 68 
+VYR H12  H12  H  0 1 N N N 38.901 -25.284 -34.025 5.570  -0.428 -1.815 H12  VYR 69 
+VYR H21C H21C H  0 0 N N N 36.910 -23.043 -34.512 5.912  -0.647 1.324  H21C VYR 70 
+VYR H22C H22C H  0 0 N N N 35.470 -23.674 -35.381 4.274  -1.049 1.889  H22C VYR 71 
+VYR H11C H11C H  0 0 N N N 35.636 -22.040 -32.993 6.176  -2.025 3.286  H11C VYR 72 
+VYR H12C H12C H  0 0 N N N 34.211 -22.472 -33.998 4.993  -3.215 2.682  H12C VYR 73 
+VYR H51C H51C H  0 0 N N N 36.159 -24.079 -31.179 7.189  -4.370 0.045  H51C VYR 74 
+VYR H52C H52C H  0 0 N N N 34.803 -25.252 -31.081 5.805  -4.873 1.042  H52C VYR 75 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VYR C34 C35  SING Y N 1  
+VYR C34 C33  DOUB Y N 2  
+VYR C35 C36  DOUB Y N 3  
+VYR C36 CL   SING N N 4  
+VYR C36 S37  SING Y N 5  
+VYR S37 C33  SING Y N 6  
+VYR C33 C31  SING N N 7  
+VYR C31 C32  DOUB Y N 8  
+VYR C31 O30  SING Y N 9  
+VYR C32 C28  SING Y N 10 
+VYR O30 N29  SING Y N 11 
+VYR N29 C28  DOUB Y N 12 
+VYR C28 C27  SING N N 13 
+VYR C27 C17  SING N N 14 
+VYR C17 C18  SING N N 15 
+VYR C17 N16  SING N N 16 
+VYR C18 O43  DOUB N N 17 
+VYR C18 N19  SING N N 18 
+VYR N19 C20  SING N N 19 
+VYR N19 C24  SING N N 20 
+VYR C20 C21  SING N N 21 
+VYR C21 C22  SING N N 22 
+VYR C22 O25  SING N N 23 
+VYR C22 C23  SING N N 24 
+VYR O25 C26  SING N N 25 
+VYR C23 C24  SING N N 26 
+VYR N16 S15  SING N N 27 
+VYR S15 O40  DOUB N N 28 
+VYR S15 O41  DOUB N N 29 
+VYR S15 C9   SING N N 30 
+VYR C9  C8   SING Y N 31 
+VYR C9  C10  DOUB Y N 32 
+VYR C8  C13  SING N N 33 
+VYR C8  C7   DOUB Y N 34 
+VYR C13 C14  SING N N 35 
+VYR C10 C11  SING Y N 36 
+VYR C11 C12  DOUB Y N 37 
+VYR C12 C7   SING Y N 38 
+VYR C7  N3   SING N N 39 
+VYR N3  C2   SING N N 40 
+VYR N3  C4   SING N N 41 
+VYR C2  C1   SING N N 42 
+VYR C1  O6   SING N N 43 
+VYR O6  C5   SING N N 44 
+VYR C5  C4   SING N N 45 
+VYR C4  O39  DOUB N N 46 
+VYR C34 H34  SING N N 47 
+VYR C35 H35  SING N N 48 
+VYR C32 H32  SING N N 49 
+VYR C27 H271 SING N N 50 
+VYR C27 H272 SING N N 51 
+VYR C17 H17  SING N N 52 
+VYR N16 H16  SING N N 53 
+VYR C20 H201 SING N N 54 
+VYR C20 H202 SING N N 55 
+VYR C24 H241 SING N N 56 
+VYR C24 H242 SING N N 57 
+VYR C21 H211 SING N N 58 
+VYR C21 H212 SING N N 59 
+VYR C22 H22  SING N N 60 
+VYR C23 H231 SING N N 61 
+VYR C23 H232 SING N N 62 
+VYR C26 H261 SING N N 63 
+VYR C26 H262 SING N N 64 
+VYR C26 H263 SING N N 65 
+VYR C10 H10  SING N N 66 
+VYR C13 H131 SING N N 67 
+VYR C13 H132 SING N N 68 
+VYR C14 H141 SING N N 69 
+VYR C14 H142 SING N N 70 
+VYR C14 H143 SING N N 71 
+VYR C11 H11  SING N N 72 
+VYR C12 H12  SING N N 73 
+VYR C2  H21C SING N N 74 
+VYR C2  H22C SING N N 75 
+VYR C1  H11C SING N N 76 
+VYR C1  H12C SING N N 77 
+VYR C5  H51C SING N N 78 
+VYR C5  H52C SING N N 79 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VYR SMILES           ACDLabs              12.01 "Clc5sc(c1onc(c1)CC(C(=O)N2CCC(OC)CC2)NS(=O)(=O)c4cccc(N3C(=O)COCC3)c4CC)cc5"                                                                                                                                 
+VYR InChI            InChI                1.03  "InChI=1S/C28H33ClN4O7S2/c1-3-20-22(33-13-14-39-17-27(33)34)5-4-6-25(20)42(36,37)31-21(28(35)32-11-9-19(38-2)10-12-32)15-18-16-23(40-30-18)24-7-8-26(29)41-24/h4-8,16,19,21,31H,3,9-15,17H2,1-2H3/t21-/m0/s1" 
+VYR InChIKey         InChI                1.03  VOALXMVXTCHJGT-NRFANRHFSA-N                                                                                                                                                                                   
+VYR SMILES_CANONICAL CACTVS               3.385 "CCc1c(cccc1[S](=O)(=O)N[C@@H](Cc2cc(on2)c3sc(Cl)cc3)C(=O)N4CC[C@H](CC4)OC)N5CCOCC5=O"                                                                                                                        
+VYR SMILES           CACTVS               3.385 "CCc1c(cccc1[S](=O)(=O)N[CH](Cc2cc(on2)c3sc(Cl)cc3)C(=O)N4CC[CH](CC4)OC)N5CCOCC5=O"                                                                                                                           
+VYR SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CCc1c(cccc1S(=O)(=O)N[C@@H](Cc2cc(on2)c3ccc(s3)Cl)C(=O)N4CCC(CC4)OC)N5CCOCC5=O"                                                                                                                              
+VYR SMILES           "OpenEye OEToolkits" 1.9.2 "CCc1c(cccc1S(=O)(=O)NC(Cc2cc(on2)c3ccc(s3)Cl)C(=O)N4CCC(CC4)OC)N5CCOCC5=O"                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VYR "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(2S)-3-[5-(5-chlorothiophen-2-yl)-1,2-oxazol-3-yl]-1-(4-methoxypiperidin-1-yl)-1-oxopropan-2-yl]-2-ethyl-3-(3-oxomorpholin-4-yl)benzenesulfonamide"                         
+VYR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "N-[(2S)-3-[5-(5-chloranylthiophen-2-yl)-1,2-oxazol-3-yl]-1-(4-methoxypiperidin-1-yl)-1-oxidanylidene-propan-2-yl]-2-ethyl-3-(3-oxidanylidenemorpholin-4-yl)benzenesulfonamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VYR "Create component"  2013-06-19 EBI  
+VYR "Initial release"   2013-12-18 RCSB 
+VYR "Modify descriptor" 2014-09-05 RCSB 
+# 

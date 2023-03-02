@@ -1,0 +1,116 @@
+data_PTD
+# 
+_chem_comp.id                                    PTD 
+_chem_comp.name                                  PENTANEDIAL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-07-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        100.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PTD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1F8Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PTD C1   C1   C 0 1 N N N 67.125 91.954 4.264 -0.266 -0.416 -2.444 C1   PTD 1  
+PTD C2   C2   C 0 1 N N N 66.219 92.062 5.506 0.604  -0.210 -1.231 C2   PTD 2  
+PTD C3   C3   C 0 1 N N N 65.703 93.503 5.761 -0.278 0.000  0.000  C3   PTD 3  
+PTD C4   C4   C 0 1 N N N 64.835 94.038 4.583 0.604  0.208  1.231  C4   PTD 4  
+PTD C5   C5   C 0 1 N N N 64.279 95.458 4.825 -0.265 0.416  2.444  C5   PTD 5  
+PTD O1   O1   O 0 1 N N N 66.687 91.548 3.170 -0.186 0.343  -3.380 O1   PTD 6  
+PTD O5   O5   O 0 1 N N N 63.946 96.208 3.879 -0.187 -0.342 3.380  O5   PTD 7  
+PTD HC1  HC1  H 0 1 N N N 68.195 92.191 4.146 -0.964 -1.239 -2.475 HC1  PTD 8  
+PTD HC21 1HC2 H 0 0 N N N 65.370 91.341 5.442 1.232  -1.089 -1.082 HC21 PTD 9  
+PTD HC22 2HC2 H 0 0 N N N 66.733 91.658 6.409 1.234  0.665  -1.380 HC22 PTD 10 
+PTD HC31 1HC3 H 0 0 N N N 65.152 93.568 6.728 -0.906 0.878  -0.149 HC31 PTD 11 
+PTD HC32 2HC3 H 0 0 N N N 66.545 94.197 5.988 -0.909 -0.876 0.149  HC32 PTD 12 
+PTD HC41 1HC4 H 0 0 N N N 65.400 93.993 3.623 1.232  -0.669 1.380  HC41 PTD 13 
+PTD HC42 2HC4 H 0 0 N N N 64.010 93.326 4.344 1.235  1.085  1.082  HC42 PTD 14 
+PTD HC5  HC5  H 0 1 N N N 64.101 95.992 5.773 -0.957 1.245  2.476  HC5  PTD 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PTD C1 C2   SING N N 1  
+PTD C1 O1   DOUB N N 2  
+PTD C1 HC1  SING N N 3  
+PTD C2 C3   SING N N 4  
+PTD C2 HC21 SING N N 5  
+PTD C2 HC22 SING N N 6  
+PTD C3 C4   SING N N 7  
+PTD C3 HC31 SING N N 8  
+PTD C3 HC32 SING N N 9  
+PTD C4 C5   SING N N 10 
+PTD C4 HC41 SING N N 11 
+PTD C4 HC42 SING N N 12 
+PTD C5 O5   DOUB N N 13 
+PTD C5 HC5  SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PTD SMILES           ACDLabs              10.04 O=CCCCC=O                                  
+PTD SMILES_CANONICAL CACTVS               3.341 O=CCCCC=O                                  
+PTD SMILES           CACTVS               3.341 O=CCCCC=O                                  
+PTD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CC=O)CC=O"                              
+PTD SMILES           "OpenEye OEToolkits" 1.5.0 "C(CC=O)CC=O"                              
+PTD InChI            InChI                1.03  InChI=1S/C5H8O2/c6-4-2-1-3-5-7/h4-5H,1-3H2 
+PTD InChIKey         InChI                1.03  SXRSQZLOMIGNAQ-UHFFFAOYSA-N                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PTD "SYSTEMATIC NAME" ACDLabs              10.04 pentanedial 
+PTD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 pentanedial 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PTD "Create component"  2000-07-12 RCSB 
+PTD "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,161 @@
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameter definitions
+# ------------------------------------------------------------------------------------------------------------------
+#   name                          synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+pli.mode                          ""               string    "help"             # defines the mode in which pli runs
+pli.jobname                       ""               string    "pli"              # jobname is used to name output files
+pli.settings                      ""               string    ""                 # to load a number of settings from a file
+pli.sfunc                         ""               string    "pliff"            # defines the scoring function(s) used
+pli.complexes                     ""               string    ""                 # complexes filename
+pli.protein                       "proteins"       string    ""                 # protein filename (must be pdb file)
+pli.protein_name                  "pn"             string    "pli_protein"      # used for naming protein molecule files, e.g. <protein_name>.pdb
+pli.protein_bonds                 "pb"             string    "auto"             # determines whether protein bonds are to be kept or ignored
+pli.protein_hydrogens             "ph"             string    "auto"             # determines whether protein hydrogens are to be kept or ignored
+pli.protein_charges               "pc"             string    "auto"             # determines whether protein formal charges are to be kept or ignored
+pli.protein_protonation           "pp"             string    "auto"             # determines whether protein atoms are protonated (according to their pKa's etc)
+pli.protein_oformat               "po"             string    "pdb"              # determines the molecule output file format of the protein
+pli.ligand                        "ligands"        string    ""                 # ligand filename (can be pdb or sdf file)
+pli.ligand_name                   "ln"             string    "pli_ligand"       # used for naming ligand molecule files, e.g. <ligand_name>.pdb
+pli.ligand_bonds                  "lb"             string    "auto"             # determines whether ligand bonds are to be kept or ignored
+pli.ligand_hydrogens              "lh"             string    "auto"             # determines whether ligand hydrogens are to be kept or ignored
+pli.ligand_charges                "lc"             string    "auto"             # determines whether ligand formal charges are to be kept or ignored
+pli.ligand_protonation            "lp"             string    "auto"             # determines whether ligand atoms are protonated (according to their pKa's etc)
+pli.ligand_dq_file                "ldq"            string    ""                 # file containing ligand dq values
+pli.ligand_oformat                "lo"             string    "inherit"          # determines the molecule output file format of the ligand
+pli.symmetry                      "symmetries"     string    ""                 # filename of the symmetry atoms (must be pdb file)
+pli.symmetry_name                 ""               string    "pli_symmetry"     # used for naming symmetry molecule files, e.g. <symmetry_name>.pdb
+pli.selection                     ""               string    ""                 # defines selection of atoms in system
+pli.waters                        ""               string    "all"              # defines which waters are kept
+pli.disorder                      ""               string    "first"            # defines which disorder model is used (first,most,all)
+pli.resolve                       ""               string    "none"             # defines selection of atoms in system that will be resolved
+pli.minimise                      ""               boolean   FALSE              # determines if the system is minimised before, e.g., scoring
+pli.pH                            ""               double    7.00               # pH of the system - affects protonation state propensities
+pli.site_atoms                    ""               string    ""                 # filename containing ids of protein atoms that define site
+pli.site_ligand                   ""               string    "ligand"           # filename of ligand molecule defining protein site; can also be "ligand" to use system ligand
+pli.site_radius                   ""               double    6.00               # defines scoop of protein used to define site around site_ligand
+pli.template_ligand               "template"       string    ""                 # ligand file used to construct template from to constrain ligand placement
+pli.ligmap                        ""               string    ""                 # ligmap file with ligand atom densities from multiple complexes
+pli.oformat                       ""               string    "json"             # output format
+pli.ovar                          ""               string    ""                 # controls which variables are being output
+pli.omols                         ""               string    ""                 # controls which molecule files are being written
+pli.oflags                        ""               string    ""                 # gives additional control over what is being output
+pli.warnings                      ""               boolean   TRUE               # to show or suppress warning messages
+pli.fgconf_sampling               ""               string    "low"              # sampling granularity for fgroup torsions and rigid body fgroup rotations
+pli.max_ring_size                 ""               integer   9                  # maximum ring size
+pli.random_seed                   ""               string    "dynamic"          # defines the seed used for random number generation
+pli.debug                         ""               boolean   FALSE              # if turned on, debug statements are printed to STDOUT
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameters that control resolving protonation states etc
+# ------------------------------------------------------------------------------------------------------------------
+#        name                     synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+resolve.minimise                  ""               boolean   FALSE              # if TRUE the resolved H-bond network will be optimised
+resolve.min_steps                 ""               integer   10                 # maximum number of steps for H-bond network optimisation
+resolve.protein_protonation       "pp"             boolean   TRUE               # if TRUE protein acid-base type transformations are allowed
+resolve.protein_tautomers         "pt"             boolean   TRUE               # if TRUE protein tautomeric transformations are allowed
+resolve.protein_fgconfs           "pc"             boolean   TRUE               # if TRUE protein -OH/-NH2/-NH3 and water rotations are allowed
+resolve.ligand_protonation        "lp"             boolean   TRUE               # if TRUE ligand acid-base type transformations are allowed
+resolve.ligand_tautomers          "lt"             boolean   TRUE               # if TRUE ligand tautomeric transformations are allowed
+resolve.ligand_fgconfs            "lc"             boolean   TRUE               # if TRUE ligand -OH/-NH2/-NH3 rotations are allowed
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI minimisation parameter definitions
+# ------------------------------------------------------------------------------------------------------------------
+#        name                     synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+minimise.algorithm                ""               string    "cg"               # minimisation algorithm: steepest descent (sd) or conjugate gradient (cg)
+minimise.max_iter                 ""               integer   100                # maximum number of minimisation steps
+minimise.verbose                  ""               boolean   FALSE              # set to true for more output
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI shredding parameter definitions
+# ------------------------------------------------------------------------------------------------------------------
+#     name                        synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+shred.min_nodes                   ""               integer   6                  # minimum number of nodes (atoms) in a shred
+shred.max_ops                     ""               integer   10                 # maximum number of cutting options before shortcuts are taken
+shred.cut_double_bonds            ""               boolean   TRUE               # if TRUE double bonds are cut
+shred.cut_branch_bonds            ""               boolean   TRUE               # if TRUE bonds next to branch points are cut
+shred.cut_hetero_bonds            ""               boolean   FALSE              # if TRUE bonds next to hetero atoms are cut
+shred.cut_all_bonds               ""               boolean   FALSE              # if TRUE any acylic bond is cut
+shred.cut_fused_rings             ""               boolean   TRUE               # if TRUE fused rings are broken up into rings
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameters for ullman matching
+# ------------------------------------------------------------------------------------------------------------------
+#      name                       synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+ullman.match                      ""               string    "hybelm"           # type of matching done on nodes (hybelm means hybridisation and element need to match)
+ullman.record                     ""               string    "first"            # determines which matches are returned (first,unique,exhaustive)
+ullman.nodes                      ""               string    "atoms"            # internal pli parameter, do not change!
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameters for (maximum) common subgraph matching
+# ------------------------------------------------------------------------------------------------------------------
+#   name                          synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+mcs.match                         ""               string    "hybelm"           # type of matching done on nodes (hybelm means hybridisation and element need to match)
+mcs.record                        ""               string    "first"            # determines which matches are returned (first,unique,exhaustive)
+mcs.find_smaller_subgraphs        ""               boolean   FALSE              # if TRUE smaller common subgraphs will be recorded
+mcs.min_subgraph_size             ""               integer   6                  # if find_smaller is TRUE, defined minimun size of common subgraph
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameters for hierarchical clustering
+# ------------------------------------------------------------------------------------------------------------------
+#      name                       synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+cluster.type                      ""               string    "al"               # type of clustering (sl=single linkage,cl=complete linkage,al=average linkage)
+cluster.terminate                 ""               string    "number"           # clustering termination can be "distance" between clusters or "number" of clusters
+cluster.max_distance              ""               double    1.0                # used if cluster.terminate is "distance"
+cluster.max_clusters              ""               integer   10                  # used if cluster.terminate is "number"
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameters for creating ligand atom density maps
+# ------------------------------------------------------------------------------------------------------------------
+#      name                       synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+ligmap.spacing                    ""               double    0.5                # grid spacing for ligmap
+ligmap.padding                    ""               double    3.0                # grid padding for ligmap
+ligmap.mask_radius                ""               double    2.0                # radius used to mask ligand atoms
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------------------------------------------
+# PLI parameters for creating point clouds from ligands and ligand complexes
+# ------------------------------------------------------------------------------------------------------------------
+#      name                       synonyms         type      default
+# ------------------------------------------------------------------------------------------------------------------
+clouds.input_file                 "if"             string    ""                 # input file for reading cloud points from
+clouds.output_file                "of"             string    "clouds.pli"       # output file for writing cloud points to
+# ------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+

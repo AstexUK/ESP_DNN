@@ -1,0 +1,140 @@
+data_AHO
+# 
+_chem_comp.id                                    AHO 
+_chem_comp.name                                  N-ACETYL-N-HYDROXY-L-ORNITHINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H14 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         "5-(ACETYL-HYDROXY-AMINO)-2-AMINO-PENTANOIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-08-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        190.197 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     AHO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BY5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AHO C1   C1   C 0 1 N N N 117.196 46.368 17.005 -0.046 0.042  -3.648 C1   AHO 1  
+AHO C2   C2   C 0 1 N N S 117.099 46.148 18.490 0.003  -0.605 -2.288 C2   AHO 2  
+AHO C3   C3   C 0 1 N N N 116.895 44.678 18.861 -0.346 0.429  -1.217 C3   AHO 3  
+AHO C4   C4   C 0 1 N N N 117.464 44.367 20.250 -0.296 -0.228 0.163  C4   AHO 4  
+AHO C5   C5   C 0 1 N N N 116.962 43.012 20.813 -0.646 0.806  1.234  C5   AHO 5  
+AHO C6   C6   C 0 1 N N N 114.715 41.824 20.725 0.552  0.171  3.258  C6   AHO 6  
+AHO C7   C7   C 0 1 N N N 115.231 40.489 20.421 0.602  -0.476 4.618  C7   AHO 7  
+AHO N1   N1   N 0 1 N N N 116.037 46.938 19.145 1.354  -1.126 -2.043 N1   AHO 8  
+AHO N2   N2   N 0 1 N N N 115.504 42.893 20.890 -0.597 0.177  2.556  N2   AHO 9  
+AHO O1   O1   O 0 1 N N N 117.713 45.533 16.288 0.944  0.556  -4.108 O1   AHO 10 
+AHO O2   O2   O 0 1 N N N 114.875 44.120 21.197 -1.759 -0.425 3.096  O2   AHO 11 
+AHO O3   O3   O 0 1 N N N 113.473 42.011 20.848 1.548  0.687  2.795  O3   AHO 12 
+AHO OXT  OXT  O 0 1 N Y N 116.711 47.492 16.528 -1.192 0.047  -4.347 OXT  AHO 13 
+AHO HC21 1HC2 H 0 0 N N N 118.087 46.499 18.867 -0.714 -1.425 -2.249 HC21 AHO 14 
+AHO HC31 1HC3 H 0 0 N N N 115.822 44.382 18.783 -1.349 0.815  -1.399 HC31 AHO 15 
+AHO HC32 2HC3 H 0 0 N N N 117.317 43.998 18.084 0.370  1.248  -1.255 HC32 AHO 16 
+AHO HC41 1HC4 H 0 0 N N N 118.578 44.409 20.244 0.706  -0.614 0.345  HC41 AHO 17 
+AHO HC42 2HC4 H 0 0 N N N 117.255 45.198 20.963 -1.013 -1.047 0.202  HC42 AHO 18 
+AHO HC51 1HC5 H 0 0 N N N 117.391 42.164 20.228 -1.648 1.193  1.052  HC51 AHO 19 
+AHO HC52 2HC5 H 0 0 N N N 117.422 42.809 21.808 0.071  1.626  1.195  HC52 AHO 20 
+AHO HC71 1HC7 H 0 0 N N N 114.573 39.598 20.283 1.608  -0.382 5.028  HC71 AHO 21 
+AHO HC72 2HC7 H 0 0 N N N 115.866 40.577 19.509 -0.108 0.016  5.281  HC72 AHO 22 
+AHO HC73 3HC7 H 0 0 N N N 115.977 40.233 21.208 0.344  -1.531 4.527  HC73 AHO 23 
+AHO HN11 1HN1 H 0 0 N N N 115.971 46.788 20.151 1.981  -0.337 -2.088 HN11 AHO 24 
+AHO HN12 2HN1 H 0 0 N Y N 115.136 46.767 18.697 1.370  -1.455 -1.089 HN12 AHO 25 
+AHO HO21 1HO2 H 0 0 N N N 113.929 44.042 21.246 -1.514 -0.776 3.963  HO21 AHO 26 
+AHO HXT  HXT  H 0 1 N Y N 116.772 47.630 15.590 -1.224 0.463  -5.219 HXT  AHO 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AHO C1  C2   SING N N 1  
+AHO C1  O1   DOUB N N 2  
+AHO C1  OXT  SING N N 3  
+AHO C2  C3   SING N N 4  
+AHO C2  N1   SING N N 5  
+AHO C2  HC21 SING N N 6  
+AHO C3  C4   SING N N 7  
+AHO C3  HC31 SING N N 8  
+AHO C3  HC32 SING N N 9  
+AHO C4  C5   SING N N 10 
+AHO C4  HC41 SING N N 11 
+AHO C4  HC42 SING N N 12 
+AHO C5  N2   SING N N 13 
+AHO C5  HC51 SING N N 14 
+AHO C5  HC52 SING N N 15 
+AHO C6  C7   SING N N 16 
+AHO C6  N2   SING N N 17 
+AHO C6  O3   DOUB N N 18 
+AHO C7  HC71 SING N N 19 
+AHO C7  HC72 SING N N 20 
+AHO C7  HC73 SING N N 21 
+AHO N1  HN11 SING N N 22 
+AHO N1  HN12 SING N N 23 
+AHO N2  O2   SING N N 24 
+AHO O2  HO21 SING N N 25 
+AHO OXT HXT  SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AHO SMILES           ACDLabs              10.04 "O=C(N(O)CCCC(N)C(=O)O)C"                                                                  
+AHO SMILES_CANONICAL CACTVS               3.341 "CC(=O)N(O)CCC[C@H](N)C(O)=O"                                                              
+AHO SMILES           CACTVS               3.341 "CC(=O)N(O)CCC[CH](N)C(O)=O"                                                               
+AHO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)N(CCC[C@@H](C(=O)O)N)O"                                                             
+AHO SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)N(CCCC(C(=O)O)N)O"                                                                  
+AHO InChI            InChI                1.03  "InChI=1S/C7H14N2O4/c1-5(10)9(13)4-2-3-6(8)7(11)12/h6,13H,2-4,8H2,1H3,(H,11,12)/t6-/m0/s1" 
+AHO InChIKey         InChI                1.03  LUZHSHCYVQASCO-LURJTMIESA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AHO "SYSTEMATIC NAME" ACDLabs              10.04 N~5~-acetyl-N~5~-hydroxy-L-ornithine                    
+AHO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-5-(ethanoyl-hydroxy-amino)pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AHO "Create component"  1999-08-13 RCSB 
+AHO "Modify descriptor" 2011-06-04 RCSB 
+# 

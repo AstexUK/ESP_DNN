@@ -1,0 +1,112 @@
+data_XIX
+# 
+_chem_comp.id                                    XIX 
+_chem_comp.name                                  "3,5-DIAMINO-1H-[1,2,4]TRIAZOLE" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 N5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-01 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        99.095 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     XIX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XIX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+XIX N1   N1   N 0 1 Y N N -21.901 -35.517 -1.133 0.713  -1.153 0.000  N1   XIX 1  
+XIX N2   N2   N 0 1 Y N N -22.290 -36.581 -0.627 -0.692 -1.155 -0.000 N2   XIX 2  
+XIX N4   N4   N 0 1 N N N -22.950 -37.278 1.533  -2.378 0.601  0.000  N4   XIX 3  
+XIX C6   C6   C 0 1 Y N N -21.861 -34.562 -0.185 1.094  0.101  -0.000 C6   XIX 4  
+XIX N7   N7   N 0 1 Y N N -22.253 -35.068 0.985  0.010  0.884  -0.000 N7   XIX 5  
+XIX N8   N8   N 0 1 N N N -21.482 -33.294 -0.395 2.417  0.546  0.000  N8   XIX 6  
+XIX C2   C2   C 0 1 Y N N -22.515 -36.348 0.676  -1.075 0.139  -0.000 C2   XIX 7  
+XIX H2   H2   H 0 1 N N N -22.413 -37.452 -1.102 -1.271 -1.932 -0.000 H2   XIX 8  
+XIX H41N H41N H 0 0 N N N -23.059 -38.149 1.054  -3.116 -0.029 0.001  H41N XIX 9  
+XIX H42N H42N H 0 0 N N N -22.286 -37.386 2.273  -2.555 1.554  0.000  H42N XIX 10 
+XIX H81N H81N H 0 0 N N N -21.388 -32.824 0.483  3.144  -0.095 0.000  H81N XIX 11 
+XIX H82N H82N H 0 0 N N N -20.605 -33.284 -0.875 2.608  1.497  0.000  H82N XIX 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+XIX N1 N2   SING Y N 1  
+XIX N1 C6   DOUB Y N 2  
+XIX N2 C2   SING Y N 3  
+XIX N4 C2   SING N N 4  
+XIX C6 N7   SING Y N 5  
+XIX C6 N8   SING N N 6  
+XIX N7 C2   DOUB Y N 7  
+XIX N2 H2   SING N N 8  
+XIX N4 H41N SING N N 9  
+XIX N4 H42N SING N N 10 
+XIX N8 H81N SING N N 11 
+XIX N8 H82N SING N N 12 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+XIX SMILES           ACDLabs              10.04 "n1c(nnc1N)N"                                      
+XIX SMILES_CANONICAL CACTVS               3.352 "Nc1[nH]nc(N)n1"                                   
+XIX SMILES           CACTVS               3.352 "Nc1[nH]nc(N)n1"                                   
+XIX SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "c1([nH]nc(n1)N)N"                                 
+XIX SMILES           "OpenEye OEToolkits" 1.6.1 "c1([nH]nc(n1)N)N"                                 
+XIX InChI            InChI                1.03  "InChI=1S/C2H5N5/c3-1-5-2(4)7-6-1/h(H5,3,4,5,6,7)" 
+XIX InChIKey         InChI                1.03  PKWIYNIDEDLDCJ-UHFFFAOYSA-N                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+XIX "SYSTEMATIC NAME" ACDLabs              10.04 1H-1,2,4-triazole-3,5-diamine 
+XIX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 1H-1,2,4-triazole-3,5-diamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+XIX "Create component"     2010-07-01 EBI  
+XIX "Modify aromatic_flag" 2011-06-04 RCSB 
+XIX "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,128 @@
+data_ONL
+# 
+_chem_comp.id                                    ONL 
+_chem_comp.name                                  5-OXO-L-NORLEUCINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H11 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.156 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     ONL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1ECG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ONL N   N   N 0 1 N N N 76.787 15.603 32.096 1.150  1.861  -0.131 N   ONL 1  
+ONL CA  CA  C 0 1 N N S 75.365 15.943 32.397 1.090  0.512  0.448  CA  ONL 2  
+ONL C   C   C 0 1 N N N 74.800 16.645 31.197 2.319  -0.262 0.047  C   ONL 3  
+ONL O   O   O 0 1 N N N 73.570 16.730 31.152 2.967  0.089  -0.910 O   ONL 4  
+ONL OXT OXT O 0 1 N Y N 75.596 17.132 30.352 2.692  -1.341 0.752  OXT ONL 5  
+ONL CB  CB  C 0 1 N N N 75.252 16.894 33.582 -0.158 -0.208 -0.066 CB  ONL 6  
+ONL CG  CG  C 0 1 N N N 76.241 18.024 33.529 -1.409 0.508  0.447  CG  ONL 7  
+ONL CD  CD  C 0 1 N N N 76.409 18.678 34.881 -2.638 -0.201 -0.060 CD  ONL 8  
+ONL OD  OD  O 0 1 N N N 76.502 17.998 35.909 -2.525 -1.179 -0.759 OD  ONL 9  
+ONL CE  CE  C 0 1 N N N 76.410 20.204 34.938 -4.008 0.310  0.306  CE  ONL 10 
+ONL HN1 HN1 H 0 1 N N N 76.910 15.527 31.106 1.930  2.381  0.243  HN1 ONL 11 
+ONL HN2 HN2 H 0 1 N Y N 77.384 16.322 32.452 1.192  1.821  -1.138 HN2 ONL 12 
+ONL HA  HA  H 0 1 N N N 74.826 15.015 32.637 1.045  0.585  1.535  HA  ONL 13 
+ONL HXT HXT H 0 1 N Y N 75.104 17.577 29.672 3.487  -1.805 0.456  HXT ONL 14 
+ONL HB1 HB1 H 0 1 N N N 74.239 17.322 33.585 -0.157 -0.203 -1.156 HB1 ONL 15 
+ONL HB2 HB2 H 0 1 N N N 75.464 16.313 34.492 -0.157 -1.238 0.292  HB2 ONL 16 
+ONL HG1 HG1 H 0 1 N N N 77.214 17.628 33.204 -1.410 0.503  1.536  HG1 ONL 17 
+ONL HG2 HG2 H 0 1 N N N 75.865 18.780 32.824 -1.410 1.538  0.088  HG2 ONL 18 
+ONL HE1 HE1 H 0 1 N N N 76.410 20.532 35.988 -4.338 1.030  -0.442 HE1 ONL 19 
+ONL HE2 HE2 H 0 1 N N N 77.308 20.589 34.433 -4.709 -0.524 0.342  HE2 ONL 20 
+ONL HE3 HE3 H 0 1 N N N 75.512 20.590 34.434 -3.967 0.792  1.282  HE3 ONL 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ONL N   CA  SING N N 1  
+ONL N   HN1 SING N N 2  
+ONL N   HN2 SING N N 3  
+ONL CA  C   SING N N 4  
+ONL CA  CB  SING N N 5  
+ONL CA  HA  SING N N 6  
+ONL C   O   DOUB N N 7  
+ONL C   OXT SING N N 8  
+ONL OXT HXT SING N N 9  
+ONL CB  CG  SING N N 10 
+ONL CB  HB1 SING N N 11 
+ONL CB  HB2 SING N N 12 
+ONL CG  CD  SING N N 13 
+ONL CG  HG1 SING N N 14 
+ONL CG  HG2 SING N N 15 
+ONL CD  OD  DOUB N N 16 
+ONL CD  CE  SING N N 17 
+ONL CE  HE1 SING N N 18 
+ONL CE  HE2 SING N N 19 
+ONL CE  HE3 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ONL SMILES           ACDLabs              10.04 "O=C(CCC(N)C(=O)O)C"                                                         
+ONL SMILES_CANONICAL CACTVS               3.341 "CC(=O)CC[C@H](N)C(O)=O"                                                     
+ONL SMILES           CACTVS               3.341 "CC(=O)CC[CH](N)C(O)=O"                                                      
+ONL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)CC[C@@H](C(=O)O)N"                                                    
+ONL SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)CCC(C(=O)O)N"                                                         
+ONL InChI            InChI                1.03  "InChI=1S/C6H11NO3/c1-4(8)2-3-5(7)6(9)10/h5H,2-3,7H2,1H3,(H,9,10)/t5-/m0/s1" 
+ONL InChIKey         InChI                1.03  KSIJECNNZVKMJG-YFKPBYRVSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ONL "SYSTEMATIC NAME" ACDLabs              10.04 5-oxo-L-norleucine                 
+ONL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-5-oxo-hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ONL "Create component"  1999-07-08 EBI  
+ONL "Modify descriptor" 2011-06-04 RCSB 
+# 

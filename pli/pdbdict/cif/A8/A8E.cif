@@ -1,0 +1,119 @@
+data_A8E
+# 
+_chem_comp.id                                    A8E 
+_chem_comp.name                                  "(2S)-2-amino-4-bromopent-4-enoic acid" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H8 Br N O2" 
+_chem_comp.mon_nstd_parent_comp_id               VAL 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-06-24 
+_chem_comp.pdbx_modified_date                    2012-03-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        194.027 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     A8E 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3SGM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+A8E O    O    O  0 1 N Y N 7.149 0.557  -1.552 -3.727 -0.289 -0.136 O    A8E 1  
+A8E C    C    C  0 1 N N N 6.479 -0.507 -1.136 -2.766 0.428  0.016  C    A8E 2  
+A8E N    N    N  0 1 N N N 5.973 -2.441 -2.613 -1.639 -1.500 0.972  N    A8E 3  
+A8E OXT  OXT  O  0 1 N N N 6.689 -1.017 -0.002 -2.888 1.755  -0.145 OXT  A8E 4  
+A8E BR   BR   BR 0 0 N N N 1.393 -1.577 -1.447 2.121  0.480  0.120  BR   A8E 5  
+A8E CA   CA   C  0 1 N N S 5.460 -1.117 -2.096 -1.434 -0.166 0.393  CA   A8E 6  
+A8E CB   CB   C  0 1 N N N 4.094 -1.255 -1.355 -0.556 -0.282 -0.855 CB   A8E 7  
+A8E CG   CG   C  0 1 N N N 2.773 -1.467 -2.123 0.817  -0.761 -0.460 CG   A8E 8  
+A8E CD1  CD1  C  0 1 N N N 2.952 -1.558 -3.434 1.108  -2.038 -0.520 CD1  A8E 9  
+A8E HN   HN   H  0 1 N N N 5.303 -2.836 -3.241 -2.093 -2.115 0.313  HN   A8E 10 
+A8E HNA  HNA  H  0 1 N N N 6.837 -2.298 -3.095 -0.767 -1.894 1.292  HNA  A8E 11 
+A8E HXT  HXT  H  0 1 N N N 7.365 -0.523 0.447  -3.763 2.091  -0.382 HXT  A8E 12 
+A8E HA   HA   H  0 1 N N N 5.309 -0.468 -2.971 -0.943 0.476  1.124  HA   A8E 13 
+A8E HB   HB   H  0 1 N N N 4.200 -2.133 -0.701 -1.003 -0.993 -1.549 HB   A8E 14 
+A8E HBA  HBA  H  0 1 N N N 3.964 -0.316 -0.797 -0.477 0.693  -1.335 HBA  A8E 15 
+A8E HD1  HD1  H  0 1 N N N 3.946 -1.483 -3.850 2.092  -2.381 -0.237 HD1  A8E 16 
+A8E HD1A HD1A H  0 0 N N N 2.104 -1.708 -4.086 0.364  -2.747 -0.851 HD1A A8E 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+A8E OXT C    SING N N 1  
+A8E CA  C    SING N N 2  
+A8E C   O    DOUB N N 3  
+A8E N   CA   SING N N 4  
+A8E N   HN   SING N N 5  
+A8E N   HNA  SING N N 6  
+A8E OXT HXT  SING N N 7  
+A8E CG  BR   SING N N 8  
+A8E CA  CB   SING N N 9  
+A8E CA  HA   SING N N 10 
+A8E CG  CB   SING N N 11 
+A8E CB  HB   SING N N 12 
+A8E CB  HBA  SING N N 13 
+A8E CD1 CG   DOUB N N 14 
+A8E CD1 HD1  SING N N 15 
+A8E CD1 HD1A SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+A8E SMILES           ACDLabs              12.01 "Br\C(=C)CC(N)C(=O)O"                                                 
+A8E InChI            InChI                1.03  "InChI=1S/C5H8BrNO2/c1-3(6)2-4(7)5(8)9/h4H,1-2,7H2,(H,8,9)/t4-/m0/s1" 
+A8E InChIKey         InChI                1.03  YTCSGBSYHNQHFD-BYPYZUCNSA-N                                           
+A8E SMILES_CANONICAL CACTVS               3.370 "N[C@@H](CC(Br)=C)C(O)=O"                                             
+A8E SMILES           CACTVS               3.370 "N[CH](CC(Br)=C)C(O)=O"                                               
+A8E SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C=C(C[C@@H](C(=O)O)N)Br"                                             
+A8E SMILES           "OpenEye OEToolkits" 1.7.2 "C=C(CC(C(=O)O)N)Br"                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+A8E "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-2-amino-4-bromopent-4-enoic acid"      
+A8E "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S)-2-azanyl-4-bromanyl-pent-4-enoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+A8E "Create component" 2011-06-24 RCSB 
+# 

@@ -1,0 +1,146 @@
+data_SGB
+# 
+_chem_comp.id                                    SGB 
+_chem_comp.name                                  "O-[(S)-METHYL(1-METHYLETHOXY)PHOSPHORYL]-L-SERINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H16 N O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-02-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        225.179 
+_chem_comp.one_letter_code                       S 
+_chem_comp.three_letter_code                     SGB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SGB N    N    N 0 1 N N N 25.566 12.376 14.374 -1.820 1.165  1.864  N    SGB 1  
+SGB CA   CA   C 0 1 N N S 26.658 12.710 13.413 -1.867 -0.222 1.469  CA   SGB 2  
+SGB C    C    C 0 1 N N N 27.914 11.801 13.530 -0.632 -0.894 2.033  C    SGB 3  
+SGB O    O    O 0 1 N N N 27.826 10.582 13.392 0.471  -0.373 2.133  O    SGB 4  
+SGB CB   CB   C 0 1 N N N 27.011 14.202 13.497 -1.912 -0.374 -0.044 CB   SGB 5  
+SGB OG   OG   O 0 1 N N N 27.549 14.653 12.272 -1.915 -1.751 -0.374 OG   SGB 6  
+SGB O1   O1   O 0 1 N N N 29.743 15.527 13.424 -0.828 -3.884 -1.424 O1   SGB 7  
+SGB P1   P1   P 0 1 N N S 28.742 15.691 12.213 -0.736 -2.392 -1.280 P1   SGB 8  
+SGB C1   C1   C 0 1 N N N 29.354 15.120 10.629 -0.796 -1.515 -2.830 C1   SGB 9  
+SGB O2   O2   O 0 1 N N N 28.092 17.161 12.147 0.605  -1.864 -0.543 O2   SGB 10 
+SGB C2   C2   C 0 1 N N N 28.782 18.384 12.522 1.858  -2.053 -1.176 C2   SGB 11 
+SGB C4   C4   C 0 1 N N N 30.236 18.477 12.056 2.957  -1.478 -0.295 C4   SGB 12 
+SGB C3   C3   C 0 1 N N N 28.031 19.600 11.965 2.065  -3.536 -1.445 C3   SGB 13 
+SGB OXT  OXT  O 0 1 N Y N 29.073 12.400 13.770 -0.872 -2.185 2.383  OXT  SGB 14 
+SGB HN1  1HN  H 0 1 N N N 25.920 12.379 15.331 -1.368 1.410  2.728  HN1  SGB 15 
+SGB HN2  2HN  H 0 1 N N N 24.742 12.972 14.297 -2.405 1.827  1.384  HN2  SGB 16 
+SGB HA   HA   H 0 1 N N N 26.256 12.495 12.396 -2.765 -0.629 1.945  HA   SGB 17 
+SGB HBC1 1HBC H 0 0 N N N 27.691 14.419 14.353 -1.033 0.081  -0.512 HBC1 SGB 18 
+SGB HBC2 2HBC H 0 0 N N N 26.138 14.817 13.818 -2.809 0.090  -0.469 HBC2 SGB 19 
+SGB HOT  HOT  H 0 1 N Y N 29.840 11.845 13.842 -0.095 -2.677 2.723  HOT  SGB 20 
+SGB H1C1 1H1C H 0 0 N N N 28.642 15.092 9.772  -1.559 -0.733 -2.790 H1C1 SGB 21 
+SGB H1C2 2H1C H 0 0 N N N 29.596 14.037 10.521 0.172  -1.052 -3.038 H1C2 SGB 22 
+SGB H1C3 3H1C H 0 0 N N N 30.195 15.851 10.587 -1.039 -2.205 -3.642 H1C3 SGB 23 
+SGB H2   H2   H 0 1 N Y N 28.799 18.369 13.637 1.830  -1.510 -2.127 H2   SGB 24 
+SGB H4C1 1H4C H 0 0 N N N 30.297 18.324 10.953 3.939  -1.580 -0.767 H4C1 SGB 25 
+SGB H4C2 2H4C H 0 0 N N N 30.810 17.588 12.408 2.771  -0.416 -0.099 H4C2 SGB 26 
+SGB H4C3 3H4C H 0 0 N N N 30.765 19.415 12.344 2.983  -1.977 0.680  H4C3 SGB 27 
+SGB H3C1 1H3C H 0 0 N N N 26.961 19.610 12.278 3.013  -3.718 -1.960 H3C1 SGB 28 
+SGB H3C2 2H3C H 0 0 N N N 27.877 19.528 10.863 1.250  -3.929 -2.062 H3C2 SGB 29 
+SGB H3C3 3H3C H 0 0 N N N 28.560 20.538 12.253 2.058  -4.110 -0.512 H3C3 SGB 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SGB N   CA   SING N N 1  
+SGB CA  C    SING N N 2  
+SGB C   O    DOUB N N 3  
+SGB CA  CB   SING N N 4  
+SGB CB  OG   SING N N 5  
+SGB OG  P1   SING N N 6  
+SGB O1  P1   DOUB N N 7  
+SGB P1  C1   SING N N 8  
+SGB P1  O2   SING N N 9  
+SGB O2  C2   SING N N 10 
+SGB C2  C4   SING N N 11 
+SGB C2  C3   SING N N 12 
+SGB C   OXT  SING N N 13 
+SGB N   HN1  SING N N 14 
+SGB N   HN2  SING N N 15 
+SGB CA  HA   SING N N 16 
+SGB CB  HBC1 SING N N 17 
+SGB CB  HBC2 SING N N 18 
+SGB OXT HOT  SING N N 19 
+SGB C1  H1C1 SING N N 20 
+SGB C1  H1C2 SING N N 21 
+SGB C1  H1C3 SING N N 22 
+SGB C2  H2   SING N N 23 
+SGB C4  H4C1 SING N N 24 
+SGB C4  H4C2 SING N N 25 
+SGB C4  H4C3 SING N N 26 
+SGB C3  H3C1 SING N N 27 
+SGB C3  H3C2 SING N N 28 
+SGB C3  H3C3 SING N N 29 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SGB SMILES           ACDLabs              10.04 "O=P(OCC(N)C(=O)O)(OC(C)C)C"                                                                    
+SGB SMILES_CANONICAL CACTVS               3.341 "CC(C)O[P@@](C)(=O)OC[C@H](N)C(O)=O"                                                            
+SGB SMILES           CACTVS               3.341 "CC(C)O[P](C)(=O)OC[CH](N)C(O)=O"                                                               
+SGB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)O[P@](=O)(C)OC[C@@H](C(=O)O)N"                                                            
+SGB SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)OP(=O)(C)OCC(C(=O)O)N"                                                                    
+SGB InChI            InChI                1.03  "InChI=1S/C7H16NO5P/c1-5(2)13-14(3,11)12-4-6(8)7(9)10/h5-6H,4,8H2,1-3H3,(H,9,10)/t6-,14-/m0/s1" 
+SGB InChIKey         InChI                1.03  RQYSKTURKPPJTP-MDAAJZPYSA-N                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SGB "SYSTEMATIC NAME" ACDLabs              10.04 "O-[(S)-methyl(1-methylethoxy)phosphoryl]-L-serine"                   
+SGB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(methyl-propan-2-yloxy-phosphoryl)oxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SGB "Create component"  2007-02-13 EBI  
+SGB "Modify descriptor" 2011-06-04 RCSB 
+# 

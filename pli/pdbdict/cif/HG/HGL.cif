@@ -1,0 +1,149 @@
+data_HGL
+# 
+_chem_comp.id                                    HGL 
+_chem_comp.name                                  "(2S)-2-amino-4-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)butanoic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H12 N6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-02-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        252.230 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     HGL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3C1P 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HGL C2   C2   C 0 1 N N N -2.117 -15.496 6.036  2.588  1.693  0.328  C2   HGL 1  
+HGL O6   O6   O 0 1 N N N -0.673 -17.306 3.377  4.513  -0.867 -1.008 O6   HGL 2  
+HGL C4   C4   C 0 1 Y N N -3.289 -17.329 5.771  1.301  -0.225 0.331  C4   HGL 3  
+HGL C5   C5   C 0 1 Y N N -2.585 -17.822 4.718  2.355  -0.949 -0.240 C5   HGL 4  
+HGL C6   C6   C 0 1 N N N -1.482 -17.069 4.279  3.569  -0.276 -0.512 C6   HGL 5  
+HGL C8   C8   C 0 1 Y N N -4.084 -19.282 5.117  0.704  -2.326 0.034  C8   HGL 6  
+HGL N    N    N 0 1 N N N -5.325 -19.293 10.643 -3.970 -1.216 0.992  N    HGL 7  
+HGL CA   CA   C 0 1 N N S -5.747 -18.563 9.476  -3.338 0.034  0.547  CA   HGL 8  
+HGL CB   CB   C 0 1 N N N -4.804 -18.822 8.314  -1.959 -0.274 -0.042 CB   HGL 9  
+HGL CG   CG   C 0 1 N N N -5.295 -18.201 7.041  -1.046 -0.821 1.057  CG   HGL 10 
+HGL N9   N9   N 0 1 Y N N -4.285 -18.252 6.010  0.274  -1.115 0.493  N9   HGL 11 
+HGL N3   N3   N 0 1 N N N -3.139 -16.194 6.467  1.458  1.077  0.595  N3   HGL 12 
+HGL N2   N2   N 0 1 N N N -1.815 -14.335 6.626  2.703  3.030  0.617  N2   HGL 13 
+HGL N1   N1   N 0 1 N N N -1.335 -15.896 5.003  3.651  1.041  -0.222 N1   HGL 14 
+HGL N7   N7   N 0 1 Y N N -3.144 -19.012 4.242  1.927  -2.225 -0.396 N7   HGL 15 
+HGL C    C    C 0 1 N N N -7.185 -18.982 9.107  -4.199 0.685  -0.504 C    HGL 16 
+HGL O    O    O 0 1 N N N -7.462 -20.169 8.980  -5.016 0.031  -1.107 O    HGL 17 
+HGL OXT  OXT  O 0 1 N Y N -8.043 -18.015 8.941  -4.058 1.993  -0.771 OXT  HGL 18 
+HGL HN1  HN1  H 0 1 N N N -0.584 -15.290 4.740  4.471  1.526  -0.407 HN1  HGL 19 
+HGL HN   HN   H 0 1 N N N -5.227 -20.261 10.414 -4.083 -1.858 0.222  HN   HGL 20 
+HGL HA   HA   H 0 1 N N N -5.726 -17.485 9.696  -3.228 0.708  1.396  HA   HGL 21 
+HGL HB   HB   H 0 1 N N N -4.743 -19.910 8.161  -2.060 -1.016 -0.834 HB   HGL 22 
+HGL HBA  HBA  H 0 1 N N N -3.821 -18.393 8.557  -1.528 0.639  -0.452 HBA  HGL 23 
+HGL HG   HG   H 0 1 N N N -6.183 -18.750 6.696  -0.946 -0.078 1.849  HG   HGL 24 
+HGL HGA  HGA  H 0 1 N N N -5.539 -17.147 7.239  -1.477 -1.733 1.467  HGA  HGL 25 
+HGL HN2  HN2  H 0 1 N N N -2.321 -13.943 7.394  1.956  3.506  1.012  HN2  HGL 26 
+HGL HN2A HN2A H 0 0 N N N -1.017 -13.910 6.199  3.530  3.498  0.425  HN2A HGL 27 
+HGL H8   H8   H 0 1 N N N -4.638 -20.209 5.135  0.116  -3.232 0.029  H8   HGL 28 
+HGL HNA  HNA  H 0 1 N Y N -4.447 -18.935 10.960 -3.445 -1.639 1.742  HNA  HGL 29 
+HGL HXT  HXT  H 0 1 N Y N -8.890 -18.379 8.712  -4.633 2.367  -1.453 HXT  HGL 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HGL N1   C2  SING N N 1  
+HGL C2   N3  DOUB N N 2  
+HGL C2   N2  SING N N 3  
+HGL O6   C6  DOUB N N 4  
+HGL C5   C4  DOUB Y N 5  
+HGL C4   N9  SING Y N 6  
+HGL C4   N3  SING N N 7  
+HGL N7   C5  SING Y N 8  
+HGL C6   C5  SING N N 9  
+HGL C6   N1  SING N N 10 
+HGL N7   C8  DOUB Y N 11 
+HGL C8   H8  SING N N 12 
+HGL C8   N9  SING Y N 13 
+HGL CA   N   SING N N 14 
+HGL HN   N   SING N N 15 
+HGL N    HNA SING N N 16 
+HGL CB   CA  SING N N 17 
+HGL C    CA  SING N N 18 
+HGL CA   HA  SING N N 19 
+HGL CG   CB  SING N N 20 
+HGL HBA  CB  SING N N 21 
+HGL CB   HB  SING N N 22 
+HGL N9   CG  SING N N 23 
+HGL HG   CG  SING N N 24 
+HGL CG   HGA SING N N 25 
+HGL HN2A N2  SING N N 26 
+HGL N2   HN2 SING N N 27 
+HGL HN1  N1  SING N N 28 
+HGL OXT  C   SING N N 29 
+HGL O    C   DOUB N N 30 
+HGL OXT  HXT SING N N 31 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HGL SMILES           ACDLabs              10.04 "O=C(O)C(N)CCn1c2N=C(NC(=O)c2nc1)N"                                                                                        
+HGL SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CCn1cnc2C(=O)NC(=Nc12)N)C(O)=O"                                                                                   
+HGL SMILES           CACTVS               3.341 "N[CH](CCn1cnc2C(=O)NC(=Nc12)N)C(O)=O"                                                                                     
+HGL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1CC[C@@H](C(=O)O)N)N=C(NC2=O)N"                                                                                   
+HGL SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc2c(n1CCC(C(=O)O)N)N=C(NC2=O)N"                                                                                        
+HGL InChI            InChI                1.03  "InChI=1S/C9H12N6O3/c10-4(8(17)18)1-2-15-3-12-5-6(15)13-9(11)14-7(5)16/h3-4H,1-2,10H2,(H,17,18)(H3,11,13,14,16)/t4-/m0/s1" 
+HGL InChIKey         InChI                1.03  GDUSYGWHRRYUNO-BYPYZUCNSA-N                                                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HGL "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-amino-4-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)butanoic acid" 
+HGL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-(2-amino-6-oxo-1H-purin-9-yl)butanoic acid"             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HGL "Create component"     2008-02-12 RCSB 
+HGL "Modify aromatic_flag" 2011-06-04 RCSB 
+HGL "Modify descriptor"    2011-06-04 RCSB 
+# 

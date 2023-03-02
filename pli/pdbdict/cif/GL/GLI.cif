@@ -1,0 +1,264 @@
+data_GLI
+# 
+_chem_comp.id                                    GLI 
+_chem_comp.name                                  "ALA-ALA-PHE-PSI((S)-CHOH-CH2)-GLY-VAL-VAL-OME" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C29 H47 N5 O7" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "SKF 107457" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      PSI 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        577.713 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GLI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SIV 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLI N    N    N 0 1 N N N 6.321  16.347 32.389 -5.295 -0.576 -7.179 N    GLI 1  
+GLI CA1  CA1  C 0 1 N N S 6.178  15.157 33.219 -3.896 -0.993 -7.013 CA1  GLI 2  
+GLI CB1  CB1  C 0 1 N N N 7.468  14.826 33.945 -3.187 -0.950 -8.368 CB1  GLI 3  
+GLI C1   C1   C 0 1 N N N 5.100  15.411 34.260 -3.204 -0.060 -6.053 C1   GLI 4  
+GLI O1   O1   O 0 1 N N N 4.745  16.562 34.542 -3.557 1.096  -5.972 O1   GLI 5  
+GLI N2   N2   N 0 1 N N N 4.553  14.387 34.822 -2.193 -0.512 -5.285 N2   GLI 6  
+GLI CA2  CA2  C 0 1 N N S 3.522  14.546 35.801 -1.520 0.394  -4.352 CA2  GLI 7  
+GLI CB2  CB2  C 0 1 N N N 2.205  14.311 35.105 -2.229 0.351  -2.997 CB2  GLI 8  
+GLI C2   C2   C 0 1 N N N 3.760  13.525 36.914 -0.085 -0.033 -4.182 C2   GLI 9  
+GLI O2   O2   O 0 1 N N N 3.546  12.322 36.761 0.333  -1.001 -4.781 O2   GLI 10 
+GLI N3   N3   N 0 1 N N N 4.215  13.948 38.082 0.731  0.659  -3.364 N3   GLI 11 
+GLI CA3  CA3  C 0 1 N N S 4.452  13.011 39.177 2.126  0.242  -3.199 CA3  GLI 12 
+GLI CB3  CB3  C 0 1 N N N 5.822  13.315 39.752 2.995  0.946  -4.243 CB3  GLI 13 
+GLI CG3  CG3  C 0 1 Y N N 6.911  13.067 38.732 2.521  0.574  -5.624 CG3  GLI 14 
+GLI CDV  CD31 C 0 1 Y N N 7.542  14.143 38.131 1.555  1.338  -6.252 CDV  GLI 15 
+GLI CDW  CD32 C 0 1 Y N N 7.268  11.774 38.425 3.056  -0.526 -6.266 CDW  GLI 16 
+GLI CEV  CE31 C 0 1 Y N N 8.541  13.949 37.210 1.119  0.998  -7.519 CEV  GLI 17 
+GLI CEW  CE32 C 0 1 Y N N 8.269  11.582 37.501 2.617  -0.869 -7.531 CEW  GLI 18 
+GLI CZ3  CZ3  C 0 1 Y N N 8.899  12.661 36.898 1.650  -0.106 -8.159 CZ3  GLI 19 
+GLI C3   C3   C 0 1 N N S 3.343  13.125 40.233 2.608  0.619  -1.797 C3   GLI 20 
+GLI O3   O3   O 0 1 N N N 3.227  14.460 40.705 2.509  2.034  -1.623 O3   GLI 21 
+GLI CX4  CX4  C 0 1 N N N 1.969  12.755 39.784 1.739  -0.083 -0.752 CX4  GLI 22 
+GLI CA4  CA4  C 0 1 N N N 1.117  12.378 40.951 2.221  0.293  0.649  CA4  GLI 23 
+GLI C4   C4   C 0 1 N N N 1.527  11.000 41.451 1.364  -0.399 1.678  C4   GLI 24 
+GLI O4   O4   O 0 1 N N N 1.845  10.122 40.635 0.458  -1.123 1.324  O4   GLI 25 
+GLI N5   N5   N 0 1 N N N 1.524  10.780 42.758 1.606  -0.214 2.991  N5   GLI 26 
+GLI CA5  CA5  C 0 1 N N S 1.882  9.476  43.227 0.773  -0.888 3.991  CA5  GLI 27 
+GLI CB5  CB5  C 0 1 N N N 3.272  9.343  43.919 1.386  -2.248 4.331  CB5  GLI 28 
+GLI CGF  CG51 C 0 1 N N N 3.512  7.866  44.202 2.742  -2.041 5.009  CGF  GLI 29 
+GLI CGG  CG52 C 0 1 N N N 4.425  9.805  43.038 0.452  -3.004 5.278  CGG  GLI 30 
+GLI C5   C5   C 0 1 N N N 0.831  9.202  44.272 0.702  -0.043 5.236  C5   GLI 31 
+GLI O5   O5   O 0 1 N N N 0.594  9.973  45.206 1.601  0.727  5.498  O5   GLI 32 
+GLI N6   N6   N 0 1 N N N 0.187  8.063  44.137 -0.360 -0.144 6.059  N6   GLI 33 
+GLI CA6  CA6  C 0 1 N N S -0.835 7.623  45.077 -0.376 0.588  7.328  CA6  GLI 34 
+GLI CB6  CB6  C 0 1 N N N -2.213 7.472  44.394 -0.999 1.969  7.111  CB6  GLI 35 
+GLI CGP  CG61 C 0 1 N N N -2.652 8.832  43.888 -2.430 1.808  6.596  CGP  GLI 36 
+GLI CGQ  CG62 C 0 1 N N N -2.156 6.412  43.315 -1.016 2.734  8.436  CGQ  GLI 37 
+GLI C6   C6   C 0 1 N N N -0.358 6.263  45.627 -1.191 -0.176 8.339  C6   GLI 38 
+GLI O6   O6   O 0 1 N N N 0.661  5.687  45.229 -1.704 -1.225 8.032  O6   GLI 39 
+GLI OM6  OM6  O 0 1 N N N -1.036 5.602  46.676 -1.345 0.308  9.581  OM6  GLI 40 
+GLI CM6  CM6  C 0 1 N N N -0.146 5.010  47.645 -2.129 -0.428 10.556 CM6  GLI 41 
+GLI HN1  1HN  H 0 1 N N N 5.453  16.569 31.900 -5.688 -1.160 -7.902 HN1  GLI 42 
+GLI HN2A 2HN  H 0 0 N N N 7.102  16.256 31.739 -5.276 0.364  -7.544 HN2A GLI 43 
+GLI HA1  HA1  H 0 1 N N N 5.910  14.302 32.555 -3.865 -2.009 -6.619 HA1  GLI 44 
+GLI HB11 1HB1 H 0 0 N N N 7.358  13.915 34.579 -3.688 -1.625 -9.062 HB11 GLI 45 
+GLI HB12 2HB1 H 0 0 N N N 8.321  14.727 33.234 -3.219 0.065  -8.762 HB12 GLI 46 
+GLI HB13 3HB1 H 0 0 N N N 7.836  15.695 34.538 -2.149 -1.260 -8.245 HB13 GLI 47 
+GLI HN2  HN2  H 0 1 N N N 4.920  13.489 34.505 -1.911 -1.438 -5.350 HN2  GLI 48 
+GLI HA2  HA2  H 0 1 N N N 3.518  15.563 36.256 -1.552 1.410  -4.746 HA2  GLI 49 
+GLI HB21 1HB2 H 0 0 N N N 1.401  14.434 35.868 -2.198 -0.664 -2.603 HB21 GLI 50 
+GLI HB22 2HB2 H 0 0 N N N 2.061  14.961 34.210 -1.729 1.026  -2.303 HB22 GLI 51 
+GLI HB23 3HB2 H 0 0 N N N 2.158  13.329 34.578 -3.267 0.660  -3.120 HB23 GLI 52 
+GLI HN3  HN3  H 0 1 N N N 4.376  14.953 38.136 0.396  1.432  -2.885 HN3  GLI 53 
+GLI HA3  HA3  H 0 1 N N N 4.430  11.957 38.812 2.201  -0.836 -3.331 HA3  GLI 54 
+GLI HB31 1HB3 H 0 0 N N N 5.873  14.350 40.163 2.920  2.025  -4.111 HB31 GLI 55 
+GLI HB32 2HB3 H 0 0 N N N 6.006  12.747 40.694 4.033  0.636  -4.120 HB32 GLI 56 
+GLI HD31 1HD3 H 0 0 N N N 7.243  15.172 38.390 1.140  2.201  -5.752 HD31 GLI 57 
+GLI HD32 2HD3 H 0 0 N N N 6.766  10.916 38.905 3.811  -1.122 -5.776 HD32 GLI 58 
+GLI HE31 1HE3 H 0 0 N N N 9.043  14.806 36.732 0.364  1.594  -8.009 HE31 GLI 59 
+GLI HE32 2HE3 H 0 0 N N N 8.569  10.553 37.241 3.032  -1.732 -8.031 HE32 GLI 60 
+GLI HZ3  HZ3  H 0 1 N N N 9.698  12.491 36.157 1.310  -0.372 -9.148 HZ3  GLI 61 
+GLI H3   H3   H 0 1 N N N 3.674  12.395 41.008 3.646  0.310  -1.673 H3   GLI 62 
+GLI HO3  HO3  H 0 1 N N N 2.540  14.530 41.358 1.578  2.266  -1.740 HO3  GLI 63 
+GLI HX41 1HX4 H 0 0 N N N 1.501  13.563 39.174 1.814  -1.163 -0.884 HX41 GLI 64 
+GLI HX42 2HX4 H 0 0 N N N 1.988  11.952 39.010 0.701  0.226  -0.875 HX42 GLI 65 
+GLI HA41 1HA4 H 0 0 N N N 1.144  13.145 41.759 2.145  1.372  0.781  HA41 GLI 66 
+GLI HA42 2HA4 H 0 0 N N N 0.028  12.434 40.715 3.258  -0.016 0.772  HA42 GLI 67 
+GLI HN5  HN5  H 0 1 N N N 1.264  11.560 43.361 2.331  0.364  3.274  HN5  GLI 68 
+GLI HA5  HA5  H 0 1 N N N 1.941  8.783  42.355 -0.230 -1.031 3.591  HA5  GLI 69 
+GLI HB5  HB5  H 0 1 N N N 3.247  9.978  44.834 1.521  -2.825 3.416  HB5  GLI 70 
+GLI H511 1H51 H 0 0 N N N 4.506  7.770  44.697 3.178  -3.010 5.252  H511 GLI 71 
+GLI H512 2H51 H 0 0 N N N 2.688  7.399  44.791 3.407  -1.502 4.334  H512 GLI 72 
+GLI H513 3H51 H 0 0 N N N 3.419  7.230  43.290 2.607  -1.464 5.924  H513 GLI 73 
+GLI H521 1H52 H 0 0 N N N 5.419  9.709  43.533 0.395  -2.477 6.231  H521 GLI 74 
+GLI H522 2H52 H 0 0 N N N 4.415  9.271  42.059 -0.542 -3.065 4.837  H522 GLI 75 
+GLI H523 3H52 H 0 0 N N N 4.257  10.847 42.679 0.838  -4.010 5.443  H523 GLI 76 
+GLI HN6  HN6  H 0 1 N N N 0.475  7.529  43.316 -1.114 -0.701 5.811  HN6  GLI 77 
+GLI HA6  HA6  H 0 1 N N N -0.967 8.375  45.889 0.643  0.703  7.694  HA6  GLI 78 
+GLI HB6  HB6  H 0 1 N N N -2.981 7.118  45.120 -0.410 2.522  6.380  HB6  GLI 79 
+GLI H611 1H61 H 0 0 N N N -3.646 8.723  43.395 -2.874 2.792  6.442  H611 GLI 80 
+GLI H612 2H61 H 0 0 N N N -2.654 9.606  44.690 -2.418 1.263  5.653  H612 GLI 81 
+GLI H613 3H61 H 0 0 N N N -1.893 9.305  43.221 -3.019 1.255  7.328  H613 GLI 82 
+GLI H621 1H62 H 0 0 N N N -3.150 6.303  42.822 -1.605 2.181  9.167  H621 GLI 83 
+GLI H622 2H62 H 0 0 N N N -1.346 6.616  42.575 0.003  2.849  8.803  H622 GLI 84 
+GLI H623 3H62 H 0 0 N N N -1.779 5.439  43.708 -1.459 3.718  8.282  H623 GLI 85 
+GLI HM61 1HM6 H 0 0 N N N -0.681 4.488  48.472 -2.142 0.116  11.500 HM61 GLI 86 
+GLI HM62 2HM6 H 0 0 N N N 0.580  4.325  47.149 -3.150 -0.543 10.189 HM62 GLI 87 
+GLI HM63 3HM6 H 0 0 N N N 0.563  5.770  48.048 -1.686 -1.412 10.710 HM63 GLI 88 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLI N   CA1  SING N N 1  
+GLI N   HN1  SING N N 2  
+GLI N   HN2A SING N N 3  
+GLI CA1 CB1  SING N N 4  
+GLI CA1 C1   SING N N 5  
+GLI CA1 HA1  SING N N 6  
+GLI CB1 HB11 SING N N 7  
+GLI CB1 HB12 SING N N 8  
+GLI CB1 HB13 SING N N 9  
+GLI C1  O1   DOUB N N 10 
+GLI C1  N2   SING N N 11 
+GLI N2  CA2  SING N N 12 
+GLI N2  HN2  SING N N 13 
+GLI CA2 CB2  SING N N 14 
+GLI CA2 C2   SING N N 15 
+GLI CA2 HA2  SING N N 16 
+GLI CB2 HB21 SING N N 17 
+GLI CB2 HB22 SING N N 18 
+GLI CB2 HB23 SING N N 19 
+GLI C2  O2   DOUB N N 20 
+GLI C2  N3   SING N N 21 
+GLI N3  CA3  SING N N 22 
+GLI N3  HN3  SING N N 23 
+GLI CA3 CB3  SING N N 24 
+GLI CA3 C3   SING N N 25 
+GLI CA3 HA3  SING N N 26 
+GLI CB3 CG3  SING N N 27 
+GLI CB3 HB31 SING N N 28 
+GLI CB3 HB32 SING N N 29 
+GLI CG3 CDV  DOUB Y N 30 
+GLI CG3 CDW  SING Y N 31 
+GLI CDV CEV  SING Y N 32 
+GLI CDV HD31 SING N N 33 
+GLI CDW CEW  DOUB Y N 34 
+GLI CDW HD32 SING N N 35 
+GLI CEV CZ3  DOUB Y N 36 
+GLI CEV HE31 SING N N 37 
+GLI CEW CZ3  SING Y N 38 
+GLI CEW HE32 SING N N 39 
+GLI CZ3 HZ3  SING N N 40 
+GLI C3  O3   SING N N 41 
+GLI C3  CX4  SING N N 42 
+GLI C3  H3   SING N N 43 
+GLI O3  HO3  SING N N 44 
+GLI CX4 CA4  SING N N 45 
+GLI CX4 HX41 SING N N 46 
+GLI CX4 HX42 SING N N 47 
+GLI CA4 C4   SING N N 48 
+GLI CA4 HA41 SING N N 49 
+GLI CA4 HA42 SING N N 50 
+GLI C4  O4   DOUB N N 51 
+GLI C4  N5   SING N N 52 
+GLI N5  CA5  SING N N 53 
+GLI N5  HN5  SING N N 54 
+GLI CA5 CB5  SING N N 55 
+GLI CA5 C5   SING N N 56 
+GLI CA5 HA5  SING N N 57 
+GLI CB5 CGF  SING N N 58 
+GLI CB5 CGG  SING N N 59 
+GLI CB5 HB5  SING N N 60 
+GLI CGF H511 SING N N 61 
+GLI CGF H512 SING N N 62 
+GLI CGF H513 SING N N 63 
+GLI CGG H521 SING N N 64 
+GLI CGG H522 SING N N 65 
+GLI CGG H523 SING N N 66 
+GLI C5  O5   DOUB N N 67 
+GLI C5  N6   SING N N 68 
+GLI N6  CA6  SING N N 69 
+GLI N6  HN6  SING N N 70 
+GLI CA6 CB6  SING N N 71 
+GLI CA6 C6   SING N N 72 
+GLI CA6 HA6  SING N N 73 
+GLI CB6 CGP  SING N N 74 
+GLI CB6 CGQ  SING N N 75 
+GLI CB6 HB6  SING N N 76 
+GLI CGP H611 SING N N 77 
+GLI CGP H612 SING N N 78 
+GLI CGP H613 SING N N 79 
+GLI CGQ H621 SING N N 80 
+GLI CGQ H622 SING N N 81 
+GLI CGQ H623 SING N N 82 
+GLI C6  O6   DOUB N N 83 
+GLI C6  OM6  SING N N 84 
+GLI OM6 CM6  SING N N 85 
+GLI CM6 HM61 SING N N 86 
+GLI CM6 HM62 SING N N 87 
+GLI CM6 HM63 SING N N 88 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLI SMILES           ACDLabs              10.04 "O=C(OC)C(NC(=O)C(NC(=O)CCC(O)C(NC(=O)C(NC(=O)C(N)C)C)Cc1ccccc1)C(C)C)C(C)C" 
+GLI InChI            InChI                1.02b 
+;InChI=1/C29H47N5O7/c1-16(2)24(28(39)34-25(17(3)4)29(40)41-7)33-23(36)14-13-22(35)21(15-20-11-9-8-10-12-20)32-27(38)19(6)31-26(37)18(5)30/h8-12,16-19,21-22,24-25,35H,13-15,30H2,1-7H3,(H,31,37)(H,32,38)(H,33,36)(H,34,39)/t18-,19-,21-,22-,24-,25-/m0/s1/f/h31-34H
+;
+GLI InChIKey         InChI                1.02b IUDCAKKZLXFOQA-CDTQGVENDN 
+GLI SMILES_CANONICAL CACTVS               3.341 "COC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CC[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](C)NC(=O)[C@H](C)N)C(C)C)C(C)C" 
+GLI SMILES           CACTVS               3.341 "COC(=O)[CH](NC(=O)[CH](NC(=O)CC[CH](O)[CH](Cc1ccccc1)NC(=O)[CH](C)NC(=O)[CH](C)N)C(C)C)C(C)C" 
+GLI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)OC)NC(=O)CC[C@@H]([C@H](Cc1ccccc1)NC(=O)[C@H](C)NC(=O)[C@H](C)N)O" 
+GLI SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)C(C(=O)NC(C(C)C)C(=O)OC)NC(=O)CCC(C(Cc1ccccc1)NC(=O)C(C)NC(=O)C(C)N)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLI "SYSTEMATIC NAME" ACDLabs              10.04 "methyl N-{(4S,5S)-5-[(L-alanyl-L-alanyl)amino]-4-hydroxy-6-phenylhexanoyl}-L-valyl-L-valinate"                                                                             
+GLI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "methyl (2S)-2-[[(2S)-2-[[(4S,5S)-5-[[(2S)-2-[[(2S)-2-aminopropanoyl]amino]propanoyl]amino]-4-hydroxy-6-phenyl-hexanoyl]amino]-3-methyl-butanoyl]amino]-3-methyl-butanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLI "Create component" 1999-07-08 EBI 
+# 

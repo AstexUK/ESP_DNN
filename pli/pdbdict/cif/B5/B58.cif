@@ -1,0 +1,123 @@
+data_B58
+# 
+_chem_comp.id                                    B58 
+_chem_comp.name                                  "1H-imidazo[4,5-d]pyridazine-4,7-diamine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H6 N6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-04-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.141 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     B58 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3H2C 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+B58 N10  N10  N 0 1 N N N -65.241 60.953 139.747 2.828  0.555  0.002  N10  B58 1  
+B58 C6   C6   C 0 1 Y N N -64.297 60.642 138.799 1.437  0.630  0.002  C6   B58 2  
+B58 N1   N1   N 0 1 Y N N -63.815 61.556 137.909 0.831  1.804  -0.002 N1   B58 3  
+B58 N2   N2   N 0 1 Y N N -62.867 61.291 136.887 -0.445 1.929  -0.002 N2   B58 4  
+B58 C5   C5   C 0 1 Y N N -63.737 59.299 138.693 0.661  -0.543 0.000  C5   B58 5  
+B58 N7   N7   N 0 1 Y N N -63.928 58.186 139.360 0.923  -1.869 -0.001 N7   B58 6  
+B58 C8   C8   C 0 1 Y N N -63.108 57.252 138.825 -0.196 -2.536 -0.001 C8   B58 7  
+B58 N9   N9   N 0 1 Y N N -62.363 57.759 137.803 -1.250 -1.676 -0.000 N9   B58 8  
+B58 C4   C4   C 0 1 Y N N -62.729 59.019 137.672 -0.737 -0.401 0.001  C4   B58 9  
+B58 C3   C3   C 0 1 Y N N -62.323 60.071 136.734 -1.267 0.893  0.002  C3   B58 10 
+B58 N11  N11  N 0 1 N N N -61.412 59.806 135.772 -2.647 1.089  0.002  N11  B58 11 
+B58 HN10 HN10 H 0 0 N N N -64.802 61.029 140.643 3.357  1.368  -0.002 HN10 B58 12 
+B58 HN1A HN1A H 0 0 N N N -65.674 61.824 139.513 3.267  -0.310 0.009  HN1A B58 13 
+B58 H8   H8   H 0 1 N N N -63.051 56.229 139.167 -0.276 -3.613 -0.002 H8   B58 14 
+B58 HN9  HN9  H 0 1 N N N -61.677 57.273 137.261 -2.190 -1.917 -0.001 HN9  B58 15 
+B58 HN11 HN11 H 0 0 N N N -61.871 59.741 134.886 -3.009 1.989  -0.001 HN11 B58 16 
+B58 HN1B HN1B H 0 0 N N N -60.735 60.541 135.743 -3.246 0.326  0.005  HN1B B58 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+B58 N10 C6   SING N N 1  
+B58 C6  N1   DOUB Y N 2  
+B58 C6  C5   SING Y N 3  
+B58 N1  N2   SING Y N 4  
+B58 N2  C3   DOUB Y N 5  
+B58 C5  N7   SING Y N 6  
+B58 C5  C4   DOUB Y N 7  
+B58 N7  C8   DOUB Y N 8  
+B58 C8  N9   SING Y N 9  
+B58 N9  C4   SING Y N 10 
+B58 C4  C3   SING Y N 11 
+B58 C3  N11  SING N N 12 
+B58 N10 HN10 SING N N 13 
+B58 N10 HN1A SING N N 14 
+B58 C8  H8   SING N N 15 
+B58 N9  HN9  SING N N 16 
+B58 N11 HN11 SING N N 17 
+B58 N11 HN1B SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+B58 SMILES           ACDLabs              10.04 "n1nc(c2ncnc2c1N)N"                                                          
+B58 SMILES_CANONICAL CACTVS               3.341 "Nc1nnc(N)c2nc[nH]c12"                                                       
+B58 SMILES           CACTVS               3.341 "Nc1nnc(N)c2nc[nH]c12"                                                       
+B58 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1[nH]c2c(n1)c(nnc2N)N"                                                     
+B58 SMILES           "OpenEye OEToolkits" 1.5.0 "c1[nH]c2c(n1)c(nnc2N)N"                                                     
+B58 InChI            InChI                1.03  "InChI=1S/C5H6N6/c6-4-2-3(9-1-8-2)5(7)11-10-4/h1H,(H2,6,10)(H2,7,11)(H,8,9)" 
+B58 InChIKey         InChI                1.03  UMLCZSAOYUCVKU-UHFFFAOYSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+B58 "SYSTEMATIC NAME" ACDLabs              10.04 "1H-imidazo[4,5-d]pyridazine-4,7-diamine" 
+B58 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3H-imidazo[5,4-d]pyridazine-4,7-diamine" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+B58 "Create component"     2009-04-24 RCSB 
+B58 "Modify aromatic_flag" 2011-06-04 RCSB 
+B58 "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,134 @@
+data_DRZ
+# 
+_chem_comp.id                                    DRZ 
+_chem_comp.name                                  "3',4'-DIHYDROXY-PENTANAL-5'-PHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C5 H11 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-07-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        214.110 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     DRZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DRZ P      P    P 0 1 N N N 26.798 23.974 37.172 -0.162 -5.053 -1.366 P      DRZ 1  
+DRZ OP1    O1P  O 0 1 N N N 27.990 24.521 36.473 -0.850 -6.350 -1.675 OP1    DRZ 2  
+DRZ OP2    O2P  O 0 1 N N N 26.716 22.518 37.447 1.412  -5.171 -1.014 OP2    DRZ 3  
+DRZ OP3    O3P  O 0 1 N Y N ?      ?      ?      -0.196 -3.960 -2.558 OP3    DRZ 4  
+DRZ "O5'"  O5*  O 0 1 N N N 25.510 24.451 36.353 -0.775 -4.233 -0.116 "O5'"  DRZ 5  
+DRZ "C5'"  C5*  C 0 1 N N N 24.196 24.136 36.780 -0.172 -2.990 0.236  "C5'"  DRZ 6  
+DRZ "C4'"  C4*  C 0 1 N N R 23.195 25.182 36.262 -0.903 -2.388 1.435  "C4'"  DRZ 7  
+DRZ "O4'"  O4*  O 0 1 N N N 22.727 24.722 35.024 -0.804 -3.304 2.531  "O4'"  DRZ 8  
+DRZ "C3'"  C3*  C 0 1 N N S 22.383 25.666 37.473 -0.363 -1.023 1.889  "C3'"  DRZ 9  
+DRZ "C2'"  C2*  C 0 1 N N N 21.017 24.924 37.466 -1.068 -0.512 3.146  "C2'"  DRZ 10 
+DRZ "C1'"  C1*  C 0 1 N N N 19.565 25.336 37.254 -0.585 0.855  3.580  "C1'"  DRZ 11 
+DRZ O1     O1   O 0 1 N N N 18.500 25.881 37.466 0.249  1.528  2.984  O1     DRZ 12 
+DRZ "O3'"  O3*  O 0 1 N N N 22.148 27.071 37.422 -0.551 -0.055 0.855  "O3'"  DRZ 13 
+DRZ HOP2   2HOP H 0 0 N N N 25.954 22.168 37.893 1.992  -5.694 -1.608 HOP2   DRZ 14 
+DRZ HOP3   3HOP H 0 0 N N N -0.762 -0.349 0.446  0.045  -4.241 -3.466 HOP3   DRZ 15 
+DRZ "H5'"  1H5* H 0 1 N N N 23.902 23.101 36.487 -0.235 -2.340 -0.641 "H5'"  DRZ 16 
+DRZ "H5''" 2H5* H 0 0 N N N 24.137 24.019 37.887 0.883  -3.186 0.455  "H5''" DRZ 17 
+DRZ "H4'"  H4*  H 0 1 N N N 23.503 26.193 35.909 -1.973 -2.308 1.213  "H4'"  DRZ 18 
+DRZ "H4'O" OH4* H 0 0 N N N 22.108 25.368 34.704 -1.259 -2.884 3.275  "H4'O" DRZ 19 
+DRZ "H3'"  H3*  H 0 1 N N N 22.960 25.449 38.401 0.718  -1.100 2.062  "H3'"  DRZ 20 
+DRZ "H2'"  1H2* H 0 1 N N N 21.167 24.112 36.716 -2.148 -0.424 2.986  "H2'"  DRZ 21 
+DRZ "H2''" 2H2* H 0 0 N N N 20.997 24.408 38.454 -0.888 -1.187 3.990  "H2''" DRZ 22 
+DRZ "H1'"  H1*  H 0 1 N N N 18.840 25.087 36.460 -1.049 1.237  4.506  "H1'"  DRZ 23 
+DRZ "HO3'" H3T  H 0 0 N Y N 21.645 27.370 38.170 -1.392 -0.274 0.427  "HO3'" DRZ 24 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DRZ P     OP1    DOUB N N 1  
+DRZ P     OP2    SING N N 2  
+DRZ P     OP3    SING N N 3  
+DRZ P     "O5'"  SING N N 4  
+DRZ OP2   HOP2   SING N N 5  
+DRZ OP3   HOP3   SING N N 6  
+DRZ "O5'" "C5'"  SING N N 7  
+DRZ "C5'" "C4'"  SING N N 8  
+DRZ "C5'" "H5'"  SING N N 9  
+DRZ "C5'" "H5''" SING N N 10 
+DRZ "C4'" "O4'"  SING N N 11 
+DRZ "C4'" "C3'"  SING N N 12 
+DRZ "C4'" "H4'"  SING N N 13 
+DRZ "O4'" "H4'O" SING N N 14 
+DRZ "C3'" "C2'"  SING N N 15 
+DRZ "C3'" "O3'"  SING N N 16 
+DRZ "C3'" "H3'"  SING N N 17 
+DRZ "C2'" "C1'"  SING N N 18 
+DRZ "C2'" "H2'"  SING N N 19 
+DRZ "C2'" "H2''" SING N N 20 
+DRZ "C1'" O1     DOUB N N 21 
+DRZ "C1'" "H1'"  SING N N 22 
+DRZ "O3'" "HO3'" SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DRZ SMILES           ACDLabs              10.04 "O=P(O)(O)OCC(O)C(O)CC=O"                                                                      
+DRZ SMILES_CANONICAL CACTVS               3.341 "O[C@H](CO[P](O)(O)=O)[C@@H](O)CC=O"                                                           
+DRZ SMILES           CACTVS               3.341 "O[CH](CO[P](O)(O)=O)[CH](O)CC=O"                                                              
+DRZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C=O)[C@@H]([C@@H](COP(=O)(O)O)O)O"                                                          
+DRZ SMILES           "OpenEye OEToolkits" 1.5.0 "C(C=O)C(C(COP(=O)(O)O)O)O"                                                                    
+DRZ InChI            InChI                1.03  "InChI=1S/C5H11O7P/c6-2-1-4(7)5(8)3-12-13(9,10)11/h2,4-5,7-8H,1,3H2,(H2,9,10,11)/t4-,5+/m0/s1" 
+DRZ InChIKey         InChI                1.03  ALQNUOMIEBHXQG-CRCLSJGQSA-N                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DRZ "SYSTEMATIC NAME" ACDLabs              10.04 2-deoxy-5-O-phosphono-D-erythro-pentose                     
+DRZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S)-2,3-dihydroxy-5-oxo-pentyl] dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DRZ "Create component"  2002-07-18 RCSB 
+DRZ "Modify descriptor" 2011-06-04 RCSB 
+# 

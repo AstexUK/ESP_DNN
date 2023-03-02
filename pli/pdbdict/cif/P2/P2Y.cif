@@ -1,0 +1,125 @@
+data_P2Y
+# 
+_chem_comp.id                                    P2Y 
+_chem_comp.name                                  "(2S)-PYRROLIDIN-2-YLMETHYLAMINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H12 N2" 
+_chem_comp.mon_nstd_parent_comp_id               PRO 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-03-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        100.162 
+_chem_comp.one_letter_code                       P 
+_chem_comp.three_letter_code                     P2Y 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+P2Y NA   NA   N 0 1 N N N 8.948 -34.286 70.832 -0.380 -0.083 2.622  NA   P2Y 1  
+P2Y C    C    C 0 1 N N N 8.797 -32.971 70.489 0.637  0.222  1.608  C    P2Y 2  
+P2Y CA   CA   C 0 1 N N S 7.992 -32.521 69.307 0.230  -0.402 0.272  CA   P2Y 3  
+P2Y N    N    N 0 1 N N N 7.817 -33.486 68.242 -1.041 0.194  -0.212 N    P2Y 4  
+P2Y CD   CD   C 0 1 N N N 6.396 -33.745 68.050 -1.029 -0.065 -1.676 CD   P2Y 5  
+P2Y CG   CG   C 0 1 N N N 5.825 -33.351 69.378 0.437  0.162  -2.101 CG   P2Y 6  
+P2Y CB   CB   C 0 1 N N N 6.610 -32.148 69.711 1.265  -0.059 -0.819 CB   P2Y 7  
+P2Y HNA1 1HNA H 0 0 N N N 9.495 -34.592 71.636 -0.072 0.346  3.481  HNA1 P2Y 8  
+P2Y HNA2 2HNA H 0 0 N N N 9.309 -34.774 70.013 -1.222 0.398  2.343  HNA2 P2Y 9  
+P2Y H1   1H   H 0 1 N N N 8.401 -32.436 71.384 1.597  -0.186 1.923  H1   P2Y 10 
+P2Y H2   2H   H 0 1 N Y N 9.817 -32.535 70.382 0.722  1.303  1.493  H2   P2Y 11 
+P2Y HA   HA   H 0 1 N N N 8.601 -31.670 68.921 0.128  -1.482 0.374  HA   P2Y 12 
+P2Y H    HN   H 0 1 N N N 8.346 -34.342 68.406 -1.790 -0.360 0.174  H    P2Y 13 
+P2Y HD3  1HD  H 0 1 N N N 5.938 -33.236 67.169 -1.687 0.634  -2.191 HD3  P2Y 14 
+P2Y HD2  2HD  H 0 1 N N N 6.145 -34.779 67.716 -1.329 -1.092 -1.880 HD2  P2Y 15 
+P2Y HG3  1HG  H 0 1 N N N 4.719 -33.210 69.391 0.571  1.180  -2.468 HG3  P2Y 16 
+P2Y HG2  2HG  H 0 1 N N N 5.840 -34.152 70.153 0.724  -0.557 -2.868 HG2  P2Y 17 
+P2Y HB2  1HB  H 0 1 N N N 6.511 -31.808 70.768 1.806  0.849  -0.556 HB2  P2Y 18 
+P2Y HB3  2HB  H 0 1 N N N 6.231 -31.205 69.251 1.960  -0.888 -0.956 HB3  P2Y 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+P2Y NA C    SING N N 1  
+P2Y NA HNA1 SING N N 2  
+P2Y NA HNA2 SING N N 3  
+P2Y C  CA   SING N N 4  
+P2Y C  H1   SING N N 5  
+P2Y C  H2   SING N N 6  
+P2Y CA N    SING N N 7  
+P2Y CA CB   SING N N 8  
+P2Y CA HA   SING N N 9  
+P2Y N  CD   SING N N 10 
+P2Y N  H    SING N N 11 
+P2Y CD CG   SING N N 12 
+P2Y CD HD3  SING N N 13 
+P2Y CD HD2  SING N N 14 
+P2Y CG CB   SING N N 15 
+P2Y CG HG3  SING N N 16 
+P2Y CG HG2  SING N N 17 
+P2Y CB HB2  SING N N 18 
+P2Y CB HB3  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+P2Y SMILES           ACDLabs              10.04 NCC1NCCC1                                                 
+P2Y SMILES_CANONICAL CACTVS               3.341 "NC[C@@H]1CCCN1"                                          
+P2Y SMILES           CACTVS               3.341 "NC[CH]1CCCN1"                                            
+P2Y SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1C[C@H](NC1)CN"                                         
+P2Y SMILES           "OpenEye OEToolkits" 1.5.0 "C1CC(NC1)CN"                                             
+P2Y InChI            InChI                1.03  InChI=1S/C5H12N2/c6-4-5-2-1-3-7-5/h5,7H,1-4,6H2/t5-/m0/s1 
+P2Y InChIKey         InChI                1.03  AUKXFNABVHIUAC-YFKPBYRVSA-N                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+P2Y "SYSTEMATIC NAME" ACDLabs              10.04 "1-[(2S)-pyrrolidin-2-yl]methanamine" 
+P2Y "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S)-pyrrolidin-2-yl]methanamine"   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+P2Y "Create component"  2003-03-20 RCSB 
+P2Y "Modify descriptor" 2011-06-04 RCSB 
+# 

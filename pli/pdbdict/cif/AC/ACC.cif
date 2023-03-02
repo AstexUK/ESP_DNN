@@ -1,0 +1,182 @@
+data_ACC
+# 
+_chem_comp.id                                    ACC 
+_chem_comp.name                                  "N-[N-[2-AMINO-6-OXO-HEXANOIC ACID-6-YL]CYSTEINYL]-S-METHYLCYSTEINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H24 N3 O6 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        382.476 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ACC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QIQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ACC C1   C1   C 0 1 N N N 8.917  38.383 4.759 2.112  0.444  -0.223 C1   ACC 1  
+ACC N2   N2   N 0 1 N N N 7.582  38.526 4.770 3.337  0.242  0.301  N2   ACC 2  
+ACC C3   C3   C 0 1 N N R 9.694  39.690 4.857 0.933  -0.340 0.292  C3   ACC 3  
+ACC C4   C4   C 0 1 N N S 6.714  37.538 4.191 4.483  1.004  -0.199 C4   ACC 4  
+ACC C5   C5   C 0 1 N N N 6.555  37.762 2.685 5.770  0.217  0.056  C5   ACC 5  
+ACC O6   O6   O 0 1 N N N 9.450  37.325 4.498 1.959  1.258  -1.109 O6   ACC 6  
+ACC N7   N7   N 0 1 N N N 11.108 39.466 4.658 -0.275 0.060  -0.434 N7   ACC 7  
+ACC C8   C8   C 0 1 N N N 12.017 39.641 5.592 -1.486 -0.091 0.137  C8   ACC 8  
+ACC C9   C9   C 0 1 N N N 13.440 39.318 5.171 -2.729 0.321  -0.610 C9   ACC 9  
+ACC C10  C10  C 0 1 N N N 13.914 38.018 5.826 -3.959 0.045  0.256  C10  ACC 10 
+ACC C13  C13  C 0 1 N N N 15.364 37.724 5.409 -5.221 0.463  -0.502 C13  ACC 11 
+ACC C16  C16  C 0 1 N N S 15.914 36.448 6.042 -6.451 0.188  0.364  C16  ACC 12 
+ACC N19  N19  N 1 1 N N N 15.941 36.637 7.524 -6.587 -1.260 0.576  N19  ACC 13 
+ACC C20  C20  C 0 1 N N N 17.368 36.220 5.648 -7.682 0.711  -0.330 C20  ACC 14 
+ACC O21  O21  O 0 1 N N N 18.301 36.256 6.398 -7.978 2.019  -0.276 O21  ACC 15 
+ACC O22  O22  O 0 1 N N N 17.493 35.901 4.366 -8.402 -0.046 -0.937 O22  ACC 16 
+ACC C23  C23  C 0 1 N N N 5.335  37.482 4.824 4.555  2.330  0.514  C23  ACC 17 
+ACC O25  O25  O 0 1 N N N 5.203  38.276 5.897 5.532  3.200  0.216  O25  ACC 18 
+ACC O26  O26  O 0 1 N N N 4.400  36.852 4.402 3.733  2.609  1.355  O26  ACC 19 
+ACC O27  O27  O 0 1 N N N 11.742 40.022 6.730 -1.576 -0.559 1.253  O27  ACC 20 
+ACC C35  C35  C 0 1 N N N 9.252  40.627 3.739 1.183  -1.835 0.081  C35  ACC 21 
+ACC S37  S37  S 0 1 N N N 9.526  39.953 2.064 -0.237 -2.779 0.701  S37  ACC 22 
+ACC S41  S41  S 0 1 N N N 5.985  39.405 2.250 5.747  -1.312 -0.920 S41  ACC 23 
+ACC C42  C42  C 0 1 N N N 4.407  38.951 1.529 7.345  -2.020 -0.434 C42  ACC 24 
+ACC H2   H2   H 0 1 N N N 7.231  39.375 5.213 3.460  -0.409 1.010  H2   ACC 25 
+ACC H3   H3   H 0 1 N N N 9.501  40.120 5.867 0.800  -0.141 1.356  H3   ACC 26 
+ACC H4   H4   H 0 1 N N N 7.213  36.561 4.391 4.367  1.174  -1.270 H4   ACC 27 
+ACC H52  2H5  H 0 1 N N N 7.503  37.522 2.150 6.629  0.821  -0.235 H52  ACC 28 
+ACC H51  1H5  H 0 1 N N N 5.888  36.985 2.241 5.841  -0.029 1.115  H51  ACC 29 
+ACC H7   H7   H 0 1 N N N 11.503 39.153 3.771 -0.203 0.435  -1.326 H7   ACC 30 
+ACC H92  2H9  H 0 1 N N N 13.545 39.284 4.061 -2.801 -0.249 -1.536 H92  ACC 31 
+ACC H91  1H9  H 0 1 N N N 14.135 40.164 5.379 -2.678 1.385  -0.840 H91  ACC 32 
+ACC H102 2H10 H 0 0 N N N 13.792 38.038 6.934 -3.887 0.615  1.183  H102 ACC 33 
+ACC H101 1H10 H 0 0 N N N 13.232 37.163 5.604 -4.010 -1.019 0.487  H101 ACC 34 
+ACC H132 2H13 H 0 0 N N N 15.462 37.693 4.298 -5.293 -0.106 -1.428 H132 ACC 35 
+ACC H131 1H13 H 0 0 N N N 16.026 38.594 5.625 -5.170 1.527  -0.733 H131 ACC 36 
+ACC H16  H16  H 0 1 N N N 15.273 35.598 5.708 -6.337 0.686  1.327  H16  ACC 37 
+ACC H193 3H19 H 0 0 N N N 16.308 35.784 7.946 -6.693 -1.721 -0.315 H193 ACC 38 
+ACC H192 2H19 H 0 0 N N N 16.458 37.470 7.805 -7.399 -1.442 1.147  H192 ACC 39 
+ACC H191 1H19 H 0 0 N N N 15.032 36.904 7.903 -5.763 -1.610 1.041  H191 ACC 40 
+ACC H21  H21  H 0 1 N N N 19.207 36.113 6.152 -8.768 2.355  -0.721 H21  ACC 41 
+ACC H25  H25  H 0 1 N N N 4.340  38.241 6.293 5.579  4.051  0.674  H25  ACC 42 
+ACC H352 2H35 H 0 0 N N N 8.185  40.924 3.873 2.081  -2.133 0.621  H352 ACC 43 
+ACC H351 1H35 H 0 0 N N N 9.739  41.624 3.846 1.315  -2.034 -0.983 H351 ACC 44 
+ACC H37  H37  H 0 1 N N N 9.250  40.537 1.367 0.177  -4.029 0.427  H37  ACC 45 
+ACC H423 3H42 H 0 0 N N N 4.052  39.972 1.258 7.492  -2.970 -0.947 H423 ACC 46 
+ACC H422 2H42 H 0 0 N N N 4.433  38.199 0.705 7.357  -2.182 0.644  H422 ACC 47 
+ACC H421 1H42 H 0 0 N N N 3.725  38.340 2.166 8.145  -1.332 -0.707 H421 ACC 48 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ACC C1  N2   SING N N 1  
+ACC C1  C3   SING N N 2  
+ACC C1  O6   DOUB N N 3  
+ACC N2  C4   SING N N 4  
+ACC N2  H2   SING N N 5  
+ACC C3  N7   SING N N 6  
+ACC C3  C35  SING N N 7  
+ACC C3  H3   SING N N 8  
+ACC C4  C5   SING N N 9  
+ACC C4  C23  SING N N 10 
+ACC C4  H4   SING N N 11 
+ACC C5  S41  SING N N 12 
+ACC C5  H52  SING N N 13 
+ACC C5  H51  SING N N 14 
+ACC N7  C8   SING N N 15 
+ACC N7  H7   SING N N 16 
+ACC C8  C9   SING N N 17 
+ACC C8  O27  DOUB N N 18 
+ACC C9  C10  SING N N 19 
+ACC C9  H92  SING N N 20 
+ACC C9  H91  SING N N 21 
+ACC C10 C13  SING N N 22 
+ACC C10 H102 SING N N 23 
+ACC C10 H101 SING N N 24 
+ACC C13 C16  SING N N 25 
+ACC C13 H132 SING N N 26 
+ACC C13 H131 SING N N 27 
+ACC C16 N19  SING N N 28 
+ACC C16 C20  SING N N 29 
+ACC C16 H16  SING N N 30 
+ACC N19 H193 SING N N 31 
+ACC N19 H192 SING N N 32 
+ACC N19 H191 SING N N 33 
+ACC C20 O21  SING N N 34 
+ACC C20 O22  DOUB N N 35 
+ACC O21 H21  SING N N 36 
+ACC C23 O25  SING N N 37 
+ACC C23 O26  DOUB N N 38 
+ACC O25 H25  SING N N 39 
+ACC C35 S37  SING N N 40 
+ACC C35 H352 SING N N 41 
+ACC C35 H351 SING N N 42 
+ACC S37 H37  SING N N 43 
+ACC S41 C42  SING N N 44 
+ACC C42 H423 SING N N 45 
+ACC C42 H422 SING N N 46 
+ACC C42 H421 SING N N 47 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ACC SMILES           ACDLabs              10.04 "O=C(O)C(NC(=O)C(NC(=O)CCCC(C(=O)O)[NH3+])CS)CSC"                                                                                                                      
+ACC SMILES_CANONICAL CACTVS               3.341 "CSC[C@@H](NC(=O)[C@H](CS)NC(=O)CCC[C@H]([NH3+])C(O)=O)C(O)=O"                                                                                                         
+ACC SMILES           CACTVS               3.341 "CSC[CH](NC(=O)[CH](CS)NC(=O)CCC[CH]([NH3+])C(O)=O)C(O)=O"                                                                                                             
+ACC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CSC[C@H](C(=O)O)NC(=O)[C@H](CS)NC(=O)CCC[C@@H](C(=O)O)[NH3+]"                                                                                                         
+ACC SMILES           "OpenEye OEToolkits" 1.5.0 "CSCC(C(=O)O)NC(=O)C(CS)NC(=O)CCCC(C(=O)O)[NH3+]"                                                                                                                      
+ACC InChI            InChI                1.03  "InChI=1S/C13H23N3O6S2/c1-24-6-9(13(21)22)16-11(18)8(5-23)15-10(17)4-2-3-7(14)12(19)20/h7-9,23H,2-6,14H2,1H3,(H,15,17)(H,16,18)(H,19,20)(H,21,22)/p+1/t7-,8-,9+/m0/s1" 
+ACC InChIKey         InChI                1.03  FTCBRKCNMSXWJP-XHNCKOQMSA-O                                                                                                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ACC "SYSTEMATIC NAME" ACDLabs              10.04 "N-[(5S)-5-ammonio-5-carboxypentanoyl]-L-cysteinyl-S-methyl-D-cysteine"                                                                                  
+ACC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S)-1-hydroxy-6-[[(2R)-1-[[(2S)-1-hydroxy-3-methylsulfanyl-1-oxo-propan-2-yl]amino]-1-oxo-3-sulfanyl-propan-2-yl]amino]-1,6-dioxo-hexan-2-yl]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ACC "Create component"  1999-07-08 EBI  
+ACC "Modify descriptor" 2011-06-04 RCSB 
+# 

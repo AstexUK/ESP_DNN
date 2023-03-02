@@ -1,0 +1,289 @@
+data_RIT
+# 
+_chem_comp.id                                    RIT 
+_chem_comp.name                                  RITONAVIR 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C37 H48 N6 O5 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         A-84538 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        720.944 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RIT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HXW 
+_chem_comp.pdbx_subcomponent_list                "013 015 VAL 019" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RIT C1   C1   C 0 1 Y N N 16.662 17.790 1.494  8.214   3.157  1.608  C1   013 1  
+RIT C2   C2   C 0 1 Y N N 16.229 17.935 2.784  7.655   2.966  0.409  C2   013 2  
+RIT S3   S3   S 0 1 Y N N 17.345 17.324 4.036  7.345   4.548  -0.303 S3   013 3  
+RIT C4   C4   C 0 1 Y N N 18.316 17.113 2.555  7.998   5.308  1.082  C4   013 4  
+RIT N5   N5   N 0 1 Y N N 17.867 17.366 1.377  8.383   4.422  1.936  N5   013 5  
+RIT C6   C6   C 0 1 N N N 15.073 18.417 3.489  7.344   1.633  -0.222 C6   013 6  
+RIT O7   O7   O 0 1 N N N 15.186 19.813 3.708  6.003   1.222  0.152  O7   013 7  
+RIT C10  C10  C 0 1 N N N 14.216 20.602 4.339  5.567   0.043  -0.333 C10  013 8  
+RIT O24  O24  O 0 1 N N N 13.103 20.170 4.660  6.289   -0.623 -1.049 O24  013 9  
+RIT N11  N11  N 0 1 N N N 14.650 21.872 4.525  4.332   -0.397 -0.024 N11  015 10 
+RIT C12  C12  C 0 1 N N S 13.873 22.912 5.228  3.858   -1.679 -0.552 C12  015 11 
+RIT C13  C13  C 0 1 N N S 13.503 24.140 4.392  2.329   -1.674 -0.608 C13  015 12 
+RIT C14  C14  C 0 1 N N N 12.672 23.806 3.171  1.857   -0.541 -1.521 C14  015 13 
+RIT C15  C15  C 0 1 N N S 11.140 23.572 3.315  0.347   -0.658 -1.740 C15  015 14 
+RIT C26  C26  C 0 1 N N N 14.261 23.243 6.671  4.331   -2.812 0.362  C26  015 15 
+RIT C28  C28  C 0 1 Y N N 14.816 22.225 7.534  5.835   -2.896 0.321  C28  015 16 
+RIT C31  C31  C 0 1 Y N N 13.799 21.708 8.344  6.592   -2.167 1.220  C31  015 17 
+RIT C32  C32  C 0 1 Y N N 14.098 20.603 9.157  7.971   -2.243 1.183  C32  015 18 
+RIT C33  C33  C 0 1 Y N N 15.374 20.013 9.171  8.594   -3.049 0.248  C33  015 19 
+RIT C34  C34  C 0 1 Y N N 16.392 20.566 8.364  7.837   -3.778 -0.650 C34  015 20 
+RIT C35  C35  C 0 1 Y N N 16.115 21.668 7.549  6.457   -3.705 -0.610 C35  015 21 
+RIT O41  O41  O 0 1 N N N 14.754 24.664 3.978  1.804   -1.477 0.706  O41  015 22 
+RIT C44  C44  C 0 1 N N N 10.569 23.586 1.929  -0.095  0.353  -2.799 C44  015 23 
+RIT C45  C45  C 0 1 Y N N 9.254  22.978 2.001  -1.558  0.156  -3.103 C45  015 24 
+RIT C48  C48  C 0 1 Y N N 8.149  23.845 2.018  -2.514  0.845  -2.379 C48  015 25 
+RIT C49  C49  C 0 1 Y N N 6.836  23.335 2.041  -3.855  0.663  -2.658 C49  015 26 
+RIT C50  C50  C 0 1 Y N N 6.660  21.949 2.026  -4.242  -0.207 -3.661 C50  015 27 
+RIT C51  C51  C 0 1 Y N N 7.756  21.090 2.003  -3.286  -0.895 -4.385 C51  015 28 
+RIT C52  C52  C 0 1 Y N N 9.059  21.593 1.992  -1.944  -0.711 -4.109 C52  015 29 
+RIT N58  N58  N 0 1 N N N 10.469 24.554 4.137  -0.351  -0.383 -0.481 N58  015 30 
+RIT N20  N20  N 0 1 N N N 7.906  25.680 5.503  -3.501  -1.468 1.075  N    VAL 31 
+RIT C19  C19  C 0 1 N N S 9.274  25.515 5.996  -2.222  -0.754 1.094  CA   VAL 32 
+RIT C18  C18  C 0 1 N N N 9.960  24.298 5.348  -1.423  -1.120 -0.130 C    VAL 33 
+RIT O61  O61  O 0 1 N N N 9.968  23.159 5.858  -1.746  -2.079 -0.800 O    VAL 34 
+RIT C62  C62  C 0 1 N N N 9.255  25.567 7.557  -1.439  -1.143 2.349  CB   VAL 35 
+RIT C64  C64  C 0 1 N N N 10.596 25.275 8.282  -1.020  -2.611 2.254  CG1  VAL 36 
+RIT C68  C68  C 0 1 N N N 8.565  26.841 8.095  -0.192  -0.263 2.466  CG2  VAL 37 
+RIT C21  C21  C 0 1 N N N 7.665  26.518 4.481  -4.563  -0.967 1.737  C21  019 38 
+RIT N74  N74  N 0 1 N N N 6.423  26.400 3.958  -5.739  -1.624 1.719  N74  019 39 
+RIT C75  C75  C 0 1 N N N 5.969  27.345 2.938  -6.893  -1.079 2.438  C75  019 40 
+RIT O76  O76  O 0 1 N N N 8.471  27.427 4.192  -4.459  0.078  2.349  O76  019 41 
+RIT C77  C77  C 0 1 Y N N 5.910  26.849 1.559  -7.674  -0.173 1.521  C77  019 42 
+RIT C80  C80  C 0 1 Y N N 7.024  27.012 0.784  -8.732  -0.592 0.820  C80  019 43 
+RIT S81  S81  S 0 1 Y N N 6.639  26.257 -0.785 -9.340  0.775  -0.111 S81  019 44 
+RIT C82  C82  C 0 1 Y N N 5.087  25.736 -0.124 -8.112  1.773  0.535  C82  019 45 
+RIT N83  N83  N 0 1 Y N N 4.871  26.263 1.044  -7.373  1.098  1.350  N83  019 46 
+RIT C85  C85  C 0 1 N N N 4.497  24.886 -1.046 -7.923  3.231  0.206  C85  019 47 
+RIT C86  C86  C 0 1 N N N 4.139  25.131 -2.506 -7.677  3.387  -1.296 C86  019 48 
+RIT C90  C90  C 0 1 N N N 3.245  24.373 -0.462 -9.179  4.010  0.600  C90  019 49 
+RIT C95  C95  C 0 1 N N N 5.484  25.508 4.240  -5.864  -2.884 0.982  C95  019 50 
+RIT H1   H1   H 0 1 N N N 16.038 18.015 0.641  8.499   2.342  2.256  H1   013 51 
+RIT H4   H4   H 0 1 N N N 19.330 16.755 2.652  8.077   6.377  1.221  H4   013 52 
+RIT H61  H61  H 0 1 N N N 14.172 18.215 2.891  7.408   1.721  -1.307 H61  013 53 
+RIT H62A H62A H 0 0 N N N 14.997 17.902 4.458  8.062   0.890  0.126  H62A 013 54 
+RIT H11  H11  H 0 1 N N N 15.550 22.119 4.165  3.756   0.135  0.547  H11  015 55 
+RIT H12  H12  H 0 1 N N N 12.930 22.362 5.367  4.258   -1.830 -1.554 H12  015 56 
+RIT H13  H13  H 0 1 N N N 12.889 24.837 4.981  1.977   -2.628 -1.000 H13  015 57 
+RIT H141 H141 H 0 0 N N N 12.788 24.655 2.481  2.083   0.419  -1.057 H141 015 58 
+RIT H142 H142 H 0 0 N N N 13.087 22.872 2.765  2.369   -0.610 -2.481 H142 015 59 
+RIT H15  H15  H 0 1 N N N 10.981 22.612 3.828  0.105   -1.666 -2.076 H15  015 60 
+RIT H261 H261 H 0 0 N N N 15.024 24.032 6.605  4.005   -2.615 1.383  H261 015 61 
+RIT H262 H262 H 0 0 N N N 13.337 23.584 7.161  3.905   -3.756 0.020  H262 015 62 
+RIT H31  H31  H 0 1 N N N 12.812 22.146 8.344  6.105   -1.538 1.950  H31  015 63 
+RIT H32  H32  H 0 1 N N N 13.325 20.194 9.790  8.563   -1.673 1.884  H32  015 64 
+RIT H33  H33  H 0 1 N N N 15.572 19.150 9.789  9.672   -3.108 0.218  H33  015 65 
+RIT H34  H34  H 0 1 N N N 17.384 20.138 8.376  8.324   -4.407 -1.381 H34  015 66 
+RIT H35  H35  H 0 1 N N N 16.893 22.093 6.932  5.866   -4.278 -1.309 H35  015 67 
+RIT HO4  HO4  H 0 1 N N N 14.613 25.439 3.447  2.046   -0.628 1.103  HO4  015 68 
+RIT H441 H441 H 0 0 N N N 10.491 24.619 1.560  0.064   1.365  -2.425 H441 015 69 
+RIT H442 H442 H 0 0 N N N 11.215 23.016 1.245  0.488   0.206  -3.708 H442 015 70 
+RIT H48  H48  H 0 1 N N N 8.308  24.913 2.013  -2.212  1.524  -1.596 H48  015 71 
+RIT H49  H49  H 0 1 N N N 5.985  24.000 2.070  -4.602  1.201  -2.092 H49  015 72 
+RIT H50  H50  H 0 1 N N N 5.661  21.538 2.032  -5.290  -0.349 -3.878 H50  015 73 
+RIT H51  H51  H 0 1 N N N 7.596  20.022 1.994  -3.588  -1.575 -5.167 H51  015 74 
+RIT H52  H52  H 0 1 N N N 9.905  20.921 1.977  -1.198  -1.245 -4.677 H52  015 75 
+RIT H58  H58  H 0 1 N N N 10.380 25.483 3.778  -0.041  0.329  0.100  H58  015 76 
+RIT H20  H20  H 0 1 N N N 7.155  25.172 5.924  -3.583  -2.302 0.587  H    VAL 77 
+RIT H19  H19  H 0 1 N N N 9.922  26.347 5.684  -2.406  0.321  1.100  HA   VAL 78 
+RIT H62  H62  H 0 1 N N N 8.635  24.698 7.823  -2.067  -1.001 3.229  HB   VAL 79 
+RIT H641 H641 H 0 0 N N N 10.448 25.343 9.370  -0.391  -2.753 1.375  HG11 VAL 80 
+RIT H642 H642 H 0 0 N N N 10.941 24.263 8.022  -0.461  -2.889 3.148  HG12 VAL 81 
+RIT H643 H643 H 0 0 N N N 11.350 26.012 7.968  -1.907  -3.238 2.171  HG13 VAL 82 
+RIT H681 H681 H 0 0 N N N 8.578  26.829 9.195  0.392   -0.574 3.333  HG21 VAL 83 
+RIT H682 H682 H 0 0 N N N 9.102  27.730 7.732  0.412   -0.368 1.565  HG22 VAL 84 
+RIT H683 H683 H 0 0 N N N 7.524  26.871 7.741  -0.492  0.778  2.584  HG23 VAL 85 
+RIT H751 H751 H 0 0 N N N 4.951  27.655 3.214  -7.533  -1.897 2.772  H751 019 86 
+RIT H752 H752 H 0 0 N N N 6.670  28.193 2.947  -6.549  -0.512 3.303  H752 019 87 
+RIT H80  H80  H 0 1 N N N 7.947  27.498 1.064  -9.142  -1.591 0.824  H80  019 88 
+RIT H85  H85  H 0 1 N N N 5.413  24.294 -1.189 -7.066  3.620  0.756  H85  019 89 
+RIT H861 H861 H 0 0 N N N 3.681  24.225 -2.929 -8.533  2.998  -1.847 H861 019 90 
+RIT H862 H862 H 0 0 N N N 3.427  25.967 -2.573 -7.540  4.442  -1.535 H862 019 91 
+RIT H863 H863 H 0 0 N N N 5.050  25.379 -3.070 -6.782  2.832  -1.578 H863 019 92 
+RIT H901 H901 H 0 0 N N N 2.757  23.694 -1.177 -9.354  3.899  1.670  H901 019 93 
+RIT H902 H902 H 0 0 N N N 3.470  23.827 0.466  -9.043  5.065  0.362  H902 019 94 
+RIT H903 H903 H 0 0 N N N 2.573  25.215 -0.239 -10.036 3.621  0.049  H903 019 95 
+RIT H951 H951 H 0 0 N N N 4.593  25.706 3.626  -5.616  -3.717 1.640  H951 019 96 
+RIT H952 H952 H 0 0 N N N 5.861  24.498 4.023  -6.887  -2.996 0.623  H952 019 97 
+RIT H953 H953 H 0 0 N N N 5.219  25.580 5.305  -5.180  -2.877 0.132  H953 019 98 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RIT C1  C2   DOUB Y N 1   
+RIT C1  N5   SING Y N 2   
+RIT C1  H1   SING N N 3   
+RIT C2  S3   SING Y N 4   
+RIT C2  C6   SING N N 5   
+RIT S3  C4   SING Y N 6   
+RIT C4  N5   DOUB Y N 7   
+RIT C4  H4   SING N N 8   
+RIT C6  O7   SING N N 9   
+RIT C6  H61  SING N N 10  
+RIT C6  H62A SING N N 11  
+RIT O7  C10  SING N N 12  
+RIT C10 N11  SING N N 13  
+RIT C10 O24  DOUB N N 14  
+RIT N11 C12  SING N N 15  
+RIT N11 H11  SING N N 16  
+RIT C12 C13  SING N N 17  
+RIT C12 C26  SING N N 18  
+RIT C12 H12  SING N N 19  
+RIT C13 C14  SING N N 20  
+RIT C13 O41  SING N N 21  
+RIT C13 H13  SING N N 22  
+RIT C14 C15  SING N N 23  
+RIT C14 H141 SING N N 24  
+RIT C14 H142 SING N N 25  
+RIT C15 C44  SING N N 26  
+RIT C15 N58  SING N N 27  
+RIT C15 H15  SING N N 28  
+RIT C18 C19  SING N N 29  
+RIT C18 N58  SING N N 30  
+RIT C18 O61  DOUB N N 31  
+RIT C19 N20  SING N N 32  
+RIT C19 C62  SING N N 33  
+RIT C19 H19  SING N N 34  
+RIT N20 C21  SING N N 35  
+RIT N20 H20  SING N N 36  
+RIT C21 N74  SING N N 37  
+RIT C21 O76  DOUB N N 38  
+RIT C26 C28  SING N N 39  
+RIT C26 H261 SING N N 40  
+RIT C26 H262 SING N N 41  
+RIT C28 C31  DOUB Y N 42  
+RIT C28 C35  SING Y N 43  
+RIT C31 C32  SING Y N 44  
+RIT C31 H31  SING N N 45  
+RIT C32 C33  DOUB Y N 46  
+RIT C32 H32  SING N N 47  
+RIT C33 C34  SING Y N 48  
+RIT C33 H33  SING N N 49  
+RIT C34 C35  DOUB Y N 50  
+RIT C34 H34  SING N N 51  
+RIT C35 H35  SING N N 52  
+RIT O41 HO4  SING N N 53  
+RIT C44 C45  SING N N 54  
+RIT C44 H441 SING N N 55  
+RIT C44 H442 SING N N 56  
+RIT C45 C48  DOUB Y N 57  
+RIT C45 C52  SING Y N 58  
+RIT C48 C49  SING Y N 59  
+RIT C48 H48  SING N N 60  
+RIT C49 C50  DOUB Y N 61  
+RIT C49 H49  SING N N 62  
+RIT C50 C51  SING Y N 63  
+RIT C50 H50  SING N N 64  
+RIT C51 C52  DOUB Y N 65  
+RIT C51 H51  SING N N 66  
+RIT C52 H52  SING N N 67  
+RIT N58 H58  SING N N 68  
+RIT C62 C64  SING N N 69  
+RIT C62 C68  SING N N 70  
+RIT C62 H62  SING N N 71  
+RIT C64 H641 SING N N 72  
+RIT C64 H642 SING N N 73  
+RIT C64 H643 SING N N 74  
+RIT C68 H681 SING N N 75  
+RIT C68 H682 SING N N 76  
+RIT C68 H683 SING N N 77  
+RIT N74 C75  SING N N 78  
+RIT N74 C95  SING N N 79  
+RIT C75 C77  SING N N 80  
+RIT C75 H751 SING N N 81  
+RIT C75 H752 SING N N 82  
+RIT C77 C80  DOUB Y N 83  
+RIT C77 N83  SING Y N 84  
+RIT C80 S81  SING Y N 85  
+RIT C80 H80  SING N N 86  
+RIT S81 C82  SING Y N 87  
+RIT C82 N83  DOUB Y N 88  
+RIT C82 C85  SING N N 89  
+RIT C85 C86  SING N N 90  
+RIT C85 C90  SING N N 91  
+RIT C85 H85  SING N N 92  
+RIT C86 H861 SING N N 93  
+RIT C86 H862 SING N N 94  
+RIT C86 H863 SING N N 95  
+RIT C90 H901 SING N N 96  
+RIT C90 H902 SING N N 97  
+RIT C90 H903 SING N N 98  
+RIT C95 H951 SING N N 99  
+RIT C95 H952 SING N N 100 
+RIT C95 H953 SING N N 101 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RIT SMILES           ACDLabs              12.01 "O=C(OCc1scnc1)NC(Cc2ccccc2)C(O)CC(NC(=O)C(NC(=O)N(Cc3nc(sc3)C(C)C)C)C(C)C)Cc4ccccc4" 
+RIT SMILES_CANONICAL CACTVS               3.370 "CC(C)[C@H](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3scnc3)Cc4ccccc4" 
+RIT SMILES           CACTVS               3.370 "CC(C)[CH](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[CH](C[CH](O)[CH](Cc2ccccc2)NC(=O)OCc3scnc3)Cc4ccccc4" 
+RIT SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)c1nc(cs1)CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@@H]([C@H](Cc3ccccc3)NC(=O)OCc4cncs4)O" 
+RIT SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)c1nc(cs1)CN(C)C(=O)NC(C(C)C)C(=O)NC(Cc2ccccc2)CC(C(Cc3ccccc3)NC(=O)OCc4cncs4)O" 
+RIT InChI            InChI                1.03  
+;InChI=1S/C37H48N6O5S2/c1-24(2)33(42-36(46)43(5)20-29-22-49-35(40-29)25(3)4)34(45)39-28(16-26-12-8-6-9-13-26)18-32(44)31(17-27-14-10-7-11-15-27)41-37(47)48-21-30-19-38-23-50-30/h6-15,19,22-25,28,31-33,44H,16-18,20-21H2,1-5H3,(H,39,45)(H,41,47)(H,42,46)/t28-,31-,32-,33-/m0/s1
+;
+RIT InChIKey         InChI                1.03  NCDNCNXCDXHOMX-XGKFQTDJSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RIT "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(2S,4S,5S)-4-hydroxy-1,6-diphenyl-5-{[(1,3-thiazol-5-ylmethoxy)carbonyl]amino}hexan-2-yl]-N~2~-(methyl{[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl}carbamoyl)-L-valinamide"            
+RIT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "1,3-thiazol-5-ylmethyl N-[(2S,3S,5S)-3-hydroxy-5-[[(2S)-3-methyl-2-[[methyl-[(2-propan-2-yl-1,3-thiazol-4-yl)methyl]carbamoyl]amino]butanoyl]amino]-1,6-diphenyl-hexan-2-yl]carbamate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RIT "Create component"         1999-07-08 RCSB 
+RIT "Modify subcomponent list" 2010-12-10 RCSB 
+RIT "Modify descriptor"        2011-06-04 RCSB 
+# 

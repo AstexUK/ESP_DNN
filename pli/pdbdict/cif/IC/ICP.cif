@@ -1,0 +1,119 @@
+data_ICP
+# 
+_chem_comp.id                                    ICP 
+_chem_comp.name                                  2-METHYL-5-METHYLENE-5H-PYRIMIDIN-4-YLIDENEAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         4-IMINO-5-METHIDYL-2-METHYLPYRIMIDINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-11-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        121.140 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ICP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1G67 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ICP N1A  N1A  N 0 1 N N N 61.302 37.284 15.235 1.248  0.003  1.075  N1A  ICP 1  
+ICP C2A  C2A  C 0 1 N N N 60.146 37.384 15.986 -0.027 -0.000 1.441  C2A  ICP 2  
+ICP CM2  CM2  C 0 1 N N N 59.569 38.713 16.110 -0.335 -0.001 2.916  CM2  ICP 3  
+ICP N3A  N3A  N 0 1 N N N 59.572 36.343 16.570 -1.032 -0.000 0.610  N3A  ICP 4  
+ICP C4A  C4A  C 0 1 N N N 60.146 35.092 16.433 -0.837 -0.000 -0.727 C4A  ICP 5  
+ICP N4A  N4A  N 0 1 N N N 59.530 34.079 17.039 -1.849 0.001  -1.564 N4A  ICP 6  
+ICP C5A  C5A  C 0 1 N N N 61.373 34.934 15.647 0.568  -0.000 -1.214 C5A  ICP 7  
+ICP C6A  C6A  C 0 1 N N N 61.893 36.063 15.081 1.618  -0.001 -0.184 C6A  ICP 8  
+ICP C7A  C7A  C 0 1 N N N 62.085 33.630 15.429 0.866  -0.000 -2.538 C7A  ICP 9  
+ICP HM21 1HM2 H 0 0 N N N 58.636 38.793 16.715 0.595  -0.001 3.481  HM21 ICP 10 
+ICP HM22 2HM2 H 0 0 N N N 60.335 39.420 16.504 -0.912 0.889  3.167  HM22 ICP 11 
+ICP HM23 3HM2 H 0 0 N N N 59.397 39.144 15.096 -0.913 -0.890 3.166  HM23 ICP 12 
+ICP HN4  HN4  H 0 1 N N N 58.622 34.099 16.574 -2.758 0.001  -1.226 HN4  ICP 13 
+ICP H6A1 1H6A H 0 0 N N N 62.816 35.986 14.482 2.663  -0.002 -0.456 H6A1 ICP 14 
+ICP H7A1 1H7A H 0 0 N N N 61.665 32.718 15.886 1.897  -0.000 -2.859 H7A1 ICP 15 
+ICP H7A2 2H7A H 0 0 N N N 63.008 33.511 14.837 0.073  0.000  -3.270 H7A2 ICP 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ICP N1A C2A  SING N N 1  
+ICP N1A C6A  DOUB N N 2  
+ICP C2A CM2  SING N N 3  
+ICP C2A N3A  DOUB N N 4  
+ICP CM2 HM21 SING N N 5  
+ICP CM2 HM22 SING N N 6  
+ICP CM2 HM23 SING N N 7  
+ICP N3A C4A  SING N N 8  
+ICP C4A N4A  DOUB N N 9  
+ICP C4A C5A  SING N N 10 
+ICP N4A HN4  SING N N 11 
+ICP C5A C6A  SING N N 12 
+ICP C5A C7A  DOUB N N 13 
+ICP C6A H6A1 SING N N 14 
+ICP C7A H7A1 SING N N 15 
+ICP C7A H7A2 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ICP SMILES           ACDLabs              10.04 "[N@H]=C/1N=C(N=CC\1=C)C"                            
+ICP SMILES_CANONICAL CACTVS               3.341 "CC1=NC(=N)C(=C)C=N1"                                
+ICP SMILES           CACTVS               3.341 "CC1=NC(=N)C(=C)C=N1"                                
+ICP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=NC(=N)C(=C)C=N1"                                
+ICP SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=NC(=N)C(=C)C=N1"                                
+ICP InChI            InChI                1.03  "InChI=1S/C6H7N3/c1-4-3-8-5(2)9-6(4)7/h3,7H,1H2,2H3" 
+ICP InChIKey         InChI                1.03  AXFPKNUSOMMYRV-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ICP "SYSTEMATIC NAME" ACDLabs              10.04 "(4Z)-2-methyl-5-methylidenepyrimidin-4(5H)-imine" 
+ICP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-methyl-5-methylidene-pyrimidin-4-imine           
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ICP "Create component"  2000-11-16 RCSB 
+ICP "Modify descriptor" 2011-06-04 RCSB 
+# 

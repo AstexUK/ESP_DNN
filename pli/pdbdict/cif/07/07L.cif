@@ -1,0 +1,123 @@
+data_07L
+# 
+_chem_comp.id                                    07L 
+_chem_comp.name                                  7-hydroxy-2H-chromen-2-one 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         7-hydroxycoumarin 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-09-29 
+_chem_comp.pdbx_modified_date                    2011-10-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     07L 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3U0F 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+07L O11 O11 O 0 1 N N N 18.798 -3.718 21.875 -3.393 1.125  0.005  O11 07L 1  
+07L C9  C9  C 0 1 N N N 18.313 -4.705 22.444 -2.366 0.470  0.004  C9  07L 2  
+07L C8  C8  C 0 1 N N N 16.967 -5.043 22.368 -2.450 -0.938 0.011  C8  07L 3  
+07L C7  C7  C 0 1 N N N 16.496 -6.159 23.056 -1.314 -1.682 0.009  C7  07L 4  
+07L C2  C2  C 0 1 Y N N 17.384 -6.933 23.819 -0.028 -0.982 -0.000 C2  07L 5  
+07L O10 O10 O 0 1 N N N 19.163 -5.470 23.183 -1.184 1.106  -0.010 O10 07L 6  
+07L C3  C3  C 0 1 Y N N 18.722 -6.565 23.871 -0.018 0.426  -0.007 C3  07L 7  
+07L C4  C4  C 0 1 Y N N 19.637 -7.287 24.617 1.195  1.098  -0.016 C4  07L 8  
+07L C5  C5  C 0 1 Y N N 19.204 -8.396 25.329 2.380  0.381  -0.018 C5  07L 9  
+07L O12 O12 O 0 1 N N N 20.086 -9.121 26.071 3.566  1.040  -0.026 O12 07L 10 
+07L C6  C6  C 0 1 Y N N 17.860 -8.781 25.281 2.364  -1.013 -0.011 C6  07L 11 
+07L C1  C1  C 0 1 Y N N 16.949 -8.044 24.535 1.179  -1.691 -0.002 C1  07L 12 
+07L H1  H1  H 0 1 N N N 16.289 -4.443 21.778 -3.415 -1.423 0.018  H1  07L 13 
+07L H2  H2  H 0 1 N N N 15.451 -6.428 23.002 -1.357 -2.761 0.015  H2  07L 14 
+07L H3  H3  H 0 1 N N N 20.675 -6.991 24.645 1.215  2.178  -0.022 H3  07L 15 
+07L H4  H4  H 0 1 N N N 19.630 -9.841 26.492 3.914  1.235  0.855  H4  07L 16 
+07L H5  H5  H 0 1 N N N 17.530 -9.653 25.825 3.295  -1.560 -0.013 H5  07L 17 
+07L H6  H6  H 0 1 N N N 15.908 -8.332 24.511 1.173  -2.770 0.003  H6  07L 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+07L O11 C9  DOUB N N 1  
+07L C8  C9  SING N N 2  
+07L C8  C7  DOUB N N 3  
+07L C9  O10 SING N N 4  
+07L C7  C2  SING N N 5  
+07L O10 C3  SING N N 6  
+07L C2  C3  DOUB Y N 7  
+07L C2  C1  SING Y N 8  
+07L C3  C4  SING Y N 9  
+07L C1  C6  DOUB Y N 10 
+07L C4  C5  DOUB Y N 11 
+07L C6  C5  SING Y N 12 
+07L C5  O12 SING N N 13 
+07L C8  H1  SING N N 14 
+07L C7  H2  SING N N 15 
+07L C4  H3  SING N N 16 
+07L O12 H4  SING N N 17 
+07L C6  H5  SING N N 18 
+07L C1  H6  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+07L SMILES           ACDLabs              12.01 "O=C2Oc1cc(O)ccc1C=C2"                                     
+07L InChI            InChI                1.03  "InChI=1S/C9H6O3/c10-7-3-1-6-2-4-9(11)12-8(6)5-7/h1-5,10H" 
+07L InChIKey         InChI                1.03  ORHBXUUXSCNDEV-UHFFFAOYSA-N                                
+07L SMILES_CANONICAL CACTVS               3.370 "Oc1ccc2C=CC(=O)Oc2c1"                                     
+07L SMILES           CACTVS               3.370 "Oc1ccc2C=CC(=O)Oc2c1"                                     
+07L SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "c1cc2c(cc1O)OC(=O)C=C2"                                   
+07L SMILES           "OpenEye OEToolkits" 1.7.2 "c1cc2c(cc1O)OC(=O)C=C2"                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+07L "SYSTEMATIC NAME" ACDLabs              12.01 7-hydroxy-2H-chromen-2-one 
+07L "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 7-oxidanylchromen-2-one    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+07L "Create component" 2011-09-29 RCSB 
+# 

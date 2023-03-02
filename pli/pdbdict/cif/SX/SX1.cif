@@ -1,0 +1,122 @@
+data_SX1
+# 
+_chem_comp.id                                    SX1 
+_chem_comp.name                                  "2-amino-5-bromobenzoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 Br N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-13 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        216.032 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SX1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3CIZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SX1 O1   O1   O  0 1 N N N -37.321 67.961 29.678 2.362  2.399  -0.092 O1   SX1 1  
+SX1 C7   C7   C  0 1 N N N -37.000 69.117 29.902 2.606  1.077  0.009  C7   SX1 2  
+SX1 O2   O2   O  0 1 N N N -37.682 70.125 29.323 3.749  0.677  0.109  O2   SX1 3  
+SX1 C6   C6   C  0 1 Y N N -35.879 69.568 30.771 1.488  0.118  -0.002 C6   SX1 4  
+SX1 C1   C1   C  0 1 Y N N -35.130 70.746 30.528 1.742  -1.262 -0.015 C1   SX1 5  
+SX1 N1   N1   N  0 1 N N N -35.375 71.610 29.444 3.049  -1.732 -0.018 N1   SX1 6  
+SX1 C5   C5   C  0 1 Y N N -35.571 68.758 31.883 0.168  0.577  0.007  C5   SX1 7  
+SX1 C4   C4   C  0 1 Y N N -34.527 69.113 32.740 -0.873 -0.325 -0.003 C4   SX1 8  
+SX1 BR1  BR1  BR 0 0 N N N -34.090 68.030 34.232 -2.659 0.298  0.009  BR1  SX1 9  
+SX1 C3   C3   C  0 1 Y N N -33.789 70.271 32.504 -0.619 -1.689 -0.022 C3   SX1 10 
+SX1 C2   C2   C  0 1 Y N N -34.086 71.082 31.406 0.679  -2.157 -0.025 C2   SX1 11 
+SX1 HO1  HO1  H  0 1 N N N -38.061 67.947 29.083 3.127  2.989  -0.080 HO1  SX1 12 
+SX1 HN1  HN1  H  0 1 N N N -35.433 72.552 29.774 3.788  -1.110 0.072  HN1  SX1 13 
+SX1 HN1A HN1A H  0 0 N N N -34.629 71.534 28.782 3.223  -2.681 -0.109 HN1A SX1 14 
+SX1 H5   H5   H  0 1 N N N -36.143 67.862 32.072 -0.036 1.638  0.023  H5   SX1 15 
+SX1 H3   H3   H  0 1 N N N -32.985 70.542 33.172 -1.442 -2.388 -0.031 H3   SX1 16 
+SX1 H2   H2   H  0 1 N N N -33.507 71.977 31.230 0.868  -3.220 -0.036 H2   SX1 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SX1 O1 C7   SING N N 1  
+SX1 O1 HO1  SING N N 2  
+SX1 O2 C7   DOUB N N 3  
+SX1 C7 C6   SING N N 4  
+SX1 C1 C6   DOUB Y N 5  
+SX1 C6 C5   SING Y N 6  
+SX1 N1 C1   SING N N 7  
+SX1 C1 C2   SING Y N 8  
+SX1 N1 HN1  SING N N 9  
+SX1 N1 HN1A SING N N 10 
+SX1 C5 C4   DOUB Y N 11 
+SX1 C5 H5   SING N N 12 
+SX1 C3 C4   SING Y N 13 
+SX1 C4 BR1  SING N N 14 
+SX1 C2 C3   DOUB Y N 15 
+SX1 C3 H3   SING N N 16 
+SX1 C2 H2   SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SX1 SMILES           ACDLabs              10.04 "Brc1cc(C(=O)O)c(N)cc1"                                             
+SX1 SMILES_CANONICAL CACTVS               3.341 "Nc1ccc(Br)cc1C(O)=O"                                               
+SX1 SMILES           CACTVS               3.341 "Nc1ccc(Br)cc1C(O)=O"                                               
+SX1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1Br)C(=O)O)N"                                             
+SX1 SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1Br)C(=O)O)N"                                             
+SX1 InChI            InChI                1.03  "InChI=1S/C7H6BrNO2/c8-4-1-2-6(9)5(3-4)7(10)11/h1-3H,9H2,(H,10,11)" 
+SX1 InChIKey         InChI                1.03  CUKXRHLWPSBCTI-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SX1 "SYSTEMATIC NAME" ACDLabs              10.04 "2-amino-5-bromobenzoic acid"  
+SX1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-amino-5-bromo-benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SX1 "Create component"     2008-03-13 RCSB 
+SX1 "Modify aromatic_flag" 2011-06-04 RCSB 
+SX1 "Modify descriptor"    2011-06-04 RCSB 
+# 

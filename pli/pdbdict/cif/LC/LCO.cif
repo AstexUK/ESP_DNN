@@ -1,0 +1,93 @@
+data_LCO
+# 
+_chem_comp.id                                    LCO 
+_chem_comp.name                                  "CHLORATE ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "Cl O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     2001-06-20 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   Y 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        83.451 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     LCO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1JEE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LCO CL CL CL 0  0 N N N 92.825 185.497 150.715 -0.014 -0.306 0.001  CL LCO 1 
+LCO O1 O1 O  0  1 N N N 93.822 184.612 150.127 -1.633 -0.272 0.053  O1 LCO 2 
+LCO O2 O2 O  0  1 N N N 91.925 184.694 151.497 0.019  1.313  -0.043 O2 LCO 3 
+LCO O3 O3 O  -1 1 N N N 92.048 186.163 149.668 1.605  -0.341 -0.051 O3 LCO 4 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LCO CL O1 DOUB N N 1 
+LCO CL O2 DOUB N N 2 
+LCO CL O3 SING N N 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LCO SMILES           ACDLabs              10.04 "[O-]Cl(=O)=O"                                    
+LCO InChI            InChI                1.02b "InChI=1/ClHO3/c2-1(3)4/h(H,2,3,4)/p-1/fClO3/q-1" 
+LCO InChIKey         InChI                1.02b XTEGARKTQYYJKE-CKEUFPDJCA                         
+LCO SMILES_CANONICAL CACTVS               3.341 "[O-][Cl](=O)=O"                                  
+LCO SMILES           CACTVS               3.341 "[O-][Cl](=O)=O"                                  
+LCO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[O-]Cl(=O)=O"                                    
+LCO SMILES           "OpenEye OEToolkits" 1.5.0 "[O-]Cl(=O)=O"                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LCO "SYSTEMATIC NAME" ACDLabs              10.04 chlorate 
+LCO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 chlorate 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LCO "Create component" 2001-06-20 RCSB 
+# 

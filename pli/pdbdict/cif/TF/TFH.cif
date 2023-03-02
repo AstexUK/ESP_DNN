@@ -1,0 +1,87 @@
+data_TFH
+# 
+_chem_comp.id                                    TFH 
+_chem_comp.name                                  "NITROGEN OF TRIFLUORO-ETHYLHYDRAZINE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               N2 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      HDZ 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        28.013 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TFH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1MAF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TFH N6A N6A N 0 1 N N N 19.602 66.999 95.623 0.000 0.000 -0.516 N6A TFH 1 
+TFH N6B N6B N 0 1 N N N 20.257 66.774 96.882 0.000 0.000 0.516  N6B TFH 2 
+# 
+_chem_comp_bond.comp_id              TFH 
+_chem_comp_bond.atom_id_1            N6A 
+_chem_comp_bond.atom_id_2            N6B 
+_chem_comp_bond.value_order          TRIP 
+_chem_comp_bond.pdbx_aromatic_flag   N 
+_chem_comp_bond.pdbx_stereo_config   N 
+_chem_comp_bond.pdbx_ordinal         1 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TFH SMILES           ACDLabs              10.04 N#N                       
+TFH InChI            InChI                1.02b InChI=1/N2/c1-2           
+TFH InChIKey         InChI                1.02b IJGRMHOSHXDMSA-UHFFFAOYAF 
+TFH SMILES_CANONICAL CACTVS               3.341 N#N                       
+TFH SMILES           CACTVS               3.341 N#N                       
+TFH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 N#N                       
+TFH SMILES           "OpenEye OEToolkits" 1.5.0 N#N                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TFH "SYSTEMATIC NAME" ACDLabs              10.04 nitrogen             
+TFH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "molecular nitrogen" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TFH "Create component" 1999-07-08 EBI 
+# 

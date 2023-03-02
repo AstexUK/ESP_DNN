@@ -1,0 +1,124 @@
+data_0AH
+# 
+_chem_comp.id                                    0AH 
+_chem_comp.name                                  "O-(bromoacetyl)-L-serine" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H8 Br N O4" 
+_chem_comp.mon_nstd_parent_comp_id               SER 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-11-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        226.025 
+_chem_comp.one_letter_code                       S 
+_chem_comp.three_letter_code                     0AH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PTH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0AH N    N    N  0 1 N N N 31.352 33.962 204.802 3.093  1.819  -0.198 N    0AH 1  
+0AH CA   CA   C  0 1 N N S 31.683 35.125 205.625 2.985  0.488  0.415  CA   0AH 2  
+0AH C    C    C  0 1 N N N 32.921 34.967 206.505 4.170  -0.349 0.009  C    0AH 3  
+0AH O    O    O  0 1 N N N 33.868 35.740 206.390 4.815  -0.051 -0.968 O    0AH 4  
+0AH CB   CB   C  0 1 N N N 30.517 35.486 206.524 1.697  -0.188 -0.058 CB   0AH 5  
+0AH C1   C1   C  0 1 N N N 28.636 37.028 206.291 -0.664 0.090  0.106  C1   0AH 6  
+0AH O1   O1   O  0 1 N N N 29.384 38.046 206.281 -0.767 -0.906 -0.571 O1   0AH 7  
+0AH O2   O2   O  0 1 N N N 29.095 35.779 206.563 0.551  0.555  0.435  O2   0AH 8  
+0AH C2   C2   C  0 1 N N N 27.081 37.142 205.938 -1.900 0.809  0.581  C2   0AH 9  
+0AH BR2  BR2  BR 0 0 N N N 26.018 35.719 206.629 -3.498 -0.131 -0.074 BR2  0AH 10 
+0AH OXT  OXT  O  0 1 N Y N 32.941 33.966 207.374 4.510  -1.427 0.734  OXT  0AH 11 
+0AH HN1  1HN  H  0 1 N N N 31.276 34.241 203.845 3.902  2.312  0.148  HN1  0AH 12 
+0AH HN2  2HN  H  0 1 N N N 32.072 33.274 204.893 3.113  1.753  -1.204 HN2  0AH 13 
+0AH HA   HA   H  0 1 N N N 31.905 35.918 204.896 2.966  0.589  1.500  HA   0AH 14 
+0AH HBC1 1HBC H  0 0 N N N 30.530 34.607 207.185 1.676  -0.209 -1.147 HBC1 0AH 15 
+0AH HBC2 2HBC H  0 0 N N N 30.770 36.555 206.480 1.660  -1.208 0.326  HBC2 0AH 16 
+0AH HXT  HXT  H  0 1 N Y N 33.766 33.972 207.846 5.278  -1.933 0.435  HXT  0AH 17 
+0AH H2C1 1H2C H  0 0 N N N 26.705 38.084 206.364 -1.912 0.831  1.671  H2C1 0AH 18 
+0AH H2C2 2H2C H  0 0 N N N 26.998 37.099 204.842 -1.897 1.830  0.198  H2C2 0AH 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0AH N   CA   SING N N 1  
+0AH N   HN1  SING N N 2  
+0AH N   HN2  SING N N 3  
+0AH CA  C    SING N N 4  
+0AH CA  CB   SING N N 5  
+0AH CA  HA   SING N N 6  
+0AH C   O    DOUB N N 7  
+0AH C   OXT  SING N N 8  
+0AH CB  O2   SING N N 9  
+0AH CB  HBC1 SING N N 10 
+0AH CB  HBC2 SING N N 11 
+0AH C1  O1   DOUB N N 12 
+0AH C1  O2   SING N N 13 
+0AH C1  C2   SING N N 14 
+0AH C2  BR2  SING N N 15 
+0AH C2  H2C1 SING N N 16 
+0AH C2  H2C2 SING N N 17 
+0AH OXT HXT  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0AH SMILES           ACDLabs              10.04 "BrCC(=O)OCC(C(=O)O)N"                                                       
+0AH SMILES_CANONICAL CACTVS               3.341 "N[C@@H](COC(=O)CBr)C(O)=O"                                                  
+0AH SMILES           CACTVS               3.341 "N[CH](COC(=O)CBr)C(O)=O"                                                    
+0AH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)OC(=O)CBr"                                                
+0AH SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)OC(=O)CBr"                                                     
+0AH InChI            InChI                1.03  "InChI=1S/C5H8BrNO4/c6-1-4(8)11-2-3(7)5(9)10/h3H,1-2,7H2,(H,9,10)/t3-/m0/s1" 
+0AH InChIKey         InChI                1.03  PNOKHJAKXLINKP-VKHMYHEASA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0AH "SYSTEMATIC NAME" ACDLabs              10.04 "O-(bromoacetyl)-L-serine"                          
+0AH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(2-bromoethanoyloxy)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0AH "Create component"  2007-11-11 RCSB 
+0AH "Modify descriptor" 2011-06-04 RCSB 
+# 

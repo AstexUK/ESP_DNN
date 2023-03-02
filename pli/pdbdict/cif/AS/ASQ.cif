@@ -1,0 +1,127 @@
+data_ASQ
+# 
+_chem_comp.id                                    ASQ 
+_chem_comp.name                                  PHOSPHOASPARTATE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H8 N O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ASP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-11-11 
+_chem_comp.pdbx_modified_date                    2009-01-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      PHD 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        213.083 
+_chem_comp.one_letter_code                       D 
+_chem_comp.three_letter_code                     ASQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ASQ N    N    N 0 1 N N N 2.730  -5.833 -0.826 1.130 -1.341 -2.099 N    ASQ 1  
+ASQ CA   CA   C 0 1 N N S 3.963  -6.599 -0.749 1.786 -0.389 -1.200 CA   ASQ 2  
+ASQ C    C    C 0 1 N N N 3.735  -7.986 -1.355 3.207 -0.889 -0.995 C    ASQ 3  
+ASQ O    O    O 0 1 N N N 3.007  -8.802 -0.789 3.545 -2.065 -0.956 O    ASQ 4  
+ASQ CB   CB   C 0 1 N N N 4.408  -6.784 0.703  1.040 -0.325 0.133  CB   ASQ 5  
+ASQ CG   CG   C 0 1 N N N 5.679  -7.612 0.889  1.686 0.646  1.089  CG   ASQ 6  
+ASQ OD1  OD1  O 0 1 N N N 6.392  -7.794 -0.122 2.082 0.349  2.207  OD1  ASQ 7  
+ASQ OD2  OD2  O 0 1 N N N 5.912  -8.045 2.039  1.771 1.881  0.529  OD2  ASQ 8  
+ASQ OXT  OXT  O 0 1 N Y N 4.369  -8.211 -2.496 4.088 0.132  -0.830 OXT  ASQ 9  
+ASQ P    P    P 0 1 N N N ?      ?      ?      2.400 3.193  1.232  P    ASQ 10 
+ASQ O1P  O1P  O 0 1 N N N ?      ?      ?      1.706 3.591  2.503  O1P  ASQ 11 
+ASQ O2P  O2P  O 0 1 N N N ?      ?      ?      2.373 4.324  0.077  O2P  ASQ 12 
+ASQ O3P  O3P  O 0 1 N N N ?      ?      ?      3.972 2.864  1.416  O3P  ASQ 13 
+ASQ H    H    H 0 1 N N N 2.882  -4.909 -0.422 0.538 -0.976 -2.810 H    ASQ 14 
+ASQ H2   HN2  H 0 1 N Y N 1.945  -6.320 -0.393 1.135 -2.302 -1.842 H2   ASQ 15 
+ASQ HA   HA   H 0 1 N N N 4.697  -6.017 -1.307 1.818 0.580  -1.709 HA   ASQ 16 
+ASQ HB2  1HB  H 0 1 N N N 4.563  -5.800 1.147  0.998 -1.307 0.620  HB2  ASQ 17 
+ASQ HB3  2HB  H 0 1 N N N 3.598  -7.259 1.257  0.000 -0.000 0.000  HB3  ASQ 18 
+ASQ HXT  HXT  H 0 1 N Y N 4.228  -9.072 -2.872 5.019 -0.135 -0.677 HXT  ASQ 19 
+ASQ HOP2 2HOP H 0 0 N N N -0.551 0.750  -0.190 2.816 4.142  -0.779 HOP2 ASQ 20 
+ASQ HOP3 3HOP H 0 0 N N N -0.551 0.750  -0.190 4.523 3.466  1.961  HOP3 ASQ 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ASQ N   CA   SING N N 1  
+ASQ N   H    SING N N 2  
+ASQ N   H2   SING N N 3  
+ASQ CA  C    SING N N 4  
+ASQ CA  CB   SING N N 5  
+ASQ CA  HA   SING N N 6  
+ASQ C   O    DOUB N N 7  
+ASQ C   OXT  SING N N 8  
+ASQ CB  CG   SING N N 9  
+ASQ CB  HB2  SING N N 10 
+ASQ CB  HB3  SING N N 11 
+ASQ CG  OD1  DOUB N N 12 
+ASQ CG  OD2  SING N N 13 
+ASQ OD2 P    SING N N 14 
+ASQ OXT HXT  SING N N 15 
+ASQ P   O1P  DOUB N N 16 
+ASQ P   O2P  SING N N 17 
+ASQ P   O3P  SING N N 18 
+ASQ O2P HOP2 SING N N 19 
+ASQ O3P HOP3 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ASQ SMILES           ACDLabs              10.04 "O=C(OP(=O)(O)O)CC(C(=O)O)N"                                                                         
+ASQ InChI            InChI                1.02b "InChI=1/C4H8NO7P/c5-2(4(7)8)1-3(6)12-13(9,10)11/h2H,1,5H2,(H,7,8)(H2,9,10,11)/t2-/m0/s1/f/h7,9-10H" 
+ASQ InChIKey         InChI                1.02b IXZNKTPIYKDIGG-ANURBJKSDQ                                                                            
+ASQ SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC(=O)O[P](O)(O)=O)C(O)=O"                                                                  
+ASQ SMILES           CACTVS               3.341 "N[CH](CC(=O)O[P](O)(O)=O)C(O)=O"                                                                    
+ASQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)C(=O)OP(=O)(O)O"                                                                  
+ASQ SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)C(=O)OP(=O)(O)O"                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ASQ "SYSTEMATIC NAME" ACDLabs              10.04 4-oxo-O-phosphono-L-homoserine                    
+ASQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-oxo-4-phosphonooxy-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ASQ "Create component" 1999-11-11 EBI 
+# 

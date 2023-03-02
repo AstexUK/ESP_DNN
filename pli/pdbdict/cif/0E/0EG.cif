@@ -1,0 +1,203 @@
+data_0EG
+# 
+_chem_comp.id                                    0EG 
+_chem_comp.name                                  "N-(tert-butoxycarbonyl)-L-alanyl-N-[(1R)-1-(dihydroxyboranyl)-2-methylpropyl]-L-prolinamide" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C17 H32 B N3 O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "N-tert-butyloxycarbonylalanylprolylvaline boronic acid" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-09-14 
+_chem_comp.pdbx_modified_date                    2011-07-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        385.263 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0EG 
+_chem_comp.pdbx_model_coordinates_details        "not provided" 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P01 
+_chem_comp.pdbx_subcomponent_list                "BOC ALA PRO B2V" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0EG O1   O1  O 0 1 N N N 13.172 39.355 19.472 4.731  -0.910 0.319  O1   BOC 1  
+0EG C    C1  C 0 1 N N N 13.632 39.402 18.346 4.308  0.221  0.184  C    BOC 2  
+0EG O2   O2  O 0 1 N N N 14.525 40.499 17.875 5.163  1.240  -0.019 O2   BOC 3  
+0EG CT   C2  C 0 1 N N N 15.014 41.477 18.899 6.578  0.914  -0.064 CT   BOC 4  
+0EG C1   C3  C 0 1 N N N 15.788 40.671 19.935 6.838  -0.073 -1.203 C1   BOC 5  
+0EG C2   C4  C 0 1 N N N 15.931 42.459 18.158 7.388  2.191  -0.300 C2   BOC 6  
+0EG C3   C5  C 0 1 N N N 13.797 42.199 19.438 6.998  0.282  1.265  C3   BOC 7  
+0EG N    N1  N 0 1 N N N 13.528 38.386 17.483 2.981  0.454  0.230  N    ALA 8  
+0EG CA   C6  C 0 1 N N S 12.772 37.226 17.918 2.049  -0.657 0.445  CA   ALA 9  
+0EG C4   C7  C 0 1 N N N 13.569 36.043 17.468 0.703  -0.301 -0.132 C    ALA 10 
+0EG O    O4  O 0 1 N N N 14.472 36.282 16.665 0.380  0.862  -0.246 O    ALA 11 
+0EG CB   C8  C 0 1 N N N 11.734 36.967 16.910 1.908  -0.921 1.945  CB   ALA 12 
+0EG N1   N2  N 0 1 N N N 13.380 34.880 18.075 -0.142 -1.276 -0.522 N    PRO 13 
+0EG CA1  C9  C 0 1 N N S 14.129 33.669 17.730 -1.438 -1.072 -1.186 CA   PRO 14 
+0EG C5   C10 C 0 1 N N N 13.798 33.229 16.308 -2.341 -0.248 -0.305 C    PRO 15 
+0EG O3   O6  O 0 1 N N N 12.641 33.452 15.893 -1.947 0.136  0.776  O    PRO 16 
+0EG CB1  C11 C 0 1 N N N 13.685 32.639 18.757 -2.059 -2.466 -1.416 CB   PRO 17 
+0EG CG   C12 C 0 1 N N N 12.796 33.346 19.722 -1.337 -3.347 -0.361 CG   PRO 18 
+0EG CD   C13 C 0 1 N N N 12.303 34.626 19.052 0.083  -2.724 -0.359 CD   PRO 19 
+0EG N2   N3  N 0 1 N N N 14.750 32.668 15.568 -3.586 0.061  -0.718 N    B2V 20 
+0EG CA2  C14 C 0 1 N N R 14.524 32.181 14.195 -4.463 0.863  0.139  CA   B2V 21 
+0EG CB2  C15 C 0 1 N N N 15.340 32.984 13.136 -5.148 1.942  -0.701 CB   B2V 22 
+0EG CG1  C16 C 0 1 N N N 14.844 34.426 12.898 -5.968 2.856  0.213  CG1  B2V 23 
+0EG CG2  C17 C 0 1 N N N 16.834 33.021 13.481 -4.088 2.769  -1.432 CG2  B2V 24 
+0EG B    B1  B 0 1 N N N 14.756 30.643 14.135 -5.552 -0.065 0.786  B    B2V 25 
+0EG O11  O8  O 0 1 N N N 14.852 30.092 12.715 -5.564 -1.455 0.496  O1   B2V 26 
+0EG O21  O9  O 0 1 N N N 13.868 29.794 14.991 -6.524 0.485  1.662  O2   B2V 27 
+0EG H11  H1  H 0 1 N N N 15.975 39.658 19.548 6.538  0.377  -2.149 H11  BOC 28 
+0EG H12  H2  H 0 1 N N N 16.748 41.167 20.143 7.900  -0.317 -1.237 H12  BOC 29 
+0EG H13  H3  H 0 1 N N N 15.200 40.606 20.863 6.261  -0.982 -1.035 H13  BOC 30 
+0EG H21  H4  H 0 1 N N N 16.150 43.319 18.808 7.202  2.894  0.512  H21  BOC 31 
+0EG H22  H5  H 0 1 N N N 16.870 41.953 17.890 8.450  1.946  -0.334 H22  BOC 32 
+0EG H23  H6  H 0 1 N N N 15.430 42.810 17.244 7.088  2.641  -1.246 H23  BOC 33 
+0EG H31  H7  H 0 1 N N N 13.922 42.374 20.517 6.421  -0.627 1.433  H31  BOC 34 
+0EG H32  H8  H 0 1 N N N 13.684 43.163 18.921 8.060  0.038  1.231  H32  BOC 35 
+0EG H33  H9  H 0 1 N N N 12.901 41.584 19.268 6.813  0.986  2.077  H33  BOC 36 
+0EG H    H11 H 0 1 N N N 13.952 38.424 16.578 2.643  1.356  0.122  H    ALA 37 
+0EG HA   H13 H 0 1 N N N 12.487 37.363 18.972 2.431  -1.551 -0.048 HA   ALA 38 
+0EG HB1  H14 H 0 1 N N N 10.752 36.902 17.402 1.285  -1.802 2.101  HB1  ALA 39 
+0EG HB2  H15 H 0 1 N N N 11.723 37.787 16.176 2.893  -1.091 2.379  HB2  ALA 40 
+0EG HB3  H16 H 0 1 N N N 11.950 36.018 16.397 1.444  -0.059 2.424  HB3  ALA 41 
+0EG HA1  H19 H 0 1 N N N 15.219 33.818 17.753 -1.290 -0.568 -2.140 HA   PRO 42 
+0EG HB21 H20 H 0 0 N N N 13.141 31.819 18.266 -3.132 -2.445 -1.231 HB2  PRO 43 
+0EG HB31 H21 H 0 0 N N N 14.552 32.199 19.272 -1.846 -2.821 -2.425 HB3  PRO 44 
+0EG HG2  H22 H 0 1 N N N 11.941 32.706 19.986 -1.811 -3.252 0.616  HG2  PRO 45 
+0EG HG3  H23 H 0 1 N N N 13.345 33.584 20.645 -1.305 -4.389 -0.679 HG3  PRO 46 
+0EG HD2  H24 H 0 1 N N N 12.188 35.453 19.768 0.672  -3.112 -1.190 HD2  PRO 47 
+0EG HD3  H25 H 0 1 N N N 11.304 34.536 18.600 0.584  -2.926 0.588  HD3  PRO 48 
+0EG HN2  H28 H 0 1 N N N 15.664 32.572 15.962 -3.900 -0.246 -1.582 HN2  B2V 49 
+0EG HA2  H29 H 0 1 N N N 13.474 32.363 13.923 -3.873 1.334  0.925  HA   B2V 50 
+0EG HB   H30 H 0 1 N N N 15.178 32.430 12.200 -5.808 1.472  -1.430 HB   B2V 51 
+0EG HG11 H31 H 0 0 N N N 14.726 34.938 13.864 -5.308 3.327  0.942  HG11 B2V 52 
+0EG HG12 H32 H 0 0 N N N 15.577 34.969 12.283 -6.456 3.626  -0.386 HG12 B2V 53 
+0EG HG13 H33 H 0 0 N N N 13.876 34.399 12.377 -6.723 2.267  0.733  HG13 B2V 54 
+0EG HG21 H34 H 0 0 N N N 17.425 33.030 12.553 -3.505 2.118  -2.083 HG21 B2V 55 
+0EG HG22 H35 H 0 0 N N N 17.053 33.928 14.064 -4.576 3.539  -2.030 HG22 B2V 56 
+0EG HG23 H36 H 0 0 N N N 17.095 32.132 14.073 -3.429 3.240  -0.703 HG23 B2V 57 
+0EG HO1  H37 H 0 1 N N N 14.872 30.812 12.096 -6.270 -1.944 0.941  HO1  B2V 58 
+0EG HO2  H38 H 0 1 N N N 14.301 29.614 15.817 -7.151 -0.163 2.011  HO2  B2V 59 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0EG O1  C    DOUB N N 1  
+0EG C   O2   SING N N 2  
+0EG O2  CT   SING N N 3  
+0EG CT  C1   SING N N 4  
+0EG CT  C2   SING N N 5  
+0EG CT  C3   SING N N 6  
+0EG C1  H11  SING N N 7  
+0EG C1  H12  SING N N 8  
+0EG C1  H13  SING N N 9  
+0EG C2  H21  SING N N 10 
+0EG C2  H22  SING N N 11 
+0EG C2  H23  SING N N 12 
+0EG C3  H31  SING N N 13 
+0EG C3  H32  SING N N 14 
+0EG C3  H33  SING N N 15 
+0EG N   CA   SING N N 16 
+0EG N   H    SING N N 17 
+0EG CA  C4   SING N N 18 
+0EG CA  CB   SING N N 19 
+0EG CA  HA   SING N N 20 
+0EG C4  O    DOUB N N 21 
+0EG CB  HB1  SING N N 22 
+0EG CB  HB2  SING N N 23 
+0EG CB  HB3  SING N N 24 
+0EG N1  CA1  SING N N 25 
+0EG N1  CD   SING N N 26 
+0EG CA1 C5   SING N N 27 
+0EG CA1 CB1  SING N N 28 
+0EG CA1 HA1  SING N N 29 
+0EG C5  O3   DOUB N N 30 
+0EG CB1 CG   SING N N 31 
+0EG CB1 HB21 SING N N 32 
+0EG CB1 HB31 SING N N 33 
+0EG CG  CD   SING N N 34 
+0EG CG  HG2  SING N N 35 
+0EG CG  HG3  SING N N 36 
+0EG CD  HD2  SING N N 37 
+0EG CD  HD3  SING N N 38 
+0EG N2  CA2  SING N N 39 
+0EG N2  HN2  SING N N 40 
+0EG CA2 CB2  SING N N 41 
+0EG CA2 B    SING N N 42 
+0EG CA2 HA2  SING N N 43 
+0EG CB2 CG1  SING N N 44 
+0EG CB2 CG2  SING N N 45 
+0EG CB2 HB   SING N N 46 
+0EG CG1 HG11 SING N N 47 
+0EG CG1 HG12 SING N N 48 
+0EG CG1 HG13 SING N N 49 
+0EG CG2 HG21 SING N N 50 
+0EG CG2 HG22 SING N N 51 
+0EG CG2 HG23 SING N N 52 
+0EG B   O11  SING N N 53 
+0EG B   O21  SING N N 54 
+0EG O11 HO1  SING N N 55 
+0EG O21 HO2  SING N N 56 
+0EG C   N    SING N N 57 
+0EG C4  N1   SING N N 58 
+0EG C5  N2   SING N N 59 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0EG SMILES           ACDLabs 10.04 "O=C(NC(B(O)O)C(C)C)C1N(C(=O)C(NC(=O)OC(C)(C)C)C)CCC1"                                                                                                             
+0EG SMILES_CANONICAL CACTVS  3.341 "CC(C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](C)NC(=O)OC(C)(C)C)B(O)O"                                                                                                  
+0EG SMILES           CACTVS  3.341 "CC(C)[CH](NC(=O)[CH]1CCCN1C(=O)[CH](C)NC(=O)OC(C)(C)C)B(O)O"                                                                                                      
+0EG InChI            InChI   1.03  "InChI=1S/C17H32BN3O6/c1-10(2)13(18(25)26)20-14(22)12-8-7-9-21(12)15(23)11(3)19-16(24)27-17(4,5)6/h10-13,25-26H,7-9H2,1-6H3,(H,19,24)(H,20,22)/t11-,12-,13-/m0/s1" 
+0EG InChIKey         InChI   1.03  VWVBZPYREZAAER-AVGNSLFASA-N                                                                                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0EG "SYSTEMATIC NAME" ACDLabs              10.04 "N-(tert-butoxycarbonyl)-L-alanyl-N-[(1R)-1-(dihydroxyboranyl)-2-methylpropyl]-L-prolinamide"                                          
+0EG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1R)-2-methyl-1-[[(2S)-1-[(2S)-2-[(2-methylpropan-2-yl)oxycarbonylamino]propanoyl]pyrrolidin-2-yl]carbonylamino]propyl]boronic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0EG "Create component"  2008-09-14 RCSB 
+0EG "Modify descriptor" 2011-06-04 RCSB 
+# 

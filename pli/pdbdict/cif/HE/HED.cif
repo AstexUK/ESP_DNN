@@ -1,0 +1,122 @@
+data_HED
+# 
+_chem_comp.id                                    HED 
+_chem_comp.name                                  "2-HYDROXYETHYL DISULFIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H10 O2 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.251 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HED 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QT5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HED C1  C1  C 0 1 N N N 33.661 -1.477 12.701 0.206  -0.047 2.680  C1  HED 1  
+HED O1  O1  O 0 1 N N N 33.873 -0.702 11.538 0.311  -1.042 3.700  O1  HED 2  
+HED C2  C2  C 0 1 N N N 32.787 -0.564 13.596 -0.830 -0.486 1.644  C2  HED 3  
+HED S3  S3  S 0 1 N N N 31.611 -1.317 14.760 -0.963 0.777  0.349  S3  HED 4  
+HED S4  S4  S 0 1 N N N 32.538 -1.009 16.609 0.964  0.775  -0.349 S4  HED 5  
+HED C5  C5  C 0 1 N N N 32.454 0.742  17.165 0.829  -0.487 -1.644 C5  HED 6  
+HED C6  C6  C 0 1 N N N 32.536 0.968  18.707 -0.206 -0.046 -2.680 C6  HED 7  
+HED O6  O6  O 0 1 N N N 33.779 1.501  19.202 -0.312 -1.042 -3.700 O6  HED 8  
+HED H11 1H1 H 0 1 N N N 33.226 -2.485 12.509 -0.102 0.898  3.125  H11 HED 9  
+HED H12 2H1 H 0 1 N N N 34.595 -1.841 13.188 1.174  0.079  2.194  H12 HED 10 
+HED HO1 HO1 H 0 1 N N N 34.409 -1.262 10.989 0.973  -0.727 4.330  HO1 HED 11 
+HED H21 1H2 H 0 1 N N N 33.455 0.126  14.161 -0.520 -1.431 1.198  H21 HED 12 
+HED H22 2H2 H 0 1 N N N 32.234 0.151  12.943 -1.797 -0.612 2.129  H22 HED 13 
+HED H51 1H5 H 0 1 N N N 33.240 1.342  16.650 1.797  -0.614 -2.129 H51 HED 14 
+HED H52 2H5 H 0 1 N N N 31.535 1.226  16.758 0.519  -1.432 -1.198 H52 HED 15 
+HED H61 1H6 H 0 1 N N N 31.688 1.611  19.040 -1.174 0.080  -2.194 H61 HED 16 
+HED H62 2H6 H 0 1 N N N 32.290 0.020  19.241 0.103  0.898  -3.125 H62 HED 17 
+HED HO6 HO6 H 0 1 N N N 33.828 1.638  20.140 -0.974 -0.726 -4.330 HO6 HED 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HED C1 O1  SING N N 1  
+HED C1 C2  SING N N 2  
+HED C1 H11 SING N N 3  
+HED C1 H12 SING N N 4  
+HED O1 HO1 SING N N 5  
+HED C2 S3  SING N N 6  
+HED C2 H21 SING N N 7  
+HED C2 H22 SING N N 8  
+HED S3 S4  SING N N 9  
+HED S4 C5  SING N N 10 
+HED C5 C6  SING N N 11 
+HED C5 H51 SING N N 12 
+HED C5 H52 SING N N 13 
+HED C6 O6  SING N N 14 
+HED C6 H61 SING N N 15 
+HED C6 H62 SING N N 16 
+HED O6 HO6 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HED SMILES           ACDLabs              10.04 OCCSSCCO                                        
+HED SMILES_CANONICAL CACTVS               3.341 OCCSSCCO                                        
+HED SMILES           CACTVS               3.341 OCCSSCCO                                        
+HED SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CSSCCO)O"                                    
+HED SMILES           "OpenEye OEToolkits" 1.5.0 "C(CSSCCO)O"                                    
+HED InChI            InChI                1.03  InChI=1S/C4H10O2S2/c5-1-3-7-8-4-2-6/h5-6H,1-4H2 
+HED InChIKey         InChI                1.03  KYNFOMQIXZUKRK-UHFFFAOYSA-N                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HED "SYSTEMATIC NAME" ACDLabs              10.04 "2,2'-disulfanediyldiethanol"         
+HED "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(2-hydroxyethyldisulfanyl)ethanol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HED "Create component"  1999-07-08 RCSB 
+HED "Modify descriptor" 2011-06-04 RCSB 
+# 

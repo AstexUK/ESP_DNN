@@ -1,0 +1,126 @@
+data_R2P
+# 
+_chem_comp.id                                    R2P 
+_chem_comp.name                                  "(2R)-2-amino-3-(4-hydroxy-1,2,5-thiadiazol-3-yl)propanoic acid" 
+_chem_comp.type                                  "D-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H7 N3 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-11-29 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.192 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     R2P 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BFU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+R2P ND1  ND1  N 0 1 Y N N -1.802 3.612  15.544 -1.494 -1.342 0.122  ND1  R2P 1  
+R2P N    N    N 0 1 N N N -1.582 1.124  13.826 1.278  1.140  -1.105 N    R2P 2  
+R2P CA   CA   C 0 1 N N R -0.889 0.878  15.152 1.492  -0.156 -0.446 CA   R2P 3  
+R2P C    C    C 0 1 N N N -0.156 -0.479 15.019 2.938  -0.281 -0.041 C    R2P 4  
+R2P OD2  OD2  O 0 1 N N N 1.390  4.475  16.639 -1.063 2.160  0.478  OD2  R2P 5  
+R2P CD2  CD2  C 0 1 Y N N 0.172  4.508  16.307 -1.574 0.920  0.250  CD2  R2P 6  
+R2P NE2  NE2  N 0 1 Y N N -0.591 5.608  16.357 -2.812 0.701  -0.120 NE2  R2P 7  
+R2P SE1  SE1  S 0 1 Y N N -2.113 5.249  15.846 -2.961 -0.980 -0.275 SE1  R2P 8  
+R2P CG   CG   C 0 1 Y N N -0.539 3.333  15.831 -0.844 -0.246 0.381  CG   R2P 9  
+R2P CB   CB   C 0 1 N N N 0.133  1.967  15.690 0.605  -0.248 0.797  CB   R2P 10 
+R2P O    O    O 0 1 N N N -0.539 -1.186 14.058 3.624  0.708  0.063  O    R2P 11 
+R2P OXT  OXT  O 0 1 N Y N 0.735  -0.765 15.874 3.464  -1.491 0.204  OXT  R2P 12 
+R2P H    H    H 0 1 N N N -2.570 1.178  13.971 1.508  1.903  -0.486 H    R2P 13 
+R2P H2   H2   H 0 1 N Y N -1.255 1.984  13.434 1.805  1.199  -1.964 H2   R2P 14 
+R2P HA   HA   H 0 1 N N N -1.690 0.912  15.906 1.237  -0.961 -1.135 HA   R2P 15 
+R2P HOD2 HOD2 H 0 0 N N N 1.931  4.467  15.858 -1.158 2.462  1.392  HOD2 R2P 16 
+R2P HB   HB   H 0 1 N N N 0.506  1.650  16.675 0.827  -1.169 1.335  HB   R2P 17 
+R2P HBA  HBA  H 0 1 N N N 0.959  2.057  14.970 0.798  0.607  1.445  HBA  R2P 18 
+R2P HXT  HXT  H 0 1 N Y N 1.092  -1.625 15.684 4.396  -1.521 0.460  HXT  R2P 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+R2P ND1 SE1  SING Y N 1  
+R2P ND1 CG   DOUB Y N 2  
+R2P N   CA   SING N N 3  
+R2P CA  C    SING N N 4  
+R2P CA  CB   SING N N 5  
+R2P C   O    DOUB N N 6  
+R2P C   OXT  SING N N 7  
+R2P OD2 CD2  SING N N 8  
+R2P CD2 NE2  DOUB Y N 9  
+R2P CD2 CG   SING Y N 10 
+R2P NE2 SE1  SING Y N 11 
+R2P CG  CB   SING N N 12 
+R2P N   H    SING N N 13 
+R2P N   H2   SING N N 14 
+R2P CA  HA   SING N N 15 
+R2P OD2 HOD2 SING N N 16 
+R2P CB  HB   SING N N 17 
+R2P CB  HBA  SING N N 18 
+R2P OXT HXT  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+R2P SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc1nsnc1O"                                                                   
+R2P SMILES_CANONICAL CACTVS               3.341 "N[C@H](Cc1nsnc1O)C(O)=O"                                                               
+R2P SMILES           CACTVS               3.341 "N[CH](Cc1nsnc1O)C(O)=O"                                                                
+R2P SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(c1c(nsn1)O)[C@H](C(=O)O)N"                                                           
+R2P SMILES           "OpenEye OEToolkits" 1.5.0 "C(c1c(nsn1)O)C(C(=O)O)N"                                                               
+R2P InChI            InChI                1.03  "InChI=1S/C5H7N3O3S/c6-2(5(10)11)1-3-4(9)8-12-7-3/h2H,1,6H2,(H,8,9)(H,10,11)/t2-/m1/s1" 
+R2P InChIKey         InChI                1.03  SEVVPWOEIHLQGH-UWTATZPHSA-N                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+R2P "SYSTEMATIC NAME" ACDLabs              10.04 "3-(4-hydroxy-1,2,5-thiadiazol-3-yl)-D-alanine"                  
+R2P "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-(4-hydroxy-1,2,5-thiadiazol-3-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+R2P "Create component"     2007-11-29 PDBJ 
+R2P "Modify aromatic_flag" 2011-06-04 RCSB 
+R2P "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,104 @@
+data_GLZ
+# 
+_chem_comp.id                                    GLZ 
+_chem_comp.name                                  AMINO-ACETALDEHYDE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C2 H5 N O" 
+_chem_comp.mon_nstd_parent_comp_id               GLY 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        59.067 
+_chem_comp.one_letter_code                       G 
+_chem_comp.three_letter_code                     GLZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CMX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLZ N   N   N 0 1 N N N 49.735 44.909 4.254 -0.372 0.031  1.674  N   GLZ 1 
+GLZ CA  CA  C 0 1 N N N 48.596 44.282 3.645 0.597  0.024  0.571  CA  GLZ 2 
+GLZ C   C   C 0 1 N N N 48.811 42.785 3.449 -0.080 -0.441 -0.691 C   GLZ 3 
+GLZ O   O   O 0 1 N N N 47.801 42.194 3.020 -0.122 0.282  -1.656 O   GLZ 4 
+GLZ H   H   H 0 1 N N N 49.591 45.910 4.385 -1.055 0.740  1.455  H   GLZ 5 
+GLZ H2  HN2 H 0 1 N Y N 50.587 44.722 3.726 0.122  0.348  2.494  H2  GLZ 6 
+GLZ HA1 1HA H 0 1 N N N 47.663 44.486 4.221 0.986  1.032  0.424  HA1 GLZ 7 
+GLZ HA2 2HA H 0 1 N N N 48.321 44.781 2.686 1.418  -0.649 0.813  HA2 GLZ 8 
+GLZ HXT HXT H 0 1 N Y N 49.687 42.136 3.615 -0.528 -1.423 -0.732 HXT GLZ 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLZ N  CA  SING N N 1 
+GLZ N  H   SING N N 2 
+GLZ N  H2  SING N N 3 
+GLZ CA C   SING N N 4 
+GLZ CA HA1 SING N N 5 
+GLZ CA HA2 SING N N 6 
+GLZ C  O   DOUB N N 7 
+GLZ C  HXT SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLZ SMILES           ACDLabs              10.04 O=CCN                              
+GLZ SMILES_CANONICAL CACTVS               3.341 NCC=O                              
+GLZ SMILES           CACTVS               3.341 NCC=O                              
+GLZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C=O)N"                          
+GLZ SMILES           "OpenEye OEToolkits" 1.5.0 "C(C=O)N"                          
+GLZ InChI            InChI                1.03  InChI=1S/C2H5NO/c3-1-2-4/h2H,1,3H2 
+GLZ InChIKey         InChI                1.03  LYIIBVSRGJSHAV-UHFFFAOYSA-N        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLZ "SYSTEMATIC NAME" ACDLabs              10.04 aminoacetaldehyde 
+GLZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-aminoethanal    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLZ "Create component"  1999-07-08 RCSB 
+GLZ "Modify descriptor" 2011-06-04 RCSB 
+# 

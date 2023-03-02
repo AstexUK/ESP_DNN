@@ -1,0 +1,129 @@
+data_TMM
+# 
+_chem_comp.id                                    TMM 
+_chem_comp.name                                  "1,3,5-BENZENETRICARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H6 O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        210.140 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TMM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1SDL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TMM C1  C1  C 0 1 Y N N 39.087 16.421 -35.720 1.004  0.000  0.967  C1  TMM 1  
+TMM C2  C2  C 0 1 Y N N 37.698 16.508 -35.586 1.368  -0.000 -0.378 C2  TMM 2  
+TMM C3  C3  C 0 1 Y N N 36.957 15.473 -35.023 0.383  -0.000 -1.366 C3  TMM 3  
+TMM C4  C4  C 0 1 Y N N 37.658 14.370 -34.543 -0.964 0.000  -1.008 C4  TMM 4  
+TMM C5  C5  C 0 1 Y N N 39.032 14.252 -34.675 -1.327 -0.000 0.338  C5  TMM 5  
+TMM C6  C6  C 0 1 Y N N 39.734 15.273 -35.270 -0.342 -0.004 1.326  C6  TMM 6  
+TMM C1A C1A C 0 1 N N N 39.934 17.495 -36.389 2.047  0.000  2.014  C1A TMM 7  
+TMM C3A C3A C 0 1 N N N 35.416 15.440 -34.715 0.768  0.000  -2.793 C3A TMM 8  
+TMM C5A C5A C 0 1 N N N 39.857 13.066 -34.223 -2.755 0.000  0.718  C5A TMM 9  
+TMM O1A O1A O 0 1 N N N 39.485 18.618 -36.614 3.221  0.000  1.701  O1A TMM 10 
+TMM O2A O2A O 0 1 N Y N 41.174 17.166 -36.737 1.697  0.001  3.314  O2A TMM 11 
+TMM O3A O3A O 0 1 N N N 35.173 14.554 -33.881 1.942  0.000  -3.105 O3A TMM 12 
+TMM O4A O4A O 0 1 N N N 34.494 15.874 -35.676 -0.182 0.000  -3.747 O4A TMM 13 
+TMM O5A O5A O 0 1 N N N 39.488 12.380 -33.267 -3.612 0.001  -0.141 O5A TMM 14 
+TMM O6A O6A O 0 1 N N N 40.895 12.821 -34.841 -3.106 0.000  2.019  O6A TMM 15 
+TMM H2  H2  H 0 1 N N N 37.174 17.414 -35.932 2.411  -0.000 -0.656 H2  TMM 16 
+TMM H4  H4  H 0 1 N N N 37.104 13.559 -34.039 -1.726 0.000  -1.773 H4  TMM 17 
+TMM H6  H6  H 0 1 N N N 40.825 15.170 -35.387 -0.624 -0.004 2.369  H6  TMM 18 
+TMM HO2 HO2 H 0 1 N N N 41.702 17.836 -37.154 2.379  0.001  3.999  HO2 TMM 19 
+TMM HO4 HO4 H 0 1 N N N 33.562 15.854 -35.489 0.069  0.000  -4.681 HO4 TMM 20 
+TMM HO6 HO6 H 0 1 N N N 41.412 12.076 -34.557 -4.040 0.000  2.267  HO6 TMM 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TMM C1  C2  DOUB Y N 1  
+TMM C1  C6  SING Y N 2  
+TMM C1  C1A SING N N 3  
+TMM C2  C3  SING Y N 4  
+TMM C2  H2  SING N N 5  
+TMM C3  C4  DOUB Y N 6  
+TMM C3  C3A SING N N 7  
+TMM C4  C5  SING Y N 8  
+TMM C4  H4  SING N N 9  
+TMM C5  C6  DOUB Y N 10 
+TMM C5  C5A SING N N 11 
+TMM C6  H6  SING N N 12 
+TMM C1A O1A DOUB N N 13 
+TMM C1A O2A SING N N 14 
+TMM C3A O3A DOUB N N 15 
+TMM C3A O4A SING N N 16 
+TMM C5A O5A DOUB N N 17 
+TMM C5A O6A SING N N 18 
+TMM O2A HO2 SING N N 19 
+TMM O4A HO4 SING N N 20 
+TMM O6A HO6 SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TMM SMILES           ACDLabs              10.04 "O=C(O)c1cc(cc(C(=O)O)c1)C(=O)O"                                                           
+TMM SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O"                                                           
+TMM SMILES           CACTVS               3.341 "OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O"                                                           
+TMM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(cc(cc1C(=O)O)C(=O)O)C(=O)O"                                                           
+TMM SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(cc(cc1C(=O)O)C(=O)O)C(=O)O"                                                           
+TMM InChI            InChI                1.03  "InChI=1S/C9H6O6/c10-7(11)4-1-5(8(12)13)3-6(2-4)9(14)15/h1-3H,(H,10,11)(H,12,13)(H,14,15)" 
+TMM InChIKey         InChI                1.03  QMKYBPDZANOJGF-UHFFFAOYSA-N                                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TMM "SYSTEMATIC NAME" ACDLabs              10.04 "benzene-1,3,5-tricarboxylic acid" 
+TMM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "benzene-1,3,5-tricarboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TMM "Create component"  1999-07-08 EBI  
+TMM "Modify descriptor" 2011-06-04 RCSB 
+# 

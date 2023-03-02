@@ -1,0 +1,127 @@
+data_CPC
+# 
+_chem_comp.id                                    CPC 
+_chem_comp.name                                  "2-METHYL-1-METHYLAMINO-CYCLOPROPANE CARBOXYLIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H11 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        129.157 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     CPC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        193D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CPC N    N    N 0 1 N N N 1.613  4.032 16.085 1.900  1.139  -0.244 N    CPC 1  
+CPC CN   CN   C 0 1 N N N 1.557  3.193 14.832 3.257  1.020  0.270  CN   CPC 2  
+CPC CA   CA   C 0 1 N N S 1.717  5.347 15.903 1.028  0.135  0.351  CA   CPC 3  
+CPC CB   CB   C 0 1 N N S 3.102  5.692 15.313 0.930  -1.235 -0.264 CB   CPC 4  
+CPC CG1  CG1  C 0 1 N N N 2.764  6.189 16.666 -0.229 -0.287 -0.360 CG1  CPC 5  
+CPC CG2  CG2  C 0 1 N N N 3.262  6.910 14.375 0.801  -2.445 0.586  CG2  CPC 6  
+CPC C    C    C 0 1 N N N 0.406  6.029 15.371 0.985  0.283  1.817  C    CPC 7  
+CPC O    O    O 0 1 N N N 0.414  6.802 14.420 1.675  -0.345 2.607  O    CPC 8  
+CPC OXT  OXT  O 0 1 N Y N ?      ?     ?      0.070  1.216  2.178  OXT  CPC 9  
+CPC H    HN   H 0 1 N N N 2.368  3.705 16.687 1.912  1.015  -1.256 H    CPC 10 
+CPC HCN1 1HCN H 0 0 N N N 1.386  2.149 15.049 3.947  1.593  -0.355 HCN1 CPC 11 
+CPC HCN2 2HCN H 0 0 N N N 2.489  3.290 14.298 3.571  -0.028 0.271  HCN2 CPC 12 
+CPC HCN3 3HCN H 0 0 N N N 0.759  3.553 14.199 3.309  1.402  1.293  HCN3 CPC 13 
+CPC HB   HB   H 0 1 N N N 3.822  4.880 15.229 1.490  -1.440 -1.168 HB   CPC 14 
+CPC HG13 1HG1 H 0 0 N N N 3.313  5.718 17.481 -0.455 0.154  -1.325 HG13 CPC 15 
+CPC HG12 2HG1 H 0 0 N N N 2.553  7.252 16.764 -1.108 -0.510 0.233  HG12 CPC 16 
+CPC HG21 1HG2 H 0 0 N N N 2.678  7.765 14.681 -0.233 -2.572 0.920  HG21 CPC 17 
+CPC HG22 2HG2 H 0 0 N N N 2.978  6.633 13.369 1.096  -3.339 0.029  HG22 CPC 18 
+CPC HG23 3HG2 H 0 0 N N N 4.305  7.186 14.385 1.441  -2.363 1.470  HG23 CPC 19 
+CPC HXT  HXT  H 0 1 N Y N -0.793 0.412 -0.321 0.025  1.328  3.151  HXT  CPC 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CPC N   CN   SING N N 1  
+CPC N   CA   SING N N 2  
+CPC N   H    SING N N 3  
+CPC CN  HCN1 SING N N 4  
+CPC CN  HCN2 SING N N 5  
+CPC CN  HCN3 SING N N 6  
+CPC CA  CB   SING N N 7  
+CPC CA  CG1  SING N N 8  
+CPC CA  C    SING N N 9  
+CPC CB  CG1  SING N N 10 
+CPC CB  CG2  SING N N 11 
+CPC CB  HB   SING N N 12 
+CPC CG1 HG13 SING N N 13 
+CPC CG1 HG12 SING N N 14 
+CPC CG2 HG21 SING N N 15 
+CPC CG2 HG22 SING N N 16 
+CPC CG2 HG23 SING N N 17 
+CPC C   O    DOUB N N 18 
+CPC C   OXT  SING N N 19 
+CPC OXT HXT  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CPC SMILES           ACDLabs              10.04 "O=C(O)C1(NC)CC1C"                                                            
+CPC SMILES_CANONICAL CACTVS               3.341 "CN[C@]1(C[C@@H]1C)C(O)=O"                                                    
+CPC SMILES           CACTVS               3.341 "CN[C]1(C[CH]1C)C(O)=O"                                                       
+CPC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H]1C[C@]1(C(=O)O)NC"                                                     
+CPC SMILES           "OpenEye OEToolkits" 1.5.0 "CC1CC1(C(=O)O)NC"                                                            
+CPC InChI            InChI                1.03  "InChI=1S/C6H11NO2/c1-4-3-6(4,7-2)5(8)9/h4,7H,3H2,1-2H3,(H,8,9)/t4-,6-/m0/s1" 
+CPC InChIKey         InChI                1.03  DYSUVIPLCIOCKL-NJGYIYPDSA-N                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CPC "SYSTEMATIC NAME" ACDLabs              10.04 "(1S,2S)-2-methyl-1-(methylamino)cyclopropanecarboxylic acid"   
+CPC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(1S,2S)-2-methyl-1-methylamino-cyclopropane-1-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CPC "Create component"  1999-07-08 EBI  
+CPC "Modify descriptor" 2011-06-04 RCSB 
+# 

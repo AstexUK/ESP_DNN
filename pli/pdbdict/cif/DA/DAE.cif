@@ -1,0 +1,161 @@
+data_DAE
+# 
+_chem_comp.id                                    DAE 
+_chem_comp.name                                  "O,P-DINITROPHENYL AMINOETHYLDIPHOSPHATE-BERYLLIUM TRIFLUORIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H10 Be F3 N3 O11 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     1999-09-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        452.133 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DAE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1D1A 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DAE BE   BE   BE -1 0 N N N 32.868 58.348 22.999 ? ? ? BE   DAE 1  
+DAE F1   F1   F  0  1 N N N 31.615 57.499 23.226 ? ? ? F1   DAE 2  
+DAE F2   F2   F  0  1 N N N 32.618 59.424 21.970 ? ? ? F2   DAE 3  
+DAE F3   F3   F  0  1 N N N 33.378 58.991 24.278 ? ? ? F3   DAE 4  
+DAE PB   PB   P  0  1 N N R 34.286 56.759 21.001 ? ? ? PB   DAE 5  
+DAE OB1  OB1  O  0  1 N N N 33.713 55.395 20.822 ? ? ? OB1  DAE 6  
+DAE OB2  OB2  O  0  1 N N N 33.697 57.789 20.056 ? ? ? OB2  DAE 7  
+DAE OB3  OB3  O  0  1 N N N 34.033 57.382 22.459 ? ? ? OB3  DAE 8  
+DAE OA3  OA3  O  0  1 N N N 35.863 56.650 20.835 ? ? ? OA3  DAE 9  
+DAE PA   PA   P  0  1 N N R 36.909 57.465 19.940 ? ? ? PA   DAE 10 
+DAE OA1  OA1  O  0  1 N N N 36.560 57.298 18.457 ? ? ? OA1  DAE 11 
+DAE OA2  OA2  O  0  1 N N N 36.870 58.918 20.250 ? ? ? OA2  DAE 12 
+DAE OE2  OE2  O  0  1 N N N 38.328 56.809 20.353 ? ? ? OE2  DAE 13 
+DAE NA3  NA3  N  0  1 N N N 41.377 56.043 20.429 ? ? ? NA3  DAE 14 
+DAE CA2  CA2  C  0  1 N N N 40.606 57.029 21.200 ? ? ? CA2  DAE 15 
+DAE CA1  CA1  C  0  1 N N N 39.474 57.668 20.417 ? ? ? CA1  DAE 16 
+DAE C1   C1   C  0  1 Y N N 42.811 56.184 20.565 ? ? ? C1   DAE 17 
+DAE C6   C6   C  0  1 Y N N 43.347 57.117 21.461 ? ? ? C6   DAE 18 
+DAE C5   C5   C  0  1 Y N N 44.729 57.267 21.588 ? ? ? C5   DAE 19 
+DAE C4   C4   C  0  1 Y N N 45.589 56.463 20.829 ? ? ? C4   DAE 20 
+DAE C3   C3   C  0  1 Y N N 45.061 55.526 19.946 ? ? ? C3   DAE 21 
+DAE C2   C2   C  0  1 Y N N 43.681 55.381 19.803 ? ? ? C2   DAE 22 
+DAE N4   N4   N  1  1 N N N 47.071 56.594 20.940 ? ? ? N4   DAE 23 
+DAE O4A  O4A  O  0  1 N N N 47.806 55.886 20.264 ? ? ? O4A  DAE 24 
+DAE O4B  O4B  O  -1 1 N N N 47.606 57.403 21.709 ? ? ? O4B  DAE 25 
+DAE N2   N2   N  1  1 N N N 43.144 54.366 18.840 ? ? ? N2   DAE 26 
+DAE O2A  O2A  O  0  1 N N N 41.911 54.230 18.690 ? ? ? O2A  DAE 27 
+DAE O2B  O2B  O  -1 1 N N N 43.929 53.654 18.180 ? ? ? O2B  DAE 28 
+DAE HOB2 2HOB H  0  0 N N N 34.062 58.658 20.170 ? ? ? HOB2 DAE 29 
+DAE HOA2 2HOA H  0  0 N N N 37.181 57.782 17.925 ? ? ? HOA2 DAE 30 
+DAE HNA1 1HNA H  0  0 N N N 41.106 56.065 19.445 ? ? ? HNA1 DAE 31 
+DAE HA21 1HA2 H  0  0 N N N 40.224 56.577 22.145 ? ? ? HA21 DAE 32 
+DAE HA22 2HA2 H  0  0 N N N 41.279 57.809 21.624 ? ? ? HA22 DAE 33 
+DAE HA11 1HA1 H  0  0 N N N 39.807 57.979 19.399 ? ? ? HA11 DAE 34 
+DAE HA12 2HA1 H  0  0 N N N 39.209 58.670 20.827 ? ? ? HA12 DAE 35 
+DAE H6   H6   H  0  1 N N N 42.673 57.740 22.073 ? ? ? H6   DAE 36 
+DAE H5   H5   H  0  1 N N N 45.139 58.017 22.284 ? ? ? H5   DAE 37 
+DAE H3   H3   H  0  1 N N N 45.742 54.892 19.354 ? ? ? H3   DAE 38 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DAE BE  F1   SING N N 1  
+DAE BE  F2   SING N N 2  
+DAE BE  F3   SING N N 3  
+DAE BE  OB3  SING N N 4  
+DAE PB  OB1  DOUB N N 5  
+DAE PB  OB2  SING N N 6  
+DAE PB  OB3  SING N N 7  
+DAE PB  OA3  SING N N 8  
+DAE OB2 HOB2 SING N N 9  
+DAE OA3 PA   SING N N 10 
+DAE PA  OA1  SING N N 11 
+DAE PA  OA2  DOUB N N 12 
+DAE PA  OE2  SING N N 13 
+DAE OA1 HOA2 SING N N 14 
+DAE OE2 CA1  SING N N 15 
+DAE NA3 CA2  SING N N 16 
+DAE NA3 C1   SING N N 17 
+DAE NA3 HNA1 SING N N 18 
+DAE CA2 CA1  SING N N 19 
+DAE CA2 HA21 SING N N 20 
+DAE CA2 HA22 SING N N 21 
+DAE CA1 HA11 SING N N 22 
+DAE CA1 HA12 SING N N 23 
+DAE C1  C6   DOUB Y N 24 
+DAE C1  C2   SING Y N 25 
+DAE C6  C5   SING Y N 26 
+DAE C6  H6   SING N N 27 
+DAE C5  C4   DOUB Y N 28 
+DAE C5  H5   SING N N 29 
+DAE C4  C3   SING Y N 30 
+DAE C4  N4   SING N N 31 
+DAE C3  C2   DOUB Y N 32 
+DAE C3  H3   SING N N 33 
+DAE C2  N2   SING N N 34 
+DAE N4  O4A  DOUB N N 35 
+DAE N4  O4B  SING N N 36 
+DAE N2  O2A  DOUB N N 37 
+DAE N2  O2B  SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DAE SMILES_CANONICAL CACTVS               3.341 "O[P@](=O)(OCCNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O)O[P@@](O)(=O)O[Be-](F)(F)F"                                                                                 
+DAE SMILES           CACTVS               3.341 "O[P](=O)(OCCNc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O)O[P](O)(=O)O[Be-](F)(F)F"                                                                                    
+DAE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[Be-](O[P@@](=O)(O)O[P@](=O)(O)OCCNc1ccc(cc1[N+](=O)[O-])[N+](=O)[O-])(F)(F)F"                                                                               
+DAE SMILES           "OpenEye OEToolkits" 1.5.0 "[Be-](OP(=O)(O)OP(=O)(O)OCCNc1ccc(cc1[N+](=O)[O-])[N+](=O)[O-])(F)(F)F"                                                                                      
+DAE InChI            InChI                1.03  "InChI=1S/C8H11N3O11P2.Be.3FH/c12-10(13)6-1-2-7(8(5-6)11(14)15)9-3-4-21-24(19,20)22-23(16,17)18;;;;/h1-2,5,9H,3-4H2,(H,19,20)(H2,16,17,18);;3*1H/q;+3;;;/p-4" 
+DAE InChIKey         InChI                1.03  IMRRDTRILVVTCO-UHFFFAOYSA-J                                                                                                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DAE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[[2-[(2,4-dinitrophenyl)amino]ethoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxy-trifluoro-beryllium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DAE "Create component"  1999-09-22 RCSB 
+DAE "Modify descriptor" 2011-06-04 RCSB 
+# 

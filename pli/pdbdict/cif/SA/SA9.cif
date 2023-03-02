@@ -1,0 +1,120 @@
+data_SA9
+# 
+_chem_comp.id                                    SA9 
+_chem_comp.name                                  "2-(hydroxymethyl)phenol" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-10-20 
+_chem_comp.pdbx_modified_date                    2012-06-29 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        124.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SA9 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3VIL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SA9 OAA  OAA  O 0 1 N N N -22.860 81.285 -1.984 2.740  0.698  -0.003 OAA  SA9 1  
+SA9 OAB  OAB  O 0 1 N N N -19.695 79.963 -3.240 -0.280 -2.263 0.035  OAB  SA9 2  
+SA9 CAC  CAC  C 0 1 Y N N -21.034 80.101 -6.629 -2.197 0.829  -0.002 CAC  SA9 3  
+SA9 CAD  CAD  C 0 1 Y N N -22.405 80.144 -6.368 -1.178 1.763  -0.013 CAD  SA9 4  
+SA9 CAE  CAE  C 0 1 Y N N -20.136 80.033 -5.566 -1.899 -0.520 0.014  CAE  SA9 5  
+SA9 CAF  CAF  C 0 1 Y N N -22.872 80.133 -5.055 0.141  1.350  -0.009 CAF  SA9 6  
+SA9 CAG  CAG  C 0 1 N N N -22.532 80.020 -2.569 1.883  -0.446 0.012  CAG  SA9 7  
+SA9 CAH  CAH  C 0 1 Y N N -20.611 80.018 -4.252 -0.576 -0.937 0.019  CAH  SA9 8  
+SA9 CAI  CAI  C 0 1 Y N N -21.979 80.072 -3.984 0.445  0.003  0.007  CAI  SA9 9  
+SA9 HOAA HOAA H 0 0 N N N -23.195 81.151 -1.105 3.682  0.483  -0.001 HOAA SA9 10 
+SA9 HOAB HOAB H 0 0 N N N -20.146 79.958 -2.404 -0.195 -2.658 -0.844 HOAB SA9 11 
+SA9 HAC  HAC  H 0 1 N N N -20.673 80.120 -7.647 -3.227 1.153  -0.002 HAC  SA9 12 
+SA9 HAD  HAD  H 0 1 N N N -23.107 80.186 -7.188 -1.414 2.817  -0.026 HAD  SA9 13 
+SA9 HAE  HAE  H 0 1 N N N -19.074 79.992 -5.757 -2.695 -1.250 0.023  HAE  SA9 14 
+SA9 HAF  HAF  H 0 1 N N N -23.934 80.172 -4.864 0.936  2.082  -0.018 HAF  SA9 15 
+SA9 HAG  HAG  H 0 1 N N N -21.767 79.551 -1.933 2.076  -1.056 -0.871 HAG  SA9 16 
+SA9 HAGA HAGA H 0 0 N N N -23.454 79.421 -2.597 2.078  -1.034 0.908  HAGA SA9 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SA9 OAA CAG  SING N N 1  
+SA9 OAB CAH  SING N N 2  
+SA9 CAC CAD  DOUB Y N 3  
+SA9 CAC CAE  SING Y N 4  
+SA9 CAD CAF  SING Y N 5  
+SA9 CAE CAH  DOUB Y N 6  
+SA9 CAF CAI  DOUB Y N 7  
+SA9 CAG CAI  SING N N 8  
+SA9 CAH CAI  SING Y N 9  
+SA9 OAA HOAA SING N N 10 
+SA9 OAB HOAB SING N N 11 
+SA9 CAC HAC  SING N N 12 
+SA9 CAD HAD  SING N N 13 
+SA9 CAE HAE  SING N N 14 
+SA9 CAF HAF  SING N N 15 
+SA9 CAG HAG  SING N N 16 
+SA9 CAG HAGA SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SA9 SMILES           ACDLabs              12.01 OCc1ccccc1O                                          
+SA9 InChI            InChI                1.03  "InChI=1S/C7H8O2/c8-5-6-3-1-2-4-7(6)9/h1-4,8-9H,5H2" 
+SA9 InChIKey         InChI                1.03  CQRYARSYNCAZFO-UHFFFAOYSA-N                          
+SA9 SMILES_CANONICAL CACTVS               3.370 OCc1ccccc1O                                          
+SA9 SMILES           CACTVS               3.370 OCc1ccccc1O                                          
+SA9 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "c1ccc(c(c1)CO)O"                                    
+SA9 SMILES           "OpenEye OEToolkits" 1.7.2 "c1ccc(c(c1)CO)O"                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SA9 "SYSTEMATIC NAME" ACDLabs              12.01 "2-(hydroxymethyl)phenol" 
+SA9 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "2-(hydroxymethyl)phenol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SA9 "Create component" 2011-10-20 PDBJ 
+# 

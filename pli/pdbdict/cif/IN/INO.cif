@@ -1,0 +1,119 @@
+data_INO
+# 
+_chem_comp.id                                    INO 
+_chem_comp.name                                  "2-HYDROXYISONICOTINIC ACID N-OXIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        155.108 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     INO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3PCJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+INO N1  N1  N 1  1 Y N N -41.389 -13.367 9.757  -1.810 0.525  0.007  N1  INO 1  
+INO C2  C2  C 0  1 Y N N -40.575 -14.371 9.537  -1.368 -0.722 0.018  C2  INO 2  
+INO C3  C3  C 0  1 Y N N -40.120 -15.182 10.583 -0.008 -0.992 0.011  C3  INO 3  
+INO C4  C4  C 0  1 Y N N -40.572 -14.911 11.901 0.894  0.076  0.003  C4  INO 4  
+INO C5  C5  C 0  1 Y N N -41.444 -13.823 12.112 0.379  1.378  -0.008 C5  INO 5  
+INO C6  C6  C 0  1 Y N N -41.851 -13.064 11.000 -0.988 1.559  -0.006 C6  INO 6  
+INO C7  C7  C 0  1 N N N -40.151 -15.811 13.060 2.354  -0.163 0.001  C7  INO 7  
+INO O1  O1  O 0  1 N N N -39.380 -16.762 12.906 2.783  -1.299 0.010  O1  INO 8  
+INO O2  O2  O 0  1 N N N -40.584 -15.569 14.211 3.207  0.879  -0.013 O2  INO 9  
+INO O3  O3  O 0  1 N N N -40.221 -14.626 8.388  -2.256 -1.749 0.031  O3  INO 10 
+INO O4  O4  O -1 1 N N N -41.812 -12.603 8.767  -3.207 0.759  0.009  O4  INO 11 
+INO H3  H3  H 0  1 N N N -39.424 -16.012 10.374 0.349  -2.011 0.019  H3  INO 12 
+INO H5  H5  H 0  1 N N N -41.800 -13.571 13.125 1.043  2.230  -0.018 H5  INO 13 
+INO H6  H6  H 0  1 N N N -42.546 -12.214 11.104 -1.393 2.560  -0.014 H6  INO 14 
+INO HO2 HO2 H 0  1 N N N -40.322 -16.129 14.932 4.161  0.723  -0.014 HO2 INO 15 
+INO HO3 HO3 H 0  1 N N N -39.631 -15.353 8.228  -2.442 -1.969 -0.892 HO3 INO 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+INO N1 C2  SING Y N 1  
+INO N1 C6  DOUB Y N 2  
+INO N1 O4  SING N N 3  
+INO C2 C3  DOUB Y N 4  
+INO C2 O3  SING N N 5  
+INO C3 C4  SING Y N 6  
+INO C3 H3  SING N N 7  
+INO C4 C5  DOUB Y N 8  
+INO C4 C7  SING N N 9  
+INO C5 C6  SING Y N 10 
+INO C5 H5  SING N N 11 
+INO C6 H6  SING N N 12 
+INO C7 O1  DOUB N N 13 
+INO C7 O2  SING N N 14 
+INO O2 HO2 SING N N 15 
+INO O3 HO3 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+INO SMILES           ACDLabs              10.04 "O=C(O)c1cc[n+]([O-])c(O)c1"                                   
+INO SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1cc[n+]([O-])c(O)c1"                                   
+INO SMILES           CACTVS               3.341 "OC(=O)c1cc[n+]([O-])c(O)c1"                                   
+INO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c[n+](c(cc1C(=O)O)O)[O-]"                                   
+INO SMILES           "OpenEye OEToolkits" 1.5.0 "c1c[n+](c(cc1C(=O)O)O)[O-]"                                   
+INO InChI            InChI                1.03  "InChI=1S/C6H5NO4/c8-5-3-4(6(9)10)1-2-7(5)11/h1-3,8H,(H,9,10)" 
+INO InChIKey         InChI                1.03  OFOAWMIVKVXKCO-UHFFFAOYSA-N                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+INO "SYSTEMATIC NAME" ACDLabs              10.04 "2-hydroxypyridine-4-carboxylic acid 1-oxide"       
+INO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-hydroxy-1-oxido-pyridin-1-ium-4-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+INO "Create component"  1999-07-08 RCSB 
+INO "Modify descriptor" 2011-06-04 RCSB 
+# 

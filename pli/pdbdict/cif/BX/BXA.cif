@@ -1,0 +1,102 @@
+data_BXA
+# 
+_chem_comp.id                                    BXA 
+_chem_comp.name                                  "bromoacetic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H3 Br O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-07-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        138.948 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BXA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3NN7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BXA C1  C1  C  0 1 N N N 36.565 42.348 -2.987 1.618  0.024  0.002  C1  BXA 1 
+BXA O1  O1  O  0 1 N N N 37.746 42.477 -3.608 1.393  1.211  0.001  O1  BXA 2 
+BXA C2  C2  C  0 1 N N N 36.607 42.734 -1.521 0.476  -0.959 0.002  C2  BXA 3 
+BXA O2  O2  O  0 1 N N N 35.669 41.673 -3.478 2.885  -0.419 -0.002 O2  BXA 4 
+BXA BR2 BR2 BR 0 0 N N N 37.689 44.300 -1.082 -1.230 0.019  -0.000 BR2 BXA 5 
+BXA H2  H2  H  0 1 N N N 35.575 42.950 -1.208 0.536  -1.586 -0.887 H2  BXA 6 
+BXA H2A H2A H  0 1 N N N 37.025 41.880 -0.968 0.535  -1.584 0.892  H2A BXA 7 
+BXA HO2 HO2 H  0 1 N N N 35.965 41.304 -4.302 3.584  0.249  -0.002 HO2 BXA 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BXA O1 C1  DOUB N N 1 
+BXA O2 C1  SING N N 2 
+BXA C1 C2  SING N N 3 
+BXA C2 BR2 SING N N 4 
+BXA C2 H2  SING N N 5 
+BXA C2 H2A SING N N 6 
+BXA O2 HO2 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BXA SMILES           ACDLabs              12.01 "BrCC(=O)O"                                 
+BXA SMILES_CANONICAL CACTVS               3.370 "OC(=O)CBr"                                 
+BXA SMILES           CACTVS               3.370 "OC(=O)CBr"                                 
+BXA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(C(=O)O)Br"                               
+BXA SMILES           "OpenEye OEToolkits" 1.7.0 "C(C(=O)O)Br"                               
+BXA InChI            InChI                1.03  "InChI=1S/C2H3BrO2/c3-1-2(4)5/h1H2,(H,4,5)" 
+BXA InChIKey         InChI                1.03  KDPAWGWELVVRCH-UHFFFAOYSA-N                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BXA "SYSTEMATIC NAME" ACDLabs              12.01 "bromoacetic acid"     
+BXA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "2-bromoethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BXA "Create component"  2010-07-21 RCSB 
+BXA "Modify descriptor" 2011-06-04 RCSB 
+# 

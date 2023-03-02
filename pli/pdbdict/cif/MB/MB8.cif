@@ -1,0 +1,116 @@
+data_MB8
+# 
+_chem_comp.id                                    MB8 
+_chem_comp.name                                  "(2Z)-2-methylbut-2-enoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H8 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-09-21 
+_chem_comp.pdbx_modified_date                    2014-05-02 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        100.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MB8 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MB8 C  C  C 0 1 N N N 17.308 -87.338 -0.723 0.649  -0.530 0.002  C  MB8 1  
+MB8 O  O  O 0 1 N N N 16.459 -87.224 -1.590 0.047  -1.585 0.002  O  MB8 2  
+MB8 O2 O2 O 0 1 N Y N 18.352 -87.389 -0.993 1.997  -0.523 -0.002 O2 MB8 3  
+MB8 C2 C2 C 0 1 N N N 16.410 -87.188 0.519  -0.092 0.739  0.001  C2 MB8 4  
+MB8 C3 C3 C 0 1 N N N 17.320 -87.532 1.713  0.655  2.048  0.001  C3 MB8 5  
+MB8 C4 C4 C 0 1 N N N 15.041 -86.860 1.143  -1.423 0.733  -0.001 C4 MB8 6  
+MB8 C5 C5 C 0 1 N N N 14.131 -86.516 -0.051 -2.170 -0.576 -0.001 C5 MB8 7  
+MB8 H1 H1 H 0 1 N Y N 18.438 -87.332 -1.937 2.440  -1.382 -0.005 H1 MB8 8  
+MB8 H2 H2 H 0 1 N N N 16.747 -87.447 2.648  0.836  2.363  -1.027 H2 MB8 9  
+MB8 H3 H3 H 0 1 N N N 17.694 -88.561 1.604  0.061  2.805  0.514  H3 MB8 10 
+MB8 H4 H4 H 0 1 N N N 18.170 -86.834 1.739  1.607  1.923  0.516  H4 MB8 11 
+MB8 H5 H5 H 0 1 N N N 14.777 -86.869 2.190  -1.968 1.665  -0.002 H5 MB8 12 
+MB8 H6 H6 H 0 1 N N N 13.124 -86.267 0.315  -1.903 -1.147 -0.891 H6 MB8 13 
+MB8 H7 H7 H 0 1 N N N 14.547 -85.654 -0.593 -1.905 -1.146 0.889  H7 MB8 14 
+MB8 H8 H8 H 0 1 N N N 14.072 -87.381 -0.728 -3.242 -0.383 -0.002 H8 MB8 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MB8 C  O  DOUB N N 1  
+MB8 C  O2 SING N N 2  
+MB8 C  C2 SING N N 3  
+MB8 C2 C3 SING N N 4  
+MB8 C4 C2 DOUB N Z 5  
+MB8 C4 C5 SING N N 6  
+MB8 O2 H1 SING N N 7  
+MB8 C3 H2 SING N N 8  
+MB8 C3 H3 SING N N 9  
+MB8 C3 H4 SING N N 10 
+MB8 C4 H5 SING N N 11 
+MB8 C5 H6 SING N N 12 
+MB8 C5 H7 SING N N 13 
+MB8 C5 H8 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MB8 SMILES           ACDLabs              12.01 "O=C(O)\C(=C/C)C"                                        
+MB8 InChI            InChI                1.03  "InChI=1S/C5H8O2/c1-3-4(2)5(6)7/h3H,1-2H3,(H,6,7)/b4-3-" 
+MB8 InChIKey         InChI                1.03  UIERETOOQGIECD-ARJAWSKDSA-N                              
+MB8 SMILES_CANONICAL CACTVS               3.370 "C\C=C(C)/C(O)=O"                                        
+MB8 SMILES           CACTVS               3.370 "CC=C(C)C(O)=O"                                          
+MB8 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C/C=C(/C)\C(=O)O"                                       
+MB8 SMILES           "OpenEye OEToolkits" 1.7.6 "CC=C(C)C(=O)O"                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MB8 "SYSTEMATIC NAME" ACDLabs              12.01 "(2Z)-2-methylbut-2-enoic acid" 
+MB8 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(Z)-2-methylbut-2-enoic acid"  
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MB8 "Create component" 2012-09-21 RCSB 
+MB8 "Initial release"  2014-05-07 RCSB 
+# 

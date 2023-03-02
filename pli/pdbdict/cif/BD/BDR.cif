@@ -1,0 +1,127 @@
+data_BDR
+# 
+_chem_comp.id                                    BDR 
+_chem_comp.name                                  BETA-D-RIBOFURANOSYL 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C5 H10 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.130 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BDR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AT8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BDR C4  C4  C 0 1 N N R -4.330 -2.538 4.714 0.289  -0.315 0.986  C4  BDR 1  
+BDR O   O   O 0 1 N N N -3.076 -1.837 4.556 -1.069 -0.337 0.516  O   BDR 2  
+BDR C1  C1  C 0 1 N N R -2.062 -2.772 4.202 -1.015 -0.388 -0.925 C1  BDR 3  
+BDR O1  O1  O 0 1 N Y N -0.803 -2.340 4.571 -2.244 0.072  -1.491 O1  BDR 4  
+BDR C2  C2  C 0 1 N N R -2.502 -4.036 4.948 0.147  0.573  -1.279 C2  BDR 5  
+BDR O2  O2  O 0 1 N N N -1.797 -5.278 4.800 0.718  0.238  -2.545 O2  BDR 6  
+BDR C3  C3  C 0 1 N N S -3.998 -4.041 4.547 1.153  0.302  -0.130 C3  BDR 7  
+BDR O3  O3  O 0 1 N N N -4.147 -4.337 3.155 2.163  -0.615 -0.555 O3  BDR 8  
+BDR C5  C5  C 0 1 N N N -4.986 -2.061 6.023 0.387  0.536  2.252  C5  BDR 9  
+BDR O5  O5  O 0 1 N N N -6.210 -2.713 6.332 -0.422 -0.039 3.279  O5  BDR 10 
+BDR H4  H4  H 0 1 N N N -4.994 -2.238 3.890 0.624  -1.331 1.195  H4  BDR 11 
+BDR H1  H1  H 0 1 N N N -2.137 -2.940 3.121 -0.793 -1.400 -1.265 H1  BDR 12 
+BDR HO1 HO1 H 0 1 N N N -0.126 -2.963 4.334 -2.937 -0.525 -1.180 HO1 BDR 13 
+BDR H2  H2  H 0 1 N N N -2.475 -3.770 6.024 -0.188 1.609  -1.267 H2  BDR 14 
+BDR HO2 HO2 H 0 1 N N N -1.410 -5.424 5.695 0.017  0.339  -3.203 HO2 BDR 15 
+BDR H3  H3  H 0 1 N N N -4.568 -4.742 5.177 1.604  1.234  0.209  H3  BDR 16 
+BDR HO3 HO3 H 0 1 N N N -3.943 -5.259 3.052 2.629  -0.196 -1.291 HO3 BDR 17 
+BDR H51 1H5 H 0 1 N N N -5.135 -0.966 5.970 0.039  1.547  2.039  H51 BDR 18 
+BDR H52 2H5 H 0 1 N N N -4.299 -2.247 6.858 1.425  0.573  2.586  H52 BDR 19 
+BDR H5  H5  H 0 1 N N N -6.834 -2.451 5.611 -0.331 0.526  4.057  H5  BDR 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BDR C4 O   SING N N 1  
+BDR C4 C3  SING N N 2  
+BDR C4 C5  SING N N 3  
+BDR C4 H4  SING N N 4  
+BDR O  C1  SING N N 5  
+BDR C1 O1  SING N N 6  
+BDR C1 C2  SING N N 7  
+BDR C1 H1  SING N N 8  
+BDR O1 HO1 SING N N 9  
+BDR C2 O2  SING N N 10 
+BDR C2 C3  SING N N 11 
+BDR C2 H2  SING N N 12 
+BDR O2 HO2 SING N N 13 
+BDR C3 O3  SING N N 14 
+BDR C3 H3  SING N N 15 
+BDR O3 HO3 SING N N 16 
+BDR C5 O5  SING N N 17 
+BDR C5 H51 SING N N 18 
+BDR C5 H52 SING N N 19 
+BDR O5 H5  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BDR SMILES           ACDLabs              10.04 "OC1C(OC(O)C1O)CO"                                                      
+BDR SMILES_CANONICAL CACTVS               3.341 "OC[C@H]1O[C@@H](O)[C@H](O)[C@@H]1O"                                    
+BDR SMILES           CACTVS               3.341 "OC[CH]1O[CH](O)[CH](O)[CH]1O"                                          
+BDR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@H]([C@@H](O1)O)O)O)O"                                
+BDR SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)O)O)O)O"                                                  
+BDR InChI            InChI                1.03  "InChI=1S/C5H10O5/c6-1-2-3(7)4(8)5(9)10-2/h2-9H,1H2/t2-,3-,4-,5-/m1/s1" 
+BDR InChIKey         InChI                1.03  HMFHBZSHGGEWLO-TXICZTDVSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BDR "SYSTEMATIC NAME" ACDLabs              10.04 beta-D-ribofuranose                                  
+BDR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3R,4S,5R)-5-(hydroxymethyl)oxolane-2,3,4-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BDR "Create component"  1999-07-08 EBI  
+BDR "Modify descriptor" 2011-06-04 RCSB 
+# 

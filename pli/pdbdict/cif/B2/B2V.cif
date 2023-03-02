@@ -1,0 +1,126 @@
+data_B2V
+# 
+_chem_comp.id                                    B2V 
+_chem_comp.name                                  "VALINE BORONIC ACID" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H12 B N O2" 
+_chem_comp.mon_nstd_parent_comp_id               VAL 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        116.955 
+_chem_comp.one_letter_code                       V 
+_chem_comp.three_letter_code                     B2V 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P01 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+B2V N    N    N 0 1 N N N 14.750 32.668 15.568 0.292  1.856  -0.445 N    B2V 1  
+B2V CA   CA   C 0 1 N N R 14.524 32.181 14.195 0.184  0.393  -0.517 CA   B2V 2  
+B2V CB   CB   C 0 1 N N N 15.340 32.984 13.136 1.220  -0.242 0.412  CB   B2V 3  
+B2V CG1  CG1  C 0 1 N N N 14.844 34.426 12.898 1.192  -1.763 0.244  CG1  B2V 4  
+B2V CG2  CG2  C 0 1 N N N 16.834 33.021 13.481 2.612  0.285  0.060  CG2  B2V 5  
+B2V B    B    B 0 1 N N N 14.756 30.643 14.135 -1.257 -0.048 -0.075 B    B2V 6  
+B2V O1   O1   O 0 1 N N N 14.852 30.092 12.715 -1.838 -1.223 -0.619 O1   B2V 7  
+B2V O2   O2   O 0 1 N N N 13.868 29.794 14.991 -1.978 0.729  0.870  O2   B2V 8  
+B2V HN1  HN1  H 0 1 N N N 14.208 32.124 16.209 -0.337 2.298  -1.098 HN1  B2V 9  
+B2V HN2  HN2  H 0 1 N Y N 15.720 32.583 15.796 0.128  2.184  0.495  HN2  B2V 10 
+B2V HA   HA   H 0 1 N N N 13.474 32.363 13.923 0.365  0.065  -1.541 HA   B2V 11 
+B2V HB   HB   H 0 1 N N N 15.178 32.430 12.200 0.985  0.013  1.446  HB   B2V 12 
+B2V HG11 HG11 H 0 0 N N N 15.476 34.911 12.140 1.426  -2.018 -0.789 HG11 B2V 13 
+B2V HG12 HG12 H 0 0 N N N 13.802 34.402 12.545 1.930  -2.215 0.907  HG12 B2V 14 
+B2V HG13 HG13 H 0 0 N N N 14.900 34.993 13.839 0.200  -2.138 0.495  HG13 B2V 15 
+B2V HG21 HG21 H 0 0 N N N 17.374 33.594 12.713 2.632  1.368  0.180  HG21 B2V 16 
+B2V HG22 HG22 H 0 0 N N N 16.972 33.501 14.461 3.350  -0.168 0.723  HG22 B2V 17 
+B2V HG23 HG23 H 0 0 N N N 17.228 31.994 13.516 2.847  0.029  -0.973 HG23 B2V 18 
+B2V HO1  HO1  H 0 1 N N N 14.993 29.153 12.748 -2.726 -1.413 -0.287 HO1  B2V 19 
+B2V HO2  HO2  H 0 1 N N N 14.097 28.879 14.876 -2.855 0.379  1.080  HO2  B2V 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+B2V N   CA   SING N N 1  
+B2V N   HN1  SING N N 2  
+B2V N   HN2  SING N N 3  
+B2V CA  CB   SING N N 4  
+B2V CA  B    SING N N 5  
+B2V CA  HA   SING N N 6  
+B2V CB  CG1  SING N N 7  
+B2V CB  CG2  SING N N 8  
+B2V CB  HB   SING N N 9  
+B2V CG1 HG11 SING N N 10 
+B2V CG1 HG12 SING N N 11 
+B2V CG1 HG13 SING N N 12 
+B2V CG2 HG21 SING N N 13 
+B2V CG2 HG22 SING N N 14 
+B2V CG2 HG23 SING N N 15 
+B2V B   O1   SING N N 16 
+B2V B   O2   SING N N 17 
+B2V O1  HO1  SING N N 18 
+B2V O2  HO2  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+B2V SMILES           ACDLabs              12.01 "OB(O)C(N)C(C)C"                                                    
+B2V SMILES_CANONICAL CACTVS               3.370 "CC(C)[C@H](N)B(O)O"                                                
+B2V SMILES           CACTVS               3.370 "CC(C)[CH](N)B(O)O"                                                 
+B2V SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "B([C@H](C(C)C)N)(O)O"                                              
+B2V SMILES           "OpenEye OEToolkits" 1.7.0 "B(C(C(C)C)N)(O)O"                                                  
+B2V InChI            InChI                1.03  "InChI=1S/C4H12BNO2/c1-3(2)4(6)5(7)8/h3-4,7-8H,6H2,1-2H3/t4-/m0/s1" 
+B2V InChIKey         InChI                1.03  AIUDHUUVWREDAS-BYPYZUCNSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+B2V "SYSTEMATIC NAME" ACDLabs              12.01 "[(1R)-1-amino-2-methylpropyl]boronic acid"   
+B2V "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[(1R)-1-azanyl-2-methyl-propyl]boronic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+B2V "Create component"  1999-07-08 RCSB 
+B2V "Modify descriptor" 2011-06-04 RCSB 
+# 

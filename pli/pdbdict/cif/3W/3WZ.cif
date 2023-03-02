@@ -1,0 +1,313 @@
+data_3WZ
+# 
+_chem_comp.id                                    3WZ 
+_chem_comp.name                                  "2-methyl-L-alanyl-N-[(3R,4S,5S)-1-{(2S)-2-[(1R,2R)-3-{[(1S)-1-carboxy-2-phenylethyl]amino}-1-methoxy-2-methyl-3-oxopropyl]pyrrolidin-1-yl}-3-methoxy-5-methyl-1-oxoheptan-4-yl]-N-methyl-L-valinamide" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C37 H61 N5 O8" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-12-01 
+_chem_comp.pdbx_modified_date                    2015-03-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        703.909 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3WZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4X1K 
+_chem_comp.pdbx_subcomponent_list                "AIB VAL 3WT 3WU PHE" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3WZ N5  N3  N 0 1 N N N 4.814  89.371 108.443 -5.547 4.149  1.671  N    AIB 1   
+3WZ C35 C2  C 0 1 N N N 6.245  89.105 108.289 -6.684 3.809  0.805  CA   AIB 2   
+3WZ C34 C5  C 0 1 N N N 6.706  89.318 106.768 -6.505 2.414  0.266  C    AIB 3   
+3WZ O8  O6  O 0 1 N N N 6.182  88.641 105.889 -7.471 1.701  0.095  O    AIB 4   
+3WZ C36 C1  C 0 1 N N N 6.547  87.635 108.643 -7.981 3.882  1.613  CB1  AIB 5   
+3WZ C37 C4  C 0 1 N N N 7.028  90.023 109.257 -6.752 4.800  -0.359 CB2  AIB 6   
+3WZ N4  N5  N 0 1 N N N 7.655  90.237 106.536 -5.271 1.957  -0.027 N    VAL 7   
+3WZ C30 C26 C 0 1 N N S 8.462  90.299 105.322 -5.097 0.600  -0.551 CA   VAL 8   
+3WZ C29 C25 C 0 1 N N N 9.698  89.430 105.607 -3.709 0.110  -0.227 C    VAL 9   
+3WZ O7  O5  O 0 1 N N N 10.342 89.716 106.602 -2.779 0.888  -0.217 O    VAL 10  
+3WZ C31 C30 C 0 1 N N N 8.800  91.779 104.996 -5.293 0.610  -2.068 CB   VAL 11  
+3WZ C33 C3  C 0 1 N N N 9.508  92.543 106.118 -5.137 -0.811 -2.612 CG1  VAL 12  
+3WZ C32 C6  C 0 1 N N N 9.509  91.971 103.678 -6.693 1.131  -2.398 CG2  VAL 13  
+3WZ N3  N1  N 0 1 N N N 10.078 88.382 104.827 -3.502 -1.192 0.052  N3   3WT 14  
+3WZ C6  C9  C 0 1 N N R 10.382 88.613 102.244 -1.792 -2.900 -0.323 C20  3WT 15  
+3WZ C3  C27 C 0 1 N N S 8.137  87.236 103.490 -2.198 -1.980 1.965  C21  3WT 16  
+3WZ C5  C24 C 0 1 N N S 9.610  87.850 103.428 -2.175 -1.649 0.471  C19  3WT 17  
+3WZ C7  C8  C 0 1 N N N 9.740  89.012 100.913 -0.481 -3.469 0.223  C26  3WT 18  
+3WZ C8  C14 C 0 1 N N N 10.677 88.781 99.749  0.648  -2.521 -0.091 C27  3WT 19  
+3WZ O6  O3  O 0 1 N N N 11.245 89.643 102.729 -2.825 -3.879 -0.197 O5   3WT 20  
+3WZ O1  O4  O 0 1 N N N 11.470 87.854 99.788  0.449  -1.555 -0.797 O6   3WT 21  
+3WZ C2  C28 C 0 1 N N N 8.110  85.790 103.989 -2.791 -3.376 2.168  C23  3WT 22  
+3WZ C1  C29 C 0 1 N N N 7.737  85.644 105.451 -2.622 -3.794 3.631  C24  3WT 23  
+3WZ C4  C7  C 0 1 N N N 7.113  87.473 102.388 -3.055 -0.950 2.702  C22  3WT 24  
+3WZ C28 C31 C 0 1 N N N 11.214 87.586 105.302 -4.604 -2.151 -0.065 C25  3WT 25  
+3WZ C27 C32 C 0 1 N N N 12.637 89.403 102.536 -2.886 -4.802 -1.286 C28  3WT 26  
+3WZ C10 C21 C 0 1 N N N 10.008 91.112 96.973  3.500  -3.379 2.058  C4   3WU 27  
+3WZ C15 C23 C 0 1 N N N 15.659 89.545 97.521  4.970  -0.951 -3.018 C7   3WU 28  
+3WZ C14 C22 C 0 1 N N R 14.247 89.651 96.932  4.550  -0.894 -1.548 C6   3WU 29  
+3WZ C26 C18 C 0 1 N N N 13.480 92.419 97.490  3.205  -3.596 -2.964 C9   3WU 30  
+3WZ C16 C16 C 0 1 N N N 13.969 88.293 96.224  4.095  0.502  -1.209 C8   3WU 31  
+3WZ N1  N4  N 0 1 N N N 10.695 89.642 98.688  1.878  -2.747 0.412  N1   3WU 32  
+3WZ C12 C19 C 0 1 N N S 11.710 89.554 97.633  3.063  -1.908 0.186  C2   3WU 33  
+3WZ C11 C20 C 0 1 N N N 10.981 90.110 96.408  4.229  -2.538 0.977  C3   3WU 34  
+3WZ C9  C10 C 0 1 N N N 9.701  90.689 98.403  2.257  -3.877 1.280  C1   3WU 35  
+3WZ C13 C11 C 0 1 N N R 13.124 90.036 97.954  3.403  -1.877 -1.306 C5   3WU 36  
+3WZ O5  O1  O 0 1 N N N 13.236 91.377 98.450  3.797  -3.183 -1.731 O1   3WU 37  
+3WZ O2  O2  O 0 1 N N N 14.051 87.211 96.801  2.916  0.732  -1.042 O2   3WU 38  
+3WZ N2  N2  N 0 1 N N N 13.635 88.414 94.936  4.998  1.496  -1.091 N    PHE 39  
+3WZ C17 C33 C 0 1 N N S 13.471 87.266 94.058  4.556  2.853  -0.762 CA   PHE 40  
+3WZ C25 C34 C 0 1 N N N 14.793 86.703 93.548  4.148  3.568  -2.024 C    PHE 41  
+3WZ O3  O8  O 0 1 N N N 14.846 85.754 92.775  4.220  3.002  -3.090 O    PHE 42  
+3WZ C18 C15 C 0 1 N N N 12.522 87.598 92.894  5.701  3.614  -0.092 CB   PHE 43  
+3WZ C19 C17 C 0 1 Y N N 11.090 87.802 93.322  6.026  2.969  1.231  CG   PHE 44  
+3WZ C20 C12 C 0 1 Y N N 10.420 88.978 93.012  5.379  3.384  2.380  CD1  PHE 45  
+3WZ C24 C37 C 0 1 Y N N 10.384 86.791 93.963  6.968  1.959  1.294  CD2  PHE 46  
+3WZ C21 C13 C 0 1 Y N N 9.073  89.127 93.311  5.677  2.792  3.593  CE1  PHE 47  
+3WZ C23 C36 C 0 1 Y N N 9.039  86.944 94.265  7.267  1.368  2.508  CE2  PHE 48  
+3WZ C22 C35 C 0 1 Y N N 8.382  88.108 93.934  6.623  1.786  3.657  CZ   PHE 49  
+3WZ O4  O7  O 0 1 N N N 15.852 87.292 94.056  3.705  4.834  -1.965 OXT  PHE 50  
+3WZ H25 H25 H 0 1 N N N 4.549  89.232 109.397 -5.480 3.508  2.448  H    AIB 51  
+3WZ H26 H26 H 0 1 N N N 4.620  90.315 108.177 -4.686 4.171  1.146  H2   AIB 52  
+3WZ H1  H1  H 0 1 N N N 6.247  87.439 109.683 -8.110 4.891  2.003  HB11 AIB 53  
+3WZ H2  H2  H 0 1 N N N 5.985  86.973 107.968 -8.824 3.630  0.970  HB12 AIB 54  
+3WZ H3  H3  H 0 1 N N N 7.625  87.445 108.531 -7.932 3.176  2.442  HB13 AIB 55  
+3WZ H7  H7  H 0 1 N N N 6.685  89.848 110.287 -5.828 4.749  -0.935 HB21 AIB 56  
+3WZ H8  H8  H 0 1 N N N 8.103  89.799 109.186 -7.596 4.548  -1.002 HB22 AIB 57  
+3WZ H9  H9  H 0 1 N N N 6.854  91.075 108.986 -6.882 5.810  0.031  HB23 AIB 58  
+3WZ H44 H44 H 0 1 N N N 7.820  90.926 107.242 -4.498 2.527  0.110  H2   VAL 59  
+3WZ H43 H43 H 0 1 N N N 7.907  89.867 104.476 -5.832 -0.063 -0.094 HA   VAL 60  
+3WZ H51 H51 H 0 1 N N N 7.825  92.275 104.879 -4.547 1.259  -2.526 HB   VAL 61  
+3WZ H4  H4  H 0 1 N N N 8.971  92.386 107.065 -5.821 -1.478 -2.087 HG11 VAL 62  
+3WZ H5  H5  H 0 1 N N N 10.540 92.176 106.217 -5.367 -0.820 -3.678 HG12 VAL 63  
+3WZ H6  H6  H 0 1 N N N 9.522  93.617 105.878 -4.112 -1.148 -2.459 HG13 VAL 64  
+3WZ H10 H10 H 0 1 N N N 9.712  93.041 103.522 -6.805 2.144  -2.010 HG21 VAL 65  
+3WZ H11 H11 H 0 1 N N N 10.459 91.416 103.688 -6.833 1.139  -3.479 HG22 VAL 66  
+3WZ H12 H12 H 0 1 N N N 8.874  91.596 102.862 -7.440 0.483  -1.939 HG23 VAL 67  
+3WZ H19 H19 H 0 1 N N N 11.094 87.838 101.923 -1.665 -2.638 -1.373 H23  3WT 68  
+3WZ H45 H45 H 0 1 N N N 7.701  87.784 104.338 -1.182 -1.956 2.358  H24  3WT 69  
+3WZ H42 H42 H 0 1 N N N 10.178 86.908 103.411 -1.444 -0.862 0.285  H29  3WT 70  
+3WZ H17 H17 H 0 1 N N N 9.475  90.079 100.951 -0.561 -3.593 1.303  H30  3WT 71  
+3WZ H18 H18 H 0 1 N N N 8.830  88.413 100.762 -0.283 -4.435 -0.240 H31  3WT 72  
+3WZ H46 H46 H 0 1 N N N 7.377  85.231 103.389 -3.851 -3.361 1.915  H40  3WT 73  
+3WZ H47 H47 H 0 1 N N N 9.110  85.356 103.843 -2.274 -4.088 1.525  H41  3WT 74  
+3WZ H48 H48 H 0 1 N N N 7.741  84.579 105.726 -3.044 -4.788 3.776  H42  3WT 75  
+3WZ H49 H49 H 0 1 N N N 8.466  86.186 106.071 -1.561 -3.809 3.884  H43  3WT 76  
+3WZ H50 H50 H 0 1 N N N 6.733  86.061 105.617 -3.139 -3.082 4.274  H44  3WT 77  
+3WZ H13 H13 H 0 1 N N N 6.175  86.958 102.642 -4.071 -0.974 2.309  H45  3WT 78  
+3WZ H14 H14 H 0 1 N N N 6.924  88.552 102.290 -3.071 -1.186 3.766  H46  3WT 79  
+3WZ H15 H15 H 0 1 N N N 7.501  87.081 101.436 -2.632 0.045  2.557  H47  3WT 80  
+3WZ H52 H52 H 0 1 N N N 11.540 87.961 106.283 -4.610 -2.576 -1.069 H49  3WT 81  
+3WZ H53 H53 H 0 1 N N N 10.910 86.533 105.395 -4.471 -2.947 0.667  H50  3WT 82  
+3WZ H54 H54 H 0 1 N N N 12.044 87.667 104.584 -5.550 -1.641 0.119  H51  3WT 83  
+3WZ H55 H55 H 0 1 N N N 13.215 90.247 102.940 -2.981 -4.253 -2.223 H52  3WT 84  
+3WZ H56 H56 H 0 1 N N N 12.925 88.479 103.058 -1.976 -5.402 -1.306 H53  3WT 85  
+3WZ H57 H57 H 0 1 N N N 12.845 89.298 101.461 -3.749 -5.456 -1.160 H54  3WT 86  
+3WZ H36 H36 H 0 1 N N N 10.456 92.117 96.966  4.117  -4.216 2.385  H13  3WU 87  
+3WZ H37 H37 H 0 1 N N N 9.084  91.118 96.376  3.208  -2.758 2.905  H14  3WU 88  
+3WZ H39 H39 H 0 1 N N N 15.913 90.482 98.038  5.702  -0.169 -3.217 H16  3WU 89  
+3WZ H40 H40 H 0 1 N N N 15.696 88.711 98.237  5.410  -1.925 -3.232 H17  3WU 90  
+3WZ H41 H41 H 0 1 N N N 16.381 89.366 96.711  4.095  -0.800 -3.651 H18  3WU 91  
+3WZ H38 H38 H 0 1 N N N 14.265 90.430 96.156  5.398  -1.163 -0.917 H19  3WU 92  
+3WZ H30 H30 H 0 1 N N N 13.542 93.388 98.007  3.563  -2.957 -3.771 H20  3WU 93  
+3WZ H31 H31 H 0 1 N N N 14.427 92.221 96.967  3.480  -4.630 -3.171 H21  3WU 94  
+3WZ H32 H32 H 0 1 N N N 12.657 92.445 96.761  2.121  -3.516 -2.891 H22  3WU 95  
+3WZ H33 H33 H 0 1 N N N 11.822 88.479 97.426  2.875  -0.895 0.544  H32  3WU 96  
+3WZ H35 H35 H 0 1 N N N 11.689 90.599 95.723  4.844  -1.766 1.439  H33  3WU 97  
+3WZ H34 H34 H 0 1 N N N 10.449 89.308 95.875  4.831  -3.178 0.332  H34  3WU 98  
+3WZ H20 H20 H 0 1 N N N 9.817  91.537 99.095  2.511  -4.749 0.678  H35  3WU 99  
+3WZ H21 H21 H 0 1 N N N 8.679  90.289 98.481  1.447  -4.114 1.969  H36  3WU 100 
+3WZ H22 H22 H 0 1 N N N 13.389 89.423 98.828  2.527  -1.560 -1.872 H37  3WU 101 
+3WZ H16 H16 H 0 1 N N N 13.492 89.330 94.561  5.941  1.312  -1.224 H    PHE 102 
+3WZ H58 H58 H 0 1 N N N 12.988 86.467 94.640  3.705  2.803  -0.082 HA   PHE 103 
+3WZ H28 H28 H 0 1 N N N 12.554 86.769 92.172  6.581  3.588  -0.735 HB2  PHE 104 
+3WZ H29 H29 H 0 1 N N N 12.875 88.520 92.410  5.402  4.649  0.073  HB3  PHE 105 
+3WZ H23 H23 H 0 1 N N N 10.953 89.786 92.533  4.640  4.170  2.330  HD1  PHE 106 
+3WZ H61 H61 H 0 1 N N N 10.889 85.874 94.229  7.471  1.633  0.396  HD2  PHE 107 
+3WZ H24 H24 H 0 1 N N N 8.564  90.044 93.055  5.172  3.116  4.491  HE1  PHE 108 
+3WZ H60 H60 H 0 1 N N N 8.505  86.147 94.762  8.002  0.579  2.557  HE2  PHE 109 
+3WZ H59 H59 H 0 1 N N N 7.332  88.223 94.161  6.856  1.324  4.605  HZ   PHE 110 
+3WZ H62 H62 H 0 1 N N N 16.637 86.868 93.730  3.455  5.251  -2.801 HXT  PHE 111 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3WZ O3  C25 DOUB N N 1   
+3WZ C18 C19 SING N N 2   
+3WZ C18 C17 SING N N 3   
+3WZ C20 C21 DOUB Y N 4   
+3WZ C20 C19 SING Y N 5   
+3WZ C21 C22 SING Y N 6   
+3WZ C19 C24 DOUB Y N 7   
+3WZ C25 O4  SING N N 8   
+3WZ C25 C17 SING N N 9   
+3WZ C22 C23 DOUB Y N 10  
+3WZ C24 C23 SING Y N 11  
+3WZ C17 N2  SING N N 12  
+3WZ N2  C16 SING N N 13  
+3WZ C16 O2  DOUB N N 14  
+3WZ C16 C14 SING N N 15  
+3WZ C11 C10 SING N N 16  
+3WZ C11 C12 SING N N 17  
+3WZ C14 C15 SING N N 18  
+3WZ C14 C13 SING N N 19  
+3WZ C10 C9  SING N N 20  
+3WZ C26 O5  SING N N 21  
+3WZ C12 C13 SING N N 22  
+3WZ C12 N1  SING N N 23  
+3WZ C13 O5  SING N N 24  
+3WZ C9  N1  SING N N 25  
+3WZ N1  C8  SING N N 26  
+3WZ C8  O1  DOUB N N 27  
+3WZ C8  C7  SING N N 28  
+3WZ C7  C6  SING N N 29  
+3WZ C6  O6  SING N N 30  
+3WZ C6  C5  SING N N 31  
+3WZ C4  C3  SING N N 32  
+3WZ C27 O6  SING N N 33  
+3WZ C5  C3  SING N N 34  
+3WZ C5  N3  SING N N 35  
+3WZ C3  C2  SING N N 36  
+3WZ C32 C31 SING N N 37  
+3WZ C2  C1  SING N N 38  
+3WZ N3  C28 SING N N 39  
+3WZ N3  C29 SING N N 40  
+3WZ C31 C30 SING N N 41  
+3WZ C31 C33 SING N N 42  
+3WZ C30 C29 SING N N 43  
+3WZ C30 N4  SING N N 44  
+3WZ C29 O7  DOUB N N 45  
+3WZ O8  C34 DOUB N N 46  
+3WZ N4  C34 SING N N 47  
+3WZ C34 C35 SING N N 48  
+3WZ C35 N5  SING N N 49  
+3WZ C35 C36 SING N N 50  
+3WZ C35 C37 SING N N 51  
+3WZ C36 H1  SING N N 52  
+3WZ C36 H2  SING N N 53  
+3WZ C36 H3  SING N N 54  
+3WZ C33 H4  SING N N 55  
+3WZ C33 H5  SING N N 56  
+3WZ C33 H6  SING N N 57  
+3WZ C37 H7  SING N N 58  
+3WZ C37 H8  SING N N 59  
+3WZ C37 H9  SING N N 60  
+3WZ C32 H10 SING N N 61  
+3WZ C32 H11 SING N N 62  
+3WZ C32 H12 SING N N 63  
+3WZ C4  H13 SING N N 64  
+3WZ C4  H14 SING N N 65  
+3WZ C4  H15 SING N N 66  
+3WZ N2  H16 SING N N 67  
+3WZ C7  H17 SING N N 68  
+3WZ C7  H18 SING N N 69  
+3WZ C6  H19 SING N N 70  
+3WZ C9  H20 SING N N 71  
+3WZ C9  H21 SING N N 72  
+3WZ C13 H22 SING N N 73  
+3WZ C20 H23 SING N N 74  
+3WZ C21 H24 SING N N 75  
+3WZ N5  H25 SING N N 76  
+3WZ N5  H26 SING N N 77  
+3WZ C18 H28 SING N N 78  
+3WZ C18 H29 SING N N 79  
+3WZ C26 H30 SING N N 80  
+3WZ C26 H31 SING N N 81  
+3WZ C26 H32 SING N N 82  
+3WZ C12 H33 SING N N 83  
+3WZ C11 H34 SING N N 84  
+3WZ C11 H35 SING N N 85  
+3WZ C10 H36 SING N N 86  
+3WZ C10 H37 SING N N 87  
+3WZ C14 H38 SING N N 88  
+3WZ C15 H39 SING N N 89  
+3WZ C15 H40 SING N N 90  
+3WZ C15 H41 SING N N 91  
+3WZ C5  H42 SING N N 92  
+3WZ C30 H43 SING N N 93  
+3WZ N4  H44 SING N N 94  
+3WZ C3  H45 SING N N 95  
+3WZ C2  H46 SING N N 96  
+3WZ C2  H47 SING N N 97  
+3WZ C1  H48 SING N N 98  
+3WZ C1  H49 SING N N 99  
+3WZ C1  H50 SING N N 100 
+3WZ C31 H51 SING N N 101 
+3WZ C28 H52 SING N N 102 
+3WZ C28 H53 SING N N 103 
+3WZ C28 H54 SING N N 104 
+3WZ C27 H55 SING N N 105 
+3WZ C27 H56 SING N N 106 
+3WZ C27 H57 SING N N 107 
+3WZ C17 H58 SING N N 108 
+3WZ C22 H59 SING N N 109 
+3WZ C23 H60 SING N N 110 
+3WZ C24 H61 SING N N 111 
+3WZ O4  H62 SING N N 112 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3WZ SMILES           ACDLabs              12.01 "O=C(N2C(C(OC)C(C(=O)NC(C(=O)O)Cc1ccccc1)C)CCC2)CC(OC)C(N(C(=O)C(NC(=O)C(N)(C)C)C(C)C)C)C(C)CC" 
+3WZ InChI            InChI                1.03  
+;InChI=1S/C37H61N5O8/c1-11-23(4)31(41(8)34(45)30(22(2)3)40-36(48)37(6,7)38)28(49-9)21-29(43)42-19-15-18-27(42)32(50-10)24(5)33(44)39-26(35(46)47)20-25-16-13-12-14-17-25/h12-14,16-17,22-24,26-28,30-32H,11,15,18-21,38H2,1-10H3,(H,39,44)(H,40,48)(H,46,47)/t23-,24+,26-,27-,28+,30-,31-,32+/m0/s1
+;
+3WZ InChIKey         InChI                1.03  GWCZDVOUHUUMOE-RWBRZFBUSA-N 
+3WZ SMILES_CANONICAL CACTVS               3.385 "CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@H](OC)[C@@H](C)C(=O)N[C@@H](Cc2ccccc2)C(O)=O)OC)N(C)C(=O)[C@@H](NC(=O)C(C)(C)N)C(C)C" 
+3WZ SMILES           CACTVS               3.385 "CC[CH](C)[CH]([CH](CC(=O)N1CCC[CH]1[CH](OC)[CH](C)C(=O)N[CH](Cc2ccccc2)C(O)=O)OC)N(C)C(=O)[CH](NC(=O)C(C)(C)N)C(C)C" 
+3WZ SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@@H]([C@@H](C)C(=O)N[C@@H](Cc2ccccc2)C(=O)O)OC)OC)N(C)C(=O)[C@H](C(C)C)NC(=O)C(C)(C)N" 
+3WZ SMILES           "OpenEye OEToolkits" 1.9.2 "CCC(C)C(C(CC(=O)N1CCCC1C(C(C)C(=O)NC(Cc2ccccc2)C(=O)O)OC)OC)N(C)C(=O)C(C(C)C)NC(=O)C(C)(C)N" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3WZ "SYSTEMATIC NAME" ACDLabs              12.01 "2-methyl-L-alanyl-N-[(3R,4S,5S)-1-{(2S)-2-[(1R,2R)-3-{[(1S)-1-carboxy-2-phenylethyl]amino}-1-methoxy-2-methyl-3-oxopropyl]pyrrolidin-1-yl}-3-methoxy-5-methyl-1-oxoheptan-4-yl]-N-methyl-L-valinamide" 
+3WZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 
+"(2S)-2-[[(2R,3R)-3-[(2S)-1-[(3R,4S,5S)-4-[[(2S)-2-[(2-azanyl-2-methyl-propanoyl)amino]-3-methyl-butanoyl]-methyl-amino]-3-methoxy-5-methyl-heptanoyl]pyrrolidin-2-yl]-3-methoxy-2-methyl-propanoyl]amino]-3-phenyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3WZ "Create component" 2014-12-01 RCSB 
+3WZ "Initial release"  2015-03-25 RCSB 
+# 

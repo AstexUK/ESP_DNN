@@ -1,0 +1,190 @@
+data_HCV
+# 
+_chem_comp.id                                    HCV 
+_chem_comp.name                                  "N-[(5S)-5-amino-5-carboxypentanoyl]-L-homocysteyl-D-valine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H27 N3 O6 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Delta-L-alpha-aminoadipoyl-L-homocysteinyl-D-valine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-01-24 
+_chem_comp.pdbx_modified_date                    2013-02-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        377.456 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HCV 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3ZKU 
+_chem_comp.pdbx_subcomponent_list                "UN1 HCS DVA" 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HCV C8   C8   C 0 1 N N N 12.326 39.150 5.562 -1.265 -0.007 0.042  "C1'" UN1 1  
+HCV O1   O1   O 0 1 N N N 13.025 39.807 4.792 -1.342 -0.573 1.112  "O1'" UN1 2  
+HCV O2   O2   O 0 1 N N N 17.301 35.976 4.362 -8.198 0.607  -0.692 O58   UN1 3  
+HCV C9   C9   C 0 1 N N N 12.928 38.460 6.765 -2.504 0.558  -0.603 C1    UN1 4  
+HCV C13  C13  C 0 1 N N N 17.180 36.487 5.432 -7.401 1.252  -0.052 C3    UN1 5  
+HCV C12  C12  C 0 1 N N S 15.870 36.312 6.242 -6.184 0.582  0.530  C4    UN1 6  
+HCV C11  C11  C 0 1 N N N 15.006 37.388 5.656 -4.973 0.857  -0.364 C5    UN1 7  
+HCV C10  C10  C 0 1 N N N 13.650 37.173 6.387 -3.715 0.283  0.291  C6    UN1 8  
+HCV N2   N2   N 0 1 N N N 15.890 36.555 7.685 -6.414 -0.867 0.612  N4    UN1 9  
+HCV O3   O3   O 0 1 N N N 18.061 37.255 5.941 -7.601 2.566  0.138  "O5'" UN1 10 
+HCV N1   N1   N 0 1 N N N 11.019 38.940 5.364 -0.070 0.122  -0.567 N     HCS 11 
+HCV C5   C5   C 0 1 N N S 10.107 39.927 4.783 1.135  -0.427 0.060  CA    HCS 12 
+HCV C6   C6   C 0 1 N N N 10.818 41.250 4.534 1.273  -1.906 -0.308 CB    HCS 13 
+HCV C7   C7   C 0 1 N N N 11.131 41.845 5.931 0.108  -2.692 0.297  CG    HCS 14 
+HCV S    S    S 0 1 N N N 10.621 40.772 7.302 0.270  -4.445 -0.139 SD    HCS 15 
+HCV C4   C4   C 0 1 N N N 9.373  39.324 3.588 2.345  0.327  -0.430 C     HCS 16 
+HCV O    O    O 0 1 N N N 9.369  39.831 2.434 2.213  1.234  -1.225 O     HCS 17 
+HCV N    N    N 0 1 N N N 8.591  38.303 3.969 3.572  -0.006 0.015  N     DVA 18 
+HCV C3   C3   C 0 1 N N R 7.333  38.687 4.575 4.748  0.727  -0.462 CA    DVA 19 
+HCV C1   C1   C 0 1 N N N 6.879  40.014 3.923 5.986  -0.164 -0.344 CB    DVA 20 
+HCV C    C    C 0 1 N N N 6.197  39.814 2.523 7.214  0.601  -0.842 CG1   DVA 21 
+HCV C2   C2   C 0 1 N N N 5.997  40.827 4.874 6.192  -0.562 1.119  CG2   DVA 22 
+HCV C14  C14  C 0 1 N N N 7.416  38.778 6.090 4.940  1.966  0.374  C     DVA 23 
+HCV O5   O5   O 0 1 N N N 8.616  38.730 6.683 4.173  2.212  1.275  O     DVA 24 
+HCV O4   O4   O 0 1 N N N 6.363  38.884 6.709 5.963  2.797  0.117  OXT   DVA 25 
+HCV H9   H9   H 0 1 N N N 13.647 39.142 7.242 -2.387 1.634  -0.735 H1C1  UN1 26 
+HCV H9A  H9A  H 0 1 N N N 12.123 38.220 7.475 -2.655 0.087  -1.574 H1C2  UN1 27 
+HCV H12  H12  H 0 1 N N N 15.438 35.324 6.025 -5.995 0.977  1.529  H4    UN1 28 
+HCV H11  H11  H 0 1 N N N 14.895 37.260 4.569 -5.124 0.386  -1.335 H5C1  UN1 29 
+HCV H11A H11A H 0 0 N N N 15.417 38.386 5.868 -4.856 1.932  -0.496 H5C2  UN1 30 
+HCV H10  H10  H 0 1 N N N 13.842 36.603 7.308 -3.832 -0.792 0.424  H6C1  UN1 31 
+HCV H10A H10A H 0 0 N N N 12.991 36.590 5.726 -3.564 0.755  1.262  H6C2  UN1 32 
+HCV HN2  HN2  H 0 1 N N N 16.456 35.862 8.132 -7.168 -1.078 1.248  H4N1  UN1 33 
+HCV HN2A HN2A H 0 0 N N N 16.270 37.462 7.865 -6.591 -1.256 -0.302 H4N2  UN1 34 
+HCV HO3  HO3  H 0 1 N N N 18.793 37.340 5.341 -8.396 2.951  -0.255 "H5'" UN1 35 
+HCV HN1  HN1  H 0 1 N N N 10.642 38.053 5.630 -0.007 0.579  -1.421 H     HCS 36 
+HCV H5   H5   H 0 1 N N N 9.337  40.132 5.541 1.059  -0.327 1.143  HCA   HCS 37 
+HCV H6   H6   H 0 1 N N N 11.750 41.082 3.974 1.260  -2.013 -1.392 HB2   HCS 38 
+HCV H6A  H6A  H 0 1 N N N 10.167 41.932 3.967 2.214  -2.292 0.084  HB3   HCS 39 
+HCV H7   H7   H 0 1 N N N 10.605 42.806 6.026 0.120  -2.584 1.382  HG2   HCS 40 
+HCV H7A  H7A  H 0 1 N N N 12.216 42.012 6.004 -0.834 -2.306 -0.095 HG3   HCS 41 
+HCV HS   HS   H 0 1 N N N 9.750  39.996 6.728 -0.803 -5.004 0.449  HD    HCS 42 
+HCV HN   HN   H 0 1 N N N 8.857  37.347 3.844 3.678  -0.731 0.650  H     DVA 43 
+HCV H3   H3   H 0 1 N N N 6.579  37.926 4.328 4.602  1.010  -1.504 HA    DVA 44 
+HCV H1   H1   H 0 1 N N N 7.788  40.607 3.745 5.848  -1.061 -0.948 HB    DVA 45 
+HCV H    H    H 0 1 N N N 5.899  40.792 2.116 7.353  1.498  -0.237 HG11  DVA 46 
+HCV HA   HA   H 0 1 N N N 6.907  39.332 1.835 8.097  -0.034 -0.758 HG12  DVA 47 
+HCV HB   HB   H 0 1 N N N 5.307  39.178 2.636 7.068  0.884  -1.884 HG13  DVA 48 
+HCV H2   H2   H 0 1 N N N 6.509  40.944 5.840 6.330  0.335  1.723  HG21  DVA 49 
+HCV H2A  H2A  H 0 1 N N N 5.805  41.819 4.438 5.317  -1.107 1.473  HG22  DVA 50 
+HCV H2B  H2B  H 0 1 N N N 5.042  40.303 5.027 7.074  -1.197 1.203  HG23  DVA 51 
+HCV HO4  HO4  H 0 1 N N N 6.545  38.924 7.640 6.045  3.579  0.680  HXT   DVA 52 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HCV C   C1   SING N N 1  
+HCV C   H    SING N N 2  
+HCV C   HA   SING N N 3  
+HCV C   HB   SING N N 4  
+HCV C4  N    SING N N 5  
+HCV N   C3   SING N N 6  
+HCV N   HN   SING N N 7  
+HCV O   C4   DOUB N N 8  
+HCV C7  S    SING N N 9  
+HCV S   HS   SING N N 10 
+HCV C1  C3   SING N N 11 
+HCV C1  C2   SING N N 12 
+HCV C1  H1   SING N N 13 
+HCV C5  N1   SING N N 14 
+HCV N1  C8   SING N N 15 
+HCV N1  HN1  SING N N 16 
+HCV O1  C8   DOUB N N 17 
+HCV C2  H2   SING N N 18 
+HCV C2  H2A  SING N N 19 
+HCV C2  H2B  SING N N 20 
+HCV C12 N2   SING N N 21 
+HCV N2  HN2  SING N N 22 
+HCV N2  HN2A SING N N 23 
+HCV O2  C13  DOUB N N 24 
+HCV C3  C14  SING N N 25 
+HCV C3  H3   SING N N 26 
+HCV C13 O3   SING N N 27 
+HCV O3  HO3  SING N N 28 
+HCV C4  C5   SING N N 29 
+HCV C14 O4   SING N N 30 
+HCV O4  HO4  SING N N 31 
+HCV C6  C5   SING N N 32 
+HCV C5  H5   SING N N 33 
+HCV C14 O5   DOUB N N 34 
+HCV C6  C7   SING N N 35 
+HCV C6  H6   SING N N 36 
+HCV C6  H6A  SING N N 37 
+HCV C7  H7   SING N N 38 
+HCV C7  H7A  SING N N 39 
+HCV C8  C9   SING N N 40 
+HCV C10 C9   SING N N 41 
+HCV C9  H9   SING N N 42 
+HCV C9  H9A  SING N N 43 
+HCV C11 C10  SING N N 44 
+HCV C10 H10  SING N N 45 
+HCV C10 H10A SING N N 46 
+HCV C11 C12  SING N N 47 
+HCV C11 H11  SING N N 48 
+HCV C11 H11A SING N N 49 
+HCV C13 C12  SING N N 50 
+HCV C12 H12  SING N N 51 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HCV SMILES           ACDLabs              12.01 "O=C(NC(C(=O)O)C(C)C)C(NC(=O)CCCC(C(=O)O)N)CCS"                                                                                                                              
+HCV InChI            InChI                1.03  "InChI=1S/C15H27N3O6S/c1-8(2)12(15(23)24)18-13(20)10(6-7-25)17-11(19)5-3-4-9(16)14(21)22/h8-10,12,25H,3-7,16H2,1-2H3,(H,17,19)(H,18,20)(H,21,22)(H,23,24)/t9-,10-,12+/m0/s1" 
+HCV InChIKey         InChI                1.03  WDPVNDRNBJNETA-JBLDHEPKSA-N                                                                                                                                                  
+HCV SMILES_CANONICAL CACTVS               3.370 "CC(C)[C@@H](NC(=O)[C@H](CCS)NC(=O)CCC[C@H](N)C(O)=O)C(O)=O"                                                                                                                 
+HCV SMILES           CACTVS               3.370 "CC(C)[CH](NC(=O)[CH](CCS)NC(=O)CCC[CH](N)C(O)=O)C(O)=O"                                                                                                                     
+HCV SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(C)[C@H](C(=O)O)NC(=O)[C@H](CCS)NC(=O)CCC[C@@H](C(=O)O)N"                                                                                                                 
+HCV SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C)C(C(=O)O)NC(=O)C(CCS)NC(=O)CCCC(C(=O)O)N"                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HCV "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(5S)-5-amino-5-carboxypentanoyl]-L-homocysteyl-D-valine"                                                                                                       
+HCV "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-azanyl-6-[[(2S)-1-[[(2R)-3-methyl-1-oxidanyl-1-oxidanylidene-butan-2-yl]amino]-1-oxidanylidene-4-sulfanyl-butan-2-yl]amino]-6-oxidanylidene-hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HCV "Create component" 2013-01-24 EBI  
+HCV "Initial release"  2013-02-01 RCSB 
+# 

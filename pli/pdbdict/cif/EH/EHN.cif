@@ -1,0 +1,103 @@
+data_EHN
+# 
+_chem_comp.id                                    EHN 
+_chem_comp.name                                  ETHANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-11-01 
+_chem_comp.pdbx_modified_date                    2014-10-08 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        30.069 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EHN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1N4B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EHN C1 C1 C 0 1 N N N 5.345 -0.046 19.346 0.765  0.000  -0.000 C1 EHN 1 
+EHN C2 C2 C 0 1 N N N 5.193 -0.881 18.290 -0.765 -0.000 -0.000 C2 EHN 2 
+EHN H1 H1 H 0 1 N N N 5.386 -0.633 20.275 1.128  -0.010 1.028  H1 EHN 3 
+EHN H2 H2 H 0 1 N N N 6.279 0.524  19.231 1.128  -0.885 -0.522 H2 EHN 4 
+EHN H3 H3 H 0 1 N N N 4.494 0.649  19.389 1.128  0.895  -0.505 H3 EHN 5 
+EHN H4 H4 H 0 1 N N N 5.152 -0.294 17.361 -1.128 0.885  0.522  H4 EHN 6 
+EHN H5 H5 H 0 1 N N N 6.044 -1.576 18.247 -1.128 0.010  -1.028 H5 EHN 7 
+EHN H6 H6 H 0 1 N N N 4.259 -1.451 18.405 -1.128 -0.895 0.505  H6 EHN 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EHN C1 C2 SING N N 1 
+EHN C1 H1 SING N N 2 
+EHN C1 H2 SING N N 3 
+EHN C1 H3 SING N N 4 
+EHN C2 H4 SING N N 5 
+EHN C2 H5 SING N N 6 
+EHN C2 H6 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EHN SMILES           ACDLabs              12.01 CC                          
+EHN InChI            InChI                1.03  InChI=1S/C2H6/c1-2/h1-2H3   
+EHN InChIKey         InChI                1.03  OTMSDBZUPAUEDD-UHFFFAOYSA-N 
+EHN SMILES_CANONICAL CACTVS               3.385 CC                          
+EHN SMILES           CACTVS               3.385 CC                          
+EHN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CC                          
+EHN SMILES           "OpenEye OEToolkits" 1.7.6 CC                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EHN "SYSTEMATIC NAME" ACDLabs              12.01 ethane 
+EHN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 ethane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EHN "Create component"   2002-11-01 RCSB 
+EHN "Modify descriptor"  2011-06-04 RCSB 
+EHN "Obsolete component" 2014-10-18 RCSB 
+# 

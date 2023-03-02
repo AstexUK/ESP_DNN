@@ -1,0 +1,104 @@
+data_MCR
+# 
+_chem_comp.id                                    MCR 
+_chem_comp.name                                  "SULFANYLACETIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H4 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "MERCAPTOACETIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-02-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        92.117 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MCR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MCR O1  O1  O 0 1 N N N ?      ?      ?      -0.359 2.584  -1.205 O1  MCR 1 
+MCR C1  C1  C 0 1 N N N 19.614 53.050 43.304 -0.437 1.302  -1.644 C1  MCR 2 
+MCR O2  O2  O 0 1 N N N 18.664 52.430 42.816 -1.192 0.942  -2.538 O2  MCR 3 
+MCR C2  C2  C 0 1 N N N 20.530 52.337 44.276 0.488  0.379  -0.903 C2  MCR 4 
+MCR S2  S2  S 0 1 N N N 22.199 52.306 43.539 0.979  -0.976 -1.989 S2  MCR 5 
+MCR HO1 HO1 H 0 1 N N N 0.730  0.477  0.375  -0.959 3.213  -1.660 HO1 MCR 6 
+MCR H21 1H2 H 0 1 N N N 20.514 52.786 45.296 1.372  0.941  -0.586 H21 MCR 7 
+MCR H22 2H2 H 0 1 N N N 20.160 51.323 44.556 -0.000 0.000  0.000  H22 MCR 8 
+MCR HS2 HS2 H 0 1 N N N 22.773 51.858 44.148 1.950  -1.459 -1.201 HS2 MCR 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MCR O1 C1  SING N N 1 
+MCR O1 HO1 SING N N 2 
+MCR C1 O2  DOUB N N 3 
+MCR C1 C2  SING N N 4 
+MCR C2 S2  SING N N 5 
+MCR C2 H21 SING N N 6 
+MCR C2 H22 SING N N 7 
+MCR S2 HS2 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MCR SMILES           ACDLabs              10.04 "O=C(O)CS"                                    
+MCR SMILES_CANONICAL CACTVS               3.341 "OC(=O)CS"                                    
+MCR SMILES           CACTVS               3.341 "OC(=O)CS"                                    
+MCR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)S"                                  
+MCR SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)S"                                  
+MCR InChI            InChI                1.03  "InChI=1S/C2H4O2S/c3-2(4)1-5/h5H,1H2,(H,3,4)" 
+MCR InChIKey         InChI                1.03  CWERGRDVMFNCDR-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MCR "SYSTEMATIC NAME" ACDLabs              10.04 "sulfanylacetic acid"     
+MCR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-sulfanylethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MCR "Create component"  2003-02-12 RCSB 
+MCR "Modify descriptor" 2011-06-04 RCSB 
+# 

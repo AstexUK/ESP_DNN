@@ -1,0 +1,173 @@
+data_HIN
+# 
+_chem_comp.id                                    HIN 
+_chem_comp.name                                  "(2S) N-ACETYL-L-ALANYL-ALPHAL-PHENYLALANYL-CHLOROETHYLKETONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H21 Cl N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        324.803 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HIN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2GMT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HIN C1    C1    C  0 1 N N N 35.365 74.787 83.910 3.585  -4.496 1.725  C1    HIN 1  
+HIN C2    C2    C  0 1 N N N 36.490 74.319 84.893 2.567  -3.884 0.774  C2    HIN 2  
+HIN C3    C3    C  0 1 N N N 35.937 73.657 86.135 2.237  -2.428 1.075  C3    HIN 3  
+HIN C4    C4    C  0 1 N N S 35.717 74.527 87.331 1.284  -1.742 0.103  C4    HIN 4  
+HIN N5    N5    N  0 1 N N N 34.632 73.939 88.049 0.486  -0.846 0.902  N5    HIN 5  
+HIN C6    C6    C  0 1 N N N 33.386 74.388 88.012 -0.890 -0.985 1.040  C6    HIN 6  
+HIN C7    C7    C  0 1 N N S 32.503 73.499 88.875 -1.483 0.061  1.975  C7    HIN 7  
+HIN N8    N8    N  0 1 N N N 31.074 73.711 88.753 -2.813 0.363  1.517  N8    HIN 8  
+HIN C9    C9    C  0 1 N N N 30.203 72.957 89.424 -3.090 1.332  0.567  C9    HIN 9  
+HIN C10   C10   C  0 1 N N N 28.697 73.285 89.253 -4.540 1.474  0.241  C10   HIN 10 
+HIN C11   C11   C  0 1 N N N 32.959 72.040 88.777 -1.492 -0.436 3.412  C11   HIN 11 
+HIN C12   C12   C  0 1 N N N 36.932 74.363 88.248 2.036  -0.976 -0.987 C12   HIN 12 
+HIN "C1'" "C1'" C  0 1 Y N N 36.899 75.396 89.312 1.169  -0.627 -2.171 "C1'" HIN 13 
+HIN "C2'" "C2'" C  0 1 Y N N 36.623 76.712 88.929 1.077  -1.514 -3.232 "C2'" HIN 14 
+HIN "C3'" "C3'" C  0 1 Y N N 36.621 77.718 89.898 0.274  -1.191 -4.326 "C3'" HIN 15 
+HIN "C4'" "C4'" C  0 1 Y N N 36.889 77.392 91.240 -0.426 0.015  -4.346 "C4'" HIN 16 
+HIN "C5'" "C5'" C  0 1 Y N N 37.068 76.087 91.645 -0.324 0.899  -3.271 "C5'" HIN 17 
+HIN "C6'" "C6'" C  0 1 Y N N 37.107 75.092 90.664 0.479  0.576  -2.177 "C6'" HIN 18 
+HIN O3    O3    O  0 1 N N N 35.873 72.424 86.266 2.725  -1.827 2.033  O3    HIN 19 
+HIN O6    O6    O  0 1 N N N 32.983 75.384 87.353 -1.561 -1.868 0.509  O6    HIN 20 
+HIN O9    O9    O  0 1 N N N 30.535 72.007 90.141 -2.271 2.046  0.000  O9    HIN 21 
+HIN CL    CL    CL 0 0 N N N ?      ?      ?      3.935  -6.189 1.298  CL    HIN 22 
+HIN H11   1H1   H  0 1 N N N 34.478 75.116 84.501 3.237  -4.477 2.762  H11   HIN 23 
+HIN H12   2H1   H  0 1 N N N 35.673 75.747 83.435 4.531  -3.948 1.669  H12   HIN 24 
+HIN H21   1H2   H  0 1 N N N 37.222 73.655 84.377 1.641  -4.469 0.785  H21   HIN 25 
+HIN H22   2H2   H  0 1 N N N 37.168 75.163 85.157 2.971  -3.912 -0.244 H22   HIN 26 
+HIN H4    H4    H  0 1 N N N 35.542 75.589 87.039 0.595  -2.481 -0.319 H4    HIN 27 
+HIN HN5   HN5   H  0 1 N N N 34.759 73.120 88.644 0.952  -0.060 1.348  HN5   HIN 28 
+HIN H7    H7    H  0 1 N N N 32.661 73.826 89.929 -0.904 0.988  1.900  H7    HIN 29 
+HIN HN8   HN8   H  0 1 N N N 30.658 74.430 88.162 -3.591 -0.163 1.911  HN8   HIN 30 
+HIN H101  1H10  H  0 0 N N N 27.968 72.654 89.814 -4.919 2.489  0.442  H101  HIN 31 
+HIN H102  2H10  H  0 0 N N N 28.522 74.358 89.498 -4.751 1.290  -0.825 H102  HIN 32 
+HIN H103  3H10  H  0 0 N N N 28.437 73.274 88.168 -5.215 0.799  0.791  H103  HIN 33 
+HIN H111  1H11  H  0 0 N N N 32.311 71.388 89.409 -2.059 -1.370 3.505  H111  HIN 34 
+HIN H112  2H11  H  0 0 N N N 32.997 71.686 87.720 -0.476 -0.629 3.772  H112  HIN 35 
+HIN H113  3H11  H  0 0 N N N 34.038 71.924 89.029 -1.955 0.301  4.077  H113  HIN 36 
+HIN H121  1H12  H  0 0 N N N 37.006 73.332 88.666 2.481  -0.061 -0.573 H121  HIN 37 
+HIN H122  2H12  H  0 0 N N N 37.891 74.375 87.680 2.885  -1.573 -1.346 H122  HIN 38 
+HIN "H2'" "H2'" H  0 1 N N N 36.409 76.953 87.874 1.618  -2.456 -3.225 "H2'" HIN 39 
+HIN "H3'" "H3'" H  0 1 N N N 36.409 78.760 89.606 0.195  -1.879 -5.163 "H3'" HIN 40 
+HIN "H4'" "H4'" H  0 1 N N N 36.961 78.187 92.001 -1.050 0.266  -5.198 "H4'" HIN 41 
+HIN "H5'" "H5'" H  0 1 N N N 37.176 75.847 92.716 -0.869 1.838  -3.287 "H5'" HIN 42 
+HIN "H6'" "H6'" H  0 1 N N N 37.305 74.048 90.962 0.552  1.270  -1.344 "H6'" HIN 43 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HIN C1    C2    SING N N 1  
+HIN C1    CL    SING N N 2  
+HIN C1    H11   SING N N 3  
+HIN C1    H12   SING N N 4  
+HIN C2    C3    SING N N 5  
+HIN C2    H21   SING N N 6  
+HIN C2    H22   SING N N 7  
+HIN C3    C4    SING N N 8  
+HIN C3    O3    DOUB N N 9  
+HIN C4    N5    SING N N 10 
+HIN C4    C12   SING N N 11 
+HIN C4    H4    SING N N 12 
+HIN N5    C6    SING N N 13 
+HIN N5    HN5   SING N N 14 
+HIN C6    C7    SING N N 15 
+HIN C6    O6    DOUB N N 16 
+HIN C7    N8    SING N N 17 
+HIN C7    C11   SING N N 18 
+HIN C7    H7    SING N N 19 
+HIN N8    C9    SING N N 20 
+HIN N8    HN8   SING N N 21 
+HIN C9    C10   SING N N 22 
+HIN C9    O9    DOUB N N 23 
+HIN C10   H101  SING N N 24 
+HIN C10   H102  SING N N 25 
+HIN C10   H103  SING N N 26 
+HIN C11   H111  SING N N 27 
+HIN C11   H112  SING N N 28 
+HIN C11   H113  SING N N 29 
+HIN C12   "C1'" SING N N 30 
+HIN C12   H121  SING N N 31 
+HIN C12   H122  SING N N 32 
+HIN "C1'" "C2'" DOUB Y N 33 
+HIN "C1'" "C6'" SING Y N 34 
+HIN "C2'" "C3'" SING Y N 35 
+HIN "C2'" "H2'" SING N N 36 
+HIN "C3'" "C4'" DOUB Y N 37 
+HIN "C3'" "H3'" SING N N 38 
+HIN "C4'" "C5'" SING Y N 39 
+HIN "C4'" "H4'" SING N N 40 
+HIN "C5'" "C6'" DOUB Y N 41 
+HIN "C5'" "H5'" SING N N 42 
+HIN "C6'" "H6'" SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HIN SMILES           ACDLabs              10.04 "ClCCC(=O)C(NC(=O)C(NC(=O)C)C)Cc1ccccc1"                                                                                                        
+HIN SMILES_CANONICAL CACTVS               3.341 "C[C@H](NC(C)=O)C(=O)N[C@@H](Cc1ccccc1)C(=O)CCCl"                                                                                               
+HIN SMILES           CACTVS               3.341 "C[CH](NC(C)=O)C(=O)N[CH](Cc1ccccc1)C(=O)CCCl"                                                                                                  
+HIN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](C(=O)N[C@@H](Cc1ccccc1)C(=O)CCCl)NC(=O)C"                                                                                              
+HIN SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(=O)NC(Cc1ccccc1)C(=O)CCCl)NC(=O)C"                                                                                                        
+HIN InChI            InChI                1.03  "InChI=1S/C16H21ClN2O3/c1-11(18-12(2)20)16(22)19-14(15(21)8-9-17)10-13-6-4-3-5-7-13/h3-7,11,14H,8-10H2,1-2H3,(H,18,20)(H,19,22)/t11-,14-/m0/s1" 
+HIN InChIKey         InChI                1.03  WABWAIGLGFELMI-FZMZJTMJSA-N                                                                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HIN "SYSTEMATIC NAME" ACDLabs              10.04 "N~2~-acetyl-N-[(1S)-1-benzyl-4-chloro-2-oxobutyl]-L-alaninamide"          
+HIN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-acetamido-N-[(2S)-5-chloro-3-oxo-1-phenyl-pentan-2-yl]propanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HIN "Create component"  1999-07-08 RCSB 
+HIN "Modify descriptor" 2011-06-04 RCSB 
+# 

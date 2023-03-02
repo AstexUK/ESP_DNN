@@ -1,0 +1,119 @@
+data_TB6
+# 
+_chem_comp.id                                    TB6 
+_chem_comp.name                                  "[(2R)-2-hydroxypropyl]phosphonic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H9 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-06-09 
+_chem_comp.pdbx_modified_date                    2011-07-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        140.075 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TB6 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3SCG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TB6 C1   C1   C 0 1 N N N 115.363 66.823 0.541  3.018  -0.846 -0.119 C1   TB6 1  
+TB6 C2   C2   C 0 1 N N R 114.841 67.673 1.691  1.706  -0.154 0.255  C2   TB6 2  
+TB6 C6   C6   C 0 1 N N N 115.477 69.065 1.689  0.553  -0.794 -0.520 C6   TB6 3  
+TB6 P7   P7   P 0 1 N N N 114.838 70.105 3.054  -1.027 -0.072 0.034  P7   TB6 4  
+TB6 O10  O10  O 0 1 N N N 115.152 67.026 2.900  1.789  1.234  -0.075 O10  TB6 5  
+TB6 O12  O12  O 0 1 N N N 115.443 71.418 3.079  -1.068 1.490  -0.355 O12  TB6 6  
+TB6 O13  O13  O 0 1 N N N 115.029 69.353 4.411  -2.248 -0.837 -0.685 O13  TB6 7  
+TB6 O14  O14  O 0 1 N N N 113.286 70.145 3.019  -1.148 -0.218 1.501  O14  TB6 8  
+TB6 H1   H1   H 0 1 N N N 114.887 65.832 0.572  3.840  -0.389 0.433  H1   TB6 9  
+TB6 H1A  H1A  H 0 1 N N N 115.126 67.314 -0.414 2.955  -1.904 0.133  H1A  TB6 10 
+TB6 H1B  H1B  H 0 1 N N N 116.453 66.709 0.635  3.195  -0.737 -1.189 H1B  TB6 11 
+TB6 H2   H2   H 0 1 N N N 113.754 67.794 1.577  1.530  -0.262 1.325  H2   TB6 12 
+TB6 H6   H6   H 0 1 N N N 116.565 68.956 1.808  0.684  -0.608 -1.586 H6   TB6 13 
+TB6 H6A  H6A  H 0 1 N N N 115.246 69.557 0.733  0.545  -1.869 -0.337 H6A  TB6 14 
+TB6 HO10 HO10 H 0 0 N N N 114.832 67.545 3.629  2.500  1.705  0.380  HO10 TB6 15 
+TB6 HO12 HO12 H 0 0 N N N 114.763 72.081 3.069  -0.993 1.661  -1.304 HO12 TB6 16 
+TB6 HO13 HO13 H 0 0 N N N 114.179 69.157 4.787  -3.121 -0.504 -0.437 HO13 TB6 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TB6 C1  C2   SING N N 1  
+TB6 C1  H1   SING N N 2  
+TB6 C1  H1A  SING N N 3  
+TB6 C1  H1B  SING N N 4  
+TB6 C6  C2   SING N N 5  
+TB6 C2  O10  SING N N 6  
+TB6 C2  H2   SING N N 7  
+TB6 C6  P7   SING N N 8  
+TB6 C6  H6   SING N N 9  
+TB6 C6  H6A  SING N N 10 
+TB6 O14 P7   DOUB N N 11 
+TB6 P7  O12  SING N N 12 
+TB6 P7  O13  SING N N 13 
+TB6 O10 HO10 SING N N 14 
+TB6 O12 HO12 SING N N 15 
+TB6 O13 HO13 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TB6 SMILES           ACDLabs              12.01 "O=P(O)(O)CC(O)C"                                                      
+TB6 InChI            InChI                1.03  "InChI=1S/C3H9O4P/c1-3(4)2-8(5,6)7/h3-4H,2H2,1H3,(H2,5,6,7)/t3-/m1/s1" 
+TB6 InChIKey         InChI                1.03  ZFVCONUOLQASEW-GSVOUGTGSA-N                                            
+TB6 SMILES_CANONICAL CACTVS               3.370 "C[C@@H](O)C[P](O)(O)=O"                                               
+TB6 SMILES           CACTVS               3.370 "C[CH](O)C[P](O)(O)=O"                                                 
+TB6 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C[C@H](CP(=O)(O)O)O"                                                  
+TB6 SMILES           "OpenEye OEToolkits" 1.7.2 "CC(CP(=O)(O)O)O"                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TB6 "SYSTEMATIC NAME" ACDLabs              12.01 "[(2R)-2-hydroxypropyl]phosphonic acid"  
+TB6 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "[(2R)-2-oxidanylpropyl]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TB6 "Create component" 2011-06-09 RCSB 
+# 

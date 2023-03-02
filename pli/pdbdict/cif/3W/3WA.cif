@@ -1,0 +1,124 @@
+data_3WA
+# 
+_chem_comp.id                                    3WA 
+_chem_comp.name                                  "4-aminopyrido[2,3-d]pyrimidin-5(8H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H6 N4 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-11-25 
+_chem_comp.pdbx_modified_date                    2014-12-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3WA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4X0M 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3WA C1  C1 C 0 1 Y N N 17.429 69.268 3.960 -0.042 0.214  0.001  C1  3WA 1  
+3WA C2  C2 C 0 1 Y N N 18.810 69.622 4.009 0.063  -1.189 0.000  C2  3WA 2  
+3WA C3  C3 C 0 1 N N N 16.834 68.627 5.159 1.187  1.015  0.001  C3  3WA 3  
+3WA N6  N1 N 0 1 Y N N 19.383 70.171 2.926 -1.055 -1.911 0.000  N6  3WA 4  
+3WA C7  C4 C 0 1 N N N 17.651 68.476 6.316 2.423  0.319  0.000  C7  3WA 5  
+3WA C11 C5 C 0 1 N N N 18.930 68.899 6.293 2.438  -1.028 -0.001 C11 3WA 6  
+3WA C12 C6 C 0 1 Y N N 18.679 70.304 1.803 -2.233 -1.322 0.001  C12 3WA 7  
+3WA C4  C7 C 0 1 Y N N 16.719 69.497 2.744 -1.320 0.798  -0.004 C4  3WA 8  
+3WA N5  N2 N 0 1 N N N 19.504 69.441 5.182 1.301  -1.772 -0.001 N5  3WA 9  
+3WA O8  O1 O 0 1 N N N 15.689 68.208 5.173 1.148  2.234  0.002  O8  3WA 10 
+3WA N9  N3 N 0 1 Y N N 17.400 69.998 1.695 -2.378 -0.011 0.002  N9  3WA 11 
+3WA N10 N4 N 0 1 N N N 15.411 69.086 2.587 -1.474 2.168  -0.002 N10 3WA 12 
+3WA H1  H1 H 0 1 N N N 17.246 68.024 7.209 3.352  0.869  -0.000 H1  3WA 13 
+3WA H2  H2 H 0 1 N N N 19.524 68.805 7.190 3.390  -1.537 -0.002 H2  3WA 14 
+3WA H3  H3 H 0 1 N N N 19.185 70.685 0.929 -3.119 -1.939 0.001  H3  3WA 15 
+3WA H4  H4 H 0 1 N N N 20.464 69.717 5.221 1.369  -2.740 -0.002 H4  3WA 16 
+3WA H5  H5 H 0 1 N N N 15.128 69.229 1.639 -0.693 2.744  0.002  H5  3WA 17 
+3WA H6  H6 H 0 1 N N N 15.337 68.115 2.814 -2.363 2.556  -0.005 H6  3WA 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3WA N9  C12 DOUB Y N 1  
+3WA N9  C4  SING Y N 2  
+3WA C12 N6  SING Y N 3  
+3WA N10 C4  SING N N 4  
+3WA C4  C1  DOUB Y N 5  
+3WA N6  C2  DOUB Y N 6  
+3WA C1  C2  SING Y N 7  
+3WA C1  C3  SING N N 8  
+3WA C2  N5  SING N N 9  
+3WA C3  O8  DOUB N N 10 
+3WA C3  C7  SING N N 11 
+3WA N5  C11 SING N N 12 
+3WA C11 C7  DOUB N N 13 
+3WA C7  H1  SING N N 14 
+3WA C11 H2  SING N N 15 
+3WA C12 H3  SING N N 16 
+3WA N5  H4  SING N N 17 
+3WA N10 H5  SING N N 18 
+3WA N10 H6  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3WA SMILES           ACDLabs              12.01 "O=C2c1c(ncnc1N)NC=C2"                                                     
+3WA InChI            InChI                1.03  "InChI=1S/C7H6N4O/c8-6-5-4(12)1-2-9-7(5)11-3-10-6/h1-3H,(H3,8,9,10,11,12)" 
+3WA InChIKey         InChI                1.03  BGXMRRHONOWTLI-UHFFFAOYSA-N                                                
+3WA SMILES_CANONICAL CACTVS               3.385 "Nc1ncnc2NC=CC(=O)c12"                                                     
+3WA SMILES           CACTVS               3.385 "Nc1ncnc2NC=CC(=O)c12"                                                     
+3WA SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1nc(c2c(n1)NC=CC2=O)N"                                                   
+3WA SMILES           "OpenEye OEToolkits" 1.9.2 "c1nc(c2c(n1)NC=CC2=O)N"                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3WA "SYSTEMATIC NAME" ACDLabs              12.01 "4-aminopyrido[2,3-d]pyrimidin-5(8H)-one"  
+3WA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "4-azanyl-8H-pyrido[2,3-d]pyrimidin-5-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3WA "Create component" 2014-11-25 EBI  
+3WA "Initial release"  2014-12-24 RCSB 
+# 

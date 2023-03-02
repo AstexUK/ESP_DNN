@@ -1,0 +1,121 @@
+data_FFQ
+# 
+_chem_comp.id                                    FFQ 
+_chem_comp.name                                  "[(1R)-1-hydroxypropyl]phosphonic acid" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C3 H9 O4 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "Fosfomycin, bound form" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-02-18 
+_chem_comp.pdbx_modified_date                    2012-05-02 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        140.075 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FFQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KR6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FFQ C1  C1  C 0 1 N N N 54.328 44.120 154.448 1.733  0.691  -0.286 C1  FFQ 1  
+FFQ O1  O1  O 0 1 N N N 54.588 46.542 154.817 1.107  -1.620 0.038  O1  FFQ 2  
+FFQ P1  P1  P 0 1 N N N 56.821 45.272 155.460 -0.932 0.095  -0.028 P1  FFQ 3  
+FFQ C2  C2  C 0 1 N N R 54.988 45.262 155.270 0.793  -0.282 0.428  C2  FFQ 4  
+FFQ O2  O2  O 0 1 N N N 57.067 46.211 156.537 -1.286 1.603  0.411  O2  FFQ 5  
+FFQ C3  C3  C 0 1 N N N 54.928 44.007 153.008 3.168  0.457  0.191  C3  FFQ 6  
+FFQ O3  O3  O 0 1 N N N 57.430 45.715 154.214 -1.097 -0.044 -1.492 O3  FFQ 7  
+FFQ O4  O4  O 0 1 N N N 57.302 43.957 155.840 -1.921 -0.929 0.723  O4  FFQ 8  
+FFQ H   H   H 0 1 N N N 54.487 43.167 154.974 1.677  0.528  -1.362 H   FFQ 9  
+FFQ H2  H2  H 0 1 N N N 55.011 47.211 155.342 1.020  -1.784 -0.911 H2  FFQ 10 
+FFQ H1  H1  H 0 1 N N N 54.624 45.144 156.301 0.914  -0.179 1.506  H1  FFQ 11 
+FFQ HO1 HO1 H 0 1 N N N 57.584 46.939 156.211 -1.199 1.767  1.360  HO1 FFQ 12 
+FFQ H20 H20 H 0 1 N N N 54.431 43.188 152.467 3.224  0.621  1.267  H20 FFQ 13 
+FFQ HO2 HO2 H 0 1 N N N 54.768 44.953 152.469 3.464  -0.567 -0.037 HO2 FFQ 14 
+FFQ H3  H3  H 0 1 N N N 56.006 43.801 153.075 3.838  1.150  -0.317 H3  FFQ 15 
+FFQ H3A H3A H 0 1 N N N 57.924 43.647 155.192 -2.857 -0.787 0.527  H3A FFQ 16 
+FFQ H3B H3B H 0 1 N N N 53.249 44.319 154.368 1.437  1.715  -0.059 H3B FFQ 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FFQ C1 C2  SING N N 1  
+FFQ C1 H   SING N N 2  
+FFQ O1 C2  SING N N 3  
+FFQ O1 H2  SING N N 4  
+FFQ P1 O4  SING N N 5  
+FFQ P1 O2  SING N N 6  
+FFQ C2 P1  SING N N 7  
+FFQ C2 H1  SING N N 8  
+FFQ O2 HO1 SING N N 9  
+FFQ C3 C1  SING N N 10 
+FFQ C3 H20 SING N N 11 
+FFQ C3 HO2 SING N N 12 
+FFQ C3 H3  SING N N 13 
+FFQ O3 P1  DOUB N N 14 
+FFQ O4 H3A SING N N 15 
+FFQ C1 H3B SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FFQ SMILES           ACDLabs              12.01 "O=P(O)(O)C(O)CC"                                                      
+FFQ InChI            InChI                1.03  "InChI=1S/C3H9O4P/c1-2-3(4)8(5,6)7/h3-4H,2H2,1H3,(H2,5,6,7)/t3-/m1/s1" 
+FFQ InChIKey         InChI                1.03  MVIJUJBSAAUHEM-GSVOUGTGSA-N                                            
+FFQ SMILES_CANONICAL CACTVS               3.370 "CC[C@H](O)[P](O)(O)=O"                                                
+FFQ SMILES           CACTVS               3.370 "CC[CH](O)[P](O)(O)=O"                                                 
+FFQ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC[C@H](O)P(=O)(O)O"                                                  
+FFQ SMILES           "OpenEye OEToolkits" 1.7.6 "CCC(O)P(=O)(O)O"                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FFQ "SYSTEMATIC NAME" ACDLabs              12.01 "[(1R)-1-hydroxypropyl]phosphonic acid"  
+FFQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(1R)-1-oxidanylpropyl]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FFQ "Create component"  2011-02-18 RCSB 
+FFQ "Modify descriptor" 2011-06-04 RCSB 
+FFQ "Modify synonyms"   2012-05-02 RCSB 
+# 

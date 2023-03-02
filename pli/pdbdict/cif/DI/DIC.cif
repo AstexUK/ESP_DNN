@@ -1,0 +1,122 @@
+data_DIC
+# 
+_chem_comp.id                                    DIC 
+_chem_comp.name                                  3,4-DICHLOROISOCOUMARIN 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H4 Cl2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        215.033 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DIC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DIC C1  C1  C  0 1 Y N N 17.425 19.231 18.370 0.698  -2.032 0.101  C1  DIC 1  
+DIC C2  C2  C  0 1 Y N N 17.375 18.787 19.697 1.809  -2.879 0.068  C2  DIC 2  
+DIC C3  C3  C  0 1 Y N N 17.559 17.426 20.004 3.109  -2.368 -0.092 C3  DIC 3  
+DIC C4  C4  C  0 1 Y N N 17.802 16.506 18.916 3.257  -0.979 -0.218 C4  DIC 4  
+DIC C5  C5  C  0 1 Y N N 17.843 16.979 17.589 2.141  -0.129 -0.185 C5  DIC 5  
+DIC C6  C6  C  0 1 Y N N 17.655 18.335 17.324 0.863  -0.658 -0.026 C6  DIC 6  
+DIC C7  C7  C  0 1 Y N N 18.041 15.057 19.172 4.595  -0.369 -0.389 C7  DIC 7  
+DIC O7  O7  O  0 1 N N N 18.651 14.563 20.128 4.743  0.841  -0.499 O7  DIC 8  
+DIC C8  C8  C  0 1 Y N N 17.470 16.975 21.499 4.310  -3.217 -0.134 C8  DIC 9  
+DIC C9  C9  C  0 1 Y N N 16.508 15.793 21.775 5.506  -2.627 -0.290 C9  DIC 10 
+DIC O1  O1  O  0 1 Y N N ?      ?      ?      5.651  -1.229 -0.415 O1  DIC 11 
+DIC CL1 CL1 CL 0 0 N N N ?      ?      ?      4.144  -4.934 0.019  CL1 DIC 12 
+DIC CL2 CL2 CL 0 0 N N N ?      ?      ?      6.990  -3.531 -0.351 CL2 DIC 13 
+DIC H1  H1  H  0 1 N N N 17.284 20.279 18.153 -0.297 -2.450 0.226  H1  DIC 14 
+DIC H2  H2  H  0 1 N N N 17.194 19.495 20.492 1.624  -3.945 0.171  H2  DIC 15 
+DIC H5  H5  H  0 1 N N N 18.020 16.290 16.776 2.249  0.948  -0.282 H5  DIC 16 
+DIC H6  H6  H  0 1 N N N 17.687 18.694 16.306 -0.000 0.000  -0.000 H6  DIC 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DIC C1 C2  DOUB Y N 1  
+DIC C1 C6  SING Y N 2  
+DIC C1 H1  SING N N 3  
+DIC C2 C3  SING Y N 4  
+DIC C2 H2  SING N N 5  
+DIC C3 C4  DOUB Y N 6  
+DIC C3 C8  SING Y N 7  
+DIC C4 C5  SING Y N 8  
+DIC C4 C7  SING Y N 9  
+DIC C5 C6  DOUB Y N 10 
+DIC C5 H5  SING N N 11 
+DIC C6 H6  SING N N 12 
+DIC C7 O7  DOUB N N 13 
+DIC C7 O1  SING Y N 14 
+DIC C8 C9  DOUB Y N 15 
+DIC C8 CL1 SING N N 16 
+DIC C9 O1  SING Y N 17 
+DIC C9 CL2 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DIC SMILES           ACDLabs              10.04 "ClC=1OC(=O)c2ccccc2C=1Cl"                                    
+DIC SMILES_CANONICAL CACTVS               3.341 "ClC1=C(Cl)c2ccccc2C(=O)O1"                                   
+DIC SMILES           CACTVS               3.341 "ClC1=C(Cl)c2ccccc2C(=O)O1"                                   
+DIC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C(=C(OC2=O)Cl)Cl"                                 
+DIC SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2c(c1)C(=C(OC2=O)Cl)Cl"                                 
+DIC InChI            InChI                1.03  "InChI=1S/C9H4Cl2O2/c10-7-5-3-1-2-4-6(5)9(12)13-8(7)11/h1-4H" 
+DIC InChIKey         InChI                1.03  SUGXUUGGLDCZKB-UHFFFAOYSA-N                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DIC "SYSTEMATIC NAME" ACDLabs              10.04 3,4-dichloro-1H-isochromen-1-one 
+DIC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 3,4-dichloroisochromen-1-one     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DIC "Create component"  1999-07-08 RCSB 
+DIC "Modify descriptor" 2011-06-04 RCSB 
+# 

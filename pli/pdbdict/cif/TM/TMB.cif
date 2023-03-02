@@ -1,0 +1,157 @@
+data_TMB
+# 
+_chem_comp.id                                    TMB 
+_chem_comp.name                                  "N-METHYL-4-[(E)-2-BUTENYL]-4,N-DIMETHYL-THREONINE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C11 H21 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               THR 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2009-01-07 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      TBM 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        215.289 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     TMB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CWM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TMB N    N    N 0 1 N N N 5.065 34.910 19.615 1.215  0.598  -1.434 N    TMB 1  
+TMB CT   CT   C 0 1 N N N 4.699 33.893 20.424 2.297  0.003  -0.639 CT   TMB 2  
+TMB CN   CN   C 0 1 N N N 4.524 36.315 19.675 1.726  0.739  -2.804 CN   TMB 3  
+TMB CA   CA   C 0 1 N N S 6.283 34.669 18.849 0.135  -0.395 -1.486 CA   TMB 4  
+TMB C    C    C 0 1 N N N 7.471 35.476 19.376 -0.608 -0.260 -2.790 C    TMB 5  
+TMB O    O    O 0 1 N N N 7.399 36.260 20.340 -0.893 -1.246 -3.429 O    TMB 6  
+TMB OXT  OXT  O 0 1 N Y N 8.657 35.182 18.821 -0.955 0.954  -3.242 OXT  TMB 7  
+TMB CB   CB   C 0 1 N N R 6.090 34.934 17.279 -0.830 -0.162 -0.322 CB   TMB 8  
+TMB OG1  OG1  O 0 1 N N N 5.836 36.324 17.072 -1.332 1.173  -0.380 OG1  TMB 9  
+TMB CG2  CG2  C 0 1 N N R 4.881 34.145 16.676 -0.092 -0.373 1.001  CG2  TMB 10 
+TMB CD1  CD1  C 0 1 N N N 4.996 32.653 16.964 0.445  -1.804 1.063  CD1  TMB 11 
+TMB CD2  CD2  C 0 1 N N N 4.790 34.440 15.136 -1.057 -0.140 2.165  CD2  TMB 12 
+TMB CE   CE   C 0 1 N N N 5.925 34.011 14.205 -0.330 -0.348 3.469  CE   TMB 13 
+TMB CZ   CZ   C 0 1 N N N 6.674 34.905 13.581 -0.244 0.632  4.334  CZ   TMB 14 
+TMB CH   CH   C 0 1 N N N 7.820 34.532 12.657 0.482  0.424  5.638  CH   TMB 15 
+TMB HCT1 1HCT H 0 0 N N N 5.099 32.853 20.379 3.070  0.751  -0.459 HCT1 TMB 16 
+TMB HCT2 2HCT H 0 0 N N N 4.852 34.248 21.469 1.899  -0.343 0.314  HCT2 TMB 17 
+TMB HCT3 3HCT H 0 0 N N N 3.589 33.809 20.347 2.726  -0.838 -1.181 HCT3 TMB 18 
+TMB HCN1 1HCN H 0 0 N N N 4.826 37.154 19.006 2.647  1.322  -2.790 HCN1 TMB 19 
+TMB HCN2 2HCN H 0 0 N N N 3.414 36.231 19.598 1.927  -0.247 -3.220 HCN2 TMB 20 
+TMB HCN3 3HCN H 0 0 N N N 4.677 36.670 20.720 0.983  1.248  -3.418 HCN3 TMB 21 
+TMB HA   HA   H 0 1 N N N 6.508 33.585 18.987 0.558  -1.397 -1.412 HA   TMB 22 
+TMB HXT  HXT  H 0 1 N Y N 9.394 35.683 19.148 -1.432 1.041  -4.079 HXT  TMB 23 
+TMB HB   HB   H 0 1 N N N 7.023 34.592 16.774 -1.659 -0.866 -0.392 HB   TMB 24 
+TMB HG1  HG1  H 0 1 N N N 5.721 36.481 16.142 -0.564 1.760  -0.389 HG1  TMB 25 
+TMB HG2  HG2  H 0 1 N N N 3.937 34.487 17.160 0.737  0.329  1.070  HG2  TMB 26 
+TMB HD11 1HD1 H 0 0 N N N 4.134 32.090 16.534 -0.384 -2.507 0.993  HD11 TMB 27 
+TMB HD12 2HD1 H 0 0 N N N 5.970 32.241 16.611 1.132  -1.970 0.233  HD12 TMB 28 
+TMB HD13 3HD1 H 0 0 N N N 5.111 32.454 18.055 0.970  -1.954 2.006  HD13 TMB 29 
+TMB HD21 1HD2 H 0 0 N N N 3.836 34.009 14.750 -1.887 -0.843 2.095  HD21 TMB 30 
+TMB HD22 2HD2 H 0 0 N N N 4.613 35.532 14.996 -1.440 0.879  2.121  HD22 TMB 31 
+TMB HE   HE   H 0 1 N N N 6.226 32.977 13.965 0.118  -1.304 3.690  HE   TMB 32 
+TMB HZ   HZ   H 0 1 N N N 6.352 35.931 13.824 -0.693 1.588  4.112  HZ   TMB 33 
+TMB HH1  1HH  H 0 1 N N N 8.451 35.285 12.131 0.449  1.343  6.222  HH1  TMB 34 
+TMB HH2  2HH  H 0 1 N N N 8.506 33.866 13.231 0.002  -0.378 6.197  HH2  TMB 35 
+TMB HH3  3HH  H 0 1 N N N 7.410 33.842 11.881 1.520  0.158  5.437  HH3  TMB 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TMB N   CT   SING N N 1  
+TMB N   CN   SING N N 2  
+TMB N   CA   SING N N 3  
+TMB CT  HCT1 SING N N 4  
+TMB CT  HCT2 SING N N 5  
+TMB CT  HCT3 SING N N 6  
+TMB CN  HCN1 SING N N 7  
+TMB CN  HCN2 SING N N 8  
+TMB CN  HCN3 SING N N 9  
+TMB CA  C    SING N N 10 
+TMB CA  CB   SING N N 11 
+TMB CA  HA   SING N N 12 
+TMB C   O    DOUB N N 13 
+TMB C   OXT  SING N N 14 
+TMB OXT HXT  SING N N 15 
+TMB CB  OG1  SING N N 16 
+TMB CB  CG2  SING N N 17 
+TMB CB  HB   SING N N 18 
+TMB OG1 HG1  SING N N 19 
+TMB CG2 CD1  SING N N 20 
+TMB CG2 CD2  SING N N 21 
+TMB CG2 HG2  SING N N 22 
+TMB CD1 HD11 SING N N 23 
+TMB CD1 HD12 SING N N 24 
+TMB CD1 HD13 SING N N 25 
+TMB CD2 CE   SING N N 26 
+TMB CD2 HD21 SING N N 27 
+TMB CD2 HD22 SING N N 28 
+TMB CE  CZ   DOUB N E 29 
+TMB CE  HE   SING N N 30 
+TMB CZ  CH   SING N N 31 
+TMB CZ  HZ   SING N N 32 
+TMB CH  HH1  SING N N 33 
+TMB CH  HH2  SING N N 34 
+TMB CH  HH3  SING N N 35 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TMB SMILES           ACDLabs              10.04 "O=C(O)C(N(C)C)C(O)C(C/C=C/C)C"                                                                                          
+TMB InChI            InChI                1.02b "InChI=1/C11H21NO3/c1-5-6-7-8(2)10(13)9(11(14)15)12(3)4/h5-6,8-10,13H,7H2,1-4H3,(H,14,15)/b6-5+/t8-,9+,10-/m1/s1/f/h14H" 
+TMB InChIKey         InChI                1.02b COYQGLCTWTYPNM-NWACCPFRDR                                                                                                
+TMB SMILES_CANONICAL CACTVS               3.341 "C/C=C/C[C@@H](C)[C@@H](O)[C@H](N(C)C)C(O)=O"                                                                            
+TMB SMILES           CACTVS               3.341 "CC=CC[CH](C)[CH](O)[CH](N(C)C)C(O)=O"                                                                                   
+TMB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C\C=C\C[C@@H](C)[C@H]([C@@H](C(=O)O)N(C)C)O"                                                                            
+TMB SMILES           "OpenEye OEToolkits" 1.5.0 "CC=CCC(C)C(C(C(=O)O)N(C)C)O"                                                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TMB "SYSTEMATIC NAME" ACDLabs              10.04 "4-[(2E)-but-2-en-1-yl]-2,4,5-trideoxy-2-(dimethylamino)-L-xylonic acid" 
+TMB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(E,2S,3R,4R)-2-dimethylamino-3-hydroxy-4-methyl-oct-6-enoic acid"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TMB "Create component" 1999-07-08 EBI 
+# 

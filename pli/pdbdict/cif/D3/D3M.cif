@@ -1,0 +1,126 @@
+data_D3M
+# 
+_chem_comp.id                                    D3M 
+_chem_comp.name                                  "3,6-dichloro-2-methoxybenzoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 Cl2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Dicamba 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-02-20 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        221.037 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     D3M 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GB4 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+D3M CL1 CL1 CL 0 0 N N N -56.536 -52.738 8.275 -3.343 0.540  -0.130 CL1 D3M 1  
+D3M CL2 CL2 CL 0 0 N N N -56.194 -48.903 3.288 2.852  1.339  0.140  CL2 D3M 2  
+D3M C1  C1  C  0 1 Y N N -55.014 -50.699 5.055 0.606  -0.176 -0.108 C1  D3M 3  
+D3M O1  O1  O  0 1 N N N -52.991 -49.584 4.686 1.885  -2.014 0.870  O1  D3M 4  
+D3M C2  C2  C  0 1 Y N N -56.190 -49.975 4.650 1.133  1.108  0.063  C2  D3M 5  
+D3M O2  O2  O  0 1 N N N -53.499 -51.353 3.380 1.905  -1.682 -1.325 O2  D3M 6  
+D3M C3  C3  C  0 1 Y N N -57.411 -50.119 5.355 0.285  2.191  0.171  C3  D3M 7  
+D3M O3  O3  O  0 1 N N N -53.983 -52.307 6.642 -1.308 -1.592 -0.335 O3  D3M 8  
+D3M C4  C4  C  0 1 Y N N -57.494 -50.975 6.475 -1.087 2.013  0.112  C4  D3M 9  
+D3M C5  C5  C  0 1 Y N N -56.357 -51.707 6.903 -1.621 0.749  -0.057 C5  D3M 10 
+D3M C6  C6  C  0 1 Y N N -55.109 -51.573 6.206 -0.784 -0.351 -0.169 C6  D3M 11 
+D3M C7  C7  C  0 1 N N N -53.726 -50.540 4.312 1.505  -1.336 -0.231 C7  D3M 12 
+D3M C8  C8  C  0 1 N N N -53.244 -51.594 7.671 -1.594 -2.339 0.850  C8  D3M 13 
+D3M HO1 HO1 H  0 1 N N N -52.208 -49.556 4.148 2.476  -2.768 0.739  HO1 D3M 14 
+D3M H3  H3  H  0 1 N N N -58.284 -49.570 5.033 0.693  3.182  0.304  H3  D3M 15 
+D3M H4  H4  H  0 1 N N N -58.428 -51.073 7.008 -1.743 2.866  0.199  H4  D3M 16 
+D3M H8  H8  H  0 1 N N N -52.215 -51.414 7.326 -2.007 -3.310 0.576  H8  D3M 17 
+D3M H8A H8A H  0 1 N N N -53.736 -50.632 7.875 -0.675 -2.483 1.419  H8A D3M 18 
+D3M H8B H8B H  0 1 N N N -53.222 -52.197 8.591 -2.316 -1.795 1.457  H8B D3M 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+D3M C5  CL1 SING N N 1  
+D3M CL2 C2  SING N N 2  
+D3M C7  C1  SING N N 3  
+D3M C2  C1  DOUB Y N 4  
+D3M C1  C6  SING Y N 5  
+D3M C7  O1  SING N N 6  
+D3M O1  HO1 SING N N 7  
+D3M C2  C3  SING Y N 8  
+D3M O2  C7  DOUB N N 9  
+D3M C3  C4  DOUB Y N 10 
+D3M C3  H3  SING N N 11 
+D3M C6  O3  SING N N 12 
+D3M O3  C8  SING N N 13 
+D3M C4  C5  SING Y N 14 
+D3M C4  H4  SING N N 15 
+D3M C6  C5  DOUB Y N 16 
+D3M C8  H8  SING N N 17 
+D3M C8  H8A SING N N 18 
+D3M C8  H8B SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+D3M SMILES           ACDLabs              10.04 "Clc1ccc(Cl)c(c1OC)C(=O)O"                                                
+D3M SMILES_CANONICAL CACTVS               3.341 "COc1c(Cl)ccc(Cl)c1C(O)=O"                                                
+D3M SMILES           CACTVS               3.341 "COc1c(Cl)ccc(Cl)c1C(O)=O"                                                
+D3M SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "COc1c(ccc(c1C(=O)O)Cl)Cl"                                                
+D3M SMILES           "OpenEye OEToolkits" 1.5.0 "COc1c(ccc(c1C(=O)O)Cl)Cl"                                                
+D3M InChI            InChI                1.03  "InChI=1S/C8H6Cl2O3/c1-13-7-5(10)3-2-4(9)6(7)8(11)12/h2-3H,1H3,(H,11,12)" 
+D3M InChIKey         InChI                1.03  IWEDIXLBFLAXBO-UHFFFAOYSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+D3M "SYSTEMATIC NAME" ACDLabs              10.04 "3,6-dichloro-2-methoxybenzoic acid"  
+D3M "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3,6-dichloro-2-methoxy-benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+D3M "Create component"     2009-02-20 RCSB 
+D3M "Modify aromatic_flag" 2011-06-04 RCSB 
+D3M "Modify descriptor"    2011-06-04 RCSB 
+# 

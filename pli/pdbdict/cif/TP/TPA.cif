@@ -1,0 +1,132 @@
+data_TPA
+# 
+_chem_comp.id                                    TPA 
+_chem_comp.name                                  TRANS-2-PHENYLCYCLOPROPYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H12 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.198 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TPA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TNL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TPA C1    C1    C 0 1 N N S 30.190 15.461 14.843 2.157  0.153  0.494  C1    TPA 1  
+TPA C2    C2    C 0 1 N N R 28.949 15.184 15.618 1.163  -0.268 -0.591 C2    TPA 2  
+TPA C3    C3    C 0 1 N N N 29.347 16.596 15.400 1.962  1.029  -0.745 C3    TPA 3  
+TPA "C1'" "C1'" C 0 1 Y N N 29.143 14.706 17.031 -0.306 -0.147 -0.275 "C1'" TPA 4  
+TPA "C2'" "C2'" C 0 1 Y N N 28.682 15.481 18.086 -1.112 -1.269 -0.299 "C2'" TPA 5  
+TPA "C3'" "C3'" C 0 1 Y N N 28.743 14.972 19.368 -2.460 -1.158 -0.010 "C3'" TPA 6  
+TPA "C4'" "C4'" C 0 1 Y N N 29.264 13.699 19.579 -3.000 0.075  0.305  "C4'" TPA 7  
+TPA "C5'" "C5'" C 0 1 Y N N 29.735 12.935 18.516 -2.192 1.197  0.331  "C5'" TPA 8  
+TPA "C6'" "C6'" C 0 1 Y N N 29.677 13.439 17.231 -0.844 1.085  0.045  "C6'" TPA 9  
+TPA N     N     N 1 1 N N N 29.922 15.163 13.435 3.410  -0.606 0.597  N     TPA 10 
+TPA H1    H1    H 0 1 N N N 31.276 15.214 14.894 1.748  0.517  1.437  H1    TPA 11 
+TPA H2    H2    H 0 1 N N N 28.036 14.575 15.416 1.439  -1.108 -1.228 H2    TPA 12 
+TPA H31   1H3   H 0 1 N N N 29.537 17.476 16.057 1.425  1.969  -0.618 H31   TPA 13 
+TPA H32   2H3   H 0 1 N N N 28.855 17.501 14.973 2.763  1.042  -1.484 H32   TPA 14 
+TPA "H2'" "H2'" H 0 1 N N N 28.272 16.489 17.907 -0.691 -2.232 -0.545 "H2'" TPA 15 
+TPA "H3'" "H3'" H 0 1 N N N 28.378 15.576 20.215 -3.090 -2.034 -0.030 "H3'" TPA 16 
+TPA "H4'" "H4'" H 0 1 N N N 29.304 13.290 20.602 -4.052 0.162  0.531  "H4'" TPA 17 
+TPA "H5'" "H5'" H 0 1 N N N 30.154 11.930 18.691 -2.614 2.160  0.577  "H5'" TPA 18 
+TPA "H6'" "H6'" H 0 1 N N N 30.049 12.841 16.381 -0.214 1.962  0.065  "H6'" TPA 19 
+TPA HN1   1HN   H 0 1 N N N 30.672 15.649 12.902 3.971  -0.228 1.346  HN1   TPA 20 
+TPA HN2   2HN   H 0 1 N N N 29.019 15.555 13.122 3.917  -0.538 -0.272 HN2   TPA 21 
+TPA HN3   3HN   H 0 1 N N N 30.048 14.141 13.282 3.201  -1.575 0.790  HN3   TPA 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TPA C1    C2    SING N N 1  
+TPA C1    C3    SING N N 2  
+TPA C1    N     SING N N 3  
+TPA C1    H1    SING N N 4  
+TPA C2    C3    SING N N 5  
+TPA C2    "C1'" SING N N 6  
+TPA C2    H2    SING N N 7  
+TPA C3    H31   SING N N 8  
+TPA C3    H32   SING N N 9  
+TPA "C1'" "C2'" DOUB Y N 10 
+TPA "C1'" "C6'" SING Y N 11 
+TPA "C2'" "C3'" SING Y N 12 
+TPA "C2'" "H2'" SING N N 13 
+TPA "C3'" "C4'" DOUB Y N 14 
+TPA "C3'" "H3'" SING N N 15 
+TPA "C4'" "C5'" SING Y N 16 
+TPA "C4'" "H4'" SING N N 17 
+TPA "C5'" "C6'" DOUB Y N 18 
+TPA "C5'" "H5'" SING N N 19 
+TPA "C6'" "H6'" SING N N 20 
+TPA N     HN1   SING N N 21 
+TPA N     HN2   SING N N 22 
+TPA N     HN3   SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TPA SMILES           ACDLabs              10.04 "c1cccc(c1)C2CC2[NH3+]"                                                       
+TPA SMILES_CANONICAL CACTVS               3.341 "[NH3+][C@H]1C[C@@H]1c2ccccc2"                                                
+TPA SMILES           CACTVS               3.341 "[NH3+][CH]1C[CH]1c2ccccc2"                                                   
+TPA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)[C@H]2C[C@@H]2[NH3+]"                                              
+TPA SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C2CC2[NH3+]"                                                       
+TPA InChI            InChI                1.03  "InChI=1S/C9H11N/c10-9-6-8(9)7-4-2-1-3-5-7/h1-5,8-9H,6,10H2/p+1/t8-,9+/m1/s1" 
+TPA InChIKey         InChI                1.03  AELCINSCMGFISI-BDAKNGLRSA-O                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TPA "SYSTEMATIC NAME" ACDLabs              10.04 "(1S,2R)-2-phenylcyclopropanaminium"   
+TPA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1S,2R)-2-phenylcyclopropyl]azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TPA "Create component"  1999-07-08 EBI  
+TPA "Modify descriptor" 2011-06-04 RCSB 
+# 

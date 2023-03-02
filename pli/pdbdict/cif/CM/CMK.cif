@@ -1,0 +1,217 @@
+data_CMK
+# 
+_chem_comp.id                                    CMK 
+_chem_comp.name                                  
+;CYTIDINE 5'-MONOPHOSPHATE 3-DEOXY-BETA-D-GULO-OCT-2-ULO-PYRANOSONIC ACID
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C17 H26 N3 O15 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "CMP-2-KETO-3-DEOXY-OCTULOSONIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-11-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        543.373 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CMK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GQC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CMK N1C    N1C  N 0 1 Y N N 16.133 88.265 67.034 0.311  -0.423 5.611  N1C    CMK 1  
+CMK C2C    C2C  C 0 1 Y N N 15.872 89.363 66.266 0.727  0.851  5.501  C2C    CMK 2  
+CMK N3C    N3C  N 0 1 Y N N 15.142 89.208 65.012 1.643  1.349  6.328  N3C    CMK 3  
+CMK C4C    C4C  C 0 1 Y N N 14.720 88.055 64.586 2.171  0.598  7.286  C4C    CMK 4  
+CMK C5C    C5C  C 0 1 Y N N 15.015 86.872 65.442 1.761  -0.743 7.425  C5C    CMK 5  
+CMK C6C    C6C  C 0 1 Y N N 15.694 87.023 66.601 0.824  -1.233 6.580  C6C    CMK 6  
+CMK O2C    O2C  O 0 1 N N N 16.221 90.490 66.568 0.256  1.562  4.628  O2C    CMK 7  
+CMK N4C    N4C  N 0 1 N N N 14.067 87.915 63.460 3.117  1.124  8.135  N4C    CMK 8  
+CMK "C1'"  C1*  C 0 1 N N R 16.882 88.410 68.298 -0.698 -0.943 4.686  "C1'"  CMK 9  
+CMK "C2'"  C2*  C 0 1 N N R 16.223 87.747 69.530 -1.991 -0.103 4.773  "C2'"  CMK 10 
+CMK "O2'"  O2*  O 0 1 N N N 15.178 88.593 70.044 -2.956 -0.742 5.612  "O2'"  CMK 11 
+CMK "C3'"  C3*  C 0 1 N N S 17.402 87.539 70.490 -2.497 -0.043 3.313  "C3'"  CMK 12 
+CMK "C4'"  C4*  C 0 1 N N R 18.611 87.428 69.531 -1.452 -0.857 2.519  "C4'"  CMK 13 
+CMK "O4'"  O4*  O 0 1 N N N 18.161 87.797 68.234 -0.252 -0.797 3.320  "O4'"  CMK 14 
+CMK "O3'"  O3*  O 0 1 N N N 17.608 88.687 71.351 -3.788 -0.645 3.204  "O3'"  CMK 15 
+CMK "C5'"  C5*  C 0 1 N N N 19.237 86.024 69.418 -1.209 -0.223 1.148  "C5'"  CMK 16 
+CMK "O5'"  O5*  O 0 1 N N N 18.275 85.007 69.189 -0.187 -0.950 0.461  "O5'"  CMK 17 
+CMK PA     PA   P 0 1 N N S 18.013 83.587 69.860 0.014  -0.232 -0.965 PA     CMK 18 
+CMK O1A    O1A  O 0 1 N N N 17.539 83.682 71.280 -1.368 -0.275 -1.788 O1A    CMK 19 
+CMK O2A    O2A  O 0 1 N N N 16.976 82.864 69.061 0.421  1.174  -0.756 O2A    CMK 20 
+CMK O6     O6   O 0 1 N N N 21.406 81.735 69.291 -0.121 -0.464 -3.668 O6     CMK 21 
+CMK C2     C2   C 0 1 N N R 20.020 81.921 68.882 1.186  -0.419 -3.099 C2     CMK 22 
+CMK O2     O2   O 0 1 N N N 19.358 82.739 69.844 1.158  -1.004 -1.796 O2     CMK 23 
+CMK C3     C3   C 0 1 N N N 19.953 82.559 67.450 2.163  -1.197 -3.984 C3     CMK 24 
+CMK C4     C4   C 0 1 N N R 20.754 81.676 66.453 2.211  -0.542 -5.370 C4     CMK 25 
+CMK O4     O4   O 0 1 N N N 20.673 82.265 65.151 3.004  -1.341 -6.250 O4     CMK 26 
+CMK C5     C5   C 0 1 N N R 22.246 81.572 66.957 0.782  -0.436 -5.912 C5     CMK 27 
+CMK C6     C6   C 0 1 N N R 22.224 80.917 68.389 -0.090 0.283  -4.881 C6     CMK 28 
+CMK C7     C7   C 0 1 N N R 23.652 80.780 68.973 -1.512 0.422  -5.428 C7     CMK 29 
+CMK C1     C1   C 0 1 N N N 19.230 80.590 69.023 1.636  1.014  -2.996 C1     CMK 30 
+CMK O1X    O1X  O 0 1 N N N 19.195 80.066 70.236 0.735  1.988  -2.796 O1X    CMK 31 
+CMK O1Y    O1Y  O 0 1 N N N 18.650 80.041 68.105 2.809  1.288  -3.093 O1Y    CMK 32 
+CMK O5     O5   O 0 1 N N N 22.857 82.882 67.041 0.262  -1.746 -6.150 O5     CMK 33 
+CMK C8     C8   C 0 1 N N N 23.636 80.640 70.533 -2.386 1.142  -4.398 C8     CMK 34 
+CMK O8     O8   O 0 1 N N N 22.675 79.645 70.904 -3.714 1.272  -4.908 O8     CMK 35 
+CMK O7     O7   O 0 1 N N N 24.261 79.614 68.395 -1.485 1.178  -6.640 O7     CMK 36 
+CMK H5C    H5C  H 0 1 N N N 14.678 85.869 65.129 2.181  -1.367 8.200  H5C    CMK 37 
+CMK H6C    H6C  H 0 1 N N N 15.905 86.134 67.219 0.490  -2.257 6.669  H6C    CMK 38 
+CMK H4C1   1H4C H 0 0 N N N 13.709 86.936 63.098 3.401  2.046  8.034  H4C1   CMK 39 
+CMK H4C2   2H4C H 0 0 N N N 13.849 88.791 62.826 3.499  0.573  8.837  H4C2   CMK 40 
+CMK "H1'"  H1*  H 0 1 N N N 17.018 89.496 68.509 -0.910 -1.990 4.906  "H1'"  CMK 41 
+CMK "H2'"  H2*  H 0 1 N N N 15.797 86.758 69.240 -1.770 0.898  5.142  "H2'"  CMK 42 
+CMK HA     HA   H 0 1 N N N 14.773 88.186 70.801 -3.758 -0.202 5.576  HA     CMK 43 
+CMK "H3'"  H3*  H 0 1 N N N 17.275 86.606 71.087 -2.527 0.987  2.959  "H3'"  CMK 44 
+CMK "H4'"  H4*  H 0 1 N N N 19.397 88.148 69.858 -1.781 -1.890 2.406  "H4'"  CMK 45 
+CMK HB     HB   H 0 1 N N N 18.338 88.558 71.945 -4.397 -0.096 3.717  HB     CMK 46 
+CMK "H5'1" 1H5* H 0 0 N N N 19.858 85.791 70.315 -2.130 -0.253 0.565  "H5'1" CMK 47 
+CMK "H5'2" 2H5* H 0 0 N N N 20.032 86.004 68.636 -0.894 0.811  1.277  "H5'2" CMK 48 
+CMK HO1A   HO1A H 0 0 N N N 17.383 82.835 71.680 -1.596 -1.207 -1.902 HO1A   CMK 49 
+CMK H3C1   1H3C H 0 0 N N N 20.297 83.620 67.444 3.156  -1.176 -3.536 H3C1   CMK 50 
+CMK H3C2   2H3C H 0 0 N N N 18.904 82.730 67.113 1.826  -2.229 -4.080 H3C2   CMK 51 
+CMK H4     H4   H 0 1 N N N 20.305 80.656 66.423 2.646  0.453  -5.288 H4     CMK 52 
+CMK HC     HC   H 0 1 N N N 21.163 81.725 64.542 3.889  -1.390 -5.863 HC     CMK 53 
+CMK H5     H5   H 0 1 N N N 22.833 80.929 66.260 0.786  0.128  -6.844 H5     CMK 54 
+CMK H6     H6   H 0 1 N N N 21.769 79.902 68.313 0.321  1.273  -4.686 H6     CMK 55 
+CMK H7     H7   H 0 1 N N N 24.248 81.680 68.693 -1.924 -0.566 -5.625 H7     CMK 56 
+CMK H1X    H1X  H 0 1 N N N 18.712 79.252 70.322 1.024  2.908  -2.729 H1X    CMK 57 
+CMK HD     HD   H 0 1 N N N 22.870 83.277 66.177 0.844  -2.164 -6.798 HD     CMK 58 
+CMK H8C1   1H8C H 0 0 N N N 23.456 81.614 71.044 -2.407 0.566  -3.473 H8C1   CMK 59 
+CMK H8C2   2H8C H 0 0 N N N 24.648 80.428 70.950 -1.974 2.132  -4.200 H8C2   CMK 60 
+CMK H8     H8   H 0 1 N N N 22.665 79.560 71.850 -4.230 1.730  -4.230 H8     CMK 61 
+CMK HE     HE   H 0 1 N N N 25.137 79.530 68.753 -1.115 2.044  -6.422 HE     CMK 62 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CMK N1C   C2C    SING Y N 1  
+CMK N1C   C6C    SING Y N 2  
+CMK N1C   "C1'"  SING N N 3  
+CMK C2C   N3C    SING Y N 4  
+CMK C2C   O2C    DOUB N N 5  
+CMK N3C   C4C    DOUB Y N 6  
+CMK C4C   C5C    SING Y N 7  
+CMK C4C   N4C    SING N N 8  
+CMK C5C   C6C    DOUB Y N 9  
+CMK C5C   H5C    SING N N 10 
+CMK C6C   H6C    SING N N 11 
+CMK N4C   H4C1   SING N N 12 
+CMK N4C   H4C2   SING N N 13 
+CMK "C1'" "C2'"  SING N N 14 
+CMK "C1'" "O4'"  SING N N 15 
+CMK "C1'" "H1'"  SING N N 16 
+CMK "C2'" "O2'"  SING N N 17 
+CMK "C2'" "C3'"  SING N N 18 
+CMK "C2'" "H2'"  SING N N 19 
+CMK "O2'" HA     SING N N 20 
+CMK "C3'" "C4'"  SING N N 21 
+CMK "C3'" "O3'"  SING N N 22 
+CMK "C3'" "H3'"  SING N N 23 
+CMK "C4'" "O4'"  SING N N 24 
+CMK "C4'" "C5'"  SING N N 25 
+CMK "C4'" "H4'"  SING N N 26 
+CMK "O3'" HB     SING N N 27 
+CMK "C5'" "O5'"  SING N N 28 
+CMK "C5'" "H5'1" SING N N 29 
+CMK "C5'" "H5'2" SING N N 30 
+CMK "O5'" PA     SING N N 31 
+CMK PA    O1A    SING N N 32 
+CMK PA    O2A    DOUB N N 33 
+CMK PA    O2     SING N N 34 
+CMK O1A   HO1A   SING N N 35 
+CMK O6    C2     SING N N 36 
+CMK O6    C6     SING N N 37 
+CMK C2    O2     SING N N 38 
+CMK C2    C3     SING N N 39 
+CMK C2    C1     SING N N 40 
+CMK C3    C4     SING N N 41 
+CMK C3    H3C1   SING N N 42 
+CMK C3    H3C2   SING N N 43 
+CMK C4    O4     SING N N 44 
+CMK C4    C5     SING N N 45 
+CMK C4    H4     SING N N 46 
+CMK O4    HC     SING N N 47 
+CMK C5    C6     SING N N 48 
+CMK C5    O5     SING N N 49 
+CMK C5    H5     SING N N 50 
+CMK C6    C7     SING N N 51 
+CMK C6    H6     SING N N 52 
+CMK C7    C8     SING N N 53 
+CMK C7    O7     SING N N 54 
+CMK C7    H7     SING N N 55 
+CMK C1    O1X    SING N N 56 
+CMK C1    O1Y    DOUB N N 57 
+CMK O1X   H1X    SING N N 58 
+CMK O5    HD     SING N N 59 
+CMK C8    O8     SING N N 60 
+CMK C8    H8C1   SING N N 61 
+CMK C8    H8C2   SING N N 62 
+CMK O8    H8     SING N N 63 
+CMK O7    HE     SING N N 64 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CMK SMILES           ACDLabs              10.04 "O=C(O)C1(OC(C(O)CO)C(O)C(O)C1)OP(=O)(O)OCC3OC(N2C(=O)N=C(N)C=C2)C(O)C3O" 
+CMK SMILES_CANONICAL CACTVS               3.341 "NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO[P@@](O)(=O)O[C@]3(C[C@@H](O)[C@@H](O)[C@H](O3)[C@H](O)CO)C(O)=O)[C@@H](O)[C@H]2O" 
+CMK SMILES           CACTVS               3.341 "NC1=NC(=O)N(C=C1)[CH]2O[CH](CO[P](O)(=O)O[C]3(C[CH](O)[CH](O)[CH](O3)[CH](O)CO)C(O)=O)[CH](O)[CH]2O" 
+CMK SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@H]([C@H]([C@H](O[C@@]1(C(=O)O)O[P@@](=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=NC3=O)N)O)O)[C@@H](CO)O)O)O" 
+CMK SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(C(OC1(C(=O)O)OP(=O)(O)OCC2C(C(C(O2)N3C=CC(=NC3=O)N)O)O)C(CO)O)O)O" 
+CMK InChI            InChI                1.03  
+"InChI=1S/C17H26N3O15P/c18-9-1-2-20(16(29)19-9)14-12(26)11(25)8(33-14)5-32-36(30,31)35-17(15(27)28)3-6(22)10(24)13(34-17)7(23)4-21/h1-2,6-8,10-14,21-26H,3-5H2,(H,27,28)(H,30,31)(H2,18,19,29)/t6-,7-,8-,10-,11-,12-,13-,14-,17-/m1/s1" 
+CMK InChIKey         InChI                1.03  YWWJKULNWGRYAS-UOVSKDHASA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CMK "SYSTEMATIC NAME" ACDLabs              10.04 
+"(2R,4R,5R,6R)-2-{[(S)-{[(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1(2H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methoxy}(hydroxy)phosphoryl]oxy}-6-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxytetrahydro-2H-pyran-2-carboxylic acid (non-preferred name)" 
+CMK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,4R,5R,6R)-2-[[(2R,3S,4R,5R)-5-(4-amino-2-oxo-pyrimidin-1-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-6-[(1R)-1,2-dihydroxyethyl]-4,5-dihydroxy-oxane-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CMK "Create component"  2001-11-21 EBI  
+CMK "Modify descriptor" 2011-06-04 RCSB 
+# 

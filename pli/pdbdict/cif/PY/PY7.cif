@@ -1,0 +1,117 @@
+data_PY7
+# 
+_chem_comp.id                                    PY7 
+_chem_comp.name                                  PYRIDIN-4-YLMETHANOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         4-PYRIDYLCARBINOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-11-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        109.126 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PY7 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2EUR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PY7 N1  N1  N 0 1 Y N N -8.720 72.240 14.963 -2.231 0.000  -0.214 N1  PY7 1  
+PY7 C2  C2  C 0 1 Y N N -8.101 71.196 14.401 -1.599 1.152  -0.097 C2  PY7 2  
+PY7 C3  C3  C 0 1 Y N N -7.915 70.035 15.115 -0.242 1.191  0.162  C3  PY7 3  
+PY7 C4  C4  C 0 1 Y N N -8.313 69.948 16.424 0.456  0.000  0.288  C4  PY7 4  
+PY7 C5  C5  C 0 1 Y N N -8.945 71.060 16.976 -0.241 -1.191 0.159  C5  PY7 5  
+PY7 C6  C6  C 0 1 Y N N -9.147 72.208 16.222 -1.599 -1.152 -0.094 C6  PY7 6  
+PY7 C7  C7  C 0 1 N N N -8.029 68.635 17.164 1.938  0.001  0.565  C7  PY7 7  
+PY7 O8  O8  O 0 1 N N N -8.625 68.761 18.431 2.653  -0.001 -0.672 O8  PY7 8  
+PY7 H2  H2  H 0 1 N N N -7.746 71.265 13.383 -2.150 2.075  -0.202 H2  PY7 9  
+PY7 H3  H3  H 0 1 N N N -7.451 69.184 14.640 0.269  2.138  0.256  H3  PY7 10 
+PY7 H5  H5  H 0 1 N N N -9.282 71.029 18.002 0.270  -2.137 0.255  H5  PY7 11 
+PY7 H6  H6  H 0 1 N N N -9.645 73.064 16.653 -2.150 -2.076 -0.196 H6  PY7 12 
+PY7 H71 1H7 H 0 1 N N N -6.948 68.450 17.248 2.201  -0.888 1.138  H71 PY7 13 
+PY7 H72 2H7 H 0 1 N N N -8.459 67.783 16.618 2.200  0.892  1.135  H72 PY7 14 
+PY7 HO8 HO8 H 0 1 N N N -7.949 68.789 19.098 3.595  0.000  -0.451 HO8 PY7 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PY7 N1 C2  SING Y N 1  
+PY7 N1 C6  DOUB Y N 2  
+PY7 C2 C3  DOUB Y N 3  
+PY7 C2 H2  SING N N 4  
+PY7 C3 C4  SING Y N 5  
+PY7 C3 H3  SING N N 6  
+PY7 C4 C5  DOUB Y N 7  
+PY7 C4 C7  SING N N 8  
+PY7 C5 C6  SING Y N 9  
+PY7 C5 H5  SING N N 10 
+PY7 C6 H6  SING N N 11 
+PY7 C7 O8  SING N N 12 
+PY7 C7 H71 SING N N 13 
+PY7 C7 H72 SING N N 14 
+PY7 O8 HO8 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PY7 SMILES           ACDLabs              10.04 OCc1ccncc1                                     
+PY7 SMILES_CANONICAL CACTVS               3.341 OCc1ccncc1                                     
+PY7 SMILES           CACTVS               3.341 OCc1ccncc1                                     
+PY7 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1cnccc1CO                                     
+PY7 SMILES           "OpenEye OEToolkits" 1.5.0 c1cnccc1CO                                     
+PY7 InChI            InChI                1.03  InChI=1S/C6H7NO/c8-5-6-1-3-7-4-2-6/h1-4,8H,5H2 
+PY7 InChIKey         InChI                1.03  PTMBWNZJOQBTBK-UHFFFAOYSA-N                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PY7 "SYSTEMATIC NAME" ACDLabs              10.04 pyridin-4-ylmethanol 
+PY7 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 pyridin-4-ylmethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PY7 "Create component"  2005-11-08 RCSB 
+PY7 "Modify descriptor" 2011-06-04 RCSB 
+# 

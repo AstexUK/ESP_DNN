@@ -1,0 +1,126 @@
+data_SW3
+# 
+_chem_comp.id                                    SW3 
+_chem_comp.name                                  "1-(1,5-dimethyl-1H-pyrazol-3-yl)methanamine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H11 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-06-08 
+_chem_comp.pdbx_modified_date                    2011-08-19 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        125.172 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SW3 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RXP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SW3 C1   C1   C 0 1 N N N -1.005 -14.140 13.481 2.387  1.534  -0.182 C1   SW3 1  
+SW3 N1   N1   N 0 1 N N N -3.120 -13.555 18.945 -3.124 -0.058 -0.748 N1   SW3 2  
+SW3 C2   C2   C 0 1 Y N N -1.346 -14.472 14.910 1.159  0.680  0.003  C2   SW3 3  
+SW3 N2   N2   N 0 1 Y N N -1.897 -15.334 16.879 -0.209 -1.062 0.207  N2   SW3 4  
+SW3 C3   C3   C 0 1 Y N N -1.334 -13.441 15.831 -0.104 1.129  0.190  C3   SW3 5  
+SW3 N3   N3   N 0 1 Y N N -1.680 -15.593 15.524 1.121  -0.669 0.006  N3   SW3 6  
+SW3 C4   C4   C 0 1 Y N N -1.685 -14.005 17.059 -0.942 0.016  0.317  C4   SW3 7  
+SW3 C5   C5   C 0 1 N N N -1.813 -13.291 18.384 -2.431 0.052  0.542  C5   SW3 8  
+SW3 C6   C6   C 0 1 N N N -1.849 -16.995 15.066 2.267  -1.564 -0.171 C6   SW3 9  
+SW3 H1   H1   H 0 1 N N N 0.079  -14.247 13.328 2.835  1.741  0.790  H1   SW3 10 
+SW3 H1A  H1A  H 0 1 N N N -1.540 -14.826 12.808 3.106  1.005  -0.807 H1A  SW3 11 
+SW3 H1B  H1B  H 0 1 N N N -1.305 -13.104 13.264 2.109  2.472  -0.661 H1B  SW3 12 
+SW3 HN1  HN1  H 0 1 N N N -3.208 -13.084 19.823 -4.126 -0.036 -0.624 HN1  SW3 13 
+SW3 HN1A HN1A H 0 0 N N N -3.825 -13.225 18.317 -2.823 0.666  -1.384 HN1A SW3 14 
+SW3 H3   H3   H 0 1 N N N -1.100 -12.404 15.639 -0.411 2.163  0.234  H3   SW3 15 
+SW3 H5   H5   H 0 1 N N N -1.690 -12.209 18.232 -2.703 0.993  1.022  H5   SW3 16 
+SW3 H5A  H5A  H 0 1 N N N -1.037 -13.654 19.074 -2.723 -0.780 1.183  H5A  SW3 17 
+SW3 H6   H6   H 0 1 N N N -2.133 -17.628 15.919 2.706  -1.788 0.801  H6   SW3 18 
+SW3 H6A  H6A  H 0 1 N N N -2.637 -17.038 14.300 1.936  -2.490 -0.642 H6A  SW3 19 
+SW3 H6B  H6B  H 0 1 N N N -0.902 -17.358 14.639 3.012  -1.080 -0.803 H6B  SW3 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SW3 C1 C2   SING N N 1  
+SW3 N1 C5   SING N N 2  
+SW3 C2 C3   DOUB Y N 3  
+SW3 C2 N3   SING Y N 4  
+SW3 N2 N3   SING Y N 5  
+SW3 N2 C4   DOUB Y N 6  
+SW3 C3 C4   SING Y N 7  
+SW3 N3 C6   SING N N 8  
+SW3 C4 C5   SING N N 9  
+SW3 C1 H1   SING N N 10 
+SW3 C1 H1A  SING N N 11 
+SW3 C1 H1B  SING N N 12 
+SW3 N1 HN1  SING N N 13 
+SW3 N1 HN1A SING N N 14 
+SW3 C3 H3   SING N N 15 
+SW3 C5 H5   SING N N 16 
+SW3 C5 H5A  SING N N 17 
+SW3 C6 H6   SING N N 18 
+SW3 C6 H6A  SING N N 19 
+SW3 C6 H6B  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SW3 SMILES           ACDLabs              12.01 "n1c(cc(n1C)C)CN"                                       
+SW3 InChI            InChI                1.03  "InChI=1S/C6H11N3/c1-5-3-6(4-7)8-9(5)2/h3H,4,7H2,1-2H3" 
+SW3 InChIKey         InChI                1.03  JGYXJOBBROGMLL-UHFFFAOYSA-N                             
+SW3 SMILES_CANONICAL CACTVS               3.370 "Cn1nc(CN)cc1C"                                         
+SW3 SMILES           CACTVS               3.370 "Cn1nc(CN)cc1C"                                         
+SW3 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "Cc1cc(nn1C)CN"                                         
+SW3 SMILES           "OpenEye OEToolkits" 1.7.2 "Cc1cc(nn1C)CN"                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SW3 "SYSTEMATIC NAME" ACDLabs              12.01 "1-(1,5-dimethyl-1H-pyrazol-3-yl)methanamine" 
+SW3 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(1,5-dimethylpyrazol-3-yl)methanamine"       
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SW3 "Create component" 2011-06-08 PDBJ 
+# 

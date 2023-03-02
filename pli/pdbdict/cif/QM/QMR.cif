@@ -1,0 +1,147 @@
+data_QMR
+# 
+_chem_comp.id                                    QMR 
+_chem_comp.name                                  VARENICLINE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C13 H13 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-01-19 
+_chem_comp.pdbx_modified_date                    2014-04-28 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        211.262 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     QMR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4AFG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+QMR C01  C01  C 0 1 N N N 23.112 -26.444 15.892 2.820  1.222  0.787  C01  QMR 1  
+QMR N02  N02  N 0 1 N N N 22.455 -25.157 15.835 2.456  0.005  1.523  N02  QMR 2  
+QMR C03  C03  C 0 1 N N N 23.052 -24.155 14.963 2.819  -1.217 0.795  C03  QMR 3  
+QMR C04  C04  C 0 1 N N R 24.552 -24.143 14.920 2.162  -1.185 -0.598 C04  QMR 4  
+QMR C05  C05  C 0 1 N N N 25.092 -25.462 14.836 2.828  -0.004 -1.361 C05  QMR 5  
+QMR C06  C06  C 0 1 N N S 24.586 -26.367 15.907 2.162  1.181  -0.605 C06  QMR 6  
+QMR C07  C07  C 0 1 Y N N 24.976 -25.311 16.727 0.732  0.697  -0.408 C07  QMR 7  
+QMR C08  C08  C 0 1 Y N N 25.394 -25.528 18.071 -0.425 1.396  -0.252 C08  QMR 8  
+QMR C09  C09  C 0 1 Y N N 25.802 -24.412 18.881 -1.640 0.709  -0.085 C09  QMR 9  
+QMR N10  N10  N 0 1 Y N N 26.217 -24.633 20.199 -2.791 1.370  0.074  N10  QMR 10 
+QMR C11  C11  C 0 1 Y N N 26.601 -23.576 20.957 -3.911 0.699  0.226  C11  QMR 11 
+QMR C12  C12  C 0 1 Y N N 26.600 -22.280 20.456 -3.912 -0.697 0.225  C12  QMR 12 
+QMR N13  N13  N 0 1 Y N N 26.213 -22.086 19.169 -2.793 -1.369 0.072  N13  QMR 13 
+QMR C14  C14  C 0 1 Y N N 25.795 -23.156 18.374 -1.640 -0.709 -0.084 C14  QMR 14 
+QMR C15  C15  C 0 1 Y N N 25.372 -22.942 17.027 -0.426 -1.398 -0.248 C15  QMR 15 
+QMR C16  C16  C 0 1 Y N N 24.965 -24.064 16.274 0.732  -0.700 -0.405 C16  QMR 16 
+QMR H011 H011 H 0 0 N N N 22.784 -26.960 16.806 2.467  2.098  1.332  H011 QMR 17 
+QMR H012 H012 H 0 0 N N N 22.805 -27.028 15.012 3.904  1.272  0.678  H012 QMR 18 
+QMR H02  H02  H 0 1 N N N 21.517 -25.309 15.524 2.858  0.008  2.449  H02  QMR 19 
+QMR H06  H06  H 0 1 N N N 25.118 -27.323 16.016 2.237  2.128  -1.140 H06  QMR 20 
+QMR H031 H031 H 0 0 N N N 22.686 -24.334 13.941 3.903  -1.269 0.686  H031 QMR 21 
+QMR H032 H032 H 0 0 N N N 22.715 -23.165 15.305 2.465  -2.089 1.346  H032 QMR 22 
+QMR H04  H04  H 0 1 N N N 24.986 -23.399 14.235 2.238  -2.135 -1.127 H04  QMR 23 
+QMR H051 H051 H 0 0 N N N 24.822 -25.890 13.859 3.910  -0.004 -1.230 H051 QMR 24 
+QMR H052 H052 H 0 0 N N N 26.187 -25.399 14.919 2.556  -0.008 -2.417 H052 QMR 25 
+QMR H08  H08  H 0 1 N N N 25.405 -26.527 18.481 -0.410 2.476  -0.255 H08  QMR 26 
+QMR H11  H11  H 0 1 N N N 26.916 -23.746 21.976 -4.840 1.234  0.354  H11  QMR 27 
+QMR H12  H12  H 0 1 N N N 26.900 -21.447 21.075 -4.842 -1.231 0.351  H12  QMR 28 
+QMR H15  H15  H 0 1 N N N 25.364 -21.951 16.597 -0.411 -2.478 -0.248 H15  QMR 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+QMR C01 N02  SING N N 1  
+QMR C01 C06  SING N N 2  
+QMR N02 C03  SING N N 3  
+QMR C03 C04  SING N N 4  
+QMR C04 C05  SING N N 5  
+QMR C04 C16  SING N N 6  
+QMR C05 C06  SING N N 7  
+QMR C06 C07  SING N N 8  
+QMR C07 C08  DOUB Y N 9  
+QMR C07 C16  SING Y N 10 
+QMR C08 C09  SING Y N 11 
+QMR C09 N10  DOUB Y N 12 
+QMR C09 C14  SING Y N 13 
+QMR N10 C11  SING Y N 14 
+QMR C11 C12  DOUB Y N 15 
+QMR C12 N13  SING Y N 16 
+QMR N13 C14  DOUB Y N 17 
+QMR C14 C15  SING Y N 18 
+QMR C15 C16  DOUB Y N 19 
+QMR C01 H011 SING N N 20 
+QMR C01 H012 SING N N 21 
+QMR N02 H02  SING N N 22 
+QMR C06 H06  SING N N 23 
+QMR C03 H031 SING N N 24 
+QMR C03 H032 SING N N 25 
+QMR C04 H04  SING N N 26 
+QMR C05 H051 SING N N 27 
+QMR C05 H052 SING N N 28 
+QMR C08 H08  SING N N 29 
+QMR C11 H11  SING N N 30 
+QMR C12 H12  SING N N 31 
+QMR C15 H15  SING N N 32 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+QMR SMILES           ACDLabs              12.01 "n1c2cc3c(cc2ncc1)C4CNCC3C4"                                                                          
+QMR InChI            InChI                1.03  "InChI=1S/C13H13N3/c1-2-16-13-5-11-9-3-8(6-14-7-9)10(11)4-12(13)15-1/h1-2,4-5,8-9,14H,3,6-7H2/t8-,9+" 
+QMR InChIKey         InChI                1.03  JQSHBVHOMNKWFT-DTORHVGOSA-N                                                                           
+QMR SMILES_CANONICAL CACTVS               3.370 "C1NC[C@@H]2C[C@H]1c3cc4nccnc4cc23"                                                                   
+QMR SMILES           CACTVS               3.370 "C1NC[CH]2C[CH]1c3cc4nccnc4cc23"                                                                      
+QMR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cnc2cc3c(cc2n1)[C@@H]4C[C@H]3CNC4"                                                                 
+QMR SMILES           "OpenEye OEToolkits" 1.7.6 "c1cnc2cc3c(cc2n1)C4CC3CNC4"                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+QMR "SYSTEMATIC NAME" ACDLabs 12.01 "(6R,10S)-7,8,9,10-tetrahydro-6H-6,10-methanoazepino[4,5-g]quinoxaline" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+QMR "Create component"   2012-01-19 EBI 
+QMR "Other modification" 2014-04-28 EBI 
+# 

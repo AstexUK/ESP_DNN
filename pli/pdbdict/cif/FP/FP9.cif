@@ -1,0 +1,122 @@
+data_FP9
+# 
+_chem_comp.id                                    FP9 
+_chem_comp.name                                  "(4R)-4-fluoro-L-proline" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H8 F N O2" 
+_chem_comp.mon_nstd_parent_comp_id               PRO 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-08-18 
+_chem_comp.pdbx_modified_date                    2014-01-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.121 
+_chem_comp.one_letter_code                       P 
+_chem_comp.three_letter_code                     FP9 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3IPN 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FP9 C   C   C 0 1 N N N 12.195 7.329  33.260 -1.845 0.080  0.014  C   FP9 1  
+FP9 N   N   N 0 1 N N N 12.031 8.985  31.428 0.117  -1.377 0.281  N   FP9 2  
+FP9 O   O   O 0 1 N N N 11.015 7.003  33.103 -2.277 -0.751 -0.749 O   FP9 3  
+FP9 CA  CA  C 0 1 N N S 12.736 8.623  32.669 -0.419 -0.007 0.494  CA  FP9 4  
+FP9 CB  CB  C 0 1 N N N 12.429 9.802  33.622 0.492  0.903  -0.357 CB  FP9 5  
+FP9 CD  CD  C 0 1 N N N 11.397 10.319 31.511 1.591  -1.194 0.270  CD  FP9 6  
+FP9 FD  FD  F 0 1 N N N 13.397 11.467 32.184 2.871  0.845  0.060  FD  FP9 7  
+FP9 CG  CG  C 0 1 N N R 12.092 10.920 32.706 1.814  0.122  -0.504 CG  FP9 8  
+FP9 OXT OXT O 0 1 N Y N 13.067 6.478  34.008 -2.633 1.083  0.432  OXT FP9 9  
+FP9 HN  HN  H 0 1 N Y N 12.688 8.988  30.674 -0.166 -1.995 1.027  HN  FP9 10 
+FP9 HA  HA  H 0 1 N N N 13.820 8.545  32.501 -0.355 0.266  1.548  HA  FP9 11 
+FP9 HB  HB  H 0 1 N N N 11.579 9.564  34.279 0.045  1.078  -1.335 HB  FP9 12 
+FP9 HBA HBA H 0 1 N N N 13.308 10.049 34.235 0.667  1.849  0.155  HBA FP9 13 
+FP9 HD  HD  H 0 1 N N N 11.584 10.908 30.601 1.971  -1.106 1.288  HD  FP9 14 
+FP9 HDA HDA H 0 1 N N N 10.313 10.237 31.678 2.073  -2.025 -0.246 HDA FP9 15 
+FP9 HG  HG  H 0 1 N N N 11.483 11.695 33.194 2.016  -0.086 -1.555 HG  FP9 16 
+FP9 HXT HXT H 0 1 N Y N 12.586 5.716  34.308 -3.539 1.099  0.094  HXT FP9 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FP9 C   O   DOUB N N 1  
+FP9 C   CA  SING N N 2  
+FP9 C   OXT SING N N 3  
+FP9 N   CA  SING N N 4  
+FP9 N   CD  SING N N 5  
+FP9 N   HN  SING N N 6  
+FP9 CA  CB  SING N N 7  
+FP9 CA  HA  SING N N 8  
+FP9 CB  CG  SING N N 9  
+FP9 CB  HB  SING N N 10 
+FP9 CB  HBA SING N N 11 
+FP9 CD  CG  SING N N 12 
+FP9 CD  HD  SING N N 13 
+FP9 CD  HDA SING N N 14 
+FP9 FD  CG  SING N N 15 
+FP9 CG  HG  SING N N 16 
+FP9 OXT HXT SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FP9 SMILES           ACDLabs              12.01 "O=C(O)C1NCC(F)C1"                                                          
+FP9 InChI            InChI                1.03  "InChI=1S/C5H8FNO2/c6-3-1-4(5(8)9)7-2-3/h3-4,7H,1-2H2,(H,8,9)/t3-,4+/m1/s1" 
+FP9 InChIKey         InChI                1.03  ZIWHMENIDGOELV-DMTCNVIQSA-N                                                 
+FP9 SMILES_CANONICAL CACTVS               3.385 "OC(=O)[C@@H]1C[C@@H](F)CN1"                                                
+FP9 SMILES           CACTVS               3.385 "OC(=O)[CH]1C[CH](F)CN1"                                                    
+FP9 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C1[C@H](CN[C@@H]1C(=O)O)F"                                                 
+FP9 SMILES           "OpenEye OEToolkits" 1.7.6 "C1C(CNC1C(=O)O)F"                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FP9 "SYSTEMATIC NAME" ACDLabs              12.01 "(4R)-4-fluoro-L-proline"                          
+FP9 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S,4R)-4-fluoranylpyrrolidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FP9 "Create component"         2009-08-18 RCSB 
+FP9 "Modify descriptor"        2011-06-04 RCSB 
+FP9 "Modify leaving atom flag" 2014-01-06 RCSB 
+# 

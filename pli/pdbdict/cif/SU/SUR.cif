@@ -1,0 +1,156 @@
+data_SUR
+# 
+_chem_comp.id                                    SUR 
+_chem_comp.name                                  "1-(BETA-D-RIBOFURANOSYL)-2-THIO-URACIL-5'-PHOSPHATE" 
+_chem_comp.type                                  "RNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C9 H13 N2 O8 P S" 
+_chem_comp.mon_nstd_parent_comp_id               U 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-11-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        340.247 
+_chem_comp.one_letter_code                       U 
+_chem_comp.three_letter_code                     SUR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye OEToolkits" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SUR P      P      P 0 1 N N N 26.629 102.638 21.501 2.787  0.324  -4.407 P      SUR 1  
+SUR OP1    O1P    O 0 1 N N N 26.280 103.482 22.680 1.198  0.588  -4.548 OP1    SUR 2  
+SUR OP2    O2P    O 0 1 N N N 27.987 102.745 20.896 3.659  1.172  -5.286 OP2    SUR 3  
+SUR OP3    O3P    O 0 1 N Y N 26.406 101.107 21.918 2.921  -1.270 -4.647 OP3    SUR 4  
+SUR "O5'"  "O5'"  O 0 1 N N N 25.543 102.870 20.355 3.063  0.476  -2.819 "O5'"  SUR 5  
+SUR "C5'"  "C5'"  C 0 1 N N N 25.319 101.859 19.374 2.282  -0.292 -1.921 "C5'"  SUR 6  
+SUR "C4'"  "C4'"  C 0 1 N N R 24.297 102.304 18.348 2.725  0.023  -0.498 "C4'"  SUR 7  
+SUR "O4'"  "O4'"  O 0 1 N N N 24.141 101.226 17.380 2.470  1.422  -0.246 "O4'"  SUR 8  
+SUR "C3'"  "C3'"  C 0 1 N N S 22.885 102.598 18.860 1.940  -0.742 0.560  "C3'"  SUR 9  
+SUR "C1'"  "C1'"  C 0 1 N N R 22.799 100.774 17.386 1.373  1.543  0.675  "C1'"  SUR 10 
+SUR N1     N1     N 0 1 N N N 22.795 99.332  17.101 0.452  2.524  0.177  N1     SUR 11 
+SUR "C2'"  "C2'"  C 0 1 N N R 22.200 101.242 18.712 0.748  0.163  0.786  "C2'"  SUR 12 
+SUR C6     C6     C 0 1 N N N 22.918 98.370  18.092 0.337  2.633  -1.215 C6     SUR 13 
+SUR C2     C2     C 0 1 N N N 22.672 98.966  15.785 -0.342 3.386  0.985  C2     SUR 14 
+SUR C5     C5     C 0 1 N N N 22.925 97.055  17.824 -0.465 3.487  -1.853 C5     SUR 15 
+SUR S2     S2     S 0 1 N N N 22.523 100.082 14.535 -0.358 3.423  2.667  S2     SUR 16 
+SUR N3     N3     N 0 1 N N N 22.679 97.628  15.527 -1.178 4.275  0.304  N3     SUR 17 
+SUR C4     C4     C 0 1 N N N 22.797 96.605  16.462 -1.312 4.404  -1.068 C4     SUR 18 
+SUR O4     O4     O 0 1 N N N 22.754 95.433  16.079 -2.061 5.202  -1.623 O4     SUR 19 
+SUR "O2'"  "O2'"  O 0 1 N N N 20.792 101.338 18.623 0.137  -0.058 2.041  "O2'"  SUR 20 
+SUR "O3'"  "O3'"  O 0 1 N N N 22.292 103.508 17.936 2.742  -0.809 1.739  "O3'"  SUR 21 
+SUR HOP1   1HOP   H 0 0 N N N 25.414 103.413 23.065 0.799  0.616  -5.443 HOP1   SUR 22 
+SUR HOP3   3HOP   H 0 0 N N N 26.362 100.569 21.136 2.886  -1.617 -5.563 HOP3   SUR 23 
+SUR "H5'1" "1H5'" H 0 0 N N N 26.271 101.539 18.890 1.229  -0.035 -2.051 "H5'1" SUR 24 
+SUR "H5'2" "2H5'" H 0 0 N N N 25.031 100.889 19.843 2.428  -1.352 -2.133 "H5'2" SUR 25 
+SUR "H4'"  "H4'"  H 0 1 N N N 24.702 103.264 17.951 3.804  -0.139 -0.410 "H4'"  SUR 26 
+SUR "H3'"  "H3'"  H 0 1 N N N 22.829 103.020 19.890 1.675  -1.764 0.277  "H3'"  SUR 27 
+SUR "H1'"  "H1'"  H 0 1 N N N 22.141 101.196 16.590 1.754  1.910  1.633  "H1'"  SUR 28 
+SUR "H2'"  "H2'"  H 0 1 N N N 22.361 100.563 19.581 -0.000 0.004  -0.000 "H2'"  SUR 29 
+SUR HC6    HC6    H 0 1 N N N 23.015 98.666  19.149 0.966  1.953  -1.781 HC6    SUR 30 
+SUR HC5    HC5    H 0 1 N N N 23.031 96.374  18.685 -0.514 3.528  -2.935 HC5    SUR 31 
+SUR HN3    HN3    H 0 1 N N N 22.587 97.368  14.544 -1.747 4.892  0.877  HN3    SUR 32 
+SUR HO2    HO2    H 0 1 N N N 20.365 100.494 18.530 -0.494 0.669  2.185  HO2    SUR 33 
+SUR HO3    HO3    H 0 1 N Y N 21.415 103.690 18.253 3.447  -0.153 1.628  HO3    SUR 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SUR P     OP1    SING N N 1  
+SUR P     OP2    DOUB N N 2  
+SUR P     OP3    SING N N 3  
+SUR P     "O5'"  SING N N 4  
+SUR OP1   HOP1   SING N N 5  
+SUR OP3   HOP3   SING N N 6  
+SUR "O5'" "C5'"  SING N N 7  
+SUR "C5'" "C4'"  SING N N 8  
+SUR "C5'" "H5'1" SING N N 9  
+SUR "C5'" "H5'2" SING N N 10 
+SUR "C4'" "O4'"  SING N N 11 
+SUR "C4'" "C3'"  SING N N 12 
+SUR "C4'" "H4'"  SING N N 13 
+SUR "O4'" "C1'"  SING N N 14 
+SUR "C3'" "C2'"  SING N N 15 
+SUR "C3'" "O3'"  SING N N 16 
+SUR "C3'" "H3'"  SING N N 17 
+SUR "C1'" N1     SING N N 18 
+SUR "C1'" "C2'"  SING N N 19 
+SUR "C1'" "H1'"  SING N N 20 
+SUR N1    C6     SING N N 21 
+SUR N1    C2     SING N N 22 
+SUR "C2'" "O2'"  SING N N 23 
+SUR "C2'" "H2'"  SING N N 24 
+SUR C6    C5     DOUB N N 25 
+SUR C6    HC6    SING N N 26 
+SUR C2    S2     DOUB N N 27 
+SUR C2    N3     SING N N 28 
+SUR C5    C4     SING N N 29 
+SUR C5    HC5    SING N N 30 
+SUR N3    C4     SING N N 31 
+SUR N3    HN3    SING N N 32 
+SUR C4    O4     DOUB N N 33 
+SUR "O2'" HO2    SING N N 34 
+SUR "O3'" HO3    SING N N 35 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SUR SMILES           ACDLabs              10.04 "O=C1NC(=S)N(C=C1)C2OC(C(O)C2O)COP(=O)(O)O"                                                                                                          
+SUR SMILES_CANONICAL CACTVS               3.341 "O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P](O)(O)=O)N2C=CC(=O)NC2=S"                                                                                       
+SUR SMILES           CACTVS               3.341 "O[CH]1[CH](O)[CH](O[CH]1CO[P](O)(O)=O)N2C=CC(=O)NC2=S"                                                                                              
+SUR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=CN(C(=S)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O"                                                                                      
+SUR SMILES           "OpenEye OEToolkits" 1.5.0 "C1=CN(C(=S)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O"                                                                                                        
+SUR InChI            InChI                1.03  "InChI=1S/C9H13N2O8PS/c12-5-1-2-11(9(21)10-5)8-7(14)6(13)4(19-8)3-18-20(15,16)17/h1-2,4,6-8,13-14H,3H2,(H,10,12,21)(H2,15,16,17)/t4-,6-,7-,8-/m1/s1" 
+SUR InChIKey         InChI                1.03  OEUXFECIJDETRF-XVFCMESISA-N                                                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SUR "SYSTEMATIC NAME" ACDLabs              10.04 "1-(5-O-phosphono-beta-D-ribofuranosyl)-2-thioxo-2,3-dihydropyrimidin-4(1H)-one"                               
+SUR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-3,4-dihydroxy-5-(4-oxo-2-sulfanylidene-pyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SUR "Create component"  2000-11-21 EBI  
+SUR "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,132 @@
+data_LMQ
+# 
+_chem_comp.id                                    LMQ 
+_chem_comp.name                                  "(3S)-3-methyl-L-glutamine" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H12 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               GLN 
+_chem_comp.pdbx_synonyms                         beta-methylglutamine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-06-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        160.171 
+_chem_comp.one_letter_code                       Q 
+_chem_comp.three_letter_code                     LMQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RPL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LMQ N    N    N 0 1 N N N 3.324 0.491  -2.880 1.119  1.999  0.069  N    LMQ 1  
+LMQ CA   CA   C 0 1 N N S 2.561 -0.488 -3.627 1.120  0.593  0.493  CA   LMQ 2  
+LMQ CB   CB   C 0 1 N N S 2.728 -0.230 -5.143 -0.132 -0.103 -0.045 CB   LMQ 3  
+LMQ CB2  CB2  C 0 1 N N N 2.024 1.074  -5.546 -0.132 -1.568 0.397  CB2  LMQ 4  
+LMQ CG   CG   C 0 1 N N N 4.211 -0.183 -5.582 -1.378 0.595  0.504  CG   LMQ 5  
+LMQ CD   CD   C 0 1 N N N 4.443 0.233  -7.026 -2.609 -0.011 -0.120 CD   LMQ 6  
+LMQ OE1  OE1  O 0 1 N N N 5.020 1.287  -7.312 -2.500 -0.912 -0.925 OE1  LMQ 7  
+LMQ NE2  NE2  N 0 1 N N N 3.856 -0.474 -7.970 -3.831 0.449  0.216  NE2  LMQ 8  
+LMQ C    C    C 0 1 N N N 3.004 -1.880 -3.200 2.347  -0.095 -0.047 C    LMQ 9  
+LMQ O    O    O 0 1 N N N 4.202 -2.127 -3.042 2.942  0.380  -0.986 O    LMQ 10 
+LMQ OXT  OXT  O 0 1 N Y N 2.054 -2.803 -3.074 2.780  -1.235 0.514  OXT  LMQ 11 
+LMQ H    H    H 0 1 N N N 3.500 0.145  -1.958 1.903  2.496  0.464  H    LMQ 12 
+LMQ H2   H2   H 0 1 N Y N 4.194 0.660  -3.344 1.115  2.073  -0.938 H2   LMQ 13 
+LMQ HA   HA   H 0 1 N N N 1.485 -0.404 -3.413 1.125  0.542  1.582  HA   LMQ 14 
+LMQ HB3  HB3  H 0 1 N N N 2.260 -1.080 -5.661 -0.137 -0.052 -1.133 HB3  LMQ 15 
+LMQ HB21 HB21 H 0 0 N N N 1.856 1.692  -4.652 -0.127 -1.619 1.486  HB21 LMQ 16 
+LMQ HB22 HB22 H 0 0 N N N 2.654 1.625  -6.259 -1.024 -2.063 0.014  HB22 LMQ 17 
+LMQ HB23 HB23 H 0 0 N N N 1.058 0.839  -6.016 0.756  -2.065 0.007  HB23 LMQ 18 
+LMQ HG2  HG2  H 0 1 N N N 4.726 0.545  -4.938 -1.420 0.467  1.586  HG2  LMQ 19 
+LMQ HG3  HG3  H 0 1 N N N 4.594 -1.210 -5.490 -1.335 1.657  0.265  HG3  LMQ 20 
+LMQ HE21 HE21 H 0 0 N N N 3.376 -1.253 -7.566 -3.918 1.169  0.859  HE21 LMQ 21 
+LMQ HE22 HE22 H 0 0 N N N 3.886 -0.263 -8.947 -4.623 0.059  -0.186 HE22 LMQ 22 
+LMQ HXT  HXT  H 0 1 N Y N 2.450 -3.638 -2.853 3.572  -1.638 0.132  HXT  LMQ 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LMQ N   CA   SING N N 1  
+LMQ CA  CB   SING N N 2  
+LMQ CA  C    SING N N 3  
+LMQ CB  CB2  SING N N 4  
+LMQ CB  CG   SING N N 5  
+LMQ CG  CD   SING N N 6  
+LMQ CD  OE1  DOUB N N 7  
+LMQ CD  NE2  SING N N 8  
+LMQ C   O    DOUB N N 9  
+LMQ C   OXT  SING N N 10 
+LMQ N   H    SING N N 11 
+LMQ N   H2   SING N N 12 
+LMQ CA  HA   SING N N 13 
+LMQ CB  HB3  SING N N 14 
+LMQ CB2 HB21 SING N N 15 
+LMQ CB2 HB22 SING N N 16 
+LMQ CB2 HB23 SING N N 17 
+LMQ CG  HG2  SING N N 18 
+LMQ CG  HG3  SING N N 19 
+LMQ NE2 HE21 SING N N 20 
+LMQ NE2 HE22 SING N N 21 
+LMQ OXT HXT  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LMQ SMILES           ACDLabs              10.04 "O=C(N)CC(C)C(N)C(=O)O"                                                                      
+LMQ SMILES_CANONICAL CACTVS               3.341 "C[C@@H](CC(N)=O)[C@H](N)C(O)=O"                                                             
+LMQ SMILES           CACTVS               3.341 "C[CH](CC(N)=O)[CH](N)C(O)=O"                                                                
+LMQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H](CC(=O)N)[C@@H](C(=O)O)N"                                                            
+LMQ SMILES           "OpenEye OEToolkits" 1.5.0 "CC(CC(=O)N)C(C(=O)O)N"                                                                      
+LMQ InChI            InChI                1.03  "InChI=1S/C6H12N2O3/c1-3(2-4(7)9)5(8)6(10)11/h3,5H,2,8H2,1H3,(H2,7,9)(H,10,11)/t3-,5-/m0/s1" 
+LMQ InChIKey         InChI                1.03  RWBLYSWJMSKZAL-UCORVYFPSA-N                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LMQ "SYSTEMATIC NAME" ACDLabs              10.04 "(3S)-3-methyl-L-glutamine"                         
+LMQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S)-2,5-diamino-3-methyl-5-oxo-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LMQ "Create component"  2008-06-02 PDBJ 
+LMQ "Modify descriptor" 2011-06-04 RCSB 
+# 

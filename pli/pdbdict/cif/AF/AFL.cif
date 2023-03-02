@@ -1,0 +1,132 @@
+data_AFL
+# 
+_chem_comp.id                                    AFL 
+_chem_comp.name                                  ALPHA-L-FUCOSE 
+_chem_comp.type                                  L-SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H12 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-09-19 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      FUL 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        164.156 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AFL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AFL C1  C1  C 0 1 N N S -2.535 15.370 61.435 1.246  -0.219 -0.708 C1  AFL 1  
+AFL C2  C2  C 0 1 N N S -3.427 16.571 61.797 -0.142 0.179  -1.213 C2  AFL 2  
+AFL C3  C3  C 0 1 N N R -4.720 16.560 60.965 -1.204 -0.530 -0.366 C3  AFL 3  
+AFL C4  C4  C 0 1 N N S -4.374 16.317 59.493 -0.935 -0.225 1.111  C4  AFL 4  
+AFL C5  C5  C 0 1 N N S -3.676 14.949 59.335 0.512  -0.594 1.441  C5  AFL 5  
+AFL C6  C6  C 0 1 N N N -4.570 13.885 58.717 0.780  -0.326 2.923  C6  AFL 6  
+AFL O2  O2  O 0 1 N N N -2.718 17.782 61.565 -0.282 -0.208 -2.582 O2  AFL 7  
+AFL O3  O3  O 0 1 N N N -5.578 15.527 61.439 -2.502 -0.056 -0.728 O3  AFL 8  
+AFL O4  O4  O 0 1 N N N -5.551 16.371 58.697 -1.146 1.166  1.358  O4  AFL 9  
+AFL O1L O1L O 0 1 N Y N -2.061 14.779 62.602 2.243  0.414  -1.513 O1L AFL 10 
+AFL O5  O5  O 0 1 N N N -3.244 14.436 60.622 1.402  0.190  0.649  O5  AFL 11 
+AFL H1  H1  H 0 1 N N N -2.109 14.885 62.344 1.360  -1.300 -0.776 H1  AFL 12 
+AFL HA  HA  H 0 1 N N N -3.693 16.510 62.878 -0.266 1.258  -1.125 HA  AFL 13 
+AFL HB  HB  H 0 1 N N N -5.234 17.544 61.067 -1.148 -1.606 -0.535 HB  AFL 14 
+AFL HC  HC  H 0 1 N N N -3.675 17.117 59.153 -1.610 -0.812 1.733  HC  AFL 15 
+AFL HD  HD  H 0 1 N N N -2.779 15.080 58.686 0.674  -1.651 1.228  HD  AFL 16 
+AFL HA1 1HA H 0 1 N N N -4.902 14.279 57.728 1.811  -0.591 3.159  HA1 AFL 17 
+AFL HB2 2HB H 0 1 N N N -5.417 13.584 59.377 0.619  0.730  3.136  HB2 AFL 18 
+AFL HC3 3HC H 0 1 N N N -4.082 12.885 58.650 0.103  -0.927 3.529  HC3 AFL 19 
+AFL H2  H2  H 0 1 N N N -3.269 18.523 61.788 0.408  0.255  -3.075 H2  AFL 20 
+AFL H3  H3  H 0 1 N N N -6.377 15.520 60.925 -2.622 -0.257 -1.667 H3  AFL 21 
+AFL H4  H4  H 0 1 N N N -5.336 16.220 57.784 -0.966 1.313  2.296  H4  AFL 22 
+AFL HE  HE  H 0 1 N N N -1.510 14.037 62.378 3.101  0.135  -1.166 HE  AFL 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AFL C1  C2  SING N N 1  
+AFL C1  O1L SING N N 2  
+AFL C1  O5  SING N N 3  
+AFL C1  H1  SING N N 4  
+AFL C2  C3  SING N N 5  
+AFL C2  O2  SING N N 6  
+AFL C2  HA  SING N N 7  
+AFL C3  C4  SING N N 8  
+AFL C3  O3  SING N N 9  
+AFL C3  HB  SING N N 10 
+AFL C4  C5  SING N N 11 
+AFL C4  O4  SING N N 12 
+AFL C4  HC  SING N N 13 
+AFL C5  C6  SING N N 14 
+AFL C5  O5  SING N N 15 
+AFL C5  HD  SING N N 16 
+AFL C6  HA1 SING N N 17 
+AFL C6  HB2 SING N N 18 
+AFL C6  HC3 SING N N 19 
+AFL O2  H2  SING N N 20 
+AFL O3  H3  SING N N 21 
+AFL O4  H4  SING N N 22 
+AFL O1L HE  SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AFL SMILES           ACDLabs              10.04 "OC1C(O)C(OC(O)C1O)C"                                                         
+AFL InChI            InChI                1.02b "InChI=1/C6H12O5/c1-2-3(7)4(8)5(9)6(10)11-2/h2-10H,1H3/t2-,3+,4+,5-,6?/m0/s1" 
+AFL InChIKey         InChI                1.02b SHZGCJCMOBCMKK-DHVFOXMCBB                                                     
+AFL SMILES_CANONICAL CACTVS               3.341 "C[C@@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@@H]1O"                                  
+AFL SMILES           CACTVS               3.341 "C[CH]1O[CH](O)[CH](O)[CH](O)[CH]1O"                                          
+AFL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@H]1[C@H]([C@H]([C@@H]([C@H](O1)O)O)O)O"                                  
+AFL SMILES           "OpenEye OEToolkits" 1.5.0 "CC1C(C(C(C(O1)O)O)O)O"                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AFL "SYSTEMATIC NAME" ACDLabs              10.04 6-deoxy-beta-L-galactopyranose                  
+AFL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S,4R,5S,6S)-6-methyloxane-2,3,4,5-tetrol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AFL "Create component" 2002-09-19 EBI 
+# 

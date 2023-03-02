@@ -1,0 +1,162 @@
+data_TSP
+# 
+_chem_comp.id                                    TSP 
+_chem_comp.name                                  "3'-THIO-THYMIDINE-5'-PHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H15 N2 O7 P S" 
+_chem_comp.mon_nstd_parent_comp_id               T 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        338.274 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TSP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EO3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TSP P      P    P 0 1 N N N -3.306 -10.652 6.869  1.384  -0.030 -4.014 P      TSP 1  
+TSP OP1    O1P  O 0 1 N N N -4.628 -10.072 6.664  2.039  1.193  -3.502 OP1    TSP 2  
+TSP OP2    O2P  O 0 1 N N N -2.781 -10.820 8.233  2.490  -0.992 -4.680 OP2    TSP 3  
+TSP OP3    O3P  O 0 1 N Y N -3.218 -12.036 6.093  0.285  0.370  -5.120 OP3    TSP 4  
+TSP "O5'"  O5*  O 0 1 N N N -2.229 -9.768  6.088  0.664  -0.802 -2.798 "O5'"  TSP 5  
+TSP "C5'"  C5*  C 0 1 N N N -0.850 -10.207 5.963  -0.300 0.097  -2.251 "C5'"  TSP 6  
+TSP "C4'"  C4*  C 0 1 N N R 0.017  -9.103  5.391  -1.024 -0.578 -1.084 "C4'"  TSP 7  
+TSP "O4'"  O4*  O 0 1 N N N -0.024 -9.173  3.943  -0.112 -0.826 0.009  "O4'"  TSP 8  
+TSP "C3'"  C3*  C 0 1 N N S -0.520 -7.725  5.715  -2.079 0.376  -0.470 "C3'"  TSP 9  
+TSP "S3'"  S3*  S 0 1 N N N 0.067  -6.871  7.085  -3.656 0.259  -1.358 "S3'"  TSP 10 
+TSP "C2'"  C2*  C 0 1 N N N -0.364 -6.899  4.456  -2.214 -0.173 0.970  "C2'"  TSP 11 
+TSP "C1'"  C1*  C 0 1 N N R -0.117 -7.881  3.347  -0.913 -0.967 1.195  "C1'"  TSP 12 
+TSP N1     N1   N 0 1 N N N -1.350 -7.822  2.522  -0.192 -0.425 2.350  N1     TSP 13 
+TSP C2     C2   C 0 1 N N N -1.267 -7.230  1.283  0.204  0.859  2.345  C2     TSP 14 
+TSP O2     O2   O 0 1 N N N -0.206 -6.906  0.766  -0.040 1.558  1.380  O2     TSP 15 
+TSP N3     N3   N 0 1 N N N -2.467 -7.046  0.654  0.867  1.383  3.392  N3     TSP 16 
+TSP C4     C4   C 0 1 N N N -3.707 -7.440  1.102  1.142  0.622  4.471  C4     TSP 17 
+TSP O4     O4   O 0 1 N N N -4.690 -7.214  0.425  1.742  1.095  5.420  O4     TSP 18 
+TSP C5     C5   C 0 1 N N N -3.720 -8.126  2.378  0.735  -0.733 4.488  C5     TSP 19 
+TSP C5M    C5M  C 0 1 N N N -5.025 -8.622  2.913  1.034  -1.605 5.679  C5M    TSP 20 
+TSP C6     C6   C 0 1 N N N -2.554 -8.281  3.014  0.071  -1.232 3.423  C6     TSP 21 
+TSP HOP2   2HOP H 0 0 N N N -1.919 -11.197 8.366  2.896  -0.492 -5.402 HOP2   TSP 22 
+TSP HOP3   3HOP H 0 0 N N N -2.356 -12.413 6.226  -0.116 -0.453 -5.427 HOP3   TSP 23 
+TSP "H5'"  1H5* H 0 1 N N N -0.448 -10.586 6.931  -1.024 0.366  -3.020 "H5'"  TSP 24 
+TSP "H5''" 2H5* H 0 0 N N N -0.768 -11.146 5.367  0.202  0.996  -1.894 "H5''" TSP 25 
+TSP "H4'"  H4*  H 0 1 N N N 1.034  -9.245  5.824  -1.491 -1.507 -1.410 "H4'"  TSP 26 
+TSP "H3'"  H3*  H 0 1 N N N -1.571 -7.899  6.041  -1.715 1.404  -0.461 "H3'"  TSP 27 
+TSP "HS3'" *HS3 H 0 0 N N N -0.270 -6.006  7.288  -4.420 1.048  -0.583 "HS3'" TSP 28 
+TSP "H2'"  1H2* H 0 1 N N N -1.223 -6.215  4.262  -3.080 -0.830 1.048  "H2'"  TSP 29 
+TSP "H2''" 2H2* H 0 0 N N N 0.420  -6.110  4.535  -2.290 0.645  1.686  "H2''" TSP 30 
+TSP "H1'"  H1*  H 0 1 N N N 0.802  -7.670  2.752  -1.145 -2.019 1.363  "H1'"  TSP 31 
+TSP HN3    HN3  H 0 1 N N N -2.433 -6.563  -0.244 1.146  2.312  3.372  HN3    TSP 32 
+TSP H71    1H5M H 0 1 N N N -5.035 -9.150  3.895  1.572  -1.025 6.428  H71    TSP 33 
+TSP H72    2H5M H 0 1 N N N -5.745 -7.771  2.952  0.099  -1.971 6.105  H72    TSP 34 
+TSP H73    3H5M H 0 1 N N N -5.504 -9.275  2.147  1.645  -2.451 5.366  H73    TSP 35 
+TSP H6     H6   H 0 1 N N N -2.586 -8.808  3.982  -0.250 -2.263 3.419  H6     TSP 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TSP P     OP1    DOUB N N 1  
+TSP P     OP2    SING N N 2  
+TSP P     OP3    SING N N 3  
+TSP P     "O5'"  SING N N 4  
+TSP OP2   HOP2   SING N N 5  
+TSP OP3   HOP3   SING N N 6  
+TSP "O5'" "C5'"  SING N N 7  
+TSP "C5'" "C4'"  SING N N 8  
+TSP "C5'" "H5'"  SING N N 9  
+TSP "C5'" "H5''" SING N N 10 
+TSP "C4'" "O4'"  SING N N 11 
+TSP "C4'" "C3'"  SING N N 12 
+TSP "C4'" "H4'"  SING N N 13 
+TSP "O4'" "C1'"  SING N N 14 
+TSP "C3'" "S3'"  SING N N 15 
+TSP "C3'" "C2'"  SING N N 16 
+TSP "C3'" "H3'"  SING N N 17 
+TSP "S3'" "HS3'" SING N N 18 
+TSP "C2'" "C1'"  SING N N 19 
+TSP "C2'" "H2'"  SING N N 20 
+TSP "C2'" "H2''" SING N N 21 
+TSP "C1'" N1     SING N N 22 
+TSP "C1'" "H1'"  SING N N 23 
+TSP N1    C2     SING N N 24 
+TSP N1    C6     SING N N 25 
+TSP C2    O2     DOUB N N 26 
+TSP C2    N3     SING N N 27 
+TSP N3    C4     SING N N 28 
+TSP N3    HN3    SING N N 29 
+TSP C4    O4     DOUB N N 30 
+TSP C4    C5     SING N N 31 
+TSP C5    C5M    SING N N 32 
+TSP C5    C6     DOUB N N 33 
+TSP C5M   H71    SING N N 34 
+TSP C5M   H72    SING N N 35 
+TSP C5M   H73    SING N N 36 
+TSP C6    H6     SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TSP SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C(S)C2)COP(=O)(O)O"                                                                                                       
+TSP SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@H]2C[C@H](S)[C@@H](CO[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                        
+TSP SMILES           CACTVS               3.341 "CC1=CN([CH]2C[CH](S)[CH](CO[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                            
+TSP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)S"                                                                                          
+TSP SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)S"                                                                                                       
+TSP InChI            InChI                1.03  "InChI=1S/C10H15N2O7PS/c1-5-3-12(10(14)11-9(5)13)8-2-7(21)6(19-8)4-18-20(15,16)17/h3,6-8,21H,2,4H2,1H3,(H,11,13,14)(H2,15,16,17)/t6-,7+,8-/m1/s1" 
+TSP InChIKey         InChI                1.03  BORVFKJZAOEGOO-GJMOJQLCSA-N                                                                                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TSP "SYSTEMATIC NAME" ACDLabs              10.04 
+;3'-thiothymidine 5'-(dihydrogen phosphate)
+;
+TSP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)-3-sulfanyl-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TSP "Create component"  1999-07-08 EBI  
+TSP "Modify descriptor" 2011-06-04 RCSB 
+# 

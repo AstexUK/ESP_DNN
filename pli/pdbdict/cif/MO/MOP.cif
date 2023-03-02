@@ -1,0 +1,124 @@
+data_MOP
+# 
+_chem_comp.id                                    MOP 
+_chem_comp.name                                  4-METHYLPENTANAL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H12 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        100.159 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MOP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MOP C1   C1   C 0 1 N N N 1.388 3.486  10.420 0.027  -0.431 -2.207 C1   MOP 1  
+MOP O1   O1   O 0 1 N N N 0.910 4.322  9.655  -0.251 0.280  -3.142 O1   MOP 2  
+MOP C2   C2   C 0 1 N N N 1.106 2.000  10.201 0.464  0.177  -0.900 C2   MOP 3  
+MOP C3   C3   C 0 1 N N N 1.480 1.628  8.755  -0.505 -0.240 0.206  C3   MOP 4  
+MOP C4   C4   C 0 1 N N N 2.979 1.286  8.682  -0.060 0.378  1.533  C4   MOP 5  
+MOP C5   C5   C 0 1 N N N 3.551 1.671  7.316  -1.030 -0.039 2.640  C5   MOP 6  
+MOP CM4  CM4  C 0 1 N N N 3.211 -0.192 8.979  1.347  -0.110 1.878  CM4  MOP 7  
+MOP H1   H1   H 0 1 N N N 1.985 3.997  11.193 -0.037 -1.505 -2.308 H1   MOP 8  
+MOP H21  1H2  H 0 1 N N N 1.785 1.437  10.836 0.468  1.263  -0.989 H21  MOP 9  
+MOP H22  2H2  H 0 1 N N N 0.054 1.725  10.452 1.468  -0.171 -0.655 H22  MOP 10 
+MOP H31  1H3  H 0 1 N N N 0.903 0.779  8.398  -0.509 -1.326 0.295  H31  MOP 11 
+MOP H32  2H3  H 0 1 N N N 1.285 2.468  8.083  -1.508 0.108  -0.038 H32  MOP 12 
+MOP H4   H4   H 0 1 N N N 3.540 1.830  9.442  -0.056 1.464  1.445  H4   MOP 13 
+MOP H51  1H5  H 0 1 N N N 4.594 1.358  7.243  -0.714 0.400  3.586  H51  MOP 14 
+MOP H52  2H5  H 0 1 N N N 2.978 1.214  6.514  -2.033 0.308  2.395  H52  MOP 15 
+MOP H53  3H5  H 0 1 N N N 3.497 2.753  7.213  -1.034 -1.126 2.729  H53  MOP 16 
+MOP HM41 1HM4 H 0 0 N N N 2.572 -0.820 8.365  1.343  -1.197 1.966  HM41 MOP 17 
+MOP HM42 2HM4 H 0 0 N N N 2.977 -0.383 10.015 2.038  0.186  1.089  HM42 MOP 18 
+MOP HM43 3HM4 H 0 0 N N N 4.258 -0.436 8.811  1.664  0.329  2.823  HM43 MOP 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MOP C1  O1   DOUB N N 1  
+MOP C1  C2   SING N N 2  
+MOP C1  H1   SING N N 3  
+MOP C2  C3   SING N N 4  
+MOP C2  H21  SING N N 5  
+MOP C2  H22  SING N N 6  
+MOP C3  C4   SING N N 7  
+MOP C3  H31  SING N N 8  
+MOP C3  H32  SING N N 9  
+MOP C4  C5   SING N N 10 
+MOP C4  CM4  SING N N 11 
+MOP C4  H4   SING N N 12 
+MOP C5  H51  SING N N 13 
+MOP C5  H52  SING N N 14 
+MOP C5  H53  SING N N 15 
+MOP CM4 HM41 SING N N 16 
+MOP CM4 HM42 SING N N 17 
+MOP CM4 HM43 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MOP SMILES           ACDLabs              10.04 "O=CCCC(C)C"                                       
+MOP SMILES_CANONICAL CACTVS               3.341 "CC(C)CCC=O"                                       
+MOP SMILES           CACTVS               3.341 "CC(C)CCC=O"                                       
+MOP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)CCC=O"                                       
+MOP SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CCC=O"                                       
+MOP InChI            InChI                1.03  "InChI=1S/C6H12O/c1-6(2)4-3-5-7/h5-6H,3-4H2,1-2H3" 
+MOP InChIKey         InChI                1.03  JGEGJYXHCFUMJF-UHFFFAOYSA-N                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MOP "SYSTEMATIC NAME" ACDLabs              10.04 4-methylpentanal 
+MOP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-methylpentanal 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MOP "Create component"  1999-07-08 RCSB 
+MOP "Modify descriptor" 2011-06-04 RCSB 
+# 

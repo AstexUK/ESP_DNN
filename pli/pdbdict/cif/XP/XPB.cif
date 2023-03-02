@@ -1,0 +1,205 @@
+data_XPB
+# 
+_chem_comp.id                                    XPB 
+_chem_comp.name                                  "O6-[4-oxo-4-(3-pyridyl)butyl]-2'-deoxyguanosine-5'-monophosphate" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C19 H23 N6 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               DG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-07-30 
+_chem_comp.pdbx_modified_date                    2014-08-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        494.395 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     XPB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PYJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+XPB C4     C4     C 0 1 Y N N -7.100  -2.166 -9.671  -0.754 1.481  0.303  C4     XPB 1  
+XPB C5     C5     C 0 1 Y N N -7.420  -2.499 -8.340  0.233  0.529  -0.004 C5     XPB 2  
+XPB C6     C6     C 0 1 Y N N -6.300  -2.735 -7.512  1.578  0.873  0.201  C6     XPB 3  
+XPB N1     N1     N 0 1 Y N N -5.073  -2.627 -8.015  1.859  2.080  0.674  N1     XPB 4  
+XPB C8     C8     C 0 1 Y N N -9.289  -2.218 -9.332  -1.692 -0.370 -0.444 C8     XPB 5  
+XPB N2     N2     N 0 1 N N N -3.629  -2.144 -9.742  1.244  4.197  1.445  N2     XPB 6  
+XPB C10    C10    C 0 1 N N N -6.382  -2.055 -5.205  3.908  0.425  0.160  C10    XPB 7  
+XPB O6     O6     O 0 1 N N N -6.331  -3.080 -6.216  2.568  -0.008 -0.079 O6     XPB 8  
+XPB C11    C11    C 0 1 N N N -4.962  -1.870 -4.694  4.880  -0.696 -0.212 C11    XPB 9  
+XPB C12    C12    C 0 1 N N N -4.911  -1.914 -3.166  6.316  -0.233 0.043  C12    XPB 10 
+XPB N3     N3     N 0 1 Y N N -5.891  -2.049 -10.217 -0.384 2.667  0.775  N3     XPB 11 
+XPB C13    C13    C 0 1 N N N -3.525  -2.245 -2.625  7.273  -1.337 -0.323 C13    XPB 12 
+XPB C14    C14    C 0 1 Y N N -3.327  -2.310 -1.139  8.723  -1.137 -0.167 C14    XPB 13 
+XPB C15    C15    C 0 1 Y N N -2.057  -2.638 -0.641  9.625  -2.156 -0.504 C15    XPB 14 
+XPB P      P      P 0 1 N N N -13.284 0.168  -10.864 -7.869 -2.117 0.464  P      XPB 15 
+XPB OP1    OP1    O 0 1 N N N -14.469 0.386  -11.722 -9.073 -1.785 -0.330 OP1    XPB 16 
+XPB OP2    OP2    O 0 1 N N N -13.672 -0.646 -9.690  -7.118 -3.376 -0.201 OP2    XPB 17 
+XPB "O5'"  "O5'"  O 0 1 N N N -12.029 -0.427 -11.658 -6.875 -0.850 0.487  "O5'"  XPB 18 
+XPB "C5'"  "C5'"  C 0 1 N N N -11.301 0.373  -12.609 -6.395 -0.216 -0.701 "C5'"  XPB 19 
+XPB "C4'"  "C4'"  C 0 1 N N R -9.988  -0.292 -12.945 -5.477 0.948  -0.322 "C4'"  XPB 20 
+XPB "O4'"  "O4'"  O 0 1 N N N -9.174  -0.390 -11.744 -4.275 0.461  0.312  "O4'"  XPB 21 
+XPB "C3'"  "C3'"  C 0 1 N N S -10.082 -1.726 -13.457 -4.951 1.664  -1.592 "C3'"  XPB 22 
+XPB "O3'"  "O3'"  O 0 1 N N N -9.345  -1.804 -14.682 -5.873 2.663  -2.033 "O3'"  XPB 23 
+XPB "C2'"  "C2'"  C 0 1 N N N -9.389  -2.622 -12.437 -3.639 2.308  -1.082 "C2'"  XPB 24 
+XPB "C1'"  "C1'"  C 0 1 N N R -8.499  -1.638 -11.694 -3.282 1.491  0.175  "C1'"  XPB 25 
+XPB N9     N9     N 0 1 Y N N -8.316  -1.991 -10.289 -1.957 0.887  0.016  N9     XPB 26 
+XPB N7     N7     N 0 1 Y N N -8.802  -2.523 -8.160  -0.408 -0.576 -0.459 N7     XPB 27 
+XPB C2     C2     C 0 1 Y N N -4.923  -2.288 -9.312  0.896  2.950  0.952  C2     XPB 28 
+XPB C16    C16    C 0 1 Y N N -1.867  -2.701 0.733   10.977 -1.916 -0.338 C16    XPB 29 
+XPB C17    C17    C 0 1 Y N N -2.955  -2.433 1.568   11.393 -0.690 0.149  C17    XPB 30 
+XPB "N1'"  "N1'"  N 0 1 Y N N -4.177  -2.117 1.119   10.522 0.253  0.459  "N1'"  XPB 31 
+XPB C18    C18    C 0 1 Y N N -4.344  -2.061 -0.207  9.226  0.076  0.315  C18    XPB 32 
+XPB O13    O13    O 0 1 N N N -2.586  -2.454 -3.377  6.849  -2.391 -0.746 O13    XPB 33 
+XPB H8     H8     H 0 1 N N N -10.348 -2.150 -9.535  -2.439 -1.086 -0.755 H8     XPB 34 
+XPB H22    H22    H 0 1 N N N -3.625  -1.872 -10.704 0.553  4.846  1.654  H22    XPB 35 
+XPB H21    H21    H 0 1 N N N -3.172  -1.442 -9.195  2.178  4.422  1.581  H21    XPB 36 
+XPB H10    H10    H 0 1 N N N -6.754  -1.115 -5.638  4.119  1.305  -0.448 H10    XPB 37 
+XPB H7     H7     H 0 1 N N N -7.043  -2.367 -4.383  4.028  0.675  1.214  H7     XPB 38 
+XPB H11    H11    H 0 1 N N N -4.329  -2.674 -5.097  4.669  -1.576 0.396  H11    XPB 39 
+XPB H9     H9     H 0 1 N N N -4.582  -0.897 -5.037  4.761  -0.946 -1.266 H9     XPB 40 
+XPB H12    H12    H 0 1 N N N -5.213  -0.931 -2.777  6.527  0.647  -0.564 H12    XPB 41 
+XPB H13    H13    H 0 1 N N N -5.617  -2.681 -2.814  6.435  0.017  1.097  H13    XPB 42 
+XPB H15    H15    H 0 1 N N N -1.239  -2.839 -1.317  9.273  -3.105 -0.882 H15    XPB 43 
+XPB H2     H2     H 0 1 N N N -14.598 -0.853 -9.740  -6.317 -3.650 0.269  H2     XPB 44 
+XPB "H5'"  "H5'"  H 0 1 N N N -11.107 1.366  -12.177 -5.839 -0.938 -1.299 "H5'"  XPB 45 
+XPB "H5''" "H5''" H 0 0 N N N -11.899 0.483  -13.526 -7.240 0.160  -1.278 "H5''" XPB 46 
+XPB "H4'"  "H4'"  H 0 1 N N N -9.464  0.316  -13.697 -5.998 1.650  0.329  "H4'"  XPB 47 
+XPB "H3'"  "H3'"  H 0 1 N N N -11.133 -2.024 -13.586 -4.748 0.946  -2.387 "H3'"  XPB 48 
+XPB H3     H3     H 0 1 N Y N -9.388  -2.690 -15.022 -5.588 3.139  -2.825 H3     XPB 49 
+XPB "H2''" "H2''" H 0 0 N N N -10.117 -3.091 -11.759 -2.853 2.218  -1.832 "H2''" XPB 50 
+XPB "H2'"  "H2'"  H 0 1 N N N -8.793  -3.403 -12.932 -3.804 3.354  -0.823 "H2'"  XPB 51 
+XPB "H1'"  "H1'"  H 0 1 N N N -7.524  -1.575 -12.200 -3.294 2.137  1.053  "H1'"  XPB 52 
+XPB H16    H16    H 0 1 N N N -0.901  -2.951 1.147   11.701 -2.678 -0.587 H16    XPB 53 
+XPB H17    H17    H 0 1 N N N -2.802  -2.483 2.636   12.448 -0.500 0.279  H17    XPB 54 
+XPB H18    H18    H 0 1 N N N -5.324  -1.808 -0.583  8.544  0.873  0.575  H18    XPB 55 
+XPB OP3    OP3    O 0 1 N Y N ?       ?      ?       -8.303 -2.485 1.970  OP3    XPB 56 
+XPB H1     H1     H 0 1 N Y N ?       ?      ?       -8.903 -3.241 2.033  H1     XPB 57 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+XPB "O3'" "C3'"  SING N N 1  
+XPB "C3'" "C4'"  SING N N 2  
+XPB "C3'" "C2'"  SING N N 3  
+XPB "C4'" "C5'"  SING N N 4  
+XPB "C4'" "O4'"  SING N N 5  
+XPB "C5'" "O5'"  SING N N 6  
+XPB "C2'" "C1'"  SING N N 7  
+XPB "O4'" "C1'"  SING N N 8  
+XPB OP1   P      DOUB N N 9  
+XPB "C1'" N9     SING N N 10 
+XPB "O5'" P      SING N N 11 
+XPB P     OP2    SING N N 12 
+XPB N9    C4     SING Y N 13 
+XPB N9    C8     SING Y N 14 
+XPB N3    C4     SING Y N 15 
+XPB N3    C2     DOUB Y N 16 
+XPB N2    C2     SING N N 17 
+XPB C4    C5     DOUB Y N 18 
+XPB C8    N7     DOUB Y N 19 
+XPB C2    N1     SING Y N 20 
+XPB C5    N7     SING Y N 21 
+XPB C5    C6     SING Y N 22 
+XPB N1    C6     DOUB Y N 23 
+XPB C6    O6     SING N N 24 
+XPB O6    C10    SING N N 25 
+XPB C10   C11    SING N N 26 
+XPB C11   C12    SING N N 27 
+XPB O13   C13    DOUB N N 28 
+XPB C12   C13    SING N N 29 
+XPB C13   C14    SING N N 30 
+XPB C14   C15    DOUB Y N 31 
+XPB C14   C18    SING Y N 32 
+XPB C15   C16    SING Y N 33 
+XPB C18   "N1'"  DOUB Y N 34 
+XPB C16   C17    DOUB Y N 35 
+XPB "N1'" C17    SING Y N 36 
+XPB C8    H8     SING N N 37 
+XPB N2    H22    SING N N 38 
+XPB N2    H21    SING N N 39 
+XPB C10   H10    SING N N 40 
+XPB C10   H7     SING N N 41 
+XPB C11   H11    SING N N 42 
+XPB C11   H9     SING N N 43 
+XPB C12   H12    SING N N 44 
+XPB C12   H13    SING N N 45 
+XPB C15   H15    SING N N 46 
+XPB OP2   H2     SING N N 47 
+XPB "C5'" "H5'"  SING N N 48 
+XPB "C5'" "H5''" SING N N 49 
+XPB "C4'" "H4'"  SING N N 50 
+XPB "C3'" "H3'"  SING N N 51 
+XPB "O3'" H3     SING N N 52 
+XPB "C2'" "H2''" SING N N 53 
+XPB "C2'" "H2'"  SING N N 54 
+XPB "C1'" "H1'"  SING N N 55 
+XPB C16   H16    SING N N 56 
+XPB C17   H17    SING N N 57 
+XPB C18   H18    SING N N 58 
+XPB P     OP3    SING N N 59 
+XPB OP3   H1     SING N N 60 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+XPB SMILES           ACDLabs              12.01 "O=P(O)(O)OCC4OC(n3cnc2c3nc(nc2OCCCC(=O)c1cccnc1)N)CC4O" 
+XPB InChI            InChI                1.03  
+"InChI=1S/C19H23N6O8P/c20-19-23-17-16(18(24-19)31-6-2-4-12(26)11-3-1-5-21-8-11)22-10-25(17)15-7-13(27)14(33-15)9-32-34(28,29)30/h1,3,5,8,10,13-15,27H,2,4,6-7,9H2,(H2,20,23,24)(H2,28,29,30)/t13-,14+,15+/m0/s1" 
+XPB InChIKey         InChI                1.03  YYZAHCOFAHEYAN-RRFJBIMHSA-N 
+XPB SMILES_CANONICAL CACTVS               3.385 "Nc1nc(OCCCC(=O)c2cccnc2)c3ncn([C@H]4C[C@H](O)[C@@H](CO[P](O)(O)=O)O4)c3n1" 
+XPB SMILES           CACTVS               3.385 "Nc1nc(OCCCC(=O)c2cccnc2)c3ncn([CH]4C[CH](O)[CH](CO[P](O)(O)=O)O4)c3n1" 
+XPB SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(cnc1)C(=O)CCCOc2c3c(nc(n2)N)n(cn3)[C@H]4C[C@@H]([C@H](O4)COP(=O)(O)O)O" 
+XPB SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(cnc1)C(=O)CCCOc2c3c(nc(n2)N)n(cn3)C4CC(C(O4)COP(=O)(O)O)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+XPB "SYSTEMATIC NAME" ACDLabs              12.01 "9-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-6-[4-oxo-4-(pyridin-3-yl)butoxy]-9H-purin-2-amine"                       
+XPB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[(2R,3S,5R)-5-[2-azanyl-6-(4-oxidanylidene-4-pyridin-3-yl-butoxy)purin-9-yl]-3-oxidanyl-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+XPB "Create component" 2014-07-30 RCSB 
+XPB "Initial release"  2014-08-06 RCSB 
+# 

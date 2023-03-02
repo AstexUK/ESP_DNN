@@ -1,0 +1,121 @@
+data_16R
+# 
+_chem_comp.id                                    16R 
+_chem_comp.name                                  "(methylsulfanyl)benzene" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 S" 
+_chem_comp.mon_nstd_parent_comp_id               
+;"methyl phenyl sulfide"
+;
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-10-22 
+_chem_comp.pdbx_modified_date                    2013-10-25 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        124.203 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     16R 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4HM8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+16R C8 C8 C 0 1 N N N 13.209 53.141 82.283 -2.613 0.997  0.002  C8 16R 1  
+16R S7 S7 S 0 1 N N N 13.393 53.112 80.530 -1.827 -0.639 -0.001 S7 16R 2  
+16R C4 C4 C 0 1 Y N N 13.943 51.580 80.053 -0.108 -0.252 0.001  C4 16R 3  
+16R C3 C3 C 0 1 Y N N 14.257 50.632 81.022 0.835  -1.273 -0.001 C3 16R 4  
+16R C5 C5 C 0 1 Y N N 14.083 51.276 78.702 0.308  1.074  -0.002 C5 16R 5  
+16R C6 C6 C 0 1 Y N N 14.536 50.017 78.326 1.656  1.372  -0.001 C6 16R 6  
+16R C1 C1 C 0 1 Y N N 14.851 49.073 79.298 2.592  0.354  0.003  C1 16R 7  
+16R C2 C2 C 0 1 Y N N 14.714 49.375 80.649 2.181  -0.967 0.000  C2 16R 8  
+16R H1 H1 H 0 1 N N N 12.852 54.133 82.598 -3.697 0.879  0.002  H1 16R 9  
+16R H2 H2 H 0 1 N N N 12.480 52.375 82.588 -2.307 1.545  0.893  H2 16R 10 
+16R H3 H3 H 0 1 N N N 14.180 52.933 82.757 -2.307 1.548  -0.887 H3 16R 11 
+16R H4 H4 H 0 1 N N N 14.145 50.875 82.068 0.515  -2.305 -0.003 H4 16R 12 
+16R H5 H5 H 0 1 N N N 13.841 52.013 77.951 -0.422 1.869  -0.006 H5 16R 13 
+16R H6 H6 H 0 1 N N N 14.643 49.772 77.280 1.980  2.403  -0.004 H6 16R 14 
+16R H7 H7 H 0 1 N N N 15.205 48.097 79.001 3.645  0.591  0.003  H7 16R 15 
+16R H8 H8 H 0 1 N N N 14.961 48.639 81.400 2.915  -1.759 0.003  H8 16R 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+16R C6 C5 DOUB Y N 1  
+16R C6 C1 SING Y N 2  
+16R C5 C4 SING Y N 3  
+16R C1 C2 DOUB Y N 4  
+16R C4 S7 SING N N 5  
+16R C4 C3 DOUB Y N 6  
+16R S7 C8 SING N N 7  
+16R C2 C3 SING Y N 8  
+16R C8 H1 SING N N 9  
+16R C8 H2 SING N N 10 
+16R C8 H3 SING N N 11 
+16R C3 H4 SING N N 12 
+16R C5 H5 SING N N 13 
+16R C6 H6 SING N N 14 
+16R C1 H7 SING N N 15 
+16R C2 H8 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+16R SMILES           ACDLabs              12.01 "methyl phenyl sulfide"                     
+16R InChI            InChI                1.03  InChI=1S/C7H8S/c1-8-7-5-3-2-4-6-7/h2-6H,1H3 
+16R InChIKey         InChI                1.03  HNKJADCVZUBCPG-UHFFFAOYSA-N                 
+16R SMILES_CANONICAL CACTVS               3.370 CSc1ccccc1                                  
+16R SMILES           CACTVS               3.370 CSc1ccccc1                                  
+16R SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CSc1ccccc1                                  
+16R SMILES           "OpenEye OEToolkits" 1.7.6 CSc1ccccc1                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+16R "SYSTEMATIC NAME" ACDLabs              12.01 "(methylsulfanyl)benzene" 
+16R "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 methylsulfanylbenzene     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+16R "Create component" 2012-10-22 RCSB 
+16R "Initial release"  2013-10-30 RCSB 
+# 

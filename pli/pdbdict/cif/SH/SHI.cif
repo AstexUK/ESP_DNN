@@ -1,0 +1,127 @@
+data_SHI
+# 
+_chem_comp.id                                    SHI 
+_chem_comp.name                                  "(S)-2-AMINO-3-(3-HYDROXY-ISOXAZOL-4-YL)PROPIONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H8 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "(S)-DES-ME-AMPA" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2002-09-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        172.139 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SHI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1MQD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SHI O1   O1   O 0 1 Y N N 72.818 43.788 43.064 1.028  0.004  -2.994 O1   SHI 1  
+SHI N2   N2   N 0 1 Y N N 74.013 43.501 42.331 -0.147 0.260  -3.115 N2   SHI 2  
+SHI C5   C5   C 0 1 Y N N 72.597 45.123 42.988 1.317  -0.425 -1.757 C5   SHI 3  
+SHI C4   C4   C 0 1 Y N N 73.606 45.753 42.378 0.155  -0.418 -1.064 C4   SHI 4  
+SHI C3   C3   C 0 1 Y N N 74.454 44.677 41.876 -0.802 0.039  -2.006 C3   SHI 5  
+SHI O31  O31  O 0 1 N N N 75.466 44.774 41.122 -2.130 0.221  -1.795 O31  SHI 6  
+SHI C41  C41  C 0 1 N N N 73.889 47.211 42.198 -0.071 -0.812 0.372  C41  SHI 7  
+SHI C42  C42  C 0 1 N N S 74.735 47.853 43.324 0.105  0.412  1.271  C42  SHI 8  
+SHI N1   N1   N 0 1 N N N 74.051 47.689 44.661 1.467  0.940  1.117  N1   SHI 9  
+SHI C43  C43  C 0 1 N N N 74.964 49.346 42.929 -0.121 0.018  2.707  C43  SHI 10 
+SHI O41  O41  O 0 1 N N N 74.736 50.190 43.844 0.806  -0.359 3.384  O41  SHI 11 
+SHI O42  O42  O 0 1 N N N 75.366 49.615 41.759 -1.353 0.087  3.236  O42  SHI 12 
+SHI HC5  HC5  H 0 1 N N N 71.701 45.636 43.376 2.288  -0.718 -1.386 HC5  SHI 13 
+SHI H31  H31  H 0 1 N N N 75.779 45.610 40.798 -2.565 -0.611 -2.021 H31  SHI 14 
+SHI H411 1H41 H 0 0 N N N 74.365 47.392 41.206 0.649  -1.579 0.656  H411 SHI 15 
+SHI H412 2H41 H 0 0 N N N 72.936 47.774 42.061 -1.081 -1.204 0.486  H412 SHI 16 
+SHI HC42 HC42 H 0 0 N N N 75.724 47.350 43.434 -0.615 1.178  0.986  HC42 SHI 17 
+SHI HN11 1HN1 H 0 0 N N N 74.608 48.112 45.403 2.097  0.201  1.390  HN11 SHI 18 
+SHI HN12 2HN1 H 0 0 N N N 73.835 46.711 44.859 1.609  1.092  0.129  HN12 SHI 19 
+SHI HO42 HO42 H 0 0 N N N 75.505 50.523 41.518 -1.498 -0.165 4.158  HO42 SHI 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SHI O1  N2   SING Y N 1  
+SHI O1  C5   SING Y N 2  
+SHI N2  C3   DOUB Y N 3  
+SHI C5  C4   DOUB Y N 4  
+SHI C5  HC5  SING N N 5  
+SHI C4  C3   SING Y N 6  
+SHI C4  C41  SING N N 7  
+SHI C3  O31  SING N N 8  
+SHI O31 H31  SING N N 9  
+SHI C41 C42  SING N N 10 
+SHI C41 H411 SING N N 11 
+SHI C41 H412 SING N N 12 
+SHI C42 N1   SING N N 13 
+SHI C42 C43  SING N N 14 
+SHI C42 HC42 SING N N 15 
+SHI N1  HN11 SING N N 16 
+SHI N1  HN12 SING N N 17 
+SHI C43 O41  DOUB N N 18 
+SHI C43 O42  SING N N 19 
+SHI O42 HO42 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SHI SMILES           ACDLabs              10.04 "O=C(O)C(N)Cc1conc1O"                                                                    
+SHI SMILES_CANONICAL CACTVS               3.341 "N[C@@H](Cc1conc1O)C(O)=O"                                                               
+SHI SMILES           CACTVS               3.341 "N[CH](Cc1conc1O)C(O)=O"                                                                 
+SHI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(c(no1)O)C[C@@H](C(=O)O)N"                                                           
+SHI SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(c(no1)O)CC(C(=O)O)N"                                                                
+SHI InChI            InChI                1.03  "InChI=1S/C6H8N2O4/c7-4(6(10)11)1-3-2-12-8-5(3)9/h2,4H,1,7H2,(H,8,9)(H,10,11)/t4-/m0/s1" 
+SHI InChIKey         InChI                1.03  ZKLGQYGPVBFAQQ-BYPYZUCNSA-N                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SHI "SYSTEMATIC NAME" ACDLabs              10.04 "3-(3-hydroxyisoxazol-4-yl)-L-alanine"                     
+SHI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(3-hydroxy-1,2-oxazol-4-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SHI "Create component"  2002-09-18 RCSB 
+SHI "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,142 @@
+data_HLE
+# 
+_chem_comp.id                                    HLE 
+_chem_comp.name                                  "3-FORMYL-2-HYDROXY-5-METHYL-HEXANOIC ACID HYDROXYAMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H15 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        189.209 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     HLE 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KBC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HLE N    N    N 0 1 N N N 0.047  44.159 97.224  0.876  0.753  -2.325 N    HLE 1  
+HLE OH   OH   O 0 1 N N N -0.467 45.035 96.271  1.435  0.440  -3.588 OH   HLE 2  
+HLE CA   CA   C 0 1 N N R -1.289 41.777 99.336  -0.047 0.084  0.448  CA   HLE 3  
+HLE CB   CB   C 0 1 N N N -1.275 40.973 98.021  -0.651 0.422  1.813  CB   HLE 4  
+HLE CG   CG   C 0 1 N N N -2.320 39.868 97.869  0.311  -0.012 2.919  CG   HLE 5  
+HLE CD1  CD1  C 0 1 N N N -3.691 40.480 97.767  1.587  0.828  2.843  CD1  HLE 6  
+HLE CD2  CD2  C 0 1 N N N -2.023 39.023 96.614  -0.352 0.190  4.282  CD2  HLE 7  
+HLE C    C    C 0 1 N N N -0.935 40.884 100.503 0.062  -1.412 0.305  C    HLE 8  
+HLE O    O    O 0 1 N N N 0.162  40.329 100.575 1.127  -1.916 0.041  O    HLE 9  
+HLE C1   C1   C 0 1 N N S -0.232 42.931 99.291  -0.947 0.637  -0.658 C1   HLE 10 
+HLE O3   O3   O 0 1 N N N -0.165 43.631 100.555 -2.246 0.051  -0.554 O3   HLE 11 
+HLE C2   C2   C 0 1 N N N -0.709 43.936 98.280  -0.352 0.303  -2.002 C2   HLE 12 
+HLE O2   O2   O 0 1 N N N -1.782 44.494 98.433  -0.978 -0.369 -2.793 O2   HLE 13 
+HLE HN   HN   H 0 1 N N N 0.951  43.693 97.150  1.378  1.291  -1.693 HN   HLE 14 
+HLE HO   HO   H 0 1 N N N 0.078  45.195 95.509  2.309  0.853  -3.617 HO   HLE 15 
+HLE HA   HA   H 0 1 N N N -2.314 42.196 99.458  0.943  0.530  0.369  HA   HLE 16 
+HLE HB1  1HB  H 0 1 N N N -1.347 41.673 97.156  -1.600 -0.101 1.930  HB1  HLE 17 
+HLE HB2  2HB  H 0 1 N N N -0.257 40.546 97.857  -0.819 1.497  1.879  HB2  HLE 18 
+HLE HG   HG   H 0 1 N N N -2.280 39.203 98.763  0.561  -1.065 2.790  HG   HLE 19 
+HLE HD11 1HD1 H 0 0 N N N -4.453 39.673 97.656  2.274  0.518  3.631  HD11 HLE 20 
+HLE HD12 2HD1 H 0 0 N N N -3.915 41.155 98.625  2.061  0.683  1.872  HD12 HLE 21 
+HLE HD13 3HD1 H 0 0 N N N -3.754 41.234 96.948  1.337  1.881  2.972  HD13 HLE 22 
+HLE HD21 1HD2 H 0 0 N N N -2.785 38.216 96.503  -0.522 1.254  4.449  HD21 HLE 23 
+HLE HD22 2HD2 H 0 0 N N N -1.945 39.652 95.696  -1.306 -0.337 4.304  HD22 HLE 24 
+HLE HD23 3HD2 H 0 0 N N N -0.984 38.616 96.621  0.297  -0.200 5.065  HD23 HLE 25 
+HLE H    H    H 0 1 N N N -1.535 40.611 101.387 -0.810 -2.033 0.439  H    HLE 26 
+HLE H1   H1   H 0 1 N N N 0.764  42.493 99.048  -1.026 1.719  -0.555 H1   HLE 27 
+HLE HO3  HO3  H 0 1 N N N 0.476  44.331 100.527 -2.130 -0.903 -0.651 HO3  HLE 28 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HLE N   OH   SING N N 1  
+HLE N   C2   SING N N 2  
+HLE N   HN   SING N N 3  
+HLE OH  HO   SING N N 4  
+HLE CA  CB   SING N N 5  
+HLE CA  C    SING N N 6  
+HLE CA  C1   SING N N 7  
+HLE CA  HA   SING N N 8  
+HLE CB  CG   SING N N 9  
+HLE CB  HB1  SING N N 10 
+HLE CB  HB2  SING N N 11 
+HLE CG  CD1  SING N N 12 
+HLE CG  CD2  SING N N 13 
+HLE CG  HG   SING N N 14 
+HLE CD1 HD11 SING N N 15 
+HLE CD1 HD12 SING N N 16 
+HLE CD1 HD13 SING N N 17 
+HLE CD2 HD21 SING N N 18 
+HLE CD2 HD22 SING N N 19 
+HLE CD2 HD23 SING N N 20 
+HLE C   O    DOUB N N 21 
+HLE C   H    SING N N 22 
+HLE C1  O3   SING N N 23 
+HLE C1  C2   SING N N 24 
+HLE C1  H1   SING N N 25 
+HLE O3  HO3  SING N N 26 
+HLE C2  O2   DOUB N N 27 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HLE SMILES           ACDLabs              10.04 "O=C(NO)C(O)C(C=O)CC(C)C"                                                                      
+HLE SMILES_CANONICAL CACTVS               3.341 "CC(C)C[C@@H](C=O)[C@H](O)C(=O)NO"                                                             
+HLE SMILES           CACTVS               3.341 "CC(C)C[CH](C=O)[CH](O)C(=O)NO"                                                                
+HLE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)C[C@@H](C=O)[C@@H](C(=O)NO)O"                                                            
+HLE SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)CC(C=O)C(C(=O)NO)O"                                                                      
+HLE InChI            InChI                1.03  "InChI=1S/C8H15NO4/c1-5(2)3-6(4-10)7(11)8(12)9-13/h4-7,11,13H,3H2,1-2H3,(H,9,12)/t6-,7-/m0/s1" 
+HLE InChIKey         InChI                1.03  YVDHZNIQWHUORH-BQBZGAKWSA-N                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HLE "SYSTEMATIC NAME" ACDLabs              10.04 "(2S,3R)-3-formyl-N,2-dihydroxy-5-methylhexanamide"     
+HLE "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3R)-N,2-dihydroxy-3-methanoyl-5-methyl-hexanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HLE "Create component"  1999-07-08 RCSB 
+HLE "Modify descriptor" 2011-06-04 RCSB 
+# 

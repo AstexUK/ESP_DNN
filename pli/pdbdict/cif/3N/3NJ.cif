@@ -1,0 +1,113 @@
+data_3NJ
+# 
+_chem_comp.id                                    3NJ 
+_chem_comp.name                                  4-fluorooxepine-2,7-dione 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H3 F O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-09-26 
+_chem_comp.pdbx_modified_date                    2014-12-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.085 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3NJ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4WHR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3NJ C1 C1 C 0 1 N N N -9.821  -15.548 -39.998 1.446  0.745  0.089  C1 3NJ 1  
+3NJ C2 C2 C 0 1 N N N -9.132  -13.838 -40.842 0.381  -1.316 0.116  C2 3NJ 2  
+3NJ C3 C3 C 0 1 N N N -10.323 -13.130 -41.361 -1.050 -1.017 0.091  C3 3NJ 3  
+3NJ C4 C4 C 0 1 N N N -11.607 -13.388 -41.177 -1.546 0.173  -0.008 C4 3NJ 4  
+3NJ C5 C5 C 0 1 N N N -12.046 -14.295 -40.124 -0.885 1.453  -0.019 C5 3NJ 5  
+3NJ C6 C6 C 0 1 N N N -11.221 -15.237 -39.650 0.374  1.739  0.055  C6 3NJ 6  
+3NJ O3 O1 O 0 1 N N N -8.966  -15.232 -41.115 1.281  -0.468 0.669  O3 3NJ 7  
+3NJ F4 F1 F 0 1 N N N -12.508 -12.875 -41.988 -2.892 0.225  -0.112 F4 3NJ 8  
+3NJ O2 O2 O 0 1 N N N -8.229  -13.436 -40.184 0.772  -2.349 -0.370 O2 3NJ 9  
+3NJ O1 O3 O 0 1 N N N -9.142  -16.153 -39.220 2.507  1.012  -0.418 O1 3NJ 10 
+3NJ H1 H1 H 0 1 N N N -10.112 -12.273 -41.984 -1.739 -1.846 0.155  H1 3NJ 11 
+3NJ H2 H2 H 0 1 N N N -13.045 -14.207 -39.723 -1.542 2.305  -0.114 H2 3NJ 12 
+3NJ H3 H3 H 0 1 N N N -11.650 -15.873 -38.889 0.652  2.782  0.096  H3 3NJ 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3NJ F4 C4 SING N N 1  
+3NJ C3 C4 DOUB N N 2  
+3NJ C3 C2 SING N N 3  
+3NJ C4 C5 SING N N 4  
+3NJ O3 C2 SING N N 5  
+3NJ O3 C1 SING N N 6  
+3NJ C2 O2 DOUB N N 7  
+3NJ C5 C6 DOUB N N 8  
+3NJ C1 C6 SING N N 9  
+3NJ C1 O1 DOUB N N 10 
+3NJ C3 H1 SING N N 11 
+3NJ C5 H2 SING N N 12 
+3NJ C6 H3 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3NJ SMILES           ACDLabs              12.01 "FC=1C=CC(=O)OC(=O)C=1"                          
+3NJ InChI            InChI                1.03  "InChI=1S/C6H3FO3/c7-4-1-2-5(8)10-6(9)3-4/h1-3H" 
+3NJ InChIKey         InChI                1.03  MARYQJLDFKFFCO-UHFFFAOYSA-N                      
+3NJ SMILES_CANONICAL CACTVS               3.385 "FC1=CC(=O)OC(=O)C=C1"                           
+3NJ SMILES           CACTVS               3.385 "FC1=CC(=O)OC(=O)C=C1"                           
+3NJ SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "C1=CC(=O)OC(=O)C=C1F"                           
+3NJ SMILES           "OpenEye OEToolkits" 1.9.2 "C1=CC(=O)OC(=O)C=C1F"                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3NJ "SYSTEMATIC NAME" ACDLabs              12.01 4-fluorooxepine-2,7-dione    
+3NJ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 4-fluoranyloxepine-2,7-dione 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3NJ "Create component" 2014-09-26 RCSB 
+3NJ "Initial release"  2014-12-31 RCSB 
+# 

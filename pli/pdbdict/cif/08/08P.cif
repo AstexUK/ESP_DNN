@@ -1,0 +1,123 @@
+data_08P
+# 
+_chem_comp.id                                    08P 
+_chem_comp.name                                  "N-(carboxycarbonyl)-D-cysteine" 
+_chem_comp.type                                  "D-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H7 N O5 S" 
+_chem_comp.mon_nstd_parent_comp_id               DCY 
+_chem_comp.pdbx_synonyms                         N-oxalyl-D-cysteine 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-10-17 
+_chem_comp.pdbx_modified_date                    2012-02-03 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        193.178 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     08P 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3U4S 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+08P OAY OAY O 0 1 N N N 20.042 -54.404 -3.607 -3.782 0.066  -0.492 OAY 08P 1  
+08P CAS CAS C 0 1 N N N 20.154 -54.050 -4.811 -2.664 -0.234 0.194  CAS 08P 2  
+08P OAX OAX O 0 1 N N N 19.160 -54.006 -5.596 -2.743 -0.804 1.262  OAX 08P 3  
+08P CAR CAR C 0 1 N N N 21.515 -53.760 -5.318 -1.326 0.135  -0.359 CAR 08P 4  
+08P OAW OAW O 0 1 N N N 21.679 -53.273 -6.427 -1.248 0.705  -1.428 OAW 08P 5  
+08P N   N   N 0 1 N N N 22.610 -54.087 -4.459 -0.206 -0.165 0.328  N   08P 6  
+08P CA  CA  C 0 1 N N S 23.949 -53.890 -4.888 1.105  0.196  -0.214 CA  08P 7  
+08P C   C   C 0 1 N N N 24.821 -53.433 -3.772 1.429  1.619  0.162  C   08P 8  
+08P O   O   O 0 1 N N N 26.016 -53.161 -4.037 0.645  2.265  0.816  O   08P 9  
+08P OXT OXT O 0 1 N Y N 24.385 -53.329 -2.594 2.589  2.170  -0.230 OXT 08P 10 
+08P CB  CB  C 0 1 N N N 24.440 -55.228 -5.367 2.171  -0.739 0.361  CB  08P 11 
+08P S   S   S 0 1 N N N 24.227 -55.357 -7.120 1.864  -2.431 -0.214 S   08P 12 
+08P H1  H1  H 0 1 N N N 19.134 -54.614 -3.421 -4.624 -0.193 -0.094 H1  08P 13 
+08P H   H   H 0 1 N N N 22.431 -54.458 -3.548 -0.269 -0.621 1.182  H   08P 14 
+08P HA  HA  H 0 1 N N N 23.982 -53.119 -5.672 1.088  0.103  -1.300 HA  08P 15 
+08P H2  H2  H 0 1 N Y N 25.084 -53.033 -2.022 2.753  3.085  0.036  H2  08P 16 
+08P HB2 HB2 H 0 1 N N N 23.866 -56.025 -4.871 3.157  -0.415 0.028  HB2 08P 17 
+08P HB3 HB3 H 0 1 N N N 25.507 -55.333 -5.121 2.128  -0.711 1.450  HB3 08P 18 
+08P H3  H3  H 0 1 N N N 24.692 -56.547 -7.362 2.859  -3.131 0.360  H3  08P 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+08P S   CB  SING N N 1  
+08P OAW CAR DOUB N N 2  
+08P OAX CAS DOUB N N 3  
+08P CB  CA  SING N N 4  
+08P CAR CAS SING N N 5  
+08P CAR N   SING N N 6  
+08P CA  N   SING N N 7  
+08P CA  C   SING N N 8  
+08P CAS OAY SING N N 9  
+08P O   C   DOUB N N 10 
+08P C   OXT SING N N 11 
+08P OAY H1  SING N N 12 
+08P N   H   SING N N 13 
+08P CA  HA  SING N N 14 
+08P OXT H2  SING N N 15 
+08P CB  HB2 SING N N 16 
+08P CB  HB3 SING N N 17 
+08P S   H3  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+08P SMILES           ACDLabs              12.01 "O=C(C(=O)O)NC(C(=O)O)CS"                                                                    
+08P InChI            InChI                1.03  "InChI=1S/C5H7NO5S/c7-3(5(10)11)6-2(1-12)4(8)9/h2,12H,1H2,(H,6,7)(H,8,9)(H,10,11)/t2-/m1/s1" 
+08P InChIKey         InChI                1.03  JOFZGZRXVKSFKN-UWTATZPHSA-N                                                                  
+08P SMILES_CANONICAL CACTVS               3.370 "OC(=O)[C@@H](CS)NC(=O)C(O)=O"                                                               
+08P SMILES           CACTVS               3.370 "OC(=O)[CH](CS)NC(=O)C(O)=O"                                                                 
+08P SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C([C@H](C(=O)O)NC(=O)C(=O)O)S"                                                              
+08P SMILES           "OpenEye OEToolkits" 1.7.2 "C(C(C(=O)O)NC(=O)C(=O)O)S"                                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+08P "SYSTEMATIC NAME" ACDLabs              12.01 "N-(carboxycarbonyl)-D-cysteine"                          
+08P "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S)-2-(carboxycarbonylamino)-3-sulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+08P "Create component" 2011-10-17 RCSB 
+# 

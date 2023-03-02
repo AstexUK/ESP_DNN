@@ -1,0 +1,128 @@
+data_271
+# 
+_chem_comp.id                                    271 
+_chem_comp.name                                  N-methyl-1-phenylmethanamine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H11 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-10-10 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        121.180 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     271 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RBT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+271 N03  N03  N 0 1 N N N 16.756 -4.688 7.588 -2.218 0.008  -0.545 N03  271 1  
+271 C04  C04  C 0 1 N N N 17.201 -5.846 6.850 -3.656 0.016  -0.245 C04  271 2  
+271 C23  C23  C 0 1 N N N 17.365 -3.466 7.092 -1.423 0.019  0.690  C23  271 3  
+271 C24  C24  C 0 1 Y N N 16.894 -3.123 5.694 0.044  0.010  0.343  C24  271 4  
+271 C25  C25  C 0 1 Y N N 15.579 -2.808 5.399 0.720  1.203  0.170  C25  271 5  
+271 C26  C26  C 0 1 Y N N 15.283 -2.515 4.042 2.066  1.195  -0.149 C26  271 6  
+271 C27  C27  C 0 1 Y N N 16.234 -2.608 3.067 2.734  -0.006 -0.294 C27  271 7  
+271 C28  C28  C 0 1 Y N N 17.520 -2.927 3.369 2.058  -1.199 -0.121 C28  271 8  
+271 C29  C29  C 0 1 Y N N 17.828 -3.183 4.691 0.714  -1.191 0.202  C29  271 9  
+271 H03  H03  H 0 1 N N N 15.763 -4.612 7.497 -1.974 -0.781 -1.125 H03  271 10 
+271 H041 H041 H 0 0 N N N 17.314 -5.583 5.788 -3.910 -0.867 0.342  H041 271 11 
+271 H042 H042 H 0 0 N N N 18.168 -6.185 7.249 -3.904 0.913  0.323  H042 271 12 
+271 H043 H043 H 0 0 N N N 16.459 -6.652 6.951 -4.222 0.008  -1.176 H043 271 13 
+271 H231 H231 H 0 0 N N N 17.095 -2.640 7.766 -1.655 0.916  1.264  H231 271 14 
+271 H232 H232 H 0 0 N N N 18.454 -3.618 7.057 -1.661 -0.864 1.283  H232 271 15 
+271 H25  H25  H 0 1 N N N 14.816 -2.786 6.163 0.198  2.142  0.284  H25  271 16 
+271 H26  H26  H 0 1 N N N 14.282 -2.211 3.775 2.594  2.127  -0.284 H26  271 17 
+271 H27  H27  H 0 1 N N N 15.960 -2.425 2.039 3.785  -0.012 -0.544 H27  271 18 
+271 H28  H28  H 0 1 N N N 18.277 -2.979 2.600 2.580  -2.137 -0.235 H28  271 19 
+271 H29  H29  H 0 1 N N N 18.845 -3.441 4.945 0.186  -2.123 0.341  H29  271 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+271 N03 C04  SING N N 1  
+271 N03 C23  SING N N 2  
+271 C23 C24  SING N N 3  
+271 C24 C25  DOUB Y N 4  
+271 C24 C29  SING Y N 5  
+271 C25 C26  SING Y N 6  
+271 C26 C27  DOUB Y N 7  
+271 C27 C28  SING Y N 8  
+271 C28 C29  DOUB Y N 9  
+271 N03 H03  SING N N 10 
+271 C04 H041 SING N N 11 
+271 C04 H042 SING N N 12 
+271 C04 H043 SING N N 13 
+271 C23 H231 SING N N 14 
+271 C23 H232 SING N N 15 
+271 C25 H25  SING N N 16 
+271 C26 H26  SING N N 17 
+271 C27 H27  SING N N 18 
+271 C28 H28  SING N N 19 
+271 C29 H29  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+271 SMILES           ACDLabs              10.04 "N(C)Cc1ccccc1"                                      
+271 SMILES_CANONICAL CACTVS               3.341 CNCc1ccccc1                                          
+271 SMILES           CACTVS               3.341 CNCc1ccccc1                                          
+271 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CNCc1ccccc1                                          
+271 SMILES           "OpenEye OEToolkits" 1.5.0 CNCc1ccccc1                                          
+271 InChI            InChI                1.03  InChI=1S/C8H11N/c1-9-7-8-5-3-2-4-6-8/h2-6,9H,7H2,1H3 
+271 InChIKey         InChI                1.03  RIWRFSMVIUAEBX-UHFFFAOYSA-N                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+271 "SYSTEMATIC NAME" ACDLabs              10.04 N-methyl-1-phenylmethanamine  
+271 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 N-methyl-1-phenyl-methanamine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+271 "Create component"     2007-10-10 RCSB 
+271 "Modify aromatic_flag" 2011-06-04 RCSB 
+271 "Modify descriptor"    2011-06-04 RCSB 
+# 

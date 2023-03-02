@@ -1,0 +1,124 @@
+data_AZH
+# 
+_chem_comp.id                                    AZH 
+_chem_comp.name                                  AZIDOHOMOALANINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H9 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2010-08-09 
+_chem_comp.pdbx_modified_date                    2011-07-29 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.140 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AZH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XO2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AZH N    N    N 0 1 N N N -19.870 41.281 5.534 1.445  1.775  0.433  N    AZH 1  
+AZH CA   CA   C 0 1 N N S -19.127 40.834 4.361 1.175  0.333  0.503  CA   AZH 2  
+AZH CB   CB   C 0 1 N N N -17.688 40.525 4.755 -0.042 -0.001 -0.362 CB   AZH 3  
+AZH CG   CG   C 0 1 N N N -16.802 41.735 4.788 -1.284 0.672  0.225  CG   AZH 4  
+AZH ND   ND   N 0 1 N N N -16.062 41.819 3.524 -2.450 0.353  -0.603 ND   AZH 5  
+AZH NE   NE   N 1 1 N N N -14.776 41.659 3.517 -3.327 -0.188 -0.154 NE   AZH 6  
+AZH NZ   NZ   N 0 1 N N N -13.495 41.478 3.562 -4.204 -0.729 0.294  NZ   AZH 7  
+AZH C    C    C 0 1 N N N -19.729 39.623 3.658 2.374  -0.428 -0.002 C    AZH 8  
+AZH O    O    O 0 1 N N N -19.801 39.598 2.433 3.189  0.125  -0.703 O    AZH 9  
+AZH OX0  OX0  O 0 1 N Y N -19.950 38.552 4.411 2.537  -1.719 0.326  OX0  AZH 10 
+AZH HN1  HN1  H 0 1 N N N -19.244 41.383 6.307 2.205  2.031  1.046  HN1  AZH 11 
+AZH HN2  HN2  H 0 1 N N N -20.304 42.160 5.338 1.634  2.062  -0.516 HN2  AZH 12 
+AZH HA   HA   H 0 1 N N N -19.175 41.663 3.639 0.975  0.050  1.537  HA   AZH 13 
+AZH HB1C HB1C H 0 0 N N N -17.697 40.080 5.761 0.123  0.361  -1.376 HB1C AZH 14 
+AZH HB2C HB2C H 0 0 N N N -17.281 39.845 3.992 -0.189 -1.081 -0.381 HB2C AZH 15 
+AZH HG1C HG1C H 0 0 N N N -17.415 42.639 4.918 -1.449 0.310  1.240  HG1C AZH 16 
+AZH HG2C HG2C H 0 0 N N N -16.096 41.656 5.628 -1.137 1.752  0.244  HG2C AZH 17 
+AZH HZ   HZ   H 0 1 N N N -12.503 41.386 3.481 -4.234 -1.699 0.282  HZ   AZH 18 
+AZH HX0  HX0  H 0 1 N N N -20.161 37.811 3.855 3.321  -2.165 -0.022 HX0  AZH 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AZH N   CA   SING N N 1  
+AZH CA  CB   SING N N 2  
+AZH CA  C    SING N N 3  
+AZH CB  CG   SING N N 4  
+AZH CG  ND   SING N N 5  
+AZH ND  NE   DOUB N N 6  
+AZH NE  NZ   DOUB N N 7  
+AZH C   O    DOUB N N 8  
+AZH C   OX0  SING N N 9  
+AZH N   HN1  SING N N 10 
+AZH N   HN2  SING N N 11 
+AZH CA  HA   SING N N 12 
+AZH CB  HB1C SING N N 13 
+AZH CB  HB2C SING N N 14 
+AZH CG  HG1C SING N N 15 
+AZH CG  HG2C SING N N 16 
+AZH NZ  HZ   SING N N 17 
+AZH OX0 HX0  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AZH SMILES           ACDLabs              10.04 "O=C(O)C(N)CC\N=[N+]=[N@H]"                                           
+AZH SMILES_CANONICAL CACTVS               3.352 "N[C@@H](CCN=[N+]=N)C(O)=O"                                           
+AZH SMILES           CACTVS               3.352 "N[CH](CCN=[N+]=N)C(O)=O"                                             
+AZH SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C(CN=[N+]=N)[C@@H](C(=O)O)N"                                         
+AZH SMILES           "OpenEye OEToolkits" 1.6.1 "C(CN=[N+]=N)C(C(=O)O)N"                                              
+AZH InChI            InChI                1.03  "InChI=1S/C4H8N4O2/c5-3(4(9)10)1-2-7-8-6/h3,6H,1-2,5H2/p+1/t3-/m0/s1" 
+AZH InChIKey         InChI                1.03  ZYCQYIKWMNNPJE-VKHMYHEASA-O                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AZH "SYSTEMATIC NAME" ACDLabs              10.04 "1-[(3S)-3-amino-3-carboxypropyl]triaza-1,2-dien-2-ium"   
+AZH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "[(3S)-3-amino-4-hydroxy-4-oxo-butyl]imino-imino-azanium" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AZH "Create component"  2010-08-09 EBI  
+AZH "Modify descriptor" 2011-06-04 RCSB 
+# 

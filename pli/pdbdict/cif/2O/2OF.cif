@@ -1,0 +1,89 @@
+data_2OF
+# 
+_chem_comp.id                                    2OF 
+_chem_comp.name                                  "FERROUS ION, 2 WATERS COORDINATED" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe H4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    2 
+_chem_comp.pdbx_initial_date                     2002-07-18 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        91.876 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2OF 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        1J5V 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2OF FE   FE   FE 2 0 N N N 22.416 35.810 10.055 0.000  0.378  0.000 FE   2OF 1 
+2OF O1   O1   O  0 1 N N N 23.592 36.148 11.950 -1.462 -0.656 0.000 O1   2OF 2 
+2OF O2   O2   O  0 1 N N N 20.074 34.997 10.391 1.462  -0.656 0.000 O2   2OF 3 
+2OF HO11 1HO1 H  0 0 N N N 24.481 36.457 11.822 ?      ?      ?     HO11 2OF 4 
+2OF HO12 2HO1 H  0 0 N N N 23.131 36.802 12.462 -2.224 -0.061 0.000 HO12 2OF 5 
+2OF HO21 1HO2 H  0 0 N N N 19.579 34.855 9.593  ?      ?      ?     HO21 2OF 6 
+2OF HO22 2HO2 H  0 0 N N N 20.120 34.168 10.853 2.224  -0.061 0.000 HO22 2OF 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2OF FE O1   SING N N 1 
+2OF FE O2   SING N N 2 
+2OF O1 HO11 SING N N 3 
+2OF O1 HO12 SING N N 4 
+2OF O2 HO21 SING N N 5 
+2OF O2 HO22 SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2OF InChI            InChI                1.02b InChI=1/Fe.2H2O/h;2*1H2/q+2;;/rFeH4O2/c2-1-3/h2-3H2/q+2 
+2OF InChIKey         InChI                1.02b NCNCGGDMXMBVIA-AQMPOSBLAQ                               
+2OF SMILES_CANONICAL CACTVS               3.341 "O|[Fe++]|O"                                            
+2OF SMILES           CACTVS               3.341 "O|[Fe++]|O"                                            
+2OF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[OH2][Fe+2][OH2]"                                      
+2OF SMILES           "OpenEye OEToolkits" 1.5.0 "[OH2][Fe+2][OH2]"                                      
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2OF "Create component" 2002-07-18 RCSB 
+# 

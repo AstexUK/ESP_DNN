@@ -1,0 +1,105 @@
+data_EGL
+# 
+_chem_comp.id                                    EGL 
+_chem_comp.name                                  "ETHYLENE GLYCOL" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H6 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-12-17 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      EDO 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        62.068 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EGL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DM2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EGL C1  C1  C 0 1 N N N 10.890 33.340 -3.320 -0.609 -0.282 0.710  C1  EGL 1  
+EGL O1  O1  O 0 1 N N N 10.112 32.295 -2.762 0.557  0.167  1.402  O1  EGL 2  
+EGL C2  C2  C 0 1 N N N 10.081 34.635 -3.445 -0.609 0.282  -0.710 C2  EGL 3  
+EGL O2  O2  O 0 1 N Y N 10.793 35.649 -4.156 0.557  -0.167 -1.402 O2  EGL 4  
+EGL H11 1H1 H 0 1 N N N 11.831 33.500 -2.744 -0.609 -1.372 0.668  H11 EGL 5  
+EGL H12 2H1 H 0 1 N N N 11.335 33.040 -4.297 -1.499 0.060  1.238  H12 EGL 6  
+EGL HO1 HO1 H 0 1 N N N 10.613 31.492 -2.684 0.518  -0.210 2.291  HO1 EGL 7  
+EGL H21 1H2 H 0 1 N N N 9.083  34.444 -3.905 -1.499 -0.060 -1.238 H21 EGL 8  
+EGL H22 2H2 H 0 1 N N N 9.748  35.000 -2.445 -0.609 1.371  -0.668 H22 EGL 9  
+EGL HO2 HO2 H 0 1 N N N 10.291 36.452 -4.233 0.518  0.210  -2.291 HO2 EGL 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EGL C1 O1  SING N N 1 
+EGL C1 C2  SING N N 2 
+EGL C1 H11 SING N N 3 
+EGL C1 H12 SING N N 4 
+EGL O1 HO1 SING N N 5 
+EGL C2 O2  SING N N 6 
+EGL C2 H21 SING N N 7 
+EGL C2 H22 SING N N 8 
+EGL O2 HO2 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EGL SMILES           ACDLabs              10.04 OCCO                                
+EGL InChI            InChI                1.02b InChI=1/C2H6O2/c3-1-2-4/h3-4H,1-2H2 
+EGL InChIKey         InChI                1.02b LYCAIKOWRPUZTN-UHFFFAOYAD           
+EGL SMILES_CANONICAL CACTVS               3.341 OCCO                                
+EGL SMILES           CACTVS               3.341 OCCO                                
+EGL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C(CO)O"                            
+EGL SMILES           "OpenEye OEToolkits" 1.5.0 "C(CO)O"                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EGL "SYSTEMATIC NAME" ACDLabs              10.04 ethane-1,2-diol 
+EGL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethane-1,2-diol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EGL "Create component" 1999-12-17 RCSB 
+# 

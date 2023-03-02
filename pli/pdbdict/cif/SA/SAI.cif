@@ -1,0 +1,181 @@
+data_SAI
+# 
+_chem_comp.id                                    SAI 
+_chem_comp.name                                  S-ADENOSYL-L-HOMOSELENOCYSTEINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C14 H20 N6 O5 Se" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        431.306 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SAI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IM8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SAI N      N    N  0 1 N N N 14.054 47.480 0.798  0.620  0.972  6.612  N      SAI 1  
+SAI CA     CA   C  0 1 N N S 15.180 47.581 -0.155 -0.725 0.745  6.069  CA     SAI 2  
+SAI CB     CB   C  0 1 N N N 14.661 48.036 -1.558 -0.637 -0.192 4.864  CB     SAI 3  
+SAI CG     CG   C  0 1 N N N 13.616 47.051 -2.121 0.245  0.440  3.788  CG     SAI 4  
+SAI SE     SE   SE 0 0 N N N 13.866 46.573 -3.996 0.358  -0.761 2.243  SE     SAI 5  
+SAI C      C    C  0 1 N N N 16.228 48.573 0.367  -1.596 0.121  7.129  C      SAI 6  
+SAI O      O    O  0 1 N N N 15.985 49.167 1.445  -1.104 -0.588 7.974  O      SAI 7  
+SAI OXT    OXT  O  0 1 N N N 17.260 48.767 -0.312 -2.917 0.355  7.135  OXT    SAI 8  
+SAI "C5'"  C5*  C  0 1 N N N 12.391 45.376 -4.108 1.524  0.414  1.196  "C5'"  SAI 9  
+SAI "C4'"  C4*  C  0 1 N N S 12.653 44.125 -3.344 1.836  -0.242 -0.149 "C4'"  SAI 10 
+SAI "O4'"  O4*  O  0 1 N N N 11.452 43.409 -3.522 0.620  -0.434 -0.892 "O4'"  SAI 11 
+SAI "C3'"  C3*  C  0 1 N N S 13.860 43.169 -3.899 2.747  0.677  -0.984 "C3'"  SAI 12 
+SAI "O3'"  O3*  O  0 1 N N N 14.962 42.854 -2.977 3.982  0.027  -1.288 "O3'"  SAI 13 
+SAI "C2'"  C2*  C  0 1 N N R 13.043 41.941 -4.333 1.935  0.934  -2.281 "C2'"  SAI 14 
+SAI "O2'"  O2*  O  0 1 N N N 13.735 40.665 -4.369 2.785  0.899  -3.429 "O2'"  SAI 15 
+SAI "C1'"  C1*  C  0 1 N N R 11.848 42.063 -3.363 0.947  -0.260 -2.288 "C1'"  SAI 16 
+SAI N9     N9   N  0 1 Y N N 10.571 41.412 -3.634 -0.252 0.063  -3.063 N9     SAI 17 
+SAI C8     C8   C  0 1 Y N N 9.694  41.626 -4.744 -1.361 0.708  -2.601 C8     SAI 18 
+SAI N7     N7   N  0 1 Y N N 8.625  40.893 -4.640 -2.235 0.829  -3.557 N7     SAI 19 
+SAI C5     C5   C  0 1 Y N N 8.778  40.161 -3.449 -1.745 0.270  -4.690 C5     SAI 20 
+SAI C6     C6   C  0 1 Y N N 7.962  39.222 -2.781 -2.228 0.106  -5.999 C6     SAI 21 
+SAI N6     N6   N  0 1 N N N 6.772  38.845 -3.290 -3.479 0.577  -6.357 N6     SAI 22 
+SAI N1     N1   N  0 1 Y N N 8.403  38.666 -1.588 -1.454 -0.510 -6.886 N1     SAI 23 
+SAI C2     C2   C  0 1 Y N N 9.597  39.069 -1.101 -0.258 -0.962 -6.554 C2     SAI 24 
+SAI N3     N3   N  0 1 Y N N 10.442 39.950 -1.633 0.233  -0.831 -5.340 N3     SAI 25 
+SAI C4     C4   C  0 1 Y N N 9.973  40.476 -2.809 -0.465 -0.223 -4.387 C4     SAI 26 
+SAI HN1    1HN  H  0 1 N N N 14.392 47.183 1.713  0.979  0.069  6.885  HN1    SAI 27 
+SAI HN2    2HN  H  0 1 N N N 13.313 46.871 0.449  1.192  1.291  5.844  HN2    SAI 28 
+SAI HA     HA   H  0 1 N N N 15.654 46.577 -0.256 -1.156 1.697  5.758  HA     SAI 29 
+SAI HB1    1HB  H  0 1 N N N 14.265 49.077 -1.528 -0.206 -1.144 5.175  HB1    SAI 30 
+SAI HB2    2HB  H  0 1 N N N 15.502 48.191 -2.273 -1.636 -0.361 4.461  HB2    SAI 31 
+SAI HG1    1HG  H  0 1 N N N 13.573 46.132 -1.491 -0.185 1.392  3.477  HG1    SAI 32 
+SAI HG2    2HG  H  0 1 N N N 12.586 47.445 -1.957 1.244  0.609  4.190  HG2    SAI 33 
+SAI HXT    HXT  H  0 1 N N N 17.908 49.381 0.011  -3.476 -0.045 7.816  HXT    SAI 34 
+SAI "H5'1" 1H5* H  0 0 N N N 11.442 45.863 -3.783 1.023  1.367  1.027  "H5'1" SAI 35 
+SAI "H5'2" 2H5* H  0 0 N N N 12.118 45.159 -5.167 2.453  0.584  1.741  "H5'2" SAI 36 
+SAI "H4'"  H4*  H  0 1 N N N 12.961 44.392 -2.306 2.326  -1.202 0.011  "H4'"  SAI 37 
+SAI "H3'"  H3*  H  0 1 N N N 14.463 43.667 -4.693 2.929  1.614  -0.456 "H3'"  SAI 38 
+SAI "HO3'" *HO3 H  0 0 N N N 15.662 42.299 -3.299 4.481  0.627  -1.859 "HO3'" SAI 39 
+SAI "H2'"  H2*  H  0 1 N N N 12.758 41.942 -5.411 1.399  1.881  -2.225 "H2'"  SAI 40 
+SAI "HO2'" *HO2 H  0 0 N N N 13.230 39.906 -4.637 3.373  1.664  -3.365 "HO2'" SAI 41 
+SAI "H1'"  H1*  H  0 1 N N N 12.238 41.625 -2.414 1.429  -1.154 -2.684 "H1'"  SAI 42 
+SAI H8     H8   H  0 1 N N N 9.830  42.299 -5.607 -1.493 1.067  -1.591 H8     SAI 43 
+SAI HN61   1HN6 H  0 0 N N N 6.182  38.166 -2.807 -3.800 0.457  -7.265 HN61   SAI 44 
+SAI HN62   2HN6 H  0 0 N N N 6.927  38.508 -4.240 -4.034 1.026  -5.701 HN62   SAI 45 
+SAI H2     H2   H  0 1 N N N 9.923  38.621 -0.147 0.336  -1.458 -7.306 H2     SAI 46 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SAI N     CA     SING N N 1  
+SAI N     HN1    SING N N 2  
+SAI N     HN2    SING N N 3  
+SAI CA    CB     SING N N 4  
+SAI CA    C      SING N N 5  
+SAI CA    HA     SING N N 6  
+SAI CB    CG     SING N N 7  
+SAI CB    HB1    SING N N 8  
+SAI CB    HB2    SING N N 9  
+SAI CG    SE     SING N N 10 
+SAI CG    HG1    SING N N 11 
+SAI CG    HG2    SING N N 12 
+SAI SE    "C5'"  SING N N 13 
+SAI C     O      DOUB N N 14 
+SAI C     OXT    SING N N 15 
+SAI OXT   HXT    SING N N 16 
+SAI "C5'" "C4'"  SING N N 17 
+SAI "C5'" "H5'1" SING N N 18 
+SAI "C5'" "H5'2" SING N N 19 
+SAI "C4'" "O4'"  SING N N 20 
+SAI "C4'" "C3'"  SING N N 21 
+SAI "C4'" "H4'"  SING N N 22 
+SAI "O4'" "C1'"  SING N N 23 
+SAI "C3'" "O3'"  SING N N 24 
+SAI "C3'" "C2'"  SING N N 25 
+SAI "C3'" "H3'"  SING N N 26 
+SAI "O3'" "HO3'" SING N N 27 
+SAI "C2'" "O2'"  SING N N 28 
+SAI "C2'" "C1'"  SING N N 29 
+SAI "C2'" "H2'"  SING N N 30 
+SAI "O2'" "HO2'" SING N N 31 
+SAI "C1'" N9     SING N N 32 
+SAI "C1'" "H1'"  SING N N 33 
+SAI N9    C8     SING Y N 34 
+SAI N9    C4     SING Y N 35 
+SAI C8    N7     DOUB Y N 36 
+SAI C8    H8     SING N N 37 
+SAI N7    C5     SING Y N 38 
+SAI C5    C6     SING Y N 39 
+SAI C5    C4     DOUB Y N 40 
+SAI C6    N6     SING N N 41 
+SAI C6    N1     DOUB Y N 42 
+SAI N6    HN61   SING N N 43 
+SAI N6    HN62   SING N N 44 
+SAI N1    C2     SING Y N 45 
+SAI C2    N3     DOUB Y N 46 
+SAI C2    H2     SING N N 47 
+SAI N3    C4     SING Y N 48 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SAI SMILES           ACDLabs              10.04 "O=C(O)C(N)CC[Se]CC3OC(n2cnc1c(ncnc12)N)C(O)C3O"                                                                                                                                 
+SAI SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CC[Se]C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23)C(O)=O"                                                                                                           
+SAI SMILES           CACTVS               3.341 "N[CH](CC[Se]C[CH]1O[CH]([CH](O)[CH]1O)n2cnc3c(N)ncnc23)C(O)=O"                                                                                                                  
+SAI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)C[Se]CC[C@@H](C(=O)O)N)O)O)N"                                                                                                    
+SAI SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)C[Se]CCC(C(=O)O)N)O)O)N"                                                                                                                           
+SAI InChI            InChI                1.03  "InChI=1S/C14H20N6O5Se/c15-6(14(23)24)1-2-26-3-7-9(21)10(22)13(25-7)20-5-19-8-11(16)17-4-18-12(8)20/h4-7,9-10,13,21-22H,1-3,15H2,(H,23,24)(H2,16,17,18)/t6-,7+,9+,10+,13+/m0/s1" 
+SAI InChIKey         InChI                1.03  UVSMMLABJBJNGH-WFMPWKQPSA-N                                                                                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SAI "SYSTEMATIC NAME" ACDLabs              10.04 "5'-Se-[(3S)-3-amino-3-carboxypropyl]-5'-selenoadenosine"                                                    
+SAI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-[[(2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methylselanyl]butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SAI "Create component"  2001-05-16 RCSB 
+SAI "Modify descriptor" 2011-06-04 RCSB 
+# 

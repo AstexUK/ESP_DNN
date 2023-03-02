@@ -1,0 +1,118 @@
+data_UAL
+# 
+_chem_comp.id                                    UAL 
+_chem_comp.name                                  "(2Z)-2-amino-3-(carbamoylamino)prop-2-enoic acid" 
+_chem_comp.type                                  "peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N3 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-02-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        145.117 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UAL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KNH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UAL C    C    C 0 1 N N N 104.655 6.858 24.997 2.277  -0.359 -0.002 C    UAL 1  
+UAL N    N    N 0 1 N N N 106.875 6.655 24.073 1.074  1.817  -0.001 N    UAL 2  
+UAL O    O    O 0 1 N N N 103.651 6.375 25.479 2.241  -1.575 -0.001 O    UAL 3  
+UAL C1   C1   C 0 1 N N N 106.758 2.513 24.771 -2.515 -0.146 0.000  C1   UAL 4  
+UAL N1   N1   N 0 1 N N N 106.821 3.841 24.538 -1.329 0.494  -0.000 N1   UAL 5  
+UAL N2   N2   N 0 1 N N N 107.804 1.791 24.418 -3.662 0.562  0.001  N2   UAL 6  
+UAL O2   O2   O 0 1 N N N 105.777 2.007 25.307 -2.551 -1.361 0.001  O2   UAL 7  
+UAL CA   CA   C 0 1 N N N 105.871 6.012 24.615 1.033  0.409  -0.001 CA   UAL 8  
+UAL CB   CB   C 0 1 N N N 105.824 4.626 24.847 -0.155 -0.231 -0.001 CB   UAL 9  
+UAL OXT  OXT  O 0 1 N Y N 104.703 8.270 24.778 3.465  0.281  0.003  OXT  UAL 10 
+UAL HN   HN   H 0 1 N N N 107.611 6.010 23.864 1.928  2.277  -0.002 HN   UAL 11 
+UAL HN2  HN2  H 0 1 N N N 107.811 0.805 24.586 -4.516 0.102  0.001  HN2  UAL 12 
+UAL HN2A HN2A H 0 0 N N N 108.590 2.229 23.983 -3.634 1.532  0.001  HN2A UAL 13 
+UAL HB   HB   H 0 1 N N N 104.938 4.198 25.293 -0.187 -1.310 -0.000 HB   UAL 14 
+UAL H5   H5   H 0 1 N Y N 106.571 7.098 23.230 0.249  2.327  -0.001 H5   UAL 15 
+UAL H6   H6   H 0 1 N N N 107.643 4.230 24.123 -1.300 1.463  -0.000 H6   UAL 16 
+UAL HXT  HXT  H 0 1 N Y N 103.885 8.663 25.060 4.230  -0.310 0.007  HXT  UAL 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UAL C   O    DOUB N N 1  
+UAL C   OXT  SING N N 2  
+UAL N   CA   SING N N 3  
+UAL N   HN   SING N N 4  
+UAL C1  O2   DOUB N N 5  
+UAL N1  C1   SING N N 6  
+UAL N1  CB   SING N N 7  
+UAL N2  C1   SING N N 8  
+UAL N2  HN2  SING N N 9  
+UAL N2  HN2A SING N N 10 
+UAL CA  C    SING N N 11 
+UAL CA  CB   DOUB N N 12 
+UAL CB  HB   SING N N 13 
+UAL N   H5   SING N Z 14 
+UAL N1  H6   SING N N 15 
+UAL OXT HXT  SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UAL SMILES_CANONICAL CACTVS               3.352 "NC(=O)N/C=C(N)/C(O)=O"                                                    
+UAL SMILES           CACTVS               3.352 "NC(=O)NC=C(N)C(O)=O"                                                      
+UAL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(=C(/C(=O)O)\N)\NC(=O)N"                                                 
+UAL SMILES           "OpenEye OEToolkits" 1.7.0 "C(=C(C(=O)O)N)NC(=O)N"                                                    
+UAL InChI            InChI                1.03  "InChI=1S/C4H7N3O3/c5-2(3(8)9)1-7-4(6)10/h1H,5H2,(H,8,9)(H3,6,7,10)/b2-1-" 
+UAL InChIKey         InChI                1.03  KFNFSNNTMFEOGR-UPHRSURJSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UAL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(Z)-3-(aminocarbonylamino)-2-azanyl-prop-2-enoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UAL "Create component"  2010-02-05 RCSB 
+UAL "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,125 @@
+data_3ML
+# 
+_chem_comp.id                                    3ML 
+_chem_comp.name                                  "[(2S)-3-methyl-5-oxo-2,5-dihydrofuran-2-yl]acetic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H8 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         3-methylmuconolactone 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-05-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        156.136 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3ML 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3HF5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3ML CAA  CAA  C 0 1 N N N -30.850 26.750 11.048 -1.367 2.698  0.147  CAA  3ML 1  
+3ML CAI  CAI  C 0 1 N N N -30.831 26.995 12.555 -1.297 1.193  0.120  CAI  3ML 2  
+3ML CAE  CAE  C 0 1 N N N -30.016 26.405 13.460 -2.278 0.360  -0.221 CAE  3ML 3  
+3ML CAJ  CAJ  C 0 1 N N N -30.333 26.914 14.661 -1.804 -1.023 -0.116 CAJ  3ML 4  
+3ML OAC  OAC  O 0 1 N N N -29.780 26.610 15.747 -2.471 -2.009 -0.361 OAC  3ML 5  
+3ML OAG  OAG  O 0 1 N N N -31.310 27.845 14.608 -0.522 -1.039 0.293  OAG  3ML 6  
+3ML CAK  CAK  C 0 1 N N S -31.708 27.968 13.173 -0.098 0.342  0.468  CAK  3ML 7  
+3ML CAF  CAF  C 0 1 N N N -31.366 29.438 12.765 1.066  0.662  -0.473 CAF  3ML 8  
+3ML CAH  CAH  C 0 1 N N N -32.320 30.472 13.341 2.289  -0.103 -0.037 CAH  3ML 9  
+3ML OAD  OAD  O 0 1 N N N -32.118 31.640 12.984 2.235  -0.830 0.927  OAD  3ML 10 
+3ML OAB  OAB  O 0 1 N N N -33.160 30.108 14.069 3.438  0.023  -0.719 OAB  3ML 11 
+3ML HAA  HAA  H 0 1 N N N -30.855 27.715 10.519 -1.077 3.093  -0.827 HAA  3ML 12 
+3ML HAAA HAAA H 0 0 N N N -29.956 26.178 10.758 -2.386 3.010  0.377  HAAA 3ML 13 
+3ML HAAB HAAB H 0 0 N N N -31.753 26.181 10.781 -0.689 3.080  0.910  HAAB 3ML 14 
+3ML HAE  HAE  H 0 1 N N N -29.256 25.666 13.255 -3.270 0.658  -0.527 HAE  3ML 15 
+3ML HAK  HAK  H 0 1 N N N -32.761 27.788 12.910 0.197  0.514  1.503  HAK  3ML 16 
+3ML HAF  HAF  H 0 1 N N N -30.354 29.667 13.131 0.801  0.375  -1.490 HAF  3ML 17 
+3ML HAFA HAFA H 0 0 N N N -31.449 29.497 11.670 1.275  1.731  -0.440 HAFA 3ML 18 
+3ML HOAB HOAB H 0 0 N N N -33.677 30.852 14.354 4.195  -0.488 -0.402 HOAB 3ML 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3ML CAA CAI  SING N N 1  
+3ML CAA HAA  SING N N 2  
+3ML CAA HAAA SING N N 3  
+3ML CAA HAAB SING N N 4  
+3ML CAI CAK  SING N N 5  
+3ML CAI CAE  DOUB N N 6  
+3ML CAE CAJ  SING N N 7  
+3ML CAE HAE  SING N N 8  
+3ML OAG CAJ  SING N N 9  
+3ML CAJ OAC  DOUB N N 10 
+3ML CAK OAG  SING N N 11 
+3ML CAF CAK  SING N N 12 
+3ML CAK HAK  SING N N 13 
+3ML CAF CAH  SING N N 14 
+3ML CAF HAF  SING N N 15 
+3ML CAF HAFA SING N N 16 
+3ML OAD CAH  DOUB N N 17 
+3ML CAH OAB  SING N N 18 
+3ML OAB HOAB SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3ML SMILES           ACDLabs              10.04 "O=C1OC(C(=C1)C)CC(=O)O"                                                     
+3ML SMILES_CANONICAL CACTVS               3.341 "CC1=CC(=O)O[C@H]1CC(O)=O"                                                   
+3ML SMILES           CACTVS               3.341 "CC1=CC(=O)O[CH]1CC(O)=O"                                                    
+3ML SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CC(=O)O[C@H]1CC(=O)O"                                                   
+3ML SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CC(=O)OC1CC(=O)O"                                                       
+3ML InChI            InChI                1.03  "InChI=1S/C7H8O4/c1-4-2-7(10)11-5(4)3-6(8)9/h2,5H,3H2,1H3,(H,8,9)/t5-/m0/s1" 
+3ML InChIKey         InChI                1.03  GXEVIPDDAUJTCF-YFKPBYRVSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3ML "SYSTEMATIC NAME" ACDLabs              10.04 "[(2S)-3-methyl-5-oxo-2,5-dihydrofuran-2-yl]acetic acid" 
+3ML "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-[(2S)-3-methyl-5-oxo-2H-furan-2-yl]ethanoic acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3ML "Create component"  2009-05-14 PDBJ 
+3ML "Modify descriptor" 2011-06-04 RCSB 
+# 

@@ -1,0 +1,119 @@
+data_DPL
+# 
+_chem_comp.id                                    DPL 
+_chem_comp.name                                  4-OXOPROLINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H7 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               PRO 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        129.114 
+_chem_comp.one_letter_code                       P 
+_chem_comp.three_letter_code                     DPL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DPL N   N   N 0 1 N N N 7.388  14.408 12.595 1.084 2.252  1.000  N   DPL 1  
+DPL CA  CA  C 0 1 N N S 6.892  13.032 12.590 1.798 1.370  0.066  CA  DPL 2  
+DPL C   C   C 0 1 N N N 5.485  12.988 11.976 1.098 0.045  0.047  C   DPL 3  
+DPL O   O   O 0 1 N N N 4.671  13.861 12.322 0.111 -0.237 0.711  O   DPL 4  
+DPL CB  CB  C 0 1 N N N 6.813  12.654 14.079 3.233 1.270  0.562  CB  DPL 5  
+DPL CG  CG  C 0 1 N N N 6.861  13.947 14.821 3.051 1.554  2.023  CG  DPL 6  
+DPL CD  CD  C 0 1 N N N 7.273  15.032 13.898 1.651 2.002  2.330  CD  DPL 7  
+DPL OG1 OG1 O 0 1 N N N 6.673  14.060 15.986 3.932 1.429  2.863  OG1 DPL 8  
+DPL OXT OXT O 0 1 N Y N ?      ?      ?      1.711 -0.808 -0.809 OXT DPL 9  
+DPL H   H   H 0 1 N N N 8.353  14.399 12.332 0.078 2.097  0.986  H   DPL 10 
+DPL HA  HA  H 0 1 N N N 7.532  12.353 12.008 1.757 1.768  -0.953 HA  DPL 11 
+DPL HB2 1HB H 0 1 N N N 7.636  11.986 14.373 3.863 2.055  0.133  HB2 DPL 12 
+DPL HB3 2HB H 0 1 N N N 5.880  12.113 14.296 3.672 0.280  0.418  HB3 DPL 13 
+DPL HD3 1HD H 0 1 N N N 6.546  15.858 13.891 1.118 1.198  2.846  HD3 DPL 14 
+DPL HD2 2HD H 0 1 N N N 8.234  15.467 14.210 1.657 2.917  2.926  HD2 DPL 15 
+DPL HXT HXT H 0 1 N Y N -0.870 -0.027 -0.380 1.268 -1.683 -0.835 HXT DPL 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DPL N   CA  SING N N 1  
+DPL N   CD  SING N N 2  
+DPL N   H   SING N N 3  
+DPL CA  C   SING N N 4  
+DPL CA  CB  SING N N 5  
+DPL CA  HA  SING N N 6  
+DPL C   O   DOUB N N 7  
+DPL C   OXT SING N N 8  
+DPL CB  CG  SING N N 9  
+DPL CB  HB2 SING N N 10 
+DPL CB  HB3 SING N N 11 
+DPL CG  CD  SING N N 12 
+DPL CG  OG1 DOUB N N 13 
+DPL CD  HD3 SING N N 14 
+DPL CD  HD2 SING N N 15 
+DPL OXT HXT SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DPL SMILES           ACDLabs              10.04 "O=C(O)C1NCC(=O)C1"                                                   
+DPL SMILES_CANONICAL CACTVS               3.341 "OC(=O)[C@@H]1CC(=O)CN1"                                              
+DPL SMILES           CACTVS               3.341 "OC(=O)[CH]1CC(=O)CN1"                                                
+DPL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@H](NCC1=O)C(=O)O"                                               
+DPL SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(NCC1=O)C(=O)O"                                                   
+DPL InChI            InChI                1.03  "InChI=1S/C5H7NO3/c7-3-1-4(5(8)9)6-2-3/h4,6H,1-2H2,(H,8,9)/t4-/m0/s1" 
+DPL InChIKey         InChI                1.03  HFXAFXVXPMUQCQ-BYPYZUCNSA-N                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DPL "SYSTEMATIC NAME" ACDLabs              10.04 4-oxo-L-proline                           
+DPL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-4-oxopyrrolidine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DPL "Create component"  1999-07-08 EBI  
+DPL "Modify descriptor" 2011-06-04 RCSB 
+# 

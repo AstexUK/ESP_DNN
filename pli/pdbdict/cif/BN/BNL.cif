@@ -1,0 +1,133 @@
+data_BNL
+# 
+_chem_comp.id                                    BNL 
+_chem_comp.name                                  BIPHENYL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H10" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-09-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        154.208 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BNL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2GBX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BNL C1  C1  C 0 1 Y N N 44.608 -24.071 90.711 1.441  1.205  0.000  C1  BNL 1  
+BNL C2  C2  C 0 1 Y N N 43.246 -23.843 90.908 0.742  -0.000 -0.000 C2  BNL 2  
+BNL C3  C3  C 0 1 Y N N 42.340 -24.098 89.882 1.441  -1.205 -0.000 C3  BNL 3  
+BNL C4  C4  C 0 1 Y N N 42.792 -24.586 88.661 2.821  -1.199 -0.000 C4  BNL 4  
+BNL C5  C5  C 0 1 Y N N 44.151 -24.813 88.462 3.510  0.000  0.000  C5  BNL 5  
+BNL C6  C6  C 0 1 Y N N 45.060 -24.555 89.486 2.821  1.199  0.000  C6  BNL 6  
+BNL C12 C12 C 0 1 Y N N 41.426 -21.774 93.492 -2.821 1.199  0.000  C12 BNL 7  
+BNL C13 C13 C 0 1 Y N N 41.833 -22.396 94.670 -3.510 0.000  0.000  C13 BNL 8  
+BNL C14 C14 C 0 1 Y N N 42.697 -23.486 94.620 -2.821 -1.199 -0.000 C14 BNL 9  
+BNL C15 C15 C 0 1 Y N N 43.156 -23.955 93.393 -1.441 -1.205 -0.000 C15 BNL 10 
+BNL C16 C16 C 0 1 Y N N 42.753 -23.331 92.214 -0.742 -0.000 0.000  C16 BNL 11 
+BNL C17 C17 C 0 1 Y N N 41.886 -22.242 92.263 -1.441 1.205  0.000  C17 BNL 12 
+BNL H1  H1  H 0 1 N N N 45.311 -23.873 91.507 0.904  2.142  -0.004 H1  BNL 13 
+BNL H3  H3  H 0 1 N N N 41.286 -23.917 90.035 0.904  -2.142 -0.000 H3  BNL 14 
+BNL H4  H4  H 0 1 N N N 42.089 -24.789 87.867 3.364  -2.133 0.000  H4  BNL 15 
+BNL H5  H5  H 0 1 N N N 44.501 -25.190 87.512 4.590  0.000  0.000  H5  BNL 16 
+BNL H6  H6  H 0 1 N N N 46.114 -24.730 89.330 3.364  2.133  0.000  H6  BNL 17 
+BNL H12 H12 H 0 1 N N N 40.754 -20.929 93.531 -3.364 2.133  -0.004 H12 BNL 18 
+BNL H13 H13 H 0 1 N N N 41.478 -22.032 95.623 -4.590 0.000  0.000  H13 BNL 19 
+BNL H14 H14 H 0 1 N N N 43.011 -23.968 95.534 -3.364 -2.133 -0.000 H14 BNL 20 
+BNL H15 H15 H 0 1 N N N 43.824 -24.802 93.354 -0.904 -2.142 0.001  H15 BNL 21 
+BNL H17 H17 H 0 1 N N N 41.571 -21.761 91.349 -0.904 2.142  0.000  H17 BNL 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BNL C1  C2  DOUB Y N 1  
+BNL C1  C6  SING Y N 2  
+BNL C2  C3  SING Y N 3  
+BNL C2  C16 SING Y N 4  
+BNL C3  C4  DOUB Y N 5  
+BNL C4  C5  SING Y N 6  
+BNL C5  C6  DOUB Y N 7  
+BNL C12 C13 DOUB Y N 8  
+BNL C12 C17 SING Y N 9  
+BNL C13 C14 SING Y N 10 
+BNL C14 C15 DOUB Y N 11 
+BNL C15 C16 SING Y N 12 
+BNL C16 C17 DOUB Y N 13 
+BNL C1  H1  SING N N 14 
+BNL C3  H3  SING N N 15 
+BNL C4  H4  SING N N 16 
+BNL C5  H5  SING N N 17 
+BNL C6  H6  SING N N 18 
+BNL C12 H12 SING N N 19 
+BNL C13 H13 SING N N 20 
+BNL C14 H14 SING N N 21 
+BNL C15 H15 SING N N 22 
+BNL C17 H17 SING N N 23 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BNL SMILES           ACDLabs              11.02 "c1cc(ccc1)c2ccccc2"                                      
+BNL SMILES_CANONICAL CACTVS               3.352 "c1ccc(cc1)c2ccccc2"                                      
+BNL SMILES           CACTVS               3.352 "c1ccc(cc1)c2ccccc2"                                      
+BNL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)c2ccccc2"                                      
+BNL SMILES           "OpenEye OEToolkits" 1.7.0 "c1ccc(cc1)c2ccccc2"                                      
+BNL InChI            InChI                1.03  "InChI=1S/C12H10/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h1-10H" 
+BNL InChIKey         InChI                1.03  ZUOUZKKEUPVFJK-UHFFFAOYSA-N                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BNL "SYSTEMATIC NAME" ACDLabs              11.02 biphenyl        
+BNL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "1,1'-biphenyl" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BNL "Create component"     2003-09-15 RCSB 
+BNL "Modify aromatic_flag" 2011-06-04 RCSB 
+BNL "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,122 @@
+data_LAA
+# 
+_chem_comp.id                                    LAA 
+_chem_comp.name                                  "(3R)-3-hydroxy-L-alpha-asparagine" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H8 N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ASP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-03-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        148.117 
+_chem_comp.one_letter_code                       D 
+_chem_comp.three_letter_code                     LAA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CCF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+LAA N    N    N 0 1 N N N -1.565 -6.361 -8.965  -2.478 1.123  0.442  N    LAA 1  
+LAA N1   N1   N 0 1 N N N 1.197  -4.161 -7.944  -0.277 -1.810 0.377  N1   LAA 2  
+LAA CA   CA   C 0 1 N N S -0.167 -4.437 -8.540  -0.499 -0.361 0.465  CA   LAA 3  
+LAA C    C    C 0 1 N N N -0.334 -5.933 -8.772  -1.918 -0.045 0.068  C    LAA 4  
+LAA O    O    O 0 1 N N N 0.652  -6.663 -8.787  -2.556 -0.840 -0.588 O    LAA 5  
+LAA CB   CB   C 0 1 N N R -0.222 -3.714 -9.919  0.467  0.361  -0.478 CB   LAA 6  
+LAA CG   CG   C 0 1 N N N 0.836  -4.320 -10.821 1.886  0.044  -0.081 CG   LAA 7  
+LAA OD1  OD1  O 0 1 N N N 1.995  -3.959 -10.612 2.347  -1.212 -0.182 OD1  LAA 8  
+LAA OD2  OD2  O 0 1 N N N 0.450  -5.144 -11.632 2.609  0.922  0.328  OD2  LAA 9  
+LAA HN1  HN1  H 0 1 N N N 1.875  -4.100 -8.676  -0.858 -2.306 1.037  HN1  LAA 10 
+LAA HA   HA   H 0 1 N N N -0.960 -4.085 -7.864  -0.325 -0.028 1.488  HA   LAA 11 
+LAA HB   HB   H 0 1 N N N -1.180 -3.805 -10.451 0.293  0.028  -1.501 HB   LAA 12 
+LAA O1   O1   O 0 1 N N N 0.063  -2.365 -9.596  0.252  1.771  -0.393 O1   LAA 13 
+LAA HO1  HO1  H 0 1 N N N 0.127  -2.271 -8.653  0.389  2.137  0.492  HO1  LAA 14 
+LAA HN   HN   H 0 1 N N N -2.175 -5.570 -8.917  -1.968 1.760  0.967  HN   LAA 15 
+LAA HNA  HNA  H 0 1 N N N -1.840 -7.308 -9.130  -3.390 1.328  0.183  HNA  LAA 16 
+LAA HN1A HN1A H 0 0 N N N 1.172  -3.297 -7.440  -0.433 -2.144 -0.563 HN1A LAA 17 
+LAA HOD1 HOD1 H 0 0 N N N 2.583  -4.428 -11.193 3.264  -1.367 0.084  HOD1 LAA 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+LAA N   C    SING N N 1  
+LAA N   HN   SING N N 2  
+LAA N   HNA  SING N N 3  
+LAA CA  N1   SING N N 4  
+LAA HN1 N1   SING N N 5  
+LAA N1  HN1A SING N N 6  
+LAA CB  CA   SING N N 7  
+LAA C   CA   SING N N 8  
+LAA CA  HA   SING N N 9  
+LAA O   C    DOUB N N 10 
+LAA CG  CB   SING N N 11 
+LAA HB  CB   SING N N 12 
+LAA CB  O1   SING N N 13 
+LAA OD2 CG   DOUB N N 14 
+LAA CG  OD1  SING N N 15 
+LAA OD1 HOD1 SING N N 16 
+LAA O1  HO1  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+LAA SMILES           ACDLabs              10.04 "O=C(N)C(N)C(O)C(=O)O"                                                              
+LAA SMILES_CANONICAL CACTVS               3.341 "N[C@@H]([C@@H](O)C(O)=O)C(N)=O"                                                    
+LAA SMILES           CACTVS               3.341 "N[CH]([CH](O)C(O)=O)C(N)=O"                                                        
+LAA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[C@H]([C@H](C(=O)O)O)(C(=O)N)N"                                                    
+LAA SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)O)(C(=O)N)N"                                                            
+LAA InChI            InChI                1.03  "InChI=1S/C4H8N2O4/c5-1(3(6)8)2(7)4(9)10/h1-2,7H,5H2,(H2,6,8)(H,9,10)/t1-,2+/m0/s1" 
+LAA InChIKey         InChI                1.03  XTAAXERUXNEDCQ-NHYDCYSISA-N                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+LAA "SYSTEMATIC NAME" ACDLabs              10.04 "(3R)-3-hydroxy-L-alpha-asparagine"                 
+LAA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3S)-3,4-diamino-2-hydroxy-4-oxo-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+LAA "Create component"  2008-03-26 RCSB 
+LAA "Modify descriptor" 2011-06-04 RCSB 
+# 

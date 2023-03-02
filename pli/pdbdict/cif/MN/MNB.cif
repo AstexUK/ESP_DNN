@@ -1,0 +1,123 @@
+data_MNB
+# 
+_chem_comp.id                                    MNB 
+_chem_comp.name                                  "5-MERCAPTO-2-NITRO-BENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H5 N O4 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-06-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        199.184 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MNB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1F42 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MNB C6  C6  C 0  1 Y N N 10.900 53.297 -28.251 0.821  0.118  -1.144 C6  MNB 1  
+MNB C1  C1  C 0  1 Y N N 10.124 53.624 -27.107 0.554  0.061  0.212  C1  MNB 2  
+MNB C2  C2  C 0  1 Y N N 8.975  52.864 -26.801 -0.784 -0.098 0.654  C2  MNB 3  
+MNB C3  C3  C 0  1 Y N N 8.592  51.791 -27.609 -1.822 -0.186 -0.289 C3  MNB 4  
+MNB C4  C4  C 0  1 Y N N 9.384  51.470 -28.752 -1.542 -0.128 -1.623 C4  MNB 5  
+MNB C5  C5  C 0  1 Y N N 10.529 52.220 -29.068 -0.226 0.023  -2.064 C5  MNB 6  
+MNB S5  S5  S 0  1 N N N 11.537 51.771 -30.534 0.114  0.095  -3.792 S5  MNB 7  
+MNB C10 C10 C 0  1 N N N 10.514 54.671 -26.284 1.657  0.161  1.193  C10 MNB 8  
+MNB O12 O12 O 0  1 N N N 9.887  55.752 -26.356 2.852  -0.396 0.922  O12 MNB 9  
+MNB O11 O11 O 0  1 N N N 11.474 54.522 -25.472 1.483  0.745  2.243  O11 MNB 10 
+MNB N7  N7  N 1  1 N N N 8.169  53.186 -25.621 -1.058 -0.155 1.964  N7  MNB 11 
+MNB O9  O9  O 0  1 N N N 7.356  54.296 -25.560 -2.197 0.509  2.478  O9  MNB 12 
+MNB O8  O8  O -1 1 N N N 8.181  52.406 -24.488 -0.328 -0.780 2.712  O8  MNB 13 
+MNB HC6 HC6 H 0  1 N N N 11.798 53.884 -28.507 1.837  0.236  -1.491 HC6 MNB 14 
+MNB HC3 HC3 H 0  1 N N N 7.688  51.212 -27.351 -2.843 -0.304 0.041  HC3 MNB 15 
+MNB HC4 HC4 H 0  1 N N N 9.105  50.625 -29.404 -2.344 -0.201 -2.342 HC4 MNB 16 
+MNB HS5 HS5 H 0  1 N N N 11.285 51.041 -31.087 0.311  -1.274 -4.060 HS5 MNB 17 
+MNB H12 H12 H 0  1 N N N 10.154 56.468 -25.792 3.573  -0.331 1.563  H12 MNB 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MNB C6  C1  DOUB Y N 1  
+MNB C6  C5  SING Y N 2  
+MNB C6  HC6 SING N N 3  
+MNB C1  C2  SING Y N 4  
+MNB C1  C10 SING N N 5  
+MNB C2  C3  DOUB Y N 6  
+MNB C2  N7  SING N N 7  
+MNB C3  C4  SING Y N 8  
+MNB C3  HC3 SING N N 9  
+MNB C4  C5  DOUB Y N 10 
+MNB C4  HC4 SING N N 11 
+MNB C5  S5  SING N N 12 
+MNB S5  HS5 SING N N 13 
+MNB C10 O12 SING N N 14 
+MNB C10 O11 DOUB N N 15 
+MNB O12 H12 SING N N 16 
+MNB N7  O9  DOUB N N 17 
+MNB N7  O8  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MNB SMILES           ACDLabs              10.04 "O=[N+]([O-])c1c(cc(S)cc1)C(=O)O"                                      
+MNB SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1cc(S)ccc1[N+]([O-])=O"                                        
+MNB SMILES           CACTVS               3.341 "OC(=O)c1cc(S)ccc1[N+]([O-])=O"                                        
+MNB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1S)C(=O)O)[N+](=O)[O-]"                                      
+MNB SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1S)C(=O)O)[N+](=O)[O-]"                                      
+MNB InChI            InChI                1.03  "InChI=1S/C7H5NO4S/c9-7(10)5-3-4(13)1-2-6(5)8(11)12/h1-3,13H,(H,9,10)" 
+MNB InChIKey         InChI                1.03  GANZODCWZFAEGN-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MNB "SYSTEMATIC NAME" ACDLabs              10.04 "2-nitro-5-sulfanylbenzoic acid"  
+MNB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-nitro-5-sulfanyl-benzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MNB "Create component"  2000-06-08 RCSB 
+MNB "Modify descriptor" 2011-06-04 RCSB 
+# 

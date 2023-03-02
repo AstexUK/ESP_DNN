@@ -1,0 +1,116 @@
+data_TQ9
+# 
+_chem_comp.id                                    TQ9 
+_chem_comp.name                                  "5-CHLORO-4-OXOPENTANOIC ACID" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H7 Cl O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-11-17 
+_chem_comp.pdbx_modified_date                    2011-08-12 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.560 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TQ9 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XYH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TQ9 C91  C91  C  0 1 N N N 36.122 34.026 31.687 2.069  -0.918 0.000  C91  TQ9 1  
+TQ9 C92  C92  C  0 1 N N N 34.646 33.758 31.510 0.871  -0.003 -0.000 C92  TQ9 2  
+TQ9 C2   C2   C  0 1 N N N 34.141 32.330 31.346 -0.520 -0.582 0.000  C2   TQ9 3  
+TQ9 O4   O4   O  0 1 N N N 33.865 34.691 31.527 1.026  1.195  -0.000 O4   TQ9 4  
+TQ9 C5   C5   C  0 1 N N N 34.901 31.493 30.275 -1.546 0.553  -0.000 C5   TQ9 5  
+TQ9 C7   C7   C  0 1 N N N 33.921 30.855 29.320 -2.937 -0.027 0.000  C7   TQ9 6  
+TQ9 O8   O8   O  0 1 N N N 33.497 31.541 28.351 -3.092 -1.225 0.000  O8   TQ9 7  
+TQ9 O9   O9   O  0 1 N N N 33.568 29.661 29.531 -4.003 0.788  -0.000 O9   TQ9 8  
+TQ9 CL   CL   CL 0 0 N Y N 36.923 33.022 32.925 3.578  0.068  -0.000 CL   TQ9 9  
+TQ9 H911 H911 H  0 0 N N N 36.616 33.828 30.724 2.045  -1.546 0.890  H911 TQ9 10 
+TQ9 H912 H912 H  0 0 N N N 36.212 35.069 32.025 2.045  -1.547 -0.890 H912 TQ9 11 
+TQ9 H21C H21C H  0 0 N N N 34.254 31.820 32.314 -0.658 -1.197 -0.890 H21C TQ9 12 
+TQ9 H22C H22C H  0 0 N N N 33.097 32.402 31.007 -0.658 -1.197 0.890  H22C TQ9 13 
+TQ9 H51C H51C H  0 0 N N N 35.578 32.153 29.712 -1.408 1.167  0.890  H51C TQ9 14 
+TQ9 H52C H52C H  0 0 N N N 35.478 30.703 30.779 -1.408 1.167  -0.890 H52C TQ9 15 
+TQ9 H9   H9   H  0 1 N N N 32.955 29.388 28.859 -4.875 0.370  -0.000 H9   TQ9 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TQ9 C91 C92  SING N N 1  
+TQ9 C91 CL   SING N N 2  
+TQ9 C92 C2   SING N N 3  
+TQ9 C92 O4   DOUB N N 4  
+TQ9 C2  C5   SING N N 5  
+TQ9 C5  C7   SING N N 6  
+TQ9 C7  O8   DOUB N N 7  
+TQ9 C7  O9   SING N N 8  
+TQ9 C91 H911 SING N N 9  
+TQ9 C91 H912 SING N N 10 
+TQ9 C2  H21C SING N N 11 
+TQ9 C2  H22C SING N N 12 
+TQ9 C5  H51C SING N N 13 
+TQ9 C5  H52C SING N N 14 
+TQ9 O9  H9   SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TQ9 SMILES_CANONICAL CACTVS               3.352 "OC(=O)CCC(=O)CCl"                                    
+TQ9 SMILES           CACTVS               3.352 "OC(=O)CCC(=O)CCl"                                    
+TQ9 SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C(CC(=O)O)C(=O)CCl"                                  
+TQ9 SMILES           "OpenEye OEToolkits" 1.6.1 "C(CC(=O)O)C(=O)CCl"                                  
+TQ9 InChI            InChI                1.03  "InChI=1S/C5H7ClO3/c6-3-4(7)1-2-5(8)9/h1-3H2,(H,8,9)" 
+TQ9 InChIKey         InChI                1.03  NDODXPYZKSROJQ-UHFFFAOYSA-N                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TQ9 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "5-chloro-4-oxo-pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TQ9 "Create component"  2010-11-17 EBI  
+TQ9 "Modify descriptor" 2011-06-04 RCSB 
+# 

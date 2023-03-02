@@ -1,0 +1,124 @@
+data_0TU
+# 
+_chem_comp.id                                    0TU 
+_chem_comp.name                                  "6-chloroquinolin-2(1H)-one" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H6 Cl N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-02-25 
+_chem_comp.pdbx_modified_date                    2015-02-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        179.603 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     0TU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4CR5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+0TU CL   CL   CL 0 0 N N N -20.693 -45.147 -12.405 -3.708 0.316  -0.000 CL   0TU 1  
+0TU C1   C1   C  0 1 Y N N -18.552 -48.444 -11.649 -0.269 -1.719 0.000  C1   0TU 2  
+0TU C2   C2   C  0 1 Y N N -18.929 -47.133 -11.871 -1.608 -1.394 0.000  C2   0TU 3  
+0TU C3   C3   C  0 1 Y N N -21.217 -47.787 -12.133 -1.093 0.943  -0.000 C3   0TU 4  
+0TU C4   C4   C  0 1 Y N N -20.844 -49.101 -11.921 0.272  0.636  0.000  C4   0TU 5  
+0TU C5   C5   C  0 1 Y N N -19.524 -49.424 -11.691 0.687  -0.709 0.000  C5   0TU 6  
+0TU C6   C6   C  0 1 Y N N -20.249 -46.804 -12.115 -2.015 -0.065 0.000  C6   0TU 7  
+0TU C7   C7   C  0 1 N N N -21.846 -50.149 -11.941 1.286  1.692  -0.000 C7   0TU 8  
+0TU C8   C8   C  0 1 N N N -21.534 -51.434 -11.737 2.594  1.334  0.001  C8   0TU 9  
+0TU C9   C9   C  0 1 N N N -20.112 -51.795 -11.492 2.958  -0.030 -0.001 C9   0TU 10 
+0TU N10  N10  N  0 1 N N N -19.181 -50.765 -11.478 2.034  -1.007 -0.001 N10  0TU 11 
+0TU O11  O11  O  0 1 N N N -19.836 -52.976 -11.314 4.139  -0.330 -0.000 O11  0TU 12 
+0TU H1   H1   H  0 1 N N N -17.521 -48.696 -11.447 0.037  -2.755 0.004  H1   0TU 13 
+0TU H2   H2   H  0 1 N N N -18.181 -46.354 -11.854 -2.349 -2.180 0.000  H2   0TU 14 
+0TU H3   H3   H  0 1 N N N -22.252 -47.533 -12.310 -1.416 1.974  0.000  H3   0TU 15 
+0TU H7   H7   H  0 1 N N N -22.876 -49.884 -12.126 0.999  2.733  -0.001 H7   0TU 16 
+0TU H8   H8   H  0 1 N N N -22.300 -52.195 -11.750 3.360  2.095  0.000  H8   0TU 17 
+0TU HN10 HN10 H  0 0 N N N -18.222 -50.991 -11.308 2.318  -1.934 -0.001 HN10 0TU 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+0TU CL  C6   SING N N 1  
+0TU C1  C2   DOUB Y N 2  
+0TU C1  C5   SING Y N 3  
+0TU C2  C6   SING Y N 4  
+0TU C3  C4   SING Y N 5  
+0TU C3  C6   DOUB Y N 6  
+0TU C4  C5   DOUB Y N 7  
+0TU C4  C7   SING N N 8  
+0TU C5  N10  SING N N 9  
+0TU C7  C8   DOUB N N 10 
+0TU C8  C9   SING N N 11 
+0TU C9  N10  SING N N 12 
+0TU C9  O11  DOUB N N 13 
+0TU C1  H1   SING N N 14 
+0TU C2  H2   SING N N 15 
+0TU C3  H3   SING N N 16 
+0TU C7  H7   SING N N 17 
+0TU C8  H8   SING N N 18 
+0TU N10 HN10 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+0TU SMILES           ACDLabs              12.01 "Clc2ccc1c(C=CC(=O)N1)c2"                                           
+0TU InChI            InChI                1.03  "InChI=1S/C9H6ClNO/c10-7-2-3-8-6(5-7)1-4-9(12)11-8/h1-5H,(H,11,12)" 
+0TU InChIKey         InChI                1.03  OJEBWFGRUPIVSD-UHFFFAOYSA-N                                         
+0TU SMILES_CANONICAL CACTVS               3.385 "Clc1ccc2NC(=O)C=Cc2c1"                                             
+0TU SMILES           CACTVS               3.385 "Clc1ccc2NC(=O)C=Cc2c1"                                             
+0TU SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1Cl)C=CC(=O)N2"                                           
+0TU SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc2c(cc1Cl)C=CC(=O)N2"                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+0TU "SYSTEMATIC NAME" ACDLabs              12.01 "6-chloroquinolin-2(1H)-one"  
+0TU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 6-chloranyl-1H-quinolin-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+0TU "Create component" 2014-02-25 EBI  
+0TU "Initial release"  2015-02-11 RCSB 
+# 

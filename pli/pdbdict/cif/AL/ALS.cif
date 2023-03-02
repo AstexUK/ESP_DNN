@@ -1,0 +1,120 @@
+data_ALS
+# 
+_chem_comp.id                                    ALS 
+_chem_comp.name                                  "2-AMINO-3-OXO-4-SULFO-BUTYRIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H5 N O7 S" 
+_chem_comp.mon_nstd_parent_comp_id               ALA 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        199.139 
+_chem_comp.one_letter_code                       A 
+_chem_comp.three_letter_code                     ALS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1FSU 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ALS C1   C1   C 0 1 N N N 29.856 11.081 26.898 -0.628 -0.057 2.554  C1   ALS 1  
+ALS O1   O1   O 0 1 N N N 28.757 10.779 26.436 -0.302 -1.029 3.193  O1   ALS 2  
+ALS O2   O2   O 0 1 N Y N 30.903 11.390 26.128 -1.914 0.325  2.525  O2   ALS 3  
+ALS C2   C2   C 0 1 N N R 30.042 11.186 28.411 0.408  0.726  1.791  C2   ALS 4  
+ALS N2   N2   N 0 1 N N N 30.770 10.104 29.075 1.702  0.625  2.479  N2   ALS 5  
+ALS C3   C3   C 0 1 N N N 30.679 12.542 28.747 0.535  0.166  0.398  C3   ALS 6  
+ALS O3   O3   O 0 1 N N N 29.978 13.577 28.081 1.328  -0.716 0.171  O3   ALS 7  
+ALS OS1  OS1  O 0 1 N N N 30.665 12.806 30.146 -0.232 0.648  -0.591 OS1  ALS 8  
+ALS S    S    S 0 1 N N N 31.947 12.797 30.902 -0.097 0.054  -2.071 S    ALS 9  
+ALS OS2  OS2  O 0 1 N N N 32.664 11.530 30.676 -0.591 1.064  -2.939 OS2  ALS 10 
+ALS OS3  OS3  O 0 1 N N N 32.794 13.958 30.549 1.198  -0.524 -2.137 OS3  ALS 11 
+ALS OS4  OS4  O 0 1 N N N 31.615 12.872 32.337 -1.075 -1.105 -2.186 OS4  ALS 12 
+ALS HO2  HO2  H 0 1 N N N 31.751 11.623 26.484 -2.579 -0.176 3.015  HO2  ALS 13 
+ALS H2   H2   H 0 1 N Y N 29.011 11.088 28.825 0.106  1.771  1.736  H2   ALS 14 
+ALS HN21 1HN2 H 0 0 N N N 30.894 10.174 30.085 1.941  -0.354 2.506  HN21 ALS 15 
+ALS HN22 2HN2 H 0 0 N N N 31.680 9.985  28.629 2.383  1.073  1.884  HN22 ALS 16 
+ALS HOS4 4HOS H 0 0 N N N 32.433 12.866 32.819 -0.986 -1.457 -3.082 HOS4 ALS 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ALS C1  O1   DOUB N N 1  
+ALS C1  O2   SING N N 2  
+ALS C1  C2   SING N N 3  
+ALS O2  HO2  SING N N 4  
+ALS C2  N2   SING N N 5  
+ALS C2  C3   SING N N 6  
+ALS C2  H2   SING N N 7  
+ALS N2  HN21 SING N N 8  
+ALS N2  HN22 SING N N 9  
+ALS C3  O3   DOUB N N 10 
+ALS C3  OS1  SING N N 11 
+ALS OS1 S    SING N N 12 
+ALS S   OS2  DOUB N N 13 
+ALS S   OS3  DOUB N N 14 
+ALS S   OS4  SING N N 15 
+ALS OS4 HOS4 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ALS SMILES           ACDLabs              10.04 "O=C(OS(=O)(=O)O)C(N)C(=O)O"                                                        
+ALS SMILES_CANONICAL CACTVS               3.341 "N[C@H](C(O)=O)C(=O)O[S](O)(=O)=O"                                                  
+ALS SMILES           CACTVS               3.341 "N[CH](C(O)=O)C(=O)O[S](O)(=O)=O"                                                   
+ALS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[C@@H](C(=O)O)(C(=O)OS(=O)(=O)O)N"                                                 
+ALS SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(=O)O)(C(=O)OS(=O)(=O)O)N"                                                      
+ALS InChI            InChI                1.03  "InChI=1S/C3H5NO7S/c4-1(2(5)6)3(7)11-12(8,9)10/h1H,4H2,(H,5,6)(H,8,9,10)/t1-/m1/s1" 
+ALS InChIKey         InChI                1.03  RZIKAUMRZOEFET-PVQJCKRUSA-N                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ALS "SYSTEMATIC NAME" ACDLabs              10.04 3-oxo-O-sulfo-L-serine                         
+ALS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-oxo-3-sulfooxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ALS "Create component"  1999-07-08 EBI  
+ALS "Modify descriptor" 2011-06-04 RCSB 
+# 

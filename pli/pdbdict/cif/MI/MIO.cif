@@ -1,0 +1,114 @@
+data_MIO
+# 
+_chem_comp.id                                    MIO 
+_chem_comp.name                                  3-methyl-1,2-oxazol-5-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-04 
+_chem_comp.pdbx_modified_date                    2012-03-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        98.103 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MIO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3RDA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MIO CAA  CAA  C 0 1 N N N 15.304 12.007 44.191 2.565  0.500  -0.000 CAA  MIO 1  
+MIO NAB  NAB  N 0 1 N N N 17.392 15.932 42.142 -2.410 0.508  -0.000 NAB  MIO 2  
+MIO CAC  CAC  C 0 1 Y N N 16.577 14.136 43.496 0.004  0.982  0.000  CAC  MIO 3  
+MIO NAD  NAD  N 0 1 Y N N 15.354 13.102 41.957 0.627  -1.102 0.000  NAD  MIO 4  
+MIO OAE  OAE  O 0 1 Y N N 15.964 14.223 41.393 -0.582 -1.105 0.000  OAE  MIO 5  
+MIO CAF  CAF  C 0 1 Y N N 15.761 13.096 43.223 1.110  0.109  0.000  CAF  MIO 6  
+MIO CAG  CAG  C 0 1 Y N N 16.690 14.835 42.370 -1.076 0.144  -0.000 CAG  MIO 7  
+MIO HAA  HAA  H 0 1 N N N 14.637 11.306 43.667 2.916  0.594  1.027  HAA  MIO 8  
+MIO HAAA HAAA H 0 0 N N N 16.181 11.463 44.572 3.146  -0.266 -0.514 HAAA MIO 9  
+MIO HAAB HAAB H 0 0 N N N 14.764 12.467 45.032 2.685  1.453  -0.515 HAAB MIO 10 
+MIO HNAB HNAB H 0 0 N N N 17.290 16.200 41.184 -2.656 1.447  -0.000 HNAB MIO 11 
+MIO HNAA HNAA H 0 0 N N N 17.060 16.669 42.731 -3.099 -0.174 -0.000 HNAA MIO 12 
+MIO HAC  HAC  H 0 1 N N N 17.046 14.357 44.443 0.008  2.062  0.004  HAC  MIO 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MIO CAA CAF  SING N N 1  
+MIO NAB CAG  SING N N 2  
+MIO CAC CAF  SING Y N 3  
+MIO CAC CAG  DOUB Y N 4  
+MIO NAD OAE  SING Y N 5  
+MIO NAD CAF  DOUB Y N 6  
+MIO OAE CAG  SING Y N 7  
+MIO CAA HAA  SING N N 8  
+MIO CAA HAAA SING N N 9  
+MIO CAA HAAB SING N N 10 
+MIO NAB HNAB SING N N 11 
+MIO NAB HNAA SING N N 12 
+MIO CAC HAC  SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MIO SMILES           ACDLabs              12.01 "n1oc(N)cc1C"                                   
+MIO SMILES_CANONICAL CACTVS               3.370 "Cc1cc(N)on1"                                   
+MIO SMILES           CACTVS               3.370 "Cc1cc(N)on1"                                   
+MIO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "Cc1cc(on1)N"                                   
+MIO SMILES           "OpenEye OEToolkits" 1.7.0 "Cc1cc(on1)N"                                   
+MIO InChI            InChI                1.03  "InChI=1S/C4H6N2O/c1-3-2-4(5)7-6-3/h2H,5H2,1H3" 
+MIO InChIKey         InChI                1.03  FNXYWHTZDAVRTB-UHFFFAOYSA-N                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MIO "SYSTEMATIC NAME" ACDLabs              12.01 3-methyl-1,2-oxazol-5-amine 
+MIO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 3-methyl-1,2-oxazol-5-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MIO "Create component"     2011-04-04 RCSB 
+MIO "Modify aromatic_flag" 2011-06-04 RCSB 
+MIO "Modify descriptor"    2011-06-04 RCSB 
+# 

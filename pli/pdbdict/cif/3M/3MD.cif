@@ -1,0 +1,123 @@
+data_3MD
+# 
+_chem_comp.id                                    3MD 
+_chem_comp.name                                  "2S,3S-3-METHYLASPARTIC ACID" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ASP 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-03-23 
+_chem_comp.pdbx_modified_date                    2009-09-09 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      2AS 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.129 
+_chem_comp.one_letter_code                       D 
+_chem_comp.three_letter_code                     3MD 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1KKR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3MD N    N    N 0 1 N N N -31.597 -142.493 -56.674 1.454  0.912  -0.305 N    3MD 1  
+3MD CB   CB   C 0 1 N N S -33.475 -140.803 -57.035 -0.560 -0.226 0.494  CB   3MD 2  
+3MD CG   CG   C 0 1 N N N -32.969 -139.862 -55.962 0.007  -0.279 1.888  CG   3MD 3  
+3MD OD1  OD1  O 0 1 N N N -32.092 -140.274 -55.225 1.203  -0.330 2.051  OD1  3MD 4  
+3MD OD2  OD2  O 0 1 N N N -33.437 -138.738 -55.789 -0.814 -0.271 2.949  OD2  3MD 5  
+3MD CA   CA   C 0 1 N N S -33.056 -142.280 -56.752 0.581  -0.248 -0.523 CA   3MD 6  
+3MD CB1  CB1  C 0 1 N N N -33.061 -140.197 -58.374 -1.371 1.060  0.322  CB1  3MD 7  
+3MD C    C    C 0 1 N N N -33.768 -143.226 -57.741 0.012  -0.195 -1.918 C    3MD 8  
+3MD O    O    O 0 1 N N N -34.968 -143.475 -57.596 -0.173 0.871  -2.454 O    3MD 9  
+3MD OXT  OXT  O 0 1 N Y N -33.175 -143.743 -58.692 -0.286 -1.332 -2.565 OXT  3MD 10 
+3MD H    H    H 0 1 N N N -31.182 -141.866 -55.985 0.880  1.733  -0.428 H    3MD 11 
+3MD H2   HN   H 0 1 N Y N -31.323 -143.458 -56.489 1.727  0.892  0.665  H2   3MD 12 
+3MD HB   HB   H 0 1 N N N -34.586 -140.895 -57.051 -1.208 -1.088 0.332  HB   3MD 13 
+3MD HD2  HD2  H 0 1 N N N -33.119 -138.148 -55.116 -0.449 -0.305 3.844  HD2  3MD 14 
+3MD HA   HA   H 0 1 N N N -33.401 -142.532 -55.722 1.158  -1.165 -0.401 HA   3MD 15 
+3MD HB11 1HB1 H 0 0 N N N -31.967 -139.992 -58.446 -0.723 1.921  0.484  HB11 3MD 16 
+3MD HB12 2HB1 H 0 0 N N N -33.434 -140.890 -59.164 -1.782 1.098  -0.686 HB12 3MD 17 
+3MD HB13 3HB1 H 0 0 N N N -33.408 -139.146 -58.509 -2.185 1.076  1.047  HB13 3MD 18 
+3MD HXT  HXT  H 0 1 N Y N -33.613 -144.325 -59.301 -0.651 -1.298 -3.460 HXT  3MD 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3MD N   CA   SING N N 1  
+3MD N   H    SING N N 2  
+3MD N   H2   SING N N 3  
+3MD CB  CG   SING N N 4  
+3MD CB  CA   SING N N 5  
+3MD CB  CB1  SING N N 6  
+3MD CB  HB   SING N N 7  
+3MD CG  OD1  DOUB N N 8  
+3MD CG  OD2  SING N N 9  
+3MD OD2 HD2  SING N N 10 
+3MD CA  C    SING N N 11 
+3MD CA  HA   SING N N 12 
+3MD CB1 HB11 SING N N 13 
+3MD CB1 HB12 SING N N 14 
+3MD CB1 HB13 SING N N 15 
+3MD C   O    DOUB N N 16 
+3MD C   OXT  SING N N 17 
+3MD OXT HXT  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3MD SMILES           ACDLabs              10.04 "O=C(O)C(C)C(N)C(=O)O"                                                                     
+3MD InChI            InChI                1.02b "InChI=1/C5H9NO4/c1-2(4(7)8)3(6)5(9)10/h2-3H,6H2,1H3,(H,7,8)(H,9,10)/t2-,3-/m0/s1/f/h7,9H" 
+3MD InChIKey         InChI                1.02b LXRUAYBIUSUULX-VWLPWOFADQ                                                                  
+3MD SMILES_CANONICAL CACTVS               3.341 "C[C@@H]([C@H](N)C(O)=O)C(O)=O"                                                            
+3MD SMILES           CACTVS               3.341 "C[CH]([CH](N)C(O)=O)C(O)=O"                                                               
+3MD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C[C@@H]([C@@H](C(=O)O)N)C(=O)O"                                                           
+3MD SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C(C(=O)O)N)C(=O)O"                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3MD "SYSTEMATIC NAME" ACDLabs              10.04 "(3S)-3-methyl-L-aspartic acid"             
+3MD "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,3S)-2-amino-3-methyl-butanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3MD "Create component" 2001-03-23 RCSB 
+# 

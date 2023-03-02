@@ -1,0 +1,92 @@
+data_OMB
+# 
+_chem_comp.id                                    OMB 
+_chem_comp.name                                  "OXYMETHYLENE BRIDGING GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-04-02 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      MOH 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        30.026 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OMB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OMB O   O   O 0 1 N N N 6.706 4.850 -1.318 0.067  0.000 -0.693 O   OMB 1 
+OMB C   C   C 0 1 N N N 7.578 4.440 -2.359 -0.011 0.000 0.733  C   OMB 2 
+OMB HC1 1HC H 0 1 N N N 7.190 4.649 -3.358 0.994  0.000 1.153  HC1 OMB 3 
+OMB HC2 2HC H 0 1 N N N 8.523 4.918 -2.254 -0.544 0.890 1.067  HC2 OMB 4 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OMB O C   SING N N 1 
+OMB C HC1 SING N N 2 
+OMB C HC2 SING N N 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OMB SMILES           ACDLabs              10.04 OC                        
+OMB InChI            InChI                1.02b InChI=1/CH4O/c1-2/h2H,1H3 
+OMB InChIKey         InChI                1.02b OKKJLVBELUTLKV-UHFFFAOYAX 
+OMB SMILES_CANONICAL CACTVS               3.341 "[CH2][O]"                
+OMB SMILES           CACTVS               3.341 "[CH2][O]"                
+OMB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[CH2][O]"                
+OMB SMILES           "OpenEye OEToolkits" 1.5.0 "[CH2][O]"                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OMB "SYSTEMATIC NAME" ACDLabs 10.04 methanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OMB "Create component" 2001-04-02 EBI 
+# 

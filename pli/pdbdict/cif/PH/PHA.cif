@@ -1,0 +1,131 @@
+data_PHA
+# 
+_chem_comp.id                                    PHA 
+_chem_comp.name                                  PHENYLALANINAL 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C9 H11 N O" 
+_chem_comp.mon_nstd_parent_comp_id               PHE 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.190 
+_chem_comp.one_letter_code                       F 
+_chem_comp.three_letter_code                     PHA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3SGA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PHA N   N   N 0 1 N N N -14.931 22.172 24.384 1.084  0.792  1.523  N   PHA 1  
+PHA CA  CA  C 0 1 N N S -15.216 21.067 25.320 -0.313 0.358  1.641  CA  PHA 2  
+PHA C   C   C 0 1 N N N -13.903 20.605 25.974 -0.595 -0.044 3.066  C   PHA 3  
+PHA O   O   O 0 1 N N N -13.923 19.603 26.749 0.278  0.022  3.896  O   PHA 4  
+PHA CB  CB  C 0 1 N N N -15.989 19.962 24.611 -0.557 -0.834 0.715  CB  PHA 5  
+PHA CG  CG  C 0 1 Y N N -17.413 20.314 24.254 -0.275 -0.431 -0.708 CG  PHA 6  
+PHA CD1 CD1 C 0 1 Y N N -18.068 21.311 24.996 0.995  -0.581 -1.230 CD1 PHA 7  
+PHA CD2 CD2 C 0 1 Y N N -18.062 19.654 23.209 -1.289 0.084  -1.494 CD2 PHA 8  
+PHA CE1 CE1 C 0 1 Y N N -19.400 21.643 24.685 1.254  -0.211 -2.537 CE1 PHA 9  
+PHA CE2 CE2 C 0 1 Y N N -19.400 19.989 22.903 -1.029 0.458  -2.799 CE2 PHA 10 
+PHA CZ  CZ  C 0 1 Y N N -20.049 20.994 23.651 0.241  0.308  -3.321 CZ  PHA 11 
+PHA H   1HN H 0 1 N N N -15.801 22.478 23.950 1.256  0.952  0.542  H   PHA 12 
+PHA H2  2HN H 0 1 N Y N -14.222 21.921 23.694 1.656  0.005  1.793  H2  PHA 13 
+PHA HA  HA  H 0 1 N N N -15.879 21.407 26.149 -0.973 1.179  1.358  HA  PHA 14 
+PHA HC  H   H 0 1 N N N -12.884 21.017 25.881 -1.579 -0.393 3.343  HC  PHA 15 
+PHA HB2 1HB H 0 1 N N N -15.435 19.624 23.703 0.102  -1.654 0.998  HB2 PHA 16 
+PHA HB3 2HB H 0 1 N N N -15.962 19.024 25.213 -1.595 -1.156 0.803  HB3 PHA 17 
+PHA HD1 HD1 H 0 1 N N N -17.541 21.828 25.815 1.786  -0.987 -0.617 HD1 PHA 18 
+PHA HD2 HD2 H 0 1 N N N -17.526 18.880 22.634 -2.282 0.200  -1.087 HD2 PHA 19 
+PHA HE1 HE1 H 0 1 N N N -19.939 22.417 25.255 2.247  -0.327 -2.944 HE1 PHA 20 
+PHA HE2 HE2 H 0 1 N N N -19.932 19.470 22.088 -1.820 0.864  -3.412 HE2 PHA 21 
+PHA HZ  HZ  H 0 1 N N N -21.089 21.279 23.421 0.443  0.598  -4.342 HZ  PHA 22 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PHA N   CA  SING N N 1  
+PHA N   H   SING N N 2  
+PHA N   H2  SING N N 3  
+PHA CA  C   SING N N 4  
+PHA CA  CB  SING N N 5  
+PHA CA  HA  SING N N 6  
+PHA C   O   DOUB N N 7  
+PHA C   HC  SING N N 8  
+PHA CB  CG  SING N N 9  
+PHA CB  HB2 SING N N 10 
+PHA CB  HB3 SING N N 11 
+PHA CG  CD1 DOUB Y N 12 
+PHA CG  CD2 SING Y N 13 
+PHA CD1 CE1 SING Y N 14 
+PHA CD1 HD1 SING N N 15 
+PHA CD2 CE2 DOUB Y N 16 
+PHA CD2 HD2 SING N N 17 
+PHA CE1 CZ  DOUB Y N 18 
+PHA CE1 HE1 SING N N 19 
+PHA CE2 CZ  SING Y N 20 
+PHA CE2 HE2 SING N N 21 
+PHA CZ  HZ  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PHA SMILES           ACDLabs              10.04 "O=CC(N)Cc1ccccc1"                                                       
+PHA SMILES_CANONICAL CACTVS               3.341 "N[C@@H](Cc1ccccc1)C=O"                                                  
+PHA SMILES           CACTVS               3.341 "N[CH](Cc1ccccc1)C=O"                                                    
+PHA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C[C@@H](C=O)N"                                                
+PHA SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CC(C=O)N"                                                     
+PHA InChI            InChI                1.03  "InChI=1S/C9H11NO/c10-9(7-11)6-8-4-2-1-3-5-8/h1-5,7,9H,6,10H2/t9-/m0/s1" 
+PHA InChIKey         InChI                1.03  CQIUZHAQYHXKRY-VIFPVBQESA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PHA "SYSTEMATIC NAME" ACDLabs              10.04 "(2S)-2-amino-3-phenylpropanal"  
+PHA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-phenyl-propanal" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PHA "Create component"  1999-07-08 RCSB 
+PHA "Modify descriptor" 2011-06-04 RCSB 
+# 

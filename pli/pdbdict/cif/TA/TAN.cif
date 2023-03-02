@@ -1,0 +1,114 @@
+data_TAN
+# 
+_chem_comp.id                                    TAN 
+_chem_comp.name                                  2,2-dimethylpropanenitrile 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Trimethylacetonitrile 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-10-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        83.132 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TAN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3A8G 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TAN C   C   C 0 1 N N N 106.753 23.421 21.009 1.110  -0.000 0.000  C   TAN 1  
+TAN N   N   N 0 1 N N N 106.278 23.604 22.055 2.246  -0.000 0.000  N   TAN 2  
+TAN C1  C1  C 0 1 N N N 107.160 24.613 18.934 -0.872 -0.001 1.442  C1  TAN 3  
+TAN C2  C2  C 0 1 N N N 107.289 23.278 19.646 -0.362 0.000  -0.000 C2  TAN 4  
+TAN C3  C3  C 0 1 N N N 108.766 22.915 19.719 -0.872 1.250  -0.720 C3  TAN 5  
+TAN C4  C4  C 0 1 N N N 106.503 22.209 18.899 -0.872 -1.249 -0.722 C4  TAN 6  
+TAN H1  H1  H 0 1 N N N 107.557 24.524 17.912 -0.509 0.888  1.957  H1  TAN 7  
+TAN H1A H1A H 0 1 N N N 106.100 24.905 18.892 -1.962 -0.001 1.442  H1A TAN 8  
+TAN H1B H1B H 0 1 N N N 107.729 25.378 19.483 -0.509 -0.892 1.956  H1B TAN 9  
+TAN H3  H3  H 0 1 N N N 109.168 22.808 18.701 -0.509 1.251  -1.748 H3  TAN 10 
+TAN H3A H3A H 0 1 N N N 109.313 23.710 20.247 -1.962 1.250  -0.720 H3A TAN 11 
+TAN H3B H3B H 0 1 N N N 108.884 21.965 20.262 -0.509 2.139  -0.206 H3B TAN 12 
+TAN H4  H4  H 0 1 N N N 106.904 22.103 17.880 -0.509 -2.139 -0.209 H4  TAN 13 
+TAN H4A H4A H 0 1 N N N 106.593 21.250 19.430 -1.962 -1.249 -0.722 H4A TAN 14 
+TAN H4B H4B H 0 1 N N N 105.444 22.502 18.847 -0.509 -1.248 -1.750 H4B TAN 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TAN C  N   TRIP N N 1  
+TAN C  C2  SING N N 2  
+TAN C1 C2  SING N N 3  
+TAN C2 C3  SING N N 4  
+TAN C2 C4  SING N N 5  
+TAN C1 H1  SING N N 6  
+TAN C1 H1A SING N N 7  
+TAN C1 H1B SING N N 8  
+TAN C3 H3  SING N N 9  
+TAN C3 H3A SING N N 10 
+TAN C3 H3B SING N N 11 
+TAN C4 H4  SING N N 12 
+TAN C4 H4A SING N N 13 
+TAN C4 H4B SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TAN SMILES_CANONICAL CACTVS               3.352 "CC(C)(C)C#N"                        
+TAN SMILES           CACTVS               3.352 "CC(C)(C)C#N"                        
+TAN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC(C)(C)C#N"                        
+TAN SMILES           "OpenEye OEToolkits" 1.7.0 "CC(C)(C)C#N"                        
+TAN InChI            InChI                1.03  "InChI=1S/C5H9N/c1-5(2,3)4-6/h1-3H3" 
+TAN InChIKey         InChI                1.03  JAMNHZBIQDNHMM-UHFFFAOYSA-N          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TAN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 2,2-dimethylpropanenitrile 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TAN "Create component"  2009-10-06 PDBJ 
+TAN "Modify descriptor" 2011-06-04 RCSB 
+# 

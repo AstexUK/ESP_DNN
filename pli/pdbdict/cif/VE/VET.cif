@@ -1,0 +1,162 @@
+data_VET
+# 
+_chem_comp.id                                    VET 
+_chem_comp.name                                  "[(1R,2S,4R)-2-HYDROXY-4-[(5R)-5-HYDROXY-5-METHYL-2,4-DIOXO-IMIDAZOLIDIN-1-YL]CYCLOPENTYL]METHYL DIHYDROGEN PHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H17 N2 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-11-25 
+_chem_comp.pdbx_modified_date                    2011-09-30 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        324.224 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     VET 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2XZF 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+VET OP1    O1P    O 0 1 N N N -6.346 -21.969 -13.666 5.035  1.108  1.448  O1P    VET 1  
+VET P      P      P 0 1 N N N -4.875 -21.961 -13.390 4.774  0.394  0.178  P      VET 2  
+VET OP2    O2P    O 0 1 N N N -4.086 -23.156 -13.748 5.920  -0.712 -0.060 O2P    VET 3  
+VET "O5'"  "O5'"  O 0 1 N N N -4.200 -20.710 -14.114 3.338  -0.330 0.254  "O5'"  VET 4  
+VET "C5'"  "C5'"  C 0 1 N N N -4.691 -19.394 -13.852 2.130  0.369  0.561  "C5'"  VET 5  
+VET "C4'"  "C4'"  C 0 1 N N R -4.040 -18.389 -14.790 0.956  -0.612 0.550  "C4'"  VET 6  
+VET "C3'"  "C3'"  C 0 1 N N S -2.523 -18.322 -14.665 0.714  -1.149 -0.876 "C3'"  VET 7  
+VET "O3'"  "O3'"  O 0 1 N N N -1.989 -17.683 -15.821 1.325  -2.432 -1.026 "O3'"  VET 8  
+VET "C2'"  "C2'"  C 0 1 N N N -2.318 -17.452 -13.420 -0.810 -1.267 -1.048 "C2'"  VET 9  
+VET "C6'"  "C6'"  C 0 1 N N N -4.476 -16.959 -14.427 -0.362 0.116  0.911  "C6'"  VET 10 
+VET "C1'"  "C1'"  C 0 1 N N R -3.270 -16.290 -13.705 -1.441 -0.799 0.279  "C1'"  VET 11 
+VET N1     N1     N 0 1 N N N -3.879 -15.587 -12.523 -2.669 -0.042 0.024  N1     VET 12 
+VET C2     C2     C 0 1 N N N -4.512 -16.260 -11.430 -2.785 1.078  -0.712 C2     VET 13 
+VET O2     O2     O 0 1 N N N -4.588 -17.458 -11.279 -1.851 1.617  -1.274 O2     VET 14 
+VET N3     N3     N 0 1 N N N -5.078 -15.335 -10.445 -4.042 1.533  -0.757 N3     VET 15 
+VET C4     C4     C 0 1 N N N -4.780 -14.030 -11.011 -4.880 0.750  -0.049 C4     VET 16 
+VET O4     O4     O 0 1 N N N -5.033 -12.929 -10.551 -6.073 0.900  0.099  O4     VET 17 
+VET C5     C5     C 0 1 N N R -4.009 -14.108 -12.344 -4.019 -0.362 0.519  C5     VET 18 
+VET C6     C6     C 0 1 N N N -4.819 -13.494 -13.486 -4.052 -0.337 2.048  C6     VET 19 
+VET O6     O6     O 0 1 N N N -2.752 -13.557 -12.191 -4.447 -1.633 0.025  O6     VET 20 
+VET OP3    O3P    O 0 1 N Y N -4.722 -21.624 -11.832 4.782  1.446  -1.041 O3P    VET 21 
+VET H2P    H2P    H 0 1 N N N -3.916 -23.156 -14.683 6.814  -0.346 -0.116 H2P    VET 22 
+VET H3P    HOP3   H 0 1 N Y N -4.692 -22.433 -11.334 4.618  1.046  -1.906 HOP3   VET 23 
+VET "H5'"  "H5'"  H 0 1 N N N -5.780 -19.378 -14.005 2.214  0.824  1.548  "H5'"  VET 24 
+VET "H5''" "H5''" H 0 0 N N N -4.449 -19.122 -12.814 1.961  1.147  -0.184 "H5''" VET 25 
+VET "H4'"  "H4'"  H 0 1 N N N -4.345 -18.724 -15.792 1.142  -1.435 1.241  "H4'"  VET 26 
+VET "H3'"  "H3'"  H 0 1 N N N -2.032 -19.303 -14.583 1.121  -0.454 -1.610 "H3'"  VET 27 
+VET "H6'"  "H6'"  H 0 1 N N N -4.738 -16.397 -15.335 -0.489 0.172  1.992  "H6'"  VET 28 
+VET "H6''" "H6''" H 0 0 N N N -5.365 -16.971 -13.779 -0.389 1.110  0.466  "H6''" VET 29 
+VET HA     HA     H 0 1 N N N -1.870 -16.757 -15.645 1.208  -2.823 -1.903 HA     VET 30 
+VET "H2'"  "H2'"  H 0 1 N N N -2.576 -17.984 -12.492 -1.144 -0.629 -1.866 "H2'"  VET 31 
+VET "H2''" "H2''" H 0 0 N N N -1.274 -17.145 -13.256 -1.084 -2.303 -1.246 "H2''" VET 32 
+VET "H1'"  "H1'"  H 0 1 N N N -2.683 -15.529 -14.241 -1.645 -1.651 0.927  "H1'"  VET 33 
+VET H3     H3     H 0 1 N N N -5.553 -15.549 -9.592  -4.317 2.329  -1.239 H3     VET 34 
+VET H61C   H61C   H 0 0 N N N -5.859 -13.347 -13.160 -3.773 0.655  2.402  H61C   VET 35 
+VET H62C   H62C   H 0 0 N N N -4.381 -12.524 -13.766 -5.058 -0.576 2.394  H62C   VET 36 
+VET H63C   H63C   H 0 0 N N N -4.799 -14.170 -14.354 -3.350 -1.073 2.438  H63C   VET 37 
+VET HO6    HO6    H 0 1 N N N -2.355 -13.430 -13.045 -5.331 -1.893 0.321  HO6    VET 38 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+VET OP1   P      DOUB N N 1  
+VET P     OP2    SING N N 2  
+VET P     "O5'"  SING N N 3  
+VET P     OP3    SING N N 4  
+VET "O5'" "C5'"  SING N N 5  
+VET "C5'" "C4'"  SING N N 6  
+VET "C4'" "C3'"  SING N N 7  
+VET "C4'" "C6'"  SING N N 8  
+VET "C3'" "O3'"  SING N N 9  
+VET "C3'" "C2'"  SING N N 10 
+VET "C2'" "C1'"  SING N N 11 
+VET "C6'" "C1'"  SING N N 12 
+VET "C1'" N1     SING N N 13 
+VET N1    C2     SING N N 14 
+VET N1    C5     SING N N 15 
+VET C2    O2     DOUB N N 16 
+VET C2    N3     SING N N 17 
+VET N3    C4     SING N N 18 
+VET C4    O4     DOUB N N 19 
+VET C4    C5     SING N N 20 
+VET C5    C6     SING N N 21 
+VET C5    O6     SING N N 22 
+VET OP2   H2P    SING N N 23 
+VET OP3   H3P    SING N N 24 
+VET "C5'" "H5'"  SING N N 25 
+VET "C5'" "H5''" SING N N 26 
+VET "C4'" "H4'"  SING N N 27 
+VET "C3'" "H3'"  SING N N 28 
+VET "C6'" "H6'"  SING N N 29 
+VET "C6'" "H6''" SING N N 30 
+VET "O3'" HA     SING N N 31 
+VET "C2'" "H2'"  SING N N 32 
+VET "C2'" "H2''" SING N N 33 
+VET "C1'" "H1'"  SING N N 34 
+VET N3    H3     SING N N 35 
+VET C6    H61C   SING N N 36 
+VET C6    H62C   SING N N 37 
+VET C6    H63C   SING N N 38 
+VET O6    HO6    SING N N 39 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+VET SMILES_CANONICAL CACTVS               3.352 "C[C@]1(O)N([C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)C2)C(=O)NC1=O"                                                                                         
+VET SMILES           CACTVS               3.352 "C[C]1(O)N([CH]2C[CH](O)[CH](CO[P](O)(O)=O)C2)C(=O)NC1=O"                                                                                              
+VET SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C[C@]1(C(=O)NC(=O)N1[C@@H]2C[C@@H]([C@H](C2)O)COP(=O)(O)O)O"                                                                                          
+VET SMILES           "OpenEye OEToolkits" 1.6.1 "CC1(C(=O)NC(=O)N1C2CC(C(C2)O)COP(=O)(O)O)O"                                                                                                           
+VET InChI            InChI                1.03  "InChI=1S/C10H17N2O8P/c1-10(16)8(14)11-9(15)12(10)6-2-5(7(13)3-6)4-20-21(17,18)19/h5-7,13,16H,2-4H2,1H3,(H,11,14,15)(H2,17,18,19)/t5-,6-,7+,10-/m1/s1" 
+VET InChIKey         InChI                1.03  JDPZWPHNVBGYQC-QGOVLLJGSA-N                                                                                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+VET "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "[(1R,2S,4R)-2-hydroxy-4-[(5R)-5-hydroxy-5-methyl-2,4-dioxo-imidazolidin-1-yl]cyclopentyl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+VET "Create component"  2010-11-25 EBI  
+VET "Modify descriptor" 2011-06-04 RCSB 
+# 

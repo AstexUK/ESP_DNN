@@ -1,0 +1,122 @@
+data_PRW
+# 
+_chem_comp.id                                    PRW 
+_chem_comp.name                                  "(2R,3R)-4-AMINO-2,3-DIHYDROXYBUTANOIC ACID" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-02-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        135.119 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PRW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2X4T 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PRW O7   O7   O 0 1 N N N 34.859 39.093 43.363 -2.460 -0.601 0.622  O7   PRW 1  
+PRW C5   C5   C 0 1 N N N 34.348 38.020 43.057 -1.682 0.095  0.013  C5   PRW 2  
+PRW C4   C4   C 0 1 N N R 33.095 37.623 43.838 -0.395 -0.492 -0.508 C4   PRW 3  
+PRW O6   O6   O 0 1 N N N 32.968 38.467 44.996 -0.378 -1.899 -0.260 O6   PRW 4  
+PRW C3   C3   C 0 1 N N R 33.058 36.157 44.300 0.790  0.165  0.203  C3   PRW 5  
+PRW O8   O8   O 0 1 N N N 34.054 35.366 43.640 0.773  1.572  -0.045 O8   PRW 6  
+PRW C2   C2   C 0 1 N N N 31.673 35.523 44.113 2.096  -0.431 -0.326 C2   PRW 7  
+PRW N1   N1   N 0 1 N N N 31.378 35.333 42.697 3.227  0.112  0.439  N1   PRW 8  
+PRW OXT  OXT  O 0 1 N Y N 34.470 37.525 41.680 -1.966 1.388  -0.204 OXT  PRW 9  
+PRW H4   H4   H 0 1 N N N 32.259 37.750 43.135 -0.321 -0.311 -1.580 H4   PRW 10 
+PRW HXT  HXT  H 0 1 N N N 34.967 38.147 41.162 -2.805 1.718  0.145  HXT  PRW 11 
+PRW H6   H6   H 0 1 N N N 32.940 37.929 45.779 -0.441 -2.135 0.676  H6   PRW 12 
+PRW H3   H3   H 0 1 N N N 33.282 36.171 45.377 0.716  -0.016 1.275  H3   PRW 13 
+PRW H8   H8   H 0 1 N N N 33.780 35.191 42.747 0.836  1.807  -0.981 H8   PRW 14 
+PRW H21C H21C H 0 0 N N N 31.655 34.546 44.618 2.071  -1.515 -0.217 H21C PRW 15 
+PRW H22C H22C H 0 0 N N N 30.916 36.194 44.545 2.213  -0.174 -1.378 H22C PRW 16 
+PRW H11N H11N H 0 0 N N N 30.388 35.290 42.565 3.110  -0.058 1.427  H11N PRW 17 
+PRW H12N H12N H 0 0 N N N 31.750 36.099 42.173 4.102  -0.267 0.109  H12N PRW 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PRW O7  C5   DOUB N N 1  
+PRW C5  C4   SING N N 2  
+PRW C5  OXT  SING N N 3  
+PRW C4  O6   SING N N 4  
+PRW C4  C3   SING N N 5  
+PRW C3  O8   SING N N 6  
+PRW C3  C2   SING N N 7  
+PRW C2  N1   SING N N 8  
+PRW C4  H4   SING N N 9  
+PRW OXT HXT  SING N N 10 
+PRW O6  H6   SING N N 11 
+PRW C3  H3   SING N N 12 
+PRW O8  H8   SING N N 13 
+PRW C2  H21C SING N N 14 
+PRW C2  H22C SING N N 15 
+PRW N1  H11N SING N N 16 
+PRW N1  H12N SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PRW SMILES           ACDLabs              10.04 "O=C(O)C(O)C(O)CN"                                                         
+PRW SMILES_CANONICAL CACTVS               3.352 "NC[C@@H](O)[C@@H](O)C(O)=O"                                               
+PRW SMILES           CACTVS               3.352 "NC[CH](O)[CH](O)C(O)=O"                                                   
+PRW SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "C([C@H]([C@H](C(=O)O)O)O)N"                                               
+PRW SMILES           "OpenEye OEToolkits" 1.6.1 "C(C(C(C(=O)O)O)O)N"                                                       
+PRW InChI            InChI                1.03  "InChI=1S/C4H9NO4/c5-1-2(6)3(7)4(8)9/h2-3,6-7H,1,5H2,(H,8,9)/t2-,3-/m1/s1" 
+PRW InChIKey         InChI                1.03  WITVYMTUWTVRND-PWNYCUMCSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PRW "SYSTEMATIC NAME" ACDLabs              10.04 "(2R,3R)-4-amino-2,3-dihydroxybutanoic acid"  
+PRW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2R,3R)-4-amino-2,3-dihydroxy-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PRW "Create component"  2010-02-02 EBI  
+PRW "Modify descriptor" 2011-06-04 RCSB 
+# 

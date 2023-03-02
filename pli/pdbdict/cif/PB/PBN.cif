@@ -1,0 +1,139 @@
+data_PBN
+# 
+_chem_comp.id                                    PBN 
+_chem_comp.name                                  4-PHENYLBUTYLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H15 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        149.233 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PBN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PBN C1    C1    C 0 1 N N N 29.092 15.513 14.137 0.025  0.729  3.670  C1    PBN 1  
+PBN C2    C2    C 0 1 N N N 29.814 15.839 15.438 0.013  -0.424 2.665  C2    PBN 2  
+PBN C3    C3    C 0 1 N N N 28.891 15.465 16.561 0.011  0.139  1.243  C3    PBN 3  
+PBN C4    C4    C 0 1 N N N 29.558 14.608 17.630 -0.000 -1.014 0.237  C4    PBN 4  
+PBN "C1'" "C1'" C 0 1 Y N N 30.170 13.268 17.193 -0.002 -0.459 -1.163 "C1'" PBN 5  
+PBN "C2'" "C2'" C 0 1 Y N N 29.522 12.463 16.272 1.194  -0.214 -1.810 "C2'" PBN 6  
+PBN "C3'" "C3'" C 0 1 Y N N 29.879 11.132 16.184 1.193  0.295  -3.095 "C3'" PBN 7  
+PBN "C4'" "C4'" C 0 1 Y N N 30.863 10.561 16.983 -0.004 0.558  -3.733 "C4'" PBN 8  
+PBN "C5'" "C5'" C 0 1 Y N N 31.510 11.348 17.903 -1.200 0.311  -3.087 "C5'" PBN 9  
+PBN "C6'" "C6'" C 0 1 Y N N 31.155 12.688 17.996 -1.199 -0.201 -1.803 "C6'" PBN 10 
+PBN N     N     N 0 1 N N N 29.868 14.952 13.027 0.027  0.188  5.036  N     PBN 11 
+PBN H11   1H1   H 0 1 N N N 28.235 14.835 14.358 -0.860 1.347  3.525  H11   PBN 12 
+PBN H12   2H1   H 0 1 N N N 28.558 16.424 13.781 0.919  1.334  3.518  H12   PBN 13 
+PBN H21   1H2   H 0 1 N N N 30.815 15.355 15.515 0.899  -1.042 2.810  H21   PBN 14 
+PBN H22   2H2   H 0 1 N N N 30.161 16.897 15.491 -0.880 -1.028 2.817  H22   PBN 15 
+PBN H31   1H3   H 0 1 N N N 28.429 16.373 17.013 -0.874 0.757  1.097  H31   PBN 16 
+PBN H32   2H3   H 0 1 N N N 27.973 14.967 16.170 0.905  0.743  1.091  H32   PBN 17 
+PBN H41   1H4   H 0 1 N N N 30.334 15.212 18.153 0.885  -1.632 0.383  H41   PBN 18 
+PBN H42   2H4   H 0 1 N N N 28.835 14.428 18.460 -0.894 -1.619 0.390  H42   PBN 19 
+PBN "H2'" "H2'" H 0 1 N N N 28.734 12.875 15.619 2.130  -0.419 -1.312 "H2'" PBN 20 
+PBN "H3'" "H3'" H 0 1 N N N 29.357 10.499 15.446 2.128  0.487  -3.601 "H3'" PBN 21 
+PBN "H4'" "H4'" H 0 1 N N N 31.127 9.494  16.888 -0.005 0.956  -4.737 "H4'" PBN 22 
+PBN "H5'" "H5'" H 0 1 N N N 32.292 10.916 18.549 -2.136 0.517  -3.585 "H5'" PBN 23 
+PBN "H6'" "H6'" H 0 1 N N N 31.676 13.316 18.737 -2.134 -0.393 -1.297 "H6'" PBN 24 
+PBN HN1   1HN   H 0 1 N N N 29.384 14.733 12.155 0.035  0.980  5.662  HN1   PBN 25 
+PBN HN2   2HN   H 0 1 N N N 30.356 14.117 13.352 -0.860 -0.274 5.166  HN2   PBN 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PBN C1    C2    SING N N 1  
+PBN C1    N     SING N N 2  
+PBN C1    H11   SING N N 3  
+PBN C1    H12   SING N N 4  
+PBN C2    C3    SING N N 5  
+PBN C2    H21   SING N N 6  
+PBN C2    H22   SING N N 7  
+PBN C3    C4    SING N N 8  
+PBN C3    H31   SING N N 9  
+PBN C3    H32   SING N N 10 
+PBN C4    "C1'" SING N N 11 
+PBN C4    H41   SING N N 12 
+PBN C4    H42   SING N N 13 
+PBN "C1'" "C2'" DOUB Y N 14 
+PBN "C1'" "C6'" SING Y N 15 
+PBN "C2'" "C3'" SING Y N 16 
+PBN "C2'" "H2'" SING N N 17 
+PBN "C3'" "C4'" DOUB Y N 18 
+PBN "C3'" "H3'" SING N N 19 
+PBN "C4'" "C5'" SING Y N 20 
+PBN "C4'" "H4'" SING N N 21 
+PBN "C5'" "C6'" DOUB Y N 22 
+PBN "C5'" "H5'" SING N N 23 
+PBN "C6'" "H6'" SING N N 24 
+PBN N     HN1   SING N N 25 
+PBN N     HN2   SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PBN SMILES           ACDLabs              10.04 c1ccccc1CCCCN                                                       
+PBN SMILES_CANONICAL CACTVS               3.341 NCCCCc1ccccc1                                                       
+PBN SMILES           CACTVS               3.341 NCCCCc1ccccc1                                                       
+PBN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CCCCN"                                                   
+PBN SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CCCCN"                                                   
+PBN InChI            InChI                1.03  InChI=1S/C10H15N/c11-9-5-4-8-10-6-2-1-3-7-10/h1-3,6-7H,4-5,8-9,11H2 
+PBN InChIKey         InChI                1.03  AGNFWIZBEATIAK-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PBN "SYSTEMATIC NAME" ACDLabs              10.04 4-phenylbutan-1-amine 
+PBN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 4-phenylbutan-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PBN "Create component"  1999-07-08 EBI  
+PBN "Modify descriptor" 2011-06-04 RCSB 
+# 

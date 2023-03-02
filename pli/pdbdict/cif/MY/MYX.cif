@@ -1,0 +1,225 @@
+data_MYX
+# 
+_chem_comp.id                                    MYX 
+_chem_comp.name                                  "(2Z,6E)-7-{2'-[(2E,4E)-1,6-DIMETHYLHEPTA-2,4-DIENYL]-2,4'-BI-1,3-THIAZOL-4-YL}-3,5-DIMETHOXY-4-METHYLHEPTA-2,6-DIENAMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C25 H33 N3 O3 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+;7-[2'-(1,6-DIMETHYL-HEPTA-2,4-DIENYL)-[2,4']BITHIAZOLYL-4-YL]-3,5-DIMETHOXY-4-METHYL-HEPTA-2,6-DIENOIC ACID AMIDE; MYXOTHIAZOL
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-03-29 
+_chem_comp.pdbx_modified_date                    2012-01-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        487.678 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MYX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MYX O1   O1   O 0 1 N N N 66.554 58.632 168.098 -5.391 2.096  1.136  O1   MYX 1  
+MYX C1   C1   C 0 1 N N N 67.384 59.546 168.106 -6.487 2.534  0.841  C1   MYX 2  
+MYX N1   N1   N 0 1 N N N 67.202 60.586 167.294 -7.042 3.516  1.579  N1   MYX 3  
+MYX C2   C2   C 0 1 N N N 68.636 59.504 168.989 -7.178 2.016  -0.284 C2   MYX 4  
+MYX C3   C3   C 0 1 N N N 69.003 58.527 169.917 -6.583 1.111  -1.080 C3   MYX 5  
+MYX O2   O2   O 0 1 N N N 70.229 58.673 170.708 -7.304 0.456  -2.012 O2   MYX 6  
+MYX C4   C4   C 0 1 N N N 71.102 59.784 170.644 -8.717 0.778  -2.099 C4   MYX 7  
+MYX C5   C5   C 0 1 N N R 68.217 57.232 170.139 -5.110 0.829  -0.931 C5   MYX 8  
+MYX C6   C6   C 0 1 N N N 67.561 57.278 171.523 -4.489 0.620  -2.313 C6   MYX 9  
+MYX C7   C7   C 0 1 N N S 69.139 56.016 169.971 -4.916 -0.432 -0.087 C7   MYX 10 
+MYX O3   O3   O 0 1 N N N 68.633 54.786 170.518 -5.428 -1.563 -0.796 O3   MYX 11 
+MYX C8   C8   C 0 1 N N N 69.630 53.965 171.145 -5.930 -2.600 0.049  C8   MYX 12 
+MYX C9   C9   C 0 1 N N N 69.678 55.874 168.554 -3.447 -0.633 0.185  C9   MYX 13 
+MYX C10  C10  C 0 1 N N N 69.375 54.867 167.727 -3.001 -0.654 1.433  C10  MYX 14 
+MYX C11  C11  C 0 1 Y N N 70.085 54.748 166.406 -1.561 -0.851 1.700  C11  MYX 15 
+MYX C12  C12  C 0 1 Y N N 69.783 53.722 165.606 -1.056 -0.880 2.951  C12  MYX 16 
+MYX N2   N2   N 0 1 Y N N 70.996 55.632 165.960 -0.677 -1.016 0.729  N2   MYX 17 
+MYX C13  C13  C 0 1 Y N N 71.432 55.257 164.641 0.563  -1.181 1.081  C13  MYX 18 
+MYX C14  C14  C 0 1 Y N N 72.452 55.882 163.824 1.696  -1.379 0.153  C14  MYX 19 
+MYX C15  C15  C 0 1 Y N N 73.230 56.931 164.281 1.550  -1.409 -1.190 C15  MYX 20 
+MYX N3   N3   N 0 1 Y N N 72.801 55.409 162.564 2.947  -1.538 0.562  N3   MYX 21 
+MYX C16  C16  C 0 1 Y N N 73.860 56.209 162.011 3.846  -1.702 -0.345 C16  MYX 22 
+MYX C17  C17  C 0 1 N N S 74.538 55.912 160.668 5.315  -1.896 -0.072 C17  MYX 23 
+MYX C18  C18  C 0 1 N N N 73.700 54.998 159.800 5.764  -3.246 -0.637 C18  MYX 24 
+MYX C19  C19  C 0 1 N N N 74.993 57.164 159.926 6.099  -0.790 -0.730 C19  MYX 25 
+MYX C20  C20  C 0 1 N N N 76.346 57.417 159.836 6.853  0.018  0.006  C20  MYX 26 
+MYX C21  C21  C 0 1 N N N 76.830 58.675 159.112 7.619  1.098  -0.636 C21  MYX 27 
+MYX C22  C22  C 0 1 N N N 78.174 58.938 159.017 8.373  1.907  0.101  C22  MYX 28 
+MYX C23  C23  C 0 1 N N N 78.651 60.193 158.304 9.157  3.013  -0.557 C23  MYX 29 
+MYX C24  C24  C 0 1 N N N 79.185 61.195 159.320 8.708  4.362  0.007  C24  MYX 30 
+MYX C25  C25  C 0 1 N N N 79.711 59.880 157.248 10.649 2.815  -0.281 C25  MYX 31 
+MYX S1   S1   S 0 1 Y N N 70.641 53.834 164.157 0.684  -1.133 2.837  S1   MYX 32 
+MYX S2   S2   S 0 1 Y N N 74.430 57.393 163.143 3.141  -1.665 -1.901 S2   MYX 33 
+MYX HN11 1HN1 H 0 0 N N N 66.368 60.613 166.706 -6.568 3.873  2.346  HN11 MYX 34 
+MYX HN12 2HN1 H 0 0 N N N 67.887 61.341 167.300 -7.916 3.865  1.344  HN12 MYX 35 
+MYX H2   H2   H 0 1 N N N 69.393 60.304 168.950 -8.183 2.349  -0.501 H2   MYX 36 
+MYX H41  1H4  H 0 1 N N N 72.034 59.895 171.245 -9.200 0.557  -1.146 H41  MYX 37 
+MYX H42  2H4  H 0 1 N N N 71.392 59.905 169.574 -8.835 1.837  -2.329 H42  MYX 38 
+MYX H43  3H4  H 0 1 N N N 70.483 60.691 170.836 -9.178 0.182  -2.886 H43  MYX 39 
+MYX H5   H5   H 0 1 N N N 67.410 57.133 169.375 -4.627 1.673  -0.439 H5   MYX 40 
+MYX H61  1H6  H 0 1 N N N 66.988 56.334 171.684 -4.628 1.518  -2.914 H61  MYX 41 
+MYX H62  2H6  H 0 1 N N N 68.298 57.471 172.336 -3.424 0.416  -2.205 H62  MYX 42 
+MYX H63  3H6  H 0 1 N N N 66.930 58.186 171.664 -4.973 -0.225 -2.805 H63  MYX 43 
+MYX H7   H7   H 0 1 N N N 70.017 56.245 170.618 -5.449 -0.324 0.857  H7   MYX 44 
+MYX H81  1H8  H 0 1 N N N 69.237 53.011 171.569 -5.133 -2.955 0.702  H81  MYX 45 
+MYX H82  2H8  H 0 1 N N N 70.468 53.761 170.438 -6.749 -2.210 0.654  H82  MYX 46 
+MYX H83  3H8  H 0 1 N N N 70.176 54.543 171.926 -6.292 -3.425 -0.564 H83  MYX 47 
+MYX H9   H9   H 0 1 N N N 70.369 56.584 168.069 -2.758 -0.760 -0.637 H9   MYX 48 
+MYX H10  H10  H 0 1 N N N 68.596 54.184 168.106 -3.690 -0.527 2.255  H10  MYX 49 
+MYX H12  H12  H 0 1 N N N 69.051 53.004 166.015 -1.621 -0.768 3.865  H12  MYX 50 
+MYX H15  H15  H 0 1 N N N 72.964 57.300 165.285 0.622  -1.297 -1.732 H15  MYX 51 
+MYX H17  H17  H 0 1 N N N 75.474 55.360 160.915 5.491  -1.876 1.003  H17  MYX 52 
+MYX H181 1H18 H 0 0 N N N 74.193 54.782 158.823 5.588  -3.266 -1.712 H181 MYX 53 
+MYX H182 2H18 H 0 0 N N N 73.438 54.057 160.337 6.827  -3.387 -0.440 H182 MYX 54 
+MYX H183 3H18 H 0 0 N N N 72.673 55.408 159.653 5.197  -4.046 -0.161 H183 MYX 55 
+MYX H19  H19  H 0 1 N N N 74.329 57.902 159.444 6.048  -0.655 -1.800 H19  MYX 56 
+MYX H20  H20  H 0 1 N N N 76.997 56.664 160.311 6.904  -0.117 1.077  H20  MYX 57 
+MYX H21  H21  H 0 1 N N N 76.179 59.427 158.636 7.568  1.233  -1.706 H21  MYX 58 
+MYX H22  H22  H 0 1 N N N 78.831 58.186 159.485 8.424  1.772  1.171  H22  MYX 59 
+MYX H23  H23  H 0 1 N N N 77.778 60.638 157.772 8.981  2.993  -1.633 H23  MYX 60 
+MYX H241 1H24 H 0 0 N N N 79.534 62.115 158.797 8.884  4.382  1.083  H241 MYX 61 
+MYX H242 2H24 H 0 0 N N N 78.437 61.423 160.115 9.275  5.162  -0.468 H242 MYX 62 
+MYX H243 3H24 H 0 0 N N N 79.979 60.753 159.966 7.645  4.503  -0.190 H243 MYX 63 
+MYX H251 1H25 H 0 0 N N N 80.060 60.800 156.725 10.968 1.854  -0.683 H251 MYX 64 
+MYX H252 2H25 H 0 0 N N N 80.565 59.313 157.686 11.216 3.615  -0.757 H252 MYX 65 
+MYX H253 3H25 H 0 0 N N N 79.347 59.115 156.522 10.824 2.835  0.795  H253 MYX 66 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MYX O1  C1   DOUB N N 1  
+MYX C1  N1   SING N N 2  
+MYX C1  C2   SING N N 3  
+MYX N1  HN11 SING N N 4  
+MYX N1  HN12 SING N N 5  
+MYX C2  C3   DOUB N E 6  
+MYX C2  H2   SING N N 7  
+MYX C3  O2   SING N N 8  
+MYX C3  C5   SING N N 9  
+MYX O2  C4   SING N N 10 
+MYX C4  H41  SING N N 11 
+MYX C4  H42  SING N N 12 
+MYX C4  H43  SING N N 13 
+MYX C5  C6   SING N N 14 
+MYX C5  C7   SING N N 15 
+MYX C5  H5   SING N N 16 
+MYX C6  H61  SING N N 17 
+MYX C6  H62  SING N N 18 
+MYX C6  H63  SING N N 19 
+MYX C7  O3   SING N N 20 
+MYX C7  C9   SING N N 21 
+MYX C7  H7   SING N N 22 
+MYX O3  C8   SING N N 23 
+MYX C8  H81  SING N N 24 
+MYX C8  H82  SING N N 25 
+MYX C8  H83  SING N N 26 
+MYX C9  C10  DOUB N E 27 
+MYX C9  H9   SING N N 28 
+MYX C10 C11  SING N N 29 
+MYX C10 H10  SING N N 30 
+MYX C11 C12  DOUB Y N 31 
+MYX C11 N2   SING Y N 32 
+MYX C12 S1   SING Y N 33 
+MYX C12 H12  SING N N 34 
+MYX N2  C13  DOUB Y N 35 
+MYX C13 C14  SING Y N 36 
+MYX C13 S1   SING Y N 37 
+MYX C14 C15  DOUB Y N 38 
+MYX C14 N3   SING Y N 39 
+MYX C15 S2   SING Y N 40 
+MYX C15 H15  SING N N 41 
+MYX N3  C16  DOUB Y N 42 
+MYX C16 C17  SING N N 43 
+MYX C16 S2   SING Y N 44 
+MYX C17 C18  SING N N 45 
+MYX C17 C19  SING N N 46 
+MYX C17 H17  SING N N 47 
+MYX C18 H181 SING N N 48 
+MYX C18 H182 SING N N 49 
+MYX C18 H183 SING N N 50 
+MYX C19 C20  DOUB N E 51 
+MYX C19 H19  SING N N 52 
+MYX C20 C21  SING N N 53 
+MYX C20 H20  SING N N 54 
+MYX C21 C22  DOUB N E 55 
+MYX C21 H21  SING N N 56 
+MYX C22 C23  SING N N 57 
+MYX C22 H22  SING N N 58 
+MYX C23 C24  SING N N 59 
+MYX C23 C25  SING N N 60 
+MYX C23 H23  SING N N 61 
+MYX C24 H241 SING N N 62 
+MYX C24 H242 SING N N 63 
+MYX C24 H243 SING N N 64 
+MYX C25 H251 SING N N 65 
+MYX C25 H252 SING N N 66 
+MYX C25 H253 SING N N 67 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MYX SMILES           ACDLabs              10.04 "O=C(N)\C=C(\OC)C(C)C(OC)/C=C/c1nc(sc1)c2nc(sc2)C(\C=C\C=C\C(C)C)C"                                                                                                                              
+MYX InChI            InChI                1.03  "InChI=1S/C25H33N3O3S2/c1-16(2)9-7-8-10-17(3)24-28-20(15-33-24)25-27-19(14-32-25)11-12-21(30-5)18(4)22(31-6)13-23(26)29/h7-18,21H,1-6H3,(H2,26,29)/b9-7+,10-8+,12-11+,22-13+/t17-,18+,21-/m0/s1" 
+MYX InChIKey         InChI                1.03  XKTFQMCPGMTBMD-FYHMSGCOSA-N                                                                                                                                                                      
+MYX SMILES_CANONICAL CACTVS               3.385 "CO[C@@H](\C=C\c1csc(n1)c2csc(n2)[C@@H](C)\C=C\C=C\C(C)C)[C@@H](C)C(\OC)=C/C(N)=O"                                                                                                               
+MYX SMILES           CACTVS               3.385 "CO[CH](C=Cc1csc(n1)c2csc(n2)[CH](C)C=CC=CC(C)C)[CH](C)C(OC)=CC(N)=O"                                                                                                                            
+MYX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "C[C@@H](/C=C/C=C/C(C)C)c1nc(cs1)c2nc(cs2)/C=C/[C@@H]([C@@H](C)/C(=C\C(=O)N)/OC)OC"                                                                                                              
+MYX SMILES           "OpenEye OEToolkits" 1.7.5 "CC(C)C=CC=CC(C)c1nc(cs1)c2nc(cs2)C=CC(C(C)C(=CC(=O)N)OC)OC"                                                                                                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MYX "SYSTEMATIC NAME" ACDLabs              10.04 "(2E,4R,5S,6E)-7-{2'-[(1S,2E,4E)-1,6-dimethylhepta-2,4-dien-1-yl]-2,4'-bi-1,3-thiazol-4-yl}-3,5-dimethoxy-4-methylhepta-2,6-dienamide"        
+MYX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2E,4R,5S,6E)-3,5-dimethoxy-4-methyl-7-[2-[2-[(2S,3E,5E)-7-methylocta-3,5-dien-2-yl]-1,3-thiazol-4-yl]-1,3-thiazol-4-yl]hepta-2,6-dienamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MYX "Create component"     2004-03-29 RCSB 
+MYX "Modify aromatic_flag" 2011-06-04 RCSB 
+MYX "Modify descriptor"    2011-06-04 RCSB 
+MYX "Modify descriptor"    2012-01-05 RCSB 
+MYX "Modify coordinates"   2012-01-05 RCSB 
+# 

@@ -1,0 +1,162 @@
+data_FDM
+# 
+_chem_comp.id                                    FDM 
+_chem_comp.name                                  
+;3'-FLUORO-3'-DEOXYTHYMIDINE MONOPHOSPHATE
+;
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H14 F N2 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "PHOSPHORIC ACID MONO-[3-FLUORO-5-(5-METHYL-2,4-DIOXO-3,4-DIHYDRO-2H-PYRIMIDIN-1-YL)-TETRAHYRO-FURAN-2-YLMETHYL] ESTER" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-01-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        324.200 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FDM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1NMX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FDM N1     N1   N 0 1 Y N N 13.400 77.886 24.234 -0.383 -0.175 2.257  N1     FDM 1  
+FDM C6     C6   C 0 1 Y N N 12.643 77.015 23.466 -0.485 -0.940 3.387  C6     FDM 2  
+FDM C2     C2   C 0 1 Y N N 13.814 79.166 23.811 0.551  0.787  2.164  C2     FDM 3  
+FDM O2     O2   O 0 1 N N N 14.504 79.894 24.564 0.624  1.456  1.151  O2     FDM 4  
+FDM N3     N3   N 0 1 Y N N 13.372 79.576 22.613 1.407  1.021  3.176  N3     FDM 5  
+FDM C4     C4   C 0 1 Y N N 12.612 78.739 21.767 1.336  0.291  4.308  C4     FDM 6  
+FDM O4     O4   O 0 1 N N N 12.278 79.181 20.588 2.110  0.502  5.224  O4     FDM 7  
+FDM C5     C5   C 0 1 Y N N 12.216 77.417 22.270 0.360  -0.728 4.417  C5     FDM 8  
+FDM C7     C7   C 0 1 N N N 11.362 76.583 21.298 0.263  -1.560 5.669  C7     FDM 9  
+FDM "O4'"  O4*  O 0 1 N N N 14.615 76.171 25.278 -0.567 -0.681 -0.072 "O4'"  FDM 10 
+FDM F      F    F 0 1 N N N 14.449 76.772 28.430 -3.769 0.173  -0.788 F      FDM 11 
+FDM "C1'"  C1*  C 0 1 N N R 13.869 77.326 25.476 -1.301 -0.405 1.139  "C1'"  FDM 12 
+FDM "C2'"  C2*  C 0 1 N N N 12.859 76.973 26.585 -2.088 0.886  0.803  "C2'"  FDM 13 
+FDM "C3'"  C3*  C 0 1 N N S 13.682 76.079 27.490 -2.462 0.662  -0.681 "C3'"  FDM 14 
+FDM "C4'"  C4*  C 0 1 N N R 14.650 75.382 26.491 -1.449 -0.389 -1.171 "C4'"  FDM 15 
+FDM "O5'"  O5*  O 0 1 N N N 13.284 73.555 26.047 0.286  -0.814 -2.799 "O5'"  FDM 16 
+FDM "C5'"  C5*  C 0 1 N N N 14.639 73.791 26.440 -0.650 0.167  -2.352 "C5'"  FDM 17 
+FDM P1     P1   P 0 1 N N N 12.647 72.156 26.796 1.086  -0.165 -4.035 P1     FDM 18 
+FDM OP2    OP2  O 0 1 N N N 12.369 72.720 28.241 2.165  -1.222 -4.592 OP2    FDM 19 
+FDM OP1    OP1  O 0 1 N N N 11.445 71.919 26.064 1.784  1.059  -3.582 OP1    FDM 20 
+FDM OP3    OP3  O 0 1 N N N 13.674 71.131 27.043 0.049  0.211  -5.208 OP3    FDM 21 
+FDM HC61   1HC6 H 0 0 N N N 12.379 75.999 23.807 -1.239 -1.711 3.453  HC61   FDM 22 
+FDM HN31   1HN3 H 0 0 N N N 13.615 80.529 22.343 2.075  1.719  3.092  HN31   FDM 23 
+FDM HC71   1HC7 H 0 0 N N N 11.004 76.919 20.296 1.025  -1.240 6.379  HC71   FDM 24 
+FDM HC72   2HC7 H 0 0 N N N 11.910 75.626 21.134 -0.723 -1.433 6.114  HC72   FDM 25 
+FDM HC73   3HC7 H 0 0 N N N 10.458 76.260 21.865 0.417  -2.610 5.420  HC73   FDM 26 
+FDM "H1'1" 1H1* H 0 0 N N N 14.448 78.203 25.847 -1.985 -1.223 1.368  "H1'1" FDM 27 
+FDM "H2'1" 1H2* H 0 0 N N N 12.386 77.848 27.089 -2.982 0.969  1.422  "H2'1" FDM 28 
+FDM "H2'2" 2H2* H 0 0 N N N 11.901 76.528 26.226 -1.455 1.767  0.916  "H2'2" FDM 29 
+FDM "H3'1" 1H3* H 0 0 N N N 13.021 75.407 28.086 -2.355 1.588  -1.246 "H3'1" FDM 30 
+FDM "H4'1" 1H4* H 0 0 N N N 15.702 75.392 26.858 -1.972 -1.296 -1.473 "H4'1" FDM 31 
+FDM "H5'1" 1H5* H 0 0 N N N 15.418 73.322 25.794 -1.331 0.416  -3.165 "H5'1" FDM 32 
+FDM "H5'2" 2H5* H 0 0 N N N 14.969 73.275 27.371 -0.115 1.063  -2.038 "H5'2" FDM 33 
+FDM HP31   1HP3 H 0 0 N N N 12.015 71.942 28.657 2.621  -0.795 -5.329 HP31   FDM 34 
+FDM HP21   1HP2 H 0 0 N N N 13.320 70.353 27.459 -0.382 -0.611 -5.474 HP21   FDM 35 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FDM N1    C6     SING Y N 1  
+FDM N1    C2     SING Y N 2  
+FDM N1    "C1'"  SING N N 3  
+FDM C6    C5     DOUB Y N 4  
+FDM C6    HC61   SING N N 5  
+FDM C2    O2     DOUB N N 6  
+FDM C2    N3     SING Y N 7  
+FDM N3    C4     SING Y N 8  
+FDM N3    HN31   SING N N 9  
+FDM C4    O4     DOUB N N 10 
+FDM C4    C5     SING Y N 11 
+FDM C5    C7     SING N N 12 
+FDM C7    HC71   SING N N 13 
+FDM C7    HC72   SING N N 14 
+FDM C7    HC73   SING N N 15 
+FDM "O4'" "C1'"  SING N N 16 
+FDM "O4'" "C4'"  SING N N 17 
+FDM F     "C3'"  SING N N 18 
+FDM "C1'" "C2'"  SING N N 19 
+FDM "C1'" "H1'1" SING N N 20 
+FDM "C2'" "C3'"  SING N N 21 
+FDM "C2'" "H2'1" SING N N 22 
+FDM "C2'" "H2'2" SING N N 23 
+FDM "C3'" "C4'"  SING N N 24 
+FDM "C3'" "H3'1" SING N N 25 
+FDM "C4'" "C5'"  SING N N 26 
+FDM "C4'" "H4'1" SING N N 27 
+FDM "O5'" "C5'"  SING N N 28 
+FDM "O5'" P1     SING N N 29 
+FDM "C5'" "H5'1" SING N N 30 
+FDM "C5'" "H5'2" SING N N 31 
+FDM P1    OP2    SING N N 32 
+FDM P1    OP1    DOUB N N 33 
+FDM P1    OP3    SING N N 34 
+FDM OP2   HP31   SING N N 35 
+FDM OP3   HP21   SING N N 36 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FDM SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C(F)C2)COP(=O)(O)O"                                                                                                    
+FDM SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@H]2C[C@H](F)[C@@H](CO[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                     
+FDM SMILES           CACTVS               3.341 "CC1=CN([CH]2C[CH](F)[CH](CO[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                         
+FDM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)F"                                                                                       
+FDM SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)F"                                                                                                    
+FDM InChI            InChI                1.03  "InChI=1S/C10H14FN2O7P/c1-5-3-13(10(15)12-9(5)14)8-2-6(11)7(20-8)4-19-21(16,17)18/h3,6-8H,2,4H2,1H3,(H,12,14,15)(H2,16,17,18)/t6-,7+,8+/m0/s1" 
+FDM InChIKey         InChI                1.03  GGCAVPJXJISBOA-XLPZGREQSA-N                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FDM "SYSTEMATIC NAME" ACDLabs              10.04 
+;3'-deoxy-3'-fluorothymidine 5'-(dihydrogen phosphate)
+;
+FDM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-3-fluoro-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FDM "Create component"  2003-01-14 RCSB 
+FDM "Modify descriptor" 2011-06-04 RCSB 
+# 

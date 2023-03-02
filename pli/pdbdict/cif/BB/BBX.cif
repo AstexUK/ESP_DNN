@@ -1,0 +1,102 @@
+data_BBX
+# 
+_chem_comp.id                                    BBX 
+_chem_comp.name                                  1-BROMOETHANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H5 Br" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-11-01 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        108.965 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BBX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1XVB 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BBX BR1 BR1 BR 0 0 N N N 89.675 76.476 41.930 0.047  0.000  -0.634 BR1 BBX 1 
+BBX C1  C1  C  0 1 N N N 90.502 75.271 43.187 -0.704 0.000  1.181  C1  BBX 2 
+BBX C2  C2  C  0 1 N N N 89.813 73.904 43.304 0.433  0.000  2.204  C2  BBX 3 
+BBX H11 1H1 H  0 1 N N N 90.584 75.752 44.190 -1.317 -0.890 1.321  H11 BBX 4 
+BBX H12 2H1 H  0 1 N N N 91.583 75.142 42.948 -1.317 0.890  1.321  H12 BBX 5 
+BBX H21 1H2 H  0 1 N N N 89.731 73.423 42.301 0.017  0.000  3.211  H21 BBX 6 
+BBX H22 2H2 H  0 1 N N N 90.291 73.207 44.031 1.047  -0.890 2.065  H22 BBX 7 
+BBX H23 3H2 H  0 1 N N N 88.732 74.033 43.543 1.047  0.890  2.065  H23 BBX 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BBX BR1 C1  SING N N 1 
+BBX C1  C2  SING N N 2 
+BBX C1  H11 SING N N 3 
+BBX C1  H12 SING N N 4 
+BBX C2  H21 SING N N 5 
+BBX C2  H22 SING N N 6 
+BBX C2  H23 SING N N 7 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BBX SMILES           ACDLabs              10.04 BrCC                            
+BBX SMILES_CANONICAL CACTVS               3.341 CCBr                            
+BBX SMILES           CACTVS               3.341 CCBr                            
+BBX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCBr                            
+BBX SMILES           "OpenEye OEToolkits" 1.5.0 CCBr                            
+BBX InChI            InChI                1.03  InChI=1S/C2H5Br/c1-2-3/h2H2,1H3 
+BBX InChIKey         InChI                1.03  RDHPKYGYEGBMSE-UHFFFAOYSA-N     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BBX "SYSTEMATIC NAME" ACDLabs              10.04 bromoethane 
+BBX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 bromoethane 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BBX "Create component"  2004-11-01 RCSB 
+BBX "Modify descriptor" 2011-06-04 RCSB 
+# 

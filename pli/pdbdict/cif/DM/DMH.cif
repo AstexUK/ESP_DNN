@@ -1,0 +1,132 @@
+data_DMH
+# 
+_chem_comp.id                                    DMH 
+_chem_comp.name                                  N4,N4-DIMETHYL-ASPARAGINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H12 N2 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ASN 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-08-24 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        160.171 
+_chem_comp.one_letter_code                       N 
+_chem_comp.three_letter_code                     DMH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1JQ7 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DMH N    N    N 0 1 N N N 38.148 22.207 82.317 -1.652 -0.608 -1.110 N    DMH 1  
+DMH CA   CA   C 0 1 N N S 38.498 20.952 81.649 -0.480 0.274  -1.180 CA   DMH 2  
+DMH CB   CB   C 0 1 N N N 39.297 20.041 82.593 0.469  -0.045 -0.024 CB   DMH 3  
+DMH CG   CG   C 0 1 N N N 40.798 20.236 82.452 -0.243 0.169  1.285  CG   DMH 4  
+DMH OD1  OD1  O 0 1 N N N 41.273 20.567 81.363 -1.397 0.542  1.293  OD1  DMH 5  
+DMH ND2  ND2  N 0 1 N N N 41.566 20.005 83.544 0.401  -0.052 2.447  ND2  DMH 6  
+DMH CE1  CE1  C 0 1 N N N 41.099 19.544 84.865 -0.292 0.156  3.721  CE1  DMH 7  
+DMH CE2  CE2  C 0 1 N N N 43.027 20.226 83.513 1.795  -0.502 2.438  CE2  DMH 8  
+DMH C    C    C 0 1 N N N 37.236 20.226 81.153 0.233  0.059  -2.490 C    DMH 9  
+DMH O    O    O 0 1 N N N 36.371 19.828 81.954 0.197  -1.022 -3.027 O    DMH 10 
+DMH OXT  OXT  O 0 1 N Y N 37.140 20.047 79.833 0.907  1.069  -3.061 OXT  DMH 11 
+DMH H2   HN2  H 0 1 N Y N 37.617 22.811 81.690 -1.307 -1.554 -1.180 H2   DMH 12 
+DMH H    H    H 0 1 N N N 38.971 22.678 82.691 -2.035 -0.507 -0.182 H    DMH 13 
+DMH HA1  1HA  H 0 1 N N N 39.134 21.197 80.766 -0.802 1.313  -1.109 HA1  DMH 14 
+DMH HB2  1HB  H 0 1 N N N 38.971 20.174 83.651 1.339  0.609  -0.076 HB2  DMH 15 
+DMH HB3  2HB  H 0 1 N N N 39.015 18.971 82.453 0.792  -1.084 -0.096 HB3  DMH 16 
+DMH HE11 1HE1 H 0 0 N N N 41.731 19.353 85.763 0.384  -0.071 4.545  HE11 DMH 17 
+DMH HE12 2HE1 H 0 0 N N N 40.311 20.264 85.185 -0.614 1.195  3.793  HE12 DMH 18 
+DMH HE13 3HE1 H 0 0 N N N 40.527 18.604 84.682 -1.161 -0.498 3.773  HE13 DMH 19 
+DMH HE21 1HE2 H 0 0 N N N 43.659 20.035 84.411 2.137  -0.601 1.408  HE21 DMH 20 
+DMH HE22 2HE2 H 0 0 N N N 43.447 19.636 82.664 2.415  0.226  2.959  HE22 DMH 21 
+DMH HE23 3HE2 H 0 0 N N N 43.210 21.273 83.177 1.869  -1.467 2.939  HE23 DMH 22 
+DMH HXT  HXT  H 0 1 N Y N 36.360 19.598 79.526 1.365  0.931  -3.902 HXT  DMH 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DMH N   CA   SING N N 1  
+DMH N   H2   SING N N 2  
+DMH N   H    SING N N 3  
+DMH CA  CB   SING N N 4  
+DMH CA  C    SING N N 5  
+DMH CA  HA1  SING N N 6  
+DMH CB  CG   SING N N 7  
+DMH CB  HB2  SING N N 8  
+DMH CB  HB3  SING N N 9  
+DMH CG  OD1  DOUB N N 10 
+DMH CG  ND2  SING N N 11 
+DMH ND2 CE1  SING N N 12 
+DMH ND2 CE2  SING N N 13 
+DMH CE1 HE11 SING N N 14 
+DMH CE1 HE12 SING N N 15 
+DMH CE1 HE13 SING N N 16 
+DMH CE2 HE21 SING N N 17 
+DMH CE2 HE22 SING N N 18 
+DMH CE2 HE23 SING N N 19 
+DMH C   O    DOUB N N 20 
+DMH C   OXT  SING N N 21 
+DMH OXT HXT  SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DMH SMILES           ACDLabs              10.04 "O=C(N(C)C)CC(N)C(=O)O"                                                           
+DMH SMILES_CANONICAL CACTVS               3.341 "CN(C)C(=O)C[C@H](N)C(O)=O"                                                       
+DMH SMILES           CACTVS               3.341 "CN(C)C(=O)C[CH](N)C(O)=O"                                                        
+DMH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CN(C)C(=O)C[C@@H](C(=O)O)N"                                                      
+DMH SMILES           "OpenEye OEToolkits" 1.5.0 "CN(C)C(=O)CC(C(=O)O)N"                                                           
+DMH InChI            InChI                1.03  "InChI=1S/C6H12N2O3/c1-8(2)5(9)3-4(7)6(10)11/h4H,3,7H2,1-2H3,(H,10,11)/t4-/m0/s1" 
+DMH InChIKey         InChI                1.03  AHEBZPSPUGRPFZ-BYPYZUCNSA-N                                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DMH "SYSTEMATIC NAME" ACDLabs              10.04 N,N-dimethyl-L-asparagine                          
+DMH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-4-dimethylamino-4-oxo-butanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DMH "Create component"  2001-08-24 RCSB 
+DMH "Modify descriptor" 2011-06-04 RCSB 
+# 

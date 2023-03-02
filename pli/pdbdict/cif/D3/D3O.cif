@@ -1,0 +1,95 @@
+data_D3O
+# 
+_chem_comp.id                                    D3O 
+_chem_comp.name                                  trideuteriooxidanium 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               O 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "perdeuterated oxonium" 
+_chem_comp.pdbx_formal_charge                    1 
+_chem_comp.pdbx_initial_date                     2012-04-20 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        22.042 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     D3O 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4AR3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+D3O O  O  O 1 1 N N N 1.534 37.717 -2.061 -0.000 -0.000 0.038  O  D3O 1 
+D3O D1 D1 D 0 1 N N N 2.484 37.717 -2.061 -0.001 -0.937 -0.203 D1 D3O 2 
+D3O D2 D2 D 0 1 N N N 1.217 37.717 -1.165 0.811  0.468  -0.203 D2 D3O 3 
+D3O D3 D3 D 0 1 N N N 1.217 38.493 -2.509 -0.811 0.469  -0.203 D3 D3O 4 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+D3O O D1 SING N N 1 
+D3O O D2 SING N N 2 
+D3O O D3 SING N N 3 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+D3O SMILES           ACDLabs              12.01 "[2H][O+]([2H])[2H]"        
+D3O InChI            InChI                1.03  InChI=1S/H2O/h1H2/p+1/i/hD3 
+D3O InChIKey         InChI                1.03  XLYOFNOQVPJJNP-ZRLBSURWSA-O 
+D3O SMILES_CANONICAL CACTVS               3.385 "[O+]([2H])([2H])[2H]"      
+D3O SMILES           CACTVS               3.385 "[O+]([2H])([2H])[2H]"      
+D3O SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "[2H][O+]([2H])[2H]"        
+D3O SMILES           "OpenEye OEToolkits" 1.9.2 "[2H][O+]([2H])[2H]"        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+D3O "SYSTEMATIC NAME" ACDLabs              12.01 "(~2~H_3_)oxonium"   
+D3O "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 trideuteriooxidanium 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+D3O "Create component"  2012-04-20 EBI  
+D3O "Initial release"   2013-01-11 RCSB 
+D3O "Modify descriptor" 2014-09-05 RCSB 
+# 

@@ -1,0 +1,113 @@
+data_T6C
+# 
+_chem_comp.id                                    T6C 
+_chem_comp.name                                  2,4,6-trichlorophenol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H3 Cl3 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-05-09 
+_chem_comp.pdbx_modified_date                    2013-08-30 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        197.446 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     T6C 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4KN3 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+T6C CL2 CL2 CL 0 0 N N N 7.896 -7.033 14.398 1.332  -2.706 0.010  CL2 T6C 1  
+T6C C2  C2  C  0 1 Y N N 8.178 -5.550 15.198 0.466  -1.201 0.008  C2  T6C 2  
+T6C C1  C1  C  0 1 Y N N 8.881 -5.589 16.358 1.161  0.000  0.009  C1  T6C 3  
+T6C C6  C6  C  0 1 Y N N 9.159 -4.367 16.953 0.466  1.201  0.008  C6  T6C 4  
+T6C CL6 CL6 CL 0 0 N N N 9.840 -4.372 18.514 1.332  2.706  0.009  CL6 T6C 5  
+T6C O1  O1  O  0 1 N N N 9.299 -6.896 16.834 2.520  0.000  0.011  O1  T6C 6  
+T6C C3  C3  C  0 1 Y N N 7.726 -4.369 14.704 -0.917 -1.199 0.001  C3  T6C 7  
+T6C C4  C4  C  0 1 Y N N 7.991 -3.186 15.324 -1.608 -0.000 -0.000 C4  T6C 8  
+T6C CL4 CL4 CL 0 0 N N N 7.271 -1.794 14.578 -3.344 -0.000 -0.009 CL4 T6C 9  
+T6C C5  C5  C  0 1 Y N N 8.748 -3.151 16.450 -0.917 1.199  0.006  C5  T6C 10 
+T6C H1  H1  H  0 1 N N N 9.780 -6.798 17.648 2.915  -0.000 -0.871 H1  T6C 11 
+T6C H2  H2  H  0 1 N N N 7.141 -4.368 13.796 -1.458 -2.133 -0.005 H2  T6C 12 
+T6C H3  H3  H  0 1 N N N 9.014 -2.219 16.927 -1.458 2.133  0.005  H3  T6C 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+T6C CL2 C2  SING N N 1  
+T6C CL4 C4  SING N N 2  
+T6C C3  C2  DOUB Y N 3  
+T6C C3  C4  SING Y N 4  
+T6C C2  C1  SING Y N 5  
+T6C C4  C5  DOUB Y N 6  
+T6C C1  O1  SING N N 7  
+T6C C1  C6  DOUB Y N 8  
+T6C C5  C6  SING Y N 9  
+T6C C6  CL6 SING N N 10 
+T6C O1  H1  SING N N 11 
+T6C C3  H2  SING N N 12 
+T6C C5  H3  SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+T6C SMILES           ACDLabs              12.01 "Clc1cc(Cl)cc(Cl)c1O"                                
+T6C InChI            InChI                1.03  "InChI=1S/C6H3Cl3O/c7-3-1-4(8)6(10)5(9)2-3/h1-2,10H" 
+T6C InChIKey         InChI                1.03  LINPIYWFGCPVIE-UHFFFAOYSA-N                          
+T6C SMILES_CANONICAL CACTVS               3.370 "Oc1c(Cl)cc(Cl)cc1Cl"                                
+T6C SMILES           CACTVS               3.370 "Oc1c(Cl)cc(Cl)cc1Cl"                                
+T6C SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c(cc(c(c1Cl)O)Cl)Cl"                              
+T6C SMILES           "OpenEye OEToolkits" 1.7.6 "c1c(cc(c(c1Cl)O)Cl)Cl"                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+T6C "SYSTEMATIC NAME" ACDLabs              12.01 2,4,6-trichlorophenol         
+T6C "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2,4,6-tris(chloranyl)phenol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+T6C "Create component" 2013-05-09 RCSB 
+T6C "Initial release"  2013-09-04 RCSB 
+# 

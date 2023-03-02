@@ -1,0 +1,121 @@
+data_ANX
+# 
+_chem_comp.id                                    ANX 
+_chem_comp.name                                  2,5-DINITROPHENOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H4 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.106 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ANX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ANX O1  O1  O 0  1 N Y N 3.927  97.222  53.186 1.781  -1.112 4.039  O1  ANX 1  
+ANX C1  C1  C 0  1 Y N N 2.874  97.722  54.018 1.800  -1.079 2.676  C1  ANX 2  
+ANX C2  C2  C 0  1 Y N N 1.659  98.258  53.481 0.764  -0.484 1.955  C2  ANX 3  
+ANX N2  N2  N 1  1 N N N 1.103  98.120  52.078 -0.343 0.106  2.625  N2  ANX 4  
+ANX O21 O21 O -1 1 N N N 1.655  97.419  51.244 -1.254 0.631  1.943  O21 ANX 5  
+ANX O22 O22 O 0  1 N N N 0.083  98.694  51.743 -0.375 0.083  3.878  O22 ANX 6  
+ANX C3  C3  C 0  1 Y N N 0.840  99.059  54.303 0.807  -0.463 0.561  C3  ANX 7  
+ANX C4  C4  C 0  1 Y N N 1.158  99.290  55.637 1.885  -1.036 -0.112 C4  ANX 8  
+ANX N1  N1  N 1  1 N N N 2.685  98.989  57.625 4.017  -2.217 -0.078 N1  ANX 9  
+ANX O41 O41 O -1 1 N N N 3.398  100.140 58.139 4.035  -2.189 -1.332 O41 ANX 10 
+ANX O42 O42 O 0  1 N N N 2.216  97.918  58.479 4.939  -2.746 0.589  O42 ANX 11 
+ANX C5  C5  C 0  1 Y N N 2.362  98.804  56.175 2.921  -1.631 0.608  C5  ANX 12 
+ANX C6  C6  C 0  1 Y N N 3.159  97.935  55.382 2.878  -1.652 2.002  C6  ANX 13 
+ANX H5  H5  H 0  1 N N N 4.733  96.867  53.542 1.088  -0.524 4.377  H5  ANX 14 
+ANX H3  H3  H 0  1 N N N -0.072 99.512  53.879 0.006  -0.005 -0.014 H3  ANX 15 
+ANX H4  H4  H 0  1 N N N 0.461  99.858  56.276 1.905  -1.015 -1.199 H4  ANX 16 
+ANX H6  H6  H 0  1 N N N 4.017  97.417  55.843 3.682  -2.115 2.570  H6  ANX 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ANX O1 C1  SING N N 1  
+ANX O1 H5  SING N N 2  
+ANX C1 C2  SING Y N 3  
+ANX C1 C6  DOUB Y N 4  
+ANX C2 N2  SING N N 5  
+ANX C2 C3  DOUB Y N 6  
+ANX N2 O21 SING N N 7  
+ANX N2 O22 DOUB N N 8  
+ANX C3 C4  SING Y N 9  
+ANX C3 H3  SING N N 10 
+ANX C4 C5  DOUB Y N 11 
+ANX C4 H4  SING N N 12 
+ANX N1 O41 SING N N 13 
+ANX N1 O42 DOUB N N 14 
+ANX N1 C5  SING N N 15 
+ANX C5 C6  SING Y N 16 
+ANX C6 H6  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ANX SMILES           ACDLabs              10.04 "O=[N+]([O-])c1ccc(cc1O)[N+]([O-])=O"                        
+ANX SMILES_CANONICAL CACTVS               3.341 "Oc1cc(ccc1[N+]([O-])=O)[N+]([O-])=O"                        
+ANX SMILES           CACTVS               3.341 "Oc1cc(ccc1[N+]([O-])=O)[N+]([O-])=O"                        
+ANX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1[N+](=O)[O-])O)[N+](=O)[O-]"                      
+ANX SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(cc1[N+](=O)[O-])O)[N+](=O)[O-]"                      
+ANX InChI            InChI                1.03  "InChI=1S/C6H4N2O5/c9-6-3-4(7(10)11)1-2-5(6)8(12)13/h1-3,9H" 
+ANX InChIKey         InChI                1.03  UWEZBKLLMKVIPI-UHFFFAOYSA-N                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ANX "SYSTEMATIC NAME" ACDLabs              10.04 2,5-dinitrophenol 
+ANX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,5-dinitrophenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ANX "Create component"  2006-10-19 RCSB 
+ANX "Modify descriptor" 2011-06-04 RCSB 
+# 

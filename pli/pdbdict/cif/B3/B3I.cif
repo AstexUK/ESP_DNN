@@ -1,0 +1,117 @@
+data_B3I
+# 
+_chem_comp.id                                    B3I 
+_chem_comp.name                                  "2,3,5-TRIIODOBENZOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H3 I3 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        499.811 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     B3I 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BKE 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+B3I C2  C2  C 0 1 Y N N 35.125 14.574 9.746  0.619  -0.003 0.720  C2  B3I 1  
+B3I C3  C3  C 0 1 Y N N 35.963 15.392 8.917  -0.667 0.001  0.217  C3  B3I 2  
+B3I C5  C5  C 0 1 Y N N 34.015 16.034 7.632  0.195  0.000  -2.022 C5  B3I 3  
+B3I C6  C6  C 0 1 Y N N 33.187 15.252 8.436  1.486  0.001  -1.534 C6  B3I 4  
+B3I C   C   C 0 1 N N N 32.858 13.740 10.276 3.085  0.003  0.374  C   B3I 5  
+B3I O1  O1  O 0 1 N N N 32.870 12.489 10.188 3.275  0.004  1.574  O1  B3I 6  
+B3I O2  O2  O 0 1 N N N 32.054 14.303 11.062 4.133  0.003  -0.472 O2  B3I 7  
+B3I C1  C1  C 0 1 Y N N 33.719 14.514 9.496  1.707  0.002  -0.155 C1  B3I 8  
+B3I C4  C4  C 0 1 Y N N 35.391 16.116 7.857  -0.878 0.001  -1.149 C4  B3I 9  
+B3I I1  I1  I 0 1 N N N 35.944 13.504 11.255 0.937  -0.002 2.791  I1  B3I 10 
+B3I I2  I2  I 0 1 N N N 38.003 15.526 9.230  -2.301 0.001  1.527  I2  B3I 11 
+B3I I3  I3  I 0 1 N N N 33.176 17.035 6.112  -0.138 -0.001 -4.091 I3  B3I 12 
+B3I H6  H6  H 0 1 N N N 32.103 15.216 8.232  2.323  0.001  -2.216 H6  B3I 13 
+B3I HO2 HO2 H 0 1 N N N 32.044 15.250 11.128 5.035  0.003  -0.125 HO2 B3I 14 
+B3I H4  H4  H 0 1 N N N 36.019 16.745 7.204  -1.886 0.000  -1.538 H4  B3I 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+B3I C2 C3  DOUB Y N 1  
+B3I C2 C1  SING Y N 2  
+B3I C2 I1  SING N N 3  
+B3I C3 C4  SING Y N 4  
+B3I C3 I2  SING N N 5  
+B3I C5 C6  SING Y N 6  
+B3I C5 C4  DOUB Y N 7  
+B3I C5 I3  SING N N 8  
+B3I C6 C1  DOUB Y N 9  
+B3I C6 H6  SING N N 10 
+B3I C  O1  DOUB N N 11 
+B3I C  O2  SING N N 12 
+B3I C  C1  SING N N 13 
+B3I O2 HO2 SING N N 14 
+B3I C4 H4  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+B3I SMILES           ACDLabs              10.04 "Ic1c(C(=O)O)cc(I)cc1I"                                           
+B3I SMILES_CANONICAL CACTVS               3.341 "OC(=O)c1cc(I)cc(I)c1I"                                           
+B3I SMILES           CACTVS               3.341 "OC(=O)c1cc(I)cc(I)c1I"                                           
+B3I SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(cc(c(c1C(=O)O)I)I)I"                                         
+B3I SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(cc(c(c1C(=O)O)I)I)I"                                         
+B3I InChI            InChI                1.03  "InChI=1S/C7H3I3O2/c8-3-1-4(7(11)12)6(10)5(9)2-3/h1-2H,(H,11,12)" 
+B3I InChIKey         InChI                1.03  ZMZGFLUUZLELNE-UHFFFAOYSA-N                                       
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+B3I "SYSTEMATIC NAME" ACDLabs              10.04 "2,3,5-triiodobenzoic acid" 
+B3I "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2,3,5-triiodobenzoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+B3I "Create component"  1999-07-08 RCSB 
+B3I "Modify descriptor" 2011-06-04 RCSB 
+# 

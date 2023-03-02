@@ -1,0 +1,154 @@
+data_BFP
+# 
+_chem_comp.id                                    BFP 
+_chem_comp.name                                  "BETA FRUCTOSE 1,6-DIPHOSPHATE" 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             ATOMS 
+_chem_comp.formula                               "C6 H14 O12 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2008-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      FBP 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        340.116 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BFP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1FBH 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BFP P1   P1   P 0 1 N N N 40.815 88.514 26.236 -1.337 0.220  3.937  P1   BFP 1  
+BFP O1P  O1P  O 0 1 N N N 41.235 87.095 26.351 -1.479 1.676  3.719  O1P  BFP 2  
+BFP O2P  O2P  O 0 1 N N N 41.099 89.449 27.364 -2.773 -0.411 4.298  O2P  BFP 3  
+BFP O3P  O3P  O 0 1 N N N 41.461 89.066 24.889 -0.315 -0.043 5.153  O3P  BFP 4  
+BFP O1   O1   O 0 1 N N N 39.230 88.622 25.989 -0.768 -0.470 2.599  O1   BFP 5  
+BFP C1   C1   C 0 1 N N N 38.537 89.873 26.077 0.501  0.129  2.333  C1   BFP 6  
+BFP C2   C2   C 0 1 N N R 37.093 89.671 25.630 1.099  -0.485 1.066  C2   BFP 7  
+BFP O2   O2   O 0 1 N Y N 36.967 88.396 25.065 1.251  -1.896 1.237  O2   BFP 8  
+BFP C3   C3   C 0 1 N N S 36.564 90.717 24.643 2.472  0.156  0.771  C3   BFP 9  
+BFP O3   O3   O 0 1 N N N 36.974 90.386 23.334 3.538  -0.695 1.194  O3   BFP 10 
+BFP C4   C4   C 0 1 N N S 35.057 90.665 24.899 2.450  0.284  -0.776 C4   BFP 11 
+BFP O4   O4   O 0 1 N N N 34.330 91.851 24.567 3.263  1.375  -1.214 O4   BFP 12 
+BFP C5   C5   C 0 1 N N R 34.999 90.426 26.430 0.948  0.572  -1.027 C5   BFP 13 
+BFP O5   O5   O 0 1 N N N 36.254 89.812 26.782 0.247  -0.220 -0.054 O5   BFP 14 
+BFP C6   C6   C 0 1 N N N 33.855 89.536 26.826 0.551  0.147  -2.442 C6   BFP 15 
+BFP O6   O6   O 0 1 N N N 33.943 89.290 28.233 -0.849 0.361  -2.628 O6   BFP 16 
+BFP P2   P2   P 0 1 N N N 32.603 88.994 29.115 -1.195 -0.103 -4.130 P2   BFP 17 
+BFP O4P  O4P  O 0 1 N N N 32.116 87.605 28.743 -0.856 -1.534 -4.294 O4P  BFP 18 
+BFP O5P  O5P  O 0 1 N N N 31.580 90.068 28.790 -2.766 0.111  -4.410 O5P  BFP 19 
+BFP O6P  O6P  O 0 1 N N N 33.122 89.118 30.538 -0.339 0.773  -5.174 O6P  BFP 20 
+BFP HOP2 2HOP H 0 0 N N N 40.830 90.357 27.290 -3.078 0.028  5.104  HOP2 BFP 21 
+BFP HOP3 3HOP H 0 0 N N N 41.192 89.974 24.815 -0.251 -1.002 5.262  HOP3 BFP 22 
+BFP H11  1H1  H 0 1 N N N 39.049 90.684 25.508 1.170  -0.049 3.174  H11  BFP 23 
+BFP H12  2H1  H 0 1 N N N 38.608 90.328 27.093 0.373  1.202  2.190  H12  BFP 24 
+BFP HO2  HO2  H 0 1 N N N 36.068 88.270 24.787 0.370  -2.251 1.418  HO2  BFP 25 
+BFP H3   H3   H 0 1 N N N 36.946 91.757 24.770 2.551  1.136  1.240  H3   BFP 26 
+BFP HO3  HO3  H 0 1 N N N 36.646 91.035 22.722 4.361  -0.280 0.902  HO3  BFP 27 
+BFP H4   H4   H 0 1 N N N 34.577 89.890 24.257 2.756  -0.646 -1.252 H4   BFP 28 
+BFP HO4  HO4  H 0 1 N N N 33.394 91.819 24.726 4.175  1.156  -0.979 HO4  BFP 29 
+BFP H5   H5   H 0 1 N N N 34.835 91.390 26.965 0.736  1.630  -0.876 H5   BFP 30 
+BFP H61  1H6  H 0 1 N N N 33.815 88.596 26.228 1.108  0.739  -3.168 H61  BFP 31 
+BFP H62  2H6  H 0 1 N N N 32.865 89.950 26.524 0.779  -0.908 -2.582 H62  BFP 32 
+BFP HOP5 5HOP H 0 0 N N N 30.800 89.896 29.304 -2.930 -0.178 -5.318 HOP5 BFP 33 
+BFP HOP6 6HOP H 0 0 N N N 32.342 88.946 31.052 -0.589 1.697  -5.035 HOP6 BFP 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BFP P1  O1P  DOUB N N 1  
+BFP P1  O2P  SING N N 2  
+BFP P1  O3P  SING N N 3  
+BFP P1  O1   SING N N 4  
+BFP O2P HOP2 SING N N 5  
+BFP O3P HOP3 SING N N 6  
+BFP O1  C1   SING N N 7  
+BFP C1  C2   SING N N 8  
+BFP C1  H11  SING N N 9  
+BFP C1  H12  SING N N 10 
+BFP C2  O2   SING N N 11 
+BFP C2  C3   SING N N 12 
+BFP C2  O5   SING N N 13 
+BFP O2  HO2  SING N N 14 
+BFP C3  O3   SING N N 15 
+BFP C3  C4   SING N N 16 
+BFP C3  H3   SING N N 17 
+BFP O3  HO3  SING N N 18 
+BFP C4  O4   SING N N 19 
+BFP C4  C5   SING N N 20 
+BFP C4  H4   SING N N 21 
+BFP O4  HO4  SING N N 22 
+BFP C5  O5   SING N N 23 
+BFP C5  C6   SING N N 24 
+BFP C5  H5   SING N N 25 
+BFP C6  O6   SING N N 26 
+BFP C6  H61  SING N N 27 
+BFP C6  H62  SING N N 28 
+BFP O6  P2   SING N N 29 
+BFP P2  O4P  DOUB N N 30 
+BFP P2  O5P  SING N N 31 
+BFP P2  O6P  SING N N 32 
+BFP O5P HOP5 SING N N 33 
+BFP O6P HOP6 SING N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BFP SMILES           ACDLabs              10.04 "O=P(O)(O)OCC1OC(O)(COP(=O)(O)O)C(O)C1O"                                                                                                                 
+BFP InChI            InChI                1.02b "InChI=1/C6H14O12P2/c7-4-3(1-16-19(10,11)12)18-6(9,5(4)8)2-17-20(13,14)15/h3-5,7-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5+,6-/m1/s1/f/h10-11,13-14H" 
+BFP InChIKey         InChI                1.02b RNBGYGVWRKECFJ-NMAWDRIHDB                                                                                                                                
+BFP SMILES_CANONICAL CACTVS               3.341 "O[C@H]1[C@H](O)[C@@](O)(CO[P](O)(O)=O)O[C@@H]1CO[P](O)(O)=O"                                                                                            
+BFP SMILES           CACTVS               3.341 "O[CH]1[CH](O)[C](O)(CO[P](O)(O)=O)O[CH]1CO[P](O)(O)=O"                                                                                                  
+BFP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@@H]([C@](O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O"                                                                                            
+BFP SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(O1)(COP(=O)(O)O)O)O)O)OP(=O)(O)O"                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BFP "SYSTEMATIC NAME" ACDLabs              10.04 1,6-di-O-phosphono-beta-D-fructofuranose                                                        
+BFP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4S,5R)-2,3,4-trihydroxy-5-(phosphonooxymethyl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BFP "Create component" 1999-07-08 RCSB 
+# 

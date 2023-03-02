@@ -1,0 +1,125 @@
+data_SE2
+# 
+_chem_comp.id                                    SE2 
+_chem_comp.name                                  3-HYDROXY-2H-CHROMEN-2-ONE 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H6 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-02-15 
+_chem_comp.pdbx_modified_date                    2014-09-05 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        162.142 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SE2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3ZNP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SE2 O8  O8  O 0 1 N N N -4.558 -5.004  -13.342 -2.440 1.454  -0.585 O8  SE2 1  
+SE2 C8  C8  C 0 1 N N N -4.698 -5.952  -14.140 -1.588 0.766  -0.054 C8  SE2 2  
+SE2 O1  O1  O 0 1 N N N -3.929 -6.033  -15.274 -0.462 1.322  0.446  O1  SE2 3  
+SE2 C11 C11 C 0 1 Y N N -4.081 -7.081  -16.144 0.691  0.649  0.218  C11 SE2 4  
+SE2 C10 C10 C 0 1 Y N N -3.309 -7.176  -17.296 1.904  1.321  0.150  C10 SE2 5  
+SE2 C1  C1  C 0 1 Y N N -3.490 -8.253  -18.167 3.066  0.614  -0.077 C1  SE2 6  
+SE2 C2  C2  C 0 1 Y N N -4.436 -9.249  -17.909 3.036  -0.764 -0.238 C2  SE2 7  
+SE2 C3  C3  C 0 1 Y N N -5.232 -9.194  -16.767 1.853  -1.444 -0.178 C3  SE2 8  
+SE2 C4  C4  C 0 1 Y N N -5.090 -8.139  -15.868 0.663  -0.746 0.049  C4  SE2 9  
+SE2 C5  C5  C 0 1 N N N -5.874 -8.061  -14.725 -0.624 -1.450 0.111  C5  SE2 10 
+SE2 C7  C7  C 0 1 N N N -5.709 -6.998  -13.848 -1.760 -0.688 0.065  C7  SE2 11 
+SE2 O11 O11 O 0 1 N N N -6.464 -6.908  -12.719 -2.996 -1.252 0.123  O11 SE2 12 
+SE2 H10 H10 H 0 1 N N N -2.571 -6.419  -17.517 1.937  2.393  0.275  H10 SE2 13 
+SE2 H1  H1  H 0 1 N N N -2.885 -8.317  -19.060 4.009  1.138  -0.130 H1  SE2 14 
+SE2 H2  H2  H 0 1 N N N -4.551 -10.069 -18.602 3.956  -1.303 -0.414 H2  SE2 15 
+SE2 H3  H3  H 0 1 N N N -5.960 -9.970  -16.578 1.837  -2.517 -0.304 H3  SE2 16 
+SE2 H5  H5  H 0 1 N N N -6.609 -8.825  -14.519 -0.673 -2.526 0.194  H5  SE2 17 
+SE2 H11 H11 H 0 1 N N N -6.221 -6.127  -12.236 -3.721 -0.614 0.079  H11 SE2 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SE2 O8  C8  DOUB N N 1  
+SE2 C8  O1  SING N N 2  
+SE2 C8  C7  SING N N 3  
+SE2 O1  C11 SING N N 4  
+SE2 C11 C10 SING Y N 5  
+SE2 C11 C4  DOUB Y N 6  
+SE2 C10 C1  DOUB Y N 7  
+SE2 C1  C2  SING Y N 8  
+SE2 C2  C3  DOUB Y N 9  
+SE2 C3  C4  SING Y N 10 
+SE2 C4  C5  SING N N 11 
+SE2 C5  C7  DOUB N N 12 
+SE2 C7  O11 SING N N 13 
+SE2 C10 H10 SING N N 14 
+SE2 C1  H1  SING N N 15 
+SE2 C2  H2  SING N N 16 
+SE2 C3  H3  SING N N 17 
+SE2 C5  H5  SING N N 18 
+SE2 O11 H11 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SE2 SMILES           ACDLabs              12.01 O=C2Oc1ccccc1C=C2O                                         
+SE2 InChI            InChI                1.03  "InChI=1S/C9H6O3/c10-7-5-6-3-1-2-4-8(6)12-9(7)11/h1-5,10H" 
+SE2 InChIKey         InChI                1.03  MJKVTPMWOKAVMS-UHFFFAOYSA-N                                
+SE2 SMILES_CANONICAL CACTVS               3.385 OC1=Cc2ccccc2OC1=O                                         
+SE2 SMILES           CACTVS               3.385 OC1=Cc2ccccc2OC1=O                                         
+SE2 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "c1ccc2c(c1)C=C(C(=O)O2)O"                                 
+SE2 SMILES           "OpenEye OEToolkits" 1.9.2 "c1ccc2c(c1)C=C(C(=O)O2)O"                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SE2 "SYSTEMATIC NAME" ACDLabs              12.01 3-hydroxy-2H-chromen-2-one 
+SE2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 3-oxidanylchromen-2-one    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SE2 "Create component"  2013-02-15 EBI  
+SE2 "Initial release"   2013-05-15 RCSB 
+SE2 "Modify descriptor" 2014-09-05 RCSB 
+# 

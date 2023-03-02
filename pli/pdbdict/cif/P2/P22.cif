@@ -1,0 +1,124 @@
+data_P22
+# 
+_chem_comp.id                                    P22 
+_chem_comp.name                                  "ETHYL DIHYDROGEN DIPHOSPHATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H8 O7 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-07-01 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        206.028 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     P22 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1T9B 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+P22 C6  C6  C 0 1 N N N 26.337 36.099 132.409 4.434  0.561  -0.276 C6  P22 1  
+P22 C7  C7  C 0 1 N N N 26.615 37.142 131.328 3.092  0.061  0.264  C7  P22 2  
+P22 O7  O7  O 0 1 N N N 27.290 38.148 130.848 2.056  0.378  -0.667 O7  P22 3  
+P22 PA  PA  P 0 1 N N S 27.670 39.380 131.456 0.680  -0.174 -0.038 PA  P22 4  
+P22 O1A O1A O 0 1 N N N 28.409 40.182 130.553 0.739  -1.780 0.054  O1A P22 5  
+P22 O2A O2A O 0 1 N N N 26.468 40.103 131.913 0.496  0.392  1.318  O2A P22 6  
+P22 O3A O3A O 0 1 N N N 28.539 39.037 132.785 -0.553 0.266  -0.975 O3A P22 7  
+P22 PB  PB  P 0 1 N N N 29.932 38.282 133.013 -1.881 0.172  -0.070 PB  P22 8  
+P22 O1B O1B O 0 1 N N N 29.519 36.896 133.391 -3.083 0.958  -0.798 O1B P22 9  
+P22 O2B O2B O 0 1 N N N 30.554 39.161 134.041 -1.622 0.783  1.253  O2B P22 10 
+P22 O3B O3B O 0 1 N N N 30.705 38.336 131.756 -2.291 -1.373 0.124  O3B P22 11 
+P22 H61 1H6 H 0 1 N N N 26.228 36.792 133.275 5.224  0.318  0.434  H61 P22 12 
+P22 H62 2H6 H 0 1 N N N 25.759 35.238 132.820 4.643  0.079  -1.232 H62 P22 13 
+P22 H63 3H6 H 0 1 N N N 27.355 35.647 132.460 4.389  1.641  -0.416 H63 P22 14 
+P22 H71 1H7 H 0 1 N N N 25.597 37.594 131.277 3.137  -1.019 0.404  H71 P22 15 
+P22 H72 2H7 H 0 1 N N N 26.724 36.449 130.462 2.883  0.543  1.219  H72 P22 16 
+P22 H1A H1A H 0 1 N N N 28.662 41.003 130.958 0.859  -2.107 -0.848 H1A P22 17 
+P22 H1B H1B H 0 1 N N N 30.346 36.448 133.526 -3.858 0.878  -0.225 H1B P22 18 
+P22 H3B H3B H 0 1 N N N 31.532 37.888 131.891 -2.451 -1.732 -0.760 H3B P22 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+P22 C6  C7  SING N N 1  
+P22 C6  H61 SING N N 2  
+P22 C6  H62 SING N N 3  
+P22 C6  H63 SING N N 4  
+P22 C7  O7  SING N N 5  
+P22 C7  H71 SING N N 6  
+P22 C7  H72 SING N N 7  
+P22 O7  PA  SING N N 8  
+P22 PA  O1A SING N N 9  
+P22 PA  O2A DOUB N N 10 
+P22 PA  O3A SING N N 11 
+P22 O1A H1A SING N N 12 
+P22 O3A PB  SING N N 13 
+P22 PB  O1B SING N N 14 
+P22 PB  O2B DOUB N N 15 
+P22 PB  O3B SING N N 16 
+P22 O1B H1B SING N N 17 
+P22 O3B H3B SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+P22 SMILES           ACDLabs              10.04 "O=P(OP(=O)(O)OCC)(O)O"                                                 
+P22 SMILES_CANONICAL CACTVS               3.341 "CCO[P@@](O)(=O)O[P](O)(O)=O"                                           
+P22 SMILES           CACTVS               3.341 "CCO[P](O)(=O)O[P](O)(O)=O"                                             
+P22 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCO[P@](=O)(O)OP(=O)(O)O"                                              
+P22 SMILES           "OpenEye OEToolkits" 1.5.0 "CCOP(=O)(O)OP(=O)(O)O"                                                 
+P22 InChI            InChI                1.03  "InChI=1S/C2H8O7P2/c1-2-8-11(6,7)9-10(3,4)5/h2H2,1H3,(H,6,7)(H2,3,4,5)" 
+P22 InChIKey         InChI                1.03  OJDJHGIXNZPZFD-UHFFFAOYSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+P22 "SYSTEMATIC NAME" ACDLabs              10.04 "ethyl trihydrogen diphosphate"      
+P22 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "ethyl phosphono hydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+P22 "Create component"  2004-07-01 RCSB 
+P22 "Modify descriptor" 2011-06-04 RCSB 
+# 

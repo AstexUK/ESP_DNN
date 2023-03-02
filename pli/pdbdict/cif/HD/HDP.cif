@@ -1,0 +1,165 @@
+data_HDP
+# 
+_chem_comp.id                                    HDP 
+_chem_comp.name                                  "[(1S,6S)-6-HYDROXY-4-(5-METHYL-2,4-DIOXO-3,4-DIHYDROPYRIMIDIN-1(2H)-YL)CYCLOHEX-2-EN-1-YL]METHYL DIHYDROGEN PHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C12 H17 N2 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-07-22 
+_chem_comp.pdbx_modified_date                    2010-03-30 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      XTR 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        332.246 
+_chem_comp.one_letter_code                       U 
+_chem_comp.three_letter_code                     HDP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1U01 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+HDP P      P      P 0 1 N N N 180.301 424.082 -24.391 4.437  -0.613 -0.242 P      HDP 1  
+HDP OP1    O1P    O 0 1 N N N 179.827 423.997 -25.790 3.952  -1.991 -0.475 OP1    HDP 2  
+HDP OP2    O2P    O 0 1 N N N 179.390 423.713 -23.282 5.502  -0.219 -1.384 OP2    HDP 3  
+HDP "O5'"  "O5'"  O 0 1 N N N 181.637 423.192 -24.255 3.194  0.409  -0.292 "O5'"  HDP 4  
+HDP C5B    "C5'A" C 0 1 N N N 182.563 423.083 -25.344 2.033  0.263  0.527  C5B    HDP 5  
+HDP "C4'"  "C4'"  C 0 1 N N R 183.899 422.481 -24.907 1.051  1.398  0.229  "C4'"  HDP 6  
+HDP "C1'"  "C1'"  C 0 1 N N S 183.664 421.499 -22.087 -1.778 1.773  -0.613 "C1'"  HDP 7  
+HDP N1     N1     N 0 1 N N N 182.790 421.742 -20.912 -2.573 0.565  -0.373 N1     HDP 8  
+HDP C6     C6     C 0 1 N N N 181.570 422.359 -21.045 -1.947 -0.598 -0.017 C6     HDP 9  
+HDP C2     C2     C 0 1 N N N 183.251 421.325 -19.677 -3.911 0.612  -0.500 C2     HDP 10 
+HDP O2     O2     O 0 1 N N N 184.336 420.768 -19.532 -4.448 1.658  -0.813 O2     HDP 11 
+HDP N3     N3     N 0 1 N N N 182.416 421.565 -18.606 -4.666 -0.482 -0.286 N3     HDP 12 
+HDP C4     C4     C 0 1 N N N 181.178 422.172 -18.656 -4.086 -1.649 0.062  C4     HDP 13 
+HDP O4     O4     O 0 1 N N N 180.517 422.324 -17.636 -4.768 -2.639 0.256  O4     HDP 14 
+HDP C5     C5     C 0 1 N N N 180.774 422.575 -19.979 -2.679 -1.711 0.205  C5     HDP 15 
+HDP C5A    C5A    C 0 1 N N N 179.418 423.251 -20.169 -2.007 -3.001 0.597  C5A    HDP 16 
+HDP "C2'"  "C2'"  C 0 1 N N N 182.847 420.951 -23.257 -1.219 2.284  0.716  "C2'"  HDP 17 
+HDP "C3'"  "C3'"  C 0 1 N N S 183.618 421.023 -24.561 -0.134 1.311  1.193  "C3'"  HDP 18 
+HDP "O3'"  "O3'"  O 0 1 N N N 184.846 420.291 -24.462 0.290  1.671  2.509  "O3'"  HDP 19 
+HDP "C5'"  "C5'"  C 0 1 N N N 184.481 423.238 -23.709 0.574  1.283  -1.189 "C5'"  HDP 20 
+HDP "C6'"  "C6'"  C 0 1 N N N 184.377 422.804 -22.463 -0.656 1.451  -1.556 "C6'"  HDP 21 
+HDP OP3    O3P    O 0 1 N Y N ?       ?       ?       5.143  -0.529 1.202  OP3    HDP 22 
+HDP HOP2   HOP2   H 0 0 N N N 178.550 423.447 -23.637 6.279  -0.794 -1.412 HOP2   HDP 23 
+HDP "H5'1" "H5'1" H 0 0 N N N 182.122 422.435 -26.116 1.556  -0.694 0.314  "H5'1" HDP 24 
+HDP "H5''" "H5'2" H 0 0 N N N 182.748 424.089 -25.749 2.322  0.299  1.577  "H5''" HDP 25 
+HDP "H4'"  "H4'"  H 0 1 N N N 184.650 422.557 -25.707 1.556  2.355  0.361  "H4'"  HDP 26 
+HDP "H1'"  "H1'"  H 0 1 N N N 184.422 420.743 -21.835 -2.412 2.540  -1.058 "H1'"  HDP 27 
+HDP H6     H6     H 0 1 N N N 181.242 422.677 -22.023 -0.872 -0.626 0.087  H6     HDP 28 
+HDP H3     H3     H 0 1 N N N 182.739 421.271 -17.706 -5.629 -0.431 -0.382 H3     HDP 29 
+HDP H51    H51    H 0 1 N N N 178.914 423.342 -19.196 -1.934 -3.057 1.683  H51    HDP 30 
+HDP H52    H52    H 0 1 N N N 179.565 424.252 -20.601 -2.594 -3.843 0.229  H52    HDP 31 
+HDP H53    H53    H 0 1 N N N 178.799 422.646 -20.848 -1.008 -3.037 0.163  H53    HDP 32 
+HDP "H2'"  "H2'"  H 0 1 N N N 182.597 419.900 -23.052 -0.787 3.275  0.575  "H2'"  HDP 33 
+HDP "H2''" "H2''" H 0 0 N N N 181.928 421.547 -23.356 -2.019 2.332  1.456  "H2''" HDP 34 
+HDP "H3'"  "H3'"  H 0 1 N N N 183.012 420.570 -25.360 -0.529 0.295  1.197  "H3'"  HDP 35 
+HDP "HO3'" H3T    H 0 0 N Y N 184.659 419.385 -24.246 -0.413 1.638  3.172  "HO3'" HDP 36 
+HDP "H5'"  "H5'"  H 0 1 N N N 185.000 424.168 -23.889 1.302  1.047  -1.951 "H5'"  HDP 37 
+HDP "H6'"  "H6'"  H 0 1 N N N 184.815 423.397 -21.674 -0.890 1.352  -2.606 "H6'"  HDP 38 
+HDP HOP3   HOP3   H 0 0 N N N 0.304   0.054   0.898   5.486  0.349  1.422  HOP3   HDP 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+HDP P     OP1    DOUB N N 1  
+HDP P     OP2    SING N N 2  
+HDP P     "O5'"  SING N N 3  
+HDP P     OP3    SING N N 4  
+HDP OP2   HOP2   SING N N 5  
+HDP "O5'" C5B    SING N N 6  
+HDP C5B   "C4'"  SING N N 7  
+HDP C5B   "H5'1" SING N N 8  
+HDP C5B   "H5''" SING N N 9  
+HDP "C4'" "C3'"  SING N N 10 
+HDP "C4'" "C5'"  SING N N 11 
+HDP "C4'" "H4'"  SING N N 12 
+HDP "C1'" N1     SING N N 13 
+HDP "C1'" "C2'"  SING N N 14 
+HDP "C1'" "C6'"  SING N N 15 
+HDP "C1'" "H1'"  SING N N 16 
+HDP N1    C6     SING N N 17 
+HDP N1    C2     SING N N 18 
+HDP C6    C5     DOUB N N 19 
+HDP C6    H6     SING N N 20 
+HDP C2    O2     DOUB N N 21 
+HDP C2    N3     SING N N 22 
+HDP N3    C4     SING N N 23 
+HDP N3    H3     SING N N 24 
+HDP C4    O4     DOUB N N 25 
+HDP C4    C5     SING N N 26 
+HDP C5    C5A    SING N N 27 
+HDP C5A   H51    SING N N 28 
+HDP C5A   H52    SING N N 29 
+HDP C5A   H53    SING N N 30 
+HDP "C2'" "C3'"  SING N N 31 
+HDP "C2'" "H2'"  SING N N 32 
+HDP "C2'" "H2''" SING N N 33 
+HDP "C3'" "O3'"  SING N N 34 
+HDP "C3'" "H3'"  SING N N 35 
+HDP "O3'" "HO3'" SING N N 36 
+HDP "C5'" "C6'"  DOUB N N 37 
+HDP "C5'" "H5'"  SING N N 38 
+HDP "C6'" "H6'"  SING N N 39 
+HDP OP3   HOP3   SING N N 40 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+HDP SMILES           ACDLabs              12.01 "O=P(O)(O)OCC2C=CC(N1C=C(C(=O)NC1=O)C)CC2O"                                                                                                               
+HDP InChI            InChI                1.02  "InChI=1S/C12H17N2O7P/c1-7-5-14(12(17)13-11(7)16)9-3-2-8(10(15)4-9)6-21-22(18,19)20/h2-3,5,8-10,15H,4,6H2,1H3,(H,13,16,17)(H2,18,19,20)/t8-,9-,10+/m1/s1" 
+HDP InChIKey         InChI                1.02  PIQIDTLVJACCCC-BBBLOLIVSA-N                                                                                                                               
+HDP SMILES_CANONICAL CACTVS               3.370 "CC1=CN([C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)C=C2)C(=O)NC1=O"                                                                                              
+HDP SMILES           CACTVS               3.370 "CC1=CN([CH]2C[CH](O)[CH](CO[P](O)(O)=O)C=C2)C(=O)NC1=O"                                                                                                  
+HDP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](C=C2)COP(=O)(O)O)O"                                                                                                
+HDP SMILES           "OpenEye OEToolkits" 1.7.0 "CC1=CN(C(=O)NC1=O)C2CC(C(C=C2)COP(=O)(O)O)O"                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+HDP "SYSTEMATIC NAME" ACDLabs              12.01 "[(1R,4S,6S)-6-hydroxy-4-(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)cyclohex-2-en-1-yl]methyl dihydrogen phosphate" 
+HDP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[(1R,4S,6S)-6-hydroxy-4-(5-methyl-2,4-dioxo-pyrimidin-1-yl)cyclohex-2-en-1-yl]methyl dihydrogen phosphate"                
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+HDP "Create component" 2004-07-22 RCSB 
+# 

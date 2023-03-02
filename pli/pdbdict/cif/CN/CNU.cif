@@ -1,0 +1,162 @@
+data_CNU
+# 
+_chem_comp.id                                    CNU 
+_chem_comp.name                                  "5-CYANO-URIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "RNA linking" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H12 N3 O9 P" 
+_chem_comp.mon_nstd_parent_comp_id               U 
+_chem_comp.pdbx_synonyms                         
+;5-cyano-UMP; 5-cyanouridine 5'-(dihydrogen phosphate)
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-12-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        349.191 
+_chem_comp.one_letter_code                       U 
+_chem_comp.three_letter_code                     CNU 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BK0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CNU O1P    O1P    O 0 1 N N N 26.950 -8.123  13.316 -5.636 -0.193 -0.101 O1P    CNU 1  
+CNU P      P      P 0 1 N N N 25.987 -8.452  14.421 -4.549 -1.144 0.224  P      CNU 2  
+CNU O2P    O2P    O 0 1 N N N 24.652 -8.954  13.871 -4.983 -2.044 1.486  O2P    CNU 3  
+CNU O3P    O3P    O 0 1 N Y N 26.504 -9.214  15.609 -4.272 -2.096 -1.044 O3P    CNU 4  
+CNU "O5'"  "O5'"  O 0 1 N N N 25.708 -7.057  15.170 -3.210 -0.325 0.583  "O5'"  CNU 5  
+CNU "C5'"  "C5'"  C 0 1 N N N 24.919 -6.024  14.587 -2.631 0.643  -0.294 "C5'"  CNU 6  
+CNU "C4'"  "C4'"  C 0 1 N N R 24.895 -4.863  15.576 -1.374 1.229  0.352  "C4'"  CNU 7  
+CNU "O4'"  "O4'"  O 0 1 N N N 24.234 -3.756  14.983 -0.325 0.237  0.400  "O4'"  CNU 8  
+CNU "C3'"  "C3'"  C 0 1 N N S 24.143 -5.192  16.857 -0.801 2.367  -0.522 "C3'"  CNU 9  
+CNU "O3'"  "O3'"  O 0 1 N N N 24.749 -4.482  17.965 -1.212 3.639  -0.020 "O3'"  CNU 10 
+CNU "C2'"  "C2'"  C 0 1 N N R 22.736 -4.680  16.546 0.730  2.203  -0.394 "C2'"  CNU 11 
+CNU "O2'"  "O2'"  O 0 1 N N N 22.048 -4.362  17.764 1.311  3.371  0.191  "O2'"  CNU 12 
+CNU "C1'"  "C1'"  C 0 1 N N R 23.004 -3.444  15.701 0.901  0.986  0.542  "C1'"  CNU 13 
+CNU N1     N1     N 0 1 N N N 21.937 -3.113  14.744 2.046  0.175  0.120  N1     CNU 14 
+CNU C2     C2     C 0 1 N N N 21.538 -3.995  13.714 2.037  -0.389 -1.098 C2     CNU 15 
+CNU O2     O2     O 0 1 N N N 22.076 -5.134  13.655 1.077  -0.212 -1.822 O2     CNU 16 
+CNU N3     N3     N 0 1 N N N 20.578 -3.614  12.826 3.057  -1.143 -1.544 N3     CNU 17 
+CNU C4     C4     C 0 1 N N N 20.007 -2.389  12.866 4.139  -1.359 -0.766 C4     CNU 18 
+CNU O4     O4     O 0 1 N N N 19.126 -2.041  12.023 5.065  -2.040 -1.165 O4     CNU 19 
+CNU C6     C6     C 0 1 N N N 21.403 -1.878  14.844 3.097  0.015  0.969  C6     CNU 20 
+CNU C5     C5     C 0 1 N N N 20.429 -1.450  13.928 4.174  -0.752 0.574  C5     CNU 21 
+CNU C52    C52    C 0 1 N N N 19.919 -0.262  14.017 5.296  -0.948 1.442  C52    CNU 22 
+CNU N53    N53    N 0 1 N N N 19.438 0.800   14.072 6.186  -1.104 2.131  N53    CNU 23 
+CNU HO2P   HO2P   H 0 0 N N N 24.034 -9.058  14.585 -5.784 -2.566 1.341  HO2P   CNU 24 
+CNU HO3P   HO3P   H 0 0 N Y N 26.613 -10.129 15.376 -3.570 -2.745 -0.903 HO3P   CNU 25 
+CNU "H5'"  "H5'"  H 0 1 N N N 25.360 -5.702  13.632 -2.367 0.167  -1.238 "H5'"  CNU 26 
+CNU "H5'A" "H5'A" H 0 0 N N N 23.899 -6.382  14.381 -3.350 1.442  -0.479 "H5'A" CNU 27 
+CNU "H4'"  "H4'"  H 0 1 N N N 25.944 -4.644  15.825 -1.598 1.596  1.353  "H4'"  CNU 28 
+CNU "H3'"  "H3'"  H 0 1 N N N 24.151 -6.254  17.143 -1.114 2.247  -1.559 "H3'"  CNU 29 
+CNU "HO3'" "HO3'" H 0 0 N Y N 24.882 -5.081  18.691 -0.880 4.390  -0.531 "HO3'" CNU 30 
+CNU "H2'"  "H2'"  H 0 1 N N N 22.094 -5.408  16.029 1.176  2.004  -1.369 "H2'"  CNU 31 
+CNU "HO2'" "HO2'" H 0 0 N N N 22.676 -4.292  18.474 1.181  4.177  -0.326 "HO2'" CNU 32 
+CNU "H1'"  "H1'"  H 0 1 N N N 23.068 -2.558  16.350 1.028  1.316  1.573  "H1'"  CNU 33 
+CNU HN3    HN3    H 0 1 N N N 20.286 -4.261  12.122 3.015  -1.534 -2.430 HN3    CNU 34 
+CNU H6     H6     H 0 1 N N N 21.727 -1.215  15.633 3.086  0.481  1.943  H6     CNU 35 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CNU O1P   P      DOUB N N 1  
+CNU O2P   P      SING N N 2  
+CNU P     "O5'"  SING N N 3  
+CNU P     O3P    SING N N 4  
+CNU O2P   HO2P   SING N N 5  
+CNU O3P   HO3P   SING N N 6  
+CNU "C5'" "O5'"  SING N N 7  
+CNU "C5'" "C4'"  SING N N 8  
+CNU "C5'" "H5'"  SING N N 9  
+CNU "C5'" "H5'A" SING N N 10 
+CNU "O4'" "C4'"  SING N N 11 
+CNU "C4'" "C3'"  SING N N 12 
+CNU "C4'" "H4'"  SING N N 13 
+CNU "O4'" "C1'"  SING N N 14 
+CNU "C2'" "C3'"  SING N N 15 
+CNU "C3'" "O3'"  SING N N 16 
+CNU "C3'" "H3'"  SING N N 17 
+CNU "O3'" "HO3'" SING N N 18 
+CNU "C1'" "C2'"  SING N N 19 
+CNU "C2'" "O2'"  SING N N 20 
+CNU "C2'" "H2'"  SING N N 21 
+CNU "O2'" "HO2'" SING N N 22 
+CNU N1    "C1'"  SING N N 23 
+CNU "C1'" "H1'"  SING N N 24 
+CNU C2    N1     SING N N 25 
+CNU N1    C6     SING N N 26 
+CNU N3    C2     SING N N 27 
+CNU O2    C2     DOUB N N 28 
+CNU N3    C4     SING N N 29 
+CNU N3    HN3    SING N N 30 
+CNU O4    C4     DOUB N N 31 
+CNU C4    C5     SING N N 32 
+CNU C5    C6     DOUB N N 33 
+CNU C6    H6     SING N N 34 
+CNU C5    C52    SING N N 35 
+CNU C52   N53    TRIP N N 36 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CNU SMILES           ACDLabs              10.04 "N#CC=1C(=O)NC(=O)N(C=1)C2OC(C(O)C2O)COP(=O)(O)O"                                                                                                        
+CNU SMILES_CANONICAL CACTVS               3.341 "O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P](O)(O)=O)N2C=C(C#N)C(=O)NC2=O"                                                                                      
+CNU SMILES           CACTVS               3.341 "O[CH]1[CH](O)[CH](O[CH]1CO[P](O)(O)=O)N2C=C(C#N)C(=O)NC2=O"                                                                                             
+CNU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1=C(C(=O)NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)C#N"                                                                                     
+CNU SMILES           "OpenEye OEToolkits" 1.5.0 "C1=C(C(=O)NC(=O)N1C2C(C(C(O2)COP(=O)(O)O)O)O)C#N"                                                                                                       
+CNU InChI            InChI                1.03  "InChI=1S/C10H12N3O9P/c11-1-4-2-13(10(17)12-8(4)16)9-7(15)6(14)5(22-9)3-21-23(18,19)20/h2,5-7,9,14-15H,3H2,(H,12,16,17)(H2,18,19,20)/t5-,6-,7-,9-/m1/s1" 
+CNU InChIKey         InChI                1.03  BUHKUGLYORHFNN-JXOAFFINSA-N                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CNU "SYSTEMATIC NAME" ACDLabs              10.04 
+;5-cyanouridine 5'-(dihydrogen phosphate)
+;
+CNU "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,4R,5R)-5-(5-cyano-2,4-dioxo-pyrimidin-1-yl)-3,4-dihydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CNU "Create component"  2007-12-14 RCSB 
+CNU "Modify descriptor" 2011-06-04 RCSB 
+# 

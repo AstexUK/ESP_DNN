@@ -1,0 +1,122 @@
+data_BOC
+# 
+_chem_comp.id                                    BOC 
+_chem_comp.name                                  "TERT-BUTYL HYDROGEN CARBONATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H10 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         OTB 
+_chem_comp.formula_weight                        118.131 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     BOC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye OEToolkits" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1HPG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+BOC O1  O1  O 0 1 N N N 35.130 5.244 -4.399 -1.956 -1.184 2.528 O1  BOC 1  
+BOC C   C   C 0 1 N N N 34.199 5.065 -3.588 -1.138 -1.429 3.370 C   BOC 2  
+BOC O2  O2  O 0 1 N N N 33.395 3.927 -3.859 -0.108 -0.445 3.333 O2  BOC 3  
+BOC CT  CT  C 0 1 N N N 32.733 3.710 -5.074 0.561  -0.399 2.072 CT  BOC 4  
+BOC C1  C1  C 0 1 N N N 32.400 4.969 -5.893 -0.464 -0.065 0.989 C1  BOC 5  
+BOC C2  C2  C 0 1 N N N 33.637 2.959 -6.064 1.627  0.691  2.157 C2  BOC 6  
+BOC C3  C3  C 0 1 N N N 31.534 2.930 -4.627 1.204  -1.760 1.812 C3  BOC 7  
+BOC O3  O3  O 0 1 N Y N ?      ?     ?      -1.768 -1.499 4.644 O3  BOC 8  
+BOC H11 1H1 H 0 1 N N N 31.873 4.796 -6.860 -0.961 0.889  1.204 H11 BOC 9  
+BOC H12 2H1 H 0 1 N N N 31.818 5.685 -5.267 0.000  0.000  0.000 H12 BOC 10 
+BOC H13 3H1 H 0 1 N N N 33.327 5.563 -6.067 -1.255 -0.823 0.952 H13 BOC 11 
+BOC H21 1H2 H 0 1 N N N 33.110 2.786 -7.031 2.338  0.480  2.964 H21 BOC 12 
+BOC H22 2H2 H 0 1 N N N 34.609 3.483 -6.212 1.175  1.662  2.390 H22 BOC 13 
+BOC H23 3H2 H 0 1 N N N 34.022 2.007 -5.629 2.185  0.784  1.219 H23 BOC 14 
+BOC H31 1H3 H 0 1 N N N 31.007 2.757 -5.594 0.446  -2.552 1.787 H31 BOC 15 
+BOC H32 2H3 H 0 1 N N N 31.757 2.010 -4.036 1.749  -1.774 0.863 H32 BOC 16 
+BOC H33 3H3 H 0 1 N N N 30.921 3.414 -3.831 1.899  -2.023 2.617 H33 BOC 17 
+BOC H3  H3  H 0 1 N Y N ?      ?     ?      -2.724 -1.327 4.509 H3  BOC 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+BOC O1 C   DOUB N N 1  
+BOC C  O2  SING N N 2  
+BOC O2 CT  SING N N 3  
+BOC CT C1  SING N N 4  
+BOC CT C2  SING N N 5  
+BOC CT C3  SING N N 6  
+BOC O3 C   SING N N 7  
+BOC C1 H11 SING N N 8  
+BOC C1 H12 SING N N 9  
+BOC C1 H13 SING N N 10 
+BOC C2 H21 SING N N 11 
+BOC C2 H22 SING N N 12 
+BOC C2 H23 SING N N 13 
+BOC C3 H31 SING N N 14 
+BOC C3 H32 SING N N 15 
+BOC C3 H33 SING N N 16 
+BOC O3 H3  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+BOC SMILES           ACDLabs              10.04 "O=C(O)OC(C)(C)C"                                  
+BOC SMILES_CANONICAL CACTVS               3.341 "CC(C)(C)OC(O)=O"                                  
+BOC SMILES           CACTVS               3.341 "CC(C)(C)OC(O)=O"                                  
+BOC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(C)(C)OC(=O)O"                                  
+BOC SMILES           "OpenEye OEToolkits" 1.5.0 "CC(C)(C)OC(=O)O"                                  
+BOC InChI            InChI                1.03  "InChI=1S/C5H10O3/c1-5(2,3)8-4(6)7/h1-3H3,(H,6,7)" 
+BOC InChIKey         InChI                1.03  XKXIQBVKMABYQJ-UHFFFAOYSA-N                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+BOC "SYSTEMATIC NAME" ACDLabs              10.04 "tert-butyl hydrogen carbonate" 
+BOC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "tert-butyl hydrogen carbonate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+BOC "Create component"  1999-07-08 RCSB 
+BOC "Modify descriptor" 2011-06-04 RCSB 
+# 

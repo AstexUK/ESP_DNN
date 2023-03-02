@@ -1,0 +1,143 @@
+data_QPA
+# 
+_chem_comp.id                                    QPA 
+_chem_comp.name                                  "S-[(1S)-1-carboxy-1-(phosphonooxy)ethyl]-L-cysteine" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H12 N O8 P S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-07-12 
+_chem_comp.pdbx_modified_date                    2012-03-02 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        289.200 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     QPA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3SU9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+QPA C    C    C 0 1 N N N -73.662 -3.050 120.137 4.280  -0.640 0.168  C    QPA 1  
+QPA N    N    N 0 1 N N N -73.955 -5.400 119.856 3.402  0.774  -1.603 N    QPA 2  
+QPA O    O    O 0 1 N N N -73.260 -3.212 121.282 4.662  -1.384 -0.704 O    QPA 3  
+QPA P2   P2   P 0 1 N N N -79.327 -3.002 116.631 -2.411 -1.339 -0.119 P2   QPA 4  
+QPA C8   C8   C 0 1 N N S -77.366 -1.960 118.302 -0.842 0.780  0.317  C8   QPA 5  
+QPA C9   C9   C 0 1 N N N -77.927 -0.498 118.139 -0.855 0.573  1.833  C9   QPA 6  
+QPA O9   O9   O 0 1 N N N -76.231 -3.263 116.474 -2.805 1.414  -0.822 O9   QPA 7  
+QPA CA   CA   C 0 1 N N R -74.568 -4.116 119.520 3.335  0.487  -0.164 CA   QPA 8  
+QPA CB   CB   C 0 1 N N N -76.026 -3.981 120.019 1.908  0.082  0.210  CB   QPA 9  
+QPA SG   SG   S 0 1 N N N -76.679 -2.294 119.960 0.771  1.438  -0.189 SG   QPA 10 
+QPA C10  C10  C 0 1 N N N -76.212 -2.183 117.315 -1.925 1.755  -0.066 C10  QPA 11 
+QPA O10  O10  O 0 1 N N N -75.165 -1.346 117.276 -1.913 3.001  0.431  O10  QPA 12 
+QPA O11  O11  O 0 1 N N N -80.832 -2.380 116.931 -2.481 -1.843 1.409  O11  QPA 13 
+QPA O12  O12  O 0 1 N N N -79.498 -4.485 116.227 -2.389 -2.612 -1.103 O12  QPA 14 
+QPA O13  O13  O 0 1 N N N -78.582 -2.167 115.374 -3.595 -0.504 -0.418 O13  QPA 15 
+QPA O14  O14  O 0 1 N N N -78.325 -3.028 118.037 -1.073 -0.470 -0.336 O14  QPA 16 
+QPA OXT  OXT  O 0 1 N Y N -73.339 -1.990 119.404 4.693  -0.819 1.432  OXT  QPA 17 
+QPA HN   HN   H 0 1 N Y N -74.507 -6.143 119.477 4.318  1.105  -1.864 HN   QPA 18 
+QPA HNA  HNA  H 0 1 N N N -73.033 -5.440 119.471 3.142  -0.036 -2.146 HNA  QPA 19 
+QPA HOXT HOXT H 0 0 N Y N -72.772 -1.418 119.907 5.295  -1.558 1.597  HOXT QPA 20 
+QPA H9   H9   H 0 1 N N N -78.754 -0.341 118.847 -0.679 1.527  2.332  H9   QPA 21 
+QPA H9A  H9A  H 0 1 N N N -77.126 0.227  118.344 -1.825 0.178  2.138  H9A  QPA 22 
+QPA H9B  H9B  H 0 1 N N N -78.293 -0.359 117.111 -0.072 -0.132 2.111  H9B  QPA 23 
+QPA HA   HA   H 0 1 N N N -74.647 -4.009 118.428 3.620  1.377  0.398  HA   QPA 24 
+QPA HB   HB   H 0 1 N N N -76.662 -4.612 119.381 1.624  -0.808 -0.351 HB   QPA 25 
+QPA HBA  HBA  H 0 1 N N N -76.058 -4.320 121.065 1.859  -0.131 1.278  HBA  QPA 26 
+QPA HO10 HO10 H 0 0 N N N -74.543 -1.646 116.623 -2.628 3.591  0.156  HO10 QPA 27 
+QPA HO11 HO11 H 0 0 N N N -81.002 -1.660 116.335 -1.735 -2.397 1.675  HO11 QPA 28 
+QPA HO12 HO12 H 0 0 N N N -79.148 -4.618 115.354 -3.167 -3.182 -1.027 HO12 QPA 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+QPA OXT C    SING N N 1  
+QPA CA  C    SING N N 2  
+QPA C   O    DOUB N N 3  
+QPA CA  N    SING N N 4  
+QPA N   HN   SING N N 5  
+QPA N   HNA  SING N N 6  
+QPA OXT HOXT SING N N 7  
+QPA O13 P2   DOUB N N 8  
+QPA O12 P2   SING N N 9  
+QPA P2  O11  SING N N 10 
+QPA P2  O14  SING N N 11 
+QPA C10 C8   SING N N 12 
+QPA O14 C8   SING N N 13 
+QPA C9  C8   SING N N 14 
+QPA C8  SG   SING N N 15 
+QPA C9  H9   SING N N 16 
+QPA C9  H9A  SING N N 17 
+QPA C9  H9B  SING N N 18 
+QPA O9  C10  DOUB N N 19 
+QPA CA  CB   SING N N 20 
+QPA CA  HA   SING N N 21 
+QPA SG  CB   SING N N 22 
+QPA CB  HB   SING N N 23 
+QPA CB  HBA  SING N N 24 
+QPA O10 C10  SING N N 25 
+QPA O10 HO10 SING N N 26 
+QPA O11 HO11 SING N N 27 
+QPA O12 HO12 SING N N 28 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+QPA SMILES           ACDLabs              12.01 "O=C(O)C(OP(=O)(O)O)(SCC(C(=O)O)N)C"                                                                                      
+QPA InChI            InChI                1.03  "InChI=1S/C6H12NO8PS/c1-6(5(10)11,15-16(12,13)14)17-2-3(7)4(8)9/h3H,2,7H2,1H3,(H,8,9)(H,10,11)(H2,12,13,14)/t3-,6-/m0/s1" 
+QPA InChIKey         InChI                1.03  SOTXSLHXKDYAQY-DZSWIPIPSA-N                                                                                               
+QPA SMILES_CANONICAL CACTVS               3.370 "C[C@](O[P](O)(O)=O)(SC[C@H](N)C(O)=O)C(O)=O"                                                                             
+QPA SMILES           CACTVS               3.370 "C[C](O[P](O)(O)=O)(SC[CH](N)C(O)=O)C(O)=O"                                                                               
+QPA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "C[C@](C(=O)O)(OP(=O)(O)O)SC[C@@H](C(=O)O)N"                                                                              
+QPA SMILES           "OpenEye OEToolkits" 1.7.2 "CC(C(=O)O)(OP(=O)(O)O)SCC(C(=O)O)N"                                                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+QPA "SYSTEMATIC NAME" ACDLabs              12.01 "S-[(1S)-1-carboxy-1-(phosphonooxy)ethyl]-L-cysteine"                                            
+QPA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.2 "(2S)-2-[(2R)-2-azanyl-3-oxidanyl-3-oxidanylidene-propyl]sulfanyl-2-phosphonooxy-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+QPA "Create component" 2011-07-12 RCSB 
+# 

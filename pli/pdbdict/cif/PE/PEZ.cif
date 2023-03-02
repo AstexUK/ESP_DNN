@@ -1,0 +1,126 @@
+data_PEZ
+# 
+_chem_comp.id                                    PEZ 
+_chem_comp.name                                  "2-(PHOSPHONOOXY)BUTANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H9 O6 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-05-19 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.084 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PEZ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PCK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PEZ O1    O1    O 0 1 N N N 33.078 52.273 23.325 -0.544 -0.705 -3.110 O1    PEZ 1  
+PEZ C1    C1    C 0 1 N N N 32.295 51.729 22.453 -0.658 0.054  -2.009 C1    PEZ 2  
+PEZ "O2'" "O2'" O 0 1 N N N 31.110 51.847 22.509 -1.564 0.847  -1.914 "O2'" PEZ 3  
+PEZ C2    C2    C 0 1 N N R 33.058 50.924 21.368 0.344  -0.082 -0.892 C2    PEZ 4  
+PEZ O2    O2    O 0 1 N N N 32.081 50.392 20.490 0.011  0.824  0.160  O2    PEZ 5  
+PEZ P     P     P 0 1 N N N 32.189 49.444 19.215 -0.250 -0.064 1.476  P     PEZ 6  
+PEZ O1P   O1P   O 0 1 N N N 32.673 48.157 19.695 0.972  -0.827 1.807  O1P   PEZ 7  
+PEZ O2P   O2P   O 0 1 N N N 32.875 50.240 18.143 -0.632 0.899  2.707  O2P   PEZ 8  
+PEZ O3P   O3P   O 0 1 N N N 30.696 49.288 18.787 -1.463 -1.087 1.199  O3P   PEZ 9  
+PEZ C3    C3    C 0 1 N N N 34.390 50.700 21.255 1.743  0.239  -1.420 C3    PEZ 10 
+PEZ C4    C4    C 0 1 N N N 35.406 50.040 20.439 2.761  0.100  -0.286 C4    PEZ 11 
+PEZ HO1   HO1   H 0 1 N N N 34.022 52.179 23.280 -1.187 -0.617 -3.826 HO1   PEZ 12 
+PEZ H2    H2    H 0 1 N N N 34.166 51.045 21.388 0.325  -1.103 -0.510 H2    PEZ 13 
+PEZ H2P   H2P   H 0 1 N N N 32.939 49.674 17.382 -0.781 0.328  3.473  H2P   PEZ 14 
+PEZ H3P   H3P   H 0 1 N N N 30.760 48.722 18.026 -2.238 -0.550 0.987  H3P   PEZ 15 
+PEZ H31   1H3   H 0 1 N N N 34.778 51.745 21.265 1.997  -0.453 -2.223 H31   PEZ 16 
+PEZ H32   2H3   H 0 1 N N N 34.613 50.265 22.257 1.761  1.260  -1.801 H32   PEZ 17 
+PEZ H41   1H4   H 0 1 N N N 36.501 49.855 20.346 3.758  0.329  -0.662 H41   PEZ 18 
+PEZ H42   2H4   H 0 1 N N N 35.017 48.994 20.428 2.507  0.792  0.516  H42   PEZ 19 
+PEZ H43   3H4   H 0 1 N N N 35.182 50.474 19.436 2.742  -0.920 0.095  H43   PEZ 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PEZ O1  C1    SING N N 1  
+PEZ O1  HO1   SING N N 2  
+PEZ C1  "O2'" DOUB N N 3  
+PEZ C1  C2    SING N N 4  
+PEZ C2  O2    SING N N 5  
+PEZ C2  C3    SING N N 6  
+PEZ C2  H2    SING N N 7  
+PEZ O2  P     SING N N 8  
+PEZ P   O1P   DOUB N N 9  
+PEZ P   O2P   SING N N 10 
+PEZ P   O3P   SING N N 11 
+PEZ O2P H2P   SING N N 12 
+PEZ O3P H3P   SING N N 13 
+PEZ C3  C4    SING N N 14 
+PEZ C3  H31   SING N N 15 
+PEZ C3  H32   SING N N 16 
+PEZ C4  H41   SING N N 17 
+PEZ C4  H42   SING N N 18 
+PEZ C4  H43   SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PEZ SMILES           ACDLabs              10.04 "O=P(O)(O)OC(C(=O)O)CC"                                                             
+PEZ SMILES_CANONICAL CACTVS               3.341 "CC[C@@H](O[P](O)(O)=O)C(O)=O"                                                      
+PEZ SMILES           CACTVS               3.341 "CC[CH](O[P](O)(O)=O)C(O)=O"                                                        
+PEZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCC(C(=O)O)OP(=O)(O)O"                                                             
+PEZ SMILES           "OpenEye OEToolkits" 1.5.0 "CCC(C(=O)O)OP(=O)(O)O"                                                             
+PEZ InChI            InChI                1.03  "InChI=1S/C4H9O6P/c1-2-3(4(5)6)10-11(7,8)9/h3H,2H2,1H3,(H,5,6)(H2,7,8,9)/t3-/m1/s1" 
+PEZ InChIKey         InChI                1.03  OETAGSCBSKODFW-GSVOUGTGSA-N                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PEZ "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2-(phosphonooxy)butanoic acid" 
+PEZ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-phosphonooxybutanoic acid"        
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PEZ "Create component"  2003-05-19 RCSB 
+PEZ "Modify descriptor" 2011-06-04 RCSB 
+# 

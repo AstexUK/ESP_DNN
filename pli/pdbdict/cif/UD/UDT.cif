@@ -1,0 +1,158 @@
+data_UDT
+# 
+_chem_comp.id                                    UDT 
+_chem_comp.name                                  "O-DECYL HYDROGEN THIOCARBONATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H22 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-07-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        218.356 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UDT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UDT C11  C11  C 0 1 N N N 18.576 46.883 1.626  8.562  -0.420 0.001  C11  UDT 1  
+UDT C10  C10  C 0 1 N N N 17.794 47.969 2.379  7.312  0.462  -0.002 C10  UDT 2  
+UDT C9   C9   C 0 1 N N N 18.398 48.233 3.767  6.063  -0.423 0.001  C9   UDT 3  
+UDT C8   C8   C 0 1 N N N 17.325 48.684 4.775  4.813  0.459  -0.002 C8   UDT 4  
+UDT C7   C7   C 0 1 N N N 17.870 48.715 6.217  3.565  -0.426 0.001  C7   UDT 5  
+UDT C6   C6   C 0 1 N N N 17.750 47.355 6.939  2.315  0.456  -0.002 C6   UDT 6  
+UDT C5   C5   C 0 1 N N N 17.460 47.560 8.432  1.066  -0.428 0.001  C5   UDT 7  
+UDT C4   C4   C 0 1 N N N 17.829 46.338 9.278  -0.184 0.454  -0.002 C4   UDT 8  
+UDT C3   C3   C 0 1 N N N 17.451 46.582 10.748 -1.432 -0.431 0.002  C3   UDT 9  
+UDT C2   C2   C 0 1 N N N 18.063 45.539 11.696 -2.682 0.451  -0.002 C2   UDT 10 
+UDT O2   O2   O 0 1 N N N 17.036 44.968 12.562 -3.867 -0.388 0.001  O2   UDT 11 
+UDT C1   C1   C 0 1 N N N 17.460 44.605 13.817 -5.060 0.237  -0.001 C1   UDT 12 
+UDT O1   O1   O 0 1 N N N 16.729 44.687 14.806 -5.109 1.452  -0.005 O1   UDT 13 
+UDT S1   S1   S 0 1 N N N 19.053 44.005 14.056 -6.549 -0.705 0.002  S1   UDT 14 
+UDT H111 1H11 H 0 0 N N N 18.763 47.214 0.594  8.563  -1.046 0.893  H111 UDT 15 
+UDT H112 2H11 H 0 0 N N N 19.536 46.704 2.133  8.563  -1.053 -0.886 H112 UDT 16 
+UDT H113 3H11 H 0 0 N N N 17.989 45.953 1.612  9.451  0.210  -0.001 H113 UDT 17 
+UDT H101 1H10 H 0 0 N N N 17.827 48.900 1.794  7.311  1.094  0.886  H101 UDT 18 
+UDT H102 2H10 H 0 0 N N N 16.758 47.623 2.511  7.311  1.088  -0.894 H102 UDT 19 
+UDT H91  1H9  H 0 1 N N N 18.861 47.305 4.134  6.064  -1.055 -0.886 H91  UDT 20 
+UDT H92  2H9  H 0 1 N N N 19.143 49.037 3.672  6.064  -1.049 0.893  H92  UDT 21 
+UDT H81  1H8  H 0 1 N N N 16.989 49.696 4.503  4.813  1.092  0.886  H81  UDT 22 
+UDT H82  2H8  H 0 1 N N N 16.495 47.963 4.738  4.813  1.086  -0.894 H82  UDT 23 
+UDT H71  1H7  H 0 1 N N N 18.934 48.992 6.178  3.566  -1.058 -0.886 H71  UDT 24 
+UDT H72  2H7  H 0 1 N N N 17.269 49.443 6.782  3.566  -1.052 0.893  H72  UDT 25 
+UDT H61  1H6  H 0 1 N N N 16.928 46.780 6.488  2.314  1.089  0.886  H61  UDT 26 
+UDT H62  2H6  H 0 1 N N N 18.700 46.811 6.833  2.314  1.083  -0.894 H62  UDT 27 
+UDT H51  1H5  H 0 1 N N N 18.050 48.419 8.786  1.067  -1.060 -0.886 H51  UDT 28 
+UDT H52  2H5  H 0 1 N N N 16.379 47.729 8.542  1.067  -1.054 0.893  H52  UDT 29 
+UDT H41  1H4  H 0 1 N N N 17.284 45.459 8.904  -0.184 1.086  0.886  H41  UDT 30 
+UDT H42  2H4  H 0 1 N N N 18.913 46.164 9.208  -0.184 1.080  -0.894 H42  UDT 31 
+UDT H31  1H3  H 0 1 N N N 17.818 47.577 11.041 -1.431 -1.063 -0.886 H31  UDT 32 
+UDT H32  2H3  H 0 1 N N N 16.357 46.507 10.829 -1.431 -1.057 0.893  H32  UDT 33 
+UDT H21  1H2  H 0 1 N N N 18.519 44.735 11.100 -2.683 1.084  0.886  H21  UDT 34 
+UDT H22  2H2  H 0 1 N N N 18.823 46.030 12.322 -2.683 1.078  -0.894 H22  UDT 35 
+UDT HS1  HS1  H 0 1 N N N 19.637 43.854 12.904 -7.498 0.338  -0.001 HS1  UDT 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UDT C11 C10  SING N N 1  
+UDT C11 H111 SING N N 2  
+UDT C11 H112 SING N N 3  
+UDT C11 H113 SING N N 4  
+UDT C10 C9   SING N N 5  
+UDT C10 H101 SING N N 6  
+UDT C10 H102 SING N N 7  
+UDT C9  C8   SING N N 8  
+UDT C9  H91  SING N N 9  
+UDT C9  H92  SING N N 10 
+UDT C8  C7   SING N N 11 
+UDT C8  H81  SING N N 12 
+UDT C8  H82  SING N N 13 
+UDT C7  C6   SING N N 14 
+UDT C7  H71  SING N N 15 
+UDT C7  H72  SING N N 16 
+UDT C6  C5   SING N N 17 
+UDT C6  H61  SING N N 18 
+UDT C6  H62  SING N N 19 
+UDT C5  C4   SING N N 20 
+UDT C5  H51  SING N N 21 
+UDT C5  H52  SING N N 22 
+UDT C4  C3   SING N N 23 
+UDT C4  H41  SING N N 24 
+UDT C4  H42  SING N N 25 
+UDT C3  C2   SING N N 26 
+UDT C3  H31  SING N N 27 
+UDT C3  H32  SING N N 28 
+UDT C2  O2   SING N N 29 
+UDT C2  H21  SING N N 30 
+UDT C2  H22  SING N N 31 
+UDT O2  C1   SING N N 32 
+UDT C1  S1   SING N N 33 
+UDT C1  O1   DOUB N N 34 
+UDT S1  HS1  SING N N 35 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UDT SMILES           ACDLabs              10.04 "O=C(OCCCCCCCCCC)S"                                                          
+UDT SMILES_CANONICAL CACTVS               3.341 "CCCCCCCCCCOC(S)=O"                                                          
+UDT SMILES           CACTVS               3.341 "CCCCCCCCCCOC(S)=O"                                                          
+UDT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCCCCCCCOC(=O)S"                                                          
+UDT SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCCCCCCOC(=O)S"                                                          
+UDT InChI            InChI                1.03  "InChI=1S/C11H22O2S/c1-2-3-4-5-6-7-8-9-10-13-11(12)14/h2-10H2,1H3,(H,12,14)" 
+UDT InChIKey         InChI                1.03  RFWUWWWJCLPVPT-UHFFFAOYSA-N                                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UDT "SYSTEMATIC NAME" ACDLabs              10.04 "O-decyl hydrogen thiocarbonate" 
+UDT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "decoxymethanethioic S-acid"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UDT "Create component"  2007-07-26 RCSB 
+UDT "Modify descriptor" 2011-06-04 RCSB 
+# 

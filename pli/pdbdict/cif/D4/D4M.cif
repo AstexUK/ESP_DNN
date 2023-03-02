@@ -1,0 +1,156 @@
+data_D4M
+# 
+_chem_comp.id                                    D4M 
+_chem_comp.name                                  "[(5R)-5-(5-METHYL-2,4-DIOXO-3,4-DIHYDROPYRIMIDIN-1(2H)-YL)-2,5-DIHYDROFURAN-2-YL]METHYL DIHYDROGEN PHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H13 N2 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         
+;2',3'-DIDEOXY-2',3-DIDEHYDROTHYMIDINE 5'-MONOPHOSPHATE, 2',3'-DEHYDRO-2',3'-DEOXY-THYMIDINE 5'-MONOPHOSPHATE
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-05-10 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        304.193 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     D4M 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1Z4Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+D4M OP2    O2P  O 0 1 N N N 17.153 38.848 28.332 -3.538 -1.876 -0.640 OP2    D4M 1  
+D4M P      P    P 0 1 N N N 16.496 40.073 29.009 -4.141 -0.650 0.212  P      D4M 2  
+D4M OP1    O1P  O 0 1 N N N 17.643 41.181 29.184 -5.013 0.172  -0.657 OP1    D4M 3  
+D4M OP3    O3P  O 0 1 N Y N 15.868 39.871 30.400 -5.000 -1.224 1.446  OP3    D4M 4  
+D4M "O5'"  O5*  O 0 1 N N N 15.370 40.574 27.944 -2.935 0.257  0.774  "O5'"  D4M 5  
+D4M "C5'"  C5*  C 0 1 N N N 14.189 41.270 28.442 -2.285 0.830  -0.363 "C5'"  D4M 6  
+D4M "C4'"  C4*  C 0 1 N N S 13.921 42.352 27.407 -1.122 1.709  0.104  "C4'"  D4M 7  
+D4M "O4'"  O4*  O 0 1 N N N 13.480 41.639 26.176 -0.099 0.897  0.712  "O4'"  D4M 8  
+D4M "C3'"  C3*  C 0 1 N N N 12.783 43.259 27.861 -0.464 2.379  -1.080 "C3'"  D4M 9  
+D4M "C2'"  C2*  C 0 1 N N N 11.829 43.224 26.934 0.839  2.302  -0.929 "C2'"  D4M 10 
+D4M "C1'"  C1*  C 0 1 N N R 12.207 42.268 25.783 1.125  1.574  0.365  "C1'"  D4M 11 
+D4M N1     N1   N 0 1 N N N 11.163 41.234 25.544 2.203  0.601  0.170  N1     D4M 12 
+D4M C6     C6   C 0 1 N N N 10.703 40.403 26.598 3.384  0.755  0.843  C6     D4M 13 
+D4M C5     C5   C 0 1 N N N 9.728  39.435 26.360 4.377  -0.142 0.664  C5     D4M 14 
+D4M C5M    C5M  C 0 1 N N N 9.305  38.526 27.522 5.686  0.011  1.396  C5M    D4M 15 
+D4M C4     C4   C 0 1 N N N 9.164  39.281 25.070 4.176  -1.225 -0.225 C4     D4M 16 
+D4M O4     O4   O 0 1 N N N 8.302  38.430 24.755 5.057  -2.046 -0.404 O4     D4M 17 
+D4M N3     N3   N 0 1 N N N 9.602  40.108 24.066 2.995  -1.343 -0.866 N3     D4M 18 
+D4M C2     C2   C 0 1 N N N 10.582 41.062 24.249 2.022  -0.435 -0.669 C2     D4M 19 
+D4M O2     O2   O 0 1 N N N 10.893 41.742 23.269 0.964  -0.553 -1.257 O2     D4M 20 
+D4M HOP2   2HOP H 0 0 N N N 16.473 38.191 28.228 -2.977 -2.385 -0.038 HOP2   D4M 21 
+D4M HOP3   3HOP H 0 0 N N N 15.464 40.623 30.816 -5.710 -1.760 1.066  HOP3   D4M 22 
+D4M "H5'"  1H5* H 0 1 N N N 13.317 40.603 28.640 -2.997 1.437  -0.921 "H5'"  D4M 23 
+D4M "H5''" 2H5* H 0 0 N N N 14.291 41.652 29.484 -1.904 0.034  -1.003 "H5''" D4M 24 
+D4M "H4'"  H4*  H 0 1 N N N 14.830 42.976 27.247 -1.478 2.458  0.811  "H4'"  D4M 25 
+D4M "H3'"  H3*  H 0 1 N N N 12.662 43.876 28.766 -0.977 2.842  -1.910 "H3'"  D4M 26 
+D4M "H2'"  H2*  H 0 1 N N N 10.930 43.845 27.085 1.579  2.691  -1.613 "H2'"  D4M 27 
+D4M "H1'"  H1*  H 0 1 N N N 12.299 42.832 24.825 1.396  2.285  1.145  "H1'"  D4M 28 
+D4M H6     H6   H 0 1 N N N 11.109 40.511 27.617 3.521  1.589  1.515  H6     D4M 29 
+D4M H71    1H5M H 0 1 N N N 8.525  37.751 27.331 5.633  -0.515 2.349  H71    D4M 30 
+D4M H72    2H5M H 0 1 N N N 10.210 38.032 27.945 6.491  -0.409 0.793  H72    D4M 31 
+D4M H73    3H5M H 0 1 N N N 8.985  39.160 28.381 5.880  1.069  1.576  H73    D4M 32 
+D4M H3     H3   H 0 1 N N N 9.180  40.009 23.142 2.849  -2.084 -1.475 H3     D4M 33 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+D4M OP2   P      SING N N 1  
+D4M OP2   HOP2   SING N N 2  
+D4M P     OP1    DOUB N N 3  
+D4M P     OP3    SING N N 4  
+D4M P     "O5'"  SING N N 5  
+D4M OP3   HOP3   SING N N 6  
+D4M "O5'" "C5'"  SING N N 7  
+D4M "C5'" "C4'"  SING N N 8  
+D4M "C5'" "H5'"  SING N N 9  
+D4M "C5'" "H5''" SING N N 10 
+D4M "C4'" "O4'"  SING N N 11 
+D4M "C4'" "C3'"  SING N N 12 
+D4M "C4'" "H4'"  SING N N 13 
+D4M "O4'" "C1'"  SING N N 14 
+D4M "C3'" "C2'"  DOUB N N 15 
+D4M "C3'" "H3'"  SING N N 16 
+D4M "C2'" "C1'"  SING N N 17 
+D4M "C2'" "H2'"  SING N N 18 
+D4M "C1'" N1     SING N N 19 
+D4M "C1'" "H1'"  SING N N 20 
+D4M N1    C6     SING N N 21 
+D4M N1    C2     SING N N 22 
+D4M C6    C5     DOUB N N 23 
+D4M C6    H6     SING N N 24 
+D4M C5    C5M    SING N N 25 
+D4M C5    C4     SING N N 26 
+D4M C5M   H71    SING N N 27 
+D4M C5M   H72    SING N N 28 
+D4M C5M   H73    SING N N 29 
+D4M C4    O4     DOUB N N 30 
+D4M C4    N3     SING N N 31 
+D4M N3    C2     SING N N 32 
+D4M N3    H3     SING N N 33 
+D4M C2    O2     DOUB N N 34 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+D4M SMILES           ACDLabs              10.04 "O=C1NC(=O)N(C=C1C)C2OC(C=C2)COP(=O)(O)O"                                                                                               
+D4M SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@@H]2O[C@H](CO[P](O)(O)=O)C=C2)C(=O)NC1=O"                                                                                    
+D4M SMILES           CACTVS               3.341 "CC1=CN([CH]2O[CH](CO[P](O)(O)=O)C=C2)C(=O)NC1=O"                                                                                       
+D4M SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)[C@H]2C=C[C@H](O2)COP(=O)(O)O"                                                                                       
+D4M SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)NC1=O)C2C=CC(O2)COP(=O)(O)O"                                                                                               
+D4M InChI            InChI                1.03  "InChI=1S/C10H13N2O7P/c1-6-4-12(10(14)11-9(6)13)8-3-2-7(19-8)5-18-20(15,16)17/h2-4,7-8H,5H2,1H3,(H,11,13,14)(H2,15,16,17)/t7-,8+/m0/s1" 
+D4M InChIKey         InChI                1.03  XLPGURCDSRIXFL-JGVFFNPUSA-N                                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+D4M "SYSTEMATIC NAME" ACDLabs              10.04 "[(2S,5R)-5-(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-2,5-dihydrofuran-2-yl]methyl dihydrogen phosphate" 
+D4M "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2S,5R)-5-(5-methyl-2,4-dioxo-pyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methyl dihydrogen phosphate"                
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+D4M "Create component"  2005-05-10 RCSB 
+D4M "Modify descriptor" 2011-06-04 RCSB 
+# 

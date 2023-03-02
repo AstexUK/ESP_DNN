@@ -1,0 +1,105 @@
+data_NCP
+# 
+_chem_comp.id                                    NCP 
+_chem_comp.name                                  CIS-DIAMINODICHLOROPLATINUM 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Cl2 H4 N2 Pt" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-07-28 
+_chem_comp.pdbx_modified_date                    2014-07-25 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        298.029 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NCP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NCP PT   PT   PT 0 0 N N N 20.477 21.172 -0.255 -0.000 -0.194 0.000  PT   NCP 1 
+NCP CL1  CL1  CL 0 0 N N N 19.977 23.281 1.082  -1.927 1.169  0.032  CL1  NCP 2 
+NCP CL2  CL2  CL 0 0 N N N 22.289 20.490 0.958  1.927  1.169  -0.032 CL2  NCP 3 
+NCP N1   N1   N  0 1 N N N ?      ?      ?      0.028  -1.401 1.706  N1   NCP 4 
+NCP N2   N2   N  0 1 N N N ?      ?      ?      -0.028 -1.401 -1.706 N2   NCP 5 
+NCP HN11 HN11 H  0 0 N N N ?      ?      ?      0.809  -2.039 1.685  HN11 NCP 6 
+NCP HN12 HN12 H  0 0 N N N ?      ?      ?      0.042  -0.840 2.545  HN12 NCP 7 
+NCP HN21 HN21 H  0 0 N N N ?      ?      ?      -0.809 -2.039 -1.685 HN21 NCP 8 
+NCP HN22 HN22 H  0 0 N N N ?      ?      ?      -0.042 -0.840 -2.545 HN22 NCP 9 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NCP PT CL1  SING N N 1 
+NCP PT CL2  SING N N 2 
+NCP PT N1   SING N N 3 
+NCP PT N2   SING N N 4 
+NCP N1 HN11 SING N N 5 
+NCP N1 HN12 SING N N 6 
+NCP N2 HN21 SING N N 7 
+NCP N2 HN22 SING N N 8 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NCP SMILES           ACDLabs              12.01 "Cl[Pt](Cl)(N)N"                                  
+NCP InChI            InChI                1.03  InChI=1S/2ClH.2H2N.Pt/h2*1H;2*1H2;/q;;2*-1;+4/p-2 
+NCP InChIKey         InChI                1.03  DQLATGHUWYMOKM-UHFFFAOYSA-L                       
+NCP SMILES_CANONICAL CACTVS               3.385 "N[Pt](N)(Cl)Cl"                                  
+NCP SMILES           CACTVS               3.385 "N[Pt](N)(Cl)Cl"                                  
+NCP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "N[Pt](N)(Cl)Cl"                                  
+NCP SMILES           "OpenEye OEToolkits" 1.7.6 "N[Pt](N)(Cl)Cl"                                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NCP "SYSTEMATIC NAME" ACDLabs              12.01 "platinum(4+) chloride azanide (1:2:2)" 
+NCP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "bis(azanyl)-bis(chloranyl)platinum"    
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NCP "Create component"   2005-07-28 RCSB 
+NCP "Modify descriptor"  2011-06-04 RCSB 
+NCP "Other modification" 2014-07-25 RCSB 
+# 

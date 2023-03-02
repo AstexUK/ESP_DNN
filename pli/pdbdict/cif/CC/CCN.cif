@@ -1,0 +1,98 @@
+data_CCN
+# 
+_chem_comp.id                                    CCN 
+_chem_comp.name                                  ACETONITRILE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C2 H3 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        41.052 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CCN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1AMT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CCN N   N   N 0 1 N N N 32.064 9.671 19.193 -1.314 -0.000 0.000  N   CCN 1 
+CCN C1  C1  C 0 1 N N N 31.921 8.532 19.788 -0.178 0.000  -0.000 C1  CCN 2 
+CCN C2  C2  C 0 1 N N N 31.251 7.442 19.137 1.294  0.000  -0.000 C2  CCN 3 
+CCN H21 H21 H 0 1 N N N 31.234 6.569 19.806 1.657  -0.010 1.028  H21 CCN 4 
+CCN H22 H22 H 0 1 N N N 30.220 7.738 18.895 1.657  -0.885 -0.522 H22 CCN 5 
+CCN H23 H23 H 0 1 N N N 31.785 7.184 18.211 1.657  0.895  -0.505 H23 CCN 6 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CCN N  C1  TRIP N N 1 
+CCN C1 C2  SING N N 2 
+CCN C2 H21 SING N N 3 
+CCN C2 H22 SING N N 4 
+CCN C2 H23 SING N N 5 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CCN SMILES           ACDLabs              11.02 N#CC                        
+CCN SMILES_CANONICAL CACTVS               3.352 CC#N                        
+CCN SMILES           CACTVS               3.352 CC#N                        
+CCN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CC#N                        
+CCN SMILES           "OpenEye OEToolkits" 1.7.0 CC#N                        
+CCN InChI            InChI                1.03  InChI=1S/C2H3N/c1-2-3/h1H3  
+CCN InChIKey         InChI                1.03  WEVYAHXRMPXWCK-UHFFFAOYSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CCN "SYSTEMATIC NAME" ACDLabs              11.02 acetonitrile  
+CCN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 ethanenitrile 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CCN "Create component"  1999-07-08 RCSB 
+CCN "Modify descriptor" 2011-06-04 RCSB 
+# 

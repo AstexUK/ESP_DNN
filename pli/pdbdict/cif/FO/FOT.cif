@@ -1,0 +1,117 @@
+data_FOT
+# 
+_chem_comp.id                                    FOT 
+_chem_comp.name                                  "5-FLUORO-2,6-DIOXO-1,2,3,6-TETRAHYDROPYRIMIDINE-4-CARBOXYLIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H3 F N2 O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "5-FLUOROOROTIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-11-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        174.087 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FOT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FOT C2   C2   C 0 1 N N N 0.876  18.730 5.759 -1.508 -1.292 0.002  C2   FOT 1  
+FOT C6   C6   C 0 1 N N N 0.131  20.919 5.266 -1.453 1.045  -0.002 C6   FOT 2  
+FOT C5   C5   C 0 1 N N N -1.256 20.419 5.199 0.018  0.988  0.000  C5   FOT 3  
+FOT O2   O2   O 0 1 N N N 1.836  17.966 6.009 -2.161 -2.318 0.002  O2   FOT 4  
+FOT N3   N3   N 0 1 N N N -0.362 18.206 5.707 -0.168 -1.372 -0.001 N3   FOT 5  
+FOT N1   N1   N 0 1 N N N 1.110  20.044 5.547 -2.149 -0.110 -0.001 N1   FOT 6  
+FOT O6   O6   O 0 1 N N N 0.375  22.131 5.081 -2.030 2.116  0.000  O6   FOT 7  
+FOT F5   F5   F 0 1 N N N -2.291 21.240 4.929 0.755  2.121  -0.000 F5   FOT 8  
+FOT C4   C4   C 0 1 N N N -1.434 18.967 5.439 0.617  -0.234 -0.002 C4   FOT 9  
+FOT C41  C41  C 0 1 N N N -2.804 18.370 5.383 2.091  -0.343 -0.000 C41  FOT 10 
+FOT O42  O42  O 0 1 N N N -3.667 18.837 6.156 2.774  0.661  0.004  O42  FOT 11 
+FOT O41  O41  O 0 1 N N N -3.036 17.442 4.566 2.677  -1.556 -0.002 O41  FOT 12 
+FOT HN3  HN3  H 0 1 N N N -0.486 17.227 5.872 0.258  -2.244 -0.003 HN3  FOT 13 
+FOT HN1  HN1  H 0 1 N N N 2.051  20.378 5.602 -3.118 -0.088 -0.003 HN1  FOT 14 
+FOT HO41 HO41 H 0 0 N N N -3.944 17.174 4.640 3.644  -1.577 -0.001 HO41 FOT 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FOT C2  O2   DOUB N N 1  
+FOT C2  N3   SING N N 2  
+FOT C2  N1   SING N N 3  
+FOT C6  C5   SING N N 4  
+FOT C6  N1   SING N N 5  
+FOT C6  O6   DOUB N N 6  
+FOT C5  F5   SING N N 7  
+FOT C5  C4   DOUB N N 8  
+FOT N3  C4   SING N N 9  
+FOT N3  HN3  SING N N 10 
+FOT N1  HN1  SING N N 11 
+FOT C4  C41  SING N N 12 
+FOT C41 O42  DOUB N N 13 
+FOT C41 O41  SING N N 14 
+FOT O41 HO41 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FOT SMILES           ACDLabs              10.04 "O=C(O)C1=C(F)C(=O)NC(=O)N1"                                               
+FOT SMILES_CANONICAL CACTVS               3.341 "OC(=O)C1=C(F)C(=O)NC(=O)N1"                                               
+FOT SMILES           CACTVS               3.341 "OC(=O)C1=C(F)C(=O)NC(=O)N1"                                               
+FOT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1(=C(NC(=O)NC1=O)C(=O)O)F"                                               
+FOT SMILES           "OpenEye OEToolkits" 1.5.0 "C1(=C(NC(=O)NC1=O)C(=O)O)F"                                               
+FOT InChI            InChI                1.03  "InChI=1S/C5H3FN2O4/c6-1-2(4(10)11)7-5(12)8-3(1)9/h(H,10,11)(H2,7,8,9,12)" 
+FOT InChIKey         InChI                1.03  SEHFUALWMUWDKS-UHFFFAOYSA-N                                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FOT "SYSTEMATIC NAME" ACDLabs              10.04 "5-fluoro-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" 
+FOT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "5-fluoro-2,6-dioxo-3H-pyrimidine-4-carboxylic acid"                
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FOT "Create component"  2006-11-09 RCSB 
+FOT "Modify descriptor" 2011-06-04 RCSB 
+# 

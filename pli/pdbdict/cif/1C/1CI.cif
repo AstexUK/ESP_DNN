@@ -1,0 +1,127 @@
+data_1CI
+# 
+_chem_comp.id                                    1CI 
+_chem_comp.name                                  "1-(4-CHLOROPHENYL)-1H-IMIDAZOLE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H7 Cl N2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-06-15 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        178.618 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1CI 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "Corina V3.40" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1CI C11 C11 C  0 1 Y N N 117.748 -9.432  12.870 -0.170 -1.199 -0.002 C11 1CI 1  
+1CI C10 C10 C  0 1 Y N N 117.576 -10.400 13.852 -1.551 -1.197 -0.002 C10 1CI 2  
+1CI C9  C9  C  0 1 Y N N 116.302 -10.871 14.151 -2.242 0.002  -0.000 C9  1CI 3  
+1CI CL  CL  CL 0 0 N N N 116.083 -12.079 15.369 -3.978 0.001  0.001  CL  1CI 4  
+1CI C8  C8  C  0 1 Y N N 115.200 -10.373 13.468 -1.552 1.201  0.001  C8  1CI 5  
+1CI C7  C7  C  0 1 Y N N 115.370 -9.405  12.484 -0.171 1.204  -0.000 C7  1CI 6  
+1CI C6  C6  C  0 1 Y N N 116.644 -8.936  12.185 0.525  0.003  -0.001 C6  1CI 7  
+1CI N1  N1  N  0 1 Y N N 116.800 -8.023  11.230 1.928  0.003  -0.001 N1  1CI 8  
+1CI C5  C5  C  0 1 Y N N 116.049 -6.940  11.059 2.742  1.106  0.000  C5  1CI 9  
+1CI C4  C4  C  0 1 Y N N 116.500 -6.294  9.987  4.010  0.654  -0.000 C4  1CI 10 
+1CI N3  N3  N  0 1 Y N N 117.531 -6.978  9.498  3.977  -0.687 -0.001 N3  1CI 11 
+1CI C2  C2  C  0 1 Y N N 117.717 -8.046  10.268 2.735  -1.089 0.004  C2  1CI 12 
+1CI H11 H11 H  0 1 N N N 118.737 -9.065  12.639 0.369  -2.135 0.002  H11 1CI 13 
+1CI H10 H10 H  0 1 N N N 118.433 -10.787 14.384 -2.092 -2.132 -0.003 H10 1CI 14 
+1CI H8  H8  H  0 1 N N N 114.211 -10.738 13.701 -2.093 2.135  0.002  H8  1CI 15 
+1CI H7  H7  H  0 1 N N N 114.513 -9.018  11.953 0.368  2.140  -0.000 H7  1CI 16 
+1CI H5  H5  H  0 1 N N N 115.219 -6.638  11.681 2.427  2.139  0.001  H5  1CI 17 
+1CI H4  H4  H  0 1 N N N 116.099 -5.375  9.584  4.901  1.265  -0.000 H4  1CI 18 
+1CI H2  H2  H  0 1 N N N 118.479 -8.800  10.135 2.405  -2.117 0.009  H2  1CI 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1CI C11 C10 DOUB Y N 1  
+1CI C11 C6  SING Y N 2  
+1CI C11 H11 SING N N 3  
+1CI C10 C9  SING Y N 4  
+1CI C10 H10 SING N N 5  
+1CI C9  CL  SING N N 6  
+1CI C9  C8  DOUB Y N 7  
+1CI C8  C7  SING Y N 8  
+1CI C8  H8  SING N N 9  
+1CI C7  C6  DOUB Y N 10 
+1CI C7  H7  SING N N 11 
+1CI C6  N1  SING Y N 12 
+1CI N1  C5  SING Y N 13 
+1CI N1  C2  SING Y N 14 
+1CI C5  C4  DOUB Y N 15 
+1CI C5  H5  SING N N 16 
+1CI C4  N3  SING Y N 17 
+1CI C4  H4  SING N N 18 
+1CI N3  C2  DOUB Y N 19 
+1CI C2  H2  SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1CI SMILES           ACDLabs              10.04 "Clc1ccc(cc1)n2ccnc2"                                      
+1CI SMILES_CANONICAL CACTVS               3.341 "Clc1ccc(cc1)n2ccnc2"                                      
+1CI SMILES           CACTVS               3.341 "Clc1ccc(cc1)n2ccnc2"                                      
+1CI SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1n2ccnc2)Cl"                                      
+1CI SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(ccc1n2ccnc2)Cl"                                      
+1CI InChI            InChI                1.03  "InChI=1S/C9H7ClN2/c10-8-1-3-9(4-2-8)12-6-5-11-7-12/h1-7H" 
+1CI InChIKey         InChI                1.03  BARLRKAYTDVUIS-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1CI "SYSTEMATIC NAME" ACDLabs              10.04 "1-(4-chlorophenyl)-1H-imidazole" 
+1CI "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1-(4-chlorophenyl)imidazole"     
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1CI "Create component"     2007-06-15 RCSB 
+1CI "Modify aromatic_flag" 2011-06-04 RCSB 
+1CI "Modify descriptor"    2011-06-04 RCSB 
+# 

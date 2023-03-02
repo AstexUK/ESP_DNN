@@ -1,0 +1,100 @@
+data_ACT
+# 
+_chem_comp.id                                    ACT 
+_chem_comp.name                                  "ACETATE ION" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAI 
+_chem_comp.formula                               "C2 H3 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    -1 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        59.044 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ACT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DY5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ACT C   C   C 0  1 N N N 50.597 -7.080 41.583 -0.072 0.000  0.000  C   ACT 1 
+ACT O   O   O 0  1 N N N 50.991 -7.218 42.861 -0.682 1.056  0.000  O   ACT 2 
+ACT OXT OXT O -1 1 N N N 51.393 -7.334 40.483 -0.682 -1.056 0.000  OXT ACT 3 
+ACT CH3 CH3 C 0  1 N N N 49.215 -6.884 41.136 1.435  0.000  0.000  CH3 ACT 4 
+ACT H1  1H  H 0  1 N N N 48.888 -6.769 40.076 1.799  0.000  1.028  H1  ACT 5 
+ACT H2  2H  H 0  1 N N N 48.620 -7.724 41.563 1.799  -0.890 -0.514 H2  ACT 6 
+ACT H3  3H  H 0  1 N N N 48.825 -5.996 41.686 1.799  0.890  -0.514 H3  ACT 7 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ACT C   O   DOUB N N 1 
+ACT C   OXT SING N N 2 
+ACT C   CH3 SING N N 3 
+ACT CH3 H1  SING N N 4 
+ACT CH3 H2  SING N N 5 
+ACT CH3 H3  SING N N 6 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ACT SMILES           ACDLabs              10.04 "[O-]C(=O)C"                                
+ACT SMILES_CANONICAL CACTVS               3.341 "CC([O-])=O"                                
+ACT SMILES           CACTVS               3.341 "CC([O-])=O"                                
+ACT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)[O-]"                                
+ACT SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)[O-]"                                
+ACT InChI            InChI                1.03  "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)/p-1" 
+ACT InChIKey         InChI                1.03  QTBSBXVTEAMEQO-UHFFFAOYSA-M                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ACT "SYSTEMATIC NAME" ACDLabs              10.04 acetate   
+ACT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 ethanoate 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ACT "Create component"  1999-07-08 EBI  
+ACT "Modify descriptor" 2011-06-04 RCSB 
+# 

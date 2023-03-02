@@ -1,0 +1,111 @@
+data_GLM
+# 
+_chem_comp.id                                    GLM 
+_chem_comp.name                                  1-AMINO-PROPAN-2-ONE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-08-06 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         GCM 
+_chem_comp.formula_weight                        73.094 
+_chem_comp.one_letter_code                       X 
+_chem_comp.three_letter_code                     GLM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        5PAD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GLM N   N   N 0 1 N N N 11.924 28.971 15.013 0.041  -0.038 -1.920 N   GLM 1  
+GLM CA  CA  C 0 1 N N N 12.600 27.947 14.274 -0.806 -0.012 -0.721 CA  GLM 2  
+GLM C   C   C 0 1 N N N 14.104 28.026 14.509 0.063  -0.006 0.509  C   GLM 3  
+GLM O   O   O 0 1 N N N 14.733 27.007 14.020 1.266  -0.021 0.398  O   GLM 4  
+GLM CM  CM  C 0 1 N N N 14.927 28.975 15.235 -0.566 0.019  1.877  CM  GLM 5  
+GLM H   1HN H 0 1 N N N 10.917 28.918 14.855 0.536  0.840  -1.944 H   GLM 6  
+GLM H2  2HN H 0 1 N Y N 12.293 29.898 14.801 -0.580 -0.041 -2.715 H2  GLM 7  
+GLM HA1 1HA H 0 1 N N N 12.196 26.933 14.504 -1.446 -0.895 -0.709 HA1 GLM 8  
+GLM HA2 2HA H 0 1 N N N 12.347 27.982 13.188 -1.425 0.884  -0.732 HA2 GLM 9  
+GLM HM1 1HM H 0 1 N N N 16.027 29.032 15.406 0.215  0.020  2.637  HM1 GLM 10 
+GLM HM2 2HM H 0 1 N N N 14.663 29.964 14.793 -1.174 0.917  1.981  HM2 GLM 11 
+GLM HM3 3HM H 0 1 N N N 14.485 28.998 16.258 -1.195 -0.861 2.004  HM3 GLM 12 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GLM N  CA  SING N N 1  
+GLM N  H   SING N N 2  
+GLM N  H2  SING N N 3  
+GLM CA C   SING N N 4  
+GLM CA HA1 SING N N 5  
+GLM CA HA2 SING N N 6  
+GLM C  O   DOUB N N 7  
+GLM C  CM  SING N N 8  
+GLM CM HM1 SING N N 9  
+GLM CM HM2 SING N N 10 
+GLM CM HM3 SING N N 11 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GLM SMILES           ACDLabs              10.04 "O=C(C)CN"                              
+GLM SMILES_CANONICAL CACTVS               3.341 "CC(=O)CN"                              
+GLM SMILES           CACTVS               3.341 "CC(=O)CN"                              
+GLM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC(=O)CN"                              
+GLM SMILES           "OpenEye OEToolkits" 1.5.0 "CC(=O)CN"                              
+GLM InChI            InChI                1.03  "InChI=1S/C3H7NO/c1-3(5)2-4/h2,4H2,1H3" 
+GLM InChIKey         InChI                1.03  BCDGQXUMWHRQCB-UHFFFAOYSA-N             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GLM "SYSTEMATIC NAME" ACDLabs              10.04 1-aminopropan-2-one 
+GLM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 1-aminopropan-2-one 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GLM "Create component"   1999-07-08 EBI  
+GLM "Modify descriptor"  2011-06-04 RCSB 
+GLM "Obsolete component" 2011-08-06 RCSB 
+# 

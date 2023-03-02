@@ -1,0 +1,117 @@
+data_UGY
+# 
+_chem_comp.id                                    UGY 
+_chem_comp.name                                  "(2S)-amino(carbamoylamino)ethanoic acid" 
+_chem_comp.type                                  "PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N3 O3" 
+_chem_comp.mon_nstd_parent_comp_id               GLY 
+_chem_comp.pdbx_synonyms                         "(S)-2-ureidoglycine" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-03-20 
+_chem_comp.pdbx_modified_date                    2012-04-13 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        133.106 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UGY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4E2S 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UGY OXT OXT O 0 1 N Y N 40.937 7.883 0.278  2.750  -0.105 -0.800 OXT UGY 1  
+UGY C   C   C 0 1 N N N 42.111 7.661 0.474  1.668  0.347  -0.147 C   UGY 2  
+UGY O   O   O 0 1 N N N 43.009 8.486 -0.041 1.655  1.471  0.296  O   UGY 3  
+UGY CA  CA  C 0 1 N N S 42.528 6.468 1.284  0.468  -0.547 0.033  CA  UGY 4  
+UGY N   N   N 0 1 N N N 42.029 5.280 0.620  0.755  -1.549 1.068  N   UGY 5  
+UGY NB  NB  N 0 1 N N N 43.988 6.353 1.413  -0.685 0.259  0.440  NB  UGY 6  
+UGY CG  CG  C 0 1 N N N 44.592 5.677 2.420  -1.885 0.061  -0.142 CG  UGY 7  
+UGY OE  OE  O 0 1 N N N 43.952 5.118 3.303  -2.010 -0.787 -1.004 OE  UGY 8  
+UGY NE  NE  N 0 1 N N N 45.927 5.623 2.433  -2.946 0.802  0.233  NE  UGY 9  
+UGY HXT HXT H 0 1 N Y N 40.846 8.668 -0.250 3.495  0.505  -0.890 HXT UGY 10 
+UGY HA  HA  H 0 1 N N N 42.080 6.545 2.286  0.246  -1.051 -0.908 HA  UGY 11 
+UGY H   H   H 0 1 N N N 42.295 4.469 1.142  1.506  -2.160 0.782  H   UGY 12 
+UGY H2  H2  H 0 1 N Y N 41.032 5.326 0.560  0.965  -1.107 1.951  H2  UGY 13 
+UGY H6  H6  H 0 1 N N N 44.563 6.795 0.724  -0.586 0.935  1.128  H6  UGY 14 
+UGY H7  H7  H 0 1 N N N 46.400 5.128 3.161  -2.847 1.479  0.921  H7  UGY 15 
+UGY H8  H8  H 0 1 N N N 46.453 6.078 1.714  -3.809 0.660  -0.186 H8  UGY 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UGY O   C   DOUB N N 1  
+UGY OXT C   SING N N 2  
+UGY C   CA  SING N N 3  
+UGY N   CA  SING N N 4  
+UGY CA  NB  SING N N 5  
+UGY NB  CG  SING N N 6  
+UGY CG  NE  SING N N 7  
+UGY CG  OE  DOUB N N 8  
+UGY OXT HXT SING N N 9  
+UGY CA  HA  SING N N 10 
+UGY N   H   SING N N 11 
+UGY N   H2  SING N N 12 
+UGY NB  H6  SING N N 13 
+UGY NE  H7  SING N N 14 
+UGY NE  H8  SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UGY SMILES           ACDLabs              12.01 "O=C(N)NC(N)C(=O)O"                                                        
+UGY InChI            InChI                1.03  "InChI=1S/C3H7N3O3/c4-1(2(7)8)6-3(5)9/h1H,4H2,(H,7,8)(H3,5,6,9)/t1-/m0/s1" 
+UGY InChIKey         InChI                1.03  VTFWFHCECSOPSX-SFOWXEAESA-N                                                
+UGY SMILES_CANONICAL CACTVS               3.370 "N[C@@H](NC(N)=O)C(O)=O"                                                   
+UGY SMILES           CACTVS               3.370 "N[CH](NC(N)=O)C(O)=O"                                                     
+UGY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[C@H](C(=O)O)(N)NC(=O)N"                                                  
+UGY SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(=O)O)(N)NC(=O)N"                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UGY "SYSTEMATIC NAME" ACDLabs              12.01 "(2S)-amino(carbamoylamino)ethanoic acid"            
+UGY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-(aminocarbonylamino)-2-azanyl-ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UGY "Create component" 2012-03-20 PDBJ 
+# 

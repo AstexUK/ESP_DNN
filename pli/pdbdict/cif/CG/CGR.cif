@@ -1,0 +1,210 @@
+data_CGR
+# 
+_chem_comp.id                                    CGR 
+_chem_comp.name                                  "CYCLIC GUANOSINE DIPHOSPHATE-RIBOSE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H23 N5 O14 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "CYCLIC GDP-RIBOSE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-12-11 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        559.316 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CGR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2O3T 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CGR O2B    O2B  O 0 1 N N N 5.785  3.913  3.384  -2.291 -1.988 -0.495 O2B    CGR 1  
+CGR PB     PB   P 0 1 N N S 4.366  4.424  3.562  -0.750 -2.414 -0.732 PB     CGR 2  
+CGR O1B    O1B  O 0 1 N N N 3.914  5.789  3.098  -0.125 -1.889 -1.991 O1B    CGR 3  
+CGR O3     O3   O 0 1 N N N 3.856  4.385  5.095  -0.778 -4.019 -0.602 O3     CGR 4  
+CGR PA     PA   P 0 1 N N S 4.416  3.356  6.218  -1.295 -5.197 -1.572 PA     CGR 5  
+CGR O2A    O2A  O 0 1 N N N 5.852  3.707  6.565  -2.781 -5.253 -1.772 O2A    CGR 6  
+CGR O1A    O1A  O 0 1 N N N 3.470  3.471  7.362  -0.440 -4.983 -2.929 O1A    CGR 7  
+CGR "O5'R" RO5* O 0 0 N N N 3.394  3.408  2.784  -0.018 -1.973 0.641  "O5'R" CGR 8  
+CGR "C5'R" RC5* C 0 0 N N N 1.953  3.619  2.814  0.293  -0.605 0.864  "C5'R" CGR 9  
+CGR "C4'R" RC4* C 0 0 N N R 1.395  3.908  1.409  1.782  -0.447 1.149  "C4'R" CGR 10 
+CGR "O4'R" RO4* O 0 0 N N N 1.864  2.973  0.392  2.123  -1.129 2.368  "O4'R" CGR 11 
+CGR "C1'R" RC1* C 0 0 N N R 0.971  1.838  0.270  3.496  -1.581 2.285  "C1'R" CGR 12 
+CGR "C2'R" RC2* C 0 0 N N R -0.388 2.369  0.732  3.998  -1.217 0.886  "C2'R" CGR 13 
+CGR "O2'R" RO2* O 0 0 N N N -1.254 2.541  -0.418 4.739  0.001  0.950  "O2'R" CGR 14 
+CGR "C3'R" RC3* C 0 0 N N S -0.128 3.717  1.426  2.711  -1.040 0.103  "C3'R" CGR 15 
+CGR "O3'R" RO3* O 0 0 N N N -0.749 4.846  0.754  2.872  -0.207 -1.026 "O3'R" CGR 16 
+CGR N7     N7   N 0 1 N N N 1.528  0.773  1.173  3.617  -3.005 2.537  N7     CGR 17 
+CGR C8     C8   C 0 1 N N N 2.828  0.756  1.558  2.512  -3.945 2.299  C8     CGR 18 
+CGR N9     N9   N 0 1 N N N 3.060  -0.287 2.384  3.109  -5.231 2.706  N9     CGR 19 
+CGR "C1'"  C1*  C 0 1 N N R 4.329  -0.658 3.044  2.433  -6.509 2.552  "C1'"  CGR 20 
+CGR "O4'"  O4*  O 0 1 N N N 4.084  -0.767 4.437  2.333  -6.883 1.160  "O4'"  CGR 21 
+CGR "C2'"  C2*  C 0 1 N N R 5.376  0.427  2.872  1.011  -6.500 3.111  "C2'"  CGR 22 
+CGR "O2'"  O2*  O 0 1 N N N 6.028  0.228  1.606  0.721  -7.789 3.654  "O2'"  CGR 23 
+CGR "C3'"  C3*  C 0 1 N N S 6.237  0.223  4.100  0.171  -6.271 1.871  "C3'"  CGR 24 
+CGR "O3'"  O3*  O 0 1 N N N 7.235  -0.785 3.801  -1.158 -6.731 2.006  "O3'"  CGR 25 
+CGR "C4'"  C4*  C 0 1 N N R 5.259  -0.303 5.144  0.947  -7.046 0.817  "C4'"  CGR 26 
+CGR "C5'"  C5*  C 0 1 N N N 4.803  0.741  6.152  0.732  -6.570 -0.612 "C5'"  CGR 27 
+CGR "O5'"  O5*  O 0 1 N N N 4.318  1.926  5.496  -0.654 -6.537 -0.925 "O5'"  CGR 28 
+CGR C4A    C4A  C 0 1 N N N 1.924  -0.958 2.550  4.458  -5.048 3.068  C4A    CGR 29 
+CGR C5A    C5A  C 0 1 N N N 0.956  -0.312 1.804  4.723  -3.727 2.960  C5A    CGR 30 
+CGR N3A    N3A  N 0 1 N N N 1.639  -2.055 3.280  5.384  -5.987 3.456  N3A    CGR 31 
+CGR C2A    C2A  C 0 1 N N N 0.374  -2.543 3.256  6.587  -5.560 3.733  C2A    CGR 32 
+CGR N2A    N2A  N 0 1 N N N 0.091  -3.633 3.982  7.590  -6.406 4.129  N2A    CGR 33 
+CGR N1A    N1A  N 0 1 N N N -0.616 -1.956 2.517  6.937  -4.214 3.642  N1A    CGR 34 
+CGR C6A    C6A  C 0 1 N N N -0.341 -0.839 1.770  6.066  -3.206 3.254  C6A    CGR 35 
+CGR O6A    O6A  O 0 1 N N N -1.253 -0.329 1.084  6.370  -2.024 3.159  O6A    CGR 36 
+CGR HO2B   HO2B H 0 0 N N N 5.970  3.806  2.458  -2.700 -2.160 0.380  HO2B   CGR 37 
+CGR HO1A   HO1A H 0 0 N N N 3.959  3.495  8.176  -0.870 -5.167 -3.792 HO1A   CGR 38 
+CGR H51    1H5  H 0 1 N N N 1.734  4.478  3.466  -0.295 -0.278 1.728  H51    CGR 39 
+CGR H52    2H5  H 0 1 N N N 1.477  2.703  3.193  0.002  -0.000 -0.001 H52    CGR 40 
+CGR "HC4'" HC4* H 0 0 N N N 1.725  4.929  1.166  1.993  0.620  1.294  "HC4'" CGR 41 
+CGR "HC1'" HC1* H 0 0 N N N 0.870  1.408  -0.737 4.036  -1.026 3.060  "HC1'" CGR 42 
+CGR "HC2'" HC2* H 0 0 N N N -0.882 1.672  1.425  4.659  -1.964 0.436  "HC2'" CGR 43 
+CGR HO2    HO2  H 0 1 N N N -2.159 2.579  -0.131 5.662  -0.234 1.153  HO2    CGR 44 
+CGR "HC3'" HC3* H 0 0 N N N -0.561 3.690  2.437  2.359  -2.020 -0.234 "HC3'" CGR 45 
+CGR HO3    HO3  H 0 1 N N N -0.885 5.550  1.377  3.204  0.641  -0.695 HO3    CGR 46 
+CGR H81    1H8  H 0 1 N N N 3.467  0.661  0.668  1.649  -3.697 2.924  H81    CGR 47 
+CGR H82    2H8  H 0 1 N N N 3.056  1.691  2.090  2.237  -3.962 1.240  H82    CGR 48 
+CGR "H1'"  H1*  H 0 1 N N N 4.690  -1.597 2.598  3.021  -7.295 3.042  "H1'"  CGR 49 
+CGR "H2'"  H2*  H 0 1 N N N 5.026  1.469  2.825  0.831  -5.770 3.904  "H2'"  CGR 50 
+CGR "HO2'" HO2* H 0 0 N N N 5.376  0.184  0.917  -0.068 -8.125 3.193  "HO2'" CGR 51 
+CGR "H3'"  H3*  H 0 1 N N N 6.760  1.131  4.434  0.143  -5.205 1.628  "H3'"  CGR 52 
+CGR "HO3'" HO3* H 0 0 N N N 7.453  -0.751 2.877  -1.571 -6.636 1.134  "HO3'" CGR 53 
+CGR "H4'"  H4*  H 0 1 N N N 5.779  -1.090 5.709  0.696  -8.113 0.875  "H4'"  CGR 54 
+CGR "H5'1" 1H5* H 0 0 N N N 3.993  0.316  6.762  1.197  -5.589 -0.762 "H5'1" CGR 55 
+CGR "H5'2" 2H5* H 0 0 N N N 5.663  1.018  6.779  1.228  -7.251 -1.312 "H5'2" CGR 56 
+CGR H2A1   1H2A H 0 0 N N N -0.872 -3.880 3.872  7.387  -7.376 4.202  H2A1   CGR 57 
+CGR H2A2   2H2A H 0 0 N N N 0.747  -4.128 4.551  8.483  -6.017 4.329  H2A2   CGR 58 
+CGR HN1A   HN1A H 0 0 N N N -1.539 -2.341 2.521  7.892  -3.955 3.870  HN1A   CGR 59 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CGR O2B    PB     SING N N 1  
+CGR O2B    HO2B   SING N N 2  
+CGR PB     "O5'R" SING N N 3  
+CGR PB     O1B    DOUB N N 4  
+CGR PB     O3     SING N N 5  
+CGR O3     PA     SING N N 6  
+CGR PA     "O5'"  SING N N 7  
+CGR PA     O2A    DOUB N N 8  
+CGR PA     O1A    SING N N 9  
+CGR O1A    HO1A   SING N N 10 
+CGR "O5'R" "C5'R" SING N N 11 
+CGR "C5'R" "C4'R" SING N N 12 
+CGR "C5'R" H51    SING N N 13 
+CGR "C5'R" H52    SING N N 14 
+CGR "C4'R" "O4'R" SING N N 15 
+CGR "C4'R" "C3'R" SING N N 16 
+CGR "C4'R" "HC4'" SING N N 17 
+CGR "O4'R" "C1'R" SING N N 18 
+CGR "C1'R" "C2'R" SING N N 19 
+CGR "C1'R" N7     SING N N 20 
+CGR "C1'R" "HC1'" SING N N 21 
+CGR "C2'R" "O2'R" SING N N 22 
+CGR "C2'R" "C3'R" SING N N 23 
+CGR "C2'R" "HC2'" SING N N 24 
+CGR "O2'R" HO2    SING N N 25 
+CGR "C3'R" "O3'R" SING N N 26 
+CGR "C3'R" "HC3'" SING N N 27 
+CGR "O3'R" HO3    SING N N 28 
+CGR N7     C8     SING N N 29 
+CGR N7     C5A    SING N N 30 
+CGR C8     N9     SING N N 31 
+CGR C8     H81    SING N N 32 
+CGR C8     H82    SING N N 33 
+CGR N9     C4A    SING N N 34 
+CGR N9     "C1'"  SING N N 35 
+CGR "C1'"  "C2'"  SING N N 36 
+CGR "C1'"  "O4'"  SING N N 37 
+CGR "C1'"  "H1'"  SING N N 38 
+CGR "O4'"  "C4'"  SING N N 39 
+CGR "C2'"  "O2'"  SING N N 40 
+CGR "C2'"  "C3'"  SING N N 41 
+CGR "C2'"  "H2'"  SING N N 42 
+CGR "O2'"  "HO2'" SING N N 43 
+CGR "C3'"  "O3'"  SING N N 44 
+CGR "C3'"  "C4'"  SING N N 45 
+CGR "C3'"  "H3'"  SING N N 46 
+CGR "O3'"  "HO3'" SING N N 47 
+CGR "C4'"  "C5'"  SING N N 48 
+CGR "C4'"  "H4'"  SING N N 49 
+CGR "C5'"  "O5'"  SING N N 50 
+CGR "C5'"  "H5'1" SING N N 51 
+CGR "C5'"  "H5'2" SING N N 52 
+CGR C4A    C5A    DOUB N N 53 
+CGR C4A    N3A    SING N N 54 
+CGR C5A    C6A    SING N N 55 
+CGR N3A    C2A    DOUB N N 56 
+CGR C2A    N1A    SING N N 57 
+CGR C2A    N2A    SING N N 58 
+CGR N2A    H2A1   SING N N 59 
+CGR N2A    H2A2   SING N N 60 
+CGR N1A    C6A    SING N N 61 
+CGR N1A    HN1A   SING N N 62 
+CGR C6A    O6A    DOUB N N 63 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CGR SMILES           ACDLabs              10.04 "O=C1C=2N3CN(C=2N=C(N)N1)C5OC(COP(=O)(O)OP(=O)(O)OCC4OC3C(O)C4O)C(O)C5O" 
+CGR SMILES_CANONICAL CACTVS               3.341 "NC1=NC2=C(N3CN2[C@@H]4O[C@H](CO[P@@](O)(=O)O[P@](O)(=O)OC[C@H]5O[C@@H]3[C@H](O)[C@@H]5O)[C@@H](O)[C@H]4O)C(=O)N1" 
+CGR SMILES           CACTVS               3.341 "NC1=NC2=C(N3CN2[CH]4O[CH](CO[P](O)(=O)O[P](O)(=O)OC[CH]5O[CH]3[CH](O)[CH]5O)[CH](O)[CH]4O)C(=O)N1" 
+CGR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]2[C@H]([C@H]([C@@H](O2)N3CN([C@H]4[C@@H]([C@@H]([C@H](O4)CO[P@@](=O)(O[P@](=O)(O1)O)O)O)O)C5=C3C(=O)NC(=N5)N)O)O" 
+CGR SMILES           "OpenEye OEToolkits" 1.5.0 "C1C2C(C(C(O2)N3CN(C4C(C(C(O4)COP(=O)(OP(=O)(O1)O)O)O)O)C5=C3C(=O)NC(=N5)N)O)O" 
+CGR InChI            InChI                1.03  
+"InChI=1S/C15H23N5O14P2/c16-15-17-11-6(12(25)18-15)19-3-20(11)14-10(24)8(22)5(33-14)2-31-36(28,29)34-35(26,27)30-1-4-7(21)9(23)13(19)32-4/h4-5,7-10,13-14,21-24H,1-3H2,(H,26,27)(H,28,29)(H3,16,17,18,25)/t4-,5-,7-,8-,9-,10-,13-,14-/m1/s1" 
+CGR InChIKey         InChI                1.03  XBIQPWWXYHHVOT-AIKIOGRUSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CGR "SYSTEMATIC NAME" ACDLabs 10.04 
+"(2R,3R,4S,5R,8S,10S,13R,14S,15R,16R)-20-amino-3,4,8,10,14,15-hexahydroxy-7,9,11,25,26-pentaoxa-1,17,19,21-tetraaza-8,10-diphosphapentacyclo[15.6.1.1~2,5~.1~13,16~.0~18,23~]hexacosa-18(23),19-dien-22-one 8,10-dioxide (non-preferred name)" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CGR "Create component"  2006-12-11 RCSB 
+CGR "Modify descriptor" 2011-06-04 RCSB 
+# 

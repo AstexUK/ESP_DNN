@@ -1,0 +1,116 @@
+data_SNC
+# 
+_chem_comp.id                                    SNC 
+_chem_comp.name                                  S-NITROSO-CYSTEINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H6 N2 O3 S" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        150.156 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     SNC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1BUW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SNC N   N   N 0 1 N N N 38.113 60.812 19.879 1.758  0.176  1.004  N   SNC 1  
+SNC CA  CA  C 0 1 N N R 39.062 60.505 18.805 0.319  0.465  1.064  CA  SNC 2  
+SNC CB  CB  C 0 1 N N N 38.380 59.619 17.708 -0.386 -0.220 -0.106 CB  SNC 3  
+SNC SG  SG  S 0 1 N N N 37.682 58.137 18.544 0.289  0.400  -1.666 SG  SNC 4  
+SNC ND  ND  N 0 1 N N N 38.892 56.905 18.221 -0.565 -0.423 -2.679 ND  SNC 5  
+SNC OE  OE  O 0 1 N N N 39.780 56.866 19.030 -0.397 -0.280 -3.876 OE  SNC 6  
+SNC C   C   C 0 1 N N N 39.690 61.731 18.177 -0.242 -0.051 2.363  C   SNC 7  
+SNC O   O   O 0 1 N N N 40.926 61.883 18.200 0.251  -1.017 2.893  O   SNC 8  
+SNC OXT OXT O 0 1 N Y N 38.872 62.582 17.603 -1.293 0.561  2.930  OXT SNC 9  
+SNC H   1HN H 0 1 N N N 38.557 61.389 20.593 2.070  0.444  0.082  H   SNC 10 
+SNC H2  2HN H 0 1 N Y N 37.702 59.966 20.275 1.856  -0.825 1.064  H2  SNC 11 
+SNC HA  HA  H 0 1 N N N 39.895 59.938 19.282 0.162  1.542  1.003  HA  SNC 12 
+SNC HB2 1HB H 0 1 N N N 37.622 60.176 17.109 -0.229 -1.297 -0.045 HB2 SNC 13 
+SNC HB3 2HB H 0 1 N N N 39.068 59.360 16.869 -1.454 -0.006 -0.062 HB3 SNC 14 
+SNC HXT HXT H 0 1 N Y N 39.266 63.351 17.208 -1.654 0.229  3.764  HXT SNC 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SNC N   CA  SING N N 1  
+SNC N   H   SING N N 2  
+SNC N   H2  SING N N 3  
+SNC CA  CB  SING N N 4  
+SNC CA  C   SING N N 5  
+SNC CA  HA  SING N N 6  
+SNC CB  SG  SING N N 7  
+SNC CB  HB2 SING N N 8  
+SNC CB  HB3 SING N N 9  
+SNC SG  ND  SING N N 10 
+SNC ND  OE  DOUB N N 11 
+SNC C   O   DOUB N N 12 
+SNC C   OXT SING N N 13 
+SNC OXT HXT SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SNC SMILES           ACDLabs              10.04 "O=C(O)C(N)CSN=O"                                                   
+SNC SMILES_CANONICAL CACTVS               3.341 "N[C@@H](CSN=O)C(O)=O"                                              
+SNC SMILES           CACTVS               3.341 "N[CH](CSN=O)C(O)=O"                                                
+SNC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)SN=O"                                            
+SNC SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)SN=O"                                                 
+SNC InChI            InChI                1.03  "InChI=1S/C3H6N2O3S/c4-2(3(6)7)1-9-5-8/h2H,1,4H2,(H,6,7)/t2-/m0/s1" 
+SNC InChIKey         InChI                1.03  XOWVFANEOZMPKG-REOHCLBHSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SNC "SYSTEMATIC NAME" ACDLabs              10.04 S-nitroso-L-cysteine                            
+SNC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-nitrososulfanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SNC "Create component"  1999-07-08 RCSB 
+SNC "Modify descriptor" 2011-06-04 RCSB 
+# 

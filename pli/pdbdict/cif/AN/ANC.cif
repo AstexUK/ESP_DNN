@@ -1,0 +1,141 @@
+data_ANC
+# 
+_chem_comp.id                                    ANC 
+_chem_comp.name                                  ANTHRACEN-1-YLAMINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C14 H11 N" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         AMINOANTHRACENE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-12-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        193.244 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ANC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1GT1,1HN2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ANC C1   C1   C 0 1 Y N N 0.521  -0.644 5.540  -1.070 -0.000 0.889  C1   ANC 1  
+ANC C2   C2   C 0 1 Y N N 1.281  -0.249 4.383  -1.890 -0.000 2.037  C2   ANC 2  
+ANC C3   C3   C 0 1 Y N N -0.864 -0.347 5.625  0.385  0.005  1.062  C3   ANC 3  
+ANC C4   C4   C 0 1 Y N N 0.622  0.460  3.303  -1.322 -0.000 3.271  C4   ANC 4  
+ANC C5   C5   C 0 1 Y N N -1.510 0.353  4.563  0.913  -0.000 2.377  C5   ANC 5  
+ANC C6   C6   C 0 1 Y N N -0.793 0.748  3.421  0.059  0.000  3.443  C6   ANC 6  
+ANC C7   C7   C 0 1 Y N N -1.138 -2.528 10.037 0.920  -0.000 -3.708 C7   ANC 7  
+ANC C8   C8   C 0 1 Y N N 0.358  -2.858 9.934  -0.464 -0.000 -3.874 C8   ANC 8  
+ANC C9   C9   C 0 1 Y N N -1.765 -1.828 8.986  1.491  -0.000 -2.476 C9   ANC 9  
+ANC C10  C10  C 0 1 Y N N 1.044  -2.438 8.780  -1.311 -0.000 -2.812 C10  ANC 10 
+ANC C11  C11  C 0 1 Y N N -1.019 -1.431 7.838  0.671  0.000  -1.328 C11  ANC 11 
+ANC C12  C12  C 0 1 Y N N 0.378  -1.737 7.745  -0.785 0.000  -1.502 C12  ANC 12 
+ANC C13  C13  C 0 1 Y N N 1.211  -1.336 6.553  -1.624 -0.000 -0.390 C13  ANC 13 
+ANC C14  C14  C 0 1 Y N N -1.723 -0.678 6.709  1.223  -0.000 -0.048 C14  ANC 14 
+ANC N1   N1   N 0 1 N N N -2.984 0.690  4.612  2.291  -0.000 2.581  N1   ANC 15 
+ANC HC2  HC2  H 0 1 N N N 2.356  -0.487 4.324  -2.966 -0.001 1.935  HC2  ANC 16 
+ANC HC4  HC4  H 0 1 N N N 1.186  0.774  2.408  -1.959 -0.000 4.143  HC4  ANC 17 
+ANC HC6  HC6  H 0 1 N N N -1.337 1.280  2.622  0.466  0.000  4.443  HC6  ANC 18 
+ANC HC7  HC7  H 0 1 N N N -1.780 -2.801 10.890 1.555  -0.000 -4.582 HC7  ANC 19 
+ANC HC8  HC8  H 0 1 N N N 0.944  -3.400 10.694 -0.874 -0.000 -4.873 HC8  ANC 20 
+ANC HC9  HC9  H 0 1 N N N -2.839 -1.590 9.061  2.567  -0.000 -2.376 HC9  ANC 21 
+ANC H10C CH10 H 0 0 N N N 2.119  -2.661 8.685  -2.379 -0.000 -2.969 H10C ANC 22 
+ANC H13C CH13 H 0 0 N N N 2.287  -1.541 6.426  -2.696 -0.000 -0.518 H13C ANC 23 
+ANC H14C CH14 H 0 0 N N N -2.787 -0.390 6.678  2.296  -0.001 0.080  H14C ANC 24 
+ANC H1N  H1N  H 0 1 N N N -3.445 1.190  3.852  2.647  -0.000 3.483  H1N  ANC 25 
+ANC H2N  H2N  H 0 1 N N N -3.158 1.203  5.476  2.893  -0.005 1.821  H2N  ANC 26 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ANC C1  C2   DOUB Y N 1  
+ANC C1  C3   SING Y N 2  
+ANC C1  C13  SING Y N 3  
+ANC C2  C4   SING Y N 4  
+ANC C2  HC2  SING N N 5  
+ANC C3  C5   DOUB Y N 6  
+ANC C3  C14  SING Y N 7  
+ANC C4  C6   DOUB Y N 8  
+ANC C4  HC4  SING N N 9  
+ANC C5  C6   SING Y N 10 
+ANC C5  N1   SING N N 11 
+ANC C6  HC6  SING N N 12 
+ANC C7  C8   SING Y N 13 
+ANC C7  C9   DOUB Y N 14 
+ANC C7  HC7  SING N N 15 
+ANC C8  C10  DOUB Y N 16 
+ANC C8  HC8  SING N N 17 
+ANC C9  C11  SING Y N 18 
+ANC C9  HC9  SING N N 19 
+ANC C10 C12  SING Y N 20 
+ANC C10 H10C SING N N 21 
+ANC C11 C12  SING Y N 22 
+ANC C11 C14  DOUB Y N 23 
+ANC C12 C13  DOUB Y N 24 
+ANC C13 H13C SING N N 25 
+ANC C14 H14C SING N N 26 
+ANC N1  H1N  SING N N 27 
+ANC N1  H2N  SING N N 28 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ANC SMILES           ACDLabs              10.04 "c3cc2cc1cccc(N)c1cc2cc3"                                                   
+ANC SMILES_CANONICAL CACTVS               3.341 Nc1cccc2cc3ccccc3cc12                                                       
+ANC SMILES           CACTVS               3.341 Nc1cccc2cc3ccccc3cc12                                                       
+ANC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc2cc3c(cccc3N)cc2c1"                                                   
+ANC SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc2cc3c(cccc3N)cc2c1"                                                   
+ANC InChI            InChI                1.03  "InChI=1S/C14H11N/c15-14-7-3-6-12-8-10-4-1-2-5-11(10)9-13(12)14/h1-9H,15H2" 
+ANC InChIKey         InChI                1.03  YUENFNPLGJCNRB-UHFFFAOYSA-N                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ANC "SYSTEMATIC NAME" ACDLabs              10.04 anthracen-1-amine 
+ANC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 anthracen-1-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ANC "Create component"  2000-12-08 EBI  
+ANC "Modify descriptor" 2011-06-04 RCSB 
+# 

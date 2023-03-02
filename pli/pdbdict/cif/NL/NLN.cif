@@ -1,0 +1,132 @@
+data_NLN
+# 
+_chem_comp.id                                    NLN 
+_chem_comp.name                                  "NORLEUCINE AMIDE" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H14 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               LEU 
+_chem_comp.pdbx_synonyms                         "2-AMINO-HEXANOIC ACID AMIDE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-02-02 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        130.188 
+_chem_comp.one_letter_code                       L 
+_chem_comp.three_letter_code                     NLN 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1DW6 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NLN N    N    N 0 1 N N N 25.088 24.731 7.361 1.729  -0.381 -0.699 N    NLN 1  
+NLN CA   CA   C 0 1 N N S 25.954 24.881 6.192 0.269  -0.517 -0.790 CA   NLN 2  
+NLN C    C    C 0 1 N N N 25.132 24.963 4.903 -0.205 0.029  -2.111 C    NLN 3  
+NLN O    O    O 0 1 N N N 25.540 25.710 3.983 0.402  0.929  -2.649 O    NLN 4  
+NLN CB   CB   C 0 1 N N N 26.952 23.721 6.123 -0.387 0.263  0.350  CB   NLN 5  
+NLN CG   CG   C 0 1 N N N 27.926 23.778 4.941 0.094  -0.290 1.692  CG   NLN 6  
+NLN CD   CD   C 0 1 N N N 28.955 24.896 5.074 -0.561 0.490  2.832  CD   NLN 7  
+NLN CE   CE   C 0 1 N N N 30.010 24.550 6.106 -0.079 -0.064 4.174  CE   NLN 8  
+NLN NH2  NH2  N 0 1 N N N 24.061 24.317 4.849 -1.306 -0.483 -2.696 NH2  NLN 9  
+NLN H    1HN  H 0 1 N N N 25.635 24.676 8.219 1.989  -0.660 0.234  H    NLN 10 
+NLN H2   2HN  H 0 1 N Y N 24.461 23.932 7.263 1.933  0.604  -0.775 H2   NLN 11 
+NLN HA   HA   H 0 1 N N N 26.519 25.836 6.295 -0.002 -1.570 -0.713 HA   NLN 12 
+NLN HB2  1HB  H 0 1 N N N 27.514 23.638 7.082 -1.470 0.162  0.283  HB2  NLN 13 
+NLN HB3  2HB  H 0 1 N N N 26.411 22.745 6.130 -0.115 1.316  0.273  HB3  NLN 14 
+NLN HG2  1HG  H 0 1 N N N 28.425 22.792 4.787 1.178  -0.189 1.759  HG2  NLN 15 
+NLN HG3  2HG  H 0 1 N N N 27.375 23.855 3.974 -0.177 -1.343 1.769  HG3  NLN 16 
+NLN HD2  1HD  H 0 1 N N N 29.412 25.151 4.089 -1.644 0.389  2.765  HD2  NLN 17 
+NLN HD3  2HD  H 0 1 N N N 28.470 25.875 5.295 -0.289 1.542  2.755  HD3  NLN 18 
+NLN HE1  1HE  H 0 1 N N N 30.762 25.367 6.203 -0.547 0.492  4.986  HE1  NLN 19 
+NLN HE2  2HE  H 0 1 N N N 29.552 24.294 7.090 -0.351 -1.117 4.251  HE2  NLN 20 
+NLN HE3  3HE  H 0 1 N N N 30.494 23.570 5.884 1.003  0.036  4.241  HE3  NLN 21 
+NLN HH21 1HH2 H 0 0 N N N 23.729 23.709 5.597 -1.612 -0.131 -3.546 HH21 NLN 22 
+NLN HH22 2HH2 H 0 0 N N N 23.513 24.371 3.990 -1.793 -1.203 -2.266 HH22 NLN 23 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NLN N   CA   SING N N 1  
+NLN N   H    SING N N 2  
+NLN N   H2   SING N N 3  
+NLN CA  C    SING N N 4  
+NLN CA  CB   SING N N 5  
+NLN CA  HA   SING N N 6  
+NLN C   O    DOUB N N 7  
+NLN C   NH2  SING N N 8  
+NLN CB  CG   SING N N 9  
+NLN CB  HB2  SING N N 10 
+NLN CB  HB3  SING N N 11 
+NLN CG  CD   SING N N 12 
+NLN CG  HG2  SING N N 13 
+NLN CG  HG3  SING N N 14 
+NLN CD  CE   SING N N 15 
+NLN CD  HD2  SING N N 16 
+NLN CD  HD3  SING N N 17 
+NLN CE  HE1  SING N N 18 
+NLN CE  HE2  SING N N 19 
+NLN CE  HE3  SING N N 20 
+NLN NH2 HH21 SING N N 21 
+NLN NH2 HH22 SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NLN SMILES           ACDLabs              10.04 "O=C(N)C(N)CCCC"                                                          
+NLN SMILES_CANONICAL CACTVS               3.341 "CCCC[C@H](N)C(N)=O"                                                      
+NLN SMILES           CACTVS               3.341 "CCCC[CH](N)C(N)=O"                                                       
+NLN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCC[C@@H](C(=O)N)N"                                                     
+NLN SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCC(C(=O)N)N"                                                          
+NLN InChI            InChI                1.03  "InChI=1S/C6H14N2O/c1-2-3-4-5(7)6(8)9/h5H,2-4,7H2,1H3,(H2,8,9)/t5-/m0/s1" 
+NLN InChIKey         InChI                1.03  YTIHIRCOUAPRCS-YFKPBYRVSA-N                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NLN "SYSTEMATIC NAME" ACDLabs              10.04 L-norleucinamide         
+NLN "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-aminohexanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NLN "Create component"  2000-02-02 PDBJ 
+NLN "Modify descriptor" 2011-06-04 RCSB 
+# 

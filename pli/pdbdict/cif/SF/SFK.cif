@@ -1,0 +1,167 @@
+data_SFK
+# 
+_chem_comp.id                                    SFK 
+_chem_comp.name                                  "N-(4-methylpentanoyl)-L-phenylalanine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H21 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-04-15 
+_chem_comp.pdbx_modified_date                    2013-04-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        263.332 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SFK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4K3K 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SFK CAR CAR C 0 1 N N N -20.373 0.955  -23.362 -4.369 2.137  0.497  CAR SFK 1  
+SFK CAQ CAQ C 0 1 N N N -21.403 1.834  -24.081 -4.654 0.654  0.251  CAQ SFK 2  
+SFK CAS CAS C 0 1 N N N -20.818 2.356  -25.410 -5.874 0.514  -0.661 CAS SFK 3  
+SFK CAP CAP C 0 1 N N N -22.619 0.986  -24.352 -3.441 0.005  -0.417 CAP SFK 4  
+SFK CAO CAO C 0 1 N N N -23.716 1.963  -24.724 -2.252 0.035  0.546  CAO SFK 5  
+SFK CAM CAM C 0 1 N N N -24.929 1.057  -24.994 -1.056 -0.604 -0.112 CAM SFK 6  
+SFK OAN OAN O 0 1 N N N -24.999 0.409  -26.034 -1.146 -1.040 -1.241 OAN SFK 7  
+SFK N   N   N 0 1 N N N -25.843 0.998  -24.012 0.113  -0.691 0.553  N   SFK 8  
+SFK CA  CA  C 0 1 N N S -27.060 0.169  -24.120 1.275  -1.312 -0.087 CA  SFK 9  
+SFK C   C   C 0 1 N N N -28.188 0.864  -23.358 1.219  -2.805 0.109  C   SFK 10 
+SFK O   O   O 0 1 N N N -29.301 0.299  -23.357 0.301  -3.299 0.721  O   SFK 11 
+SFK OXT OXT O 0 1 N N N -27.900 1.923  -22.759 2.187  -3.585 -0.396 OXT SFK 12 
+SFK CB  CB  C 0 1 N N N -26.864 -1.254 -23.590 2.557  -0.763 0.542  CB  SFK 13 
+SFK CG  CG  C 0 1 Y N N -26.211 -1.211 -22.326 2.675  0.709  0.240  CG  SFK 14 
+SFK CD1 CD1 C 0 1 Y N N -26.946 -1.073 -21.142 3.325  1.130  -0.905 CD1 SFK 15 
+SFK CE1 CE1 C 0 1 Y N N -26.312 -1.055 -19.902 3.433  2.480  -1.182 CE1 SFK 16 
+SFK CZ  CZ  C 0 1 Y N N -24.928 -1.169 -19.832 2.891  3.409  -0.315 CZ  SFK 17 
+SFK CE2 CE2 C 0 1 Y N N -24.183 -1.312 -21.001 2.240  2.988  0.830  CE2 SFK 18 
+SFK CD2 CD2 C 0 1 Y N N -24.822 -1.342 -22.241 2.128  1.638  1.105  CD2 SFK 19 
+SFK H1  H1  H 0 1 N N N -20.799 0.588  -22.417 -5.234 2.599  0.973  H1  SFK 20 
+SFK H2  H2  H 0 1 N N N -20.111 0.100  -24.002 -3.500 2.237  1.147  H2  SFK 21 
+SFK H3  H3  H 0 1 N N N -19.470 1.546  -23.152 -4.171 2.632  -0.454 H3  SFK 22 
+SFK H4  H4  H 0 1 N N N -21.674 2.686  -23.440 -4.853 0.160  1.202  H4  SFK 23 
+SFK H5  H5  H 0 1 N N N -19.931 2.974  -25.204 -5.676 1.008  -1.612 H5  SFK 24 
+SFK H6  H6  H 0 1 N N N -20.532 1.504  -26.044 -6.077 -0.543 -0.836 H6  SFK 25 
+SFK H7  H7  H 0 1 N N N -21.574 2.962  -25.930 -6.739 0.976  -0.185 H7  SFK 26 
+SFK H8  H8  H 0 1 N N N -22.899 0.417  -23.454 -3.675 -1.028 -0.673 H8  SFK 27 
+SFK H9  H9  H 0 1 N N N -22.426 0.290  -25.182 -3.188 0.556  -1.324 H9  SFK 28 
+SFK H10 H10 H 0 1 N N N -23.445 2.535  -25.624 -2.017 1.068  0.802  H10 SFK 29 
+SFK H11 H11 H 0 1 N N N -23.921 2.658  -23.896 -2.505 -0.515 1.452  H11 SFK 30 
+SFK H12 H12 H 0 1 N N N -25.695 1.533  -23.180 0.185  -0.342 1.455  H12 SFK 31 
+SFK H13 H13 H 0 1 N N N -27.351 0.103  -25.179 1.268  -1.085 -1.153 H13 SFK 32 
+SFK H14 H14 H 0 1 N N N -28.664 2.242  -22.294 2.108  -4.537 -0.244 H14 SFK 33 
+SFK H15 H15 H 0 1 N N N -27.844 -1.741 -23.478 2.525  -0.911 1.621  H15 SFK 34 
+SFK H16 H16 H 0 1 N N N -26.249 -1.827 -24.300 3.418  -1.289 0.129  H16 SFK 35 
+SFK H17 H17 H 0 1 N N N -28.021 -0.979 -21.191 3.749  0.404  -1.583 H17 SFK 36 
+SFK H18 H18 H 0 1 N N N -26.894 -0.953 -18.998 3.942  2.808  -2.077 H18 SFK 37 
+SFK H19 H19 H 0 1 N N N -24.431 -1.147 -18.873 2.975  4.464  -0.531 H19 SFK 38 
+SFK H20 H20 H 0 1 N N N -23.108 -1.400 -20.947 1.816  3.714  1.509  H20 SFK 39 
+SFK H21 H21 H 0 1 N N N -24.239 -1.467 -23.142 1.616  1.309  1.997  H21 SFK 40 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SFK OAN CAM DOUB N N 1  
+SFK CAS CAQ SING N N 2  
+SFK CAM CAO SING N N 3  
+SFK CAM N   SING N N 4  
+SFK CAO CAP SING N N 5  
+SFK CAP CAQ SING N N 6  
+SFK CA  N   SING N N 7  
+SFK CA  CB  SING N N 8  
+SFK CA  C   SING N N 9  
+SFK CAQ CAR SING N N 10 
+SFK CB  CG  SING N N 11 
+SFK C   O   DOUB N N 12 
+SFK C   OXT SING N N 13 
+SFK CG  CD2 DOUB Y N 14 
+SFK CG  CD1 SING Y N 15 
+SFK CD2 CE2 SING Y N 16 
+SFK CD1 CE1 DOUB Y N 17 
+SFK CE2 CZ  DOUB Y N 18 
+SFK CE1 CZ  SING Y N 19 
+SFK CAR H1  SING N N 20 
+SFK CAR H2  SING N N 21 
+SFK CAR H3  SING N N 22 
+SFK CAQ H4  SING N N 23 
+SFK CAS H5  SING N N 24 
+SFK CAS H6  SING N N 25 
+SFK CAS H7  SING N N 26 
+SFK CAP H8  SING N N 27 
+SFK CAP H9  SING N N 28 
+SFK CAO H10 SING N N 29 
+SFK CAO H11 SING N N 30 
+SFK N   H12 SING N N 31 
+SFK CA  H13 SING N N 32 
+SFK OXT H14 SING N N 33 
+SFK CB  H15 SING N N 34 
+SFK CB  H16 SING N N 35 
+SFK CD1 H17 SING N N 36 
+SFK CE1 H18 SING N N 37 
+SFK CZ  H19 SING N N 38 
+SFK CE2 H20 SING N N 39 
+SFK CD2 H21 SING N N 40 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SFK SMILES           ACDLabs              12.01 "O=C(O)C(NC(=O)CCC(C)C)Cc1ccccc1"                                                                                               
+SFK InChI            InChI                1.03  "InChI=1S/C15H21NO3/c1-11(2)8-9-14(17)16-13(15(18)19)10-12-6-4-3-5-7-12/h3-7,11,13H,8-10H2,1-2H3,(H,16,17)(H,18,19)/t13-/m0/s1" 
+SFK InChIKey         InChI                1.03  SNFOUMUDOQSPKF-ZDUSSCGKSA-N                                                                                                     
+SFK SMILES_CANONICAL CACTVS               3.370 "CC(C)CCC(=O)N[C@@H](Cc1ccccc1)C(O)=O"                                                                                          
+SFK SMILES           CACTVS               3.370 "CC(C)CCC(=O)N[CH](Cc1ccccc1)C(O)=O"                                                                                            
+SFK SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(C)CCC(=O)N[C@@H](Cc1ccccc1)C(=O)O"                                                                                          
+SFK SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C)CCC(=O)NC(Cc1ccccc1)C(=O)O"                                                                                               
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SFK "SYSTEMATIC NAME" ACDLabs              12.01 "N-(4-methylpentanoyl)-L-phenylalanine"                   
+SFK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S)-2-(4-methylpentanoylamino)-3-phenyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SFK "Create component" 2013-04-15 PDBJ 
+SFK "Initial release"  2013-05-01 RCSB 
+# 

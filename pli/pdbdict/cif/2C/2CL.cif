@@ -1,0 +1,123 @@
+data_2CL
+# 
+_chem_comp.id                                    2CL 
+_chem_comp.name                                  "(2,6-DICHLOROPHENYL)ACETIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 Cl2 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-10-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   ? 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        205.038 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2CL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2IPW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2CL C1  C1  C  0 1 Y N N 17.983 24.374 63.048 2.878  -1.652 2.002  C1  2CL 1  
+2CL C2  C2  C  0 1 Y N N 19.222 24.704 62.515 2.921  -1.631 0.608  C2  2CL 2  
+2CL C3  C3  C  0 1 Y N N 19.840 23.840 61.624 1.885  -1.036 -0.112 C3  2CL 3  
+2CL C4  C4  C  0 1 Y N N 19.229 22.647 61.260 0.807  -0.463 0.561  C4  2CL 4  
+2CL C5  C5  C  0 1 Y N N 17.993 22.317 61.799 0.764  -0.484 1.955  C5  2CL 5  
+2CL C6  C6  C  0 1 Y N N 17.365 23.176 62.694 1.800  -1.079 2.676  C6  2CL 6  
+2CL C7  C7  C  0 1 N N N 17.389 25.232 64.134 3.991  -2.291 2.776  C7  2CL 7  
+2CL C8  C8  C  0 1 N N N 16.392 26.255 63.633 3.709  -3.751 3.014  C8  2CL 8  
+2CL CL1 CL1 CL 0 0 N N N 19.969 26.263 62.888 4.237  -2.328 -0.266 CL1 2CL 9  
+2CL CL2 CL2 CL 0 0 N N N 15.790 22.738 63.375 1.706  -1.083 4.400  CL2 2CL 10 
+2CL O1  O1  O  0 1 N N N 16.239 26.435 62.406 2.672  -4.310 2.681  O1  2CL 11 
+2CL O2  O2  O  0 1 N N N 15.756 26.892 64.489 4.719  -4.382 3.663  O2  2CL 12 
+2CL H3  H3  H  0 1 N N N 20.804 24.097 61.210 1.904  -1.009 -1.199 H3  2CL 13 
+2CL H4  H4  H  0 1 N N N 19.713 21.980 60.562 0.000  0.000  -0.000 H4  2CL 14 
+2CL H5  H5  H  0 1 N N N 17.517 21.388 61.522 -0.084 -0.032 2.464  H5  2CL 15 
+2CL H71 1H7 H  0 1 N N N 16.870 24.571 64.844 4.161  -1.782 3.730  H71 2CL 16 
+2CL H72 2H7 H  0 1 N N N 18.219 25.790 64.593 4.938  -2.212 2.232  H72 2CL 17 
+2CL HO2 HO2 H  0 1 N N N 15.169 27.503 64.059 4.565  -5.332 3.854  HO2 2CL 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2CL C1 C2  DOUB Y N 1  
+2CL C1 C6  SING Y N 2  
+2CL C1 C7  SING N N 3  
+2CL C2 C3  SING Y N 4  
+2CL C2 CL1 SING N N 5  
+2CL C3 C4  DOUB Y N 6  
+2CL C3 H3  SING N N 7  
+2CL C4 C5  SING Y N 8  
+2CL C4 H4  SING N N 9  
+2CL C5 C6  DOUB Y N 10 
+2CL C5 H5  SING N N 11 
+2CL C6 CL2 SING N N 12 
+2CL C7 C8  SING N N 13 
+2CL C7 H71 SING N N 14 
+2CL C7 H72 SING N N 15 
+2CL C8 O1  DOUB N N 16 
+2CL C8 O2  SING N N 17 
+2CL O2 HO2 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2CL SMILES           ACDLabs              10.04 "Clc1cccc(Cl)c1CC(=O)O"                                                
+2CL SMILES_CANONICAL CACTVS               3.341 "OC(=O)Cc1c(Cl)cccc1Cl"                                                
+2CL SMILES           CACTVS               3.341 "OC(=O)Cc1c(Cl)cccc1Cl"                                                
+2CL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)Cl)CC(=O)O)Cl"                                            
+2CL SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)Cl)CC(=O)O)Cl"                                            
+2CL InChI            InChI                1.03  "InChI=1S/C8H6Cl2O2/c9-6-2-1-3-7(10)5(6)4-8(11)12/h1-3H,4H2,(H,11,12)" 
+2CL InChIKey         InChI                1.03  SFAILOOQFZNOAU-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2CL "SYSTEMATIC NAME" ACDLabs              10.04 "(2,6-dichlorophenyl)acetic acid"     
+2CL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "2-(2,6-dichlorophenyl)ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2CL "Create component"  2006-10-17 EBI  
+2CL "Modify descriptor" 2011-06-04 RCSB 
+# 

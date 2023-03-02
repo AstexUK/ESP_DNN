@@ -1,0 +1,122 @@
+data_RSO
+# 
+_chem_comp.id                                    RSO 
+_chem_comp.name                                  "R-STYRENE OXIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H8 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-08-12 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        120.149 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     RSO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1PWZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+RSO C1   C1   C 0 1 Y N N 67.206 31.485 14.392 2.574  -0.221 0.185  C1   RSO 1  
+RSO C2   C2   C 0 1 Y N N 67.613 32.322 15.450 2.082  1.065  0.062  C2   RSO 2  
+RSO C3   C3   C 0 1 Y N N 68.996 32.597 15.675 0.731  1.272  -0.148 C3   RSO 3  
+RSO C4   C4   C 0 1 Y N N 69.983 32.030 14.836 -0.127 0.192  -0.236 C4   RSO 4  
+RSO C5   C5   C 0 1 Y N N 69.550 31.189 13.774 0.364  -1.094 -0.108 C5   RSO 5  
+RSO C6   C6   C 0 1 Y N N 68.177 30.916 13.552 1.715  -1.300 0.097  C6   RSO 6  
+RSO C12  C12  C 0 1 N N R 71.465 32.311 15.061 -1.600 0.417  -0.465 C12  RSO 7  
+RSO C13  C13  C 0 1 N N N 72.607 31.685 14.322 -2.523 0.397  0.754  C13  RSO 8  
+RSO O14  O14  O 0 1 N N N 71.998 31.020 15.435 -2.489 -0.669 -0.197 O14  RSO 9  
+RSO HC1  HC1  H 0 1 N N N 66.136 31.277 14.223 3.629  -0.382 0.348  HC1  RSO 10 
+RSO HC2  HC2  H 0 1 N N N 66.845 32.765 16.106 2.753  1.909  0.130  HC2  RSO 11 
+RSO HC3  HC3  H 0 1 N N N 69.305 33.254 16.505 0.347  2.277  -0.244 HC3  RSO 12 
+RSO HC5  HC5  H 0 1 N N N 70.300 30.736 13.104 -0.307 -1.937 -0.177 HC5  RSO 13 
+RSO HC6  HC6  H 0 1 N N N 67.863 30.259 12.723 2.099  -2.305 0.193  HC6  RSO 14 
+RSO H12  H12  H 0 1 N N N 71.350 33.386 15.336 -1.854 1.091  -1.284 H12  RSO 15 
+RSO H131 1H13 H 0 0 N N N 73.643 31.994 14.050 -3.390 1.058  0.746  H131 RSO 16 
+RSO H132 2H13 H 0 0 N N N 72.820 31.425 13.259 -2.072 0.222  1.731  H132 RSO 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+RSO C1  C2   DOUB Y N 1  
+RSO C1  C6   SING Y N 2  
+RSO C1  HC1  SING N N 3  
+RSO C2  C3   SING Y N 4  
+RSO C2  HC2  SING N N 5  
+RSO C3  C4   DOUB Y N 6  
+RSO C3  HC3  SING N N 7  
+RSO C4  C5   SING Y N 8  
+RSO C4  C12  SING N N 9  
+RSO C5  C6   DOUB Y N 10 
+RSO C5  HC5  SING N N 11 
+RSO C6  HC6  SING N N 12 
+RSO C12 C13  SING N N 13 
+RSO C12 O14  SING N N 14 
+RSO C12 H12  SING N N 15 
+RSO C13 O14  SING N N 16 
+RSO C13 H131 SING N N 17 
+RSO C13 H132 SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+RSO SMILES           ACDLabs              10.04 "O2C(c1ccccc1)C2"                                             
+RSO SMILES_CANONICAL CACTVS               3.341 "C1O[C@@H]1c2ccccc2"                                          
+RSO SMILES           CACTVS               3.341 "C1O[CH]1c2ccccc2"                                            
+RSO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)[C@@H]2CO2"                                        
+RSO SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C2CO2"                                             
+RSO InChI            InChI                1.03  "InChI=1S/C8H8O/c1-2-4-7(5-3-1)8-6-9-8/h1-5,8H,6H2/t8-/m0/s1" 
+RSO InChIKey         InChI                1.03  AWMVMTVKBNGEAK-QMMMGPOBSA-N                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+RSO "SYSTEMATIC NAME" ACDLabs              10.04 "(2R)-2-phenyloxirane" 
+RSO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-phenyloxirane" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+RSO "Create component"  2003-08-12 RCSB 
+RSO "Modify descriptor" 2011-06-04 RCSB 
+# 

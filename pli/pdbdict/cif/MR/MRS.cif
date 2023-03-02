@@ -1,0 +1,351 @@
+data_MRS
+# 
+_chem_comp.id                                    MRS 
+_chem_comp.name                                  "(S)-2-METHYLMYRISTOYL-COENZYME A" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAC 
+_chem_comp.formula                               "C36 H64 N7 O17 P3 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+"[5-(6-AMINOPURIN-9-YL)-2-[[[[3-[2-(2-(S)-2-METHYLTETRADECANOYL)-SULFANYLETHYLCARBAMOYL ETHYLCARBAMOYL]-3-HYDROXY-2,2-DIMETHYL-PROPOXY]-HYDROXY-PHOSPHORYL]OXY-HYDROXY-PHOSPHORYL]OXYMETHYL]-4-HYDROXY-OXOLAN-3-YL]OXYPHOSPHONIC ACID" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-03-22 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        991.916 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MRS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MRS O7A    AO7  O 0 1 N N N 21.924 -28.328 10.578 -8.193  -2.651 -3.924 O7A    MRS 1   
+MRS P3B    AP3* P 0 1 N N N 22.743 -27.413 11.460 -9.329  -3.722 -3.533 P3B    MRS 2   
+MRS O8A    AO8  O 0 1 N N N 23.918 -28.078 12.158 -10.636 -3.269 -4.059 O8A    MRS 3   
+MRS O9A    AO9  O 0 1 N N N 21.871 -26.523 12.332 -8.961  -5.153 -4.173 O9A    MRS 4   
+MRS O3B    AO3* O 0 1 N N N 23.403 -26.362 10.431 -9.412  -3.856 -1.931 O3B    MRS 5   
+MRS C3B    AC3* C 0 1 N N S 23.941 -26.783 9.178  -9.855  -2.592 -1.433 C3B    MRS 6   
+MRS C2B    AC2* C 0 1 N N R 23.162 -26.180 8.020  -11.171 -2.756 -0.628 C2B    MRS 7   
+MRS O2B    AO2* O 0 1 N N N 21.775 -26.017 8.319  -11.830 -3.977 -0.973 O2B    MRS 8   
+MRS C1B    AC1* C 0 1 N N R 23.851 -24.847 7.856  -10.654 -2.800 0.833  C1B    MRS 9   
+MRS N9A    AN9  N 0 1 Y N N 23.768 -24.247 6.508  -11.702 -2.382 1.767  N9A    MRS 10  
+MRS C4A    AC4  C 0 1 Y N N 23.070 -23.148 6.219  -12.634 -3.196 2.360  C4A    MRS 11  
+MRS N3A    AN3  N 0 1 Y N N 22.262 -22.349 6.966  -12.897 -4.498 2.330  N3A    MRS 12  
+MRS C2A    AC2  C 0 1 Y N N 21.650 -21.277 6.435  -13.887 -4.999 3.038  C2A    MRS 13  
+MRS N1A    AN1  N 0 1 Y N N 21.790 -20.937 5.144  -14.656 -4.252 3.808  N1A    MRS 14  
+MRS C6A    AC6  C 0 1 Y N N 22.575 -21.668 4.316  -14.465 -2.941 3.907  C6A    MRS 15  
+MRS N6A    AN6  N 0 1 N N N 22.706 -21.303 3.015  -15.277 -2.166 4.717  N6A    MRS 16  
+MRS C5A    AC5  C 0 1 Y N N 23.270 -22.860 4.881  -13.420 -2.359 3.169  C5A    MRS 17  
+MRS N7A    AN7  N 0 1 Y N N 24.112 -23.799 4.389  -12.943 -1.100 3.024  N7A    MRS 18  
+MRS C8A    AC8  C 0 1 Y N N 24.417 -24.641 5.406  -11.934 -1.111 2.202  C8A    MRS 19  
+MRS O4B    AO4* O 0 1 N N N 25.227 -25.068 8.208  -9.565  -1.853 0.833  O4B    MRS 20  
+MRS C4B    AC4* C 0 1 N N R 25.350 -26.220 9.049  -8.855  -2.029 -0.405 C4B    MRS 21  
+MRS C5B    AC5* C 0 1 N N N 26.324 -27.222 8.422  -8.314  -0.682 -0.889 C5B    MRS 22  
+MRS O5B    AO5* O 0 1 N N N 26.391 -28.423 9.198  -7.308  -0.220 0.015  O5B    MRS 23  
+MRS P1A    AP1  P 0 1 N N R 27.672 -29.414 9.120  -6.785  1.193  -0.553 P1A    MRS 24  
+MRS O1A    AO1  O 0 1 N N N 27.609 -30.343 10.310 -6.336  1.026  -1.953 O1A    MRS 25  
+MRS O2A    AO2  O 0 1 N N N 27.753 -29.973 7.714  -7.982  2.269  -0.498 O2A    MRS 26  
+MRS O3A    AO3  O 0 1 N N N 28.960 -28.428 9.312  -5.555  1.711  0.347  O3A    MRS 27  
+MRS P2A    AP2  P 0 1 N N S 30.111 -28.485 10.460 -4.834  2.886  -0.483 P2A    MRS 28  
+MRS O4A    AO4  O 0 1 N N N 30.897 -27.206 10.325 -4.783  2.518  -1.916 O4A    MRS 29  
+MRS O5A    AO5  O 0 1 N N N 29.579 -28.898 11.818 -5.664  4.254  -0.310 O5A    MRS 30  
+MRS O6A    AO6  O 0 1 N N N 31.078 -29.696 9.990  -3.336  3.094  0.071  O6A    MRS 31  
+MRS CCP    PC12 C 0 1 N N N 32.005 -29.534 8.913  -2.712  4.060  -0.777 CCP    MRS 32  
+MRS CBP    PC11 C 0 1 N N N 32.209 -30.866 8.164  -1.278  4.304  -0.302 CBP    MRS 33  
+MRS CDP    PC13 C 0 1 N N N 32.988 -30.496 6.902  -1.299  4.825  1.136  CDP    MRS 34  
+MRS CEP    PC14 C 0 1 N N N 33.043 -31.815 9.032  -0.492  2.993  -0.358 CEP    MRS 35  
+MRS CAP    PC10 C 0 1 N N R 30.852 -31.493 7.796  -0.610  5.338  -1.210 CAP    MRS 36  
+MRS OAP    PO10 O 0 1 N N N 30.117 -30.577 6.965  -1.418  6.516  -1.267 OAP    MRS 37  
+MRS C9P    PC9  C 0 1 N N N 30.974 -32.848 7.119  0.749   5.687  -0.659 C9P    MRS 38  
+MRS O9P    PO9  O 0 1 N N N 31.244 -33.827 7.798  0.927   6.758  -0.117 O9P    MRS 39  
+MRS N8P    PN8  N 0 1 N N N 30.766 -32.887 5.784  1.766   4.810  -0.768 N8P    MRS 40  
+MRS C7P    PC7  C 0 1 N N N 30.801 -33.998 4.828  3.075   5.132  -0.195 C7P    MRS 41  
+MRS C6P    PC6  C 0 1 N N N 32.232 -34.548 4.740  4.044   3.976  -0.456 C6P    MRS 42  
+MRS C5P    PC5  C 0 1 N N N 33.240 -33.479 4.383  5.391   4.307  0.133  C5P    MRS 43  
+MRS O5P    PO5  O 0 1 N N N 32.973 -32.675 3.516  5.560   5.363  0.706  O5P    MRS 44  
+MRS N4P    PN4  N 0 1 N N N 34.405 -33.470 5.045  6.408   3.430  0.024  N4P    MRS 45  
+MRS C3P    PC3  C 0 1 N N N 35.514 -32.540 4.875  7.718   3.751  0.597  C3P    MRS 46  
+MRS C2P    PC2  C 0 1 N N N 36.508 -33.208 3.916  8.686   2.596  0.336  C2P    MRS 47  
+MRS S1P    PS1  S 0 1 N N N 37.341 -31.947 3.020  10.304  2.994  1.044  S1P    MRS 48  
+MRS C1     C1   C 0 1 N N N 38.980 -31.830 3.420  11.169  1.578  0.622  C1     MRS 49  
+MRS O1     O1   O 0 1 N N N 39.647 -32.828 3.640  10.616  0.689  0.009  O1     MRS 50  
+MRS C2     C2   C 0 1 N N S 39.698 -30.507 3.518  12.618  1.436  1.011  C2     MRS 51  
+MRS C13    C13  C 0 1 N N N 41.168 -30.840 3.751  12.746  1.507  2.534  C13    MRS 52  
+MRS C3     C3   C 0 1 N N N 39.527 -29.641 2.274  13.149  0.089  0.517  C3     MRS 53  
+MRS C4     C4   C 0 1 N N N 39.535 -28.171 2.650  14.650  -0.003 0.802  C4     MRS 54  
+MRS C5     C5   C 0 1 N N N 40.906 -27.538 2.462  15.181  -1.350 0.308  C5     MRS 55  
+MRS C6     C6   C 0 1 N N N 40.944 -26.127 3.046  16.681  -1.442 0.592  C6     MRS 56  
+MRS C7     C7   C 0 1 N N N 41.507 -25.137 2.026  17.213  -2.789 0.098  C7     MRS 57  
+MRS C8     C8   C 0 1 N N N 40.787 -23.789 2.068  18.713  -2.881 0.383  C8     MRS 58  
+MRS C9     C9   C 0 1 N N N 40.028 -23.524 0.763  19.244  -4.228 -0.111 C9     MRS 59  
+MRS C10    C10  C 0 1 N N N 40.949 -23.048 -0.369 20.745  -4.320 0.173  C10    MRS 60  
+MRS C11    C11  C 0 1 N N N 40.200 -22.157 -1.361 21.276  -5.667 -0.321 C11    MRS 61  
+MRS C12    C12  C 0 1 N N N 41.160 -21.566 -2.397 22.777  -5.759 -0.036 C12    MRS 62  
+MRS C14    C14  C 0 1 N N N 41.460 -20.088 -2.127 23.308  -7.106 -0.530 C14    MRS 63  
+MRS C15    C15  C 0 1 N N N 42.119 -19.388 -3.304 24.808  -7.198 -0.245 C15    MRS 64  
+MRS HO7    HO7  H 0 1 N N N 21.752 -27.898 9.748  -7.359  -2.984 -3.564 HO7    MRS 65  
+MRS HO9    HO9  H 0 1 N N N 21.689 -26.964 13.153 -8.921  -5.029 -5.131 HO9    MRS 66  
+MRS "H3'"  H3*  H 0 1 N N N 23.904 -27.882 9.145  -9.995  -1.888 -2.253 "H3'"  MRS 67  
+MRS "H2'"  H2*  H 0 1 N N N 23.164 -26.809 7.117  -11.832 -1.903 -0.781 "H2'"  MRS 68  
+MRS H3     H3   H 0 1 N N N 21.656 -25.981 9.261  -12.585 -4.065 -0.376 H3     MRS 69  
+MRS "H1'"  H1*  H 0 1 N N N 23.338 -24.119 8.501  -10.295 -3.799 1.083  "H1'"  MRS 70  
+MRS H4     H4   H 0 1 N N N 21.023 -20.667 7.069  -14.077 -6.061 2.987  H4     MRS 71  
+MRS HN61   1HN6 H 0 0 N N N 23.258 -21.772 2.325  -15.128 -1.209 4.780  HN61   MRS 72  
+MRS HN62   2HN6 H 0 0 N N N 22.153 -20.483 2.868  -15.995 -2.579 5.221  HN62   MRS 73  
+MRS H8     H8   H 0 1 N N N 25.077 -25.493 5.338  -11.365 -0.241 1.907  H8     MRS 74  
+MRS "H4'"  H4*  H 0 1 N N N 25.759 -25.981 10.042 -8.033  -2.730 -0.265 "H4'"  MRS 75  
+MRS "H5'1" 1H5* H 0 0 N N N 27.325 -26.767 8.390  -9.126  0.043  -0.930 "H5'1" MRS 76  
+MRS "H5'2" 2H5* H 0 0 N N N 25.979 -27.470 7.407  -7.882  -0.801 -1.883 "H5'2" MRS 77  
+MRS HO2    HO2  H 0 1 N N N 27.770 -29.258 7.089  -8.244  2.348  0.429  HO2    MRS 78  
+MRS HO5    HO5  H 0 1 N N N 30.302 -28.984 12.429 -5.673  4.458  0.635  HO5    MRS 79  
+MRS H201   1H20 H 0 0 N N N 32.972 -29.207 9.324  -3.272  4.994  -0.737 H201   MRS 80  
+MRS H202   2H20 H 0 0 N N N 31.612 -28.784 8.211  -2.697  3.688  -1.802 H202   MRS 81  
+MRS H181   1H18 H 0 0 N N N 33.730 -31.279 6.687  -1.859  5.760  1.176  H181   MRS 82  
+MRS H182   2H18 H 0 0 N N N 33.502 -29.536 7.057  -1.775  4.089  1.783  H182   MRS 83  
+MRS H183   3H18 H 0 0 N N N 32.293 -30.407 6.054  -0.277  5.000  1.474  H183   MRS 84  
+MRS H191   1H19 H 0 0 N N N 32.489 -32.053 9.952  0.486   3.135  0.102  H191   MRS 85  
+MRS H192   2H19 H 0 0 N N N 33.996 -31.331 9.292  -1.038  2.219  0.181  H192   MRS 86  
+MRS H193   3H19 H 0 0 N N N 33.243 -32.742 8.475  -0.364  2.690  -1.397 H193   MRS 87  
+MRS H10    H10  H 0 1 N N N 30.311 -31.676 8.736  -0.500  4.925  -2.213 H10    MRS 88  
+MRS H1     H1   H 0 1 N N N 29.955 -29.773 7.445  -1.490  6.849  -0.362 H1     MRS 89  
+MRS HN8    HN8  H 0 1 N N N 30.550 -32.000 5.376  1.631   3.965  -1.226 HN8    MRS 90  
+MRS H171   1H17 H 0 0 N N N 30.482 -33.641 3.837  2.974   5.285  0.879  H171   MRS 91  
+MRS H172   2H17 H 0 0 N N N 30.121 -34.794 5.165  3.461   6.040  -0.657 H172   MRS 92  
+MRS H161   1H16 H 0 0 N N N 32.252 -35.309 3.946  4.145   3.823  -1.531 H161   MRS 93  
+MRS H162   2H16 H 0 0 N N N 32.504 -34.971 5.718  3.659   3.067  0.006  H162   MRS 94  
+MRS HN4    HN4  H 0 1 N N N 34.527 -34.183 5.735  6.273   2.585  -0.434 HN4    MRS 95  
+MRS H11    1H1  H 0 1 N N N 35.990 -32.314 5.841  7.616   3.905  1.671  H11    MRS 96  
+MRS H12    2H1  H 0 1 N N N 35.156 -31.589 4.454  8.103   4.660  0.135  H12    MRS 97  
+MRS H21    1H2  H 0 1 N N N 35.975 -33.876 3.223  8.787   2.443  -0.738 H21    MRS 98  
+MRS H22    2H2  H 0 1 N N N 37.235 -33.804 4.487  8.301   1.687  0.798  H22    MRS 99  
+MRS H2     H2   H 0 1 N N N 39.274 -29.911 4.340  13.196  2.242  0.560  H2     MRS 100 
+MRS H131   1H13 H 0 0 N N N 41.246 -31.797 4.288  13.794  1.405  2.816  H131   MRS 101 
+MRS H132   2H13 H 0 0 N N N 41.634 -30.043 4.350  12.368  2.467  2.886  H132   MRS 102 
+MRS H133   3H13 H 0 0 N N N 41.684 -30.920 2.783  12.168  0.701  2.986  H133   MRS 103 
+MRS H31    1H3  H 0 1 N N N 38.565 -29.884 1.798  12.977  0.002  -0.556 H31    MRS 104 
+MRS H32    2H3  H 0 1 N N N 40.355 -29.841 1.578  12.631  -0.718 1.035  H32    MRS 105 
+MRS H41    1H4  H 0 1 N N N 39.267 -28.091 3.714  14.822  0.084  1.874  H41    MRS 106 
+MRS H42    2H4  H 0 1 N N N 38.814 -27.642 2.010  15.168  0.804  0.284  H42    MRS 107 
+MRS H51    1H5  H 0 1 N N N 41.119 -27.477 1.385  15.009  -1.437 -0.765 H51    MRS 108 
+MRS H52    2H5  H 0 1 N N N 41.658 -28.157 2.974  14.663  -2.157 0.826  H52    MRS 109 
+MRS H61    1H6  H 0 1 N N N 41.592 -26.128 3.935  16.854  -1.355 1.665  H61    MRS 110 
+MRS H62    2H6  H 0 1 N N N 39.922 -25.822 3.317  17.200  -0.635 0.074  H62    MRS 111 
+MRS H71    1H7  H 0 1 N N N 41.363 -25.566 1.023  17.040  -2.876 -0.974 H71    MRS 112 
+MRS H72    2H7  H 0 1 N N N 42.571 -24.972 2.249  16.695  -3.596 0.616  H72    MRS 113 
+MRS H81    1H8  H 0 1 N N N 41.538 -22.996 2.202  18.886  -2.794 1.456  H81    MRS 114 
+MRS H82    2H8  H 0 1 N N N 40.070 -23.794 2.902  19.231  -2.074 -0.135 H82    MRS 115 
+MRS H91    1H9  H 0 1 N N N 39.296 -22.726 0.957  19.072  -4.315 -1.184 H91    MRS 116 
+MRS H92    2H9  H 0 1 N N N 39.543 -24.459 0.447  18.726  -5.035 0.407  H92    MRS 117 
+MRS H101   1H10 H 0 0 N N N 41.321 -23.932 -0.908 20.917  -4.232 1.246  H101   MRS 118 
+MRS H102   2H10 H 0 0 N N N 41.780 -22.474 0.067  21.263  -3.513 -0.345 H102   MRS 119 
+MRS H111   1H11 H 0 0 N N N 39.728 -21.332 -0.807 21.104  -5.754 -1.393 H111   MRS 120 
+MRS H112   2H11 H 0 0 N N N 39.440 -22.759 -1.880 20.758  -6.474 0.197  H112   MRS 121 
+MRS H121   1H12 H 0 0 N N N 40.683 -21.641 -3.385 22.949  -5.671 1.037  H121   MRS 122 
+MRS H122   2H12 H 0 0 N N N 42.105 -22.128 -2.361 23.295  -4.952 -0.554 H122   MRS 123 
+MRS H141   1H14 H 0 0 N N N 42.162 -20.043 -1.281 23.136  -7.193 -1.603 H141   MRS 124 
+MRS H142   2H14 H 0 0 N N N 40.510 -19.577 -1.910 22.790  -7.913 -0.012 H142   MRS 125 
+MRS H151   1H15 H 0 0 N N N 41.468 -19.466 -4.188 24.981  -7.110 0.827  H151   MRS 126 
+MRS H152   2H15 H 0 0 N N N 43.087 -19.864 -3.518 25.187  -8.157 -0.597 H152   MRS 127 
+MRS H153   3H15 H 0 0 N N N 42.278 -18.328 -3.058 25.327  -6.391 -0.764 H153   MRS 128 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MRS O7A P3B    SING N N 1   
+MRS O7A HO7    SING N N 2   
+MRS P3B O8A    DOUB N N 3   
+MRS P3B O9A    SING N N 4   
+MRS P3B O3B    SING N N 5   
+MRS O9A HO9    SING N N 6   
+MRS O3B C3B    SING N N 7   
+MRS C3B C2B    SING N N 8   
+MRS C3B C4B    SING N N 9   
+MRS C3B "H3'"  SING N N 10  
+MRS C2B O2B    SING N N 11  
+MRS C2B C1B    SING N N 12  
+MRS C2B "H2'"  SING N N 13  
+MRS O2B H3     SING N N 14  
+MRS C1B N9A    SING N N 15  
+MRS C1B O4B    SING N N 16  
+MRS C1B "H1'"  SING N N 17  
+MRS N9A C4A    SING Y N 18  
+MRS N9A C8A    SING Y N 19  
+MRS C4A N3A    SING Y N 20  
+MRS C4A C5A    DOUB Y N 21  
+MRS N3A C2A    DOUB Y N 22  
+MRS C2A N1A    SING Y N 23  
+MRS C2A H4     SING N N 24  
+MRS N1A C6A    DOUB Y N 25  
+MRS C6A N6A    SING N N 26  
+MRS C6A C5A    SING Y N 27  
+MRS N6A HN61   SING N N 28  
+MRS N6A HN62   SING N N 29  
+MRS C5A N7A    SING Y N 30  
+MRS N7A C8A    DOUB Y N 31  
+MRS C8A H8     SING N N 32  
+MRS O4B C4B    SING N N 33  
+MRS C4B C5B    SING N N 34  
+MRS C4B "H4'"  SING N N 35  
+MRS C5B O5B    SING N N 36  
+MRS C5B "H5'1" SING N N 37  
+MRS C5B "H5'2" SING N N 38  
+MRS O5B P1A    SING N N 39  
+MRS P1A O1A    DOUB N N 40  
+MRS P1A O2A    SING N N 41  
+MRS P1A O3A    SING N N 42  
+MRS O2A HO2    SING N N 43  
+MRS O3A P2A    SING N N 44  
+MRS P2A O4A    DOUB N N 45  
+MRS P2A O5A    SING N N 46  
+MRS P2A O6A    SING N N 47  
+MRS O5A HO5    SING N N 48  
+MRS O6A CCP    SING N N 49  
+MRS CCP CBP    SING N N 50  
+MRS CCP H201   SING N N 51  
+MRS CCP H202   SING N N 52  
+MRS CBP CDP    SING N N 53  
+MRS CBP CEP    SING N N 54  
+MRS CBP CAP    SING N N 55  
+MRS CDP H181   SING N N 56  
+MRS CDP H182   SING N N 57  
+MRS CDP H183   SING N N 58  
+MRS CEP H191   SING N N 59  
+MRS CEP H192   SING N N 60  
+MRS CEP H193   SING N N 61  
+MRS CAP OAP    SING N N 62  
+MRS CAP C9P    SING N N 63  
+MRS CAP H10    SING N N 64  
+MRS OAP H1     SING N N 65  
+MRS C9P O9P    DOUB N N 66  
+MRS C9P N8P    SING N N 67  
+MRS N8P C7P    SING N N 68  
+MRS N8P HN8    SING N N 69  
+MRS C7P C6P    SING N N 70  
+MRS C7P H171   SING N N 71  
+MRS C7P H172   SING N N 72  
+MRS C6P C5P    SING N N 73  
+MRS C6P H161   SING N N 74  
+MRS C6P H162   SING N N 75  
+MRS C5P O5P    DOUB N N 76  
+MRS C5P N4P    SING N N 77  
+MRS N4P C3P    SING N N 78  
+MRS N4P HN4    SING N N 79  
+MRS C3P C2P    SING N N 80  
+MRS C3P H11    SING N N 81  
+MRS C3P H12    SING N N 82  
+MRS C2P S1P    SING N N 83  
+MRS C2P H21    SING N N 84  
+MRS C2P H22    SING N N 85  
+MRS S1P C1     SING N N 86  
+MRS C1  O1     DOUB N N 87  
+MRS C1  C2     SING N N 88  
+MRS C2  C13    SING N N 89  
+MRS C2  C3     SING N N 90  
+MRS C2  H2     SING N N 91  
+MRS C13 H131   SING N N 92  
+MRS C13 H132   SING N N 93  
+MRS C13 H133   SING N N 94  
+MRS C3  C4     SING N N 95  
+MRS C3  H31    SING N N 96  
+MRS C3  H32    SING N N 97  
+MRS C4  C5     SING N N 98  
+MRS C4  H41    SING N N 99  
+MRS C4  H42    SING N N 100 
+MRS C5  C6     SING N N 101 
+MRS C5  H51    SING N N 102 
+MRS C5  H52    SING N N 103 
+MRS C6  C7     SING N N 104 
+MRS C6  H61    SING N N 105 
+MRS C6  H62    SING N N 106 
+MRS C7  C8     SING N N 107 
+MRS C7  H71    SING N N 108 
+MRS C7  H72    SING N N 109 
+MRS C8  C9     SING N N 110 
+MRS C8  H81    SING N N 111 
+MRS C8  H82    SING N N 112 
+MRS C9  C10    SING N N 113 
+MRS C9  H91    SING N N 114 
+MRS C9  H92    SING N N 115 
+MRS C10 C11    SING N N 116 
+MRS C10 H101   SING N N 117 
+MRS C10 H102   SING N N 118 
+MRS C11 C12    SING N N 119 
+MRS C11 H111   SING N N 120 
+MRS C11 H112   SING N N 121 
+MRS C12 C14    SING N N 122 
+MRS C12 H121   SING N N 123 
+MRS C12 H122   SING N N 124 
+MRS C14 C15    SING N N 125 
+MRS C14 H141   SING N N 126 
+MRS C14 H142   SING N N 127 
+MRS C15 H151   SING N N 128 
+MRS C15 H152   SING N N 129 
+MRS C15 H153   SING N N 130 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MRS SMILES           ACDLabs              10.04 "O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3OP(=O)(O)O)C(C)CCCCCCCCCCCC" 
+MRS SMILES_CANONICAL CACTVS               3.341 "CCCCCCCCCCCC[C@H](C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)CO[P@@](O)(=O)O[P@@](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O[P](O)(O)=O)n2cnc3c(N)ncnc23" 
+MRS SMILES           CACTVS               3.341 "CCCCCCCCCCCC[CH](C)C(=O)SCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(=O)O[P](O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O[P](O)(O)=O)n2cnc3c(N)ncnc23" 
+MRS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCCCCCCCCC[C@H](C)C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)CO[P@](=O)(O)O[P@](=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O" 
+MRS SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCCCCCCCCC(C)C(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)n2cnc3c2ncnc3N)O)OP(=O)(O)O)O" 
+MRS InChI            InChI                1.03  
+;InChI=1S/C36H64N7O17P3S/c1-5-6-7-8-9-10-11-12-13-14-15-24(2)35(48)64-19-18-38-26(44)16-17-39-33(47)30(46)36(3,4)21-57-63(54,55)60-62(52,53)56-20-25-29(59-61(49,50)51)28(45)34(58-25)43-23-42-27-31(37)40-22-41-32(27)43/h22-25,28-30,34,45-46H,5-21H2,1-4H3,(H,38,44)(H,39,47)(H,52,53)(H,54,55)(H2,37,40,41)(H2,49,50,51)/t24-,25+,28+,29+,30-,34+/m0/s1
+;
+MRS InChIKey         InChI                1.03  KJEFZXSIQKASDI-YFHVBOCQSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MRS "SYSTEMATIC NAME" ACDLabs              10.04 
+;S-{(9R,13S,15R)-17-[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-3-(phosphonooxy)tetrahydrofuran-2-yl]-9,13,15-trihydroxy-10,10-dimethyl-13,15-dioxido-4,8-dioxo-12,14,16-trioxa-3,7-diaza-13,15-diphosphaheptadec-1-yl} (2S)-2-methyltetradecanethioate (non-preferred name)
+;
+MRS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 
+"S-[2-[3-[[(2R)-4-[[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-4-hydroxy-3-phosphonooxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxy-2-hydroxy-3,3-dimethyl-butanoyl]amino]propanoylamino]ethyl] (2S)-2-methyltetradecanethioate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MRS "Create component"  2006-03-22 RCSB 
+MRS "Modify descriptor" 2011-06-04 RCSB 
+# 

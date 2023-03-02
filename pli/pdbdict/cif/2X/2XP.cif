@@ -1,0 +1,120 @@
+data_2XP
+# 
+_chem_comp.id                                    2XP 
+_chem_comp.name                                  "(2Z,4Z)-2-imino-6-oxohex-4-enoic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H7 N O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-05-23 
+_chem_comp.pdbx_modified_date                    2013-01-11 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        141.125 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2XP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3VSJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2XP O3 O3 O 0 1 N N N 101.628 57.823 -16.324 -2.248 -1.489 0.539  O3 2XP 1  
+2XP C1 C1 C 0 1 N N N 100.912 57.327 -15.428 -2.242 -0.409 -0.015 C1 2XP 2  
+2XP O2 O2 O 0 1 N N N 99.664  57.421 -15.452 -3.333 0.010  -0.684 O2 2XP 3  
+2XP C2 C2 C 0 1 N N N 101.520 56.500 -14.399 -1.036 0.451  0.050  C2 2XP 4  
+2XP N  N  N 0 1 N N N 102.145 55.494 -14.837 -1.030 1.590  -0.534 N  2XP 5  
+2XP C3 C3 C 0 1 N N N 101.339 56.619 -12.929 0.182  -0.016 0.804  C3 2XP 6  
+2XP C4 C4 C 0 1 N N N 100.838 57.605 -12.159 1.260  1.034  0.717  C4 2XP 7  
+2XP C5 C5 C 0 1 N N N 100.171 58.889 -12.436 2.468  0.713  0.250  C5 2XP 8  
+2XP C6 C6 C 0 1 N N N 100.167 59.619 -13.541 2.708  -0.619 -0.302 C6 2XP 9  
+2XP O1 O1 O 0 1 N N N 100.757 59.247 -14.656 3.828  -0.944 -0.637 O1 2XP 10 
+2XP H1 H1 H 0 1 N N N 99.397  57.905 -16.225 -4.096 -0.583 -0.695 H1 2XP 11 
+2XP H2 H2 H 0 1 N N N 102.445 54.889 -14.099 -0.241 2.153  -0.491 H2 2XP 12 
+2XP H3 H3 H 0 1 N N N 100.715 55.750 -12.674 -0.079 -0.183 1.849  H3 2XP 13 
+2XP H4 H4 H 0 1 N N N 100.951 57.410 -11.103 1.054  2.046  1.033  H4 2XP 14 
+2XP H5 H5 H 0 1 N N N 99.600  59.296 -11.615 3.268  1.438  0.279  H5 2XP 15 
+2XP H6 H6 H 0 1 N N N 99.653  60.569 -13.526 1.889  -1.314 -0.412 H6 2XP 16 
+2XP H7 H7 H 0 1 N N N 102.354 56.471 -12.531 0.545  -0.946 0.367  H7 2XP 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2XP O3 C1 DOUB N N 1  
+2XP O2 C1 SING N N 2  
+2XP C1 C2 SING N N 3  
+2XP N  C2 DOUB N N 4  
+2XP O1 C6 DOUB N N 5  
+2XP C2 C3 SING N N 6  
+2XP C6 C5 SING N N 7  
+2XP C3 C4 SING N N 8  
+2XP C5 C4 DOUB N Z 9  
+2XP O2 H1 SING N N 10 
+2XP N  H2 SING N N 11 
+2XP C3 H3 SING N N 12 
+2XP C4 H4 SING N N 13 
+2XP C5 H5 SING N N 14 
+2XP C6 H6 SING N N 15 
+2XP C3 H7 SING N N 16 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2XP SMILES           ACDLabs              12.01 "O=C(O)C(=[N@H])C/C=C\C=O"                                                 
+2XP InChI            InChI                1.03  "InChI=1S/C6H7NO3/c7-5(6(9)10)3-1-2-4-8/h1-2,4,7H,3H2,(H,9,10)/b2-1-,7-5-" 
+2XP InChIKey         InChI                1.03  IZBQCPKKCVTOTK-PQZOIKATSA-N                                                
+2XP SMILES_CANONICAL CACTVS               3.370 "OC(=O)C(=N)C\C=C/C=O"                                                     
+2XP SMILES           CACTVS               3.370 "OC(=O)C(=N)CC=CC=O"                                                       
+2XP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[H]/N=C(/C/C=C\C=O)\C(=O)O"                                               
+2XP SMILES           "OpenEye OEToolkits" 1.7.6 "C(C=CC=O)C(=N)C(=O)O"                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2XP "SYSTEMATIC NAME" ACDLabs              12.01 "(2Z,4Z)-2-imino-6-oxohex-4-enoic acid"              
+2XP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(Z)-2-azanylidene-6-oxidanylidene-hex-4-enoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2XP "Create component" 2012-05-23 PDBJ 
+2XP "Initial release"  2013-01-11 RCSB 
+# 

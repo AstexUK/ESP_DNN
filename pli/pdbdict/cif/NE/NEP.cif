@@ -1,0 +1,137 @@
+data_NEP
+# 
+_chem_comp.id                                    NEP 
+_chem_comp.name                                  N1-PHOSPHONOHISTIDINE 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C6 H10 N3 O5 P" 
+_chem_comp.mon_nstd_parent_comp_id               HIS 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-26 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        235.134 
+_chem_comp.one_letter_code                       H 
+_chem_comp.three_letter_code                     NEP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EUD 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NEP N    N    N 0 1 N N N 13.802 -8.162 17.726 1.038  1.222  2.401  N    NEP 1  
+NEP CA   CA   C 0 1 N N S 14.078 -6.911 17.015 -0.095 0.412  2.866  CA   NEP 2  
+NEP C    C    C 0 1 N N N 12.844 -6.421 16.289 0.154  -0.035 4.283  C    NEP 3  
+NEP O    O    O 0 1 N N N 12.161 -7.180 15.581 1.285  -0.211 4.670  O    NEP 4  
+NEP CB   CB   C 0 1 N N N 15.164 -7.085 15.969 -0.251 -0.813 1.964  CB   NEP 5  
+NEP CG   CG   C 0 1 Y N N 16.500 -7.408 16.548 -0.501 -0.365 0.547  CG   NEP 6  
+NEP ND1  ND1  N 0 1 Y N N 17.476 -8.032 15.818 -1.534 0.379  0.126  ND1  NEP 7  
+NEP CD2  CD2  C 0 1 Y N N 17.048 -7.131 17.758 0.270  -0.648 -0.519 CD2  NEP 8  
+NEP CE1  CE1  C 0 1 Y N N 18.576 -8.125 16.542 -1.428 0.575  -1.158 CE1  NEP 9  
+NEP NE2  NE2  N 0 1 Y N N 18.345 -7.582 17.722 -0.317 -0.051 -1.602 NE2  NEP 10 
+NEP P    P    P 0 1 N N N 19.583 -7.735 19.056 0.225  -0.090 -3.149 P    NEP 11 
+NEP O1P  O1P  O 0 1 N N N 20.549 -8.854 18.726 -0.776 0.745  -4.091 O1P  NEP 12 
+NEP O2P  O2P  O 0 1 N N N 20.285 -6.429 19.106 1.696  0.561  -3.218 O2P  NEP 13 
+NEP O3P  O3P  O 0 1 N N N 18.696 -8.144 20.142 0.285  -1.494 -3.615 O3P  NEP 14 
+NEP OXT  OXT  O 0 1 N Y N 12.599 -5.123 16.419 -0.878 -0.237 5.115  OXT  NEP 15 
+NEP H    H    H 0 1 N N N 14.633 -8.492 18.215 0.877  1.411  1.423  H    NEP 16 
+NEP H2   HN2  H 0 1 N Y N 13.423 -8.874 17.102 1.855  0.632  2.452  H2   NEP 17 
+NEP HA   HA   H 0 1 N N N 14.405 -6.179 17.790 -1.007 1.008  2.829  HA   NEP 18 
+NEP HB2  1HB  H 0 1 N N N 14.865 -7.848 15.213 0.660  -1.409 2.001  HB2  NEP 19 
+NEP HB3  2HB  H 0 1 N N N 15.225 -6.187 15.310 -1.092 -1.414 2.309  HB3  NEP 20 
+NEP HD2  HD2  H 0 1 N N N 16.539 -6.637 18.603 1.177  -1.233 -0.521 HD2  NEP 21 
+NEP HE1  HE1  H 0 1 N N N 19.526 -8.579 16.216 -2.116 1.142  -1.768 HE1  NEP 22 
+NEP HOP1 1HOP H 0 0 N N N 21.193 -8.933 19.419 -0.421 0.697  -4.989 HOP1 NEP 23 
+NEP HOP2 2HOP H 0 0 N N N 20.929 -6.508 19.799 1.613  1.472  -2.906 HOP2 NEP 24 
+NEP HXT  HXT  H 0 1 N Y N 11.824 -4.815 15.963 -0.718 -0.524 6.025  HXT  NEP 25 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NEP N   CA   SING N N 1  
+NEP N   H    SING N N 2  
+NEP N   H2   SING N N 3  
+NEP CA  C    SING N N 4  
+NEP CA  CB   SING N N 5  
+NEP CA  HA   SING N N 6  
+NEP C   O    DOUB N N 7  
+NEP C   OXT  SING N N 8  
+NEP CB  CG   SING N N 9  
+NEP CB  HB2  SING N N 10 
+NEP CB  HB3  SING N N 11 
+NEP CG  ND1  SING Y N 12 
+NEP CG  CD2  DOUB Y N 13 
+NEP ND1 CE1  DOUB Y N 14 
+NEP CD2 NE2  SING Y N 15 
+NEP CD2 HD2  SING N N 16 
+NEP CE1 NE2  SING Y N 17 
+NEP CE1 HE1  SING N N 18 
+NEP NE2 P    SING N N 19 
+NEP P   O1P  SING N N 20 
+NEP P   O2P  SING N N 21 
+NEP P   O3P  DOUB N N 22 
+NEP O1P HOP1 SING N N 23 
+NEP O2P HOP2 SING N N 24 
+NEP OXT HXT  SING N N 25 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NEP SMILES           ACDLabs              10.04 "O=P(O)(O)n1cc(nc1)CC(C(=O)O)N"                                                                             
+NEP SMILES_CANONICAL CACTVS               3.341 "N[C@@H](Cc1cn(cn1)[P](O)(O)=O)C(O)=O"                                                                      
+NEP SMILES           CACTVS               3.341 "N[CH](Cc1cn(cn1)[P](O)(O)=O)C(O)=O"                                                                        
+NEP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1c(ncn1P(=O)(O)O)C[C@@H](C(=O)O)N"                                                                        
+NEP SMILES           "OpenEye OEToolkits" 1.5.0 "c1c(ncn1P(=O)(O)O)CC(C(=O)O)N"                                                                             
+NEP InChI            InChI                1.03  "InChI=1S/C6H10N3O5P/c7-5(6(10)11)1-4-2-9(3-8-4)15(12,13)14/h2-3,5H,1,7H2,(H,10,11)(H2,12,13,14)/t5-/m0/s1" 
+NEP InChIKey         InChI                1.03  MOYPZVWCTBPWEH-YFKPBYRVSA-N                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NEP "SYSTEMATIC NAME" ACDLabs              10.04 1-phosphono-L-histidine                                   
+NEP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-amino-3-(1-phosphonoimidazol-4-yl)propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NEP "Create component"  1999-07-26 EBI  
+NEP "Modify descriptor" 2011-06-04 RCSB 
+# 

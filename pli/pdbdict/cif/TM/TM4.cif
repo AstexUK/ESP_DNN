@@ -1,0 +1,117 @@
+data_TM4
+# 
+_chem_comp.id                                    TM4 
+_chem_comp.name                                  3-hydroxy-2-methyl-4H-pyran-4-thione 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-09-17 
+_chem_comp.pdbx_modified_date                    2014-06-27 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        142.176 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     TM4 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4MLT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+TM4 C6 C6 C 0 1 N N N 17.148 3.613 13.031 2.601  -1.250 0.004  C6 TM4 1  
+TM4 C1 C1 C 0 1 N N N 16.310 3.308 14.240 1.482  -0.241 0.002  C1 TM4 2  
+TM4 O1 O1 O 0 1 N N N 15.572 4.314 14.743 1.772  1.069  -0.000 O1 TM4 3  
+TM4 C5 C5 C 0 1 N N N 14.839 4.051 15.814 0.818  2.008  -0.002 C5 TM4 4  
+TM4 C4 C4 C 0 1 N N N 14.778 2.863 16.417 -0.487 1.671  -0.002 C4 TM4 5  
+TM4 C3 C3 C 0 1 N N N 15.526 1.781 15.938 -0.844 0.299  0.001  C3 TM4 6  
+TM4 S1 S1 S 0 1 N N N 15.487 0.239 16.667 -2.487 -0.182 0.002  S1 TM4 7  
+TM4 C2 C2 C 0 1 N N N 16.338 2.041 14.775 0.200  -0.666 -0.002 C2 TM4 8  
+TM4 O2 O2 O 0 1 N N N 17.048 1.098 14.275 -0.087 -1.996 -0.005 O2 TM4 9  
+TM4 H1 H1 H 0 1 N N N 17.010 4.666 12.744 3.559  -0.731 0.003  H1 TM4 10 
+TM4 H2 H2 H 0 1 N N N 18.208 3.433 13.265 2.527  -1.873 0.896  H2 TM4 11 
+TM4 H3 H3 H 0 1 N N N 16.841 2.963 12.198 2.526  -1.877 -0.884 H3 TM4 12 
+TM4 H5 H5 H 0 1 N N N 14.249 4.855 16.228 1.098  3.051  -0.004 H5 TM4 13 
+TM4 H6 H6 H 0 1 N N N 14.146 2.735 17.283 -1.250 2.436  -0.003 H6 TM4 14 
+TM4 H4 H4 H 0 1 N N N 16.925 0.305 14.783 -1.034 -2.194 -0.009 H4 TM4 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+TM4 C6 C1 SING N N 1  
+TM4 C1 O1 SING N N 2  
+TM4 C1 C2 DOUB N N 3  
+TM4 O2 C2 SING N N 4  
+TM4 O1 C5 SING N N 5  
+TM4 C2 C3 SING N N 6  
+TM4 C5 C4 DOUB N N 7  
+TM4 C3 C4 SING N N 8  
+TM4 C3 S1 DOUB N N 9  
+TM4 C6 H1 SING N N 10 
+TM4 C6 H2 SING N N 11 
+TM4 C6 H3 SING N N 12 
+TM4 C5 H5 SING N N 13 
+TM4 C4 H6 SING N N 14 
+TM4 O2 H4 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+TM4 SMILES           ACDLabs              12.01 "S=C1C(O)=C(OC=C1)C"                                
+TM4 InChI            InChI                1.03  "InChI=1S/C6H6O2S/c1-4-6(7)5(9)2-3-8-4/h2-3,7H,1H3" 
+TM4 InChIKey         InChI                1.03  GKLSXUGPECNEMX-UHFFFAOYSA-N                         
+TM4 SMILES_CANONICAL CACTVS               3.385 "CC1=C(O)C(=S)C=CO1"                                
+TM4 SMILES           CACTVS               3.385 "CC1=C(O)C(=S)C=CO1"                                
+TM4 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC1=C(C(=S)C=CO1)O"                                
+TM4 SMILES           "OpenEye OEToolkits" 1.7.6 "CC1=C(C(=S)C=CO1)O"                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+TM4 "SYSTEMATIC NAME" ACDLabs              12.01 3-hydroxy-2-methyl-4H-pyran-4-thione 
+TM4 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 2-methyl-3-oxidanyl-pyran-4-thione   
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+TM4 "Create component" 2013-09-17 RCSB 
+TM4 "Initial release"  2014-07-02 RCSB 
+# 

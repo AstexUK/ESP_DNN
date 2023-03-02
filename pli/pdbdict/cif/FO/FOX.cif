@@ -1,0 +1,174 @@
+data_FOX
+# 
+_chem_comp.id                                    FOX 
+_chem_comp.name                                  
+;((1R,2S,4R)-4-{[2-AMINO-5-(FORMYLAMINO)-6-OXO-3,6-DIHYDROPYRIMIDIN-4-YL]AMINO}-2-HYDROXYCYCLOPENTYL)METHYL 5'-PHOSPHATE
+;
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C11 H18 N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-06-21 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        363.264 
+_chem_comp.one_letter_code                       G 
+_chem_comp.three_letter_code                     FOX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1TDZ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FOX O1P    O1P  O 0 1 N N N 23.839 52.081 21.985 0.956  -3.935 -2.869 O1P    FOX 1  
+FOX P      P    P 0 1 N N N 23.758 50.625 22.341 0.261  -3.828 -1.543 P      FOX 2  
+FOX O2P    O2P  O 0 1 N N N 22.554 49.880 22.018 -1.325 -3.522 -1.617 O2P    FOX 3  
+FOX "O5'"  O5*  O 0 1 N N N 25.029 49.872 21.706 0.831  -2.672 -0.563 "O5'"  FOX 4  
+FOX "C5'"  C5*  C 0 1 N N N 26.356 50.263 22.036 0.228  -2.506 0.709  "C5'"  FOX 5  
+FOX "C4'"  C4*  C 0 1 N N R 27.351 49.653 21.042 0.930  -1.370 1.437  "C4'"  FOX 6  
+FOX "C6'"  C6*  C 0 1 N N N 28.759 50.017 21.513 0.853  -0.033 0.688  "C6'"  FOX 7  
+FOX "C3'"  C3*  C 0 1 N N S 27.310 48.103 21.082 0.320  -1.067 2.804  "C3'"  FOX 8  
+FOX "O3'"  O3*  O 0 1 N N N 27.935 47.573 19.886 0.741  -2.010 3.771  "O3'"  FOX 9  
+FOX "C2'"  C2*  C 0 1 N N N 28.194 47.776 22.268 0.864  0.323  3.105  "C2'"  FOX 10 
+FOX "C1'"  C1*  C 0 1 N N R 29.374 48.758 22.157 0.754  1.055  1.769  "C1'"  FOX 11 
+FOX N9     N9   N 0 1 N N N 29.926 49.131 23.479 -0.496 1.770  1.666  N9     FOX 12 
+FOX C4     C4   C 0 1 N N N 30.997 50.028 23.615 -0.685 2.756  0.798  C4     FOX 13 
+FOX N3     N3   N 0 1 N N N 31.674 50.410 22.489 0.333  3.137  -0.056 N3     FOX 14 
+FOX C2     C2   C 0 1 N N N 32.739 51.204 22.535 0.186  4.150  -0.971 C2     FOX 15 
+FOX N2     N2   N 0 1 N N N 33.357 51.548 21.410 1.306  4.380  -1.727 N2     FOX 16 
+FOX N1     N1   N 0 1 N N N 33.235 51.642 23.721 -0.917 4.834  -1.112 N1     FOX 17 
+FOX C6     C6   C 0 1 N N N 32.617 51.294 24.908 -2.005 4.540  -0.309 C6     FOX 18 
+FOX O6     O6   O 0 1 N N N 33.094 51.721 25.982 -3.072 5.143  -0.393 O6     FOX 19 
+FOX C5     C5   C 0 1 N N N 31.466 50.460 24.866 -1.854 3.429  0.700  C5     FOX 20 
+FOX N7     N7   N 0 1 N N N 30.828 50.159 26.019 -2.946 3.162  1.478  N7     FOX 21 
+FOX C8     C8   C 0 1 N N N 29.887 50.978 26.517 -3.874 4.112  1.840  C8     FOX 22 
+FOX O8     O8   O 0 1 N N N 29.147 51.635 25.744 -4.877 3.971  2.528  O8     FOX 23 
+FOX O3P    O3P  O 0 1 N Y N ?      ?      ?      0.341  -5.155 -0.621 O3P    FOX 24 
+FOX HOP2   2HOP H 0 0 N N N 22.502 48.958 22.243 -1.885 -4.059 -2.216 HOP2   FOX 25 
+FOX "H5'1" 1H5* H 0 0 N N N 26.459 51.371 22.101 -0.830 -2.271 0.575  "H5'1" FOX 26 
+FOX "H5'2" 2H5* H 0 0 N N N 26.614 50.011 23.091 0.326  -3.434 1.275  "H5'2" FOX 27 
+FOX "H4'"  H4*  H 0 1 N N N 27.096 50.029 20.023 1.982  -1.659 1.561  "H4'"  FOX 28 
+FOX "H6'1" 1H6* H 0 0 N N N 29.392 50.442 20.700 1.756  0.104  0.081  "H6'1" FOX 29 
+FOX "H6'2" 2H6* H 0 0 N N N 28.775 50.903 22.189 -0.003 -0.004 0.004  "H6'2" FOX 30 
+FOX "H3'"  H3*  H 0 1 N N N 26.277 47.688 21.149 -0.776 -1.063 2.766  "H3'"  FOX 31 
+FOX H3T    H3T  H 0 1 N Y N 27.909 46.623 19.910 0.898  -1.522 4.597  H3T    FOX 32 
+FOX "H2'1" 1H2* H 0 0 N N N 27.666 47.809 23.249 1.913  0.255  3.421  "H2'1" FOX 33 
+FOX "H2'2" 2H2* H 0 0 N N N 28.498 46.705 22.325 0.314  0.807  3.919  "H2'2" FOX 34 
+FOX "H1'"  H1*  H 0 1 N N N 30.211 48.303 21.578 1.567  1.780  1.665  "H1'"  FOX 35 
+FOX H9     H9   H 0 1 N N N 30.179 48.269 23.963 -1.269 1.517  2.278  H9     FOX 36 
+FOX H3     H3   H 0 1 N N N 30.999 50.834 21.851 1.205  2.626  0.026  H3     FOX 37 
+FOX H21    1H2  H 0 1 N N N 34.174 52.157 21.445 2.176  4.029  -1.399 H21    FOX 38 
+FOX H22    2H2  H 0 1 N N N 32.671 51.962 20.778 1.206  4.889  -2.574 H22    FOX 39 
+FOX H7     H7   H 0 1 N N N 31.060 49.301 26.520 -3.080 2.212  1.807  H7     FOX 40 
+FOX H8     H8   H 0 1 N N N 29.716 51.115 27.597 -3.603 5.092  1.414  H8     FOX 41 
+FOX HOP3   3HOP H 0 0 N N N -0.051 -0.921 0.225  0.132  -6.025 -1.023 HOP3   FOX 42 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FOX O1P   P      DOUB N N 1  
+FOX P     O2P    SING N N 2  
+FOX P     "O5'"  SING N N 3  
+FOX P     O3P    SING N N 4  
+FOX O2P   HOP2   SING N N 5  
+FOX "O5'" "C5'"  SING N N 6  
+FOX "C5'" "C4'"  SING N N 7  
+FOX "C5'" "H5'1" SING N N 8  
+FOX "C5'" "H5'2" SING N N 9  
+FOX "C4'" "C6'"  SING N N 10 
+FOX "C4'" "C3'"  SING N N 11 
+FOX "C4'" "H4'"  SING N N 12 
+FOX "C6'" "C1'"  SING N N 13 
+FOX "C6'" "H6'1" SING N N 14 
+FOX "C6'" "H6'2" SING N N 15 
+FOX "C3'" "O3'"  SING N N 16 
+FOX "C3'" "C2'"  SING N N 17 
+FOX "C3'" "H3'"  SING N N 18 
+FOX "O3'" H3T    SING N N 19 
+FOX "C2'" "C1'"  SING N N 20 
+FOX "C2'" "H2'1" SING N N 21 
+FOX "C2'" "H2'2" SING N N 22 
+FOX "C1'" N9     SING N N 23 
+FOX "C1'" "H1'"  SING N N 24 
+FOX N9    C4     SING N N 25 
+FOX N9    H9     SING N N 26 
+FOX C4    N3     SING N N 27 
+FOX C4    C5     DOUB N N 28 
+FOX N3    C2     SING N N 29 
+FOX N3    H3     SING N N 30 
+FOX C2    N2     SING N N 31 
+FOX C2    N1     DOUB N N 32 
+FOX N2    H21    SING N N 33 
+FOX N2    H22    SING N N 34 
+FOX N1    C6     SING N N 35 
+FOX C6    O6     DOUB N N 36 
+FOX C6    C5     SING N N 37 
+FOX C5    N7     SING N N 38 
+FOX N7    C8     SING N N 39 
+FOX N7    H7     SING N N 40 
+FOX C8    O8     DOUB N N 41 
+FOX C8    H8     SING N N 42 
+FOX O3P   HOP3   SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FOX SMILES           ACDLabs              10.04 "O=C1N=C(NC(=C1NC=O)NC2CC(COP(=O)(O)O)C(O)C2)N"                                                                                                                      
+FOX SMILES_CANONICAL CACTVS               3.341 "NC1=NC(=O)C(=C(N[C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)C2)N1)NC=O"                                                                                                     
+FOX SMILES           CACTVS               3.341 "NC1=NC(=O)C(=C(N[CH]2C[CH](O)[CH](CO[P](O)(O)=O)C2)N1)NC=O"                                                                                                         
+FOX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@H](C[C@@H]([C@H]1COP(=O)(O)O)O)NC2=C(C(=O)N=C(N2)N)NC=O"                                                                                                       
+FOX SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(CC(C1COP(=O)(O)O)O)NC2=C(C(=O)N=C(N2)N)NC=O"                                                                                                                    
+FOX InChI            InChI                1.03  "InChI=1S/C11H18N5O7P/c12-11-15-9(8(13-4-17)10(19)16-11)14-6-1-5(7(18)2-6)3-23-24(20,21)22/h4-7,18H,1-3H2,(H,13,17)(H2,20,21,22)(H4,12,14,15,16,19)/t5-,6-,7+/m1/s1" 
+FOX InChIKey         InChI                1.03  UQRLPMGPCBTFTR-QYNIQEEDSA-N                                                                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FOX "SYSTEMATIC NAME" ACDLabs              10.04 "[(1R,2S,4R)-4-{[2-amino-5-(formylamino)-6-oxo-3,6-dihydropyrimidin-4-yl]amino}-2-hydroxycyclopentyl]methyl dihydrogen phosphate" 
+FOX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1R,2S,4R)-4-[(2-amino-5-formamido-6-oxo-3H-pyrimidin-4-yl)amino]-2-hydroxy-cyclopentyl]methyl dihydrogen phosphate"            
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FOX "Create component"  2004-06-21 RCSB 
+FOX "Modify descriptor" 2011-06-04 RCSB 
+# 

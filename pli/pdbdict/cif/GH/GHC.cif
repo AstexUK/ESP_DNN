@@ -1,0 +1,194 @@
+data_GHC
+# 
+_chem_comp.id                                    GHC 
+_chem_comp.name                                  "N-({4-[(2-amino-6-ethyl-4-oxo-3,4-dihydrothieno[2,3-d]pyrimidin-5-yl)sulfanyl]phenyl}carbonyl)-L-glutamic acid" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C20 H20 N4 O6 S2" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-03-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        476.526 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GHC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GHC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GHC C4   C4   C 0 1 Y N N -2.952 19.300 -1.321 5.257  -0.050 0.690  C4   GHC 1  
+GHC C5   C5   C 0 1 Y N N -3.521 18.043 -1.124 4.371  -0.052 -0.386 C5   GHC 2  
+GHC C6   C6   C 0 1 N N N -4.012 17.342 -2.252 4.341  -1.203 -1.226 C6   GHC 3  
+GHC C13  C13  C 0 1 N N N -2.777 18.645 2.580  3.205  3.405  0.619  C13  GHC 4  
+GHC N1   N1   N 0 1 N N N -3.678 17.929 -3.497 5.164  -2.233 -0.949 N1   GHC 5  
+GHC N2   N2   N 0 1 N N N -2.868 19.619 -4.855 6.837  -3.234 0.381  N2   GHC 6  
+GHC C3   C3   C 0 1 Y N N -3.022 18.739 1.040  3.874  2.061  0.488  C3   GHC 7  
+GHC N3   N3   N 0 1 N N N -2.753 19.896 -2.580 6.046  -1.123 0.905  N3   GHC 8  
+GHC C29  C29  C 0 1 N N N -1.407 17.922 2.846  1.962  3.273  1.501  C29  GHC 9  
+GHC S4   S4   S 0 1 Y N N -2.474 20.061 0.112  5.114  1.463  1.574  S4   GHC 10 
+GHC C2   C2   C 0 1 N N N -3.094 19.150 -3.589 6.009  -2.171 0.119  C2   GHC 11 
+GHC O6   O6   O 0 1 N N N -4.598 16.258 -2.268 3.584  -1.254 -2.180 O6   GHC 12 
+GHC C1   C1   C 0 1 Y N N -3.556 17.760 0.264  3.600  1.179  -0.461 C1   GHC 13 
+GHC SAT  SAT  S 0 1 N N N -4.281 16.288 0.986  2.397  1.472  -1.714 SAT  GHC 14 
+GHC CAZ  CAZ  C 0 1 Y N N -2.936 15.121 0.872  0.916  0.841  -0.999 CAZ  GHC 15 
+GHC CAJ  CAJ  C 0 1 Y N N -1.890 15.345 0.051  0.942  0.291  0.281  CAJ  GHC 16 
+GHC CAL  CAL  C 0 1 Y N N -0.850 14.405 0.014  -0.205 -0.199 0.839  CAL  GHC 17 
+GHC CAI  CAI  C 0 1 Y N N -2.990 13.982 1.673  -0.280 0.899  -1.711 CAI  GHC 18 
+GHC CAK  CAK  C 0 1 Y N N -1.994 13.025 1.636  -1.430 0.411  -1.158 CAK  GHC 19 
+GHC CBA  CBA  C 0 1 Y N N -0.920 13.272 0.833  -1.406 -0.147 0.124  CBA  GHC 20 
+GHC CAX  CAX  C 0 1 N N N 0.220  12.284 0.840  -2.645 -0.675 0.723  CAX  GHC 21 
+GHC OAE  OAE  O 0 1 N N N 0.074  11.165 1.415  -2.624 -1.157 1.840  OAE  GHC 22 
+GHC NAS  NAS  N 0 1 N N N 1.331  12.596 0.194  -3.802 -0.625 0.033  NAS  GHC 23 
+GHC CAP  CAP  C 0 1 N N S 2.521  11.704 0.193  -5.034 -1.150 0.628  CAP  GHC 24 
+GHC CAW  CAW  C 0 1 N N N 3.696  12.570 -0.197 -5.118 -2.634 0.380  CAW  GHC 25 
+GHC OAG  OAG  O 0 1 N N N 4.852  12.083 -0.027 -6.169 -3.332 0.839  OAG  GHC 26 
+GHC OAD  OAD  O 0 1 N N N 3.508  13.752 -0.614 -4.240 -3.196 -0.230 OAD  GHC 27 
+GHC CBG  CBG  C 0 1 N N N 2.375  10.587 -0.807 -6.242 -0.458 -0.006 CBG  GHC 28 
+GHC CAN  CAN  C 0 1 N N N 2.229  11.060 -2.264 -6.222 1.030  0.350  CAN  GHC 29 
+GHC CAV  CAV  C 0 1 N N N 1.746  9.946  -3.227 -7.412 1.712  -0.274 CAV  GHC 30 
+GHC OAF  OAF  O 0 1 N N N 0.760  9.270  -2.914 -7.601 3.029  -0.094 OAF  GHC 31 
+GHC OAC  OAC  O 0 1 N N N 2.199  10.029 -4.312 -8.195 1.074  -0.936 OAC  GHC 32 
+GHC H13  H13  H 0 1 N N N -2.748 19.657 3.010  3.898  4.114  1.072  H13  GHC 33 
+GHC H13A H13A H 0 0 N N N -3.592 18.073 3.048  2.913  3.763  -0.369 H13A GHC 34 
+GHC HN1  HN1  H 0 1 N N N -3.880 17.426 -4.337 5.155  -3.023 -1.512 HN1  GHC 35 
+GHC HN2  HN2  H 0 1 N N N -2.437 20.520 -4.799 6.817  -4.016 -0.191 HN2  GHC 36 
+GHC HN2A HN2A H 0 0 N N N -3.097 19.138 -5.701 7.443  -3.202 1.138  HN2A GHC 37 
+GHC H29  H29  H 0 1 N N N -0.889 17.753 1.890  1.269  2.564  1.048  H29  GHC 38 
+GHC H29A H29A H 0 0 N N N -0.781 18.551 3.496  2.254  2.915  2.489  H29A GHC 39 
+GHC H29B H29B H 0 0 N N N -1.592 16.956 3.338  1.478  4.245  1.596  H29B GHC 40 
+GHC HAJ  HAJ  H 0 1 N N N -1.854 16.231 -0.566 1.870  0.251  0.833  HAJ  GHC 41 
+GHC HAL  HAL  H 0 1 N N N -0.003 14.554 -0.640 -0.184 -0.626 1.831  HAL  GHC 42 
+GHC HAI  HAI  H 0 1 N N N -3.830 13.844 2.338  -0.298 1.330  -2.701 HAI  GHC 43 
+GHC HAK  HAK  H 0 1 N N N -2.063 12.119 2.219  -2.357 0.456  -1.711 HAK  GHC 44 
+GHC HNAS HNAS H 0 0 N N N 1.372  13.459 -0.310 -3.819 -0.242 -0.858 HNAS GHC 45 
+GHC HAP  HAP  H 0 1 N N N 2.649  11.241 1.182  -5.028 -0.960 1.701  HAP  GHC 46 
+GHC HOAG HOAG H 0 0 N N N 5.506  12.732 -0.257 -6.179 -4.281 0.655  HOAG GHC 47 
+GHC HBG  HBG  H 0 1 N N N 3.274  9.957  -0.744 -6.199 -0.572 -1.089 HBG  GHC 48 
+GHC HBGA HBGA H 0 0 N N N 1.450  10.050 -0.552 -7.159 -0.910 0.372  HBGA GHC 49 
+GHC HAN  HAN  H 0 1 N N N 1.493  11.877 -2.288 -6.264 1.145  1.434  HAN  GHC 50 
+GHC HANA HANA H 0 0 N N N 3.225  11.379 -2.606 -5.305 1.482  -0.027 HANA GHC 51 
+GHC HOAF HOAF H 0 0 N N N 0.422  8.827  -3.683 -8.379 3.422  -0.514 HOAF GHC 52 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GHC N3  C4   SING N N 1  
+GHC C4  C5   DOUB Y N 2  
+GHC C4  S4   SING Y N 3  
+GHC C6  C5   SING N N 4  
+GHC C5  C1   SING Y N 5  
+GHC N1  C6   SING N N 6  
+GHC O6  C6   DOUB N N 7  
+GHC C3  C13  SING N N 8  
+GHC C13 C29  SING N N 9  
+GHC C13 H13  SING N N 10 
+GHC C13 H13A SING N N 11 
+GHC C2  N1   SING N N 12 
+GHC N1  HN1  SING N N 13 
+GHC N2  C2   SING N N 14 
+GHC N2  HN2  SING N N 15 
+GHC N2  HN2A SING N N 16 
+GHC S4  C3   SING Y N 17 
+GHC C1  C3   DOUB Y N 18 
+GHC C2  N3   DOUB N N 19 
+GHC C29 H29  SING N N 20 
+GHC C29 H29A SING N N 21 
+GHC C29 H29B SING N N 22 
+GHC C1  SAT  SING N N 23 
+GHC CAZ SAT  SING N N 24 
+GHC CAJ CAZ  DOUB Y N 25 
+GHC CAZ CAI  SING Y N 26 
+GHC CAL CAJ  SING Y N 27 
+GHC CAJ HAJ  SING N N 28 
+GHC CAL CBA  DOUB Y N 29 
+GHC CAL HAL  SING N N 30 
+GHC CAK CAI  DOUB Y N 31 
+GHC CAI HAI  SING N N 32 
+GHC CBA CAK  SING Y N 33 
+GHC CAK HAK  SING N N 34 
+GHC CBA CAX  SING N N 35 
+GHC NAS CAX  SING N N 36 
+GHC CAX OAE  DOUB N N 37 
+GHC CAP NAS  SING N N 38 
+GHC NAS HNAS SING N N 39 
+GHC CBG CAP  SING N N 40 
+GHC CAW CAP  SING N N 41 
+GHC CAP HAP  SING N N 42 
+GHC OAD CAW  DOUB N N 43 
+GHC CAW OAG  SING N N 44 
+GHC OAG HOAG SING N N 45 
+GHC CAN CBG  SING N N 46 
+GHC CBG HBG  SING N N 47 
+GHC CBG HBGA SING N N 48 
+GHC CAV CAN  SING N N 49 
+GHC CAN HAN  SING N N 50 
+GHC CAN HANA SING N N 51 
+GHC OAC CAV  DOUB N N 52 
+GHC CAV OAF  SING N N 53 
+GHC OAF HOAF SING N N 54 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GHC SMILES           ACDLabs              10.04 "O=C(O)C(NC(=O)c3ccc(Sc1c(sc2N=C(NC(=O)c12)N)CC)cc3)CCC(=O)O"                                                                                                                                        
+GHC SMILES_CANONICAL CACTVS               3.341 "CCc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O"                                                                                                                                     
+GHC SMILES           CACTVS               3.341 "CCc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O"                                                                                                                                       
+GHC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O"                                                                                                                                   
+GHC SMILES           "OpenEye OEToolkits" 1.5.0 "CCc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O"                                                                                                                                        
+GHC InChI            InChI                1.03  "InChI=1S/C20H20N4O6S2/c1-2-12-15(14-17(28)23-20(21)24-18(14)32-12)31-10-5-3-9(4-6-10)16(27)22-11(19(29)30)7-8-13(25)26/h3-6,11H,2,7-8H2,1H3,(H,22,27)(H,25,26)(H,29,30)(H3,21,23,24,28)/t11-/m0/s1" 
+GHC InChIKey         InChI                1.03  RSFXTHIRRXEJJD-NSHDSACASA-N                                                                                                                                                                          
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GHC "SYSTEMATIC NAME" ACDLabs              10.04 "N-({4-[(2-amino-6-ethyl-4-oxo-3,4-dihydrothieno[2,3-d]pyrimidin-5-yl)sulfanyl]phenyl}carbonyl)-L-glutamic acid"    
+GHC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[[4-[(2-amino-6-ethyl-4-oxo-3H-thieno[5,4-d]pyrimidin-5-yl)sulfanyl]phenyl]carbonylamino]pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GHC "Create component"     2009-03-04 RCSB 
+GHC "Modify aromatic_flag" 2011-06-04 RCSB 
+GHC "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,127 @@
+data_ES7
+# 
+_chem_comp.id                                    ES7 
+_chem_comp.name                                  1-methyl-1H-benzimidazol-2-amine 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H9 N3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-12-04 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.177 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ES7 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KQT 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ES7 C10  C10  C 0 1 Y N N 26.728 58.015 -27.073 -1.673 0.558  0.002  C10  ES7 1  
+ES7 C01  C01  C 0 1 N N N 25.450 59.736 -28.497 -1.815 -1.964 0.001  C01  ES7 2  
+ES7 N02  N02  N 0 1 Y N N 25.804 59.047 -27.237 -1.105 -0.683 0.001  N02  ES7 3  
+ES7 C03  C03  C 0 1 Y N N 25.256 59.325 -25.988 0.269  -0.505 0.001  C03  ES7 4  
+ES7 C04  C04  C 0 1 Y N N 24.259 60.292 -25.570 1.351  -1.372 -0.001 C04  ES7 5  
+ES7 C05  C05  C 0 1 Y N N 23.869 60.365 -24.177 2.635  -0.868 -0.001 C05  ES7 6  
+ES7 C06  C06  C 0 1 Y N N 24.477 59.481 -23.210 2.853  0.501  -0.001 C06  ES7 7  
+ES7 C07  C07  C 0 1 Y N N 25.476 58.520 -23.624 1.790  1.377  0.000  C07  ES7 8  
+ES7 C08  C08  C 0 1 Y N N 25.865 58.444 -25.026 0.484  0.883  0.001  C08  ES7 9  
+ES7 N09  N09  N 0 1 Y N N 26.753 57.646 -25.679 -0.739 1.477  0.001  N09  ES7 10 
+ES7 N11  N11  N 0 1 N N N 27.532 57.427 -28.115 -3.029 0.808  -0.003 N11  ES7 11 
+ES7 H01  H01  H 0 1 N N N 24.689 60.504 -28.294 -1.992 -2.281 -1.027 H01  ES7 12 
+ES7 H01A H01A H 0 0 N N N 26.347 60.212 -28.919 -1.212 -2.714 0.514  H01A ES7 13 
+ES7 H01B H01B H 0 0 N N N 25.051 59.005 -29.215 -2.769 -1.850 0.515  H01B ES7 14 
+ES7 H04  H04  H 0 1 N N N 23.809 60.955 -26.294 1.188  -2.440 -0.000 H04  ES7 15 
+ES7 H05  H05  H 0 1 N N N 23.124 61.080 -23.861 3.477  -1.545 -0.002 H05  ES7 16 
+ES7 H06  H06  H 0 1 N N N 24.184 59.538 -22.172 3.863  0.884  -0.001 H06  ES7 17 
+ES7 H07  H07  H 0 1 N N N 25.931 57.863 -22.898 1.966  2.443  0.001  H07  ES7 18 
+ES7 HN11 HN11 H 0 0 N N N 28.117 56.716 -27.724 -3.659 0.070  -0.007 HN11 ES7 19 
+ES7 HN1A HN1A H 0 0 N N N 26.935 57.023 -28.808 -3.354 1.722  -0.002 HN1A ES7 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ES7 C10 N02  SING Y N 1  
+ES7 C10 N09  DOUB Y N 2  
+ES7 C10 N11  SING N N 3  
+ES7 C01 N02  SING N N 4  
+ES7 N02 C03  SING Y N 5  
+ES7 C03 C04  DOUB Y N 6  
+ES7 C03 C08  SING Y N 7  
+ES7 C04 C05  SING Y N 8  
+ES7 C05 C06  DOUB Y N 9  
+ES7 C06 C07  SING Y N 10 
+ES7 C07 C08  DOUB Y N 11 
+ES7 C08 N09  SING Y N 12 
+ES7 C01 H01  SING N N 13 
+ES7 C01 H01A SING N N 14 
+ES7 C01 H01B SING N N 15 
+ES7 C04 H04  SING N N 16 
+ES7 C05 H05  SING N N 17 
+ES7 C06 H06  SING N N 18 
+ES7 C07 H07  SING N N 19 
+ES7 N11 HN11 SING N N 20 
+ES7 N11 HN1A SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ES7 SMILES_CANONICAL CACTVS               3.352 "Cn1c(N)nc2ccccc12"                                                 
+ES7 SMILES           CACTVS               3.352 "Cn1c(N)nc2ccccc12"                                                 
+ES7 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 Cn1c2ccccc2nc1N                                                     
+ES7 SMILES           "OpenEye OEToolkits" 1.7.0 Cn1c2ccccc2nc1N                                                     
+ES7 InChI            InChI                1.03  "InChI=1S/C8H9N3/c1-11-7-5-3-2-4-6(7)10-8(11)9/h2-5H,1H3,(H2,9,10)" 
+ES7 InChIKey         InChI                1.03  XDFZKQJLNGNJAN-UHFFFAOYSA-N                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ES7 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 1-methylbenzimidazol-2-amine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ES7 "Create component"     2009-12-04 RCSB 
+ES7 "Modify aromatic_flag" 2011-06-04 RCSB 
+ES7 "Modify descriptor"    2011-06-04 RCSB 
+# 

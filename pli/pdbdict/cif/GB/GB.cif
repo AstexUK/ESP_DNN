@@ -1,0 +1,106 @@
+data_GB
+# 
+_chem_comp.id                                    GB 
+_chem_comp.name                                  "METHYLPHOSPHONIC ACID ESTER GROUP" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C H5 O3 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        96.022 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1CFJ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GB P1  P1  P 0 1 N N S 5.458 63.397 60.783 1.000  -0.464 2.124 P1  GB 1  
+GB O1  O1  O 0 1 N N N 5.371 64.400 61.821 0.957  -1.834 2.982 O1  GB 2  
+GB O2  O2  O 0 1 N N N 4.206 63.370 60.019 0.612  0.770  2.882 O2  GB 3  
+GB C1  C1  C 0 1 N N N 5.744 61.800 61.528 -0.033 -0.823 0.719 C1  GB 4  
+GB HO1 HO1 H 0 1 N N N 6.181 64.417 62.315 1.433  -1.873 3.838 HO1 GB 5  
+GB H1  1H  H 0 1 N N N 5.811 61.026 60.727 -1.067 -0.968 1.041 H1  GB 6  
+GB H2  2H  H 0 1 N N N 6.638 61.798 62.193 0.003  0.004  0.006 H2  GB 7  
+GB H3  3H  H 0 1 N N N 4.975 61.548 62.295 0.313  -1.733 0.222 H3  GB 8  
+GB O3  O3  O 0 1 N Y N ?     ?      ?      2.491  -0.453 1.498 O3  GB 9  
+GB HO3 HO3 H 0 1 N Y N ?     ?      ?      3.474  -0.174 2.502 HO3 GB 10 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GB P1 O1  SING N N 1 
+GB P1 O2  DOUB N N 2 
+GB P1 C1  SING N N 3 
+GB O1 HO1 SING N N 4 
+GB C1 H1  SING N N 5 
+GB C1 H2  SING N N 6 
+GB C1 H3  SING N N 7 
+GB O3 P1  SING N N 8 
+GB O3 HO3 SING N N 9 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GB SMILES           ACDLabs              10.04 "O=P(O)(O)C"                                 
+GB SMILES_CANONICAL CACTVS               3.341 "C[P](O)(O)=O"                               
+GB SMILES           CACTVS               3.341 "C[P](O)(O)=O"                               
+GB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CP(=O)(O)O"                                 
+GB SMILES           "OpenEye OEToolkits" 1.5.0 "CP(=O)(O)O"                                 
+GB InChI            InChI                1.03  "InChI=1S/CH5O3P/c1-5(2,3)4/h1H3,(H2,2,3,4)" 
+GB InChIKey         InChI                1.03  YACKEPLHDIMKIO-UHFFFAOYSA-N                  
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GB "SYSTEMATIC NAME" ACDLabs              10.04 "methylphosphonic acid" 
+GB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "methylphosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GB "Create component"  1999-07-08 RCSB 
+GB "Modify descriptor" 2011-06-04 RCSB 
+# 

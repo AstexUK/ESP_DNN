@@ -1,0 +1,123 @@
+data_IT2
+# 
+_chem_comp.id                                    IT2 
+_chem_comp.name                                  "morpholine-4-carbodithioic acid" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C5 H9 N O S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-10-11 
+_chem_comp.pdbx_modified_date                    2011-10-14 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        163.261 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     IT2 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3P5A 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+IT2 N    N    N 0 1 N N N -5.318 2.679 15.150 -0.235 -0.011 -0.349 N    IT2 1  
+IT2 SAA  SAA  S 0 1 N N N -7.272 1.698 16.778 1.979  1.468  0.106  SAA  IT2 2  
+IT2 SAB  SAB  S 0 1 N N N -4.919 0.098 15.977 1.888  -1.539 0.116  SAB  IT2 3  
+IT2 CAC  CAC  C 0 1 N N N -5.823 4.730 14.006 -2.253 -1.163 0.382  CAC  IT2 4  
+IT2 CAD  CAD  C 0 1 N N N -3.762 3.581 13.601 -2.198 1.234  0.381  CAD  IT2 5  
+IT2 CAE  CAE  C 0 1 N N N -6.045 3.885 15.201 -1.003 -1.257 -0.500 CAE  IT2 6  
+IT2 CAF  CAF  C 0 1 N N N -3.960 2.794 14.830 -0.948 1.266  -0.507 CAF  IT2 7  
+IT2 OAG  OAG  O 0 1 N N N -4.479 4.778 13.631 -2.948 0.052  0.088  OAG  IT2 8  
+IT2 CAH  CAH  C 0 1 N N N -5.680 1.690 16.085 1.084  -0.039 -0.069 CAH  IT2 9  
+IT2 HSAA HSAA H 0 0 N N N -7.460 0.438 17.037 3.264  0.958  0.384  HSAA IT2 10 
+IT2 HAC  HAC  H 0 1 N N N -6.159 5.752 14.234 -2.906 -2.013 0.181  HAC  IT2 11 
+IT2 HACA HACA H 0 0 N N N -6.404 4.313 13.170 -1.960 -1.170 1.432  HACA IT2 12 
+IT2 HAD  HAD  H 0 1 N N N -4.105 2.986 12.742 -1.910 1.231  1.432  HAD  IT2 13 
+IT2 HADA HADA H 0 0 N N N -2.692 3.813 13.500 -2.808 2.113  0.173  HADA IT2 14 
+IT2 HAE  HAE  H 0 1 N N N -7.116 3.644 15.264 -1.298 -1.382 -1.542 HAE  IT2 15 
+IT2 HAEA HAEA H 0 0 N N N -5.725 4.448 16.090 -0.395 -2.104 -0.186 HAEA IT2 16 
+IT2 HAF  HAF  H 0 1 N N N -3.441 3.295 15.660 -0.302 2.088  -0.200 HAF  IT2 17 
+IT2 HAFA HAFA H 0 0 N N N -3.545 1.787 14.677 -1.241 1.397  -1.548 HAFA IT2 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+IT2 CAF N    SING N N 1  
+IT2 N   CAE  SING N N 2  
+IT2 N   CAH  SING N N 3  
+IT2 CAH SAA  SING N N 4  
+IT2 SAA HSAA SING N N 5  
+IT2 SAB CAH  DOUB N N 6  
+IT2 OAG CAC  SING N N 7  
+IT2 CAC CAE  SING N N 8  
+IT2 CAC HAC  SING N N 9  
+IT2 CAC HACA SING N N 10 
+IT2 CAD OAG  SING N N 11 
+IT2 CAD CAF  SING N N 12 
+IT2 CAD HAD  SING N N 13 
+IT2 CAD HADA SING N N 14 
+IT2 CAE HAE  SING N N 15 
+IT2 CAE HAEA SING N N 16 
+IT2 CAF HAF  SING N N 17 
+IT2 CAF HAFA SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+IT2 SMILES           ACDLabs              12.01 "S=C(S)N1CCOCC1"                                        
+IT2 SMILES_CANONICAL CACTVS               3.370 "SC(=S)N1CCOCC1"                                        
+IT2 SMILES           CACTVS               3.370 "SC(=S)N1CCOCC1"                                        
+IT2 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C1COCCN1C(=S)S"                                        
+IT2 SMILES           "OpenEye OEToolkits" 1.7.0 "C1COCCN1C(=S)S"                                        
+IT2 InChI            InChI                1.03  "InChI=1S/C5H9NOS2/c8-5(9)6-1-3-7-4-2-6/h1-4H2,(H,8,9)" 
+IT2 InChIKey         InChI                1.03  NRMQMTQTYONMFY-UHFFFAOYSA-N                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+IT2 "SYSTEMATIC NAME" ACDLabs              12.01 "morpholine-4-carbodithioic acid" 
+IT2 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "morpholine-4-carbodithioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+IT2 "Create component"  2010-10-11 RCSB 
+IT2 "Modify descriptor" 2011-06-04 RCSB 
+# 

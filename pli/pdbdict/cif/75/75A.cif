@@ -1,0 +1,223 @@
+data_75A
+# 
+_chem_comp.id                                    75A 
+_chem_comp.name                                  "N-acetyl-4-[difluoro(phosphono)methyl]-L-phenylalanyl-N~5~-(3-iodobenzoyl)-L-ornithinamide" 
+_chem_comp.type                                  peptide-like 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C24 H28 F2 I N4 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2012-08-10 
+_chem_comp.pdbx_modified_date                    2012-10-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        680.377 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     75A 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4GE2 
+_chem_comp.pdbx_subcomponent_list                "ACE FTY 0G5 NH2" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+75A C23 C23 C 0 1 N N N 19.109 1.163  -2.665  -2.941 -1.858 -3.164 C    ACE 1  
+75A O7  O7  O 0 1 N N N 18.979 2.172  -2.002  -3.250 -2.985 -2.839 O    ACE 2  
+75A C24 C24 C 0 1 N N N 20.357 0.690  -2.946  -3.240 -1.367 -4.557 CH3  ACE 3  
+75A N1  N1  N 0 1 N N N 17.930 0.604  -3.081  -2.334 -1.044 -2.279 N    FTY 4  
+75A C9  C9  C 0 1 N N S 16.998 -0.265 -2.339  -2.048 -1.519 -0.923 CA   FTY 5  
+75A C10 C10 C 0 1 N N N 17.245 -1.738 -2.709  -1.141 -2.721 -0.993 C    FTY 6  
+75A O4  O4  O 0 1 N N N 17.346 -2.591 -1.856  -1.058 -3.359 -2.021 O    FTY 7  
+75A C8  C8  C 0 1 N N N 15.557 0.283  -2.626  -3.357 -1.907 -0.232 CB   FTY 8  
+75A C5  C5  C 0 1 Y N N 14.531 -0.252 -1.625  -4.213 -0.680 -0.052 CG   FTY 9  
+75A C6  C6  C 0 1 Y N N 13.642 -1.252 -1.976  -4.096 0.082  1.095  CD1  FTY 10 
+75A C4  C4  C 0 1 Y N N 14.467 0.245  -0.340  -5.111 -0.313 -1.037 CD2  FTY 11 
+75A C7  C7  C 0 1 Y N N 12.721 -1.742 -1.072  -4.882 1.208  1.261  CE1  FTY 12 
+75A C3  C3  C 0 1 Y N N 13.549 -0.242 0.566   -5.897 0.812  -0.872 CE2  FTY 13 
+75A C2  C2  C 0 1 Y N N 12.653 -1.250 0.221   -5.783 1.571  0.278  CZ   FTY 14 
+75A C1  C1  C 0 1 N N N 11.648 -1.796 1.239   -6.640 2.798  0.458  C1   FTY 15 
+75A F1  F1  F 0 1 N N N 11.970 -1.407 2.507   -5.964 3.725  1.259  F1   FTY 16 
+75A F2  F2  F 0 1 N N N 11.619 -3.171 1.269   -6.907 3.368  -0.791 F2   FTY 17 
+75A P1  P1  P 0 1 N N N 9.891  -1.238 0.947   -8.208 2.332  1.261  P    FTY 18 
+75A O2  O2  O 0 1 N N N 9.541  -1.307 -0.619  -9.086 3.520  1.357  O1P  FTY 19 
+75A O1  O1  O 0 1 N N N 9.655  0.151  1.420   -8.940 1.193  0.389  O2P  FTY 20 
+75A O3  O3  O 0 1 N N N 8.937  -2.247 1.770   -7.908 1.766  2.738  O3P  FTY 21 
+75A N2  N2  N 0 1 N N N 17.357 -2.010 -4.062  -0.424 -3.087 0.088  N2   0G5 22 
+75A N4  N4  N 0 1 N N N 15.229 -2.253 -9.177  4.419  -1.631 1.386  N4   0G5 23 
+75A C11 C11 C 0 1 N N S 16.573 -3.043 -4.771  0.458  -4.255 0.020  C11  0G5 24 
+75A C12 C12 C 0 1 N N N 17.267 -4.421 -4.736  -0.338 -5.502 0.306  C12  0G5 25 
+75A C13 C13 C 0 1 N N N 16.364 -2.571 -6.232  1.574  -4.113 1.057  C13  0G5 26 
+75A C14 C14 C 0 1 N N N 14.952 -2.810 -6.806  2.457  -2.917 0.695  C14  0G5 27 
+75A C15 C15 C 0 1 N N N 15.027 -3.366 -8.247  3.573  -2.775 1.732  C15  0G5 28 
+75A C16 C16 C 0 1 N N N 16.150 -2.099 -10.185 5.473  -1.311 2.164  C16  0G5 29 
+75A C17 C17 C 0 1 Y N N 15.975 -1.488 -11.399 6.327  -0.156 1.814  C17  0G5 30 
+75A C18 C18 C 0 1 Y N N 16.033 -0.098 -11.460 7.419  0.177  2.617  C18  0G5 31 
+75A C19 C19 C 0 1 Y N N 15.863 0.588  -12.647 8.212  1.256  2.285  C19  0G5 32 
+75A C20 C20 C 0 1 Y N N 15.627 -0.103 -13.815 7.927  2.007  1.159  C20  0G5 33 
+75A C21 C21 C 0 1 Y N N 15.566 -1.480 -13.777 6.846  1.683  0.358  C21  0G5 34 
+75A C22 C22 C 0 1 Y N N 15.739 -2.154 -12.589 6.048  0.602  0.676  C22  0G5 35 
+75A O5  O5  O 0 1 N N N 16.739 -5.428 -4.334  -1.525 -5.423 0.543  O5   0G5 36 
+75A O6  O6  O 0 1 N N N 17.246 -2.574 -9.932  5.721  -1.974 3.152  O6   0G5 37 
+75A I   I1  I 0 1 N N N 15.197 -2.590 -15.603 6.424  2.829  -1.344 I    0G5 38 
+75A N3  N3  N 0 1 N N N 18.551 -4.456 -5.194  0.269  -6.705 0.298  N    NH2 39 
+75A H24 H24 H 0 1 N N N 21.111 1.350  -2.491  -3.733 -2.158 -5.123 H1   ACE 40 
+75A H25 H25 H 0 1 N N N 20.465 -0.326 -2.537  -3.895 -0.497 -4.503 H2   ACE 41 
+75A H26 H26 H 0 1 N N N 20.502 0.664  -4.036  -2.310 -1.092 -5.054 H3   ACE 42 
+75A H1  H1  H 0 1 N N N 17.663 0.815  -4.021  -2.087 -0.143 -2.539 H    FTY 43 
+75A H12 H12 H 0 1 N N N 17.189 -0.150 -1.262  -1.559 -0.727 -0.356 HA   FTY 44 
+75A H10 H10 H 0 1 N N N 15.575 1.381  -2.563  -3.889 -2.635 -0.844 HB2  FTY 45 
+75A H11 H11 H 0 1 N N N 15.257 -0.021 -3.639  -3.138 -2.343 0.743  HB3  FTY 46 
+75A H8  H8  H 0 1 N N N 13.669 -1.657 -2.977  -3.392 -0.202 1.863  HD1  FTY 47 
+75A H7  H7  H 0 1 N N N 15.147 1.028  -0.039  -5.199 -0.906 -1.935 HD2  FTY 48 
+75A H9  H9  H 0 1 N N N 12.041 -2.523 -1.378  -4.791 1.803  2.157  HE1  FTY 49 
+75A H6  H6  H 0 1 N N N 13.524 0.167  1.565   -6.598 1.099  -1.641 HE2  FTY 50 
+75A H27 H27 H 0 1 N N N 9.352  0.685  0.696   -9.783 0.896  0.758  HO2P FTY 51 
+75A H28 H28 H 0 1 N N N 8.350  -2.690 1.169   -7.302 1.013  2.755  HO3P FTY 52 
+75A H2  H2  H 0 1 N N N 18.011 -1.472 -4.594  -0.490 -2.577 0.910  H2   0G5 53 
+75A H5  H5  H 0 1 N N N 14.599 -1.486 -9.060  4.221  -1.102 0.597  H5   0G5 54 
+75A H13 H13 H 0 1 N N N 15.586 -3.139 -4.295  0.895  -4.323 -0.976 H13  0G5 55 
+75A H14 H14 H 0 1 N N N 17.085 -3.106 -6.868  1.136  -3.955 2.043  H14  0G5 56 
+75A H15 H15 H 0 1 N N N 16.569 -1.491 -6.273  2.177  -5.020 1.069  H15  0G5 57 
+75A H16 H16 H 0 1 N N N 14.402 -1.858 -6.816  2.895  -3.075 -0.290 H16  0G5 58 
+75A H17 H17 H 0 1 N N N 14.422 -3.533 -6.168  1.854  -2.010 0.684  H17  0G5 59 
+75A H18 H18 H 0 1 N N N 14.089 -3.885 -8.491  4.176  -3.683 1.744  H18  0G5 60 
+75A H19 H19 H 0 1 N N N 15.868 -4.071 -8.327  3.135  -2.618 2.718  H19  0G5 61 
+75A H20 H20 H 0 1 N N N 16.216 0.460  -10.553 7.642  -0.409 3.496  H20  0G5 62 
+75A H21 H21 H 0 1 N N N 15.915 1.667  -12.659 9.057  1.515  2.906  H21  0G5 63 
+75A H22 H22 H 0 1 N N N 15.492 0.426  -14.747 8.548  2.854  0.907  H22  0G5 64 
+75A H23 H23 H 0 1 N N N 15.689 -3.233 -12.586 5.205  0.349  0.050  H23  0G5 65 
+75A H3  H3  H 0 1 N N N 19.057 -5.318 -5.197  1.218  -6.769 0.109  HN1  NH2 66 
+75A H4  H4  H 0 1 N N N 18.986 -3.619 -5.527  -0.243 -7.508 0.482  HN2  NH2 67 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+75A I   C21 SING N N 1  
+75A C20 C21 DOUB Y N 2  
+75A C20 C19 SING Y N 3  
+75A C21 C22 SING Y N 4  
+75A C19 C18 DOUB Y N 5  
+75A C22 C17 DOUB Y N 6  
+75A C18 C17 SING Y N 7  
+75A C17 C16 SING N N 8  
+75A C16 O6  DOUB N N 9  
+75A C16 N4  SING N N 10 
+75A N4  C15 SING N N 11 
+75A C15 C14 SING N N 12 
+75A C14 C13 SING N N 13 
+75A C13 C11 SING N N 14 
+75A N3  C12 SING N N 15 
+75A C11 C12 SING N N 16 
+75A C11 N2  SING N N 17 
+75A C12 O5  DOUB N N 18 
+75A N2  C10 SING N N 19 
+75A N1  C23 SING N N 20 
+75A N1  C9  SING N N 21 
+75A C24 C23 SING N N 22 
+75A C10 C9  SING N N 23 
+75A C10 O4  DOUB N N 24 
+75A C23 O7  DOUB N N 25 
+75A C8  C9  SING N N 26 
+75A C8  C5  SING N N 27 
+75A C6  C5  DOUB Y N 28 
+75A C6  C7  SING Y N 29 
+75A C5  C4  SING Y N 30 
+75A C7  C2  DOUB Y N 31 
+75A O2  P1  DOUB N N 32 
+75A C4  C3  DOUB Y N 33 
+75A C2  C3  SING Y N 34 
+75A C2  C1  SING N N 35 
+75A P1  C1  SING N N 36 
+75A P1  O1  SING N N 37 
+75A P1  O3  SING N N 38 
+75A C1  F2  SING N N 39 
+75A C1  F1  SING N N 40 
+75A N1  H1  SING N N 41 
+75A N2  H2  SING N N 42 
+75A N3  H3  SING N N 43 
+75A N3  H4  SING N N 44 
+75A N4  H5  SING N N 45 
+75A C3  H6  SING N N 46 
+75A C4  H7  SING N N 47 
+75A C6  H8  SING N N 48 
+75A C7  H9  SING N N 49 
+75A C8  H10 SING N N 50 
+75A C8  H11 SING N N 51 
+75A C9  H12 SING N N 52 
+75A C11 H13 SING N N 53 
+75A C13 H14 SING N N 54 
+75A C13 H15 SING N N 55 
+75A C14 H16 SING N N 56 
+75A C14 H17 SING N N 57 
+75A C15 H18 SING N N 58 
+75A C15 H19 SING N N 59 
+75A C18 H20 SING N N 60 
+75A C19 H21 SING N N 61 
+75A C20 H22 SING N N 62 
+75A C22 H23 SING N N 63 
+75A C24 H24 SING N N 64 
+75A C24 H25 SING N N 65 
+75A C24 H26 SING N N 66 
+75A O1  H27 SING N N 67 
+75A O3  H28 SING N N 68 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+75A SMILES           ACDLabs              12.01 "O=C(c1cc(I)ccc1)NCCCC(C(=O)N)NC(=O)C(NC(=O)C)Cc2ccc(cc2)C(F)(F)P(=O)(O)O" 
+75A InChI            InChI                1.03  
+"InChI=1S/C24H28F2IN4O7P/c1-14(32)30-20(12-15-7-9-17(10-8-15)24(25,26)39(36,37)38)23(35)31-19(21(28)33)6-3-11-29-22(34)16-4-2-5-18(27)13-16/h2,4-5,7-10,13,19-20H,3,6,11-12H2,1H3,(H2,28,33)(H,29,34)(H,30,32)(H,31,35)(H2,36,37,38)/t19-,20-/m0/s1" 
+75A InChIKey         InChI                1.03  DSHZHFAULLMSCZ-PMACEKPBSA-N 
+75A SMILES_CANONICAL CACTVS               3.370 "CC(=O)N[C@@H](Cc1ccc(cc1)C(F)(F)[P](O)(O)=O)C(=O)N[C@@H](CCCNC(=O)c2cccc(I)c2)C(N)=O" 
+75A SMILES           CACTVS               3.370 "CC(=O)N[CH](Cc1ccc(cc1)C(F)(F)[P](O)(O)=O)C(=O)N[CH](CCCNC(=O)c2cccc(I)c2)C(N)=O" 
+75A SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(=O)N[C@@H](Cc1ccc(cc1)C(F)(F)P(=O)(O)O)C(=O)N[C@@H](CCCNC(=O)c2cccc(c2)I)C(=O)N" 
+75A SMILES           "OpenEye OEToolkits" 1.7.6 "CC(=O)NC(Cc1ccc(cc1)C(F)(F)P(=O)(O)O)C(=O)NC(CCCNC(=O)c2cccc(c2)I)C(=O)N" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+75A "SYSTEMATIC NAME" ACDLabs              12.01 "N-acetyl-4-[difluoro(phosphono)methyl]-L-phenylalanyl-N~5~-(3-iodobenzoyl)-L-ornithinamide"                                                                                        
+75A "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "[[4-[(2S)-2-acetamido-3-[[(2S)-1-azanyl-5-[(3-iodanylphenyl)carbonylamino]-1-oxidanylidene-pentan-2-yl]amino]-3-oxidanylidene-propyl]phenyl]-bis(fluoranyl)methyl]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+75A "Create component" 2012-08-10 RCSB 
+75A "Initial release"  2012-10-26 RCSB 
+# 

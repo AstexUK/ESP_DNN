@@ -1,0 +1,128 @@
+data_SYS
+# 
+_chem_comp.id                                    SYS 
+_chem_comp.name                                  "3-[(2-amino-2-oxoethyl)selanyl]-L-alanine" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H10 N2 O3 Se" 
+_chem_comp.mon_nstd_parent_comp_id               CYS 
+_chem_comp.pdbx_synonyms                         "L-(Se-carboxamidomethyl)selenocysteine" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2008-09-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        225.104 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     SYS 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3BOG 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SYS N   N   N  0 1 N N N -2.910 6.644 -0.026 2.194  1.605  -0.533 N   SYS 1  
+SYS CA  CA  C  0 1 N N R -3.975 6.366 0.911  2.180  0.356  0.240  CA  SYS 2  
+SYS CB  CB  C  0 1 N N N -3.545 6.808 2.330  0.995  -0.505 -0.203 CB  SYS 3  
+SYS SE  SE  SE 0 0 N N N -4.974 6.914 3.757  -0.680 0.406  0.252  SE  SYS 4  
+SYS C   C   C  0 1 N N N -5.241 7.062 0.613  3.464  -0.396 0.003  C   SYS 5  
+SYS O   O   O  0 1 N N N -5.241 8.232 0.234  4.135  -0.154 -0.973 O   SYS 6  
+SYS HN  HN  H  0 1 N N N -3.287 6.708 -0.950 2.282  1.418  -1.521 HN  SYS 7  
+SYS HNA HNA H  0 1 N N N -2.471 7.509 0.216  1.372  2.158  -0.341 HNA SYS 8  
+SYS HA  HA  H  0 1 N N N -4.153 5.283 0.835  2.085  0.587  1.301  HA  SYS 9  
+SYS HB  HB  H  0 1 N N N -2.801 6.077 2.679  1.043  -0.661 -1.280 HB  SYS 10 
+SYS HBA HBA H  0 1 N N N -3.190 7.842 2.208  1.035  -1.467 0.306  HBA SYS 11 
+SYS O2  O2  O  0 1 N N N -6.178 6.538 0.729  3.863  -1.334 0.876  O2  SYS 12 
+SYS C4  C4  C  0 1 N N N -5.328 7.517 5.545  -1.998 -0.885 -0.410 C4  SYS 13 
+SYS C5  C5  C  0 1 N N N -6.858 7.678 5.616  -3.388 -0.362 -0.151 C5  SYS 14 
+SYS N2  N2  N  0 1 N N N -7.684 7.377 4.438  -4.461 -1.086 -0.524 N2  SYS 15 
+SYS O3  O3  O  0 1 N N N -7.650 8.025 6.477  -3.540 0.711  0.394  O3  SYS 16 
+SYS H6  H6  H  0 1 N N N -4.974 6.784 6.285  -1.859 -1.030 -1.481 H6  SYS 17 
+SYS H7  H7  H  0 1 N N N -4.805 8.457 5.773  -1.866 -1.836 0.105  H7  SYS 18 
+SYS H8  H8  H  0 1 N N N -8.632 7.548 4.706  -4.339 -1.944 -0.960 H8  SYS 19 
+SYS H9  H9  H  0 1 N N N -7.362 7.063 3.545  -5.355 -0.749 -0.357 H9  SYS 20 
+SYS H10 H10 H  0 1 N N N -6.896 7.117 0.500  4.693  -1.790 0.681  H10 SYS 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SYS N  CA  SING N N 1  
+SYS N  HN  SING N N 2  
+SYS N  HNA SING N N 3  
+SYS CA CB  SING N N 4  
+SYS CA C   SING N N 5  
+SYS CA HA  SING N N 6  
+SYS CB SE  SING N N 7  
+SYS CB HB  SING N N 8  
+SYS CB HBA SING N N 9  
+SYS C  O   DOUB N N 10 
+SYS C  O2  SING N N 11 
+SYS SE C4  SING N N 12 
+SYS C4 C5  SING N N 13 
+SYS C5 N2  SING N N 14 
+SYS C5 O3  DOUB N N 15 
+SYS C4 H6  SING N N 16 
+SYS C4 H7  SING N N 17 
+SYS N2 H8  SING N N 18 
+SYS N2 H9  SING N N 19 
+SYS O2 H10 SING N N 20 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SYS SMILES           ACDLabs              10.04 "O=C(O)C(N)C[Se]CC(=O)N"                                                               
+SYS SMILES_CANONICAL CACTVS               3.341 "N[C@@H](C[Se]CC(N)=O)C(O)=O"                                                          
+SYS SMILES           CACTVS               3.341 "N[CH](C[Se]CC(N)=O)C(O)=O"                                                            
+SYS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H](C(=O)O)N)[Se]CC(=O)N"                                                        
+SYS SMILES           "OpenEye OEToolkits" 1.5.0 "C(C(C(=O)O)N)[Se]CC(=O)N"                                                             
+SYS InChI            InChI                1.03  "InChI=1S/C5H10N2O3Se/c6-3(5(9)10)1-11-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)/t3-/m0/s1" 
+SYS InChIKey         InChI                1.03  PLYPJHVEADBROH-VKHMYHEASA-N                                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SYS "SYSTEMATIC NAME" ACDLabs              10.04 "3-[(2-amino-2-oxoethyl)selanyl]-L-alanine"                  
+SYS "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R)-2-amino-3-(2-amino-2-oxo-ethyl)selanyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SYS "Create component"  2008-09-17 RCSB 
+SYS "Modify descriptor" 2011-06-04 RCSB 
+# 

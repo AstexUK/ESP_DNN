@@ -1,0 +1,202 @@
+data_ZIL
+# 
+_chem_comp.id                                    ZIL 
+_chem_comp.name                                  "N-[(benzyloxy)carbonyl]-L-isoleucyl-L-leucine" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C20 H30 N2 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Z-Ile-Leu 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-07-23 
+_chem_comp.pdbx_modified_date                    2014-10-03 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        378.463 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ZIL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4U0G 
+_chem_comp.pdbx_subcomponent_list                "PHQ ILE LEU" 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ZIL C12 C1  C 0 1 N N N -88.895 -28.749 37.760 1.937  -0.421 -0.656 C1   PHQ 1  
+ZIL O3  O1  O 0 1 N N N -88.308 -27.944 38.449 1.850  -0.636 -1.849 O1   PHQ 2  
+ZIL O4  O2  O 0 1 N N N -89.404 -29.916 38.206 3.124  -0.082 -0.118 O2   PHQ 3  
+ZIL C13 C2  C 0 1 N N N -89.183 -30.244 39.608 4.256  0.006  -1.022 C2   PHQ 4  
+ZIL C14 C3  C 0 1 Y N N -90.358 -31.009 40.145 5.489  0.394  -0.247 C3   PHQ 5  
+ZIL C15 C4  C 0 1 Y N N -91.037 -31.922 39.354 5.808  1.728  -0.077 C4   PHQ 6  
+ZIL C16 C5  C 0 1 Y N N -92.113 -32.632 39.858 6.939  2.083  0.634  C5   PHQ 7  
+ZIL C17 C6  C 0 1 Y N N -92.523 -32.439 41.158 7.751  1.104  1.177  C6   PHQ 8  
+ZIL C18 C7  C 0 1 Y N N -91.859 -31.533 41.953 7.431  -0.230 1.008  C7   PHQ 9  
+ZIL C19 C8  C 0 1 Y N N -90.784 -30.822 41.450 6.298  -0.586 0.300  C8   PHQ 10 
+ZIL N1  N1  N 0 1 N N N -89.132 -28.611 36.445 0.844  -0.515 0.127  N    ILE 11 
+ZIL C4  C9  C 0 1 N N S -88.759 -27.408 35.722 -0.467 -0.774 -0.473 CA   ILE 12 
+ZIL C5  C14 C 0 1 N N N -89.956 -26.957 34.888 -1.545 -0.192 0.405  C    ILE 13 
+ZIL O   O3  O 0 1 N N N -90.830 -27.760 34.577 -1.283 0.158  1.536  O    ILE 14 
+ZIL C2  C10 C 0 1 N N S -87.518 -27.638 34.832 -0.677 -2.284 -0.605 CB   ILE 15 
+ZIL C1  C12 C 0 1 N N N -86.381 -28.327 35.590 -1.992 -2.553 -1.340 CG1  ILE 16 
+ZIL C3  C11 C 0 1 N N N -87.047 -26.340 34.179 -0.733 -2.915 0.787  CG2  ILE 17 
+ZIL C   C13 C 0 1 N N N -85.623 -27.426 36.538 -1.875 -2.074 -2.788 CD1  ILE 18 
+ZIL N   N2  N 0 1 N N N -89.980 -25.678 34.508 -2.800 -0.060 -0.068 N    LEU 19 
+ZIL C6  C15 C 0 1 N N S -90.959 -25.182 33.554 -3.823 0.604  0.745  CA   LEU 20 
+ZIL C11 C20 C 0 1 N N N -90.578 -23.798 33.049 -4.438 -0.394 1.691  C    LEU 21 
+ZIL O1  O4  O 0 1 N N N -90.795 -23.438 31.912 -4.062 -1.542 1.688  O    LEU 22 
+ZIL C7  C16 C 0 1 N N N -92.370 -25.154 34.148 -4.908 1.176  -0.169 CB   LEU 23 
+ZIL C8  C17 C 0 1 N N N -92.629 -24.065 35.181 -4.306 2.273  -1.051 CG   LEU 24 
+ZIL C9  C18 C 0 1 N N N -94.085 -24.077 35.604 -5.360 2.764  -2.045 CD1  LEU 25 
+ZIL C10 C19 C 0 1 N N N -91.720 -24.206 36.389 -3.850 3.440  -0.173 CD2  LEU 26 
+ZIL O2  O5  O 0 1 N N N -90.005 -23.060 33.957 -5.405 -0.008 2.539  OXT  LEU 27 
+ZIL H23 H2  H 0 1 N N N -89.058 -29.316 40.184 4.416  -0.960 -1.500 H21  PHQ 28 
+ZIL H24 H1  H 0 1 N N N -88.275 -30.858 39.700 4.055  0.760  -1.784 H22  PHQ 29 
+ZIL H25 H3  H 0 1 N N N -90.723 -32.081 38.333 5.175  2.493  -0.501 H41  PHQ 30 
+ZIL H26 H4  H 0 1 N N N -92.633 -33.340 39.229 7.189  3.125  0.766  H51  PHQ 31 
+ZIL H27 H5  H 0 1 N N N -93.361 -32.995 41.552 8.634  1.381  1.732  H61  PHQ 32 
+ZIL H28 H6  H 0 1 N N N -92.178 -31.376 42.973 8.065  -0.996 1.431  H71  PHQ 33 
+ZIL H29 H7  H 0 1 N N N -90.271 -30.113 42.082 6.046  -1.628 0.171  H81  PHQ 34 
+ZIL H22 H8  H 0 1 N N N -89.578 -29.357 35.950 0.926  -0.411 1.088  H2   ILE 35 
+ZIL H9  H9  H 0 1 N N N -88.520 -26.611 36.442 -0.513 -0.313 -1.459 HA   ILE 36 
+ZIL H5  H10 H 0 1 N N N -87.825 -28.316 34.022 0.149  -2.718 -1.169 HB   ILE 37 
+ZIL H3  H14 H 0 1 N N N -86.809 -29.156 36.173 -2.204 -3.622 -1.327 HG12 ILE 38 
+ZIL H4  H15 H 0 1 N N N -85.669 -28.726 34.853 -2.802 -2.017 -0.844 HG13 ILE 39 
+ZIL H6  H13 H 0 1 N N N -86.237 -26.560 33.468 -1.612 -2.550 1.317  HG21 ILE 40 
+ZIL H7  H11 H 0 1 N N N -87.887 -25.872 33.644 -0.790 -4.000 0.692  HG22 ILE 41 
+ZIL H8  H12 H 0 1 N N N -86.678 -25.653 34.954 0.165  -2.647 1.344  HG23 ILE 42 
+ZIL H   H16 H 0 1 N N N -84.829 -28.002 37.036 -2.832 -2.204 -3.293 HD11 ILE 43 
+ZIL H1  H17 H 0 1 N N N -85.174 -26.595 35.974 -1.597 -1.020 -2.801 HD12 ILE 44 
+ZIL H2  H18 H 0 1 N N N -86.314 -27.025 37.294 -1.111 -2.657 -3.303 HD13 ILE 45 
+ZIL H10 H19 H 0 1 N N N -89.307 -25.044 34.889 -3.027 -0.405 -0.946 H    LEU 46 
+ZIL H11 H20 H 0 1 N N N -90.977 -25.860 32.688 -3.365 1.412  1.316  HA   LEU 47 
+ZIL H12 H21 H 0 1 N N N -93.082 -25.012 33.322 -5.308 0.382  -0.799 HB2  LEU 48 
+ZIL H13 H22 H 0 1 N N N -92.554 -26.126 34.628 -5.709 1.597  0.438  HB3  LEU 49 
+ZIL H14 H23 H 0 1 N N N -92.419 -23.094 34.709 -3.451 1.872  -1.596 HG   LEU 50 
+ZIL H15 H24 H 0 1 N N N -94.257 -23.286 36.349 -4.908 3.482  -2.729 HD11 LEU 51 
+ZIL H16 H26 H 0 1 N N N -94.331 -25.055 36.043 -5.748 1.917  -2.612 HD12 LEU 52 
+ZIL H17 H25 H 0 1 N N N -94.723 -23.899 34.726 -6.176 3.242  -1.503 HD13 LEU 53 
+ZIL H18 H29 H 0 1 N N N -90.670 -24.135 36.068 -4.704 3.840  0.372  HD21 LEU 54 
+ZIL H19 H27 H 0 1 N N N -91.938 -23.403 37.109 -3.099 3.090  0.535  HD22 LEU 55 
+ZIL H20 H28 H 0 1 N N N -91.893 -25.182 36.866 -3.421 4.221  -0.801 HD23 LEU 56 
+ZIL H21 H30 H 0 1 N N N -89.791 -22.212 33.587 -5.769 -0.683 3.127  HXT  LEU 57 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ZIL O1  C11 DOUB N N 1  
+ZIL C11 C6  SING N N 2  
+ZIL C11 O2  SING N N 3  
+ZIL C6  C7  SING N N 4  
+ZIL C6  N   SING N N 5  
+ZIL C7  C8  SING N N 6  
+ZIL C3  C2  SING N N 7  
+ZIL N   C5  SING N N 8  
+ZIL O   C5  DOUB N N 9  
+ZIL C2  C1  SING N N 10 
+ZIL C2  C4  SING N N 11 
+ZIL C5  C4  SING N N 12 
+ZIL C8  C9  SING N N 13 
+ZIL C8  C10 SING N N 14 
+ZIL C1  C   SING N N 15 
+ZIL C4  N1  SING N N 16 
+ZIL N1  C12 SING N N 17 
+ZIL C12 O4  SING N N 18 
+ZIL C12 O3  DOUB N N 19 
+ZIL O4  C13 SING N N 20 
+ZIL C15 C16 DOUB Y N 21 
+ZIL C15 C14 SING Y N 22 
+ZIL C13 C14 SING N N 23 
+ZIL C16 C17 SING Y N 24 
+ZIL C14 C19 DOUB Y N 25 
+ZIL C17 C18 DOUB Y N 26 
+ZIL C19 C18 SING Y N 27 
+ZIL C13 H24 SING N N 28 
+ZIL C13 H23 SING N N 29 
+ZIL C15 H25 SING N N 30 
+ZIL C16 H26 SING N N 31 
+ZIL C17 H27 SING N N 32 
+ZIL C18 H28 SING N N 33 
+ZIL C19 H29 SING N N 34 
+ZIL N1  H22 SING N N 35 
+ZIL C4  H9  SING N N 36 
+ZIL C2  H5  SING N N 37 
+ZIL C3  H7  SING N N 38 
+ZIL C3  H8  SING N N 39 
+ZIL C3  H6  SING N N 40 
+ZIL C1  H3  SING N N 41 
+ZIL C1  H4  SING N N 42 
+ZIL C   H   SING N N 43 
+ZIL C   H1  SING N N 44 
+ZIL C   H2  SING N N 45 
+ZIL N   H10 SING N N 46 
+ZIL C6  H11 SING N N 47 
+ZIL C7  H12 SING N N 48 
+ZIL C7  H13 SING N N 49 
+ZIL C8  H14 SING N N 50 
+ZIL C9  H15 SING N N 51 
+ZIL C9  H17 SING N N 52 
+ZIL C9  H16 SING N N 53 
+ZIL C10 H19 SING N N 54 
+ZIL C10 H20 SING N N 55 
+ZIL C10 H18 SING N N 56 
+ZIL O2  H21 SING N N 57 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ZIL SMILES           ACDLabs              12.01 "O=C(O)C(NC(=O)C(NC(=O)OCc1ccccc1)C(C)CC)CC(C)C"                                                                                                                                    
+ZIL InChI            InChI                1.03  "InChI=1S/C20H30N2O5/c1-5-14(4)17(18(23)21-16(19(24)25)11-13(2)3)22-20(26)27-12-15-9-7-6-8-10-15/h6-10,13-14,16-17H,5,11-12H2,1-4H3,(H,21,23)(H,22,26)(H,24,25)/t14-,16-,17-/m0/s1" 
+ZIL InChIKey         InChI                1.03  BSRAGXJNZJMFMY-XIRDDKMYSA-N                                                                                                                                                         
+ZIL SMILES_CANONICAL CACTVS               3.385 "CC[C@H](C)[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](CC(C)C)C(O)=O"                                                                                                                       
+ZIL SMILES           CACTVS               3.385 "CC[CH](C)[CH](NC(=O)OCc1ccccc1)C(=O)N[CH](CC(C)C)C(O)=O"                                                                                                                           
+ZIL SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CC[C@H](C)[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)OCc1ccccc1"                                                                                                                      
+ZIL SMILES           "OpenEye OEToolkits" 1.9.2 "CCC(C)C(C(=O)NC(CC(C)C)C(=O)O)NC(=O)OCc1ccccc1"                                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ZIL "SYSTEMATIC NAME" ACDLabs              12.01 "N-[(benzyloxy)carbonyl]-L-isoleucyl-L-leucine"                                                   
+ZIL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "(2S)-4-methyl-2-[[(2S,3S)-3-methyl-2-(phenylmethoxycarbonylamino)pentanoyl]amino]pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ZIL "Create component"  2014-07-23 RCSB 
+ZIL "Modify descriptor" 2014-09-05 RCSB 
+ZIL "Initial release"   2014-10-08 RCSB 
+# 

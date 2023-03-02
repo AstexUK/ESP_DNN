@@ -1,0 +1,188 @@
+data_GHW
+# 
+_chem_comp.id                                    GHW 
+_chem_comp.name                                  "N-({4-[(2-amino-6-methyl-4-oxo-3,4-dihydrothieno[2,3-d]pyrimidin-5-yl)sulfanyl]phenyl}carbonyl)-L-glutamic acid" 
+_chem_comp.type                                  "L-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C19 H18 N4 O6 S2" 
+_chem_comp.mon_nstd_parent_comp_id               GLU 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-03-05 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        462.499 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     GHW 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3GHW 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+GHW C4   C4   C 0 1 Y N N -2.998 19.278 -1.386 5.309  0.051  0.769  C4   GHW 1  
+GHW C5   C5   C 0 1 Y N N -3.539 18.036 -1.163 4.429  0.114  -0.310 C5   GHW 2  
+GHW C6   C6   C 0 1 N N N -4.043 17.304 -2.285 4.416  -0.977 -1.227 C6   GHW 3  
+GHW C13  C13  C 0 1 N N N -2.706 18.575 2.557  3.221  3.482  0.921  C13  GHW 4  
+GHW N1   N1   N 0 1 N N N -3.735 17.888 -3.508 5.247  -2.016 -1.016 N1   GHW 5  
+GHW N2   N2   N 0 1 N N N -2.971 19.630 -4.903 6.924  -3.087 0.254  N2   GHW 6  
+GHW C3   C3   C 0 1 Y N N -2.999 18.691 1.011  3.904  2.157  0.704  C3   GHW 7  
+GHW N3   N3   N 0 1 N N N -2.770 19.844 -2.638 6.108  -1.025 0.915  N3   GHW 8  
+GHW S4   S4   S 0 1 Y N N -2.478 20.010 0.095  5.144  1.499  1.754  S4   GHW 9  
+GHW C2   C2   C 0 1 N N N -3.154 19.113 -3.636 6.086  -2.018 0.060  C2   GHW 10 
+GHW O6   O6   O 0 1 N N N -4.609 16.196 -2.275 3.664  -0.971 -2.187 O6   GHW 11 
+GHW C1   C1   C 0 1 Y N N -3.587 17.686 0.234  3.645  1.338  -0.305 C1   GHW 12 
+GHW SAT  SAT  S 0 1 N N N -4.261 16.232 0.978  2.446  1.705  -1.543 SAT  GHW 13 
+GHW CAZ  CAZ  C 0 1 Y N N -2.874 15.065 0.931  0.968  1.010  -0.882 CAZ  GHW 14 
+GHW CAJ  CAJ  C 0 1 Y N N -3.057 13.891 1.657  -0.225 1.104  -1.596 CAJ  GHW 15 
+GHW CAL  CAL  C 0 1 Y N N -2.030 12.917 1.611  -1.372 0.566  -1.086 CAL  GHW 16 
+GHW CAI  CAI  C 0 1 Y N N -1.789 15.287 0.169  0.995  0.363  0.352  CAI  GHW 17 
+GHW CAK  CAK  C 0 1 Y N N -0.800 14.357 0.135  -0.149 -0.176 0.867  CAK  GHW 18 
+GHW CBA  CBA  C 0 1 Y N N -0.903 13.174 0.877  -1.349 -0.079 0.155  CBA  GHW 19 
+GHW CAX  CAX  C 0 1 N N N 0.215  12.207 0.813  -2.586 -0.661 0.708  CAX  GHW 20 
+GHW OAE  OAE  O 0 1 N N N 0.069  11.097 1.396  -2.563 -1.226 1.784  OAE  GHW 21 
+GHW NAS  NAS  N 0 1 N N N 1.332  12.539 0.156  -3.741 -0.566 0.021  NAS  GHW 22 
+GHW CAP  CAP  C 0 1 N N S 2.516  11.650 0.099  -4.970 -1.144 0.570  CAP  GHW 23 
+GHW CAW  CAW  C 0 1 N N N 3.695  12.555 -0.387 -5.043 -2.606 0.209  CAW  GHW 24 
+GHW OAG  OAG  O 0 1 N N N 3.495  13.776 -0.702 -4.159 -3.112 -0.440 OAG  GHW 25 
+GHW OAD  OAD  O 0 1 N N N 4.846  11.993 -0.319 -6.089 -3.345 0.610  OAD  GHW 26 
+GHW CBG  CBG  C 0 1 N N N 2.319  10.474 -0.935 -6.182 -0.414 -0.012 CBG  GHW 27 
+GHW CAN  CAN  C 0 1 N N N 2.074  11.018 -2.356 -6.174 1.042  0.458  CAN  GHW 28 
+GHW CAV  CAV  C 0 1 N N N 1.730  9.928  -3.362 -7.368 1.761  -0.116 CAV  GHW 29 
+GHW OXT  OXT  O 0 1 N Y N 1.365  8.824  -2.895 -7.568 3.059  0.163  OXT  GHW 30 
+GHW OAC  OAC  O 0 1 N N N 1.598  10.263 -4.559 -8.145 1.170  -0.827 OAC  GHW 31 
+GHW H13  H13  H 0 1 N N N -1.619 18.548 2.724  3.618  3.953  1.820  H13  GHW 32 
+GHW H13A H13A H 0 0 N N N -3.135 19.444 3.078  3.401  4.129  0.062  H13A GHW 33 
+GHW H13B H13B H 0 0 N N N -3.160 17.652 2.948  2.149  3.323  1.038  H13B GHW 34 
+GHW HN1  HN1  H 0 1 N N N -3.952 17.380 -4.341 5.250  -2.766 -1.631 HN1  GHW 35 
+GHW HN2  HN2  H 0 1 N N N -2.537 20.528 -4.834 6.916  -3.830 -0.370 HN2  GHW 36 
+GHW HN2A HN2A H 0 0 N N N -3.232 19.178 -5.756 7.526  -3.101 1.015  HN2A GHW 37 
+GHW HAJ  HAJ  H 0 1 N N N -3.954 13.728 2.237  -0.242 1.602  -2.554 HAJ  GHW 38 
+GHW HAL  HAL  H 0 1 N N N -2.134 11.985 2.147  -2.296 0.640  -1.640 HAL  GHW 39 
+GHW HAI  HAI  H 0 1 N N N -1.705 16.195 -0.410 1.922  0.289  0.901  HAI  GHW 40 
+GHW HAK  HAK  H 0 1 N N N 0.076  14.532 -0.472 -0.127 -0.678 1.823  HAK  GHW 41 
+GHW HNAS HNAS H 0 0 N N N 1.369  13.421 -0.315 -3.759 -0.116 -0.838 HNAS GHW 42 
+GHW HAP  HAP  H 0 1 N N N 2.696  11.190 1.082  -4.968 -1.038 1.655  HAP  GHW 43 
+GHW HOAD HOAD H 0 0 N N N 5.521  12.625 -0.539 -6.092 -4.277 0.354  HOAD GHW 44 
+GHW HBG  HBG  H 0 1 N N N 3.225  9.851  -0.943 -6.136 -0.445 -1.101 HBG  GHW 45 
+GHW HBGA HBGA H 0 0 N N N 1.442  9.884  -0.630 -7.096 -0.901 0.327  HBGA GHW 46 
+GHW HAN  HAN  H 0 1 N N N 1.234  11.726 -2.314 -6.220 1.073  1.546  HAN  GHW 47 
+GHW HANA HANA H 0 0 N N N 3.007  11.495 -2.692 -5.260 1.528  0.118  HANA GHW 48 
+GHW HXT  HXT  H 0 1 N Y N 0.981  8.298  -3.587 -8.347 3.477  -0.227 HXT  GHW 49 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+GHW N3  C4   SING N N 1  
+GHW C4  C5   DOUB Y N 2  
+GHW C4  S4   SING Y N 3  
+GHW C6  C5   SING N N 4  
+GHW C5  C1   SING Y N 5  
+GHW N1  C6   SING N N 6  
+GHW C6  O6   DOUB N N 7  
+GHW C3  C13  SING N N 8  
+GHW C13 H13  SING N N 9  
+GHW C13 H13A SING N N 10 
+GHW C13 H13B SING N N 11 
+GHW C2  N1   SING N N 12 
+GHW N1  HN1  SING N N 13 
+GHW N2  C2   SING N N 14 
+GHW N2  HN2  SING N N 15 
+GHW N2  HN2A SING N N 16 
+GHW S4  C3   SING Y N 17 
+GHW C1  C3   DOUB Y N 18 
+GHW C2  N3   DOUB N N 19 
+GHW C1  SAT  SING N N 20 
+GHW CAZ SAT  SING N N 21 
+GHW CAI CAZ  DOUB Y N 22 
+GHW CAZ CAJ  SING Y N 23 
+GHW CAL CAJ  DOUB Y N 24 
+GHW CAJ HAJ  SING N N 25 
+GHW CBA CAL  SING Y N 26 
+GHW CAL HAL  SING N N 27 
+GHW CAK CAI  SING Y N 28 
+GHW CAI HAI  SING N N 29 
+GHW CAK CBA  DOUB Y N 30 
+GHW CAK HAK  SING N N 31 
+GHW CAX CBA  SING N N 32 
+GHW NAS CAX  SING N N 33 
+GHW CAX OAE  DOUB N N 34 
+GHW CAP NAS  SING N N 35 
+GHW NAS HNAS SING N N 36 
+GHW CBG CAP  SING N N 37 
+GHW CAW CAP  SING N N 38 
+GHW CAP HAP  SING N N 39 
+GHW OAG CAW  DOUB N N 40 
+GHW CAW OAD  SING N N 41 
+GHW OAD HOAD SING N N 42 
+GHW CAN CBG  SING N N 43 
+GHW CBG HBG  SING N N 44 
+GHW CBG HBGA SING N N 45 
+GHW CAV CAN  SING N N 46 
+GHW CAN HAN  SING N N 47 
+GHW CAN HANA SING N N 48 
+GHW OAC CAV  DOUB N N 49 
+GHW CAV OXT  SING N N 50 
+GHW OXT HXT  SING N N 51 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+GHW SMILES           ACDLabs              10.04 "O=C(O)C(NC(=O)c3ccc(Sc1c(sc2N=C(NC(=O)c12)N)C)cc3)CCC(=O)O"                                                                                                                                   
+GHW SMILES_CANONICAL CACTVS               3.341 "Cc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O"                                                                                                                                
+GHW SMILES           CACTVS               3.341 "Cc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O"                                                                                                                                  
+GHW SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O"                                                                                                                              
+GHW SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O"                                                                                                                                   
+GHW InChI            InChI                1.03  "InChI=1S/C19H18N4O6S2/c1-8-14(13-16(27)22-19(20)23-17(13)30-8)31-10-4-2-9(3-5-10)15(26)21-11(18(28)29)6-7-12(24)25/h2-5,11H,6-7H2,1H3,(H,21,26)(H,24,25)(H,28,29)(H3,20,22,23,27)/t11-/m0/s1" 
+GHW InChIKey         InChI                1.03  XZCPGLYOPFIZBL-NSHDSACASA-N                                                                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+GHW "SYSTEMATIC NAME" ACDLabs              10.04 "N-({4-[(2-amino-6-methyl-4-oxo-3,4-dihydrothieno[2,3-d]pyrimidin-5-yl)sulfanyl]phenyl}carbonyl)-L-glutamic acid"    
+GHW "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S)-2-[[4-[(2-amino-6-methyl-4-oxo-3H-thieno[5,4-d]pyrimidin-5-yl)sulfanyl]phenyl]carbonylamino]pentanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+GHW "Create component"     2009-03-05 RCSB 
+GHW "Modify aromatic_flag" 2011-06-04 RCSB 
+GHW "Modify descriptor"    2011-06-04 RCSB 
+# 

@@ -1,0 +1,128 @@
+data_12B
+# 
+_chem_comp.id                                    12B 
+_chem_comp.name                                  "BENZO[CD]INDOL-2(1H)-ONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-11-30 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        169.179 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     12B 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2F67 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+12B CAA CAA C 0 1 Y N N 26.203 -20.330 18.170 0.194  0.013  0.000  CAA 12B 1  
+12B CAB CAB C 0 1 Y N N 25.109 -19.664 18.683 0.086  1.400  0.000  CAB 12B 2  
+12B CAF CAF C 0 1 Y N N 24.093 -20.434 19.235 1.276  2.104  0.000  CAF 12B 3  
+12B CAK CAK C 0 1 Y N N 24.235 -21.828 19.241 2.490  1.419  0.000  CAK 12B 4  
+12B CAJ CAJ C 0 1 Y N N 25.360 -22.473 18.711 2.582  0.053  0.000  CAJ 12B 5  
+12B CAD CAD C 0 1 Y N N 26.374 -21.697 18.161 1.395  -0.698 0.000  CAD 12B 6  
+12B CAI CAI C 0 1 Y N N 27.544 -22.211 17.599 1.310  -2.101 0.000  CAI 12B 7  
+12B CAM CAM C 0 1 Y N N 28.495 -21.324 17.073 0.074  -2.690 -0.001 CAM 12B 8  
+12B CAH CAH C 0 1 Y N N 28.283 -19.938 17.102 -1.116 -1.964 -0.002 CAH 12B 9  
+12B CAC CAC C 0 1 Y N N 27.110 -19.443 17.664 -1.076 -0.581 0.006  CAC 12B 10 
+12B CAG CAG C 0 1 N N N 26.513 -18.214 17.893 -2.006 0.555  -0.001 CAG 12B 11 
+12B OAL OAL O 0 1 N N N 27.007 -17.140 17.578 -3.221 0.485  -0.001 OAL 12B 12 
+12B NAE NAE N 0 1 N N N 25.324 -18.359 18.499 -1.271 1.698  0.000  NAE 12B 13 
+12B HAF HAF H 0 1 N N N 23.196 -19.951 19.658 1.265  3.184  0.000  HAF 12B 14 
+12B HAK HAK H 0 1 N N N 23.430 -22.441 19.680 3.404  1.994  -0.001 HAK 12B 15 
+12B HAJ HAJ H 0 1 N N N 25.446 -23.572 18.727 3.545  -0.436 -0.001 HAJ 12B 16 
+12B HAI HAI H 0 1 N N N 27.714 -23.300 17.571 2.206  -2.705 0.000  HAI 12B 17 
+12B HAM HAM H 0 1 N N N 29.423 -21.722 16.630 0.019  -3.769 -0.001 HAM 12B 18 
+12B HAH HAH H 0 1 N N N 29.032 -19.243 16.686 -2.066 -2.480 -0.003 HAH 12B 19 
+12B HAE HAE H 0 1 N N N 24.692 -17.606 18.773 -1.641 2.595  0.000  HAE 12B 20 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+12B CAA CAB SING Y N 1  
+12B CAA CAD DOUB Y N 2  
+12B CAA CAC SING Y N 3  
+12B CAB CAF DOUB Y N 4  
+12B CAB NAE SING N N 5  
+12B CAF CAK SING Y N 6  
+12B CAF HAF SING N N 7  
+12B CAK CAJ DOUB Y N 8  
+12B CAK HAK SING N N 9  
+12B CAJ CAD SING Y N 10 
+12B CAJ HAJ SING N N 11 
+12B CAD CAI SING Y N 12 
+12B CAI CAM DOUB Y N 13 
+12B CAI HAI SING N N 14 
+12B CAM CAH SING Y N 15 
+12B CAM HAM SING N N 16 
+12B CAH CAC DOUB Y N 17 
+12B CAH HAH SING N N 18 
+12B CAC CAG SING N N 19 
+12B CAG OAL DOUB N N 20 
+12B CAG NAE SING N N 21 
+12B NAE HAE SING N N 22 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+12B SMILES           ACDLabs              10.04 "O=C3c2cccc1cccc(c12)N3"                                                 
+12B SMILES_CANONICAL CACTVS               3.341 O=C1Nc2cccc3cccc1c23                                                     
+12B SMILES           CACTVS               3.341 O=C1Nc2cccc3cccc1c23                                                     
+12B SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc2cccc3c2c(c1)C(=O)N3"                                               
+12B SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc2cccc3c2c(c1)C(=O)N3"                                               
+12B InChI            InChI                1.03  "InChI=1S/C11H7NO/c13-11-8-5-1-3-7-4-2-6-9(12-11)10(7)8/h1-6H,(H,12,13)" 
+12B InChIKey         InChI                1.03  GPYLCFQEKPUWLD-UHFFFAOYSA-N                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+12B "SYSTEMATIC NAME" ACDLabs 10.04 "benzo[cd]indol-2(1H)-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+12B "Create component"  2005-11-30 RCSB 
+12B "Modify descriptor" 2011-06-04 RCSB 
+# 

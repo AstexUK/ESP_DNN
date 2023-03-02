@@ -1,0 +1,124 @@
+data_PPK
+# 
+_chem_comp.id                                    PPK 
+_chem_comp.name                                  "(DIPHOSPHONO)AMINOPHOSPHONIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "H6 N O9 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-05-14 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        256.970 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     PPK 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P7L 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+PPK O1G O1G O 0 1 N N N -43.958 4.488 1.372  0.290  -0.908 4.022  O1G PPK 1  
+PPK PG  PG  P 0 1 N N N -42.656 4.967 0.850  0.060  -0.073 2.664  PG  PPK 2  
+PPK O2G O2G O 0 1 N N N -42.099 5.856 1.843  -1.454 0.469  2.619  O2G PPK 3  
+PPK O3G O3G O 0 1 N N N -42.800 5.559 -0.534 0.996  1.072  2.625  O3G PPK 4  
+PPK N3B N3B N 0 1 N N N -41.687 3.746 0.304  0.338  -1.071 1.338  N3B PPK 5  
+PPK PB  PB  P 0 1 N N S -40.496 2.957 0.887  0.079  -0.133 -0.034 PB  PPK 6  
+PPK O1B O1B O 0 1 N N N -39.949 2.060 -0.163 -1.435 0.410  -0.035 O1B PPK 7  
+PPK O2B O2B O 0 1 N N N -39.599 3.972 1.480  1.015  1.012  -0.033 O2B PPK 8  
+PPK O3A O3A O 0 1 N N N -40.900 2.142 2.218  0.329  -1.028 -1.350 O3A PPK 9  
+PPK PA  PA  P 0 1 N N N -41.474 2.809 3.562  0.065  -0.073 -2.619 PA  PPK 10 
+PPK O1A O1A O 0 1 N N N -43.023 2.965 3.481  0.297  -0.907 -3.976 O1A PPK 11 
+PPK O2A O2A O 0 1 N N N -40.897 4.199 3.773  -1.450 0.469  -2.576 O2A PPK 12 
+PPK O4A O4A O 0 1 N N N -41.171 1.880 4.752  1.001  1.072  -2.577 O4A PPK 13 
+PPK H1G H1G H 0 1 N N N -44.324 3.903 0.718  0.121  -0.301 4.755  H1G PPK 14 
+PPK H2G H2G H 0 1 N N N -41.264 6.163 1.508  -2.030 -0.306 2.647  H2G PPK 15 
+PPK H3B H3B H 0 1 N N N -41.324 4.107 -0.578 1.320  -1.302 1.350  H3B PPK 16 
+PPK H1B H1B H 0 1 N N N -39.215 1.574 0.195  -2.011 -0.366 -0.036 H1B PPK 17 
+PPK H1A H1A H 0 1 N N N -43.362 3.359 4.275  0.130  -0.300 -4.709 H1A PPK 18 
+PPK H2A H2A H 0 1 N N N -41.236 4.593 4.567  -2.026 -0.306 -2.605 H2A PPK 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+PPK O1G PG  SING N N 1  
+PPK O1G H1G SING N N 2  
+PPK PG  O2G SING N N 3  
+PPK PG  O3G DOUB N N 4  
+PPK PG  N3B SING N N 5  
+PPK O2G H2G SING N N 6  
+PPK N3B PB  SING N N 7  
+PPK N3B H3B SING N N 8  
+PPK PB  O1B SING N N 9  
+PPK PB  O2B DOUB N N 10 
+PPK PB  O3A SING N N 11 
+PPK O1B H1B SING N N 12 
+PPK O3A PA  SING N N 13 
+PPK PA  O1A SING N N 14 
+PPK PA  O2A SING N N 15 
+PPK PA  O4A DOUB N N 16 
+PPK O1A H1A SING N N 17 
+PPK O2A H2A SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+PPK SMILES           ACDLabs              10.04 "O=P(OP(=O)(O)O)(O)NP(=O)(O)O"                                                
+PPK SMILES_CANONICAL CACTVS               3.341 "O[P](O)(=O)N[P@@](O)(=O)O[P](O)(O)=O"                                        
+PPK SMILES           CACTVS               3.341 "O[P](O)(=O)N[P](O)(=O)O[P](O)(O)=O"                                          
+PPK SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "N(P(=O)(O)O)[P@](=O)(O)OP(=O)(O)O"                                           
+PPK SMILES           "OpenEye OEToolkits" 1.5.0 "N(P(=O)(O)O)P(=O)(O)OP(=O)(O)O"                                              
+PPK InChI            InChI                1.03  "InChI=1S/H6NO9P3/c2-11(3,4)1-12(5,6)10-13(7,8)9/h(H2,7,8,9)(H4,1,2,3,4,5,6)" 
+PPK InChIKey         InChI                1.03  PELPUMGXMYVGSQ-UHFFFAOYSA-N                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+PPK "SYSTEMATIC NAME" ACDLabs              10.04 "phosphonoamidodiphosphoric acid"                         
+PPK "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(hydroxy-phosphonooxy-phosphoryl)amino]phosphonic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+PPK "Create component"  2003-05-14 RCSB 
+PPK "Modify descriptor" 2011-06-04 RCSB 
+# 

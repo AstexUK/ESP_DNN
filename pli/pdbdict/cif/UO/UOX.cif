@@ -1,0 +1,117 @@
+data_UOX
+# 
+_chem_comp.id                                    UOX 
+_chem_comp.name                                  "3-(oxido-lambda~4~-selanyl)-L-alanine" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C3 H7 N O3 Se" 
+_chem_comp.mon_nstd_parent_comp_id               SEC 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-06-13 
+_chem_comp.pdbx_modified_date                    2014-01-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        184.053 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     UOX 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4KL8 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+UOX N  N  N  0 1 N N N 23.798 22.259 17.828 -1.108 1.732  -0.133 N  UOX 1  
+UOX CA CA C  0 1 N N R 24.083 21.969 16.431 -1.211 0.291  -0.397 CA UOX 2  
+UOX CB CB C  0 1 N N N 22.729 21.489 15.915 -0.156 -0.454 0.423  CB UOX 3  
+UOX SE SE SE 0 0 N N R 22.728 20.027 14.596 1.632  0.059  -0.193 SE UOX 4  
+UOX OD OD O  0 1 N N N 20.900 19.728 14.545 2.527  -0.792 0.750  OD UOX 5  
+UOX C  C  C  0 1 N N N 24.381 23.275 15.743 -2.584 -0.194 -0.008 C  UOX 6  
+UOX O  O  O  0 1 N N N 23.474 24.081 15.513 -3.260 0.454  0.756  O  UOX 7  
+UOX H1 H1 H  0 1 N N N 23.596 21.407 18.311 -1.257 1.933  0.844  H1 UOX 8  
+UOX H2 H2 H  0 1 N Y N 24.593 22.699 18.246 -0.220 2.095  -0.445 H2 UOX 9  
+UOX H4 H4 H  0 1 N N N 24.877 21.221 16.288 -1.047 0.103  -1.458 H4 UOX 10 
+UOX H5 H5 H  0 1 N N N 22.228 22.352 15.452 -0.265 -0.196 1.477  H5 UOX 11 
+UOX H6 H6 H  0 1 N N N 22.146 21.150 16.784 -0.289 -1.528 0.297  H6 UOX 12 
+UOX O1 O1 O  0 1 N Y N ?      ?      ?      -3.056 -1.346 -0.509 O1 UOX 13 
+UOX H3 H3 H  0 1 N N N 23.467 18.858 15.065 1.777  1.471  0.454  H3 UOX 14 
+UOX H7 H7 H  0 1 N Y N ?      ?      ?      -3.942 -1.616 -0.231 H7 UOX 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+UOX OD SE DOUB N N 1  
+UOX SE CB SING N N 2  
+UOX O  C  DOUB N N 3  
+UOX C  CA SING N N 4  
+UOX CB CA SING N N 5  
+UOX CA N  SING N N 6  
+UOX N  H1 SING N N 7  
+UOX N  H2 SING N N 8  
+UOX CA H4 SING N N 9  
+UOX CB H5 SING N N 10 
+UOX CB H6 SING N N 11 
+UOX C  O1 SING N N 12 
+UOX SE H3 SING N N 13 
+UOX O1 H7 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+UOX SMILES           ACDLabs              12.01 "O=C(O)C(N)C[SeH]=O"                                                
+UOX InChI            InChI                1.03  "InChI=1S/C3H7NO3Se/c4-2(1-8-7)3(5)6/h2,8H,1,4H2,(H,5,6)/t2-/m0/s1" 
+UOX InChIKey         InChI                1.03  DGBNJQQQGWVVSW-REOHCLBHSA-N                                         
+UOX SMILES_CANONICAL CACTVS               3.370 "N[C@@H](C[Se@H]=O)C(O)=O"                                          
+UOX SMILES           CACTVS               3.370 "N[CH](C[SeH]=O)C(O)=O"                                             
+UOX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C([C@@H](C(=O)O)N)[Se@@H]=O"                                       
+UOX SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(C(=O)O)N)[SeH]=O"                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+UOX "SYSTEMATIC NAME" ACDLabs              12.01 "3-(oxido-lambda~4~-selanyl)-L-alanine"         
+UOX "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R)-2-azanyl-3-hydroseleninyl-propanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+UOX "Create component"      2013-06-13 RCSB 
+UOX "Other modification"    2013-07-10 RCSB 
+UOX "Modify parent residue" 2014-01-20 RCSB 
+# 

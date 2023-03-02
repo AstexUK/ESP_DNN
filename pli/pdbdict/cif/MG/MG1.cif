@@ -1,0 +1,173 @@
+data_MG1
+# 
+_chem_comp.id                                    MG1 
+_chem_comp.name                                  
+;2'-DEOXY-1-METHYLGUANOSINE 5'-(DIHYDROGEN PHOSPHATE)
+;
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C11 H16 N5 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2007-03-07 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        361.248 
+_chem_comp.one_letter_code                       G 
+_chem_comp.three_letter_code                     MG1 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        "OpenEye/OEToolkits V1.4.2" 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MG1 OP3    O3P  O 0 1 N Y N 6.307  5.948  -7.917 0.339  -0.227 -4.868 OP3    MG1 1  
+MG1 P      P    P 0 1 N N N 7.066  4.536  -7.684 1.592  -1.245 -4.964 P      MG1 2  
+MG1 OP1    O1P  O 0 1 N N N 8.044  4.366  -8.780 2.575  -0.951 -6.059 OP1    MG1 3  
+MG1 OP2    O2P  O 0 1 N N N 6.073  3.471  -7.414 0.886  -2.697 -5.051 OP2    MG1 4  
+MG1 "O5'"  O5*  O 0 1 N N N 7.875  4.824  -6.323 2.211  -1.232 -3.468 "O5'"  MG1 5  
+MG1 "C5'"  C5*  C 0 1 N N N 7.232  5.266  -5.140 1.348  -1.500 -2.377 "C5'"  MG1 6  
+MG1 "C4'"  C4*  C 0 1 N N R 8.327  5.637  -4.125 2.156  -1.432 -1.088 "C4'"  MG1 7  
+MG1 "O4'"  O4*  O 0 1 N N N 7.895  6.755  -3.380 2.678  -0.093 -0.958 "O4'"  MG1 8  
+MG1 "C3'"  C3*  C 0 1 N N S 8.638  4.493  -3.146 1.309  -1.697 0.152  "C3'"  MG1 9  
+MG1 "O3'"  O3*  O 0 1 N N N 10.027 4.458  -2.848 2.127  -2.250 1.180  "O3'"  MG1 10 
+MG1 "C2'"  C2*  C 0 1 N N N 7.817  4.874  -1.919 0.878  -0.312 0.578  "C2'"  MG1 11 
+MG1 "C1'"  C1*  C 0 1 N N R 7.769  6.396  -2.026 2.101  0.516  0.211  "C1'"  MG1 12 
+MG1 N9     N9   N 0 1 Y N N 6.487  6.943  -1.541 1.818  1.923  -0.049 N9     MG1 13 
+MG1 C8     C8   C 0 1 Y N N 5.207  6.540  -1.834 1.432  2.459  -1.252 C8     MG1 14 
+MG1 N7     N7   N 0 1 Y N N 4.282  7.282  -1.297 1.248  3.763  -1.181 N7     MG1 15 
+MG1 C5     C5   C 0 1 Y N N 4.992  8.248  -0.597 1.528  4.065  0.120  C5     MG1 16 
+MG1 C6     C6   C 0 1 N N N 4.551  9.311  0.240  1.492  5.348  0.764  C6     MG1 17 
+MG1 O6     O6   O 0 1 N N N 3.388  9.592  0.540  1.181  6.368  0.160  O6     MG1 18 
+MG1 N1     N1   N 0 1 N N N 5.592  10.061 0.795  1.853  5.252  2.135  N1     MG1 19 
+MG1 CM1    CM1  C 0 1 N N N 5.216  10.917 1.913  1.866  6.475  2.934  CM1    MG1 20 
+MG1 C2     C2   C 0 1 N N N 6.936  9.928  0.411  2.207  4.013  2.780  C2     MG1 21 
+MG1 N2     N2   N 0 1 N N N 7.791  10.922 0.676  2.542  4.028  4.116  N2     MG1 22 
+MG1 N3     N3   N 0 1 N N N 7.352  8.896  -0.350 2.224  2.859  2.139  N3     MG1 23 
+MG1 C4     C4   C 0 1 Y N N 6.356  8.077  -0.789 1.882  2.955  0.840  C4     MG1 24 
+MG1 HOP3   3HOP H 0 0 N N N 6.158  6.370  -7.079 -0.163 -0.014 -5.684 HOP3   MG1 25 
+MG1 HOP2   2HOP H 0 0 N N N 5.860  3.023  -8.224 0.508  -2.990 -5.907 HOP2   MG1 26 
+MG1 "H5'"  1H5* H 0 1 N N N 6.604  6.143  -5.356 0.551  -0.756 -2.359 "H5'"  MG1 27 
+MG1 "H5''" 2H5* H 0 0 N N N 6.584  4.475  -4.735 0.917  -2.495 -2.497 "H5''" MG1 28 
+MG1 "H4'"  H4*  H 0 1 N N N 9.244  5.854  -4.693 3.008  -2.117 -1.157 "H4'"  MG1 29 
+MG1 "H3'"  H3*  H 0 1 N N N 8.394  3.494  -3.535 0.475  -2.383 -0.018 "H3'"  MG1 30 
+MG1 "HO3'" H3T  H 0 0 N Y N 10.525 4.450  -3.657 1.941  -3.202 1.197  "HO3'" MG1 31 
+MG1 "H2'"  1H2* H 0 1 N N N 6.812  4.427  -1.941 0.008  0.008  -0.009 "H2'"  MG1 32 
+MG1 "H2''" 2H2* H 0 0 N N N 8.247  4.513  -0.973 0.635  -0.225 1.641  "H2''" MG1 33 
+MG1 "H1'"  H1*  H 0 1 N N N 8.585  6.801  -1.410 2.853  0.503  1.007  "H1'"  MG1 34 
+MG1 H8     H8   H 0 1 N N N 4.988  5.684  -2.455 1.303  1.853  -2.138 H8     MG1 35 
+MG1 HM11   1HM1 H 0 0 N N N 5.121  10.309 2.825  0.956  7.052  2.752  HM11   MG1 36 
+MG1 HM12   2HM1 H 0 0 N N N 5.989  11.685 2.063  2.731  7.089  2.671  HM12   MG1 37 
+MG1 HM13   3HM1 H 0 0 N N N 4.254  11.403 1.695  1.920  6.230  3.999  HM13   MG1 38 
+MG1 H21    1H2  H 0 1 N N N 7.348  11.613 1.247  2.553  3.165  4.601  H21    MG1 39 
+MG1 H22    2H2  H 0 1 N N N 8.735  10.967 0.351  2.756  4.902  4.531  H22    MG1 40 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MG1 OP3   P      SING N N 1  
+MG1 OP3   HOP3   SING N N 2  
+MG1 P     OP1    DOUB N N 3  
+MG1 P     OP2    SING N N 4  
+MG1 P     "O5'"  SING N N 5  
+MG1 OP2   HOP2   SING N N 6  
+MG1 "O5'" "C5'"  SING N N 7  
+MG1 "C5'" "C4'"  SING N N 8  
+MG1 "C5'" "H5'"  SING N N 9  
+MG1 "C5'" "H5''" SING N N 10 
+MG1 "C4'" "O4'"  SING N N 11 
+MG1 "C4'" "C3'"  SING N N 12 
+MG1 "C4'" "H4'"  SING N N 13 
+MG1 "O4'" "C1'"  SING N N 14 
+MG1 "C3'" "O3'"  SING N N 15 
+MG1 "C3'" "C2'"  SING N N 16 
+MG1 "C3'" "H3'"  SING N N 17 
+MG1 "O3'" "HO3'" SING N N 18 
+MG1 "C2'" "C1'"  SING N N 19 
+MG1 "C2'" "H2'"  SING N N 20 
+MG1 "C2'" "H2''" SING N N 21 
+MG1 "C1'" N9     SING N N 22 
+MG1 "C1'" "H1'"  SING N N 23 
+MG1 N9    C8     SING Y N 24 
+MG1 N9    C4     SING Y N 25 
+MG1 C8    N7     DOUB Y N 26 
+MG1 C8    H8     SING N N 27 
+MG1 N7    C5     SING Y N 28 
+MG1 C5    C4     DOUB Y N 29 
+MG1 C5    C6     SING N N 30 
+MG1 C6    O6     DOUB N N 31 
+MG1 C6    N1     SING N N 32 
+MG1 N1    C2     SING N N 33 
+MG1 N1    CM1    SING N N 34 
+MG1 CM1   HM11   SING N N 35 
+MG1 CM1   HM12   SING N N 36 
+MG1 CM1   HM13   SING N N 37 
+MG1 C2    N3     DOUB N N 38 
+MG1 C2    N2     SING N N 39 
+MG1 N2    H21    SING N N 40 
+MG1 N2    H22    SING N N 41 
+MG1 N3    C4     SING N N 42 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MG1 SMILES           ACDLabs              10.04 "O=C1c2ncn(c2N=C(N)N1C)C3OC(C(O)C3)COP(=O)(O)O"                                                                                                          
+MG1 SMILES_CANONICAL CACTVS               3.341 "CN1C(=Nc2n(cnc2C1=O)[C@H]3C[C@H](O)[C@@H](CO[P](O)(O)=O)O3)N"                                                                                           
+MG1 SMILES           CACTVS               3.341 "CN1C(=Nc2n(cnc2C1=O)[CH]3C[CH](O)[CH](CO[P](O)(O)=O)O3)N"                                                                                               
+MG1 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CN1C(=O)c2c(n(cn2)[C@H]3C[C@@H]([C@H](O3)COP(=O)(O)O)O)N=C1N"                                                                                           
+MG1 SMILES           "OpenEye OEToolkits" 1.5.0 "CN1C(=O)c2c(n(cn2)C3CC(C(O3)COP(=O)(O)O)O)N=C1N"                                                                                                        
+MG1 InChI            InChI                1.03  "InChI=1S/C11H16N5O7P/c1-15-10(18)8-9(14-11(15)12)16(4-13-8)7-2-5(17)6(23-7)3-22-24(19,20)21/h4-7,17H,2-3H2,1H3,(H2,12,14)(H2,19,20,21)/t5-,6+,7+/m0/s1" 
+MG1 InChIKey         InChI                1.03  GQIQEQNQLGRCMV-RRKCRQDMSA-N                                                                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MG1 "SYSTEMATIC NAME" ACDLabs              10.04 
+;2'-deoxy-1-methylguanosine 5'-(dihydrogen phosphate)
+;
+MG1 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(2-amino-1-methyl-6-oxo-purin-9-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MG1 "Create component"  2007-03-07 PDBJ 
+MG1 "Modify descriptor" 2011-06-04 RCSB 
+# 

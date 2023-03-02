@@ -1,0 +1,120 @@
+data_6MP
+# 
+_chem_comp.id                                    6MP 
+_chem_comp.name                                  6-METHYLPURINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 N4" 
+_chem_comp.mon_nstd_parent_comp_id               A 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.139 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     6MP 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2PUA 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+6MP N9  N9  N 0 1 Y N N 58.478 5.825 -10.183 -0.743 -0.000 -2.036 N9  6MP 1  
+6MP C4  C4  C 0 1 Y N N 57.917 4.579 -10.331 -0.835 -0.000 -0.693 C4  6MP 2  
+6MP N3  N3  N 0 1 Y N N 58.157 3.499 -9.555  -1.846 -0.000 0.175  N3  6MP 3  
+6MP C2  C2  C 0 1 Y N N 57.476 2.445 -9.971  -1.611 0.000  1.469  C2  6MP 4  
+6MP N1  N1  N 0 1 Y N N 56.613 2.451 -11.040 -0.388 -0.000 1.967  N1  6MP 5  
+6MP C6  C6  C 0 1 Y N N 56.329 3.562 -11.824 0.674  -0.000 1.178  C6  6MP 6  
+6MP C7  C7  C 0 1 N N N 55.307 3.456 -12.966 2.064  -0.000 1.760  C7  6MP 7  
+6MP C5  C5  C 0 1 Y N N 57.073 4.687 -11.411 0.483  0.004  -0.194 C5  6MP 8  
+6MP N7  N7  N 0 1 Y N N 57.101 5.971 -11.935 1.307  -0.000 -1.299 N7  6MP 9  
+6MP C8  C8  C 0 1 Y N N 57.954 6.603 -11.182 0.511  -0.000 -2.392 C8  6MP 10 
+6MP H2  H2  H 0 1 N N N 57.635 1.515 -9.398  -2.450 0.000  2.150  H2  6MP 11 
+6MP H71 1H7 H 0 1 N N N 55.079 4.347 -13.595 2.399  -1.028 1.900  H71 6MP 12 
+6MP H72 2H7 H 0 1 N N N 55.613 2.620 -13.637 2.743  0.513  1.079  H72 6MP 13 
+6MP H73 3H7 H 0 1 N N N 54.349 3.066 -12.547 2.055  0.513  2.721  H73 6MP 14 
+6MP HN7 HN7 H 0 1 N N N 56.592 6.373 -12.722 2.277  -0.000 -1.293 HN7 6MP 15 
+6MP H8  H8  H 0 1 N N N 58.201 7.662 -11.366 0.863  -0.001 -3.413 H8  6MP 16 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+6MP N9 C4  SING Y N 1  
+6MP N9 C8  DOUB Y N 2  
+6MP C4 N3  SING Y N 3  
+6MP C4 C5  DOUB Y N 4  
+6MP N3 C2  DOUB Y N 5  
+6MP C2 N1  SING Y N 6  
+6MP C2 H2  SING N N 7  
+6MP N1 C6  DOUB Y N 8  
+6MP C6 C7  SING N N 9  
+6MP C6 C5  SING Y N 10 
+6MP C7 H71 SING N N 11 
+6MP C7 H72 SING N N 12 
+6MP C7 H73 SING N N 13 
+6MP C5 N7  SING Y N 14 
+6MP N7 C8  SING Y N 15 
+6MP N7 HN7 SING N N 16 
+6MP C8 H8  SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+6MP SMILES           ACDLabs              10.04 "n1c(c2c(nc1)ncn2)C"                                               
+6MP SMILES_CANONICAL CACTVS               3.341 "Cc1ncnc2nc[nH]c12"                                                
+6MP SMILES           CACTVS               3.341 "Cc1ncnc2nc[nH]c12"                                                
+6MP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1c2c(nc[nH]2)ncn1"                                              
+6MP SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1c2c(nc[nH]2)ncn1"                                              
+6MP InChI            InChI                1.03  "InChI=1S/C6H6N4/c1-4-5-6(9-2-7-4)10-3-8-5/h2-3H,1H3,(H,7,8,9,10)" 
+6MP InChIKey         InChI                1.03  SYMHUEFSSMBHJA-UHFFFAOYSA-N                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+6MP "SYSTEMATIC NAME" ACDLabs              10.04 6-methyl-7H-purine 
+6MP "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 6-methyl-7H-purine 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+6MP "Create component"  1999-07-08 RCSB 
+6MP "Modify descriptor" 2011-06-04 RCSB 
+# 

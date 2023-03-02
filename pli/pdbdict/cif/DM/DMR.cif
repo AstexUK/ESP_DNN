@@ -1,0 +1,117 @@
+data_DMR
+# 
+_chem_comp.id                                    DMR 
+_chem_comp.name                                  "2-HYDROXY-SUCCINIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H6 O5" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         D-Malate 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-27 
+_chem_comp.pdbx_modified_date                    2013-02-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      MLT 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        134.087 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     DMR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1C1E 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+DMR C1   C1   C 0 1 N N N 8.351 -19.903 41.892 1.871  0.184  0.057  C1   DMR 1  
+DMR O1A  O1A  O 0 1 N N N 7.599 -19.071 42.367 2.637  -0.512 -0.565 O1A  DMR 2  
+DMR O1B  O1B  O 0 1 N N N 9.518 -19.608 41.478 2.264  1.392  0.491  O1B  DMR 3  
+DMR C2   C2   C 0 1 N N R 7.926 -21.359 41.763 0.473  -0.300 0.342  C2   DMR 4  
+DMR O2   O2   O 0 1 N N N 6.415 -21.505 41.821 0.331  -1.645 -0.121 O2   DMR 5  
+DMR C3   C3   C 0 1 N N N 8.620 -22.170 42.859 -0.534 0.597  -0.381 C3   DMR 6  
+DMR C4   C4   C 0 1 N N N 8.791 -23.658 42.656 -1.934 0.189  0.000  C4   DMR 7  
+DMR O4A  O4A  O 0 1 N N N 9.804 -24.046 41.992 -2.987 0.841  -0.516 O4A  DMR 8  
+DMR O4B  O4B  O 0 1 N N N 7.950 -24.481 43.120 -2.108 -0.725 0.771  O4B  DMR 9  
+DMR HO11 HO11 H 0 0 N N N 9.674 -18.679 41.604 3.169  1.661  0.281  HO11 DMR 10 
+DMR H21  H21  H 0 1 N N N 8.272 -21.734 40.788 0.287  -0.264 1.415  H21  DMR 11 
+DMR HO21 HO21 H 0 0 N N N 6.025 -20.672 42.058 0.483  -1.752 -1.070 HO21 DMR 12 
+DMR H31  H31  H 0 1 N N N 9.625 -21.743 42.992 -0.367 1.635  -0.095 H31  DMR 13 
+DMR H32  H32  H 0 1 N N N 8.038 -22.033 43.782 -0.406 0.492  -1.459 H32  DMR 14 
+DMR HO41 HO41 H 0 0 N N N 9.795 -24.994 41.925 -3.866 0.544  -0.242 HO41 DMR 15 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+DMR C1  O1A  DOUB N N 1  
+DMR C1  O1B  SING N N 2  
+DMR C1  C2   SING N N 3  
+DMR O1B HO11 SING N N 4  
+DMR C2  O2   SING N N 5  
+DMR C2  C3   SING N N 6  
+DMR C2  H21  SING N N 7  
+DMR O2  HO21 SING N N 8  
+DMR C3  C4   SING N N 9  
+DMR C3  H31  SING N N 10 
+DMR C3  H32  SING N N 11 
+DMR C4  O4A  SING N N 12 
+DMR C4  O4B  DOUB N N 13 
+DMR O4A HO41 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+DMR SMILES           ACDLabs              12.01 "O=C(O)C(O)CC(=O)O"                                                     
+DMR InChI            InChI                1.03  "InChI=1S/C4H6O5/c5-2(4(8)9)1-3(6)7/h2,5H,1H2,(H,6,7)(H,8,9)/t2-/m1/s1" 
+DMR InChIKey         InChI                1.03  BJEPYKJPYRNKOW-UWTATZPHSA-N                                             
+DMR SMILES_CANONICAL CACTVS               3.370 "O[C@H](CC(O)=O)C(O)=O"                                                 
+DMR SMILES           CACTVS               3.370 "O[CH](CC(O)=O)C(O)=O"                                                  
+DMR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C([C@H](C(=O)O)O)C(=O)O"                                               
+DMR SMILES           "OpenEye OEToolkits" 1.7.6 "C(C(C(=O)O)O)C(=O)O"                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+DMR "SYSTEMATIC NAME" ACDLabs              12.01 "(2R)-2-hydroxybutanedioic acid"  
+DMR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2R)-2-oxidanylbutanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+DMR "Create component"   1999-07-27 RCSB 
+DMR "Modify descriptor"  2011-06-04 RCSB 
+DMR "Obsolete component" 2013-02-04 RCSB 
+# 

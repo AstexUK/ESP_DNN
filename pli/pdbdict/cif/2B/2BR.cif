@@ -1,0 +1,113 @@
+data_2BR
+# 
+_chem_comp.id                                    2BR 
+_chem_comp.name                                  2-BROMOPHENOL 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 Br O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         BROMOPHENOL 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2005-08-03 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        173.007 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     2BR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2A9W 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+2BR C13 C13 C  0 1 Y N N 1.614 20.117 10.613 2.275  -1.484 -0.014 C13 2BR 1  
+2BR C14 C14 C  0 1 Y N N 1.757 21.154 11.580 0.894  -1.445 -0.016 C14 2BR 2  
+2BR C15 C15 C  0 1 Y N N 1.729 20.857 12.957 0.235  -0.230 0.006  C15 2BR 3  
+2BR C16 C16 C  0 1 Y N N 1.556 19.567 13.412 0.963  0.952  0.017  C16 2BR 4  
+2BR C17 C17 C  0 1 Y N N 1.408 18.519 12.456 2.350  0.909  0.019  C17 2BR 5  
+2BR C18 C18 C  0 1 Y N N 1.439 18.796 11.092 3.003  -0.308 0.004  C18 2BR 6  
+2BR O3  O3  O  0 1 N N N 1.550 19.299 14.811 0.319  2.148  0.032  O3  2BR 7  
+2BR BR1 BR1 BR 0 0 N N N 2.078 22.132 14.218 -1.655 -0.177 0.003  BR1 2BR 8  
+2BR H13 H13 H  0 1 N N N 1.637 20.329 9.530  2.788  -2.435 -0.026 H13 2BR 9  
+2BR H14 H14 H  0 1 N N N 1.891 22.200 11.258 0.328  -2.365 -0.030 H14 2BR 10 
+2BR H17 H17 H  0 1 N N N 1.266 17.473 12.777 2.919  1.827  0.032  H17 2BR 11 
+2BR H18 H18 H  0 1 N N N 1.323 17.959 10.382 4.082  -0.342 0.005  H18 2BR 12 
+2BR HO3 HO3 H  0 1 N N N 1.430 18.410 15.124 0.188  2.407  -0.890 HO3 2BR 13 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+2BR C13 C14 DOUB Y N 1  
+2BR C13 C18 SING Y N 2  
+2BR C13 H13 SING N N 3  
+2BR C14 C15 SING Y N 4  
+2BR C14 H14 SING N N 5  
+2BR C15 C16 DOUB Y N 6  
+2BR C15 BR1 SING N N 7  
+2BR C16 C17 SING Y N 8  
+2BR C16 O3  SING N N 9  
+2BR C17 C18 DOUB Y N 10 
+2BR C17 H17 SING N N 11 
+2BR C18 H18 SING N N 12 
+2BR O3  HO3 SING N N 13 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+2BR SMILES           ACDLabs              10.04 Brc1ccccc1O                                   
+2BR SMILES_CANONICAL CACTVS               3.341 Oc1ccccc1Br                                   
+2BR SMILES           CACTVS               3.341 Oc1ccccc1Br                                   
+2BR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(c(c1)O)Br"                             
+2BR SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(c(c1)O)Br"                             
+2BR InChI            InChI                1.03  "InChI=1S/C6H5BrO/c7-5-3-1-2-4-6(5)8/h1-4,8H" 
+2BR InChIKey         InChI                1.03  VADKRMSMGWJZCF-UHFFFAOYSA-N                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+2BR "SYSTEMATIC NAME" ACDLabs              10.04 2-bromophenol 
+2BR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2-bromophenol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+2BR "Create component"  2005-08-03 RCSB 
+2BR "Modify descriptor" 2011-06-04 RCSB 
+# 

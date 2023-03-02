@@ -1,0 +1,206 @@
+data_M3O
+# 
+_chem_comp.id                                    M3O 
+_chem_comp.name                                  
+;3'-O-(N-formyl-L-methionyl)adenosine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "RNA linking" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C16 H23 N6 O9 P S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2015-04-06 
+_chem_comp.pdbx_modified_date                    2015-05-29 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        506.427 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     M3O 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4Z3Q 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+M3O P     P1  P 0 1 N N N 86.583 -43.414 -8.646  0.680  5.015  -0.044 P     M3O 1  
+M3O OP2   O1  O 0 1 N N N 86.093 -42.305 -9.485  0.152  6.132  0.988  OP2   M3O 2  
+M3O OP3   O2  O 0 1 N Y N 87.459 -43.135 -7.477  2.290  5.021  -0.064 OP3   M3O 3  
+M3O "C1'" C1  C 0 1 N N R 88.065 -47.658 -8.761  -2.169 -0.067 0.588  "C1'" M3O 4  
+M3O "C2'" C2  C 0 1 N N R 87.312 -48.662 -7.880  -1.218 -0.970 -0.228 "C2'" M3O 5  
+M3O "O2'" O3  O 0 1 N N N 87.327 -49.956 -8.450  -0.948 -2.182 0.480  "O2'" M3O 6  
+M3O "C3'" C3  C 0 1 N N S 85.903 -48.050 -7.741  0.070  -0.128 -0.369 "C3'" M3O 7  
+M3O "O3'" O4  O 0 1 N N N 84.982 -48.832 -8.505  1.192  -0.806 0.254  "O3'" M3O 8  
+M3O "C4'" C4  C 0 1 N N R 86.025 -46.641 -8.339  -0.256 1.184  0.378  "C4'" M3O 9  
+M3O "O4'" O5  O 0 1 N N N 87.427 -46.422 -8.588  -1.697 1.277  0.349  "O4'" M3O 10 
+M3O "C5'" C5  C 0 1 N N N 85.510 -45.519 -7.463  0.369  2.378  -0.347 "C5'" M3O 11 
+M3O "O5'" O6  O 0 1 N N N 85.337 -44.309 -8.207  0.155  3.565  0.420  "O5'" M3O 12 
+M3O N9    N1  N 0 1 Y N N 89.455 -47.442 -8.351  -3.547 -0.216 0.111  N9    M3O 13 
+M3O C8    C6  C 0 1 Y N N 89.878 -46.753 -7.282  -4.156 0.542  -0.845 C8    M3O 14 
+M3O N7    N2  N 0 1 Y N N 91.196 -46.802 -7.231  -5.380 0.136  -1.020 N7    M3O 15 
+M3O C6    C7  C 0 1 Y N N 92.854 -47.861 -8.630  -6.749 -1.723 0.055  C6    M3O 16 
+M3O N6    N3  N 0 1 N N N 93.910 -47.451 -7.932  -7.931 -1.536 -0.639 N6    M3O 17 
+M3O C5    C8  C 0 1 Y N N 91.630 -47.515 -8.238  -5.633 -0.904 -0.191 C5    M3O 18 
+M3O C4    C9  C 0 1 Y N N 90.560 -47.919 -8.926  -4.458 -1.146 0.541  C4    M3O 19 
+M3O N3    N4  N 0 1 Y N N 90.736 -48.688 -10.026 -4.444 -2.134 1.431  N3    M3O 20 
+M3O C2    C10 C 0 1 Y N N 91.970 -49.038 -10.420 -5.511 -2.878 1.625  C2    M3O 21 
+M3O N1    N5  N 0 1 Y N N 93.022 -48.625 -9.722  -6.637 -2.691 0.959  N1    M3O 22 
+M3O C     C11 C 0 1 N N N 83.697 -48.840 -7.895  1.926  -1.615 -0.527 C     M3O 23 
+M3O O     O7  O 0 1 N N N 83.521 -48.228 -6.850  1.639  -1.752 -1.693 O     M3O 24 
+M3O CA    C12 C 0 1 N N S 82.560 -49.624 -8.547  3.106  -2.352 0.051  CA    M3O 25 
+M3O N     N6  N 0 1 N N N 82.429 -50.951 -7.941  3.440  -3.491 -0.810 N     M3O 26 
+M3O CN    C13 C 0 1 N N N 83.447 -51.804 -8.010  3.782  -3.285 -2.097 CN    M3O 27 
+M3O OCN   O8  O 0 1 N N N 83.348 -52.913 -7.517  3.814  -2.157 -2.543 OCN   M3O 28 
+M3O CB    C14 C 0 1 N N N 81.257 -48.845 -8.422  4.307  -1.408 0.134  CB    M3O 29 
+M3O CG    C15 C 0 1 N N N 80.779 -48.442 -9.814  5.467  -2.118 0.834  CG    M3O 30 
+M3O SD    S1  S 0 1 N N N 80.462 -46.645 -9.944  6.891  -0.997 0.933  SD    M3O 31 
+M3O CE    C16 C 0 1 N N N 79.929 -46.533 -11.641 8.142  -2.002 1.778  CE    M3O 32 
+M3O H1    H1  H 0 1 N N N 86.283 -42.489 -10.397 0.431  7.032  0.770  H1    M3O 33 
+M3O H2    H2  H 0 1 N Y N 88.351 -43.392 -7.680  2.695  4.832  0.794  H2    M3O 34 
+M3O H3    H3  H 0 1 N N N 88.022 -47.987 -9.810  -2.108 -0.308 1.649  H3    M3O 35 
+M3O H4    H4  H 0 1 N N N 87.784 -48.679 -6.886  -1.643 -1.186 -1.208 H4    M3O 36 
+M3O H5    H5  H 0 1 N N N 86.855 -50.557 -7.885  -1.733 -2.721 0.650  H5    M3O 37 
+M3O H6    H6  H 0 1 N N N 85.615 -47.993 -6.681  0.282  0.072  -1.419 H6    M3O 38 
+M3O H7    H7  H 0 1 N N N 85.475 -46.622 -9.291  0.103  1.135  1.406  H7    M3O 39 
+M3O H8    H8  H 0 1 N N N 84.542 -45.816 -7.034  1.439  2.211  -0.467 H8    M3O 40 
+M3O H9    H9  H 0 1 N N N 86.231 -45.340 -6.652  -0.094 2.491  -1.327 H9    M3O 41 
+M3O H10   H10 H 0 1 N N N 89.242 -46.240 -6.576  -3.691 1.358  -1.377 H10   M3O 42 
+M3O H11   H11 H 0 1 N N N 94.746 -47.799 -8.356  -7.997 -0.833 -1.304 H11   M3O 43 
+M3O H12   H12 H 0 1 N N N 93.934 -46.451 -7.920  -8.694 -2.108 -0.460 H12   M3O 44 
+M3O H13   H13 H 0 1 N N N 92.107 -49.651 -11.298 -5.466 -3.672 2.356  H13   M3O 45 
+M3O H14   H14 H 0 1 N N N 82.791 -49.740 -9.616  2.857  -2.712 1.049  H14   M3O 46 
+M3O H15   H15 H 0 1 N N N 81.582 -51.213 -7.479  3.414  -4.392 -0.453 H15   M3O 47 
+M3O H16   H16 H 0 1 N N N 84.362 -51.513 -8.504  4.028  -4.124 -2.731 H16   M3O 48 
+M3O H17   H17 H 0 1 N N N 81.424 -47.943 -7.815  4.611  -1.118 -0.872 H17   M3O 49 
+M3O H18   H18 H 0 1 N N N 80.496 -49.476 -7.940  4.030  -0.518 0.700  H18   M3O 50 
+M3O H19   H19 H 0 1 N N N 79.848 -48.983 -10.039 5.163  -2.408 1.839  H19   M3O 51 
+M3O H20   H20 H 0 1 N N N 81.551 -48.719 -10.547 5.744  -3.007 0.267  H20   M3O 52 
+M3O H21   H21 H 0 1 N N N 79.694 -45.486 -11.884 9.057  -1.420 1.894  H21   M3O 53 
+M3O H22   H22 H 0 1 N N N 80.732 -46.891 -12.302 7.771  -2.295 2.760  H22   M3O 54 
+M3O H23   H23 H 0 1 N N N 79.032 -47.153 -11.785 8.352  -2.894 1.188  H23   M3O 55 
+M3O OP1   O9  O 0 1 N N N 87.061 -44.054 -10.047 0.169  5.314  -1.400 OP1   M3O 56 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+M3O CE    SD    SING N N 1  
+M3O C2    N3    DOUB Y N 2  
+M3O C2    N1    SING Y N 3  
+M3O N3    C4    SING Y N 4  
+M3O SD    CG    SING N N 5  
+M3O CG    CB    SING N N 6  
+M3O N1    C6    DOUB Y N 7  
+M3O OP2   P     SING N N 8  
+M3O C4    N9    SING Y N 9  
+M3O C4    C5    DOUB Y N 10 
+M3O "C1'" "O4'" SING N N 11 
+M3O "C1'" N9    SING N N 12 
+M3O "C1'" "C2'" SING N N 13 
+M3O P     "O5'" SING N N 14 
+M3O P     OP3   SING N N 15 
+M3O C6    C5    SING Y N 16 
+M3O C6    N6    SING N N 17 
+M3O "O4'" "C4'" SING N N 18 
+M3O CA    CB    SING N N 19 
+M3O CA    N     SING N N 20 
+M3O CA    C     SING N N 21 
+M3O "O3'" C     SING N N 22 
+M3O "O3'" "C3'" SING N N 23 
+M3O "O2'" "C2'" SING N N 24 
+M3O N9    C8    SING Y N 25 
+M3O "C4'" "C3'" SING N N 26 
+M3O "C4'" "C5'" SING N N 27 
+M3O C5    N7    SING Y N 28 
+M3O "O5'" "C5'" SING N N 29 
+M3O CN    N     SING N N 30 
+M3O CN    OCN   DOUB N N 31 
+M3O C     O     DOUB N N 32 
+M3O "C2'" "C3'" SING N N 33 
+M3O C8    N7    DOUB Y N 34 
+M3O OP2   H1    SING N N 35 
+M3O OP3   H2    SING N N 36 
+M3O "C1'" H3    SING N N 37 
+M3O "C2'" H4    SING N N 38 
+M3O "O2'" H5    SING N N 39 
+M3O "C3'" H6    SING N N 40 
+M3O "C4'" H7    SING N N 41 
+M3O "C5'" H8    SING N N 42 
+M3O "C5'" H9    SING N N 43 
+M3O C8    H10   SING N N 44 
+M3O N6    H11   SING N N 45 
+M3O N6    H12   SING N N 46 
+M3O C2    H13   SING N N 47 
+M3O CA    H14   SING N N 48 
+M3O N     H15   SING N N 49 
+M3O CN    H16   SING N N 50 
+M3O CB    H17   SING N N 51 
+M3O CB    H18   SING N N 52 
+M3O CG    H19   SING N N 53 
+M3O CG    H20   SING N N 54 
+M3O CE    H21   SING N N 55 
+M3O CE    H22   SING N N 56 
+M3O CE    H23   SING N N 57 
+M3O P     OP1   DOUB N N 58 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+M3O SMILES           ACDLabs              12.01 "P(OCC1C(C(C(O1)n2cnc3c(N)ncnc23)O)OC(=O)C(CCSC)NC=O)(O)(=O)O" 
+M3O InChI            InChI                1.03  
+"InChI=1S/C16H23N6O9PS/c1-33-3-2-8(21-7-23)16(25)31-12-9(4-29-32(26,27)28)30-15(11(12)24)22-6-20-10-13(17)18-5-19-14(10)22/h5-9,11-12,15,24H,2-4H2,1H3,(H,21,23)(H2,17,18,19)(H2,26,27,28)/t8-,9+,11+,12+,15+/m0/s1" 
+M3O InChIKey         InChI                1.03  NXOGAYJSSKEKJM-OPYVMVOTSA-N 
+M3O SMILES_CANONICAL CACTVS               3.385 "CSCC[C@H](NC=O)C(=O)O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P](O)(O)=O)n2cnc3c(N)ncnc23" 
+M3O SMILES           CACTVS               3.385 "CSCC[CH](NC=O)C(=O)O[CH]1[CH](O)[CH](O[CH]1CO[P](O)(O)=O)n2cnc3c(N)ncnc23" 
+M3O SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 "CSCC[C@@H](C(=O)O[C@@H]1[C@H](O[C@H]([C@@H]1O)n2cnc3c2ncnc3N)COP(=O)(O)O)NC=O" 
+M3O SMILES           "OpenEye OEToolkits" 1.9.2 "CSCCC(C(=O)OC1C(OC(C1O)n2cnc3c2ncnc3N)COP(=O)(O)O)NC=O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+M3O "SYSTEMATIC NAME" ACDLabs              12.01 
+;3'-O-(N-formyl-L-methionyl)adenosine 5'-(dihydrogen phosphate)
+;
+M3O "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.9.2 "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-4-oxidanyl-2-(phosphonooxymethyl)oxolan-3-yl] (2S)-2-formamido-4-methylsulfanyl-butanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+M3O "Create component" 2015-04-06 RCSB 
+M3O "Initial release"  2015-06-03 RCSB 
+# 

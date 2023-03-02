@@ -1,0 +1,147 @@
+data_SEH
+# 
+_chem_comp.id                                    SEH 
+_chem_comp.name                                  "S-BENZYL PHENYLACETOTHIOHYDROXIMATE-O-SULFATE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C10 H13 N O4 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "ETHYL (1E)-2-PHENYL-N-(SULFOOXY)ETHANIMIDOTHIOATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2004-10-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        275.345 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     SEH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1W9D 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+SEH C1   C1   C 0 1 N N N 47.877 120.497 50.912 3.777  -1.098 -0.012 C1   SEH 1  
+SEH S1   S1   S 0 1 N N N 47.968 119.090 49.770 2.760  0.394  0.105  S1   SEH 2  
+SEH C2   C2   C 0 1 N N N 47.931 119.973 52.345 5.252  -0.704 -0.114 C2   SEH 3  
+SEH CB   CB   C 0 1 N N N 45.581 120.404 48.780 0.999  -1.826 0.072  CB   SEH 4  
+SEH CG   CG   C 0 1 Y N N 46.286 121.627 48.271 -0.465 -2.181 0.031  CG   SEH 5  
+SEH CD1  CD1  C 0 1 Y N N 46.132 122.843 48.924 -1.100 -2.355 -1.185 CD1  SEH 6  
+SEH CD2  CD2  C 0 1 Y N N 47.095 121.571 47.138 -1.172 -2.338 1.208  CD2  SEH 7  
+SEH CE1  CE1  C 0 1 Y N N 46.765 123.986 48.460 -2.443 -2.680 -1.223 CE1  SEH 8  
+SEH CE2  CE2  C 0 1 Y N N 47.734 122.710 46.664 -2.516 -2.659 1.170  CE2  SEH 9  
+SEH CZ   CZ   C 0 1 Y N N 47.570 123.921 47.327 -3.151 -2.832 -0.045 CZ   SEH 10 
+SEH C13  C13  C 0 1 N N N 46.534 119.238 48.796 1.153  -0.327 0.063  C13  SEH 11 
+SEH N17  N17  N 0 1 N N N 46.173 118.317 47.987 0.106  0.430  0.024  N17  SEH 12 
+SEH O18  O18  O 0 1 N N N 47.085 117.218 48.014 0.251  1.834  -0.093 O18  SEH 13 
+SEH S19  S19  S 0 1 N N N 47.304 116.689 46.637 -1.153 2.421  -0.110 S19  SEH 14 
+SEH O20  O20  O 0 1 N N N 48.074 117.742 45.947 -1.945 1.507  -0.856 O20  SEH 15 
+SEH O21  O21  O 0 1 N N N 48.057 115.438 46.833 -0.991 3.802  -0.408 O21  SEH 16 
+SEH O22  O22  O 0 1 N N N 45.950 116.484 46.085 -1.688 2.365  1.313  O22  SEH 17 
+SEH H1C1 1H1C H 0 0 N N N 46.984 121.139 50.727 3.490  -1.665 -0.898 H1C1 SEH 18 
+SEH H1C2 2H1C H 0 0 N N N 48.662 121.262 50.709 3.626  -1.712 0.876  H1C2 SEH 19 
+SEH H2C1 1H2C H 0 0 N N N 47.875 120.838 53.047 5.403  -0.090 -1.003 H2C1 SEH 20 
+SEH H2C2 2H2C H 0 0 N N N 48.824 119.331 52.530 5.539  -0.137 0.771  H2C2 SEH 21 
+SEH H2C3 3H2C H 0 0 N N N 47.146 119.208 52.548 5.864  -1.603 -0.185 H2C3 SEH 22 
+SEH HBC1 1HBC H 0 0 N N N 45.110 120.575 49.776 1.500  -2.248 -0.799 HBC1 SEH 23 
+SEH HBC2 2HBC H 0 0 N N N 44.655 120.181 48.200 1.446  -2.231 0.980  HBC2 SEH 24 
+SEH HD1  HD1  H 0 1 N N N 45.497 122.900 49.824 -0.547 -2.236 -2.105 HD1  SEH 25 
+SEH HD2  HD2  H 0 1 N N N 47.230 120.611 46.611 -0.675 -2.203 2.158  HD2  SEH 26 
+SEH HE1  HE1  H 0 1 N N N 46.631 124.945 48.988 -2.939 -2.815 -2.172 HE1  SEH 27 
+SEH HE2  HE2  H 0 1 N N N 48.370 122.654 45.764 -3.069 -2.778 2.090  HE2  SEH 28 
+SEH HZ   HZ   H 0 1 N N N 48.077 124.828 46.956 -4.200 -3.086 -0.075 HZ   SEH 29 
+SEH H22  H22  H 0 1 N N N 46.089 116.147 45.207 -2.579 2.740  1.293  H22  SEH 30 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+SEH C1  S1   SING N N 1  
+SEH C1  C2   SING N N 2  
+SEH C1  H1C1 SING N N 3  
+SEH C1  H1C2 SING N N 4  
+SEH S1  C13  SING N N 5  
+SEH C2  H2C1 SING N N 6  
+SEH C2  H2C2 SING N N 7  
+SEH C2  H2C3 SING N N 8  
+SEH CB  CG   SING N N 9  
+SEH CB  C13  SING N N 10 
+SEH CB  HBC1 SING N N 11 
+SEH CB  HBC2 SING N N 12 
+SEH CG  CD1  DOUB Y N 13 
+SEH CG  CD2  SING Y N 14 
+SEH CD1 CE1  SING Y N 15 
+SEH CD1 HD1  SING N N 16 
+SEH CD2 CE2  DOUB Y N 17 
+SEH CD2 HD2  SING N N 18 
+SEH CE1 CZ   DOUB Y N 19 
+SEH CE1 HE1  SING N N 20 
+SEH CE2 CZ   SING Y N 21 
+SEH CE2 HE2  SING N N 22 
+SEH CZ  HZ   SING N N 23 
+SEH C13 N17  DOUB N Z 24 
+SEH N17 O18  SING N N 25 
+SEH O18 S19  SING N N 26 
+SEH S19 O20  DOUB N N 27 
+SEH S19 O21  DOUB N N 28 
+SEH S19 O22  SING N N 29 
+SEH O22 H22  SING N N 30 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+SEH SMILES           ACDLabs              10.04 "O=S(=O)(O)O\N=C(/SCC)Cc1ccccc1"                                                                         
+SEH SMILES_CANONICAL CACTVS               3.341 "CCS\C(Cc1ccccc1)=N/O[S](O)(=O)=O"                                                                       
+SEH SMILES           CACTVS               3.341 "CCSC(Cc1ccccc1)=NO[S](O)(=O)=O"                                                                         
+SEH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCS/C(=N\OS(=O)(=O)O)/Cc1ccccc1"                                                                        
+SEH SMILES           "OpenEye OEToolkits" 1.5.0 "CCSC(=NOS(=O)(=O)O)Cc1ccccc1"                                                                           
+SEH InChI            InChI                1.03  "InChI=1S/C10H13NO4S2/c1-2-16-10(11-15-17(12,13)14)8-9-6-4-3-5-7-9/h3-7H,2,8H2,1H3,(H,12,13,14)/b11-10-" 
+SEH InChIKey         InChI                1.03  VZFUNHITNWTQFU-KHPPLWFESA-N                                                                              
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+SEH "SYSTEMATIC NAME" ACDLabs              10.04 "ethyl (1Z)-2-phenyl-N-(sulfooxy)ethanimidothioate"             
+SEH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(1-ethylsulfanyl-2-phenyl-ethylidene)amino] hydrogen sulfate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+SEH "Create component"  2004-10-08 EBI  
+SEH "Modify descriptor" 2011-06-04 RCSB 
+# 

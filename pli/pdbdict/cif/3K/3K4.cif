@@ -1,0 +1,116 @@
+data_3K4
+# 
+_chem_comp.id                                    3K4 
+_chem_comp.name                                  "(2S,3S)-3-methylaziridine-2-carboxylic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C4 H7 N O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2014-08-29 
+_chem_comp.pdbx_modified_date                    2014-10-10 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        101.104 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     3K4 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4R17 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+3K4 C5 C5 C 0 1 N N S 11.129 -140.413 9.997  1.532  -0.227 -0.362 C5 3K4 1  
+3K4 C7 C7 C 0 1 N N N 12.395 -139.777 10.282 1.390  -1.355 0.662  C7 3K4 2  
+3K4 O  O  O 0 1 N N N 12.364 -141.012 7.394  -1.428 0.776  0.878  O  3K4 3  
+3K4 C  C  C 0 1 N N N 11.224 -140.569 7.539  -1.023 0.153  -0.075 C  3K4 4  
+3K4 C2 C2 C 0 1 N N S 10.441 -140.806 8.847  0.269  0.550  -0.740 C2 3K4 5  
+3K4 N6 N6 N 0 1 N N N 10.943 -141.796 9.744  1.319  1.149  0.106  N6 3K4 6  
+3K4 H1 H1 H 0 1 N N N 10.402 -140.093 10.758 2.279  -0.387 -1.140 H1 3K4 7  
+3K4 H2 H2 H 0 1 N N N 12.514 -139.667 11.370 0.705  -2.110 0.279  H2 3K4 8  
+3K4 H3 H3 H 0 1 N N N 13.213 -140.395 9.885  2.366  -1.807 0.841  H3 3K4 9  
+3K4 H4 H4 H 0 1 N N N 12.422 -138.785 9.808  1.000  -0.950 1.596  H4 3K4 10 
+3K4 H6 H6 H 0 1 N N N 9.353  -140.650 8.795  0.181  0.909  -1.766 H6 3K4 11 
+3K4 H7 H7 H 0 1 N N N 10.313 -142.330 10.307 1.880  1.801  -0.421 H7 3K4 12 
+3K4 O1 O1 O 0 1 N Y N ?      ?        ?      -1.724 -0.892 -0.541 O1 3K4 13 
+3K4 H5 H5 H 0 1 N Y N ?      ?        ?      -2.547 -1.109 -0.081 H5 3K4 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+3K4 O  C  DOUB N N 1  
+3K4 C  C2 SING N N 2  
+3K4 C2 N6 SING N N 3  
+3K4 C2 C5 SING N N 4  
+3K4 N6 C5 SING N N 5  
+3K4 C5 C7 SING N N 6  
+3K4 C5 H1 SING N N 7  
+3K4 C7 H2 SING N N 8  
+3K4 C7 H3 SING N N 9  
+3K4 C7 H4 SING N N 10 
+3K4 C2 H6 SING N N 11 
+3K4 N6 H7 SING N N 12 
+3K4 C  O1 SING N N 13 
+3K4 O1 H5 SING N N 14 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+3K4 SMILES           ACDLabs              12.01 "O=C(O)C1NC1C"                                                       
+3K4 InChI            InChI                1.03  "InChI=1S/C4H7NO2/c1-2-3(5-2)4(6)7/h2-3,5H,1H3,(H,6,7)/t2-,3-/m0/s1" 
+3K4 InChIKey         InChI                1.03  QOISFPILRGBKKL-HRFVKAFMSA-N                                          
+3K4 SMILES_CANONICAL CACTVS               3.385 "C[C@@H]1N[C@@H]1C(O)=O"                                             
+3K4 SMILES           CACTVS               3.385 "C[CH]1N[CH]1C(O)=O"                                                 
+3K4 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "C[C@H]1[C@H](N1)C(=O)O"                                             
+3K4 SMILES           "OpenEye OEToolkits" 1.7.6 "CC1C(N1)C(=O)O"                                                     
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+3K4 "SYSTEMATIC NAME" ACDLabs              12.01 "(2S,3S)-3-methylaziridine-2-carboxylic acid" 
+3K4 "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "(2S,3S)-3-methylaziridine-2-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+3K4 "Create component"         2014-08-29 RCSB 
+3K4 "Modify leaving atom flag" 2014-08-29 RCSB 
+3K4 "Initial release"          2014-10-15 RCSB 
+# 

@@ -1,0 +1,172 @@
+data_COR
+# 
+_chem_comp.id                                    COR 
+_chem_comp.name                                  2,4-DIAMINO-1,5-DIPHENYL-3-HYDROXYPENTANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C17 H22 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        270.369 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     COR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        9HVP 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+COR C1   C1   C 0 1 N N N -12.397 16.245 27.955 0.677  -0.988 -2.497 C1   COR 1  
+COR C2   C2   C 0 1 N N S -10.988 16.530 28.401 0.128  -0.296 -1.248 C2   COR 2  
+COR N2   N2   N 0 1 N N N -10.920 16.447 29.878 0.515  1.120  -1.263 N2   COR 3  
+COR C3   C3   C 0 1 N N N -10.355 17.698 27.688 0.702  -0.968 0.000  C3   COR 4  
+COR O3   O3   O 0 1 N N N -10.555 18.735 28.572 2.127  -0.863 -0.014 O3   COR 5  
+COR C4   C4   C 0 1 N N S -8.816  17.540 27.467 0.153  -0.275 1.250  C4   COR 6  
+COR N4   N4   N 0 1 N N N -8.621  17.469 26.005 -1.311 -0.383 1.265  N4   COR 7  
+COR C5   C5   C 0 1 N N N -7.911  18.643 28.082 0.728  -0.947 2.499  C5   COR 8  
+COR C1A  C1A  C 0 1 Y N N -12.730 14.826 28.435 0.111  -0.327 -3.727 C1A  COR 9  
+COR C2A  C2A  C 0 1 Y N N -12.145 13.740 27.794 0.776  0.737  -4.307 C2A  COR 10 
+COR C3A  C3A  C 0 1 Y N N -12.295 12.483 28.330 0.257  1.344  -5.436 C3A  COR 11 
+COR C4A  C4A  C 0 1 Y N N -13.033 12.300 29.488 -0.925 0.886  -5.984 C4A  COR 12 
+COR C5A  C5A  C 0 1 Y N N -13.628 13.379 30.108 -1.590 -0.178 -5.405 C5A  COR 13 
+COR C6A  C6A  C 0 1 Y N N -13.481 14.645 29.593 -1.068 -0.788 -4.279 C6A  COR 14 
+COR C1B  C1B  C 0 1 Y N N -6.547  18.738 27.395 0.187  -0.265 3.729  C1B  COR 15 
+COR C2B  C2B  C 0 1 Y N N -6.367  19.614 26.338 -0.984 -0.714 4.309  C2B  COR 16 
+COR C3B  C3B  C 0 1 Y N N -5.241  19.521 25.549 -1.480 -0.088 5.438  C3B  COR 17 
+COR C4B  C4B  C 0 1 Y N N -4.287  18.547 25.832 -0.803 0.984  5.987  C4B  COR 18 
+COR C5B  C5B  C 0 1 Y N N -4.438  17.673 26.896 0.368  1.432  5.407  C5B  COR 19 
+COR C6B  C6B  C 0 1 Y N N -5.569  17.777 27.680 0.866  0.804  4.281  C6B  COR 20 
+COR H11  1H1  H 0 1 N N N -13.131 17.010 28.298 1.764  -0.908 -2.509 H11  COR 21 
+COR H12  2H1  H 0 1 N N N -12.549 16.387 26.859 0.390  -2.040 -2.485 H12  COR 22 
+COR H2   H2   H 0 1 N N N -10.283 15.736 28.059 -0.958 -0.376 -1.236 H2   COR 23 
+COR HN21 1HN2 H 0 0 N N N -9.965  16.640 30.180 1.523  1.145  -1.274 HN21 COR 24 
+COR HN22 2HN2 H 0 0 N N N -11.265 15.555 30.232 0.206  1.495  -2.148 HN22 COR 25 
+COR H3   H3   H 0 1 N N N -10.793 17.826 26.670 0.415  -2.019 0.012  H3   COR 26 
+COR HO3  HO3  H 0 1 N N N -10.156 19.470 28.122 2.338  0.080  -0.024 HO3  COR 27 
+COR H4   H4   H 0 1 N N N -8.491  16.622 28.011 0.440  0.775  1.238  H4   COR 28 
+COR HN41 1HN4 H 0 0 N N N -7.616  17.365 25.860 -1.529 -1.368 1.276  HN41 COR 29 
+COR HN42 2HN4 H 0 0 N N N -9.025  18.258 25.501 -1.619 -0.008 2.150  HN42 COR 30 
+COR H51  1H5  H 0 1 N N N -8.428  19.630 28.082 0.441  -1.999 2.510  H51  COR 31 
+COR H52  2H5  H 0 1 N N N -7.796  18.499 29.181 1.815  -0.867 2.487  H52  COR 32 
+COR H2A  H2A  H 0 1 N N N -11.565 13.874 26.865 1.700  1.094  -3.878 H2A  COR 33 
+COR H3A  H3A  H 0 1 N N N -11.822 11.620 27.830 0.776  2.176  -5.888 H3A  COR 34 
+COR H4A  H4A  H 0 1 N N N -13.147 11.290 29.918 -1.331 1.360  -6.866 H4A  COR 35 
+COR H5A  H5A  H 0 1 N N N -14.225 13.228 31.022 -2.514 -0.536 -5.834 H5A  COR 36 
+COR H6A  H6A  H 0 1 N N N -13.957 15.500 30.100 -1.587 -1.620 -3.826 H6A  COR 37 
+COR H2B  H2B  H 0 1 N N N -7.122  20.388 26.123 -1.512 -1.552 3.880  H2B  COR 38 
+COR H3B  H3B  H 0 1 N N N -5.105  20.216 24.703 -2.396 -0.438 5.891  H3B  COR 39 
+COR H4B  H4B  H 0 1 N N N -3.388  18.465 25.197 -1.191 1.473  6.868  H4B  COR 40 
+COR H5B  H5B  H 0 1 N N N -3.672  16.909 27.114 0.897  2.271  5.836  H5B  COR 41 
+COR H6B  H6B  H 0 1 N N N -5.691  17.091 28.535 1.782  1.154  3.828  H6B  COR 42 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+COR C1  C2   SING N N 1  
+COR C1  C1A  SING N N 2  
+COR C1  H11  SING N N 3  
+COR C1  H12  SING N N 4  
+COR C2  N2   SING N N 5  
+COR C2  C3   SING N N 6  
+COR C2  H2   SING N N 7  
+COR N2  HN21 SING N N 8  
+COR N2  HN22 SING N N 9  
+COR C3  O3   SING N N 10 
+COR C3  C4   SING N N 11 
+COR C3  H3   SING N N 12 
+COR O3  HO3  SING N N 13 
+COR C4  N4   SING N N 14 
+COR C4  C5   SING N N 15 
+COR C4  H4   SING N N 16 
+COR N4  HN41 SING N N 17 
+COR N4  HN42 SING N N 18 
+COR C5  C1B  SING N N 19 
+COR C5  H51  SING N N 20 
+COR C5  H52  SING N N 21 
+COR C1A C2A  DOUB Y N 22 
+COR C1A C6A  SING Y N 23 
+COR C2A C3A  SING Y N 24 
+COR C2A H2A  SING N N 25 
+COR C3A C4A  DOUB Y N 26 
+COR C3A H3A  SING N N 27 
+COR C4A C5A  SING Y N 28 
+COR C4A H4A  SING N N 29 
+COR C5A C6A  DOUB Y N 30 
+COR C5A H5A  SING N N 31 
+COR C6A H6A  SING N N 32 
+COR C1B C2B  DOUB Y N 33 
+COR C1B C6B  SING Y N 34 
+COR C2B C3B  SING Y N 35 
+COR C2B H2B  SING N N 36 
+COR C3B C4B  DOUB Y N 37 
+COR C3B H3B  SING N N 38 
+COR C4B C5B  SING Y N 39 
+COR C4B H4B  SING N N 40 
+COR C5B C6B  DOUB Y N 41 
+COR C5B H5B  SING N N 42 
+COR C6B H6B  SING N N 43 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+COR SMILES           ACDLabs              10.04 "OC(C(N)Cc1ccccc1)C(N)Cc2ccccc2"                                                                                            
+COR SMILES_CANONICAL CACTVS               3.341 "N[C@@H](Cc1ccccc1)[C@@H](O)[C@@H](N)Cc2ccccc2"                                                                             
+COR SMILES           CACTVS               3.341 "N[CH](Cc1ccccc1)[CH](O)[CH](N)Cc2ccccc2"                                                                                   
+COR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)C[C@@H](C([C@H](Cc2ccccc2)N)O)N"                                                                                 
+COR SMILES           "OpenEye OEToolkits" 1.5.0 "c1ccc(cc1)CC(C(C(Cc2ccccc2)N)O)N"                                                                                          
+COR InChI            InChI                1.03  "InChI=1S/C17H22N2O/c18-15(11-13-7-3-1-4-8-13)17(20)16(19)12-14-9-5-2-6-10-14/h1-10,15-17,20H,11-12,18-19H2/t15-,16-/m0/s1" 
+COR InChIKey         InChI                1.03  GZBLEJZADHZBBZ-HOTGVXAUSA-N                                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+COR "SYSTEMATIC NAME" ACDLabs              10.04 2,4-diamino-1,2,4,5-tetradeoxy-1,5-diphenyl-L-arabinitol 
+COR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2S,4S)-2,4-diamino-1,5-diphenyl-pentan-3-ol"           
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+COR "Create component"  1999-07-08 RCSB 
+COR "Modify descriptor" 2011-06-04 RCSB 
+# 

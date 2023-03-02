@@ -1,0 +1,185 @@
+data_M9F
+# 
+_chem_comp.id                                    M9F 
+_chem_comp.name                                  "(2S)-2-AMINO-6-[[(2R)-1-[[(2S)-1-HYDROXY-3-METHYLSULFANYL-1-OXO-BUTAN-2-YL]AMINO]-1-OXO-3-SULFANYL-PROPAN-2-YL]AMINO]-6-OXO-HEXANOIC ACID" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C14 H25 N3 O6 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-01-21 
+_chem_comp.pdbx_modified_date                    2011-08-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        395.495 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     M9F 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2Y6F 
+_chem_comp.pdbx_subcomponent_list                "UN1 CYS 1ME" 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+M9F CAU  CAU  C 0 1 N N N 12.214 40.715 5.797 1.740  0.154  -0.040 "C1'" UN1 1  
+M9F OAV  OAV  O 0 1 N N N 11.931 40.996 6.939 1.757  0.785  0.995  "O1'" UN1 2  
+M9F O    O    O 0 1 N N N 17.789 36.984 4.463 8.714  -0.169 -0.536 O58   UN1 3  
+M9F CAT  CAT  C 0 1 N N N 13.672 40.441 5.347 3.024  -0.387 -0.614 C1    UN1 4  
+M9F C    C    C 0 1 N N N 17.621 37.241 5.667 7.928  -0.813 0.118  C3    UN1 5  
+M9F CA   CA   C 0 1 N N S 16.151 37.489 6.152 6.663  -0.169 0.624  C4    UN1 6  
+M9F CB   CB   C 0 1 N N N 15.611 38.771 5.462 5.495  -0.553 -0.286 C5    UN1 7  
+M9F CAS  CAS  C 0 1 N N N 14.123 39.107 5.995 4.192  -0.003 0.296  C6    UN1 8  
+M9F N    N    N 0 1 N N N 16.176 37.547 7.680 6.823  1.291  0.626  N4    UN1 9  
+M9F OXT  OXT  O 0 1 N N N 18.556 37.338 6.537 8.181  -2.102 0.393  "O5'" UN1 10 
+M9F NAC  NAC  N 0 1 N N N 11.275 40.642 4.865 0.572  -0.067 -0.675 N     CYS 11 
+M9F CAD  CAD  C 0 1 N N R 9.854  40.879 5.195 -0.677 0.454  -0.113 CA    CYS 12 
+M9F CAG  CAG  C 0 1 N N N 9.079  39.570 4.973 -1.833 -0.384 -0.595 C     CYS 13 
+M9F OAH  OAH  O 0 1 N N N 9.581  38.447 4.714 -1.633 -1.325 -1.334 O     CYS 14 
+M9F CAE  CAE  C 0 1 N N N 9.438  41.861 4.021 -0.874 1.902  -0.566 CB    CYS 15 
+M9F SAF  SAF  S 0 1 N N N 9.756  41.220 2.277 0.517  2.912  0.013  SG    CYS 16 
+M9F CAN  CAN  C 0 1 N N N 4.604  40.222 1.727 -7.425 1.304  0.924  CAN   1ME 17 
+M9F SAM  SAM  S 0 1 N N N 6.231  40.623 2.433 -5.814 0.480  1.059  SAM   1ME 18 
+M9F CAK  CAK  C 0 1 N N S 6.480  38.856 3.057 -5.495 -0.072 -0.639 CAK   1ME 19 
+M9F CAO  CAO  C 0 1 N N N 6.616  37.623 2.115 -5.335 1.147  -1.550 CAO   1ME 20 
+M9F CAJ  CAJ  C 0 1 N N S 6.782  38.864 4.507 -4.212 -0.905 -0.672 CAJ   1ME 21 
+M9F CAP  CAP  C 0 1 N N N 5.497  38.668 5.185 -4.370 -2.105 0.225  CAP   1ME 22 
+M9F OAR  OAR  O 0 1 N N N 4.620  37.846 4.688 -5.342 -2.999 -0.014 OAR   1ME 23 
+M9F OAQ  OAQ  O 0 1 N N N 5.270  39.546 6.057 -3.620 -2.263 1.160  OAQ   1ME 24 
+M9F NAI  NAI  N 0 1 N N N 7.800  39.755 5.045 -3.089 -0.089 -0.204 NAI   1ME 25 
+M9F HAT1 HAT1 H 0 0 N N N 13.720 40.363 4.251 2.960  -1.473 -0.685 H1C1  UN1 26 
+M9F HAT2 HAT2 H 0 0 N N N 14.332 41.263 5.661 3.184  0.033  -1.607 H1C2  UN1 27 
+M9F HA   HA   H 0 1 N N N 15.458 36.682 5.871 6.461  -0.513 1.639  H4    UN1 28 
+M9F HB1C HB1C H 0 0 N N N 15.579 38.611 4.374 5.655  -0.133 -1.279 H5C1  UN1 29 
+M9F HB2C HB2C H 0 0 N N N 16.277 39.614 5.699 5.432  -1.639 -0.357 H5C2  UN1 30 
+M9F HAS1 HAS1 H 0 0 N N N 14.130 39.205 7.091 4.255  1.082  0.368  H6C1  UN1 31 
+M9F HAS2 HAS2 H 0 0 N N N 13.429 38.298 5.724 4.032  -0.424 1.289  H6C2  UN1 32 
+M9F HN1  HN1  H 0 1 N N N 16.181 36.618 8.049 7.547  1.575  1.269  H4N1  UN1 33 
+M9F HN2  HN2  H 0 1 N N N 16.998 38.030 7.982 7.011  1.635  -0.304 H4N2  UN1 34 
+M9F HXT  HXT  H 0 1 N N N 19.395 37.183 6.119 9.005  -2.471 0.046  "H5'" UN1 35 
+M9F HAC  HAC  H 0 1 N N N 11.532 40.423 3.924 0.558  -0.572 -1.503 H     CYS 36 
+M9F HAD  HAD  H 0 1 N N N 9.674  41.242 6.218 -0.630 0.417  0.975  HA    CYS 37 
+M9F HAE1 HAE1 H 0 0 N N N 8.358  42.048 4.113 -0.922 1.939  -1.655 HB2   CYS 38 
+M9F HAE2 HAE2 H 0 0 N N N 10.064 42.758 4.136 -1.803 2.290  -0.149 HB3   CYS 39 
+M9F HAF  HAF  H 0 1 N N N 9.829  42.223 1.453 0.214  4.138  -0.450 HG    CYS 40 
+M9F HAN1 HAN1 H 0 0 N N N 3.863  40.141 2.536 -7.351 2.134  0.221  HAN1  1ME 41 
+M9F HAN2 HAN2 H 0 0 N N N 4.301  41.017 1.030 -8.169 0.591  0.568  HAN2  1ME 42 
+M9F HAN3 HAN3 H 0 0 N N N 4.664  39.265 1.188 -7.723 1.683  1.902  HAN3  1ME 43 
+M9F HAK  HAK  H 0 1 N N N 5.691  38.121 2.839 -6.331 -0.678 -0.987 HAK   1ME 44 
+M9F HAO1 HAO1 H 0 0 N N N 6.648  37.962 1.069 -6.249 1.740  -1.527 HAO1  1ME 45 
+M9F HAO2 HAO2 H 0 0 N N N 7.543  37.080 2.353 -4.499 1.754  -1.202 HAO2  1ME 46 
+M9F HAO3 HAO3 H 0 0 N N N 5.753  36.956 2.258 -5.143 0.815  -2.571 HAO3  1ME 47 
+M9F HAJ  HAJ  H 0 1 N N N 7.453  38.032 4.766 -4.020 -1.236 -1.692 HAJ   1ME 48 
+M9F HAI  HAI  H 0 1 N N N 7.484  40.582 5.511 -3.248 0.663  0.387  HAI   1ME 49 
+M9F HAR  HAR  H 0 1 N N N 3.772  38.008 5.085 -5.404 -3.752 0.589  HAR   1ME 50 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+M9F CAN SAM  SING N N 1  
+M9F SAM CAK  SING N N 2  
+M9F CAK CAO  SING N N 3  
+M9F CAK CAJ  SING N N 4  
+M9F CAJ CAP  SING N N 5  
+M9F CAJ NAI  SING N N 6  
+M9F CAP OAR  SING N N 7  
+M9F CAP OAQ  DOUB N N 8  
+M9F NAI CAG  SING N N 9  
+M9F CAG OAH  DOUB N N 10 
+M9F CAG CAD  SING N N 11 
+M9F CAD CAE  SING N N 12 
+M9F CAD NAC  SING N N 13 
+M9F CAE SAF  SING N N 14 
+M9F NAC CAU  SING N N 15 
+M9F CAU OAV  DOUB N N 16 
+M9F CAU CAT  SING N N 17 
+M9F CAT CAS  SING N N 18 
+M9F CAS CB   SING N N 19 
+M9F CB  CA   SING N N 20 
+M9F CA  C    SING N N 21 
+M9F CA  N    SING N N 22 
+M9F C   O    DOUB N N 23 
+M9F C   OXT  SING N N 24 
+M9F CAN HAN1 SING N N 25 
+M9F CAN HAN2 SING N N 26 
+M9F CAN HAN3 SING N N 27 
+M9F CAK HAK  SING N N 28 
+M9F CAO HAO1 SING N N 29 
+M9F CAO HAO2 SING N N 30 
+M9F CAO HAO3 SING N N 31 
+M9F CAJ HAJ  SING N N 32 
+M9F NAI HAI  SING N N 33 
+M9F OAR HAR  SING N N 34 
+M9F CAD HAD  SING N N 35 
+M9F CAE HAE1 SING N N 36 
+M9F CAE HAE2 SING N N 37 
+M9F NAC HAC  SING N N 38 
+M9F SAF HAF  SING N N 39 
+M9F CAT HAT1 SING N N 40 
+M9F CAT HAT2 SING N N 41 
+M9F CAS HAS1 SING N N 42 
+M9F CAS HAS2 SING N N 43 
+M9F CB  HB1C SING N N 44 
+M9F CB  HB2C SING N N 45 
+M9F CA  HA   SING N N 46 
+M9F N   HN1  SING N N 47 
+M9F N   HN2  SING N N 48 
+M9F OXT HXT  SING N N 49 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+M9F SMILES_CANONICAL CACTVS               3.352 "CS[C@@H](C)[C@@H](NC(=O)[C@H](CS)NC(=O)CCC[C@H](N)C(O)=O)C(O)=O"                                                                                                              
+M9F SMILES           CACTVS               3.352 "CS[CH](C)[CH](NC(=O)[CH](CS)NC(=O)CCC[CH](N)C(O)=O)C(O)=O"                                                                                                                    
+M9F SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 "CC([C@H](C(=O)O)NC(=O)[C@H](CS)NC(=O)CCC[C@@H](C(=O)O)N)SC"                                                                                                                   
+M9F SMILES           "OpenEye OEToolkits" 1.6.1 "CC(C(C(=O)O)NC(=O)C(CS)NC(=O)CCCC(C(=O)O)N)SC"                                                                                                                                
+M9F InChI            InChI                1.03  "InChI=1S/C14H25N3O6S2/c1-7(25-2)11(14(22)23)17-12(19)9(6-24)16-10(18)5-3-4-8(15)13(20)21/h7-9,11,24H,3-6,15H2,1-2H3,(H,16,18)(H,17,19)(H,20,21)(H,22,23)/t7-,8-,9-,11+/m0/s1" 
+M9F InChIKey         InChI                1.03  STWWPNPLTMLLPP-FTYOSLGDSA-N                                                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+M9F "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 "(2S)-2-amino-6-[[(2R)-1-[[(2S)-1-hydroxy-3-methylsulfanyl-1-oxo-butan-2-yl]amino]-1-oxo-3-sulfanyl-propan-2-yl]amino]-6-oxo-hexanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+M9F "Create component"   2011-01-24 EBI  
+M9F "Other modification" 2011-01-25 EBI  
+M9F "Modify descriptor"  2011-06-04 RCSB 
+# 

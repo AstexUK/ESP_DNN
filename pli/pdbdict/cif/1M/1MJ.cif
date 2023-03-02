@@ -1,0 +1,122 @@
+data_1MJ
+# 
+_chem_comp.id                                    1MJ 
+_chem_comp.name                                  "1H-pyrrolo[3,2-b]pyridine-6-carbaldehyde" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H6 N2 O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-03-29 
+_chem_comp.pdbx_modified_date                    2013-04-26 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        146.146 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     1MJ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        4JN0 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+1MJ C01 C01 C 0 1 Y N N 30.275 90.948 47.506 2.646  0.618  -0.005 C01 1MJ 1  
+1MJ C02 C02 C 0 1 Y N N 31.134 90.857 48.584 2.980  -0.685 -0.002 C02 1MJ 2  
+1MJ N03 N03 N 0 1 Y N N 32.250 90.192 48.216 1.850  -1.450 0.002  N03 1MJ 3  
+1MJ C04 C04 C 0 1 Y N N 32.139 89.857 46.940 0.750  -0.619 0.001  C04 1MJ 4  
+1MJ C05 C05 C 0 1 Y N N 30.913 90.310 46.439 1.231  0.707  0.002  C05 1MJ 5  
+1MJ N06 N06 N 0 1 Y N N 30.551 90.097 45.166 0.382  1.736  0.002  N06 1MJ 6  
+1MJ C07 C07 C 0 1 Y N N 31.365 89.438 44.327 -0.917 1.557  0.001  C07 1MJ 7  
+1MJ C08 C08 C 0 1 Y N N 32.617 88.950 44.745 -1.471 0.268  -0.000 C08 1MJ 8  
+1MJ C09 C09 C 0 1 Y N N 32.989 89.169 46.069 -0.617 -0.844 0.003  C09 1MJ 9  
+1MJ C10 C10 C 0 1 N N N 33.516 88.203 43.831 -2.928 0.085  -0.001 C10 1MJ 10 
+1MJ O11 O11 O 0 1 N N N 33.871 88.718 42.811 -3.399 -1.032 -0.002 O11 1MJ 11 
+1MJ H1  H1  H 0 1 N N N 29.303 91.419 47.491 3.334  1.450  -0.007 H1  1MJ 12 
+1MJ H2  H2  H 0 1 N N N 30.942 91.256 49.569 3.990  -1.067 -0.002 H2  1MJ 13 
+1MJ H3  H3  H 0 1 N N N 33.029 89.987 48.808 1.825  -2.420 0.004  H3  1MJ 14 
+1MJ H4  H4  H 0 1 N N N 31.052 89.278 43.306 -1.571 2.416  -0.002 H4  1MJ 15 
+1MJ H5  H5  H 0 1 N N N 33.941 88.805 46.426 -1.014 -1.849 0.002  H5  1MJ 16 
+1MJ H7  H7  H 0 1 N N N 33.846 87.206 44.083 -3.580 0.946  -0.001 H7  1MJ 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+1MJ O11 C10 DOUB N N 1  
+1MJ C10 C08 SING N N 2  
+1MJ C07 C08 DOUB Y N 3  
+1MJ C07 N06 SING Y N 4  
+1MJ C08 C09 SING Y N 5  
+1MJ N06 C05 DOUB Y N 6  
+1MJ C09 C04 DOUB Y N 7  
+1MJ C05 C04 SING Y N 8  
+1MJ C05 C01 SING Y N 9  
+1MJ C04 N03 SING Y N 10 
+1MJ C01 C02 DOUB Y N 11 
+1MJ N03 C02 SING Y N 12 
+1MJ C01 H1  SING N N 13 
+1MJ C02 H2  SING N N 14 
+1MJ N03 H3  SING N N 15 
+1MJ C07 H4  SING N N 16 
+1MJ C09 H5  SING N N 17 
+1MJ C10 H7  SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+1MJ SMILES           ACDLabs              12.01 "O=Cc1cc2c(nc1)ccn2"                                    
+1MJ InChI            InChI                1.03  "InChI=1S/C8H6N2O/c11-5-6-3-8-7(10-4-6)1-2-9-8/h1-5,9H" 
+1MJ InChIKey         InChI                1.03  HRLUESWIQOAEBQ-UHFFFAOYSA-N                             
+1MJ SMILES_CANONICAL CACTVS               3.370 "O=Cc1cnc2cc[nH]c2c1"                                   
+1MJ SMILES           CACTVS               3.370 "O=Cc1cnc2cc[nH]c2c1"                                   
+1MJ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1c[nH]c2c1ncc(c2)C=O"                                 
+1MJ SMILES           "OpenEye OEToolkits" 1.7.6 "c1c[nH]c2c1ncc(c2)C=O"                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+1MJ "SYSTEMATIC NAME" ACDLabs              12.01 "1H-pyrrolo[3,2-b]pyridine-6-carbaldehyde" 
+1MJ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "1H-pyrrolo[3,2-b]pyridine-6-carbaldehyde" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+1MJ "Create component" 2013-03-29 RCSB 
+1MJ "Initial release"  2013-05-01 RCSB 
+# 

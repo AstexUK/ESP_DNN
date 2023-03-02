@@ -1,0 +1,164 @@
+data_CSY
+# 
+_chem_comp.id                                    CSY 
+_chem_comp.name                                  "[(4Z)-2-[(1R)-1-amino-2-hydroxyethyl]-4-(4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid" 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C14 H15 N3 O5" 
+_chem_comp.mon_nstd_parent_comp_id               "SER, TYR, GLY" 
+_chem_comp.pdbx_synonyms                         "CHROMOPHORE (SER-TYR-GLY)" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2015-01-20 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   OBS 
+_chem_comp.pdbx_replaced_by                      GYS 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        305.286 
+_chem_comp.one_letter_code                       SYG 
+_chem_comp.three_letter_code                     CSY 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EMC 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CSY C1   C1   C 0 1 N N N 13.331 1.835  1.175  1.189  -0.412 0.595  C1   CSY 1  
+CSY N2   N2   N 0 1 N N N 14.429 1.401  1.773  -0.081 -0.195 0.456  N2   CSY 2  
+CSY CA2  CA2  C 0 1 N N N 14.613 0.117  1.253  -0.303 1.152  0.375  CA2  CSY 3  
+CSY C2   C2   C 0 1 N N N 13.535 -0.185 0.289  1.024  1.783  0.483  C2   CSY 4  
+CSY O2   O2   O 0 1 N N N 13.251 -1.197 -0.332 1.281  2.973  0.458  O2   CSY 5  
+CSY N3   N3   N 0 1 N N N 12.775 0.927  0.299  1.895  0.757  0.616  N3   CSY 6  
+CSY CA3  CA3  C 0 1 N N N 11.411 0.980  -0.201 3.348  0.880  0.758  CA3  CSY 7  
+CSY C3   C3   C 0 1 N N N 11.220 1.592  -1.582 3.989  0.860  -0.605 C3   CSY 8  
+CSY O3   O3   O 0 1 N N N 10.195 1.379  -2.206 3.303  0.755  -1.594 O3   CSY 9  
+CSY OXT  OXT  O 0 1 N Y N 12.252 2.244  -2.104 5.323  0.960  -0.721 OXT  CSY 10 
+CSY CA1  CA1  C 0 1 N N R 12.731 3.196  1.464  1.808  -1.781 0.723  CA1  CSY 11 
+CSY N1   N1   N 0 1 N N N 11.687 3.018  2.487  0.901  -2.660 1.473  N1   CSY 12 
+CSY CB1  CB1  C 0 1 N N N 13.855 4.167  1.953  2.048  -2.364 -0.671 CB1  CSY 13 
+CSY OG2  OG2  O 0 1 N N N 14.821 4.499  0.923  2.739  -3.609 -0.553 OG2  CSY 14 
+CSY CB2  CB2  C 0 1 N N N 15.562 -0.759 1.539  -1.516 1.788  0.224  CB2  CSY 15 
+CSY CG   CG   C 0 1 Y N N 16.694 -0.694 2.446  -2.734 1.001  0.019  CG   CSY 16 
+CSY CD1  CD1  C 0 1 Y N N 16.979 0.438  3.221  -2.691 -0.398 0.101  CD1  CSY 17 
+CSY CD2  CD2  C 0 1 Y N N 17.557 -1.803 2.570  -3.950 1.644  -0.255 CD2  CSY 18 
+CSY CE1  CE1  C 0 1 Y N N 18.099 0.453  4.099  -3.835 -1.129 -0.091 CE1  CSY 19 
+CSY CE2  CE2  C 0 1 Y N N 18.680 -1.789 3.437  -5.087 0.903  -0.445 CE2  CSY 20 
+CSY CZ   CZ   C 0 1 Y N N 18.935 -0.674 4.184  -5.037 -0.485 -0.368 CZ   CSY 21 
+CSY OH   OH   O 0 1 N N N 20.031 -0.709 4.987  -6.166 -1.214 -0.558 OH   CSY 22 
+CSY HA31 HA31 H 0 0 N N N 11.027 -0.050 -0.235 3.586  1.818  1.259  HA31 CSY 23 
+CSY HA32 HA32 H 0 0 N N N 10.816 1.570  0.512  3.726  0.046  1.350  HA32 CSY 24 
+CSY HXT  HXT  H 0 1 N Y N 12.049 2.495  -2.998 5.688  0.943  -1.616 HXT  CSY 25 
+CSY HA1  HA1  H 0 1 N N N 12.288 3.603  0.543  2.757  -1.702 1.252  HA1  CSY 26 
+CSY HN11 HN11 H 0 0 N N N 11.272 3.903  2.698  0.777  -2.331 2.418  HN11 CSY 27 
+CSY HN12 HN12 H 0 0 N N N 10.985 2.395  2.142  0.013  -2.749 1.002  HN12 CSY 28 
+CSY HB11 HB11 H 0 0 N N N 13.384 5.098  2.301  1.091  -2.526 -1.167 HB11 CSY 29 
+CSY HB12 HB12 H 0 0 N N N 14.388 3.690  2.789  2.648  -1.669 -1.257 HB12 CSY 30 
+CSY HOG  HOG  H 0 1 N N N 15.475 5.089  1.280  2.926  -4.037 -1.400 HOG  CSY 31 
+CSY HB22 HB22 H 0 0 N N N 15.480 -1.691 1.000  -1.569 2.866  0.257  HB22 CSY 32 
+CSY HD1  HD1  H 0 1 N N N 16.342 1.308  3.151  -1.759 -0.899 0.316  HD1  CSY 33 
+CSY HD2  HD2  H 0 1 N N N 17.357 -2.690 1.987  -3.990 2.722  -0.315 HD2  CSY 34 
+CSY HE1  HE1  H 0 1 N N N 18.306 1.327  4.698  -3.803 -2.207 -0.028 HE1  CSY 35 
+CSY HE2  HE2  H 0 1 N N N 19.327 -2.651 3.506  -6.024 1.397  -0.656 HE2  CSY 36 
+CSY HO   HO   H 0 1 N N N 20.459 -1.553 4.903  -6.668 -1.380 0.252  HO   CSY 37 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CSY C1  N2   DOUB N N 1  
+CSY C1  N3   SING N N 2  
+CSY C1  CA1  SING N N 3  
+CSY N2  CA2  SING N N 4  
+CSY CA2 C2   SING N N 5  
+CSY CA2 CB2  DOUB N Z 6  
+CSY C2  O2   DOUB N N 7  
+CSY C2  N3   SING N N 8  
+CSY N3  CA3  SING N N 9  
+CSY CA3 C3   SING N N 10 
+CSY CA3 HA31 SING N N 11 
+CSY CA3 HA32 SING N N 12 
+CSY C3  O3   DOUB N N 13 
+CSY C3  OXT  SING N N 14 
+CSY OXT HXT  SING N N 15 
+CSY CA1 N1   SING N N 16 
+CSY CA1 CB1  SING N N 17 
+CSY CA1 HA1  SING N N 18 
+CSY N1  HN11 SING N N 19 
+CSY N1  HN12 SING N N 20 
+CSY CB1 OG2  SING N N 21 
+CSY CB1 HB11 SING N N 22 
+CSY CB1 HB12 SING N N 23 
+CSY OG2 HOG  SING N N 24 
+CSY CB2 CG   SING N N 25 
+CSY CB2 HB22 SING N N 26 
+CSY CG  CD1  DOUB Y N 27 
+CSY CG  CD2  SING Y N 28 
+CSY CD1 CE1  SING Y N 29 
+CSY CD1 HD1  SING N N 30 
+CSY CD2 CE2  DOUB Y N 31 
+CSY CD2 HD2  SING N N 32 
+CSY CE1 CZ   DOUB Y N 33 
+CSY CE1 HE1  SING N N 34 
+CSY CE2 CZ   SING Y N 35 
+CSY CE2 HE2  SING N N 36 
+CSY CZ  OH   SING N N 37 
+CSY OH  HO   SING N N 38 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CSY SMILES           ACDLabs              12.01 "O=C1C(\N=C(N1CC(=O)O)C(N)CO)=C\c2ccc(O)cc2"                                                                                             
+CSY InChI            InChI                1.03  "InChI=1S/C14H15N3O5/c15-10(7-18)13-16-11(14(22)17(13)6-12(20)21)5-8-1-3-9(19)4-2-8/h1-5,10,18-19H,6-7,15H2,(H,20,21)/b11-5-/t10-/m0/s1" 
+CSY InChIKey         InChI                1.03  XSUILVORURXWDH-QIMWGGGBSA-N                                                                                                              
+CSY SMILES_CANONICAL CACTVS               3.385 "N[C@@H](CO)C1=N\C(=C/c2ccc(O)cc2)C(=O)N1CC(O)=O"                                                                                        
+CSY SMILES           CACTVS               3.385 "N[CH](CO)C1=NC(=Cc2ccc(O)cc2)C(=O)N1CC(O)=O"                                                                                            
+CSY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1/C=C\2/C(=O)N(C(=N2)[C@H](CO)N)CC(=O)O)O"                                                                                      
+CSY SMILES           "OpenEye OEToolkits" 1.7.6 "c1cc(ccc1C=C2C(=O)N(C(=N2)C(CO)N)CC(=O)O)O"                                                                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CSY "SYSTEMATIC NAME" ACDLabs              12.01 "[(4Z)-2-[(1R)-1-amino-2-hydroxyethyl]-4-(4-hydroxybenzylidene)-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid"           
+CSY "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 "2-[(4Z)-2-[(1R)-1-azanyl-2-oxidanyl-ethyl]-4-[(4-hydroxyphenyl)methylidene]-5-oxidanylidene-imidazol-1-yl]ethanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CSY "Create component"   1999-07-08 RCSB 
+CSY "Modify descriptor"  2011-06-04 RCSB 
+CSY "Other modification" 2014-07-09 RCSB 
+CSY "Obsolete component" 2015-01-20 RCSB 
+# 

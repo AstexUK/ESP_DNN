@@ -1,0 +1,178 @@
+data_MAB
+# 
+_chem_comp.id                                    MAB 
+_chem_comp.name                                  MANNOBIOSE 
+_chem_comp.type                                  SACCHARIDE 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C12 H22 O11" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-10-27 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        342.296 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MAB 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1QNR 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MAB C1A  C1A  C 0 1 N N R 8.014  10.939 18.311 0.078  0.214  4.084  C1A  MAB 1  
+MAB C2A  C2A  C 0 1 N N S 7.485  12.373 18.526 1.263  0.653  3.221  C2A  MAB 2  
+MAB C3A  C3A  C 0 1 N N R 6.739  12.906 17.281 0.734  1.309  1.941  C3A  MAB 3  
+MAB C4A  C4A  C 0 1 N N S 7.625  12.750 16.041 -0.243 0.343  1.263  C4A  MAB 4  
+MAB C5A  C5A  C 0 1 N N R 8.122  11.273 15.909 -1.315 -0.074 2.273  C5A  MAB 5  
+MAB C6A  C6A  C 0 1 N N N 8.861  10.917 14.644 -2.314 -1.014 1.596  C6A  MAB 6  
+MAB O2A  O2A  O 0 1 N N N 8.579  13.248 18.844 2.057  -0.485 2.881  O2A  MAB 7  
+MAB O3A  O3A  O 0 1 N N N 6.538  14.324 17.520 1.821  1.590  1.057  O3A  MAB 8  
+MAB O4A  O4A  O 0 1 N N N 6.953  13.038 14.839 -0.862 0.992  0.150  O4A  MAB 9  
+MAB O5A  O5A  O 0 1 N N N 8.899  11.001 17.130 -0.706 -0.743 3.375  O5A  MAB 10 
+MAB O6A  O6A  O 0 1 N N N 10.227 11.306 14.554 -3.320 -1.397 2.536  O6A  MAB 11 
+MAB C1B  C1B  C 0 1 N N S 7.008  14.369 14.380 -0.604 0.180  -0.996 C1B  MAB 12 
+MAB C2B  C2B  C 0 1 N N S 6.634  14.308 12.879 -1.476 0.655  -2.161 C2B  MAB 13 
+MAB C3B  C3B  C 0 1 N N S 6.518  15.722 12.304 -1.217 -0.241 -3.376 C3B  MAB 14 
+MAB C4B  C4B  C 0 1 N N S 5.641  16.591 13.196 0.289  -0.264 -3.656 C4B  MAB 15 
+MAB C5B  C5B  C 0 1 N N R 6.047  16.548 14.671 1.027  -0.671 -2.379 C5B  MAB 16 
+MAB C6B  C6B  C 0 1 N N N 4.936  17.159 15.599 2.530  -0.731 -2.657 C6B  MAB 17 
+MAB O2B  O2B  O 0 1 N N N 5.377  13.639 12.703 -1.146 2.008  -2.483 O2B  MAB 18 
+MAB O3B  O3B  O 0 1 N N N 6.049  15.746 10.983 -1.911 0.279  -4.512 O3B  MAB 19 
+MAB O4B  O4B  O 0 1 N N N 5.700  17.928 12.675 0.569  -1.208 -4.692 O4B  MAB 20 
+MAB O5B  O5B  O 0 1 N N N 6.008  15.138 15.121 0.773  0.283  -1.350 O5B  MAB 21 
+MAB O6B  O6B  O 0 1 N N N 5.618  17.151 16.859 3.220  -1.115 -1.466 O6B  MAB 22 
+MAB O1A  O1A  O 0 1 N Y N 8.803  10.557 19.437 0.562  -0.372 5.293  O1A  MAB 23 
+MAB H1A  H1A  H 0 1 N N N 7.178  10.212 18.178 -0.537 1.081  4.322  H1A  MAB 24 
+MAB H2A  H2A  H 0 1 N N N 6.758  12.344 19.371 1.871  1.369  3.774  H2A  MAB 25 
+MAB H3A  H3A  H 0 1 N N N 5.783  12.356 17.114 0.218  2.236  2.192  H3A  MAB 26 
+MAB H4A  H4A  H 0 1 N N N 8.461  13.472 16.187 0.295  -0.538 0.918  H4A  MAB 27 
+MAB H5A  H5A  H 0 1 N N N 7.232  10.607 15.814 -1.838 0.812  2.631  H5A  MAB 28 
+MAB H6A2 2H6A H 0 0 N N N 8.776  9.820  14.462 -2.780 -0.504 0.753  H6A2 MAB 29 
+MAB H6A1 1H6A H 0 0 N N N 8.303  11.317 13.765 -1.793 -1.902 1.239  H6A1 MAB 30 
+MAB H2O1 1H2O H 0 0 N N N 8.253  14.130 18.976 2.370  -0.866 3.713  H2O1 MAB 31 
+MAB H3O1 1H3O H 0 0 N N N 6.079  14.651 16.755 2.410  2.200  1.523  H3O1 MAB 32 
+MAB H6A  H6A  H 0 1 N N N 10.692 11.081 13.756 -3.927 -1.988 2.070  H6A  MAB 33 
+MAB H1B  H1B  H 0 1 N N N 8.006  14.843 14.522 -0.842 -0.858 -0.766 H1B  MAB 34 
+MAB H2B  H2B  H 0 1 N N N 7.436  13.746 12.346 -2.527 0.593  -1.878 H2B  MAB 35 
+MAB H3B  H3B  H 0 1 N N N 7.552  16.138 12.280 -1.567 -1.252 -3.166 H3B  MAB 36 
+MAB H4B  H4B  H 0 1 N N N 4.597  16.198 13.177 0.617  0.727  -3.968 H4B  MAB 37 
+MAB H5B  H5B  H 0 1 N N N 7.027  17.073 14.739 0.678  -1.652 -2.056 H5B  MAB 38 
+MAB H6B2 2H6B H 0 0 N N N 4.526  18.144 15.277 2.879  0.249  -2.980 H6B2 MAB 39 
+MAB H6B1 1H6B H 0 0 N N N 3.950  16.638 15.579 2.725  -1.463 -3.441 H6B1 MAB 40 
+MAB H2O2 2H2O H 0 0 N N N 5.147  13.601 11.781 -1.317 2.534  -1.690 H2O2 MAB 41 
+MAB H3O2 2H3O H 0 0 N N N 5.977  16.623 10.626 -2.851 0.286  -4.286 H3O2 MAB 42 
+MAB H4O1 1H4O H 0 0 N N N 5.153  18.470 13.231 0.079  -0.918 -5.474 H4O1 MAB 43 
+MAB H6B  H6B  H 0 1 N N N 4.946  17.520 17.420 4.162  -1.140 -1.684 H6B  MAB 44 
+MAB H1O1 1H1O H 0 0 N N N 9.128  9.674  19.304 -0.213 -0.634 5.807  H1O1 MAB 45 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MAB C1A C2A  SING N N 1  
+MAB C1A O5A  SING N N 2  
+MAB C1A O1A  SING N N 3  
+MAB C1A H1A  SING N N 4  
+MAB C2A C3A  SING N N 5  
+MAB C2A O2A  SING N N 6  
+MAB C2A H2A  SING N N 7  
+MAB C3A C4A  SING N N 8  
+MAB C3A O3A  SING N N 9  
+MAB C3A H3A  SING N N 10 
+MAB C4A C5A  SING N N 11 
+MAB C4A O4A  SING N N 12 
+MAB C4A H4A  SING N N 13 
+MAB C5A C6A  SING N N 14 
+MAB C5A O5A  SING N N 15 
+MAB C5A H5A  SING N N 16 
+MAB C6A O6A  SING N N 17 
+MAB C6A H6A2 SING N N 18 
+MAB C6A H6A1 SING N N 19 
+MAB O2A H2O1 SING N N 20 
+MAB O3A H3O1 SING N N 21 
+MAB O4A C1B  SING N N 22 
+MAB O6A H6A  SING N N 23 
+MAB C1B C2B  SING N N 24 
+MAB C1B O5B  SING N N 25 
+MAB C1B H1B  SING N N 26 
+MAB C2B C3B  SING N N 27 
+MAB C2B O2B  SING N N 28 
+MAB C2B H2B  SING N N 29 
+MAB C3B C4B  SING N N 30 
+MAB C3B O3B  SING N N 31 
+MAB C3B H3B  SING N N 32 
+MAB C4B C5B  SING N N 33 
+MAB C4B O4B  SING N N 34 
+MAB C4B H4B  SING N N 35 
+MAB C5B C6B  SING N N 36 
+MAB C5B O5B  SING N N 37 
+MAB C5B H5B  SING N N 38 
+MAB C6B O6B  SING N N 39 
+MAB C6B H6B2 SING N N 40 
+MAB C6B H6B1 SING N N 41 
+MAB O2B H2O2 SING N N 42 
+MAB O3B H3O2 SING N N 43 
+MAB O4B H4O1 SING N N 44 
+MAB O6B H6B  SING N N 45 
+MAB O1A H1O1 SING N N 46 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MAB SMILES           ACDLabs              10.04 "O(C1C(OC(O)C(O)C1O)CO)C2OC(C(O)C(O)C2O)CO"                                                                                                 
+MAB SMILES_CANONICAL CACTVS               3.341 "OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@H](O)[C@H](O)O[C@@H]2CO)[C@@H](O)[C@@H](O)[C@@H]1O"                                                      
+MAB SMILES           CACTVS               3.341 "OC[CH]1O[CH](O[CH]2[CH](O)[CH](O)[CH](O)O[CH]2CO)[CH](O)[CH](O)[CH]1O"                                                                     
+MAB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C([C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@H]([C@H]2O)O)O)CO)O)O)O)O"                                                  
+MAB SMILES           "OpenEye OEToolkits" 1.5.0 "C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O"                                                                                               
+MAB InChI            InChI                1.03  "InChI=1S/C12H22O11/c13-1-3-5(15)6(16)9(19)12(22-3)23-10-4(2-14)21-11(20)8(18)7(10)17/h3-20H,1-2H2/t3-,4-,5-,6+,7-,8+,9+,10-,11-,12+/m1/s1" 
+MAB InChIKey         InChI                1.03  GUBGYTABKSRVRQ-PZPXDAEZSA-N                                                                                                                 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MAB "SYSTEMATIC NAME" ACDLabs              10.04 4-O-beta-D-mannopyranosyl-beta-D-mannopyranose                                                                             
+MAB "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "(2R,3S,4R,5S,6R)-6-(hydroxymethyl)-5-[(2S,3S,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-oxane-2,3,4-triol" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MAB "Create component"  1999-10-27 EBI  
+MAB "Modify descriptor" 2011-06-04 RCSB 
+# 

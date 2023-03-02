@@ -1,0 +1,188 @@
+data_APC
+# 
+_chem_comp.id                                    APC 
+_chem_comp.name                                  "DIPHOSPHOMETHYLPHOSPHONIC ACID ADENOSYL ESTER" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C11 H18 N5 O12 P3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         "ALPHA,BETA-METHYLENEADENOSINE-5'-TRIPHOSPHATE" 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        505.208 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     APC 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1Q0N 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+APC PG     PG   P 0 1 N N N -6.128  1.979  4.000 1.239  -0.239 -7.092 PG     APC 1  
+APC O1G    O1G  O 0 1 N N N -6.550  0.584  3.746 1.766  1.135  -6.944 O1G    APC 2  
+APC O2G    O2G  O 0 1 N N N -4.954  2.409  3.152 2.173  -1.066 -8.109 O2G    APC 3  
+APC O3G    O3G  O 0 1 N N N -5.869  2.260  5.475 -0.262 -0.179 -7.671 O3G    APC 4  
+APC PB     PB   P 0 1 N N S -8.831  2.967  4.033 0.282  -0.093 -4.694 PB     APC 5  
+APC O1B    O1B  O 0 1 N N N -8.809  2.248  5.381 0.824  1.279  -4.583 O1B    APC 6  
+APC O2B    O2B  O 0 1 N N N -9.391  4.353  3.946 -1.202 -0.035 -5.314 O2B    APC 7  
+APC O3B    O3B  O 0 1 N N N -7.305  2.979  3.537 1.231  -0.968 -5.656 O3B    APC 8  
+APC PA     PA   P 0 1 N N R -11.427 1.800  3.170 -0.851 0.132  -1.952 PA     APC 9  
+APC O1A    O1A  O 0 1 N N N -11.671 1.803  4.679 -0.309 1.505  -1.841 O1A    APC 10 
+APC O2A    O2A  O 0 1 N N N -12.191 2.825  2.390 -2.336 0.190  -2.571 O2A    APC 11 
+APC C3A    C3A  C 0 1 N N N -9.688  1.916  2.859 0.222  -0.858 -3.041 C3A    APC 12 
+APC "O5'"  O5*  O 0 1 N N N -11.869 0.344  2.688 -0.905 -0.542 -0.491 "O5'"  APC 13 
+APC "C5'"  C5*  C 0 1 N N N -11.915 0.041  1.228 -1.757 0.276  0.311  "C5'"  APC 14 
+APC "C4'"  C4*  C 0 1 N N R -11.958 -1.459 1.125 -1.852 -0.313 1.720  "C4'"  APC 15 
+APC "O4'"  O4*  O 0 1 N N N -10.751 -2.020 1.634 -0.549 -0.339 2.342  "O4'"  APC 16 
+APC "C3'"  C3*  C 0 1 N N S -13.081 -2.180 1.774 -2.706 0.596  2.630  "C3'"  APC 17 
+APC "O3'"  O3*  O 0 1 N N N -14.287 -2.101 1.131 -4.043 0.099  2.721  "O3'"  APC 18 
+APC "C2'"  C2*  C 0 1 N N R -12.545 -3.556 1.941 -2.004 0.518  4.006  "C2'"  APC 19 
+APC "O2'"  O2*  O 0 1 N N N -13.207 -4.507 1.074 -2.887 -0.026 4.989  "O2'"  APC 20 
+APC "C1'"  C1*  C 0 1 N N R -11.059 -3.455 1.590 -0.807 -0.426 3.761  "C1'"  APC 21 
+APC N9     N9   N 0 1 Y N N -10.119 -4.151 2.452 0.361  0.023  4.520  N9     APC 22 
+APC C8     C8   C 0 1 Y N N -9.101  -4.977 1.876 1.304  0.913  4.098  C8     APC 23 
+APC N7     N7   N 0 1 Y N N -8.347  -5.460 2.860 2.201  1.084  5.025  N7     APC 24 
+APC C5     C5   C 0 1 Y N N -8.893  -4.936 4.055 1.890  0.321  6.100  C5     APC 25 
+APC C6     C6   C 0 1 Y N N -8.462  -5.146 5.344 2.479  0.095  7.355  C6     APC 26 
+APC N6     N6   N 0 1 N N N -7.464  -5.866 5.767 3.646  0.745  7.717  N6     APC 27 
+APC N1     N1   N 0 1 Y N N -9.184  -4.506 6.347 1.887  -0.753 8.189  N1     APC 28 
+APC C2     C2   C 0 1 Y N N -10.187 -3.774 6.013 0.773  -1.378 7.852  C2     APC 29 
+APC N3     N3   N 0 1 Y N N -10.721 -3.485 4.735 0.189  -1.202 6.686  N3     APC 30 
+APC C4     C4   C 0 1 Y N N -9.970  -4.143 3.776 0.709  -0.373 5.787  C4     APC 31 
+APC HOG2   2HOG H 0 0 N N N -4.683  3.304  3.315 2.150  -0.597 -8.954 HOG2   APC 32 
+APC HOG3   3HOG H 0 0 N N N -5.598  3.155  5.638 -0.567 -1.093 -7.752 HOG3   APC 33 
+APC HOB2   2HOB H 0 0 N N N -9.404  4.800  3.107 -1.517 -0.948 -5.369 HOB2   APC 34 
+APC HOA2   2HOA H 0 0 N N N -12.039 2.823  1.452 -2.652 -0.721 -2.626 HOA2   APC 35 
+APC H3A1   1H3A H 0 0 N N N -9.492  2.247  1.812 1.227  -0.897 -2.622 H3A1   APC 36 
+APC H3A2   2H3A H 0 0 N N N -9.223  0.903  2.819 -0.176 -1.869 -3.123 H3A2   APC 37 
+APC "H5'1" 1H5* H 0 0 N N N -12.749 0.549  0.692 -2.751 0.312  -0.134 "H5'1" APC 38 
+APC "H5'2" 2H5* H 0 0 N N N -11.082 0.505  0.648 -1.347 1.284  0.366  "H5'2" APC 39 
+APC "H4'"  H4*  H 0 1 N N N -12.108 -1.608 0.030 -2.274 -1.317 1.682  "H4'"  APC 40 
+APC "H3'"  H3*  H 0 1 N N N -13.369 -1.713 2.744 -2.705 1.620  2.256  "H3'"  APC 41 
+APC "HO3'" *HO3 H 0 0 N N N -15.005 -2.562 1.546 -4.527 0.705  3.299  "HO3'" APC 42 
+APC "H2'"  H2*  H 0 1 N N N -12.713 -3.925 2.979 -1.654 1.504  4.312  "H2'"  APC 43 
+APC "HO2'" *HO2 H 0 0 N N N -12.864 -5.386 1.180 -3.640 0.576  5.052  "HO2'" APC 44 
+APC "H1'"  H1*  H 0 1 N N N -10.926 -3.955 0.602 -1.067 -1.448 4.037  "H1'"  APC 45 
+APC H8     H8   H 0 1 N N N -8.921  -5.210 0.813 1.306  1.404  3.136  H8     APC 46 
+APC HN61   1HN6 H 0 0 N N N -7.144  -6.021 6.723 4.041  0.584  8.588  HN61   APC 47 
+APC HN62   2HN6 H 0 0 N N N -6.648  -5.521 5.261 4.071  1.359  7.098  HN62   APC 48 
+APC H2     H2   H 0 1 N N N -10.639 -3.346 6.923 0.325  -2.060 8.560  H2     APC 49 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+APC PG    O1G    DOUB N N 1  
+APC PG    O2G    SING N N 2  
+APC PG    O3G    SING N N 3  
+APC PG    O3B    SING N N 4  
+APC O2G   HOG2   SING N N 5  
+APC O3G   HOG3   SING N N 6  
+APC PB    O1B    DOUB N N 7  
+APC PB    O2B    SING N N 8  
+APC PB    O3B    SING N N 9  
+APC PB    C3A    SING N N 10 
+APC O2B   HOB2   SING N N 11 
+APC PA    O1A    DOUB N N 12 
+APC PA    O2A    SING N N 13 
+APC PA    C3A    SING N N 14 
+APC PA    "O5'"  SING N N 15 
+APC O2A   HOA2   SING N N 16 
+APC C3A   H3A1   SING N N 17 
+APC C3A   H3A2   SING N N 18 
+APC "O5'" "C5'"  SING N N 19 
+APC "C5'" "C4'"  SING N N 20 
+APC "C5'" "H5'1" SING N N 21 
+APC "C5'" "H5'2" SING N N 22 
+APC "C4'" "O4'"  SING N N 23 
+APC "C4'" "C3'"  SING N N 24 
+APC "C4'" "H4'"  SING N N 25 
+APC "O4'" "C1'"  SING N N 26 
+APC "C3'" "O3'"  SING N N 27 
+APC "C3'" "C2'"  SING N N 28 
+APC "C3'" "H3'"  SING N N 29 
+APC "O3'" "HO3'" SING N N 30 
+APC "C2'" "O2'"  SING N N 31 
+APC "C2'" "C1'"  SING N N 32 
+APC "C2'" "H2'"  SING N N 33 
+APC "O2'" "HO2'" SING N N 34 
+APC "C1'" N9     SING N N 35 
+APC "C1'" "H1'"  SING N N 36 
+APC N9    C8     SING Y N 37 
+APC N9    C4     SING Y N 38 
+APC C8    N7     DOUB Y N 39 
+APC C8    H8     SING N N 40 
+APC N7    C5     SING Y N 41 
+APC C5    C6     SING Y N 42 
+APC C5    C4     DOUB Y N 43 
+APC C6    N6     SING N N 44 
+APC C6    N1     DOUB Y N 45 
+APC N6    HN61   SING N N 46 
+APC N6    HN62   SING N N 47 
+APC N1    C2     SING Y N 48 
+APC C2    N3     DOUB Y N 49 
+APC C2    H2     SING N N 50 
+APC N3    C4     SING Y N 51 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+APC SMILES           ACDLabs              10.04 "O=P(O)(O)OP(=O)(O)CP(=O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O" 
+APC SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P@@](O)(=O)C[P@@](O)(=O)O[P](O)(O)=O)[C@@H](O)[C@H]3O" 
+APC SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(=O)C[P](O)(=O)O[P](O)(O)=O)[CH](O)[CH]3O" 
+APC SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(C[P@](=O)(O)OP(=O)(O)O)O)O)O)N" 
+APC SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(CP(=O)(O)OP(=O)(O)O)O)O)O)N" 
+APC InChI            InChI                1.03  
+"InChI=1S/C11H18N5O12P3/c12-9-6-10(14-2-13-9)16(3-15-6)11-8(18)7(17)5(27-11)1-26-29(19,20)4-30(21,22)28-31(23,24)25/h2-3,5,7-8,11,17-18H,1,4H2,(H,19,20)(H,21,22)(H2,12,13,14)(H2,23,24,25)/t5-,7-,8-,11-/m1/s1" 
+APC InChIKey         InChI                1.03  CAWZRIXWFRFUQB-IOSLPCCCSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+APC "SYSTEMATIC NAME" ACDLabs              10.04 "5'-O-[(R)-hydroxy{[(S)-hydroxy(phosphonooxy)phosphoryl]methyl}phosphoryl]adenosine"                                             
+APC "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]methyl-phosphonooxy-phosphinic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+APC "Create component"  1999-07-08 RCSB 
+APC "Modify descriptor" 2011-06-04 RCSB 
+# 

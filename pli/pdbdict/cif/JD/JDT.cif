@@ -1,0 +1,170 @@
+data_JDT
+# 
+_chem_comp.id                                    JDT 
+_chem_comp.name                                  
+;2'-deoxy-5-ethyluridine 5'-(dihydrogen phosphate)
+;
+_chem_comp.type                                  "DNA linking" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C11 H17 N2 O8 P" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2011-04-01 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        336.235 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     JDT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        2RRQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+JDT P      P      P 0 1 N N N 1.201  12.496 3.195 4.443  1.134  0.031  P      JDT 1  
+JDT N1     N1     N 0 1 N N N -2.152 7.341  2.918 -2.063 -0.461 0.289  N1     JDT 2  
+JDT C2     C2     C 0 1 N N N -3.227 6.752  2.287 -2.015 -0.183 -1.027 C2     JDT 3  
+JDT O2     O2     O 0 1 N N N -4.341 7.247  2.266 -1.016 -0.461 -1.662 O2     JDT 4  
+JDT N3     N3     N 0 1 N N N -2.950 5.556  1.679 -3.057 0.398  -1.650 N3     JDT 5  
+JDT C4     C4     C 0 1 N N N -1.736 4.904  1.638 -4.172 0.713  -0.959 C4     JDT 6  
+JDT O4     O4     O 0 1 N N N -1.635 3.838  1.035 -5.115 1.238  -1.522 O4     JDT 7  
+JDT C5     C5     C 0 1 N N N -0.654 5.577  2.324 -4.236 0.426  0.426  C5     JDT 8  
+JDT C6     C6     C 0 1 N N N -0.907 6.753  2.915 -3.176 -0.157 1.025  C6     JDT 9  
+JDT C7     C7     C 0 1 N N N 0.670  4.898  2.447 -5.470 0.768  1.220  C7     JDT 10 
+JDT "C1'"  "C1'"  C 0 1 N N R -2.369 8.626  3.611 -0.915 -1.099 0.938  "C1'"  JDT 11 
+JDT "C2'"  "C2'"  C 0 1 N N N -2.574 8.494  5.121 -0.712 -2.516 0.368  "C2'"  JDT 12 
+JDT "C3'"  "C3'"  C 0 1 N N S -1.288 9.042  5.713 0.728  -2.493 -0.201 "C3'"  JDT 13 
+JDT "O3'"  "O3'"  O 0 1 N N N -1.525 9.690  6.965 1.412  -3.713 0.093  "O3'"  JDT 14 
+JDT "C4'"  "C4'"  C 0 1 N N R -0.852 10.056 4.666 1.361  -1.305 0.566  "C4'"  JDT 15 
+JDT "O4'"  "O4'"  O 0 1 N N N -1.214 9.439  3.412 0.281  -0.352 0.662  "O4'"  JDT 16 
+JDT "C5'"  "C5'"  C 0 1 N N N 0.620  10.399 4.685 2.531  -0.716 -0.225 "C5'"  JDT 17 
+JDT "O5'"  "O5'"  O 0 1 N N N 0.797  11.814 4.579 3.169  0.299  0.554  "O5'"  JDT 18 
+JDT C72    C72    C 0 1 N N N 1.033  4.182  3.713 -5.394 2.225  1.679  C72    JDT 19 
+JDT OP1    OP1    O 0 1 N N N 2.683  12.559 3.120 5.517  0.197  -0.367 OP2    JDT 20 
+JDT OP2    OP2    O 0 1 N N N 0.407  13.744 3.058 4.976  2.092  1.210  OP1    JDT 21 
+JDT OP3    OP3    O 0 1 N Y N 0.666  11.471 2.078 4.014  2.030  -1.236 OP3    JDT 22 
+JDT HN3    HN3    H 0 1 N N N -3.712 5.106  1.214 -3.006 0.592  -2.599 HN3    JDT 23 
+JDT H6     H6     H 0 1 N N N -0.096 7.264  3.413 -3.206 -0.384 2.081  H6     JDT 24 
+JDT H71    H71    H 0 1 N N N 0.699  4.141  1.650 -6.353 0.628  0.597  H7     JDT 25 
+JDT H72    H72    H 0 1 N N N 1.429  5.683  2.313 -5.533 0.115  2.091  H7A    JDT 26 
+JDT "H1'"  "H1'"  H 0 1 N N N -3.288 9.058  3.189 -1.081 -1.153 2.014  "H1'"  JDT 27 
+JDT "H2'"  "H2'"  H 0 1 N N N -3.448 9.070  5.459 -0.798 -3.262 1.158  "H2'"  JDT 28 
+JDT "H2''" "H2''" H 0 0 N N N -2.735 7.446  5.414 -1.433 -2.715 -0.425 "H2'A" JDT 29 
+JDT "H3'"  "H3'"  H 0 1 N N N -0.541 8.262  5.921 0.719  -2.304 -1.275 "H3'"  JDT 30 
+JDT "HO3'" "HO3'" H 0 0 N Y N -0.705 10.022 7.311 0.999  -4.498 -0.292 "HO3'" JDT 31 
+JDT "H4'"  "H4'"  H 0 1 N N N -1.339 11.024 4.853 1.686  -1.618 1.558  "H4'"  JDT 32 
+JDT "H5'"  "H5'"  H 0 1 N N N 1.062  10.048 5.629 3.249  -1.504 -0.453 "H5'"  JDT 33 
+JDT "H5''" "H5''" H 0 0 N N N 1.118  9.907  3.837 2.160  -0.282 -1.153 "H5'A" JDT 34 
+JDT H72A   H72A   H 0 0 N N N 1.021  4.893  4.552 -6.286 2.472  2.253  H72A   JDT 35 
+JDT H72B   H72B   H 0 0 N N N 0.305  3.379  3.902 -4.510 2.364  2.302  H72B   JDT 36 
+JDT H72C   H72C   H 0 0 N N N 2.039  3.749  3.614 -5.330 2.877  0.808  H72    JDT 37 
+JDT HOP2   HOP2   H 0 0 N N N 0.993  14.480 2.930 5.744  2.626  0.965  HOP1   JDT 38 
+JDT HOP3   HOP3   H 0 0 N N N 1.403  11.113 1.597 3.312  2.668  -1.047 HOP3   JDT 39 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+JDT P     "O5'"  SING N N 1  
+JDT P     OP1    DOUB N N 2  
+JDT P     OP2    SING N N 3  
+JDT P     OP3    SING N N 4  
+JDT N1    C2     SING N N 5  
+JDT N1    C6     SING N N 6  
+JDT N1    "C1'"  SING N N 7  
+JDT C2    O2     DOUB N N 8  
+JDT C2    N3     SING N N 9  
+JDT N3    C4     SING N N 10 
+JDT C4    O4     DOUB N N 11 
+JDT C4    C5     SING N N 12 
+JDT C5    C6     DOUB N N 13 
+JDT C5    C7     SING N N 14 
+JDT C7    C72    SING N N 15 
+JDT "C1'" "C2'"  SING N N 16 
+JDT "C1'" "O4'"  SING N N 17 
+JDT "C2'" "C3'"  SING N N 18 
+JDT "C3'" "O3'"  SING N N 19 
+JDT "C3'" "C4'"  SING N N 20 
+JDT "C4'" "O4'"  SING N N 21 
+JDT "C4'" "C5'"  SING N N 22 
+JDT "C5'" "O5'"  SING N N 23 
+JDT N3    HN3    SING N N 24 
+JDT C6    H6     SING N N 25 
+JDT C7    H71    SING N N 26 
+JDT C7    H72    SING N N 27 
+JDT "C1'" "H1'"  SING N N 28 
+JDT "C2'" "H2'"  SING N N 29 
+JDT "C2'" "H2''" SING N N 30 
+JDT "C3'" "H3'"  SING N N 31 
+JDT "O3'" "HO3'" SING N N 32 
+JDT "C4'" "H4'"  SING N N 33 
+JDT "C5'" "H5'"  SING N N 34 
+JDT "C5'" "H5''" SING N N 35 
+JDT C72   H72A   SING N N 36 
+JDT C72   H72B   SING N N 37 
+JDT C72   H72C   SING N N 38 
+JDT OP2   HOP2   SING N N 39 
+JDT OP3   HOP3   SING N N 40 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+JDT SMILES           ACDLabs              12.01 "O=P(O)(O)OCC2OC(N1C(=O)NC(=O)C(=C1)CC)CC2O"                                                                                                          
+JDT SMILES_CANONICAL CACTVS               3.370 "CCC1=CN([C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                           
+JDT SMILES           CACTVS               3.370 "CCC1=CN([CH]2C[CH](O)[CH](CO[P](O)(O)=O)O2)C(=O)NC1=O"                                                                                               
+JDT SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CCC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O"                                                                                             
+JDT SMILES           "OpenEye OEToolkits" 1.7.0 "CCC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O"                                                                                                          
+JDT InChI            InChI                1.03  "InChI=1S/C11H17N2O8P/c1-2-6-4-13(11(16)12-10(6)15)9-3-7(14)8(21-9)5-20-22(17,18)19/h4,7-9,14H,2-3,5H2,1H3,(H,12,15,16)(H2,17,18,19)/t7-,8+,9+/m0/s1" 
+JDT InChIKey         InChI                1.03  PKJQLAZOOFOCPH-DJLDLDEBSA-N                                                                                                                           
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+JDT "SYSTEMATIC NAME" ACDLabs              12.01 
+;2'-deoxy-5-ethyluridine 5'-(dihydrogen phosphate)
+;
+JDT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "[(2R,3S,5R)-5-(5-ethyl-2,4-dioxo-pyrimidin-1-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+JDT "Create component"  2011-04-01 PDBJ 
+JDT "Modify descriptor" 2011-06-04 RCSB 
+# 

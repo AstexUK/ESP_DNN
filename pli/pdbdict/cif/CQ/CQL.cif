@@ -1,0 +1,125 @@
+data_CQL
+# 
+_chem_comp.id                                    CQL 
+_chem_comp.name                                  5-chloro-7-iodoquinolin-8-ol 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C9 H5 Cl I N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         Clioquinol 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2009-10-28 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        305.500 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CQL 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3KCX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CQL OAA  OAA  O  0 1 N N N -23.431 25.473 6.507  0.503  2.304  0.012  OAA  CQL 1  
+CQL CLAB CLAB CL 0 0 N N N -17.619 25.165 7.985  -2.415 -2.814 -0.009 CLAB CQL 2  
+CQL IAC  IAC  I  0 1 N N N -22.000 24.064 4.163  2.574  -0.067 0.004  IAC  CQL 3  
+CQL CAD  CAD  C  0 1 Y N N -20.813 26.855 10.361 -4.337 1.133  0.006  CAD  CQL 4  
+CQL CAE  CAE  C  0 1 Y N N -22.157 26.901 9.998  -3.590 2.309  0.010  CAE  CQL 5  
+CQL CAF  CAF  C  0 1 Y N N -19.861 26.291 9.513  -3.702 -0.077 0.002  CAF  CQL 6  
+CQL CAG  CAG  C  0 1 Y N N -19.820 24.724 6.249  -0.212 -1.267 -0.002 CAG  CQL 7  
+CQL NAH  NAH  N  0 1 Y N N -22.556 26.420 8.821  -2.279 2.294  0.011  NAH  CQL 8  
+CQL CAI  CAI  C  0 1 Y N N -19.356 25.223 7.468  -1.574 -1.295 -0.002 CAI  CQL 9  
+CQL CAJ  CAJ  C  0 1 Y N N -22.099 25.381 6.807  -0.188 1.134  0.007  CAJ  CQL 10 
+CQL CAK  CAK  C  0 1 Y N N -21.188 24.807 5.942  0.479  -0.058 0.003  CAK  CQL 11 
+CQL CAL  CAL  C  0 1 Y N N -20.287 25.787 8.315  -2.295 -0.089 0.002  CAL  CQL 12 
+CQL CAM  CAM  C  0 1 Y N N -21.644 25.870 7.996  -1.598 1.145  0.007  CAM  CQL 13 
+CQL HOAA HOAA H  0 0 N N N -23.889 25.896 7.224  0.704  2.646  -0.870 HOAA CQL 14 
+CQL HAD  HAD  H  0 1 N N N -20.504 27.262 11.313 -5.416 1.178  0.010  HAD  CQL 15 
+CQL HAE  HAE  H  0 1 N N N -22.881 27.330 10.675 -4.105 3.259  0.014  HAE  CQL 16 
+CQL HAF  HAF  H  0 1 N N N -18.819 26.253 9.794  -4.265 -0.998 -0.002 HAF  CQL 17 
+CQL HAG  HAG  H  0 1 N N N -19.131 24.277 5.547  0.340  -2.195 -0.005 HAG  CQL 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CQL OAA  CAJ  SING N N 1  
+CQL CLAB CAI  SING N N 2  
+CQL IAC  CAK  SING N N 3  
+CQL CAD  CAE  DOUB Y N 4  
+CQL CAD  CAF  SING Y N 5  
+CQL CAE  NAH  SING Y N 6  
+CQL CAF  CAL  DOUB Y N 7  
+CQL CAG  CAI  DOUB Y N 8  
+CQL CAG  CAK  SING Y N 9  
+CQL NAH  CAM  DOUB Y N 10 
+CQL CAI  CAL  SING Y N 11 
+CQL CAJ  CAK  DOUB Y N 12 
+CQL CAJ  CAM  SING Y N 13 
+CQL CAL  CAM  SING Y N 14 
+CQL OAA  HOAA SING N N 15 
+CQL CAD  HAD  SING N N 16 
+CQL CAE  HAE  SING N N 17 
+CQL CAF  HAF  SING N N 18 
+CQL CAG  HAG  SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CQL SMILES           ACDLabs              11.02 "Ic1c(O)c2ncccc2c(Cl)c1"                                         
+CQL SMILES_CANONICAL CACTVS               3.352 "Oc1c(I)cc(Cl)c2cccnc12"                                         
+CQL SMILES           CACTVS               3.352 "Oc1c(I)cc(Cl)c2cccnc12"                                         
+CQL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "c1cc2c(cc(c(c2nc1)O)I)Cl"                                       
+CQL SMILES           "OpenEye OEToolkits" 1.7.0 "c1cc2c(cc(c(c2nc1)O)I)Cl"                                       
+CQL InChI            InChI                1.03  "InChI=1S/C9H5ClINO/c10-6-4-7(11)9(13)8-5(6)2-1-3-12-8/h1-4,13H" 
+CQL InChIKey         InChI                1.03  QCDFBFJGMNKBDO-UHFFFAOYSA-N                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CQL "SYSTEMATIC NAME" ACDLabs              11.02 5-chloro-7-iodoquinolin-8-ol  
+CQL "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.6.1 5-chloro-7-iodo-quinolin-8-ol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CQL "Create component"     2009-10-28 PDBJ 
+CQL "Modify aromatic_flag" 2011-06-04 RCSB 
+CQL "Modify descriptor"    2011-06-04 RCSB 
+# 

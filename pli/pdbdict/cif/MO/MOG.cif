@@ -1,0 +1,124 @@
+data_MOG
+# 
+_chem_comp.id                                    MOG 
+_chem_comp.name                                  "5-AMINO-2-METHYL-6H-OXAZOLO[5,4-D]PYRIMIDIN-7-ONE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H6 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         8-METHYL-9-OXOGUANINE 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-05-09 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        166.137 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     MOG 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IL9 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MOG N1   N1   N 0 1 Y N N 3.678  1.653 7.410  -0.691 -0.000 -2.002 N1   MOG 1  
+MOG C2   C2   C 0 1 Y N N 3.612  1.240 8.703  0.670  -0.000 -2.035 C2   MOG 2  
+MOG N3   N3   N 0 1 Y N N 2.419  0.932 9.257  1.393  0.000  -0.936 N3   MOG 3  
+MOG C4   C4   C 0 1 Y N N 1.297  1.038 8.514  0.817  0.000  0.269  C4   MOG 4  
+MOG C5   C5   C 0 1 Y N N 1.347  1.457 7.190  -0.576 0.000  0.369  C5   MOG 5  
+MOG C6   C6   C 0 1 Y N N 2.586  1.777 6.622  -1.343 0.000  -0.818 C6   MOG 6  
+MOG O6   O6   O 0 1 N N N 2.722  2.146 5.506  -2.561 0.001  -0.775 O6   MOG 7  
+MOG N7   N7   N 0 1 Y N N 0.080  1.439 6.786  -0.875 -0.004 1.693  N7   MOG 8  
+MOG C8   C8   C 0 1 Y N N -0.611 1.022 7.869  0.234  0.000  2.369  C8   MOG 9  
+MOG O9   O9   O 0 1 Y N N 0.096  0.764 8.957  1.285  0.000  1.531  O9   MOG 10 
+MOG C10  C10  C 0 1 N N N -2.125 0.856 7.809  0.329  0.000  3.873  C10  MOG 11 
+MOG N2   N2   N 0 1 N N N 4.687  1.113 9.501  1.307  -0.000 -3.250 N2   MOG 12 
+MOG HN1  HN1  H 0 1 N N N 4.589  1.880 7.012  -1.195 -0.000 -2.831 HN1  MOG 13 
+MOG H101 1H10 H 0 0 N N N -2.695 0.511 8.703  1.377  0.000  4.171  H101 MOG 14 
+MOG H102 2H10 H 0 0 N N N -2.567 1.819 7.463  -0.160 0.890  4.268  H102 MOG 15 
+MOG H103 3H10 H 0 0 N N N -2.367 0.177 6.958  -0.160 -0.889 4.268  H103 MOG 16 
+MOG HN21 1HN2 H 0 0 N N N 4.637  0.803 10.471 2.276  -0.000 -3.290 HN21 MOG 17 
+MOG HN22 2HN2 H 0 0 N N N 5.173  2.009 9.495  0.787  -0.000 -4.070 HN22 MOG 18 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MOG N1  C2   SING Y N 1  
+MOG N1  C6   SING Y N 2  
+MOG N1  HN1  SING N N 3  
+MOG C2  N3   DOUB Y N 4  
+MOG C2  N2   SING N N 5  
+MOG N3  C4   SING Y N 6  
+MOG C4  C5   DOUB Y N 7  
+MOG C4  O9   SING Y N 8  
+MOG C5  C6   SING Y N 9  
+MOG C5  N7   SING Y N 10 
+MOG C6  O6   DOUB N N 11 
+MOG N7  C8   DOUB Y N 12 
+MOG C8  O9   SING Y N 13 
+MOG C8  C10  SING N N 14 
+MOG C10 H101 SING N N 15 
+MOG C10 H102 SING N N 16 
+MOG C10 H103 SING N N 17 
+MOG N2  HN21 SING N N 18 
+MOG N2  HN22 SING N N 19 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MOG SMILES           ACDLabs              10.04 "O=C2NC(=Nc1oc(nc12)C)N"                                                
+MOG SMILES_CANONICAL CACTVS               3.341 "Cc1oc2N=C(N)NC(=O)c2n1"                                                
+MOG SMILES           CACTVS               3.341 "Cc1oc2N=C(N)NC(=O)c2n1"                                                
+MOG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "Cc1nc2c(o1)N=C(NC2=O)N"                                                
+MOG SMILES           "OpenEye OEToolkits" 1.5.0 "Cc1nc2c(o1)N=C(NC2=O)N"                                                
+MOG InChI            InChI                1.03  "InChI=1S/C6H6N4O2/c1-2-8-3-4(11)9-6(7)10-5(3)12-2/h1H3,(H3,7,9,10,11)" 
+MOG InChIKey         InChI                1.03  NEKSCFHMQPOHBF-UHFFFAOYSA-N                                             
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MOG "SYSTEMATIC NAME" ACDLabs              10.04 "5-amino-2-methyl[1,3]oxazolo[5,4-d]pyrimidin-7(6H)-one" 
+MOG "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "5-amino-2-methyl-6H-[1,3]oxazolo[4,5-e]pyrimidin-7-one" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MOG "Create component"  2001-05-09 RCSB 
+MOG "Modify descriptor" 2011-06-04 RCSB 
+# 

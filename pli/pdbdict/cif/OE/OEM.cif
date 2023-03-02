@@ -1,0 +1,124 @@
+data_OEM
+# 
+_chem_comp.id                                    OEM 
+_chem_comp.name                                  "N-methyl-D-aspartic acid" 
+_chem_comp.type                                  "D-peptide linking" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C5 H9 N O4" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2010-08-17 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        147.129 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     OEM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3OEM 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+OEM C    C    C 0 1 N N N 7.779  36.719 9.936  1.767  0.575  0.003  C    OEM 1  
+OEM N    N    N 0 1 N N N 9.392  38.495 9.628  0.344  -1.321 -0.531 N    OEM 2  
+OEM O    O    O 0 1 N N N 8.269  36.126 8.946  2.404  0.324  -0.992 O    OEM 3  
+OEM CA   CA   C 0 1 N N R 8.034  38.198 10.053 0.415  -0.056 0.212  CA   OEM 4  
+OEM CB   CB   C 0 1 N N N 7.681  38.774 11.436 -0.674 0.894  -0.293 CB   OEM 5  
+OEM CG   CG   C 0 1 N N N 8.598  38.250 12.521 -2.030 0.318  0.027  CG   OEM 6  
+OEM CAA  CAA  C 0 1 N N N 9.839  39.857 9.387  0.850  -2.436 0.280  CAA  OEM 7  
+OEM OD1  OD1  O 0 1 N N N 9.753  37.914 12.200 -2.116 -0.742 0.600  OD1  OEM 8  
+OEM OD2  OD2  O 0 1 N N N 8.171  38.170 13.694 -3.141 0.984  -0.325 OD2  OEM 9  
+OEM OXT  OXT  O 0 1 N Y N 7.080  36.142 10.786 2.267  1.412  0.926  OXT  OEM 10 
+OEM HA   HA   H 0 1 N N N 7.344  38.718 9.372  0.264  -0.249 1.274  HA   OEM 11 
+OEM HB   HB   H 0 1 N N N 7.776  39.869 11.395 -0.566 1.862  0.195  HB   OEM 12 
+OEM HBA  HBA  H 0 1 N N N 6.647  38.489 11.682 -0.577 1.017  -1.371 HBA  OEM 13 
+OEM HAA  HAA  H 0 1 N N N 10.894 39.848 9.076  1.861  -2.210 0.619  HAA  OEM 14 
+OEM HAAA HAAA H 0 0 N N N 9.227  40.308 8.592  0.201  -2.582 1.143  HAAA OEM 15 
+OEM HOD2 HOD2 H 0 0 N N N 8.854  37.825 14.257 -3.988 0.575  -0.098 HOD2 OEM 16 
+OEM HOXT HOXT H 0 0 N Y N 6.994  35.224 10.556 3.138  1.792  0.748  HOXT OEM 17 
+OEM H8   H8   H 0 1 N N N 9.983  38.143 10.354 -0.596 -1.502 -0.849 H8   OEM 18 
+OEM H9   H9   H 0 1 N N N 9.734  40.446 10.310 0.864  -3.345 -0.322 H9   OEM 19 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+OEM C   CA   SING N N 1  
+OEM C   OXT  SING N N 2  
+OEM N   CA   SING N N 3  
+OEM O   C    DOUB N N 4  
+OEM CA  CB   SING N N 5  
+OEM CA  HA   SING N N 6  
+OEM CB  CG   SING N N 7  
+OEM CB  HB   SING N N 8  
+OEM CB  HBA  SING N N 9  
+OEM CG  OD2  SING N N 10 
+OEM CAA N    SING N N 11 
+OEM CAA HAA  SING N N 12 
+OEM CAA HAAA SING N N 13 
+OEM OD1 CG   DOUB N N 14 
+OEM OD2 HOD2 SING N N 15 
+OEM OXT HOXT SING N N 16 
+OEM N   H8   SING N N 17 
+OEM CAA H9   SING N N 18 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+OEM SMILES           ACDLabs              12.01 "O=C(O)C(NC)CC(=O)O"                                                             
+OEM SMILES_CANONICAL CACTVS               3.370 "CN[C@H](CC(O)=O)C(O)=O"                                                         
+OEM SMILES           CACTVS               3.370 "CN[CH](CC(O)=O)C(O)=O"                                                          
+OEM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "CN[C@H](CC(=O)O)C(=O)O"                                                         
+OEM SMILES           "OpenEye OEToolkits" 1.7.0 "CNC(CC(=O)O)C(=O)O"                                                             
+OEM InChI            InChI                1.03  "InChI=1S/C5H9NO4/c1-6-3(5(9)10)2-4(7)8/h3,6H,2H2,1H3,(H,7,8)(H,9,10)/t3-/m1/s1" 
+OEM InChIKey         InChI                1.03  HOKKHZGPKSLGJE-GSVOUGTGSA-N                                                      
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+OEM "SYSTEMATIC NAME" ACDLabs              12.01 "N-methyl-D-aspartic acid"             
+OEM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2R)-2-(methylamino)butanedioic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+OEM "Create component"  2010-08-17 RCSB 
+OEM "Modify descriptor" 2011-06-04 RCSB 
+# 

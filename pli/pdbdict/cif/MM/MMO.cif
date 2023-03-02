@@ -1,0 +1,145 @@
+data_MMO
+# 
+_chem_comp.id                                    MMO 
+_chem_comp.name                                  N~2~-methyl-L-arginine 
+_chem_comp.type                                  "L-PEPTIDE LINKING" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C7 H16 N4 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ARG 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-07-18 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        188.228 
+_chem_comp.one_letter_code                       R 
+_chem_comp.three_letter_code                     MMO 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EB1 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+MMO N    N    N 0 1 N N N 13.133 -11.401 15.837 2.160  -1.382 0.531  N    MMO 1  
+MMO CA   CA   C 0 1 N N S 14.461 -11.725 16.444 2.018  -0.169 -0.287 CA   MMO 2  
+MMO C    C    C 0 1 N N N 14.731 -10.762 17.610 3.190  0.744  -0.037 C    MMO 3  
+MMO O    O    O 0 1 N N N 15.622 -9.910  17.535 3.780  0.697  1.016  O    MMO 4  
+MMO CB   CB   C 0 1 N N N 15.600 -11.697 15.361 0.721  0.550  0.088  CB   MMO 5  
+MMO CG   CG   C 0 1 N N N 15.302 -12.698 14.211 -0.475 -0.329 -0.282 CG   MMO 6  
+MMO CD   CD   C 0 1 N N N 16.434 -12.730 13.160 -1.772 0.391  0.093  CD   MMO 7  
+MMO NE   NE   N 0 1 N N N 16.663 -11.409 12.544 -2.918 -0.451 -0.261 NE   MMO 8  
+MMO CZ   CZ   C 0 1 N N N 17.663 -11.179 11.711 -4.196 -0.010 -0.016 CZ   MMO 9  
+MMO NH2  NH2  N 0 1 N N N 18.536 -12.110 11.361 -4.400 1.221  0.561  NH2  MMO 10 
+MMO NH1  NH1  N 0 1 N N N 17.800 -9.951  11.183 -5.216 -0.759 -0.331 NH1  MMO 11 
+MMO CN   CN   C 0 1 N N N 12.809 -10.043 15.332 3.015  -2.371 -0.138 CN   MMO 12 
+MMO H2   H    H 0 1 N Y N 13.045 -12.008 15.047 2.514  -1.159 1.449  H2   MMO 13 
+MMO HA   HA   H 0 1 N N N 14.446 -12.750 16.843 1.990  -0.444 -1.342 HA   MMO 14 
+MMO HCB1 HCB1 H 0 0 N N N 15.669 -10.682 14.942 0.711  0.746  1.160  HCB1 MMO 15 
+MMO HCB2 HCB2 H 0 0 N N N 16.552 -11.973 15.837 0.660  1.494  -0.454 HCB2 MMO 16 
+MMO HCG1 HCG1 H 0 0 N N N 15.194 -13.705 14.641 -0.465 -0.525 -1.354 HCG1 MMO 17 
+MMO HCG2 HCG2 H 0 0 N N N 14.370 -12.393 13.713 -0.413 -1.273 0.260  HCG2 MMO 18 
+MMO HCD1 HCD1 H 0 0 N N N 17.362 -13.051 13.655 -1.782 0.586  1.165  HCD1 MMO 19 
+MMO HCD2 HCD2 H 0 0 N N N 16.157 -13.442 12.369 -1.834 1.334  -0.449 HCD2 MMO 20 
+MMO HH21 HH21 H 0 0 N N N 19.272 -11.890 10.720 -3.642 1.778  0.795  HH21 MMO 21 
+MMO HH22 HH22 H 0 0 N N N 18.460 -13.033 11.737 -5.303 1.532  0.734  HH22 MMO 22 
+MMO HH11 HH11 H 0 0 N N N 18.582 -9.895  10.563 -6.118 -0.448 -0.158 HH11 MMO 23 
+MMO HC1  HC1  H 0 1 N N N 11.785 -10.035 14.931 3.092  -3.264 0.483  HC1  MMO 24 
+MMO HC2  HC2  H 0 1 N N N 12.886 -9.318  16.155 2.581  -2.635 -1.102 HC2  MMO 25 
+MMO HC3  HC3  H 0 1 N N N 13.516 -9.770  14.535 4.008  -1.949 -0.290 HC3  MMO 26 
+MMO OXT  OXT  O 0 1 N Y N 14.093 -10.648 18.885 3.579  1.612  -0.985 OXT  MMO 27 
+MMO HXT  HXT  H 0 1 N Y N 14.498 -9.946  19.381 4.336  2.177  -0.779 HXT  MMO 28 
+MMO HE   HE   H 0 1 N N N 16.038 -10.660 12.765 -2.774 -1.320 -0.668 HE   MMO 29 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+MMO N   CA   SING N N 1  
+MMO N   CN   SING N N 2  
+MMO N   H2   SING N N 3  
+MMO CA  C    SING N N 4  
+MMO CA  CB   SING N N 5  
+MMO CA  HA   SING N N 6  
+MMO C   O    DOUB N N 7  
+MMO CB  CG   SING N N 8  
+MMO CB  HCB1 SING N N 9  
+MMO CB  HCB2 SING N N 10 
+MMO CG  CD   SING N N 11 
+MMO CG  HCG1 SING N N 12 
+MMO CG  HCG2 SING N N 13 
+MMO CD  NE   SING N N 14 
+MMO CD  HCD1 SING N N 15 
+MMO CD  HCD2 SING N N 16 
+MMO NE  CZ   SING N N 17 
+MMO CZ  NH2  SING N N 18 
+MMO CZ  NH1  DOUB N N 19 
+MMO NH2 HH21 SING N N 20 
+MMO NH2 HH22 SING N N 21 
+MMO NH1 HH11 SING N N 22 
+MMO CN  HC1  SING N N 23 
+MMO CN  HC2  SING N N 24 
+MMO CN  HC3  SING N N 25 
+MMO C   OXT  SING N N 26 
+MMO OXT HXT  SING N N 27 
+MMO NE  HE   SING N N 28 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+MMO SMILES           ACDLabs              12.01 "O=C(O)C(NC)CCCNC(=[N@H])N"                                                                         
+MMO SMILES_CANONICAL CACTVS               3.370 "CN[C@@H](CCCNC(N)=N)C(O)=O"                                                                        
+MMO SMILES           CACTVS               3.370 "CN[CH](CCCNC(N)=N)C(O)=O"                                                                          
+MMO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "[H]/N=C(\N)/NCCC[C@@H](C(=O)O)NC"                                                                  
+MMO SMILES           "OpenEye OEToolkits" 1.7.0 "CNC(CCCNC(=N)N)C(=O)O"                                                                             
+MMO InChI            InChI                1.03  "InChI=1S/C7H16N4O2/c1-10-5(6(12)13)3-2-4-11-7(8)9/h5,10H,2-4H2,1H3,(H,12,13)(H4,8,9,11)/t5-/m0/s1" 
+MMO InChIKey         InChI                1.03  NTWVQPHTOUKMDI-YFKPBYRVSA-N                                                                         
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+MMO "SYSTEMATIC NAME" ACDLabs              12.01 N~2~-methyl-L-arginine                                 
+MMO "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 "(2S)-5-carbamimidamido-2-(methylamino)pentanoic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+MMO "Create component"   2001-07-18 EBI  
+MMO "Other modification" 2011-03-16 RCSB 
+MMO "Modify descriptor"  2011-06-04 RCSB 
+# 

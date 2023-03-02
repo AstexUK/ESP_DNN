@@ -1,0 +1,290 @@
+data_EQM
+# 
+_chem_comp.id                                    EQM 
+_chem_comp.name                                  
+"methyl N-[(2S)-1-[2-[(4-bromophenyl)methyl]-2-[(4R)-5-[[(2S)-3,3-dimethyl-1-oxidanylidene-1-(prop-2-enylamino)butan-2-yl]amino]-4-oxidanyl-5-oxidanylidene-4-(phenylmethyl)pentyl]hydrazinyl]-3,3-dimethyl-1-oxidanylidene-butan-2-yl]carbamate" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C36 H52 Br N5 O6" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2013-03-01 
+_chem_comp.pdbx_modified_date                    2013-11-01 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        730.732 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     EQM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        3ZPS 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  EBI 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+EQM BR   BR   BR 0 0 N N N 16.479 16.593 10.775 -8.827 1.324  -1.044 BR   EQM 1   
+EQM C1   C1   C  0 1 N N R 11.970 24.258 4.670  2.530  0.888  0.008  C1   EQM 2   
+EQM N1   N1   N  0 1 N N N 10.208 25.534 5.717  4.930  0.389  0.337  N1   EQM 3   
+EQM O1   O1   O  0 1 N N N 12.376 25.598 4.357  2.301  -0.477 0.363  O1   EQM 4   
+EQM C2   C2   C  0 1 N N N 10.891 24.318 5.574  3.927  1.285  0.412  C2   EQM 5   
+EQM N2   N2   N  0 1 N N N 15.278 22.282 7.152  -2.274 1.865  0.672  N2   EQM 6   
+EQM O2   O2   O  0 1 N N N 10.424 23.307 6.105  4.147  2.411  0.806  O2   EQM 7   
+EQM C3   C3   C  0 1 N N S 8.860  25.637 6.332  6.288  0.775  0.730  C3   EQM 8   
+EQM N3   N3   N  0 1 N N N 15.802 21.689 6.198  -2.520 0.625  1.186  N3   EQM 9   
+EQM O3   O3   O  0 1 N N N 14.002 20.311 5.953  -2.707 -0.258 -0.840 O3   EQM 10  
+EQM C4   C4   C  0 1 N N N 8.958  26.135 7.784  6.448  0.607  2.243  C4   EQM 11  
+EQM N4   N4   N  0 1 N N N 16.703 18.756 5.576  -3.919 -2.507 -0.077 N4   EQM 12  
+EQM O4   O4   O  0 1 N N N 18.731 19.533 5.051  -4.946 -3.701 1.489  O4   EQM 13  
+EQM C5   C5   C  0 1 N N N 9.663  25.091 8.651  6.273  -0.867 2.613  C5   EQM 14  
+EQM N5   N5   N  0 1 N N N 6.789  26.001 5.114  8.538  0.343  -0.203 N5   EQM 15  
+EQM O5   O5   O  0 1 N N N 18.631 17.780 6.469  -5.470 -4.165 -0.617 O5   EQM 16  
+EQM C6   C6   C  0 1 N N N 9.735  27.453 7.843  7.842  1.077  2.663  C6   EQM 17  
+EQM O6   O6   O  0 1 N N N 8.338  27.626 5.256  6.961  -1.211 -0.354 O6   EQM 18  
+EQM C7   C7   C  0 1 N N N 13.178 23.500 5.247  1.518  1.779  0.730  C7   EQM 19  
+EQM C8   C8   C  0 1 N N N 13.678 24.127 6.555  0.100  1.380  0.315  C8   EQM 20  
+EQM C9   C9   C  0 1 N N N 15.136 23.712 6.820  -0.910 2.307  0.994  C9   EQM 21  
+EQM C10  C10  C  0 1 N N N 16.158 22.164 8.333  -3.268 2.839  1.144  C10  EQM 22  
+EQM C11  C11  C  0 1 Y N N 16.230 20.856 8.820  -4.627 2.468  0.609  C11  EQM 23  
+EQM C12  C12  C  0 1 N N N 15.134 20.669 5.616  -2.784 -0.407 0.361  C12  EQM 24  
+EQM C13  C13  C  0 1 N N S 16.027 19.764 4.748  -3.174 -1.747 0.930  C13  EQM 25  
+EQM C14  C14  C  0 1 N N N 15.276 19.082 3.602  -1.913 -2.521 1.322  C14  EQM 26  
+EQM C15  C15  C  0 1 N N N 14.387 20.094 2.878  -1.021 -2.700 0.092  C15  EQM 27  
+EQM C16  C16  C  0 1 N N N 16.299 18.509 2.619  -1.151 -1.743 2.396  C16  EQM 28  
+EQM C17  C17  C  0 1 N N N 14.410 17.939 4.141  -2.308 -3.894 1.870  C17  EQM 29  
+EQM C18  C18  C  0 1 N N N 18.037 18.781 5.750  -4.784 -3.467 0.308  C18  EQM 30  
+EQM C19  C19  C  0 1 N N N 19.914 18.204 6.941  -6.384 -5.183 -0.131 C19  EQM 31  
+EQM C20  C20  C  0 1 Y N N 15.086 20.235 9.306  -5.449 1.625  1.334  C20  EQM 32  
+EQM C21  C21  C  0 1 Y N N 15.159 18.946 9.824  -6.695 1.285  0.844  C21  EQM 33  
+EQM C22  C22  C  0 1 Y N N 16.388 18.311 9.957  -7.121 1.789  -0.372 C22  EQM 34  
+EQM C23  C23  C  0 1 Y N N 17.548 18.975 9.573  -6.299 2.632  -1.097 C23  EQM 35  
+EQM C24  C24  C  0 1 Y N N 17.467 20.243 8.997  -5.054 2.976  -0.604 C24  EQM 36  
+EQM C25  C25  C  0 1 N N N 11.551 23.548 3.368  2.370  1.056  -1.504 C25  EQM 37  
+EQM C26  C26  C  0 1 Y N N 10.263 23.910 2.983  3.384  0.198  -2.215 C26  EQM 38  
+EQM C27  C27  C  0 1 Y N N 10.047 25.102 2.301  3.119  -1.140 -2.444 C27  EQM 39  
+EQM C28  C28  C  0 1 Y N N 8.757  25.462 1.924  4.049  -1.927 -3.096 C28  EQM 40  
+EQM C29  C29  C  0 1 Y N N 7.687  24.623 2.216  5.245  -1.378 -3.520 C29  EQM 41  
+EQM C30  C30  C  0 1 Y N N 7.909  23.420 2.877  5.510  -0.040 -3.291 C30  EQM 42  
+EQM C31  C31  C  0 1 Y N N 9.203  23.041 3.214  4.578  0.748  -2.643 C31  EQM 43  
+EQM C33  C33  C  0 1 N N N 5.803  25.349 2.379  11.898 -0.346 -0.702 C33  EQM 44  
+EQM C34  C34  C  0 1 N N N 8.018  26.478 5.576  7.285  -0.103 0.019  C34  EQM 45  
+EQM C35  C35  C  0 1 N N N 7.545  26.367 8.319  5.389  1.443  2.963  C35  EQM 46  
+EQM C36  C36  C  0 1 N N N 5.188  26.093 3.381  10.797 0.252  -1.084 C36  EQM 47  
+EQM C37  C37  C  0 1 N N N 5.941  26.869 4.260  9.476  -0.467 -0.984 C37  EQM 48  
+EQM HN1  HN1  H  0 1 N N N 10.649 26.370 5.390  4.754  -0.512 0.022  HN1  EQM 49  
+EQM HO1  HO1  H  0 1 N N N 13.104 25.574 3.747  2.386  -0.657 1.309  HO1  EQM 50  
+EQM H3   H3   H  0 1 N N N 8.423  24.628 6.361  6.463  1.816  0.460  H3   EQM 51  
+EQM HN3  HN3  H  0 1 N N N 16.705 21.961 5.864  -2.506 0.486  2.147  HN3  EQM 52  
+EQM HN4  HN4  H  0 1 N N N 16.163 18.040 6.017  -3.791 -2.319 -1.020 HN4  EQM 53  
+EQM H5   H5   H  0 1 N N N 9.728  25.457 9.686  7.028  -1.463 2.100  H5   EQM 54  
+EQM H5A  H5A  H  0 1 N N N 9.092  24.151 8.629  6.387  -0.987 3.691  H5A  EQM 55  
+EQM H5B  H5B  H  0 1 N N N 10.676 24.914 8.261  5.280  -1.202 2.314  H5B  EQM 56  
+EQM HN5  HN5  H  0 1 N N N 6.483  25.081 5.357  8.818  1.200  0.155  HN5  EQM 57  
+EQM H6   H6   H  0 1 N N N 9.797  27.796 8.886  7.960  2.132  2.415  H6   EQM 58  
+EQM H6A  H6A  H  0 1 N N N 10.750 27.298 7.447  7.962  0.941  3.738  H6A  EQM 59  
+EQM H6B  H6B  H  0 1 N N N 9.217  28.211 7.238  8.597  0.493  2.136  H6B  EQM 60  
+EQM H7   H7   H  0 1 N N N 12.883 22.458 5.442  1.629  1.657  1.807  H7   EQM 61  
+EQM H7A  H7A  H  0 1 N N N 13.994 23.518 4.510  1.694  2.821  0.463  H7A  EQM 62  
+EQM H8   H8   H  0 1 N N N 13.620 25.223 6.478  0.001  1.464  -0.767 H8   EQM 63  
+EQM H8A  H8A  H  0 1 N N N 13.046 23.784 7.387  -0.091 0.351  0.618  H8A  EQM 64  
+EQM H9   H9   H  0 1 N N N 15.522 24.307 7.661  -0.765 3.327  0.636  H9   EQM 65  
+EQM H9A  H9A  H  0 1 N N N 15.730 23.923 5.918  -0.764 2.277  2.073  H9A  EQM 66  
+EQM H10  H10  H  0 1 N N N 17.170 22.492 8.053  -3.292 2.833  2.234  H10  EQM 67  
+EQM H10A H10A H  0 0 N N N 15.769 22.816 9.129  -2.998 3.834  0.791  H10A EQM 68  
+EQM H13  H13  H  0 1 N N N 16.798 20.406 4.297  -3.799 -1.600 1.811  H13  EQM 69  
+EQM H15  H15  H  0 1 N N N 13.853 19.593 2.057  -0.740 -1.722 -0.299 H15  EQM 70  
+EQM H15A H15A H  0 0 N N N 13.658 20.515 3.587  -0.123 -3.251 0.372  H15A EQM 71  
+EQM H15B H15B H  0 0 N N N 15.010 20.903 2.469  -1.564 -3.255 -0.673 H15B EQM 72  
+EQM H16  H16  H  0 1 N N N 15.773 18.015 1.789  -1.807 -1.558 3.246  H16  EQM 73  
+EQM H16A H16A H  0 0 N N N 16.924 19.323 2.224  -0.288 -2.324 2.723  H16A EQM 74  
+EQM H16B H16B H  0 0 N N N 16.935 17.777 3.138  -0.813 -0.791 1.985  H16B EQM 75  
+EQM H17  H17  H  0 1 N N N 13.876 17.458 3.308  -2.851 -4.448 1.105  H17  EQM 76  
+EQM H17A H17A H  0 0 N N N 15.051 17.198 4.642  -1.410 -4.445 2.150  H17A EQM 77  
+EQM H17B H17B H  0 0 N N N 13.681 18.340 4.861  -2.943 -3.766 2.747  H17B EQM 78  
+EQM H19  H19  H  0 1 N N N 20.380 17.391 7.517  -7.138 -4.720 0.505  H19  EQM 79  
+EQM H19A H19A H  0 0 N N N 20.554 18.460 6.084  -6.870 -5.668 -0.977 H19A EQM 80  
+EQM H19B H19B H  0 0 N N N 19.794 19.087 7.585  -5.829 -5.924 0.444  H19B EQM 81  
+EQM H20  H20  H  0 1 N N N 14.139 20.754 9.282  -5.116 1.231  2.283  H20  EQM 82  
+EQM H21  H21  H  0 1 N N N 14.256 18.436 10.124 -7.337 0.626  1.410  H21  EQM 83  
+EQM H23  H23  H  0 1 N N N 18.511 18.509 9.721  -6.631 3.026  -2.047 H23  EQM 84  
+EQM H24  H24  H  0 1 N N N 18.368 20.751 8.687  -4.414 3.638  -1.168 H24  EQM 85  
+EQM H25  H25  H  0 1 N N N 12.254 23.823 2.568  1.366  0.752  -1.799 H25  EQM 86  
+EQM H25A H25A H  0 0 N N N 11.584 22.460 3.527  2.527  2.101  -1.773 H25A EQM 87  
+EQM H27  H27  H  0 1 N N N 10.880 25.748 2.064  2.185  -1.569 -2.114 H27  EQM 88  
+EQM H28  H28  H  0 1 N N N 8.587  26.393 1.404  3.842  -2.972 -3.275 H28  EQM 89  
+EQM H29  H29  H  0 1 N N N 6.685  24.906 1.930  5.972  -1.993 -4.028 H29  EQM 90  
+EQM H30  H30  H  0 1 N N N 7.076  22.780 3.128  6.444  0.389  -3.622 H30  EQM 91  
+EQM H31  H31  H  0 1 N N N 9.385  22.072 3.655  4.784  1.794  -2.468 H31  EQM 92  
+EQM H33  H33  H  0 1 N N N 6.878  25.368 2.275  12.845 0.169  -0.773 H33  EQM 93  
+EQM H33A H33A H  0 0 N N N 5.206  24.752 1.705  11.860 -1.354 -0.315 H33A EQM 94  
+EQM H35  H35  H  0 1 N N N 7.600  26.724 9.358  4.396  1.108  2.664  H35  EQM 95  
+EQM H35A H35A H  0 0 N N N 7.037  27.121 7.699  5.503  1.323  4.041  H35A EQM 96  
+EQM H35B H35B H  0 0 N N N 6.981  25.423 8.285  5.513  2.493  2.699  H35B EQM 97  
+EQM H36  H36  H  0 1 N N N 4.113  26.069 3.479  10.836 1.259  -1.471 H36  EQM 98  
+EQM H37  H37  H  0 1 N N N 5.264  27.456 4.898  9.622  -1.429 -0.493 H37  EQM 99  
+EQM H37A H37A H  0 0 N N N 6.584  27.550 3.683  9.073  -0.627 -1.984 H37A EQM 100 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+EQM BR  C22  SING N N 1   
+EQM C1  O1   SING N N 2   
+EQM C1  C2   SING N N 3   
+EQM C1  C7   SING N N 4   
+EQM C1  C25  SING N N 5   
+EQM N1  C2   SING N N 6   
+EQM N1  C3   SING N N 7   
+EQM C2  O2   DOUB N N 8   
+EQM N2  N3   SING N N 9   
+EQM N2  C9   SING N N 10  
+EQM N2  C10  SING N N 11  
+EQM C3  C4   SING N N 12  
+EQM C3  C34  SING N N 13  
+EQM N3  C12  SING N N 14  
+EQM O3  C12  DOUB N N 15  
+EQM C4  C5   SING N N 16  
+EQM C4  C6   SING N N 17  
+EQM C4  C35  SING N N 18  
+EQM N4  C13  SING N N 19  
+EQM N4  C18  SING N N 20  
+EQM O4  C18  DOUB N N 21  
+EQM N5  C34  SING N N 22  
+EQM N5  C37  SING N N 23  
+EQM O5  C18  SING N N 24  
+EQM O5  C19  SING N N 25  
+EQM O6  C34  DOUB N N 26  
+EQM C7  C8   SING N N 27  
+EQM C8  C9   SING N N 28  
+EQM C10 C11  SING N N 29  
+EQM C11 C20  DOUB Y N 30  
+EQM C11 C24  SING Y N 31  
+EQM C12 C13  SING N N 32  
+EQM C13 C14  SING N N 33  
+EQM C14 C15  SING N N 34  
+EQM C14 C16  SING N N 35  
+EQM C14 C17  SING N N 36  
+EQM C20 C21  SING Y N 37  
+EQM C21 C22  DOUB Y N 38  
+EQM C22 C23  SING Y N 39  
+EQM C23 C24  DOUB Y N 40  
+EQM C25 C26  SING N N 41  
+EQM C26 C27  DOUB Y N 42  
+EQM C26 C31  SING Y N 43  
+EQM C27 C28  SING Y N 44  
+EQM C28 C29  DOUB Y N 45  
+EQM C29 C30  SING Y N 46  
+EQM C30 C31  DOUB Y N 47  
+EQM C33 C36  DOUB N N 48  
+EQM C36 C37  SING N N 49  
+EQM N1  HN1  SING N N 50  
+EQM O1  HO1  SING N N 51  
+EQM C3  H3   SING N N 52  
+EQM N3  HN3  SING N N 53  
+EQM N4  HN4  SING N N 54  
+EQM C5  H5   SING N N 55  
+EQM C5  H5A  SING N N 56  
+EQM C5  H5B  SING N N 57  
+EQM N5  HN5  SING N N 58  
+EQM C6  H6   SING N N 59  
+EQM C6  H6A  SING N N 60  
+EQM C6  H6B  SING N N 61  
+EQM C7  H7   SING N N 62  
+EQM C7  H7A  SING N N 63  
+EQM C8  H8   SING N N 64  
+EQM C8  H8A  SING N N 65  
+EQM C9  H9   SING N N 66  
+EQM C9  H9A  SING N N 67  
+EQM C10 H10  SING N N 68  
+EQM C10 H10A SING N N 69  
+EQM C13 H13  SING N N 70  
+EQM C15 H15  SING N N 71  
+EQM C15 H15A SING N N 72  
+EQM C15 H15B SING N N 73  
+EQM C16 H16  SING N N 74  
+EQM C16 H16A SING N N 75  
+EQM C16 H16B SING N N 76  
+EQM C17 H17  SING N N 77  
+EQM C17 H17A SING N N 78  
+EQM C17 H17B SING N N 79  
+EQM C19 H19  SING N N 80  
+EQM C19 H19A SING N N 81  
+EQM C19 H19B SING N N 82  
+EQM C20 H20  SING N N 83  
+EQM C21 H21  SING N N 84  
+EQM C23 H23  SING N N 85  
+EQM C24 H24  SING N N 86  
+EQM C25 H25  SING N N 87  
+EQM C25 H25A SING N N 88  
+EQM C27 H27  SING N N 89  
+EQM C28 H28  SING N N 90  
+EQM C29 H29  SING N N 91  
+EQM C30 H30  SING N N 92  
+EQM C31 H31  SING N N 93  
+EQM C33 H33  SING N N 94  
+EQM C33 H33A SING N N 95  
+EQM C35 H35  SING N N 96  
+EQM C35 H35A SING N N 97  
+EQM C35 H35B SING N N 98  
+EQM C36 H36  SING N N 99  
+EQM C37 H37  SING N N 100 
+EQM C37 H37A SING N N 101 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+EQM InChI            InChI                1.03  
+;InChI=1S/C36H52BrN5O6/c1-9-21-38-30(43)28(34(2,3)4)39-32(45)36(47,23-25-14-11-10-12-15-25)20-13-22-42(24-26-16-18-27(37)19-17-26)41-31(44)29(35(5,6)7)40-33(46)48-8/h9-12,14-19,28-29,47H,1,13,20-24H2,2-8H3,(H,38,43)(H,39,45)(H,40,46)(H,41,44)/t28-,29-,36-/m1/s1
+;
+EQM InChIKey         InChI                1.03  SCBLWEFHRVDOAJ-DFNFTQNPSA-N 
+EQM SMILES_CANONICAL CACTVS               3.370 "COC(=O)N[C@H](C(=O)NN(CCC[C@@](O)(Cc1ccccc1)C(=O)N[C@H](C(=O)NCC=C)C(C)(C)C)Cc2ccc(Br)cc2)C(C)(C)C" 
+EQM SMILES           CACTVS               3.370 "COC(=O)N[CH](C(=O)NN(CCC[C](O)(Cc1ccccc1)C(=O)N[CH](C(=O)NCC=C)C(C)(C)C)Cc2ccc(Br)cc2)C(C)(C)C" 
+EQM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "CC(C)(C)[C@@H](C(=O)NCC=C)NC(=O)[C@@](CCCN(Cc1ccc(cc1)Br)NC(=O)[C@H](C(C)(C)C)NC(=O)OC)(Cc2ccccc2)O" 
+EQM SMILES           "OpenEye OEToolkits" 1.7.6 "CC(C)(C)C(C(=O)NCC=C)NC(=O)C(CCCN(Cc1ccc(cc1)Br)NC(=O)C(C(C)(C)C)NC(=O)OC)(Cc2ccccc2)O" 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+EQM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.6 
+"methyl N-[(2S)-1-[2-[(4-bromophenyl)methyl]-2-[(4R)-5-[[(2S)-3,3-dimethyl-1-oxidanylidene-1-(prop-2-enylamino)butan-2-yl]amino]-4-oxidanyl-5-oxidanylidene-4-(phenylmethyl)pentyl]hydrazinyl]-3,3-dimethyl-1-oxidanylidene-butan-2-yl]carbamate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+EQM "Create component" 2013-03-01 EBI  
+EQM "Initial release"  2013-11-06 RCSB 
+# 

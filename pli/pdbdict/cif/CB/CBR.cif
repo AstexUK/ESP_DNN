@@ -1,0 +1,158 @@
+data_CBR
+# 
+_chem_comp.id                                    CBR 
+_chem_comp.name                                  "5-BROMO-2'-DEOXY-CYTIDINE-5'-MONOPHOSPHATE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C9 H13 Br N3 O7 P" 
+_chem_comp.mon_nstd_parent_comp_id               DC 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-07-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         C32 
+_chem_comp.formula_weight                        386.093 
+_chem_comp.one_letter_code                       C 
+_chem_comp.three_letter_code                     CBR 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   Y 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1UHX 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CBR BR     BR   BR 0 0 N N N 15.283 13.751 3.838 -1.585 -5.035 0.251  BR     CBR 1  
+CBR P      P    P  0 1 N N N 21.022 15.792 1.707 -3.968 -1.665 3.118  P      CBR 2  
+CBR OP1    O1P  O  0 1 N N N 22.392 16.286 1.440 -4.406 -2.599 4.208  OP1    CBR 3  
+CBR OP2    O2P  O  0 1 N N N 20.825 14.410 2.225 -3.912 -2.311 1.636  OP2    CBR 4  
+CBR "O5'"  O5*  O  0 1 N N N 20.345 16.803 2.734 -2.493 -1.028 3.315  "O5'"  CBR 5  
+CBR N1     N1   N  0 1 N N N 16.366 17.714 4.516 1.164  -2.047 0.989  N1     CBR 6  
+CBR C6     C6   C  0 1 N N N 16.398 16.353 4.358 0.010  -2.813 0.936  C6     CBR 7  
+CBR C2     C2   C  0 1 N N N 15.136 18.391 4.545 2.347  -2.526 0.381  C2     CBR 8  
+CBR O2     O2   O  0 1 N N N 15.134 19.622 4.652 3.388  -1.868 0.410  O2     CBR 9  
+CBR N3     N3   N  0 1 N N N 13.987 17.687 4.445 2.319  -3.754 -0.254 N3     CBR 10 
+CBR C4     C4   C  0 1 N N N 14.028 16.359 4.309 1.226  -4.473 -0.301 C4     CBR 11 
+CBR N4     N4   N  0 1 N N N 12.869 15.698 4.250 1.260  -5.689 -0.947 N4     CBR 12 
+CBR C5     C5   C  0 1 N N N 15.260 15.648 4.241 -0.045 -4.000 0.330  C5     CBR 13 
+CBR "C2'"  C2*  C  0 1 N N N 18.689 17.902 5.537 0.710  0.360  0.754  "C2'"  CBR 14 
+CBR "C5'"  C5*  C  0 1 N N N 20.398 18.210 2.503 -2.005 -0.136 2.327  "C5'"  CBR 15 
+CBR "C4'"  C4*  C  0 1 N N R 19.593 18.937 3.553 -0.611 0.328  2.728  "C4'"  CBR 16 
+CBR "O4'"  O4*  O  0 1 N N N 18.189 18.630 3.388 0.247  -0.829 2.764  "O4'"  CBR 17 
+CBR "C1'"  C1*  C  0 1 N N R 17.603 18.504 4.661 1.157  -0.778 1.657  "C1'"  CBR 18 
+CBR "C3'"  C3*  C  0 1 N N S 19.954 18.549 4.990 0.008  1.286  1.720  "C3'"  CBR 19 
+CBR "O3'"  O3*  O  0 1 N N N 20.335 19.720 5.721 0.965  2.121  2.368  "O3'"  CBR 20 
+CBR OP3    O3P  O  0 1 N Y N ?      ?      ?     -4.901 -0.360 2.920  OP3    CBR 21 
+CBR HOP2   2HOP H  0 0 N N N 19.946 14.093 2.396 -4.684 -2.823 1.313  HOP2   CBR 22 
+CBR H6     H6   H  0 1 N N N 17.359 15.813 4.324 -0.857 -2.379 1.425  H6     CBR 23 
+CBR H41    1H4  H  0 1 N N N 12.900 14.683 4.146 0.456  -6.265 -0.897 H41    CBR 24 
+CBR H42    2H4  H  0 1 N N N 12.296 16.092 3.503 2.088  -5.933 -1.433 H42    CBR 25 
+CBR "H2'"  1H2* H  0 1 N N N 18.532 18.033 6.633 -0.003 -0.001 0.003  "H2'"  CBR 26 
+CBR "H2''" 2H2* H  0 0 N N N 18.706 16.787 5.561 1.556  0.818  0.232  "H2''" CBR 27 
+CBR "H5'"  1H5* H  0 1 N N N 21.446 18.584 2.446 -1.971 -0.654 1.366  "H5'"  CBR 28 
+CBR "H5''" 2H5* H  0 0 N N N 20.074 18.476 1.469 -2.683 0.718  2.254  "H5''" CBR 29 
+CBR "H4'"  H4*  H  0 1 N N N 19.823 20.018 3.406 -0.644 0.753  3.736  "H4'"  CBR 30 
+CBR "H1'"  H1*  H  0 1 N N N 17.273 19.454 5.142 2.163  -0.604 2.054  "H1'"  CBR 31 
+CBR "H3'"  H3*  H  0 1 N N N 20.819 17.850 5.064 -0.722 1.941  1.236  "H3'"  CBR 32 
+CBR "HO3'" H3T  H  0 0 N Y N 21.124 20.123 5.379 0.736  3.043  2.156  "HO3'" CBR 33 
+CBR HOP3   3HOP H  0 0 N N N -0.879 -0.317 0.171 -5.874 -0.475 2.871  HOP3   CBR 34 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CBR BR    C5     SING N N 1  
+CBR P     OP1    DOUB N N 2  
+CBR P     OP2    SING N N 3  
+CBR P     "O5'"  SING N N 4  
+CBR P     OP3    SING N N 5  
+CBR OP2   HOP2   SING N N 6  
+CBR "O5'" "C5'"  SING N N 7  
+CBR N1    C6     SING N N 8  
+CBR N1    C2     SING N N 9  
+CBR N1    "C1'"  SING N N 10 
+CBR C6    C5     DOUB N N 11 
+CBR C6    H6     SING N N 12 
+CBR C2    O2     DOUB N N 13 
+CBR C2    N3     SING N N 14 
+CBR N3    C4     DOUB N N 15 
+CBR C4    N4     SING N N 16 
+CBR C4    C5     SING N N 17 
+CBR N4    H41    SING N N 18 
+CBR N4    H42    SING N N 19 
+CBR "C2'" "C1'"  SING N N 20 
+CBR "C2'" "C3'"  SING N N 21 
+CBR "C2'" "H2'"  SING N N 22 
+CBR "C2'" "H2''" SING N N 23 
+CBR "C5'" "C4'"  SING N N 24 
+CBR "C5'" "H5'"  SING N N 25 
+CBR "C5'" "H5''" SING N N 26 
+CBR "C4'" "O4'"  SING N N 27 
+CBR "C4'" "C3'"  SING N N 28 
+CBR "C4'" "H4'"  SING N N 29 
+CBR "O4'" "C1'"  SING N N 30 
+CBR "C1'" "H1'"  SING N N 31 
+CBR "C3'" "O3'"  SING N N 32 
+CBR "C3'" "H3'"  SING N N 33 
+CBR "O3'" "HO3'" SING N N 34 
+CBR OP3   HOP3   SING N N 35 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CBR SMILES           ACDLabs              10.04 "BrC=1C(=NC(=O)N(C=1)C2OC(C(O)C2)COP(=O)(O)O)N"                                                                                                
+CBR SMILES_CANONICAL CACTVS               3.341 "NC1=NC(=O)N(C=C1Br)[C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)O2"                                                                                    
+CBR SMILES           CACTVS               3.341 "NC1=NC(=O)N(C=C1Br)[CH]2C[CH](O)[CH](CO[P](O)(O)=O)O2"                                                                                        
+CBR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "C1[C@@H]([C@H](O[C@H]1N2C=C(C(=NC2=O)N)Br)COP(=O)(O)O)O"                                                                                      
+CBR SMILES           "OpenEye OEToolkits" 1.5.0 "C1C(C(OC1N2C=C(C(=NC2=O)N)Br)COP(=O)(O)O)O"                                                                                                   
+CBR InChI            InChI                1.03  "InChI=1S/C9H13BrN3O7P/c10-4-2-13(9(15)12-8(4)11)7-1-5(14)6(20-7)3-19-21(16,17)18/h2,5-7,14H,1,3H2,(H2,11,12,15)(H2,16,17,18)/t5-,6+,7+/m0/s1" 
+CBR InChIKey         InChI                1.03  PLDRCXOBLRYJSZ-RRKCRQDMSA-N                                                                                                                    
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CBR "SYSTEMATIC NAME" ACDLabs              10.04 
+;5-bromo-2'-deoxycytidine 5'-(dihydrogen phosphate)
+;
+CBR "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-5-(4-amino-5-bromo-2-oxo-pyrimidin-1-yl)-3-hydroxy-oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CBR "Create component"  2003-07-16 RCSB 
+CBR "Modify descriptor" 2011-06-04 RCSB 
+# 

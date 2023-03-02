@@ -1,0 +1,219 @@
+data_ADQ
+# 
+_chem_comp.id                                    ADQ 
+_chem_comp.name                                  "ADENOSINE-5'-DIPHOSPHATE-GLUCOSE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C16 H25 N5 O15 P2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         
+;ADENOSINE-5'-MONOPHOSPHATE GLUCOPYRANOSYL-MONOPHOSPHATE ESTER
+;
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2000-04-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        589.342 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ADQ 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1EQ2 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ADQ PB     PB     P 0 1 N N S 31.645 46.603 87.718 -0.941 0.240  -3.363 PB     ADQ 1  
+ADQ O1B    O1B    O 0 1 N N N 31.412 45.855 86.437 -2.379 0.329  -3.700 O1B    ADQ 2  
+ADQ O2B    O2B    O 0 1 N N N 33.005 47.520 87.719 -0.330 1.723  -3.223 O2B    ADQ 3  
+ADQ O3B    O3B    O 0 1 N N N 31.715 45.655 88.882 -0.165 -0.551 -4.530 O3B    ADQ 4  
+ADQ PA     PA     P 0 1 N N R 30.197 49.000 88.677 -1.560 0.296  -0.854 PA     ADQ 5  
+ADQ O1A    O1A    O 0 1 N N N 31.487 49.515 89.220 -2.989 0.384  -1.229 O1A    ADQ 6  
+ADQ O2A    O2A    O 0 1 N N N 29.235 48.772 89.775 -0.939 1.778  -0.756 O2A    ADQ 7  
+ADQ O3A    O3A    O 0 1 N N N 30.466 47.649 87.857 -0.763 -0.546 -1.970 O3A    ADQ 8  
+ADQ O5D    O5*    O 0 1 N N N 29.539 49.923 87.523 -1.424 -0.437 0.571  O5D    ADQ 9  
+ADQ C5D    C5*    C 0 1 N N N 29.943 51.286 87.281 -2.149 0.354  1.515  C5D    ADQ 10 
+ADQ C4D    C4*    C 0 1 N N R 30.152 51.408 85.774 -2.059 -0.291 2.899  C4D    ADQ 11 
+ADQ O4D    O4*    O 0 1 N N N 30.810 52.644 85.464 -0.684 -0.353 3.336  O4D    ADQ 12 
+ADQ C3D    C3*    C 0 1 N N S 31.027 50.310 85.219 -2.769 0.587  3.952  C3D    ADQ 13 
+ADQ O3D    O3*    O 0 1 N N N 30.425 49.698 84.083 -4.088 0.098  4.205  O3D    ADQ 14 
+ADQ C2D    C2*    C 0 1 N N R 32.366 50.944 84.841 -1.887 0.447  5.215  C2D    ADQ 15 
+ADQ O2D    O2*    O 0 1 N N N 32.685 50.738 83.454 -2.636 -0.129 6.287  O2D    ADQ 16 
+ADQ C1D    C1*    C 0 1 N N R 32.213 52.410 85.231 -0.748 -0.496 4.772  C1D    ADQ 17 
+ADQ N9     N9     N 0 1 Y N N 32.970 52.814 86.478 0.519  -0.087 5.382  N9     ADQ 18 
+ADQ C8     C8     C 0 1 Y N N 32.992 52.122 87.623 1.407  0.810  4.871  C8     ADQ 19 
+ADQ N7     N7     N 0 1 Y N N 33.891 52.671 88.457 2.425  0.935  5.673  N7     ADQ 20 
+ADQ C5     C5     C 0 1 Y N N 34.440 53.709 87.867 2.252  0.131  6.750  C5     ADQ 21 
+ADQ C6     C6     C 0 1 Y N N 35.398 54.667 88.215 3.003  -0.150 7.903  C6     ADQ 22 
+ADQ N6     N6     N 0 1 N N N 35.991 54.639 89.420 4.217  0.474  8.128  N6     ADQ 23 
+ADQ N1     N1     N 0 1 Y N N 35.732 55.641 87.325 2.517  -1.027 8.776  N1     ADQ 24 
+ADQ C2     C2     C 0 1 Y N N 35.159 55.710 86.113 1.360  -1.628 8.569  C2     ADQ 25 
+ADQ N3     N3     N 0 1 Y N N 34.239 54.806 85.769 0.626  -1.400 7.501  N3     ADQ 26 
+ADQ C4     C4     C 0 1 Y N N 33.851 53.806 86.589 1.029  -0.538 6.573  C4     ADQ 27 
+ADQ "C1'"  "C1'"  C 0 1 N N R 30.814 44.536 89.169 -0.359 0.192  -5.734 "C1'"  ADQ 28 
+ADQ "C2'"  "C2'"  C 0 1 N N R 30.276 44.550 90.634 -0.348 -0.762 -6.930 "C2'"  ADQ 29 
+ADQ "C3'"  "C3'"  C 0 1 N N S 31.431 44.330 91.681 0.989  -1.506 -6.964 "C3'"  ADQ 30 
+ADQ "C4'"  "C4'"  C 0 1 N N S 32.162 42.971 91.405 2.124  -0.475 -6.943 "C4'"  ADQ 31 
+ADQ "C5'"  "C5'"  C 0 1 N N R 32.566 42.878 89.893 1.927  0.457  -5.746 "C5'"  ADQ 32 
+ADQ "C6'"  "C6'"  C 0 1 N N N 33.142 41.499 89.453 3.074  1.469  -5.699 "C6'"  ADQ 33 
+ADQ "O2'"  "O2'"  O 0 1 N N N 29.596 45.824 90.911 -1.415 -1.703 -6.801 "O2'"  ADQ 34 
+ADQ "O3'"  "O3'"  O 0 1 N N N 30.885 44.427 93.030 1.076  -2.290 -8.156 "O3'"  ADQ 35 
+ADQ "O4'"  "O4'"  O 0 1 N N N 33.397 42.684 92.129 3.380  -1.146 -6.825 "O4'"  ADQ 36 
+ADQ "O5'"  "O5'"  O 0 1 N N N 31.501 43.273 88.943 0.687  1.151  -5.873 "O5'"  ADQ 37 
+ADQ "O6'"  "O6'"  O 0 1 N N N 32.165 40.710 88.694 2.896  2.338  -4.578 "O6'"  ADQ 38 
+ADQ HOB2   2HOB   H 0 0 N N N 33.152 47.993 88.529 0.605  1.620  -3.004 HOB2   ADQ 39 
+ADQ HOA2   2HOA   H 0 0 N N N 28.413 48.443 89.429 -0.010 1.676  -0.510 HOA2   ADQ 40 
+ADQ "H5'1" 1H5*   H 0 0 N N N 29.230 52.039 87.692 -3.193 0.417  1.210  "H5'1" ADQ 41 
+ADQ "H5'2" 2H5*   H 0 0 N N N 30.831 51.597 87.878 -1.720 1.356  1.553  "H5'2" ADQ 42 
+ADQ H4D    H4*    H 0 1 N N N 29.135 51.346 85.319 -2.497 -1.289 2.880  H4D    ADQ 43 
+ADQ H3D    H3*    H 0 1 N N N 31.169 49.508 85.981 -2.804 1.625  3.622  H3D    ADQ 44 
+ADQ "HO3'" *HO3   H 0 0 N N N 30.975 49.007 83.733 -4.481 0.684  4.867  "HO3'" ADQ 45 
+ADQ H2D    H2*    H 0 1 N N N 33.231 50.481 85.370 -1.485 1.416  5.510  H2D    ADQ 46 
+ADQ "HO2'" *HO2   H 0 0 N N N 33.517 51.131 83.219 -3.366 0.476  6.476  "HO2'" ADQ 47 
+ADQ H1D    H1*    H 0 1 N N N 32.638 53.017 84.398 -0.982 -1.526 5.041  H1D    ADQ 48 
+ADQ H8     H8     H 0 1 N N N 32.368 51.239 87.844 1.285  1.340  3.938  H8     ADQ 49 
+ADQ HN61   1HN6   H 0 0 N N N 36.689 55.337 89.673 4.724  0.274  8.930  HN61   ADQ 50 
+ADQ HN62   2HN6   H 0 0 N N N 36.402 53.715 89.550 4.562  1.110  7.482  HN62   ADQ 51 
+ADQ H2     H2     H 0 1 N N N 35.442 56.505 85.403 1.003  -2.334 9.304  H2     ADQ 52 
+ADQ "H1'"  "H1'"  H 0 1 N N N 29.944 44.647 88.480 -1.318 0.708  -5.691 "H1'"  ADQ 53 
+ADQ "H2'"  "H2'"  H 0 1 N N N 29.552 43.707 90.734 -0.472 -0.194 -7.852 "H2'"  ADQ 54 
+ADQ "H3'"  "H3'"  H 0 1 N N N 32.204 45.126 91.580 1.069  -2.156 -6.092 "H3'"  ADQ 55 
+ADQ "H4'"  "H4'"  H 0 1 N N N 31.398 42.238 91.755 2.106  0.104  -7.865 "H4'"  ADQ 56 
+ADQ "H5'"  "H5'"  H 0 1 N N N 33.385 43.632 89.838 1.922  -0.127 -4.827 "H5'"  ADQ 57 
+ADQ "H6'1" "1H6'" H 0 0 N N N 34.092 41.621 88.883 4.022  0.940  -5.602 "H6'1" ADQ 58 
+ADQ "H6'2" "2H6'" H 0 0 N N N 33.532 40.926 90.326 3.078  2.057  -6.617 "H6'2" ADQ 59 
+ADQ HO2A   "'HO2" H 0 0 N N N 29.268 45.832 91.802 -2.237 -1.193 -6.783 HO2A   ADQ 60 
+ADQ HO3A   "'HO3" H 0 0 N N N 31.581 44.294 93.661 0.346  -2.924 -8.127 HO3A   ADQ 61 
+ADQ "HO4'" "'HO4" H 0 0 N N N 33.840 41.860 91.961 3.463  -1.723 -7.597 "HO4'" ADQ 62 
+ADQ "HO6'" "'HO6" H 0 0 N N N 32.516 39.869 88.425 3.638  2.958  -4.585 "HO6'" ADQ 63 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ADQ PB    O1B    DOUB N N 1  
+ADQ PB    O2B    SING N N 2  
+ADQ PB    O3B    SING N N 3  
+ADQ PB    O3A    SING N N 4  
+ADQ O2B   HOB2   SING N N 5  
+ADQ O3B   "C1'"  SING N N 6  
+ADQ PA    O1A    DOUB N N 7  
+ADQ PA    O2A    SING N N 8  
+ADQ PA    O3A    SING N N 9  
+ADQ PA    O5D    SING N N 10 
+ADQ O2A   HOA2   SING N N 11 
+ADQ O5D   C5D    SING N N 12 
+ADQ C5D   C4D    SING N N 13 
+ADQ C5D   "H5'1" SING N N 14 
+ADQ C5D   "H5'2" SING N N 15 
+ADQ C4D   O4D    SING N N 16 
+ADQ C4D   C3D    SING N N 17 
+ADQ C4D   H4D    SING N N 18 
+ADQ O4D   C1D    SING N N 19 
+ADQ C3D   O3D    SING N N 20 
+ADQ C3D   C2D    SING N N 21 
+ADQ C3D   H3D    SING N N 22 
+ADQ O3D   "HO3'" SING N N 23 
+ADQ C2D   O2D    SING N N 24 
+ADQ C2D   C1D    SING N N 25 
+ADQ C2D   H2D    SING N N 26 
+ADQ O2D   "HO2'" SING N N 27 
+ADQ C1D   N9     SING N N 28 
+ADQ C1D   H1D    SING N N 29 
+ADQ N9    C8     SING Y N 30 
+ADQ N9    C4     SING Y N 31 
+ADQ C8    N7     DOUB Y N 32 
+ADQ C8    H8     SING N N 33 
+ADQ N7    C5     SING Y N 34 
+ADQ C5    C6     SING Y N 35 
+ADQ C5    C4     DOUB Y N 36 
+ADQ C6    N6     SING N N 37 
+ADQ C6    N1     DOUB Y N 38 
+ADQ N6    HN61   SING N N 39 
+ADQ N6    HN62   SING N N 40 
+ADQ N1    C2     SING Y N 41 
+ADQ C2    N3     DOUB Y N 42 
+ADQ C2    H2     SING N N 43 
+ADQ N3    C4     SING Y N 44 
+ADQ "C1'" "C2'"  SING N N 45 
+ADQ "C1'" "O5'"  SING N N 46 
+ADQ "C1'" "H1'"  SING N N 47 
+ADQ "C2'" "C3'"  SING N N 48 
+ADQ "C2'" "O2'"  SING N N 49 
+ADQ "C2'" "H2'"  SING N N 50 
+ADQ "C3'" "C4'"  SING N N 51 
+ADQ "C3'" "O3'"  SING N N 52 
+ADQ "C3'" "H3'"  SING N N 53 
+ADQ "C4'" "C5'"  SING N N 54 
+ADQ "C4'" "O4'"  SING N N 55 
+ADQ "C4'" "H4'"  SING N N 56 
+ADQ "C5'" "C6'"  SING N N 57 
+ADQ "C5'" "O5'"  SING N N 58 
+ADQ "C5'" "H5'"  SING N N 59 
+ADQ "C6'" "O6'"  SING N N 60 
+ADQ "C6'" "H6'1" SING N N 61 
+ADQ "C6'" "H6'2" SING N N 62 
+ADQ "O2'" HO2A   SING N N 63 
+ADQ "O3'" HO3A   SING N N 64 
+ADQ "O4'" "HO4'" SING N N 65 
+ADQ "O6'" "HO6'" SING N N 66 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ADQ SMILES           ACDLabs              10.04 "O=P(OC1OC(C(O)C(O)C1O)CO)(O)OP(=O)(O)OCC4OC(n2c3ncnc(N)c3nc2)C(O)C4O" 
+ADQ SMILES_CANONICAL CACTVS               3.341 "Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P@](O)(=O)O[P@](O)(=O)O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H]3O" 
+ADQ SMILES           CACTVS               3.341 "Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(=O)O[P](O)(=O)O[CH]4O[CH](CO)[CH](O)[CH](O)[CH]4O)[CH](O)[CH]3O" 
+ADQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@@](=O)(O)O[C@@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)N" 
+ADQ SMILES           "OpenEye OEToolkits" 1.5.0 "c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OC4C(C(C(C(O4)CO)O)O)O)O)O)N" 
+ADQ InChI            InChI                1.03  
+"InChI=1S/C16H25N5O15P2/c17-13-7-14(19-3-18-13)21(4-20-7)15-11(26)9(24)6(33-15)2-32-37(28,29)36-38(30,31)35-16-12(27)10(25)8(23)5(1-22)34-16/h3-6,8-12,15-16,22-27H,1-2H2,(H,28,29)(H,30,31)(H2,17,18,19)/t5-,6-,8-,9-,10+,11-,12-,15-,16-/m1/s1" 
+ADQ InChIKey         InChI                1.03  WFPZSXYXPSUOPY-ROYWQJLOSA-N 
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ADQ "SYSTEMATIC NAME" ACDLabs              10.04 "[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl]methyl (2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl dihydrogen diphosphate (non-preferred name)" 
+ADQ "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl] [(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] hydrogen phosphate"                             
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ADQ "Create component"  2000-04-06 RCSB 
+ADQ "Modify descriptor" 2011-06-04 RCSB 
+# 

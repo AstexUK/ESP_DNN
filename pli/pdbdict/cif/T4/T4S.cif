@@ -1,0 +1,160 @@
+data_T4S
+# 
+_chem_comp.id                                    T4S 
+_chem_comp.name                                  "1-(2-DEOXY-5-O-PHOSPHONO-BETA-D-ERYTHRO-PENTOFURANOSYL)-4-HYDROSELENO-5-METHYLPYRIMIDIN-2(1H)-ONE" 
+_chem_comp.type                                  "DNA LINKING" 
+_chem_comp.pdbx_type                             ATOMN 
+_chem_comp.formula                               "C10 H15 N2 O7 P Se" 
+_chem_comp.mon_nstd_parent_comp_id               DT 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2006-11-06 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        385.169 
+_chem_comp.one_letter_code                       T 
+_chem_comp.three_letter_code                     T4S 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   Y 
+_chem_comp.pdbx_model_coordinates_db_code        2NSK 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+T4S OP3    O3P  O  0 1 N Y N 2.849 13.226 5.199  ? ? ? OP3    T4S 1  
+T4S P      P    P  0 1 N N N 4.155 12.556 4.527  ? ? ? P      T4S 2  
+T4S OP1    O1P  O  0 1 N N N 4.040 12.849 3.058  ? ? ? OP1    T4S 3  
+T4S OP2    O2P  O  0 1 N N N 4.353 11.191 4.967  ? ? ? OP2    T4S 4  
+T4S "O5'"  O5*  O  0 1 N N N 5.361 13.407 5.139  ? ? ? "O5'"  T4S 5  
+T4S N1     N1   N  0 1 N N N 7.627 13.865 8.359  ? ? ? N1     T4S 6  
+T4S C6     C6   C  0 1 N N N 6.641 12.986 7.988  ? ? ? C6     T4S 7  
+T4S C2     C2   C  0 1 N N N 8.486 13.591 9.413  ? ? ? C2     T4S 8  
+T4S O2     O2   O  0 1 N N N 9.392 14.343 9.740  ? ? ? O2     T4S 9  
+T4S N3     N3   N  0 1 N N N 8.263 12.381 10.058 ? ? ? N3     T4S 10 
+T4S C4     C4   C  0 1 N N N 7.305 11.426 9.735  ? ? ? C4     T4S 11 
+T4S SE     SE   SE 0 0 N N N 7.086 9.919  10.541 ? ? ? SE     T4S 12 
+T4S C5     C5   C  0 1 N N N 6.436 11.774 8.602  ? ? ? C5     T4S 13 
+T4S C5A    C5A  C  0 1 N N N 5.380 10.806 8.173  ? ? ? C5A    T4S 14 
+T4S "C2'"  C2*  C  0 1 N N N 8.789 14.856 6.477  ? ? ? "C2'"  T4S 15 
+T4S "C5'"  C5*  C  0 1 N N N 5.363 14.821 5.029  ? ? ? "C5'"  T4S 16 
+T4S "C4'"  C4*  C  0 1 N N R 6.625 15.411 5.614  ? ? ? "C4'"  T4S 17 
+T4S "O4'"  O4*  O  0 1 N N N 6.543 15.365 7.062  ? ? ? "O4'"  T4S 18 
+T4S "C1'"  C1*  C  0 1 N N R 7.849 15.152 7.620  ? ? ? "C1'"  T4S 19 
+T4S "C3'"  C3*  C  0 1 N N S 7.887 14.635 5.274  ? ? ? "C3'"  T4S 20 
+T4S "O3'"  O3*  O  0 1 N N N 8.530 15.121 4.123  ? ? ? "O3'"  T4S 21 
+T4S HOP3   3HOP H  0 0 N N N 3.002 13.358 6.127  ? ? ? HOP3   T4S 22 
+T4S HOP2   2HOP H  0 0 N N N 4.396 10.617 4.211  ? ? ? HOP2   T4S 23 
+T4S H6     H6   H  0 1 N N N 5.992 13.261 7.170  ? ? ? H6     T4S 24 
+T4S HSE    HSE  H  0 1 N N N 7.022 8.814  9.528  ? ? ? HSE    T4S 25 
+T4S H5A1   1H5A H  0 0 N N N 4.730 10.568 9.028  ? ? ? H5A1   T4S 26 
+T4S H5A2   2H5A H  0 0 N N N 4.778 11.253 7.369  ? ? ? H5A2   T4S 27 
+T4S H5A3   3H5A H  0 0 N N N 5.855 9.884  7.806  ? ? ? H5A3   T4S 28 
+T4S "H2'"  1H2* H  0 1 N N N 9.394 13.961 6.686  ? ? ? "H2'"  T4S 29 
+T4S "H2''" 2H2* H  0 0 N N N 9.504 15.675 6.310  ? ? ? "H2''" T4S 30 
+T4S "H5'"  1H5* H  0 1 N N N 5.300 15.096 3.966  ? ? ? "H5'"  T4S 31 
+T4S "H5''" 2H5* H  0 0 N N N 4.501 15.217 5.586  ? ? ? "H5''" T4S 32 
+T4S "H4'"  H4*  H  0 1 N N N 6.692 16.425 5.193  ? ? ? "H4'"  T4S 33 
+T4S "H1'"  H1*  H  0 1 N N N 8.248 15.983 8.220  ? ? ? "H1'"  T4S 34 
+T4S "H3'"  H3*  H  0 1 N N N 7.654 13.580 5.067  ? ? ? "H3'"  T4S 35 
+T4S "HO3'" H3T  H  0 0 N Y N 7.893 15.231 3.426  ? ? ? "HO3'" T4S 36 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+T4S OP3   P      SING N N 1  
+T4S OP3   HOP3   SING N N 2  
+T4S P     OP1    DOUB N N 3  
+T4S P     OP2    SING N N 4  
+T4S P     "O5'"  SING N N 5  
+T4S OP2   HOP2   SING N N 6  
+T4S "O5'" "C5'"  SING N N 7  
+T4S N1    "C1'"  SING N N 8  
+T4S N1    C6     SING N N 9  
+T4S N1    C2     SING N N 10 
+T4S C6    C5     DOUB N N 11 
+T4S C6    H6     SING N N 12 
+T4S C2    O2     DOUB N N 13 
+T4S C2    N3     SING N N 14 
+T4S N3    C4     DOUB N N 15 
+T4S C4    C5     SING N N 16 
+T4S C4    SE     SING N N 17 
+T4S SE    HSE    SING N N 18 
+T4S C5    C5A    SING N N 19 
+T4S C5A   H5A1   SING N N 20 
+T4S C5A   H5A2   SING N N 21 
+T4S C5A   H5A3   SING N N 22 
+T4S "C2'" "C3'"  SING N N 23 
+T4S "C2'" "C1'"  SING N N 24 
+T4S "C2'" "H2'"  SING N N 25 
+T4S "C2'" "H2''" SING N N 26 
+T4S "C5'" "C4'"  SING N N 27 
+T4S "C5'" "H5'"  SING N N 28 
+T4S "C5'" "H5''" SING N N 29 
+T4S "C4'" "C3'"  SING N N 30 
+T4S "C4'" "O4'"  SING N N 31 
+T4S "C4'" "H4'"  SING N N 32 
+T4S "O4'" "C1'"  SING N N 33 
+T4S "C1'" "H1'"  SING N N 34 
+T4S "C3'" "O3'"  SING N N 35 
+T4S "C3'" "H3'"  SING N N 36 
+T4S "O3'" "HO3'" SING N N 37 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+T4S SMILES           ACDLabs              10.04 "O=C1N=C([SeH])C(=CN1C2OC(C(O)C2)COP(=O)(O)O)C"                                                                                                    
+T4S SMILES_CANONICAL CACTVS               3.341 "CC1=CN([C@H]2C[C@H](O)[C@@H](CO[P](O)(O)=O)O2)C(=O)N=C1[SeH]"                                                                                     
+T4S SMILES           CACTVS               3.341 "CC1=CN([CH]2C[CH](O)[CH](CO[P](O)(O)=O)O2)C(=O)N=C1[SeH]"                                                                                         
+T4S SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)N=C1[SeH])[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O"                                                                                       
+T4S SMILES           "OpenEye OEToolkits" 1.5.0 "CC1=CN(C(=O)N=C1[SeH])C2CC(C(O2)COP(=O)(O)O)O"                                                                                                    
+T4S InChI            InChI                1.03  "InChI=1S/C10H15N2O7PSe/c1-5-3-12(10(14)11-9(5)21)8-2-6(13)7(19-8)4-18-20(15,16)17/h3,6-8,13H,2,4H2,1H3,(H,11,14,21)(H2,15,16,17)/t6-,7+,8+/m0/s1" 
+T4S InChIKey         InChI                1.03  HXENXQZDSWUILN-XLPZGREQSA-N                                                                                                                        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+T4S "SYSTEMATIC NAME" ACDLabs              10.04 "1-(2-deoxy-5-O-phosphono-beta-D-erythro-pentofuranosyl)-5-methyl-4-selanylpyrimidin-2(1H)-one"            
+T4S "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "[(2R,3S,5R)-3-hydroxy-5-(5-methyl-2-oxo-4-selanyl-pyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+T4S "Create component"  2006-11-06 PDBJ 
+T4S "Modify descriptor" 2011-06-04 RCSB 
+# 

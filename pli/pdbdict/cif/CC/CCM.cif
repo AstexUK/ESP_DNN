@@ -1,0 +1,129 @@
+data_CCM
+# 
+_chem_comp.id                                    CCM 
+_chem_comp.name                                  1-METHYL-1-CARBOXY-CYCLOPENTANE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C7 H12 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        128.169 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     CCM 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1THL 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+CCM CH2  CH2  C 0 1 N N N 35.543 41.348 -3.995 1.208  1.492  0.167  CH2  CCM 1  
+CCM CA   CA   C 0 1 N N N 36.769 41.879 -3.193 0.242  0.318  0.003  CA   CCM 2  
+CCM CB1  CB1  C 0 1 N N N 36.841 43.422 -3.179 -0.940 0.728  -0.898 CB1  CCM 3  
+CCM CB2  CB2  C 0 1 N N N 36.439 41.576 -1.715 0.949  -0.851 -0.704 CB2  CCM 4  
+CCM CG1  CG1  C 0 1 N N N 37.403 43.807 -1.807 -0.530 0.237  -2.309 CG1  CCM 5  
+CCM CG2  CG2  C 0 1 N N N 36.848 42.747 -0.827 0.171  -1.110 -2.011 CG2  CCM 6  
+CCM C    C    C 0 1 N N N 38.099 41.213 -3.573 -0.266 -0.123 1.351  C    CCM 7  
+CCM O    O    O 0 1 N N N 39.155 41.849 -3.742 -1.451 -0.104 1.586  O    CCM 8  
+CCM OXT  OXT  O 0 1 N Y N 38.068 39.901 -3.669 0.597  -0.538 2.291  OXT  CCM 9  
+CCM HH21 1HH2 H 0 0 N N N 35.491 40.234 -4.005 0.685  2.333  0.623  HH21 CCM 10 
+CCM HH22 2HH2 H 0 0 N N N 34.592 41.791 -3.616 2.039  1.193  0.805  HH22 CCM 11 
+CCM HH23 3HH2 H 0 0 N N N 35.531 41.760 -5.031 1.589  1.789  -0.810 HH23 CCM 12 
+CCM HB11 1HB1 H 0 0 N N N 37.419 43.847 -4.031 -1.856 0.235  -0.574 HB11 CCM 13 
+CCM HB12 2HB1 H 0 0 N N N 35.869 43.914 -3.415 -1.066 1.811  -0.893 HB12 CCM 14 
+CCM HB21 1HB2 H 0 0 N N N 35.366 41.305 -1.576 1.980  -0.581 -0.930 HB21 CCM 15 
+CCM HB22 2HB2 H 0 0 N N N 36.897 40.617 -1.375 0.924  -1.739 -0.072 HB22 CCM 16 
+CCM HG11 1HG1 H 0 0 N N N 38.513 43.900 -1.786 -1.409 0.085  -2.935 HG11 CCM 17 
+CCM HG12 2HG1 H 0 0 N N N 37.178 44.857 -1.507 0.161  0.938  -2.776 HG12 CCM 18 
+CCM HG21 1HG2 H 0 0 N N N 36.031 43.122 -0.166 -0.565 -1.900 -1.866 HG21 CCM 19 
+CCM HG22 2HG2 H 0 0 N N N 37.554 42.471 -0.009 0.857  -1.369 -2.817 HG22 CCM 20 
+CCM HXT  HXT  H 0 1 N N N 38.891 39.488 -3.904 0.271  -0.822 3.156  HXT  CCM 21 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+CCM CH2 CA   SING N N 1  
+CCM CH2 HH21 SING N N 2  
+CCM CH2 HH22 SING N N 3  
+CCM CH2 HH23 SING N N 4  
+CCM CA  CB1  SING N N 5  
+CCM CA  CB2  SING N N 6  
+CCM CA  C    SING N N 7  
+CCM CB1 CG1  SING N N 8  
+CCM CB1 HB11 SING N N 9  
+CCM CB1 HB12 SING N N 10 
+CCM CB2 CG2  SING N N 11 
+CCM CB2 HB21 SING N N 12 
+CCM CB2 HB22 SING N N 13 
+CCM CG1 CG2  SING N N 14 
+CCM CG1 HG11 SING N N 15 
+CCM CG1 HG12 SING N N 16 
+CCM CG2 HG21 SING N N 17 
+CCM CG2 HG22 SING N N 18 
+CCM C   O    DOUB N N 19 
+CCM C   OXT  SING N N 20 
+CCM OXT HXT  SING N N 21 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+CCM SMILES           ACDLabs              10.04 "O=C(O)C1(C)CCCC1"                                         
+CCM SMILES_CANONICAL CACTVS               3.341 "CC1(CCCC1)C(O)=O"                                         
+CCM SMILES           CACTVS               3.341 "CC1(CCCC1)C(O)=O"                                         
+CCM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CC1(CCCC1)C(=O)O"                                         
+CCM SMILES           "OpenEye OEToolkits" 1.5.0 "CC1(CCCC1)C(=O)O"                                         
+CCM InChI            InChI                1.03  "InChI=1S/C7H12O2/c1-7(6(8)9)4-2-3-5-7/h2-5H2,1H3,(H,8,9)" 
+CCM InChIKey         InChI                1.03  MNIBBVOEXUQHFF-UHFFFAOYSA-N                                
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+CCM "SYSTEMATIC NAME" ACDLabs              10.04 "1-methylcyclopentanecarboxylic acid"    
+CCM "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "1-methylcyclopentane-1-carboxylic acid" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+CCM "Create component"  1999-07-08 RCSB 
+CCM "Modify descriptor" 2011-06-04 RCSB 
+# 

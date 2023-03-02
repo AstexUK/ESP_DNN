@@ -1,0 +1,116 @@
+data_AZA
+# 
+_chem_comp.id                                    AZA 
+_chem_comp.name                                  8-AZAXANTHINE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C4 H3 N5 O2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        153.099 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     AZA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+AZA N1  N1  N 0 1 Y N N 30.952 27.744 36.448 0.754  -0.000 -1.626 N1  AZA 1  
+AZA C2  C2  C 0 1 Y N N 32.215 27.427 36.008 -0.583 -0.001 -1.747 C2  AZA 2  
+AZA O2  O2  O 0 1 N N N 32.603 27.774 34.915 -1.071 -0.001 -2.861 O2  AZA 3  
+AZA N3  N3  N 0 1 Y N N 33.038 26.705 36.814 -1.401 0.003  -0.680 N3  AZA 4  
+AZA C4  C4  C 0 1 Y N N 32.620 26.324 38.012 -0.893 -0.000 0.598  C4  AZA 5  
+AZA C5  C5  C 0 1 Y N N 31.364 26.629 38.477 0.485  -0.000 0.781  C5  AZA 6  
+AZA C6  C6  C 0 1 Y N N 30.419 27.396 37.668 1.342  0.000  -0.411 C6  AZA 7  
+AZA O6  O6  O 0 1 N N N 29.271 27.733 37.962 2.554  0.000  -0.306 O6  AZA 8  
+AZA N7  N7  N 0 1 Y N N 31.241 26.113 39.697 0.730  -0.000 2.101  N7  AZA 9  
+AZA N8  N8  N 0 1 Y N N 32.433 25.519 39.911 -0.383 -0.000 2.748  N8  AZA 10 
+AZA N9  N9  N 0 1 Y N N 33.305 25.625 38.903 -1.444 -0.000 1.829  N9  AZA 11 
+AZA HN1 HN1 H 0 1 N N N 30.360 28.283 35.815 1.306  -0.000 -2.424 HN1 AZA 12 
+AZA HN3 HN3 H 0 1 N N N 33.978 26.446 36.516 -2.362 0.008  -0.814 HN3 AZA 13 
+AZA HN9 HN9 H 0 1 N N N 34.255 25.262 38.831 -2.391 -0.001 2.039  HN9 AZA 14 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+AZA N1 C2  SING Y N 1  
+AZA N1 C6  SING Y N 2  
+AZA N1 HN1 SING N N 3  
+AZA C2 O2  DOUB N N 4  
+AZA C2 N3  SING Y N 5  
+AZA N3 C4  SING Y N 6  
+AZA N3 HN3 SING N N 7  
+AZA C4 C5  DOUB Y N 8  
+AZA C4 N9  SING Y N 9  
+AZA C5 C6  SING Y N 10 
+AZA C5 N7  SING Y N 11 
+AZA C6 O6  DOUB N N 12 
+AZA N7 N8  DOUB Y N 13 
+AZA N8 N9  SING Y N 14 
+AZA N9 HN9 SING N N 15 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+AZA SMILES           ACDLabs              10.04 "O=C2Nc1nnnc1C(=O)N2"                                                  
+AZA SMILES_CANONICAL CACTVS               3.341 "O=C1NC(=O)c2nn[nH]c2N1"                                               
+AZA SMILES           CACTVS               3.341 "O=C1NC(=O)c2nn[nH]c2N1"                                               
+AZA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c12c([nH]nn1)NC(=O)NC2=O"                                             
+AZA SMILES           "OpenEye OEToolkits" 1.5.0 "c12c([nH]nn1)NC(=O)NC2=O"                                             
+AZA InChI            InChI                1.03  "InChI=1S/C4H3N5O2/c10-3-1-2(8-9-7-1)5-4(11)6-3/h(H3,5,6,7,8,9,10,11)" 
+AZA InChIKey         InChI                1.03  KVGVQTOQSNJTJI-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+AZA "SYSTEMATIC NAME" ACDLabs              10.04 "3H-[1,2,3]triazolo[4,5-d]pyrimidine-5,7(4H,6H)-dione"   
+AZA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "3,4-dihydro-[1,2,3]triazolo[4,5-e]pyrimidine-5,7-dione" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+AZA "Create component"  1999-07-08 RCSB 
+AZA "Modify descriptor" 2011-06-04 RCSB 
+# 

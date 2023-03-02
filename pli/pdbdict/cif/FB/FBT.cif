@@ -1,0 +1,121 @@
+data_FBT
+# 
+_chem_comp.id                                    FBT 
+_chem_comp.name                                  2,6-DIFLUOROBENZENESULFONAMIDE 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C6 H5 F2 N O2 S" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2001-04-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        193.171 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     FBT 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1IF5 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+FBT C01  C01  C 0 1 Y N N -4.667 4.419  14.541 -0.000 -0.078 -3.036 C01  FBT 1  
+FBT C02  C02  C 0 1 Y N N -3.743 3.340  14.750 -1.197 -0.047 -2.346 C02  FBT 2  
+FBT C03  C03  C 0 1 Y N N -4.144 2.178  15.481 -1.198 0.009  -0.963 C03  FBT 3  
+FBT C04  C04  C 0 1 Y N N -5.496 2.068  16.026 0.000  0.036  -0.271 C04  FBT 4  
+FBT C05  C05  C 0 1 Y N N -6.391 3.175  15.795 1.198  0.012  -0.963 C05  FBT 5  
+FBT C06  C06  C 0 1 Y N N -5.976 4.328  15.062 1.197  -0.051 -2.347 C06  FBT 6  
+FBT S07  S07  S 0 1 N N N -5.994 0.796  16.859 0.000  0.109  1.489  S07  FBT 7  
+FBT O08  O08  O 0 1 N N N -5.340 0.803  18.154 -1.261 0.652  1.853  O08  FBT 8  
+FBT O09  O09  O 0 1 N N N -7.386 0.870  17.062 1.263  0.649  1.852  O09  FBT 9  
+FBT NP0  NP0  N 0 1 N N N -5.694 -0.472 16.194 -0.001 -1.448 2.049  NP0  FBT 10 
+FBT F11  F11  F 0 1 N N N -3.255 1.160  15.674 -2.368 0.038  -0.289 F11  FBT 11 
+FBT F12  F12  F 0 1 N N N -7.661 3.133  16.286 2.368  0.038  -0.289 F12  FBT 12 
+FBT HC1  HC1  H 0 1 N N N -4.370 5.320  13.978 -0.000 -0.123 -4.115 HC1  FBT 13 
+FBT HC2  HC2  H 0 1 N N N -2.718 3.404  14.346 -2.132 -0.069 -2.886 HC2  FBT 14 
+FBT HC6  HC6  H 0 1 N N N -6.678 5.162  14.895 2.131  -0.075 -2.887 HC6  FBT 15 
+FBT HN01 1HN0 H 0 0 N N N -6.011 -1.282 16.725 -0.001 -1.620 3.004  HN01 FBT 16 
+FBT HN02 2HN0 H 0 0 N N N -4.699 -0.544 15.977 -0.006 -2.189 1.423  HN02 FBT 17 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+FBT C01 C02  DOUB Y N 1  
+FBT C01 C06  SING Y N 2  
+FBT C01 HC1  SING N N 3  
+FBT C02 C03  SING Y N 4  
+FBT C02 HC2  SING N N 5  
+FBT C03 C04  DOUB Y N 6  
+FBT C03 F11  SING N N 7  
+FBT C04 C05  SING Y N 8  
+FBT C04 S07  SING N N 9  
+FBT C05 C06  DOUB Y N 10 
+FBT C05 F12  SING N N 11 
+FBT C06 HC6  SING N N 12 
+FBT S07 O08  DOUB N N 13 
+FBT S07 O09  DOUB N N 14 
+FBT S07 NP0  SING N N 15 
+FBT NP0 HN01 SING N N 16 
+FBT NP0 HN02 SING N N 17 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+FBT SMILES           ACDLabs              10.04 "O=S(=O)(c1c(F)cccc1F)N"                                               
+FBT SMILES_CANONICAL CACTVS               3.341 "N[S](=O)(=O)c1c(F)cccc1F"                                             
+FBT SMILES           CACTVS               3.341 "N[S](=O)(=O)c1c(F)cccc1F"                                             
+FBT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)F)S(=O)(=O)N)F"                                           
+FBT SMILES           "OpenEye OEToolkits" 1.5.0 "c1cc(c(c(c1)F)S(=O)(=O)N)F"                                           
+FBT InChI            InChI                1.03  "InChI=1S/C6H5F2NO2S/c7-4-2-1-3-5(8)6(4)12(9,10)11/h1-3H,(H2,9,10,11)" 
+FBT InChIKey         InChI                1.03  RVVVGGCOFWWDEL-UHFFFAOYSA-N                                            
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+FBT "SYSTEMATIC NAME" ACDLabs              10.04 2,6-difluorobenzenesulfonamide 
+FBT "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 2,6-difluorobenzenesulfonamide 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+FBT "Create component"  2001-04-16 RCSB 
+FBT "Modify descriptor" 2011-06-04 RCSB 
+# 

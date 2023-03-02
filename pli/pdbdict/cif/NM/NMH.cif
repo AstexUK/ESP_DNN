@@ -1,0 +1,140 @@
+data_NMH
+# 
+_chem_comp.id                                    NMH 
+_chem_comp.name                                  "(R)-N-(1-METHYL-HEXYL)-FORMAMIDE" 
+_chem_comp.type                                  NON-POLYMER 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C8 H17 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2003-04-16 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        143.227 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     NMH 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        ? 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        1P1R 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+NMH C7    C7   C 0 1 N N N 17.202 6.355  14.540 0.296  0.067  4.790  C7    NMH 1  
+NMH C6    C6   C 0 1 N N N 18.453 5.614  14.094 0.757  -0.157 3.349  C6    NMH 2  
+NMH C5    C5   C 0 1 N N N 18.206 4.731  12.863 -0.426 0.035  2.399  C5    NMH 3  
+NMH C4    C4   C 0 1 N N N 19.337 3.741  12.603 0.035  -0.189 0.957  C4    NMH 4  
+NMH C3    C3   C 0 1 N N N 18.759 2.513  11.916 -1.148 0.003  0.007  C3    NMH 5  
+NMH C2    C2   C 0 1 N N R 19.745 1.417  11.520 -0.687 -0.221 -1.433 C2    NMH 6  
+NMH C1    C1   C 0 1 N N N 20.370 0.789  12.745 -1.871 -0.028 -2.383 C1    NMH 7  
+NMH N     N    N 0 1 N N N 19.036 0.375  10.791 0.365  0.741  -1.764 N     NMH 8  
+NMH C     C    C 0 1 N N N 19.488 -0.295 9.737  1.320  0.415  -2.658 C     NMH 9  
+NMH O     O    O 0 1 N N N 20.551 -0.054 9.190  1.307  -0.675 -3.188 O     NMH 10 
+NMH HC71  1HC7 H 0 0 N N N 17.381 6.996  15.434 1.139  -0.069 5.467  HC71  NMH 11 
+NMH HC72  2HC7 H 0 0 N N N 16.766 6.947  13.702 -0.091 1.080  4.894  HC72  NMH 12 
+NMH HC73  3HC7 H 0 0 N N N 16.358 5.647  14.716 -0.487 -0.649 5.037  HC73  NMH 13 
+NMH HC61  1HC6 H 0 0 N N N 19.296 6.321  13.917 1.541  0.559  3.103  HC61  NMH 14 
+NMH HC62  2HC6 H 0 0 N N N 18.888 5.021  14.932 1.145  -1.170 3.245  HC62  NMH 15 
+NMH HC51  1HC5 H 0 0 N N N 17.226 4.204  12.941 -1.210 -0.681 2.645  HC51  NMH 16 
+NMH HC52  2HC5 H 0 0 N N N 18.006 5.353  11.959 -0.814 1.048  2.503  HC52  NMH 17 
+NMH HC41  1HC4 H 0 0 N N N 20.178 4.194  12.029 0.818  0.527  0.711  HC41  NMH 18 
+NMH HC42  2HC4 H 0 0 N N N 19.902 3.485  13.529 0.423  -1.202 0.854  HC42  NMH 19 
+NMH HC31  1HC3 H 0 0 N N N 17.951 2.077  12.548 -1.932 -0.713 0.254  HC31  NMH 20 
+NMH HC32  2HC3 H 0 0 N N N 18.172 2.827  11.021 -1.536 1.016  0.111  HC32  NMH 21 
+NMH HC2   HC2  H 0 1 N N N 20.542 1.874  10.889 -0.299 -1.234 -1.537 HC2   NMH 22 
+NMH HC11  1HC1 H 0 0 N N N 21.090 -0.011 12.455 -2.259 0.984  -2.280 HC11  NMH 23 
+NMH HC12  2HC1 H 0 0 N N N 20.845 1.553  13.403 -1.542 -0.188 -3.410 HC12  NMH 24 
+NMH HC13  3HC1 H 0 0 N N N 19.597 0.412  13.455 -2.655 -0.745 -2.137 HC13  NMH 25 
+NMH "HN'" HN*  H 0 1 N N N 18.097 0.074  11.053 0.376  1.614  -1.340 "HN'" NMH 26 
+NMH "HC'" HC*  H 0 1 N N N 18.930 -1.126 9.274  2.097  1.125  -2.902 "HC'" NMH 27 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+NMH C7 C6    SING N N 1  
+NMH C7 HC71  SING N N 2  
+NMH C7 HC72  SING N N 3  
+NMH C7 HC73  SING N N 4  
+NMH C6 C5    SING N N 5  
+NMH C6 HC61  SING N N 6  
+NMH C6 HC62  SING N N 7  
+NMH C5 C4    SING N N 8  
+NMH C5 HC51  SING N N 9  
+NMH C5 HC52  SING N N 10 
+NMH C4 C3    SING N N 11 
+NMH C4 HC41  SING N N 12 
+NMH C4 HC42  SING N N 13 
+NMH C3 C2    SING N N 14 
+NMH C3 HC31  SING N N 15 
+NMH C3 HC32  SING N N 16 
+NMH C2 C1    SING N N 17 
+NMH C2 N     SING N N 18 
+NMH C2 HC2   SING N N 19 
+NMH C1 HC11  SING N N 20 
+NMH C1 HC12  SING N N 21 
+NMH C1 HC13  SING N N 22 
+NMH N  C     SING N N 23 
+NMH N  "HN'" SING N N 24 
+NMH C  O     DOUB N N 25 
+NMH C  "HC'" SING N N 26 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+NMH SMILES           ACDLabs              10.04 "O=CNC(CCCCC)C"                                                               
+NMH SMILES_CANONICAL CACTVS               3.341 "CCCCC[C@@H](C)NC=O"                                                          
+NMH SMILES           CACTVS               3.341 "CCCCC[CH](C)NC=O"                                                            
+NMH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "CCCCC[C@@H](C)NC=O"                                                          
+NMH SMILES           "OpenEye OEToolkits" 1.5.0 "CCCCCC(C)NC=O"                                                               
+NMH InChI            InChI                1.03  "InChI=1S/C8H17NO/c1-3-4-5-6-8(2)9-7-10/h7-8H,3-6H2,1-2H3,(H,9,10)/t8-/m1/s1" 
+NMH InChIKey         InChI                1.03  GFVRKPKAQHTAQK-MRVPVSSYSA-N                                                   
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+NMH "SYSTEMATIC NAME" ACDLabs              10.04 "N-[(1R)-1-methylhexyl]formamide" 
+NMH "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.5.0 "N-[(2R)-heptan-2-yl]methanamide" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+NMH "Create component"  2003-04-16 RCSB 
+NMH "Modify descriptor" 2011-06-04 RCSB 
+# 

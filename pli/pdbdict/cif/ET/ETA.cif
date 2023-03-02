@@ -1,0 +1,108 @@
+data_ETA
+# 
+_chem_comp.id                                    ETA 
+_chem_comp.name                                  ETHANOLAMINE 
+_chem_comp.type                                  "L-peptide COOH carboxy terminus" 
+_chem_comp.pdbx_type                             ATOMP 
+_chem_comp.formula                               "C2 H7 N O" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     1999-07-08 
+_chem_comp.pdbx_modified_date                    2011-06-04 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        61.083 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     ETA 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        ? 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  RCSB 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+ETA CA  CA  C 0 1 N N N -12.690 2.113 24.488 -0.711 0.612  -0.308 CA  ETA 1  
+ETA N   N   N 0 1 N N N -12.852 1.252 23.311 -1.468 -0.574 0.114  N   ETA 2  
+ETA CB  CB  C 0 1 N N N -13.061 3.561 24.312 0.681  0.581  0.327  CB  ETA 3  
+ETA O   O   O 0 1 N N N -14.518 3.634 24.649 1.412  -0.536 -0.184 O   ETA 4  
+ETA HA1 HA1 H 0 1 N N N -13.334 1.705 25.281 -0.615 0.615  -1.394 HA1 ETA 5  
+ETA HA2 HA2 H 0 1 N N N -11.628 2.081 24.772 -1.236 1.511  0.013  HA2 ETA 6  
+ETA HN1 HN1 H 0 1 N N N -12.578 0.318 23.540 -1.515 -0.634 1.120  HN1 ETA 7  
+ETA HN2 HN2 H 0 1 N N N -13.810 1.257 23.024 -2.392 -0.577 -0.293 HN2 ETA 8  
+ETA HB1 HB1 H 0 1 N N N -12.470 4.203 24.982 1.211  1.502  0.086  HB1 ETA 9  
+ETA HB2 HB2 H 0 1 N N N -12.879 3.891 23.278 0.585  0.488  1.408  HB2 ETA 10 
+ETA HO  HO  H 0 1 N N N -14.820 4.530 24.558 2.306  -0.619 0.176  HO  ETA 11 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+ETA CA N   SING N N 1  
+ETA CA CB  SING N N 2  
+ETA CA HA1 SING N N 3  
+ETA CA HA2 SING N N 4  
+ETA N  HN1 SING N N 5  
+ETA N  HN2 SING N N 6  
+ETA CB O   SING N N 7  
+ETA CB HB1 SING N N 8  
+ETA CB HB2 SING N N 9  
+ETA O  HO  SING N N 10 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+ETA SMILES           ACDLabs              12.01 OCCN                               
+ETA SMILES_CANONICAL CACTVS               3.370 NCCO                               
+ETA SMILES           CACTVS               3.370 NCCO                               
+ETA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "C(CO)N"                           
+ETA SMILES           "OpenEye OEToolkits" 1.7.0 "C(CO)N"                           
+ETA InChI            InChI                1.03  InChI=1S/C2H7NO/c3-1-2-4/h4H,1-3H2 
+ETA InChIKey         InChI                1.03  HZAXFHJVJLSVMW-UHFFFAOYSA-N        
+# 
+loop_
+_pdbx_chem_comp_identifier.comp_id 
+_pdbx_chem_comp_identifier.type 
+_pdbx_chem_comp_identifier.program 
+_pdbx_chem_comp_identifier.program_version 
+_pdbx_chem_comp_identifier.identifier 
+ETA "SYSTEMATIC NAME" ACDLabs              12.01 2-aminoethanol  
+ETA "SYSTEMATIC NAME" "OpenEye OEToolkits" 1.7.0 2-azanylethanol 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+ETA "Create component"  1999-07-08 RCSB 
+ETA "Modify descriptor" 2011-06-04 RCSB 
+# 
