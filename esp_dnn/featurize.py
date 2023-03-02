@@ -16,23 +16,20 @@ from __future__ import absolute_import
 
 from argparse import ArgumentParser
 import logging
-import os
 
 import numpy as np
+from esp_dnn.atom_features import AtomFeatures
 from rdkit import Chem
 import xarray as xr
 
-from .atom_features import ATOM_FEATURES
-
-SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 log = logging.getLogger(__name__)
 
 
 class Featurize(object):
-    def __init__(self, smiles_file=None,
+    def __init__(self, features_file,
+                 periodic_table,
+                 smiles_file=None,
                  id_smiles=None,
-                 features_file=os.path.join(
-                     SCRIPT_PATH, "data", "feature_list.dat"),
                  max_hac=None,
                  pad_value=np.nan):
         self.smiles_file = smiles_file
@@ -42,6 +39,8 @@ class Featurize(object):
         self.features = self.__get_feature_list()
         self.n_features = len(self.features)
         self.pad_value = pad_value
+        af = AtomFeatures(periodic_table=periodic_table)
+        self.atom_features = af.get_atom_features()
 
     def process(self):
         if self.id_smiles is None:
@@ -67,7 +66,7 @@ class Featurize(object):
         for atom in mol.GetAtoms():
             atom_id = atom.GetIdx()
             for feature_id, f in enumerate(self.features):
-                feature_array[atom_id, feature_id] = ATOM_FEATURES[f](atom)
+                feature_array[atom_id, feature_id] = self.atom_features[f](atom)
             for neigh_id in [n.GetIdx() for n in atom.GetNeighbors()]:
                 neighbor_array[atom_id][neigh_id] = 1.0
 
@@ -82,7 +81,7 @@ class Featurize(object):
             for line in f:
                 tokens = line.strip().split(",")
                 if len(tokens) != 2:
-                    log.warn("Malformed line: %s" % line)
+                    log.warning("Malformed line: %s" % line)
                     continue
                 id_smiles.append((tokens[0].strip(), tokens[1].strip()))
         return id_smiles
@@ -117,31 +116,27 @@ class Featurize(object):
                     })
 
         if len(invalid_ids):
-            log.warn("%d invalid smiles found" % len(invalid_ids))
+            log.warning("%d invalid smiles found" % len(invalid_ids))
 
         return ds
-
-
-def main():
+if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("-i", "--input_file",
                         help="Input smiles file (a comma-separated file "
-                        "containing molecule id and smiles)")
+                             "containing molecule id and smiles)")
     parser.add_argument("-f", "--features_file",
                         help="file containing list of features",
-                        default=os.path.join(SCRIPT_PATH, "feature_list.dat"))
+                        default="data/feature_list.dat")
     parser.add_argument("--max_hac",
                         help="Maximum heavy atom count. feature matrices will "
-                        "have these many atoms", type=int)
+                             "have these many atoms", type=int)
     parser.add_argument("-o", "--output_file",
                         help="Input smiles file (a comma-separated file "
-                        "containing molecule id and smiles)")
+                             "containing molecule id and smiles)")
+    parser.add_argument("--periodic-table", default="data/atom_data.csv")
     args = parser.parse_args()
-    f = Featurize(args.input_file,
-                  features_file=args.features_file, max_hac=args.max_hac)
+    f = Featurize(smiles_file=args.input_file,
+                  features_file=args.features_file, max_hac=args.max_hac,
+                  periodic_table=args.periodic_table)
     f.process()
     f.export(args.output_file)
-
-
-if __name__ == "__main__":
-    main()

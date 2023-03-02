@@ -1,21 +1,8 @@
-# Copyright 2019 Astex Therapeutics Ltd.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#    http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
-from __future__ import absolute_import
-
 import numpy as np
 import pickle
+
+from rdkit import Chem
+from rdkit.Chem import Mol, AllChem
 
 
 def normalize(a, skip_norm_mask=None, params_pickle=None, params_dict=None):
@@ -45,27 +32,8 @@ def normalize(a, skip_norm_mask=None, params_pickle=None, params_dict=None):
 
     return np.reshape((a_2d - mean) / std, a.shape), mean, std
 
-
-def ds_to_data(ds, normalize_x=True, norm_params_infile=None,
-               norm_param_outfile=None):
-    """ Converts xarray dataset to numpy arrays """
-    x = ds.X.values
-
-    train_mask = ds.train.values | ds.valid.values
-
-    if normalize_x:
-        skip_norm_mask = np.array([v.startswith("is_")
-                                   for v in ds.feature.values])
-        x, mean, std = normalize(
-            x, skip_norm_mask=skip_norm_mask, params_pickle=norm_params_infile)
-        if norm_param_outfile:
-            with open(norm_param_outfile, "wb") as f:
-                pickle.dump(dict(mean=mean, std=std), f)
-    x[np.isnan(x)] = 0.0
-
-    y = ds.Y.values
-
-    d = ds.D.values
-    d[np.isnan(d)] = 0.0
-
-    return x, d, y, train_mask
+def smiles_3DMol(smi:str) -> Mol:
+  mol = Chem.AddHs(Chem.MolFromSmiles(smi))
+  AllChem.EmbedMolecule(mol)
+  AllChem.MMFFOptimizeMolecule(mol)
+  return mol

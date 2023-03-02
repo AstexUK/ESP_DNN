@@ -17,13 +17,14 @@ from __future__ import absolute_import
 from keras import activations, initializers, regularizers, constraints
 from keras import backend as K
 from keras.constraints import min_max_norm
-from keras.engine.topology import Layer, InputSpec
 import tensorflow as tf
+from keras.engine.base_layer import Layer
+from keras.engine.input_spec import InputSpec
 
 
 class PrintLayerInput(Layer):
     def call(self, inputs):
-        inputs = tf.Print(inputs, data=[inputs],
+        inputs = tf.compat.v1.Print(inputs, data=[inputs],
                           message="layer inputs: ", summarize=100)
         return inputs
 
@@ -51,7 +52,7 @@ class GraphConv(Layer):
 
         allowed_conv_wts = ("all", "single")
         if conv_wts not in allowed_conv_wts:
-            raise ValueError("conv_wt should be one of %r" % allowed_conv_wts)
+            raise ValueError("conv_wt should be one of "+ str(allowed_conv_wts))
 
         super(GraphConv, self).__init__(**kwargs)
 
@@ -74,7 +75,7 @@ class GraphConv(Layer):
         # number of atom props * output width
         kernel_shape = (X_shape[-1], self.width)
 
-        # atom (self) weights
+        # atom (mcp) weights
         self.kernel_dense = self.add_weight(shape=kernel_shape,
                                             initializer=self.kernel_initializer,
                                             name="dense_kernel",
